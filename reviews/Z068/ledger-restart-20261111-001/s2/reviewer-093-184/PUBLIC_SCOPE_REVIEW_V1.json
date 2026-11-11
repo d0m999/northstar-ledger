@@ -1,0 +1,100 @@
+{
+  "scope": "Public disclosure and exact selection check only; not semantic re-review",
+  "source": "Z068",
+  "ordinals": [
+    93,
+    184
+  ],
+  "counts": {
+    "units": 92,
+    "prior_full_review_reused": 5,
+    "new_full_read": 87,
+    "patches_reviewed": 44,
+    "uncertainties_reviewed": 139,
+    "new_source_findings": 5,
+    "blocking_findings": 0,
+    "filtered_units": 0
+  },
+  "review_origins": {
+    "prior_full_non_author_review": 5,
+    "new_full_non_author_review": 87
+  },
+  "files": [
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_093_097_v1.jsonl",
+      "bytes": 9650,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2",
+      "git_blob": "65e337a155387ac0b78ca83fac6e10800fb96a85"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_098_102_v1.jsonl",
+      "bytes": 7498,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81",
+      "git_blob": "641535a16c046f1ae79deaa3b90ff9ae6fa23ce2"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_103_107_v1.jsonl",
+      "bytes": 8209,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a",
+      "git_blob": "e9a5464a3339d0fc158e91a81be74e4c305ed486"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_108_117_v1.jsonl",
+      "bytes": 15291,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9",
+      "git_blob": "d2f56f0e3c0671bddef92333e15ac4b9c9cdc12a"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_118_127_v1.jsonl",
+      "bytes": 16187,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3",
+      "git_blob": "a651c92fded24fb6b6ae1096f67b0f125a90edc3"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_128_137_v1.jsonl",
+      "bytes": 18320,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d",
+      "git_blob": "6b293cc405b3c57d8b3a895edeac2c9e2d81fd8e"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_138_147_v1.jsonl",
+      "bytes": 17306,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756",
+      "git_blob": "89070316f7740800c3ce0ac643a113443224261b"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_148_157_v1.jsonl",
+      "bytes": 17308,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d",
+      "git_blob": "f8a73412b63989d5e7d244ec95c7d95630989fe4"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_158_167_v1.jsonl",
+      "bytes": 17326,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04",
+      "git_blob": "10c31ea06e93488c49d3ae3effdb66b3f4e269e9"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_168_177_v1.jsonl",
+      "bytes": 17796,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9",
+      "git_blob": "e1079c7e7df977e0b87d5331839e8c09a3bfd37d"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/review_178_184_v1.jsonl",
+      "bytes": 11808,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240",
+      "git_blob": "7029b6105b1398f54c82bb133444fd84db3c25ed"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-093-184/SELECTION_093_184_V1.json",
+      "bytes": 22470,
+      "sha256": "a641364b141fcf7b613cdf625c18e0b4794048cf5cd2dfe79389676175e1ad23",
+      "git_blob": "f9ee662ca7b67eddf9c7002484b86cc598e5648f"
+    }
+  ],
+  "public_scope_pass": true,
+  "whole_source_acceptance": false,
+  "formal_S2_pass_claim": false,
+  "limits": "Original review roles and prior-review reuse are retained. No raw source, original labels, rule bodies, private paths, credentials or whole before/after text are published. Five nonblocking findings remain findings; no formal files changed."
+}
