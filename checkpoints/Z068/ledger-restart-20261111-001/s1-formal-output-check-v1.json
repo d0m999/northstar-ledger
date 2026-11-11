@@ -1,0 +1,59 @@
+{
+  "source_id": "ziwei_068",
+  "restart_id": "z068_ledger_restart_20261111_v001",
+  "stage": "S1_clean",
+  "status": "needs_review",
+  "semantic_acceptance": false,
+  "full_S2_review_completed": false,
+  "counts": {
+    "units": 276,
+    "patches": 85,
+    "changed_units": 65,
+    "unresolved": 527,
+    "filtered": 0
+  },
+  "outputs": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_068.jsonl",
+      "bytes": 539269,
+      "sha256": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e"
+    },
+    {
+      "path": "reports/ziwei_068/S1_text_treatment.json",
+      "bytes": 2564502,
+      "sha256": "bd902afb901e4ae14b1079cbf4e6a55e554142f7b1d37b61b583ac21f627330c"
+    },
+    {
+      "path": "reports/ziwei_068/S1_table.json",
+      "bytes": 139944,
+      "sha256": "dd0872253430a6adc365f309f684c014661ee8afd4f2acbb2f9e32f9519ec9bd"
+    },
+    {
+      "path": "reports/ziwei_068/S1_punctuation.json",
+      "bytes": 165298,
+      "sha256": "8352a5d8ed87ef670d97a0a68f981a5fd0fdc1aa5ee044c12cfeb0ae65290341"
+    },
+    {
+      "path": "reports/ziwei_068/S1_semantic.json",
+      "bytes": 845404,
+      "sha256": "d9a3b1d38f03a2dc9fac03b5573f4863cf67d327200270f1c3099b3d6a68915b"
+    }
+  ],
+  "status_pin": {
+    "path": "status.json",
+    "bytes": 572213,
+    "sha256": "574e4be13b20cff86fae0506323ce4c99770a69699d2eb3a2a86c3d935d0fb6f"
+  },
+  "archive_pin": {
+    "path": "history/pre_s1_manual_completion/status.json",
+    "bytes": 570227,
+    "sha256": "c3a251eb5e50a5fc8883af8f024fbea43e2e3b462b3ef599d6b2225beeecdeb4"
+  },
+  "independent_checks": [
+    "Complete276 byte replay and four full report trees/bytes matched.",
+    "All authors and three substeps retained; original uncertainties retained.",
+    "Only planned S1status changed; original status archived;95 other controls unchanged.",
+    "All27journal events complete, status last, six temporaries absent."
+  ],
+  "recovery_boundary": "Requires separately authorized fixed source/rules and published selected human decisions; this metadata alone contains no source body. Relocated reports/status need not reproduce original bytes."
+}
