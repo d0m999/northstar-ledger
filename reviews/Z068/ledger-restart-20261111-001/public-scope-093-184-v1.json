@@ -1,0 +1,99 @@
+{
+  "source_id": "ziwei_068",
+  "review_kind": "public-content-scope-and-replay-only",
+  "result": "PASS_PUBLIC_SCOPE_NOT_S2",
+  "selection": {
+    "path": "preparation/s1_manual/author_093_184/selection_093_184_v1.json",
+    "bytes": 26201,
+    "sha256": "88d42a27fd742dd3a4462cafd951c7bd9346ffaddf269a92e239edafcb4768ed",
+    "git_blob": "2b06aa95f1c86edb90f12e064d98a83e6c66271f"
+  },
+  "selected_files": [
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_093_097_v1.jsonl",
+      "bytes": 8155,
+      "sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "git_blob": "23ced5a3d3fd16b97feeaa36226f4ab738f56471"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_098_107_v2.jsonl",
+      "bytes": 14903,
+      "sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "git_blob": "0c8f9c81bccafb9a995fadf3a2395b34f416c539"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_108_117_v2.jsonl",
+      "bytes": 14325,
+      "sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "git_blob": "ee714e45900ee70dec99c2d76869a14f241fb25e"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_118_127_v1.jsonl",
+      "bytes": 15799,
+      "sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "git_blob": "3cc60ab19cdfecf369f8d9fd871f84643fc6a43b"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_128_137_v1.jsonl",
+      "bytes": 18002,
+      "sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "git_blob": "f9d50980e4ceb119a5bada524ebc2c265d6ebe77"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_138_147_v1.jsonl",
+      "bytes": 17719,
+      "sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "git_blob": "830c38ac46334d99814992839e4a7c3bcffd70db"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_148_157_v1.jsonl",
+      "bytes": 17684,
+      "sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "git_blob": "fd8e713aa13b8d7001d78b8c264665c671a2ca31"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_158_167_v1.jsonl",
+      "bytes": 17438,
+      "sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "git_blob": "cbd707412383078b18733a3676831da06962fdbc"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_168_177_v1.jsonl",
+      "bytes": 18479,
+      "sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "git_blob": "6afff652e40f75d6e83db61c45f26705760c8147"
+    },
+    {
+      "path": "preparation/s1_manual/author_093_184/batch_178_184_v1.jsonl",
+      "bytes": 11589,
+      "sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "git_blob": "bfe36c18a83fc1c3d32ce71fee1a8fda15a1ee16"
+    }
+  ],
+  "counts": {
+    "units": 92,
+    "patches": 44,
+    "unresolved": 139,
+    "changed_units": 32,
+    "input_codepoints": 54602
+  },
+  "checks": {
+    "all_92_in_source_order_unique": true,
+    "all_selected_bytes_and_sha256_verified": true,
+    "git_blob_identifiers_computed_from_actual_bytes": true,
+    "all_proposal_content_read": true,
+    "no_source_paragraphs_rule_content_private_paths_credentials_or_prohibited_source_fields_found": true,
+    "new_after_max_codepoints": 1,
+    "all_44_replacements_or_deletions_are_actual_minimal_changes": true,
+    "safe_projection_replay_hashes_match_all_92": true,
+    "table_format_recorded_not_applicable_all_92": true
+  },
+  "limitations": [
+    "Not independent S2 semantic review; patch correctness and uncertainty completeness remain unaccepted.",
+    "Table applicability is a recorded outcome, not a fresh semantic verification.",
+    "No original annotated source, old labels, baseline or other source opened.",
+    "No formal writes or upload performed.",
+    "First selected batch 093-097 was reported already uploaded by coordinator; this review does not reconfirm remote state and does not request duplicate upload.",
+    "Scope applies only to exact selected bytes; later revisions require delta review."
+  ]
+}
