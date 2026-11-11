@@ -1,0 +1,137 @@
+{
+  "review_type": "independent_public_scope_preparation_only",
+  "reviewer_role": "S1_B_author_reviewing_C_public_boundary",
+  "source_id": "ziwei_068",
+  "scope": [
+    185,
+    276
+  ],
+  "outcome": "PASS_PUBLIC_SCOPE_ONLY",
+  "selection_and_selected_file_pins": [
+    {
+      "file": "SELECTION_185_276_V1.json",
+      "bytes": 26620,
+      "sha256": "882c75075f753f8a2b4657312a3b8aec2c67606f26be4b6f3bd5d8f4edba2dee",
+      "git_blob_sha1": "cf2940dbedc5ba51da3c7ec474a96ee44bf73efb"
+    },
+    {
+      "file": "proposal_185_189_v3.jsonl",
+      "bytes": 8335,
+      "sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "git_blob_sha1": "6673ad9039c5616b6eb9a22a521ebf27397896b5"
+    },
+    {
+      "file": "proposal_190_199_v2.jsonl",
+      "bytes": 16744,
+      "sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "git_blob_sha1": "5c7321d925471ab0f15518c688a05eacf1600226"
+    },
+    {
+      "file": "proposal_200_209_v2.jsonl",
+      "bytes": 16916,
+      "sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "git_blob_sha1": "0f114f9ab78202e92f1902e72b9b6c23ec9a3613"
+    },
+    {
+      "file": "proposal_210_219_v2.jsonl",
+      "bytes": 16431,
+      "sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "git_blob_sha1": "d37ff4146f7cd24f371c3776ed69b99edb64dc14"
+    },
+    {
+      "file": "proposal_220_229_v2.jsonl",
+      "bytes": 13602,
+      "sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "git_blob_sha1": "d552d3ec82bf7ff9dc24f17f90b1b7889e905073"
+    },
+    {
+      "file": "proposal_230_239_v2.jsonl",
+      "bytes": 16915,
+      "sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "git_blob_sha1": "dd870e5a37860c7b38b50564b98f5ec945b3c7a1"
+    },
+    {
+      "file": "proposal_240_249_v1.jsonl",
+      "bytes": 15208,
+      "sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "git_blob_sha1": "153bd1f35136790fc6b248bf9c0eee13040b2011"
+    },
+    {
+      "file": "proposal_250_259_v1.jsonl",
+      "bytes": 19198,
+      "sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "git_blob_sha1": "573dc18f29e16eb4fd19cac813f1ad8742a3497c"
+    },
+    {
+      "file": "proposal_260_269_v1.jsonl",
+      "bytes": 17306,
+      "sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "git_blob_sha1": "d8259da6381558a5becee4bf91c6d498ffd7b50f"
+    },
+    {
+      "file": "proposal_270_276_v1.jsonl",
+      "bytes": 11219,
+      "sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "git_blob_sha1": "e2f658a3d0ff17c08da07e69732b43d7945cd507"
+    }
+  ],
+  "verified_counts": {
+    "units": 92,
+    "patches": 34,
+    "unresolved": 206,
+    "changed_units": 26,
+    "filtered_units": 0
+  },
+  "actual_review": {
+    "all_selected_records_and_selection_read": true,
+    "selection_coverage_exactly_once": true,
+    "selection_file_sha256_and_byte_sizes_verified": true,
+    "git_blob_sha1_computed_from_actual_bytes": true,
+    "input_identity_and_unicode_spans_verified": true,
+    "recorded_full_read_spans_verified_not_recertified_as_semantic_read": true,
+    "all_patches_ordered_nonoverlapping_and_replayed": true,
+    "result_hashes_and_lengths_verified": true,
+    "patch_and_issue_links_verified": true,
+    "minimal_actual_changes_only": true,
+    "forbidden_body_fields_absent": true,
+    "private_paths_credentials_and_hidden_message_ids_absent": true,
+    "manually_read_reasons_are_review_explanations_not_source_passage_reproduction": true,
+    "source_overlap_scan_8_consecutive_codepoints_in_reason_and_use_restriction_matches": 0,
+    "fixed_rule_overlap_scan_12_consecutive_codepoints_in_reason_and_use_restriction_matches": 0
+  },
+  "public_boundary": {
+    "allow_only_exact_pinned_selection_and_selected_proposal_records": true,
+    "first_batch_185_189": "Already published per coordinator. Retain pin as selection reference only; this review does not request duplicate publication.",
+    "new_candidate_files": [
+      "SELECTION_185_276_V1.json",
+      "proposal_190_199_v2.jsonl",
+      "proposal_200_209_v2.jsonl",
+      "proposal_210_219_v2.jsonl",
+      "proposal_220_229_v2.jsonl",
+      "proposal_230_239_v2.jsonl",
+      "proposal_240_249_v1.jsonl",
+      "proposal_250_259_v1.jsonl",
+      "proposal_260_269_v1.jsonl",
+      "proposal_270_276_v1.jsonl"
+    ],
+    "excluded": [
+      "unselected proposal revisions",
+      "producer helper scripts",
+      "bytecode caches",
+      "local-only mechanical evidence",
+      "source text or original spans reconstructed as strings",
+      "fixed rule bodies",
+      "formal stage output or status claims"
+    ],
+    "publication_performed": false
+  },
+  "review_limits": [
+    "No independent S2 semantic acceptance is asserted.",
+    "Recorded author read spans are mechanically verified, not a substitute for full independent source review.",
+    "No source text, initial annotated input, baseline labels, or fixed rules are authorized for publication by this report.",
+    "Git blob identifiers are byte-content hashes only, not evidence of upload or a remote commit."
+  ],
+  "blocking_public_scope_findings": [],
+  "author_files_changed": false,
+  "formal_output_or_status_written": false
+}
