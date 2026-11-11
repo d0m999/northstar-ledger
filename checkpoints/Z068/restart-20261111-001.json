@@ -1,0 +1,57 @@
+{
+  "schema": "northstar-ledger.checkpoint.v1",
+  "checkpoint_id": "Z068-20261111-ledger-bootstrap-001",
+  "created_at": "2026-11-11T15:52:48.683Z",
+  "source_id": "Z068",
+  "phase": "bootstrap_only",
+  "status": "awaiting_local_reconstruction",
+  "single_source": true,
+  "stages": {
+    "S0": "not_started_in_this_attempt",
+    "S1": "not_started_in_this_attempt",
+    "S2": "not_started_in_this_attempt",
+    "S3": "not_started_in_this_attempt",
+    "S4": "not_started_in_this_attempt",
+    "S5": "not_started_in_this_attempt",
+    "S6": "not_started_in_this_attempt",
+    "S7": "not_started_in_this_attempt"
+  },
+  "scope": {
+    "included": "Newly authored process notes, review records and checkpoint indexes.",
+    "excluded": [
+      "Source text copies",
+      "Frozen rule copies",
+      "Credentials and private account information",
+      "Previously rejected or held upload packages"
+    ],
+    "public_content_boundary": "This bootstrap contains references and new process metadata only. Public storage is not permission to disclose private source text embedded in later artifacts."
+  },
+  "references": {
+    "repository": "d0m999/Astrology_RAG",
+    "commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "rules_package": "data_processing/corpus_variants/dots/all-sources-2026-10-13/amendments/AB-v1",
+    "source_path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/inputs/ziwei/ziwei_068/data_processing/05_annotated/ziwei/紫云星曜初级班讲义_annotated.jsonl",
+    "expected_source": {
+      "bytes": 1030926,
+      "sha256": "ead834bb8543fc5628b99ed14c9231d980ee359fd82b29e6edba16a49ac49a59",
+      "git_blob": "733524d729c0d4b45dc48df4828148803b7ccefb",
+      "evidence": "Historical identity retained for recovery; must be reverified before this attempt consumes it."
+    }
+  },
+  "recovery": {
+    "prior_results_available_locally": false,
+    "prior_results_restored": false,
+    "prior_369_chunks_recovered": false,
+    "prior_results_note": "Earlier work is not carried forward as current acceptance evidence. This is a distinct restart.",
+    "next_steps": [
+      "Confirm this bootstrap commit and remote file identity.",
+      "Restore source and frozen rules locally from the exact commit; verify byte identities and required instructions.",
+      "Project only allowed source fields before human processing; do not expose old annotations.",
+      "Run the required stage preparation and independent review, preserving actual successes and failures.",
+      "Publish each eligible new checkpoint and confirm its remote commit before continuing."
+    ],
+    "completion": "A checkpoint is not whole-source acceptance. Final delivery requires completion and independent review of all required stages.",
+    "no_retry_boundary": "Do not move, rename, split or regenerate previously restricted material to evade a refusal. Stop any newly refused action and report its exact scope."
+  }
+}
+
