@@ -1,0 +1,47 @@
+{
+  "schema": "northstar-ledger.synthetic-test-review.v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-restart-20261111-001",
+  "scope": "S1 pure replay module synthetic tests, not actual corpus assembly",
+  "result": "PASS",
+  "tests": 8,
+  "exit_code": 0,
+  "started_at": "2026-11-11T16:46:14.087896+00:00",
+  "completed_at": "2026-11-11T16:46:14.217518+00:00",
+  "code_controls": [
+    {
+      "filename": "assemble_s1.py",
+      "bytes": 9976,
+      "sha256": "d67131a8dec6bf144e762fbf4ffff039a51090fe38c182f2bc500e81871c28b4"
+    },
+    {
+      "filename": "test_assemble_s1.py",
+      "bytes": 3805,
+      "sha256": "1c1ebfba6f0b83818a11b4d7e1c46f7812ef00002fbb2bf297a448a68fd5dadb"
+    }
+  ],
+  "verification": {
+    "approved_command_matched": true,
+    "saved_pre_post_controls_equal": true,
+    "live_code_controls_match": true,
+    "full_log_hashes_match": true,
+    "stderr_eight_tests_OK": true
+  },
+  "logs": [
+    {
+      "name": "stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "stderr.txt",
+      "bytes": 106,
+      "sha256": "e6b0816a4f65782b559ab0314abfb5a3aeac46bbcdb35d138daff401fd927d29"
+    }
+  ],
+  "resource_limit_evidence": "Execution intent records 60-second timeout with 5-second kill grace and 2GiB memory limit; no independent process tracing claimed.",
+  "independent_review_sha256": "6d3b758230cb07decd6e50be93f087a692ec68d70bd9fd3d3beb4c6cde30f232",
+  "actual_source_read_by_review": false,
+  "actual_assembly_approved": false,
+  "formal_or_semantic_acceptance": false
+}
