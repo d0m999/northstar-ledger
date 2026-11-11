@@ -1,0 +1,26 @@
+{
+  "source_id": "ziwei_068",
+  "scope": [
+    185,
+    276
+  ],
+  "actual_input_pins": {
+    "02_working_inputs/ziwei_068.jsonl": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee",
+    "03_cleaned/ziwei/ziwei_068.jsonl": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e",
+    "reports/ziwei_068/S1_text_treatment.json": "bd902afb901e4ae14b1079cbf4e6a55e554142f7b1d37b61b583ac21f627330c"
+  },
+  "selection_sha256": "bd1bb001dedce55057055c8822568cf368e4f2c0d7aecca414719df918fc3b3d",
+  "mechanical_checks": [
+    "92 identities unique complete original order",
+    "34 patch and206 uncertainty IDs exactly covered",
+    "all selected input clean proposal batch hashes match",
+    "all formal three-substeps equal selected author records",
+    "all formal change and uncertainty source spans match",
+    "all actual clean texts equal selected patch replay",
+    "all nontext fields unchanged and no filtering",
+    "87 declared full read spans and5 exact prior-review carryforwards",
+    "no private absolute paths in selected public-ready records"
+  ],
+  "result": "mechanical_pass_not_semantic_proof",
+  "whole_S2_pass": false
+}
