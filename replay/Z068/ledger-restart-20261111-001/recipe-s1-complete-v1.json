@@ -1,0 +1,122 @@
+{
+  "schema": "public_s1_recovery_recipe_v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-restart-20261111-001",
+  "scope": "New S1 output recovery from private source and published human decisions; not old Nov10 results or S2 acceptance.",
+  "root_semantics": "ROOT is a new local attempt directory; repository snapshot is ROOT/repository. No historical absolute root is disclosed.",
+  "selected_decisions": {
+    "repository": "d0m999/northstar-ledger",
+    "commit": "d52aa537b5095fc75e1173be0cc2a3a0f3a898c2",
+    "path": "checkpoints/Z068/ledger-restart-20261111-001/s1-complete-proposals-v1.json",
+    "bytes": 157883,
+    "sha256": "8ed3e30b82c0db4759361232300e7a05d00109280629a51a56dfc7552e11d5f1",
+    "git_blob": "1bc21c030c263f373eccc595ef423af413ec9a5a"
+  },
+  "selection_counts": {
+    "units": 276,
+    "selected_batches": 30,
+    "patches": 85,
+    "retained_uncertainties": 527,
+    "changed_units": 65,
+    "filtered_units": 0
+  },
+  "pure_replay": {
+    "repository": "d0m999/northstar-ledger",
+    "commit": "d52aa537b5095fc75e1173be0cc2a3a0f3a898c2",
+    "path": "replay/Z068/ledger-restart-20261111-001/assemble_s1.py",
+    "bytes": 9976,
+    "sha256": "d67131a8dec6bf144e762fbf4ffff039a51090fe38c182f2bc500e81871c28b4",
+    "git_blob": "d8c84b8e104d42df95b641076cfe1a121642f72d"
+  },
+  "private_dependency_references": [
+    {
+      "repository": "d0m999/northstar-ledger",
+      "commit": "649b702bd5459ab2800be6b551eaa05b8ba5e634",
+      "path": "checkpoints/Z068/ledger-restart-20261111-001/recovery-inputs-v1.json",
+      "bytes": 57563,
+      "sha256": "bf2696647f041f422f5a326bb3022c4fd5d8cc7a347606be6abb81f158a7a74d",
+      "git_blob": "e8a8cb3532e15f3306a7be0f3662fbc0ac479569"
+    },
+    {
+      "repository": "d0m999/northstar-ledger",
+      "commit": "649b702bd5459ab2800be6b551eaa05b8ba5e634",
+      "path": "checkpoints/Z068/ledger-restart-20261111-001/recovery-addendum-v1.json",
+      "bytes": 976,
+      "sha256": "e4f7d9e38c10d4fe6fd3deedc2858292f19d1884fd395ae9e077511e99f4964f",
+      "git_blob": "debbed32a4eb0b1e1f8b671be1564097508b2382"
+    }
+  ],
+  "private_source_repository": "d0m999/Astrology_RAG",
+  "private_source_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+  "private_dependency_count": 118,
+  "private_access_required": true,
+  "expected_input_02": {
+    "run_relative_path": "02_working_inputs/ziwei_068.jsonl",
+    "bytes": 539292,
+    "sha256": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee"
+  },
+  "expected_clean_03": {
+    "run_relative_path": "03_cleaned/ziwei/ziwei_068.jsonl",
+    "bytes": 539269,
+    "sha256": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e",
+    "evidence": "Actual writer output independently reconstructed and matched byte-for-byte; see actual_postcheck. This is not S2 semantic acceptance."
+  },
+  "writer_local_code_identity": {
+    "name": "write_s1_v2.py",
+    "bytes": 9046,
+    "sha256": "954ac8f4abe2a08974e0d65857497276376ab47f38d9546c526afc583e96c1bb",
+    "remote_location": {
+      "repository": "d0m999/northstar-ledger",
+      "commit": "df92d7e768ad9ea0521cdcc8f6f5c70b59ad13b9",
+      "path": "replay/Z068/ledger-restart-20261111-001/write_s1_v2.py"
+    }
+  },
+  "writer_synthetic_tests_identity": {
+    "name": "test_write_s1_v2.py",
+    "bytes": 3164,
+    "sha256": "a97997784080486d016dc8f6f155b5d2676dffa4b8266ec8883be524aeb352a1",
+    "methods": 5,
+    "saved_result": "PASS, not actual semantic acceptance",
+    "remote_location": {
+      "repository": "d0m999/northstar-ledger",
+      "commit": "c8b34183c9c565b79b11910f052770f0bcc11f5b",
+      "path": "replay/Z068/ledger-restart-20261111-001/test_write_s1_v2.py"
+    }
+  },
+  "restoration_steps": [
+    "Restore exact 118 private source/rule references through authorized access, preserving fixed commit identities; no raw or rule content is supplied publicly.",
+    "Use separately published S0 recipe/helper to reproduce exact five-field 02 in original order; verify expected_input_02. Reconstruct current input_units with correct original locators.",
+    "Resolve all 276 selected_units strictly through the pinned public selection and its exact 30 selected batch files, physical line, proposal identity and input/result hashes. Do not choose latest versions.",
+    "Load fixed private report template. Supply the pinned pure assemble function with 276 raw02 rows, input_units, exact selected records, and an honest new local context/readset. Source and result hashes enforce replay; no automatic edit or inference occurs.",
+    "Verify clean_bytes equals expected_clean_03. Reconstruct private before/excerpt evidence from original spans and retain all human substep decisions, original records and uncertainties in complete local reports.",
+    "Use a new run and the applicable independent preparation/review/publication gates before formal writes. New root, dependency paths or execution metadata may change report/status hashes. Never claim the old reports are byte-identical or that S2 already passed."
+  ],
+  "private_only_outputs": [
+    "03 cleaned source text",
+    "S1_text_treatment full report",
+    "S1_table full report",
+    "S1_punctuation full report",
+    "S1_semantic full report",
+    "source-bearing local evidence/captures"
+  ],
+  "public_boundary": "Only new code, chosen human decision metadata, references, hashes and source-free review summaries. No copied source excerpts, templates, rule bodies, internal authorization messages or local absolute paths.",
+  "actual_postcheck": {
+    "repository": "d0m999/northstar-ledger",
+    "commit": "b506bfd31a7c6d0a602b9a68f127165b5e00a50c",
+    "path": "checkpoints/Z068/ledger-restart-20261111-001/s1-formal-output-check-v1.json",
+    "bytes": 2114,
+    "sha256": "5cf9d1cd21732e2d3230e755527eff2c8118643cb0b08a43a957cde038582b22"
+  },
+  "S1_status": "needs_review",
+  "S2_status": "not_passed",
+  "whole_source_accepted": false,
+  "S0_checkpoint_remote_evidence": {
+    "repository": "d0m999/northstar-ledger",
+    "commit": "6c58cb0fdbf3e8800c1e01e208dd47a270d27b76",
+    "path": "checkpoints/Z068/ledger-restart-20261111-001/s0-complete-v1.json",
+    "bytes": 48960,
+    "git_blob": "04cfc048c7c164ab268365f46c9c814261c0e51d",
+    "sha256": "05c2f60a0758af5c96564ee9f31625dd480f8b03786774cd51738b8c7f52bebe",
+    "recipe_and_helper_present_in_same_tree": true
+  }
+}
