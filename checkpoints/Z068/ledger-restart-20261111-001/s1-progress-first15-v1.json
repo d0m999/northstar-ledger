@@ -1,0 +1,80 @@
+{
+  "schema": "northstar-ledger.s1-progress.v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-restart-20261111-001",
+  "scope": "First fifteen independently early-reviewed source-free manual cleaning decisions; immutable partial checkpoint, not full S1 or S2.",
+  "decision_commit": "d9a0c723752fa4128186519f2c096b55549a0cc0",
+  "files": [
+    {
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl",
+      "bytes": 6637,
+      "sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "git_blob": "b0f7031019c0c68568229b36114e4abc56f37060",
+      "ordinals": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "patches": 1,
+      "retained_uncertainties": 4
+    },
+    {
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl",
+      "bytes": 8155,
+      "sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "git_blob": "23ced5a3d3fd16b97feeaa36226f4ab738f56471",
+      "ordinals": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "patches": 1,
+      "retained_uncertainties": 7
+    },
+    {
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl",
+      "bytes": 8335,
+      "sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "git_blob": "6673ad9039c5616b6eb9a22a521ebf27397896b5",
+      "ordinals": [
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "patches": 2,
+      "retained_uncertainties": 9
+    }
+  ],
+  "review": {
+    "path": "reviews/Z068/ledger-restart-20261111-001/early-s1-15-v1.json",
+    "bytes": 2494,
+    "sha256": "de468521d13341deca3d4117a35fb7e6204bbc3549702ddbb5888016e423db9e"
+  },
+  "counts": {
+    "saved_units_in_this_checkpoint": 15,
+    "supported_patches": 4,
+    "retained_uncertainties": 20,
+    "total_source_units": 276
+  },
+  "remaining_work": "Authors continue the remaining units; complete S1 formal assembly and non-author S2 remain required. This does not count current author progress outside this checkpoint.",
+  "recovery": {
+    "source_and_rules": "Use recovery-inputs-v1.json and recovery-addendum-v1.json at the fixed private commit; do not substitute branch HEAD.",
+    "projection": "Use replay recipe-pre-s0-v1.json and verify the S0 projection SHA.",
+    "decisions": "Read selected JSONL records, verify original text hash and codepoint length, apply only ordered original_span/new_after patches, derive private before/excerpts from authorized source, and verify result_text_sha256/result_codepoints. All doubts and three substeps remain required.",
+    "supersedes": "Earlier local drafts referenced by proposal_id were not published; the selected records here are self-contained, not dependent patches."
+  },
+  "formal_state": {
+    "S0": "passed",
+    "S1": "not_yet_formally_completed",
+    "S2": "not_started",
+    "S5_annotation_started": false,
+    "source_accepted": false
+  },
+  "public_boundary": "No source paragraphs, frozen rule bodies, old annotations, credentials, or private absolute paths."
+}
