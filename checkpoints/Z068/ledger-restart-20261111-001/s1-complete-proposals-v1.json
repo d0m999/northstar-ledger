@@ -1,0 +1,3061 @@
+{
+  "schema": "northstar-ledger.s1-complete-proposals-selection.v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-restart-20261111-001",
+  "selected_batches": [
+    {
+      "original_basename": "batch_001_005_v2.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl",
+      "bytes": 6637,
+      "sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "git_blob": "b0f7031019c0c68568229b36114e4abc56f37060"
+    },
+    {
+      "original_basename": "batch_006_015_v2.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl",
+      "bytes": 15453,
+      "sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "git_blob": "c25f6cb67049ccf44185a2df83ba6db29afaa0da"
+    },
+    {
+      "original_basename": "batch_016_025_v2.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl",
+      "bytes": 14497,
+      "sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "git_blob": "f3b1b676374b2d06568aa60fce07f4012a64db58"
+    },
+    {
+      "original_basename": "batch_026_035_v2.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl",
+      "bytes": 14413,
+      "sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "git_blob": "011fd28cca2003dacda2927acfe654eb502dc15e"
+    },
+    {
+      "original_basename": "batch_036_045_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl",
+      "bytes": 14200,
+      "sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "git_blob": "cb8f86b29f0fe2398f5ae52081a53133b9d63a09"
+    },
+    {
+      "original_basename": "batch_046_055_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl",
+      "bytes": 15238,
+      "sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "git_blob": "e98a2bfaf0e68c6ea428a925215770d58dfe7b9a"
+    },
+    {
+      "original_basename": "batch_056_065_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl",
+      "bytes": 13079,
+      "sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "git_blob": "bf24eeda1873427a214485f46eeb5249491c0be9"
+    },
+    {
+      "original_basename": "batch_066_075_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl",
+      "bytes": 13812,
+      "sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "git_blob": "669c271227379e698ed8546ef899b2d6734a85e7"
+    },
+    {
+      "original_basename": "batch_076_085_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl",
+      "bytes": 15041,
+      "sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "git_blob": "7bafd0b2cb26a1b1fa3ed3ae81a20cbb86be4bbe"
+    },
+    {
+      "original_basename": "batch_086_092_v1.public-ready.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl",
+      "bytes": 9696,
+      "sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "git_blob": "967835d7f813b08468eee4de787917d474cd6a86"
+    },
+    {
+      "original_basename": "batch_093_097_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl",
+      "bytes": 8155,
+      "sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "git_blob": "23ced5a3d3fd16b97feeaa36226f4ab738f56471"
+    },
+    {
+      "original_basename": "batch_098_107_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl",
+      "bytes": 14903,
+      "sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "git_blob": "0c8f9c81bccafb9a995fadf3a2395b34f416c539"
+    },
+    {
+      "original_basename": "batch_108_117_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl",
+      "bytes": 14325,
+      "sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "git_blob": "ee714e45900ee70dec99c2d76869a14f241fb25e"
+    },
+    {
+      "original_basename": "batch_118_127_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl",
+      "bytes": 15799,
+      "sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "git_blob": "3cc60ab19cdfecf369f8d9fd871f84643fc6a43b"
+    },
+    {
+      "original_basename": "batch_128_137_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl",
+      "bytes": 18002,
+      "sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "git_blob": "f9d50980e4ceb119a5bada524ebc2c265d6ebe77"
+    },
+    {
+      "original_basename": "batch_138_147_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl",
+      "bytes": 17719,
+      "sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "git_blob": "830c38ac46334d99814992839e4a7c3bcffd70db"
+    },
+    {
+      "original_basename": "batch_148_157_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl",
+      "bytes": 17684,
+      "sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "git_blob": "fd8e713aa13b8d7001d78b8c264665c671a2ca31"
+    },
+    {
+      "original_basename": "batch_158_167_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl",
+      "bytes": 17438,
+      "sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "git_blob": "cbd707412383078b18733a3676831da06962fdbc"
+    },
+    {
+      "original_basename": "batch_168_177_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl",
+      "bytes": 18479,
+      "sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "git_blob": "6afff652e40f75d6e83db61c45f26705760c8147"
+    },
+    {
+      "original_basename": "batch_178_184_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl",
+      "bytes": 11589,
+      "sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "git_blob": "bfe36c18a83fc1c3d32ce71fee1a8fda15a1ee16"
+    },
+    {
+      "original_basename": "proposal_185_189_v3.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl",
+      "bytes": 8335,
+      "sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "git_blob": "6673ad9039c5616b6eb9a22a521ebf27397896b5"
+    },
+    {
+      "original_basename": "proposal_190_199_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl",
+      "bytes": 16744,
+      "sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "git_blob": "5c7321d925471ab0f15518c688a05eacf1600226"
+    },
+    {
+      "original_basename": "proposal_200_209_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl",
+      "bytes": 16916,
+      "sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "git_blob": "0f114f9ab78202e92f1902e72b9b6c23ec9a3613"
+    },
+    {
+      "original_basename": "proposal_210_219_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl",
+      "bytes": 16431,
+      "sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "git_blob": "d37ff4146f7cd24f371c3776ed69b99edb64dc14"
+    },
+    {
+      "original_basename": "proposal_220_229_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl",
+      "bytes": 13602,
+      "sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "git_blob": "d552d3ec82bf7ff9dc24f17f90b1b7889e905073"
+    },
+    {
+      "original_basename": "proposal_230_239_v2.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl",
+      "bytes": 16915,
+      "sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "git_blob": "dd870e5a37860c7b38b50564b98f5ec945b3c7a1"
+    },
+    {
+      "original_basename": "proposal_240_249_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl",
+      "bytes": 15208,
+      "sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "git_blob": "153bd1f35136790fc6b248bf9c0eee13040b2011"
+    },
+    {
+      "original_basename": "proposal_250_259_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl",
+      "bytes": 19198,
+      "sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "git_blob": "573dc18f29e16eb4fd19cac813f1ad8742a3497c"
+    },
+    {
+      "original_basename": "proposal_260_269_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl",
+      "bytes": 17306,
+      "sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "git_blob": "d8259da6381558a5becee4bf91c6d498ffd7b50f"
+    },
+    {
+      "original_basename": "proposal_270_276_v1.jsonl",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl",
+      "bytes": 11219,
+      "sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "git_blob": "e2f658a3d0ff17c08da07e69732b43d7945cd507"
+    }
+  ],
+  "author_selections": [
+    {
+      "original_basename": "SELECTION_001_092_v1.public-ready.json",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/selection-001-092-v1.json",
+      "bytes": 49660,
+      "sha256": "346acc6772e3f6293a87af800add6411f3158fbc782f46f9b84e32d2bc1d918a",
+      "git_blob": "a273d57a494e09016b76719ec4087710643c7393"
+    },
+    {
+      "original_basename": "selection_093_184_v1.json",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/selection-093-184-v1.json",
+      "bytes": 26201,
+      "sha256": "88d42a27fd742dd3a4462cafd951c7bd9346ffaddf269a92e239edafcb4768ed",
+      "git_blob": "2b06aa95f1c86edb90f12e064d98a83e6c66271f"
+    },
+    {
+      "original_basename": "SELECTION_185_276_V1.json",
+      "path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/selection-185-276-v1.json",
+      "bytes": 26620,
+      "sha256": "882c75075f753f8a2b4657312a3b8aec2c67606f26be4b6f3bd5d8f4edba2dee",
+      "git_blob": "cf2940dbedc5ba51da3c7ec474a96ee44bf73efb"
+    }
+  ],
+  "selected_units": [
+    {
+      "ordinal": 1,
+      "unit_id": "ziwei_068_u0001",
+      "batch_sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "line_number": 1,
+      "proposal_id": "z068_u0001_r2",
+      "input_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+      "result_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl"
+    },
+    {
+      "ordinal": 2,
+      "unit_id": "ziwei_068_u0002",
+      "batch_sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "line_number": 2,
+      "proposal_id": "z068_u0002_r2",
+      "input_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "result_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl"
+    },
+    {
+      "ordinal": 3,
+      "unit_id": "ziwei_068_u0003",
+      "batch_sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "line_number": 3,
+      "proposal_id": "z068_u0003_r2",
+      "input_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "result_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl"
+    },
+    {
+      "ordinal": 4,
+      "unit_id": "ziwei_068_u0004",
+      "batch_sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "line_number": 4,
+      "proposal_id": "z068_u0004_r2",
+      "input_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "result_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl"
+    },
+    {
+      "ordinal": 5,
+      "unit_id": "ziwei_068_u0005",
+      "batch_sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714",
+      "line_number": 5,
+      "proposal_id": "z068_u0005_r2",
+      "input_text_sha256": "a3843d502e58eb0d86db65622a3c0e1da26e05bd2c730930c982b904002f15b6",
+      "result_text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-001-005-v2.jsonl"
+    },
+    {
+      "ordinal": 6,
+      "unit_id": "ziwei_068_u0006",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 1,
+      "proposal_id": "z068_u0006_r2",
+      "input_text_sha256": "80f3b202aa912f494e387ead76cb26edfeadca899240893a3cca6cacc0405407",
+      "result_text_sha256": "80f3b202aa912f494e387ead76cb26edfeadca899240893a3cca6cacc0405407",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 7,
+      "unit_id": "ziwei_068_u0007",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 2,
+      "proposal_id": "z068_u0007_r2",
+      "input_text_sha256": "7c94f6db788ebffccd6a29f87fe40a3b73e8fc0b6206a32874dbd3735d38917c",
+      "result_text_sha256": "7c94f6db788ebffccd6a29f87fe40a3b73e8fc0b6206a32874dbd3735d38917c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 8,
+      "unit_id": "ziwei_068_u0008",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 3,
+      "proposal_id": "z068_u0008_r2",
+      "input_text_sha256": "cea3a2f8254f9a38599fc5cf779bab5fc7ebc7f6c1cedc7a26bd7302cdc32c5c",
+      "result_text_sha256": "cea3a2f8254f9a38599fc5cf779bab5fc7ebc7f6c1cedc7a26bd7302cdc32c5c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 9,
+      "unit_id": "ziwei_068_u0009",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 4,
+      "proposal_id": "z068_u0009_r2",
+      "input_text_sha256": "0024f1ed233fa55d666ed38ceb8b3689f706f2e440278932afea1607fa08f7e3",
+      "result_text_sha256": "f90519582510bddcd1ea988426ebf57e2a933fdbbca22dad6ecf22f4373a75c2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 10,
+      "unit_id": "ziwei_068_u0010",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 5,
+      "proposal_id": "z068_u0010_r2",
+      "input_text_sha256": "305ba4ce71d99f84879d372dc6f14ae46ae62b55887830be73a8630711bb6435",
+      "result_text_sha256": "305ba4ce71d99f84879d372dc6f14ae46ae62b55887830be73a8630711bb6435",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 11,
+      "unit_id": "ziwei_068_u0011",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 6,
+      "proposal_id": "z068_u0011_r2",
+      "input_text_sha256": "824fbacf53fcf87dc3c40b2d81efa6580a199c80b219de698723d5a0f3761455",
+      "result_text_sha256": "824fbacf53fcf87dc3c40b2d81efa6580a199c80b219de698723d5a0f3761455",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 12,
+      "unit_id": "ziwei_068_u0012",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 7,
+      "proposal_id": "z068_u0012_r2",
+      "input_text_sha256": "73a77d2ec59c1135e123ed11f06dfb43eec3cd79b02d5b6f43428a4010badf53",
+      "result_text_sha256": "73a77d2ec59c1135e123ed11f06dfb43eec3cd79b02d5b6f43428a4010badf53",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 13,
+      "unit_id": "ziwei_068_u0013",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 8,
+      "proposal_id": "z068_u0013_r2",
+      "input_text_sha256": "ba6c4e57d6ab1d4f09adb8c2b0f2b83f8f995e992d92a804643dd76402681c91",
+      "result_text_sha256": "ba6c4e57d6ab1d4f09adb8c2b0f2b83f8f995e992d92a804643dd76402681c91",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 14,
+      "unit_id": "ziwei_068_u0014",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 9,
+      "proposal_id": "z068_u0014_r2",
+      "input_text_sha256": "98ad6b3a5ecd7da1a79979fe79d9ac010a9c133f9c3755d1abf73e00e75ba940",
+      "result_text_sha256": "98ad6b3a5ecd7da1a79979fe79d9ac010a9c133f9c3755d1abf73e00e75ba940",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 15,
+      "unit_id": "ziwei_068_u0015",
+      "batch_sha256": "644e8af5d0ffc8e8835c82e953b72b5a4db2dd8d2f42b1066183bdf7049d6a84",
+      "line_number": 10,
+      "proposal_id": "z068_u0015_r2",
+      "input_text_sha256": "7da69499fbe0168ca6ebb77fabb971b7471548331dc93b2d07936cd9522eb958",
+      "result_text_sha256": "7da69499fbe0168ca6ebb77fabb971b7471548331dc93b2d07936cd9522eb958",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-006-015-v2.jsonl"
+    },
+    {
+      "ordinal": 16,
+      "unit_id": "ziwei_068_u0016",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 1,
+      "proposal_id": "z068_u0016_r2",
+      "input_text_sha256": "38860854caadad89dc69303d913fba04dddfd49c6c770f434e4ad1b35f1a1cca",
+      "result_text_sha256": "56b092845ab06b22e59ee0efe6a05c3167d1e01dd3df68caac627f35ba444269",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 17,
+      "unit_id": "ziwei_068_u0017",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 2,
+      "proposal_id": "z068_u0017_r2",
+      "input_text_sha256": "eb49eabee85d95005508ba7ce0d7df199a55b005dbbaf193bd77c9be3d6e61f2",
+      "result_text_sha256": "eb49eabee85d95005508ba7ce0d7df199a55b005dbbaf193bd77c9be3d6e61f2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 18,
+      "unit_id": "ziwei_068_u0018",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 3,
+      "proposal_id": "z068_u0018_r2",
+      "input_text_sha256": "90becdff20ba0c73225227044d98096de2616f33d863a2bfe8f5d4a3c7cba4c8",
+      "result_text_sha256": "90becdff20ba0c73225227044d98096de2616f33d863a2bfe8f5d4a3c7cba4c8",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 19,
+      "unit_id": "ziwei_068_u0019",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 4,
+      "proposal_id": "z068_u0019_r2",
+      "input_text_sha256": "975eee11aee39bbd22c446e231f89e7efe0427201a96e1372275fe552e77ac95",
+      "result_text_sha256": "975eee11aee39bbd22c446e231f89e7efe0427201a96e1372275fe552e77ac95",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 20,
+      "unit_id": "ziwei_068_u0020",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 5,
+      "proposal_id": "z068_u0020_r2",
+      "input_text_sha256": "8c2e0ba796c0d5a9af51e205e270170d1405f7db95b2432c8d82633022c76602",
+      "result_text_sha256": "c9ae231ed2c40420240b905248d9338bc1b9b262a049b6e4af30c0f834e12049",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 21,
+      "unit_id": "ziwei_068_u0021",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 6,
+      "proposal_id": "z068_u0021_r2",
+      "input_text_sha256": "15fa22b7c7e45ff53c70be35a691a3ea7ddace3ba13c691b3fbcc948142684e5",
+      "result_text_sha256": "15fa22b7c7e45ff53c70be35a691a3ea7ddace3ba13c691b3fbcc948142684e5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 22,
+      "unit_id": "ziwei_068_u0022",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 7,
+      "proposal_id": "z068_u0022_r2",
+      "input_text_sha256": "683027027ad297515dd5c44b434d37cc992beab88e9f8407bf2332cb5a35d295",
+      "result_text_sha256": "683027027ad297515dd5c44b434d37cc992beab88e9f8407bf2332cb5a35d295",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 23,
+      "unit_id": "ziwei_068_u0023",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 8,
+      "proposal_id": "z068_u0023_r2",
+      "input_text_sha256": "d7494ed8166277c5e0a010e8f2797eba09c1341449cd6c7a81069c4a921bf1f2",
+      "result_text_sha256": "d7494ed8166277c5e0a010e8f2797eba09c1341449cd6c7a81069c4a921bf1f2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 24,
+      "unit_id": "ziwei_068_u0024",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 9,
+      "proposal_id": "z068_u0024_r2",
+      "input_text_sha256": "83170d222d027c5bec9a9a01fe357dc9fc2f601595459590528f168548a63321",
+      "result_text_sha256": "83170d222d027c5bec9a9a01fe357dc9fc2f601595459590528f168548a63321",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 25,
+      "unit_id": "ziwei_068_u0025",
+      "batch_sha256": "a9e5d708bcf53c2275287cf7beeccf4b61ce4faaa9863df3c16b7cd8ca8f780a",
+      "line_number": 10,
+      "proposal_id": "z068_u0025_r2",
+      "input_text_sha256": "41b2ec3e2a1a24d15d446e192e2edb7d8eec69a32854a1b82d15151478d8257e",
+      "result_text_sha256": "41b2ec3e2a1a24d15d446e192e2edb7d8eec69a32854a1b82d15151478d8257e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-016-025-v2.jsonl"
+    },
+    {
+      "ordinal": 26,
+      "unit_id": "ziwei_068_u0026",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 1,
+      "proposal_id": "z068_u0026_r2",
+      "input_text_sha256": "35d8d813bb6a336187631ab4194df84f17a7f9ec0e63b90dc93085ddc5559913",
+      "result_text_sha256": "71e116d91d0a506946e6e541ae19c435002f2e9ec54b5c9d24e555303c6f65bf",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 27,
+      "unit_id": "ziwei_068_u0027",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 2,
+      "proposal_id": "z068_u0027_r2",
+      "input_text_sha256": "c220d293014686a89ef7660846b7bede18e656702f975bf3345fcd8b1723e4fb",
+      "result_text_sha256": "c220d293014686a89ef7660846b7bede18e656702f975bf3345fcd8b1723e4fb",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 28,
+      "unit_id": "ziwei_068_u0028",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 3,
+      "proposal_id": "z068_u0028_r2",
+      "input_text_sha256": "6c41430a49ab65a88bf509cd422557a08b980b7dee339d1e8970cf68886594da",
+      "result_text_sha256": "1cacab28ca11438f0de85dec05f6409fe82ff0a943b8418533c9141404efda36",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 29,
+      "unit_id": "ziwei_068_u0029",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 4,
+      "proposal_id": "z068_u0029_r2",
+      "input_text_sha256": "9ea2eb16b68c471ecb28e0bd2e6e82b9cbb53798d648b2251b075d57c906b525",
+      "result_text_sha256": "9ea2eb16b68c471ecb28e0bd2e6e82b9cbb53798d648b2251b075d57c906b525",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 30,
+      "unit_id": "ziwei_068_u0030",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 5,
+      "proposal_id": "z068_u0030_r2",
+      "input_text_sha256": "2620a6973880259fc644a3fd0a9bdf3b123eb535376e317be8c018a91b7757ca",
+      "result_text_sha256": "2620a6973880259fc644a3fd0a9bdf3b123eb535376e317be8c018a91b7757ca",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 31,
+      "unit_id": "ziwei_068_u0031",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 6,
+      "proposal_id": "z068_u0031_r2",
+      "input_text_sha256": "82d37a1f1e49edded61efb78f529893fb6f58c0bdb6f54aeb7088ff3d759aaea",
+      "result_text_sha256": "82d37a1f1e49edded61efb78f529893fb6f58c0bdb6f54aeb7088ff3d759aaea",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 32,
+      "unit_id": "ziwei_068_u0032",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 7,
+      "proposal_id": "z068_u0032_r2",
+      "input_text_sha256": "51c716fcb2c45610bbf7d84b9a1c68b80e6f099f58f7051377e8cf7720ed9716",
+      "result_text_sha256": "51c716fcb2c45610bbf7d84b9a1c68b80e6f099f58f7051377e8cf7720ed9716",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 33,
+      "unit_id": "ziwei_068_u0033",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 8,
+      "proposal_id": "z068_u0033_r2",
+      "input_text_sha256": "9ae8941585c3aa03b2fd8b9d13e95ecdf5b8f8b399947958c50682ae9bc6c480",
+      "result_text_sha256": "9ae8941585c3aa03b2fd8b9d13e95ecdf5b8f8b399947958c50682ae9bc6c480",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 34,
+      "unit_id": "ziwei_068_u0034",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 9,
+      "proposal_id": "z068_u0034_r2",
+      "input_text_sha256": "411e006b9c48545efdad45832bfaf1deb3da95c8142cc3354d0253adf77f1b99",
+      "result_text_sha256": "411e006b9c48545efdad45832bfaf1deb3da95c8142cc3354d0253adf77f1b99",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 35,
+      "unit_id": "ziwei_068_u0035",
+      "batch_sha256": "4a633816d495b4f2114571c2f8a08306b1843d069ed19cb37567756117ab55a4",
+      "line_number": 10,
+      "proposal_id": "z068_u0035_r2",
+      "input_text_sha256": "e70af53221c1edadc2b6a7bb968f81dc1999fa9e62ce119b147ecae6a5405e2c",
+      "result_text_sha256": "e70af53221c1edadc2b6a7bb968f81dc1999fa9e62ce119b147ecae6a5405e2c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-026-035-v2.jsonl"
+    },
+    {
+      "ordinal": 36,
+      "unit_id": "ziwei_068_u0036",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 1,
+      "proposal_id": "z068_u0036_r1",
+      "input_text_sha256": "2b6041752ac3f1c8f300300bd8ce42282226996c821d73d2fb55ffe5fcfbba12",
+      "result_text_sha256": "2b6041752ac3f1c8f300300bd8ce42282226996c821d73d2fb55ffe5fcfbba12",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 37,
+      "unit_id": "ziwei_068_u0037",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 2,
+      "proposal_id": "z068_u0037_r1",
+      "input_text_sha256": "7729401ce3866aee39bc5dca4c151ee0113bd046f039e5d30d2519b6e1dc941b",
+      "result_text_sha256": "7729401ce3866aee39bc5dca4c151ee0113bd046f039e5d30d2519b6e1dc941b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 38,
+      "unit_id": "ziwei_068_u0038",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 3,
+      "proposal_id": "z068_u0038_r1",
+      "input_text_sha256": "0e6cbc08aa2300ed28a22a2a580007f8ae713d32ed78a821482c33a268538fe0",
+      "result_text_sha256": "0e6cbc08aa2300ed28a22a2a580007f8ae713d32ed78a821482c33a268538fe0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 39,
+      "unit_id": "ziwei_068_u0039",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 4,
+      "proposal_id": "z068_u0039_r1",
+      "input_text_sha256": "cca1c024bdcca5a2edaf38177fa05bfda20a417e5a431e154cd5bad1839dc713",
+      "result_text_sha256": "cca1c024bdcca5a2edaf38177fa05bfda20a417e5a431e154cd5bad1839dc713",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 40,
+      "unit_id": "ziwei_068_u0040",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 5,
+      "proposal_id": "z068_u0040_r1",
+      "input_text_sha256": "f37fe8524e8e4c801d6ed2c2d11e4167496a02105831303a9ea73e3a86312543",
+      "result_text_sha256": "f37fe8524e8e4c801d6ed2c2d11e4167496a02105831303a9ea73e3a86312543",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 41,
+      "unit_id": "ziwei_068_u0041",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 6,
+      "proposal_id": "z068_u0041_r1",
+      "input_text_sha256": "da00da78ec7e402552e38b19a009e427dcd6f7c1dd111b580eaab875257c8c5b",
+      "result_text_sha256": "da00da78ec7e402552e38b19a009e427dcd6f7c1dd111b580eaab875257c8c5b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 42,
+      "unit_id": "ziwei_068_u0042",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 7,
+      "proposal_id": "z068_u0042_r1",
+      "input_text_sha256": "d3f335fc5b87f71dac29392f414d58abcb5015ecf67cdba9a4c10d773a884657",
+      "result_text_sha256": "d3f335fc5b87f71dac29392f414d58abcb5015ecf67cdba9a4c10d773a884657",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 43,
+      "unit_id": "ziwei_068_u0043",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 8,
+      "proposal_id": "z068_u0043_r1",
+      "input_text_sha256": "bcf822b91dd0f956567137e15d1143b3354482c40c3ef3cc92b4a6b364eafa95",
+      "result_text_sha256": "bcf822b91dd0f956567137e15d1143b3354482c40c3ef3cc92b4a6b364eafa95",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 44,
+      "unit_id": "ziwei_068_u0044",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 9,
+      "proposal_id": "z068_u0044_r1",
+      "input_text_sha256": "9c1428e571819585ca1cf9e2b22a0011727a146b46e750fc564cb8786349743a",
+      "result_text_sha256": "9c1428e571819585ca1cf9e2b22a0011727a146b46e750fc564cb8786349743a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 45,
+      "unit_id": "ziwei_068_u0045",
+      "batch_sha256": "48a8d8b6ea117fe437affc338a250160acbdb7cc6c021c19770422eb0ac90c01",
+      "line_number": 10,
+      "proposal_id": "z068_u0045_r1",
+      "input_text_sha256": "7140215c805ebc14acc780926b860922bd364a86efac55a62d0d5ed0b728dfdf",
+      "result_text_sha256": "7140215c805ebc14acc780926b860922bd364a86efac55a62d0d5ed0b728dfdf",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-036-045-v1.jsonl"
+    },
+    {
+      "ordinal": 46,
+      "unit_id": "ziwei_068_u0046",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 1,
+      "proposal_id": "z068_u0046_r1",
+      "input_text_sha256": "ae599aace844162cc876d22300049dc7d690c78e1608af5142de252678e181a3",
+      "result_text_sha256": "ae599aace844162cc876d22300049dc7d690c78e1608af5142de252678e181a3",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 47,
+      "unit_id": "ziwei_068_u0047",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 2,
+      "proposal_id": "z068_u0047_r1",
+      "input_text_sha256": "feb87664b255ac87a2efb8b015f985995baa2df6e6ecf9cec921c046675bf891",
+      "result_text_sha256": "feb87664b255ac87a2efb8b015f985995baa2df6e6ecf9cec921c046675bf891",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 48,
+      "unit_id": "ziwei_068_u0048",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 3,
+      "proposal_id": "z068_u0048_r1",
+      "input_text_sha256": "bd0586315b97c181e9997c1030f58ca9fe3cf1c329fac352061656b17eec07b9",
+      "result_text_sha256": "bd0586315b97c181e9997c1030f58ca9fe3cf1c329fac352061656b17eec07b9",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 49,
+      "unit_id": "ziwei_068_u0049",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 4,
+      "proposal_id": "z068_u0049_r1",
+      "input_text_sha256": "6448df91019dff1e264a467dc7c742a5dc18a3193f28ba559993498f6a9573a4",
+      "result_text_sha256": "6448df91019dff1e264a467dc7c742a5dc18a3193f28ba559993498f6a9573a4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 50,
+      "unit_id": "ziwei_068_u0050",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 5,
+      "proposal_id": "z068_u0050_r1",
+      "input_text_sha256": "3066187b21bb0597d47a7a55c3eaea89c600c8d7f39c5002c3899a810b085f2b",
+      "result_text_sha256": "3066187b21bb0597d47a7a55c3eaea89c600c8d7f39c5002c3899a810b085f2b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 51,
+      "unit_id": "ziwei_068_u0051",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 6,
+      "proposal_id": "z068_u0051_r1",
+      "input_text_sha256": "10a53607e1e48ba1228f756e6282dd79ee85976bac6e220ead3495e45de83a41",
+      "result_text_sha256": "10a53607e1e48ba1228f756e6282dd79ee85976bac6e220ead3495e45de83a41",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 52,
+      "unit_id": "ziwei_068_u0052",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 7,
+      "proposal_id": "z068_u0052_r1",
+      "input_text_sha256": "ba9688f930b5a0a4b9da8b21a5b6049e6e709735ae9b9ade2c1828bb8f0fe0d0",
+      "result_text_sha256": "ba9688f930b5a0a4b9da8b21a5b6049e6e709735ae9b9ade2c1828bb8f0fe0d0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 53,
+      "unit_id": "ziwei_068_u0053",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 8,
+      "proposal_id": "z068_u0053_r1",
+      "input_text_sha256": "8f660dcfe6407fad722753b0d4fb82d78e90a192d885088dfc87a003e2aec0e4",
+      "result_text_sha256": "8f660dcfe6407fad722753b0d4fb82d78e90a192d885088dfc87a003e2aec0e4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 54,
+      "unit_id": "ziwei_068_u0054",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 9,
+      "proposal_id": "z068_u0054_r1",
+      "input_text_sha256": "ba6fd049497f710e725d862c386f7b65185e3972dec01806f745b32b67b3bab2",
+      "result_text_sha256": "ba6fd049497f710e725d862c386f7b65185e3972dec01806f745b32b67b3bab2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 55,
+      "unit_id": "ziwei_068_u0055",
+      "batch_sha256": "537ee14264f095d0c8c79d8b94729ad3496876762fce9ad41cdb04b6c16c5c9a",
+      "line_number": 10,
+      "proposal_id": "z068_u0055_r1",
+      "input_text_sha256": "8974291aa277478c77c0a56eaf66dd47bff10628b2c9e06ebb0858b339abae32",
+      "result_text_sha256": "8974291aa277478c77c0a56eaf66dd47bff10628b2c9e06ebb0858b339abae32",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-046-055-v1.jsonl"
+    },
+    {
+      "ordinal": 56,
+      "unit_id": "ziwei_068_u0056",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 1,
+      "proposal_id": "z068_u0056_r1",
+      "input_text_sha256": "cc6d6cf44520af6ff92373a4213a58f970ed4e5f4aef0d63a872149bfcf3a557",
+      "result_text_sha256": "cc6d6cf44520af6ff92373a4213a58f970ed4e5f4aef0d63a872149bfcf3a557",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 57,
+      "unit_id": "ziwei_068_u0057",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 2,
+      "proposal_id": "z068_u0057_r1",
+      "input_text_sha256": "08bab3998fa180fccdf1440ca38cb702e139257b20b1d58e4efc66ede05f834f",
+      "result_text_sha256": "08bab3998fa180fccdf1440ca38cb702e139257b20b1d58e4efc66ede05f834f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 58,
+      "unit_id": "ziwei_068_u0058",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 3,
+      "proposal_id": "z068_u0058_r1",
+      "input_text_sha256": "aaa36a3e2ed991494065638fbe6916df47b3c509446c35451765f7dbd76799b0",
+      "result_text_sha256": "aaa36a3e2ed991494065638fbe6916df47b3c509446c35451765f7dbd76799b0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 59,
+      "unit_id": "ziwei_068_u0059",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 4,
+      "proposal_id": "z068_u0059_r1",
+      "input_text_sha256": "b6c7d6d33042b22f5604958d008317b8f2588ba3de761e1b031fbb7dd478de79",
+      "result_text_sha256": "b6c7d6d33042b22f5604958d008317b8f2588ba3de761e1b031fbb7dd478de79",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 60,
+      "unit_id": "ziwei_068_u0060",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 5,
+      "proposal_id": "z068_u0060_r1",
+      "input_text_sha256": "3d5f4579b106762e68cbe52004555b0ecaa16adb0cf98316e368ddc2ede29579",
+      "result_text_sha256": "3d5f4579b106762e68cbe52004555b0ecaa16adb0cf98316e368ddc2ede29579",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 61,
+      "unit_id": "ziwei_068_u0061",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 6,
+      "proposal_id": "z068_u0061_r1",
+      "input_text_sha256": "f0d455f0c712c36c52810aff6b5d4efada7263f42a838eef6e5398e5509fcbdf",
+      "result_text_sha256": "f0d455f0c712c36c52810aff6b5d4efada7263f42a838eef6e5398e5509fcbdf",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 62,
+      "unit_id": "ziwei_068_u0062",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 7,
+      "proposal_id": "z068_u0062_r1",
+      "input_text_sha256": "879a75ea62f18e1ed05a42a875d63a3eb0c4870d6a61cb5ed0bd58bbc9625195",
+      "result_text_sha256": "879a75ea62f18e1ed05a42a875d63a3eb0c4870d6a61cb5ed0bd58bbc9625195",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 63,
+      "unit_id": "ziwei_068_u0063",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 8,
+      "proposal_id": "z068_u0063_r1",
+      "input_text_sha256": "36f472029b6d6b002519cb1dc1991b0471597508b9069da3943c7414527891ad",
+      "result_text_sha256": "36f472029b6d6b002519cb1dc1991b0471597508b9069da3943c7414527891ad",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 64,
+      "unit_id": "ziwei_068_u0064",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 9,
+      "proposal_id": "z068_u0064_r1",
+      "input_text_sha256": "1173838c204e28ffbd00bfcf01c5cf49cf9dad7a185a2f37da268d1e32f43da1",
+      "result_text_sha256": "1173838c204e28ffbd00bfcf01c5cf49cf9dad7a185a2f37da268d1e32f43da1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 65,
+      "unit_id": "ziwei_068_u0065",
+      "batch_sha256": "48c71d0b8f29fdfa7c904f3ede7518ec069110b1d8acfb56e5df372d75155b8a",
+      "line_number": 10,
+      "proposal_id": "z068_u0065_r1",
+      "input_text_sha256": "150c1e8018effc8af5f4e313246e7d7997d8f8146c49e5c762457f03a75dc076",
+      "result_text_sha256": "150c1e8018effc8af5f4e313246e7d7997d8f8146c49e5c762457f03a75dc076",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-056-065-v1.jsonl"
+    },
+    {
+      "ordinal": 66,
+      "unit_id": "ziwei_068_u0066",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 1,
+      "proposal_id": "z068_u0066_r1",
+      "input_text_sha256": "80ff8e3d01879b32d7cf58770970a2c8b87af37d423076de860cc2dfd160b456",
+      "result_text_sha256": "80ff8e3d01879b32d7cf58770970a2c8b87af37d423076de860cc2dfd160b456",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 67,
+      "unit_id": "ziwei_068_u0067",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 2,
+      "proposal_id": "z068_u0067_r1",
+      "input_text_sha256": "1d4b77a1cfddbddd9aed156e4a79f3d3880b2389ac5861be1edf9bc0cfb6a94a",
+      "result_text_sha256": "1d4b77a1cfddbddd9aed156e4a79f3d3880b2389ac5861be1edf9bc0cfb6a94a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 68,
+      "unit_id": "ziwei_068_u0068",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 3,
+      "proposal_id": "z068_u0068_r1",
+      "input_text_sha256": "2bd1a4174761dd66fec763f624d255b2f1a9ec25600281d156e06f589b726cb1",
+      "result_text_sha256": "2bd1a4174761dd66fec763f624d255b2f1a9ec25600281d156e06f589b726cb1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 69,
+      "unit_id": "ziwei_068_u0069",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 4,
+      "proposal_id": "z068_u0069_r1",
+      "input_text_sha256": "269a9666abc0c47802c9ed3a339d0b2a96af99db79dafd669d5094bd3a7263ef",
+      "result_text_sha256": "269a9666abc0c47802c9ed3a339d0b2a96af99db79dafd669d5094bd3a7263ef",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 70,
+      "unit_id": "ziwei_068_u0070",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 5,
+      "proposal_id": "z068_u0070_r1",
+      "input_text_sha256": "f3cc5e1c996b40badac79f865e057e941d70c49cd2a5097a5d27aaec99b2136a",
+      "result_text_sha256": "f3cc5e1c996b40badac79f865e057e941d70c49cd2a5097a5d27aaec99b2136a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 71,
+      "unit_id": "ziwei_068_u0071",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 6,
+      "proposal_id": "z068_u0071_r1",
+      "input_text_sha256": "9913dd1ab6bb2666b471c0a3a4628195be7ec5b6b9a217835fdd2ab3f393a00b",
+      "result_text_sha256": "9913dd1ab6bb2666b471c0a3a4628195be7ec5b6b9a217835fdd2ab3f393a00b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 72,
+      "unit_id": "ziwei_068_u0072",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 7,
+      "proposal_id": "z068_u0072_r1",
+      "input_text_sha256": "743fd7169ffbdaa7c33432403cbea33265182583d39ae40255362c96a46cd11f",
+      "result_text_sha256": "743fd7169ffbdaa7c33432403cbea33265182583d39ae40255362c96a46cd11f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 73,
+      "unit_id": "ziwei_068_u0073",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 8,
+      "proposal_id": "z068_u0073_r1",
+      "input_text_sha256": "e98993a59d955bc8a1ac26eb2e6dd79628231e661b743b5e89f837e7bc597b14",
+      "result_text_sha256": "e98993a59d955bc8a1ac26eb2e6dd79628231e661b743b5e89f837e7bc597b14",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 74,
+      "unit_id": "ziwei_068_u0074",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 9,
+      "proposal_id": "z068_u0074_r1",
+      "input_text_sha256": "5a8edf1b7173ebbd4f78df5b0fa5481d7531ad97daffad3aa8fa8d437ba0853e",
+      "result_text_sha256": "5a8edf1b7173ebbd4f78df5b0fa5481d7531ad97daffad3aa8fa8d437ba0853e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 75,
+      "unit_id": "ziwei_068_u0075",
+      "batch_sha256": "9f5600d26ad8928bc14bc02e151752fb9ee17d5befcdcd2dc7dd4130bf6d3e8e",
+      "line_number": 10,
+      "proposal_id": "z068_u0075_r1",
+      "input_text_sha256": "8c465db300445e2b32a95773930e44231a1d1344ba829160b500a3015a784def",
+      "result_text_sha256": "8c465db300445e2b32a95773930e44231a1d1344ba829160b500a3015a784def",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-066-075-v1.jsonl"
+    },
+    {
+      "ordinal": 76,
+      "unit_id": "ziwei_068_u0076",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 1,
+      "proposal_id": "z068_u0076_r1",
+      "input_text_sha256": "09898002aa0b93fd4517b0ce55f5f134867f8953eff0b24459487d77e610d216",
+      "result_text_sha256": "09898002aa0b93fd4517b0ce55f5f134867f8953eff0b24459487d77e610d216",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 77,
+      "unit_id": "ziwei_068_u0077",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 2,
+      "proposal_id": "z068_u0077_r1",
+      "input_text_sha256": "e2e3006135bb1b354d7f867c40991444d1a891722854d442bed7abc2ae88cb81",
+      "result_text_sha256": "e2e3006135bb1b354d7f867c40991444d1a891722854d442bed7abc2ae88cb81",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 78,
+      "unit_id": "ziwei_068_u0078",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 3,
+      "proposal_id": "z068_u0078_r1",
+      "input_text_sha256": "af6dcdcc795a4aecb6410f22623e11a6c90bc97eb8830376f4d6028f9365ea7b",
+      "result_text_sha256": "af6dcdcc795a4aecb6410f22623e11a6c90bc97eb8830376f4d6028f9365ea7b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 79,
+      "unit_id": "ziwei_068_u0079",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 4,
+      "proposal_id": "z068_u0079_r1",
+      "input_text_sha256": "40018703db79d76aaf649a06a744c8fc0139a54c2adb0cdbec7ff9f91491b508",
+      "result_text_sha256": "40018703db79d76aaf649a06a744c8fc0139a54c2adb0cdbec7ff9f91491b508",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 80,
+      "unit_id": "ziwei_068_u0080",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 5,
+      "proposal_id": "z068_u0080_r1",
+      "input_text_sha256": "a34c9e43df7d7c6c99bfceaa39d528ee29d45b650249d4950ac4a6686e9b9c85",
+      "result_text_sha256": "a34c9e43df7d7c6c99bfceaa39d528ee29d45b650249d4950ac4a6686e9b9c85",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 81,
+      "unit_id": "ziwei_068_u0081",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 6,
+      "proposal_id": "z068_u0081_r1",
+      "input_text_sha256": "80364d06c8a32ed6f2c567574308c1f4243b1683e7fce0d8057bc1a8ee6851be",
+      "result_text_sha256": "bcd56b430c3bb8dd247e624fb314aa77fba8736ea8b0ccd22334d78227cdc1fb",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 82,
+      "unit_id": "ziwei_068_u0082",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 7,
+      "proposal_id": "z068_u0082_r1",
+      "input_text_sha256": "1c84f77458098742b126e8b82ed5bffee8f77fc4fb8a2776ad49750e9cd6e645",
+      "result_text_sha256": "1c84f77458098742b126e8b82ed5bffee8f77fc4fb8a2776ad49750e9cd6e645",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 83,
+      "unit_id": "ziwei_068_u0083",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 8,
+      "proposal_id": "z068_u0083_r1",
+      "input_text_sha256": "340b60f226d48b8f40d5c29876e788a78cf6b1a26b47bba7443caa07e0763cf1",
+      "result_text_sha256": "340b60f226d48b8f40d5c29876e788a78cf6b1a26b47bba7443caa07e0763cf1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 84,
+      "unit_id": "ziwei_068_u0084",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 9,
+      "proposal_id": "z068_u0084_r1",
+      "input_text_sha256": "e4983e769168cedb0b115b2df4630c3bd2f6a9e90cd42a846e41d7249ea7b3a9",
+      "result_text_sha256": "e4983e769168cedb0b115b2df4630c3bd2f6a9e90cd42a846e41d7249ea7b3a9",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 85,
+      "unit_id": "ziwei_068_u0085",
+      "batch_sha256": "ae0ff87de52aff96a3cf15c5f557a17a618ec834dc5ee914acab2e41ab623372",
+      "line_number": 10,
+      "proposal_id": "z068_u0085_r1",
+      "input_text_sha256": "1494eeeb463cc0fc7c42d8528fd2b0f2df3a80c2ea6ae5ecd33898d2f5dec0f8",
+      "result_text_sha256": "1494eeeb463cc0fc7c42d8528fd2b0f2df3a80c2ea6ae5ecd33898d2f5dec0f8",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-076-085-v1.jsonl"
+    },
+    {
+      "ordinal": 86,
+      "unit_id": "ziwei_068_u0086",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 1,
+      "proposal_id": "z068_u0086_r1",
+      "input_text_sha256": "73e25e7759efdc0b30b2b9b36a22d020e826e695cab1139f0a79640ef2b5bbf4",
+      "result_text_sha256": "73e25e7759efdc0b30b2b9b36a22d020e826e695cab1139f0a79640ef2b5bbf4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 87,
+      "unit_id": "ziwei_068_u0087",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 2,
+      "proposal_id": "z068_u0087_r1",
+      "input_text_sha256": "9a1e4b7f598b1aa2260b1f0e30f0df6b0ddc8e1542d6f6064e8475c42feb88a7",
+      "result_text_sha256": "9a1e4b7f598b1aa2260b1f0e30f0df6b0ddc8e1542d6f6064e8475c42feb88a7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 88,
+      "unit_id": "ziwei_068_u0088",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 3,
+      "proposal_id": "z068_u0088_r1",
+      "input_text_sha256": "7e10a8f562faf62aa18854daefb2ffa3165c1aa1007ae88a133937c3dd195f43",
+      "result_text_sha256": "7e10a8f562faf62aa18854daefb2ffa3165c1aa1007ae88a133937c3dd195f43",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 89,
+      "unit_id": "ziwei_068_u0089",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 4,
+      "proposal_id": "z068_u0089_r1",
+      "input_text_sha256": "cbc4758c466fba180ed90944ffd15ffc405b81ff42ce89e29c873fac4b1322b1",
+      "result_text_sha256": "cbc4758c466fba180ed90944ffd15ffc405b81ff42ce89e29c873fac4b1322b1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 90,
+      "unit_id": "ziwei_068_u0090",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 5,
+      "proposal_id": "z068_u0090_r1",
+      "input_text_sha256": "a735578b0f646388def475b1e0cdc590b91a7782528ab656f76e26b28c2016cd",
+      "result_text_sha256": "a735578b0f646388def475b1e0cdc590b91a7782528ab656f76e26b28c2016cd",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 91,
+      "unit_id": "ziwei_068_u0091",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 6,
+      "proposal_id": "z068_u0091_r1",
+      "input_text_sha256": "fcbdb7581135391e62440ee595c8d1b98c93cc6e29a6785e6ccb3b652566c93b",
+      "result_text_sha256": "fcbdb7581135391e62440ee595c8d1b98c93cc6e29a6785e6ccb3b652566c93b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 92,
+      "unit_id": "ziwei_068_u0092",
+      "batch_sha256": "ff5b7faa4fb38a08344ff47db16cd2f91f6e8ea1c2518e167876f49f492de45d",
+      "line_number": 7,
+      "proposal_id": "z068_u0092_r1",
+      "input_text_sha256": "6edb4e7e62ace23ab8ba00c28db6bfd7aa3b57c352e2e9262ace4f3a66055ca9",
+      "result_text_sha256": "6edb4e7e62ace23ab8ba00c28db6bfd7aa3b57c352e2e9262ace4f3a66055ca9",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-001-092/batch-086-092-v1.jsonl"
+    },
+    {
+      "ordinal": 93,
+      "unit_id": "ziwei_068_u0093",
+      "batch_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0093_v1",
+      "input_text_sha256": "127fd8fe62ee294aead83161468aa93fc16a47f2442f8f673046005d71311f80",
+      "result_text_sha256": "127fd8fe62ee294aead83161468aa93fc16a47f2442f8f673046005d71311f80",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl"
+    },
+    {
+      "ordinal": 94,
+      "unit_id": "ziwei_068_u0094",
+      "batch_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0094_v1",
+      "input_text_sha256": "5f19a8610cc28d2b1b783e29d6d1c132f37f5677a6344bcc135f619bfcbb0a87",
+      "result_text_sha256": "7408b77ca9aa38732c91ace73c7ddbad9fa0037a7590b50e1b98ccdaef794908",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl"
+    },
+    {
+      "ordinal": 95,
+      "unit_id": "ziwei_068_u0095",
+      "batch_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0095_v1",
+      "input_text_sha256": "fcf6820862acaa8b8675540fb83f5dd17df39345766339280b9d19c48eedcfa1",
+      "result_text_sha256": "fcf6820862acaa8b8675540fb83f5dd17df39345766339280b9d19c48eedcfa1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl"
+    },
+    {
+      "ordinal": 96,
+      "unit_id": "ziwei_068_u0096",
+      "batch_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0096_v1",
+      "input_text_sha256": "7f17e19024e2fce2a44fbecbd77216dd01d3a56756bde0dc97ace2cf072eca25",
+      "result_text_sha256": "7f17e19024e2fce2a44fbecbd77216dd01d3a56756bde0dc97ace2cf072eca25",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl"
+    },
+    {
+      "ordinal": 97,
+      "unit_id": "ziwei_068_u0097",
+      "batch_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0097_v1",
+      "input_text_sha256": "c93f2a1b4055ede97774a7f700664470bedf60656272402b47a4e81eb1f2ea64",
+      "result_text_sha256": "c93f2a1b4055ede97774a7f700664470bedf60656272402b47a4e81eb1f2ea64",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-093-097-v1.jsonl"
+    },
+    {
+      "ordinal": 98,
+      "unit_id": "ziwei_068_u0098",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0098_v2",
+      "input_text_sha256": "2a451a510bd0c110fa820952bbe8a9f806c21face066b7cec4a5e76300960f56",
+      "result_text_sha256": "2a451a510bd0c110fa820952bbe8a9f806c21face066b7cec4a5e76300960f56",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 99,
+      "unit_id": "ziwei_068_u0099",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0099_v2",
+      "input_text_sha256": "9e8d1b950c2d7fa511aea1f88ff7107c44ec68936f6ba8936a5b00cc07615ea1",
+      "result_text_sha256": "9e8d1b950c2d7fa511aea1f88ff7107c44ec68936f6ba8936a5b00cc07615ea1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 100,
+      "unit_id": "ziwei_068_u0100",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0100_v2",
+      "input_text_sha256": "a86e010a8c5f7bdaeb592d4bfbf75563fbcbffc15e290e433f764943db283a3f",
+      "result_text_sha256": "a86e010a8c5f7bdaeb592d4bfbf75563fbcbffc15e290e433f764943db283a3f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 101,
+      "unit_id": "ziwei_068_u0101",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0101_v2",
+      "input_text_sha256": "dfe5d16fcc83fbd0e57bfb50a1e5ed9c1e1d1bf91ed4329be824a8b5f7a36563",
+      "result_text_sha256": "31480a4240f93f03668c587c41bd684ea5bf7c2a1a79ef5297ca303fd3cadbd1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 102,
+      "unit_id": "ziwei_068_u0102",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0102_v2",
+      "input_text_sha256": "20a37fa5746a3fcfb1a17350c00a3ad6ae233a244093817b534f9f6230a49412",
+      "result_text_sha256": "20a37fa5746a3fcfb1a17350c00a3ad6ae233a244093817b534f9f6230a49412",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 103,
+      "unit_id": "ziwei_068_u0103",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0103_v2",
+      "input_text_sha256": "1bf31f352892966d2718c197907e740dd6c62e10fd1002700a4ae770c7761e11",
+      "result_text_sha256": "2c9789401359765e116b1852e5fab90fb9892955e12eb57d784ac4e39713e0ef",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 104,
+      "unit_id": "ziwei_068_u0104",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0104_v2",
+      "input_text_sha256": "a2e947bede109ff54b89ea58e31020313e6a2c1c12fab85e3dc7af6294ebe99c",
+      "result_text_sha256": "a2e947bede109ff54b89ea58e31020313e6a2c1c12fab85e3dc7af6294ebe99c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 105,
+      "unit_id": "ziwei_068_u0105",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0105_v2",
+      "input_text_sha256": "9400c2326a36279d25271569e5849c1eb0cc135d57995a02b02d663048bdd1e7",
+      "result_text_sha256": "9400c2326a36279d25271569e5849c1eb0cc135d57995a02b02d663048bdd1e7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 106,
+      "unit_id": "ziwei_068_u0106",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0106_v2",
+      "input_text_sha256": "c51cd986fe851699fd09862fa55b49c7218f29f2a1e8ecbf760ad19c9de9d39a",
+      "result_text_sha256": "c51cd986fe851699fd09862fa55b49c7218f29f2a1e8ecbf760ad19c9de9d39a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 107,
+      "unit_id": "ziwei_068_u0107",
+      "batch_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0107_v2",
+      "input_text_sha256": "f7c1d2be6fa806dfacb63c68467393b9a4673bac76102799bfb449655fe447c7",
+      "result_text_sha256": "f7c1d2be6fa806dfacb63c68467393b9a4673bac76102799bfb449655fe447c7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-098-107-v2.jsonl"
+    },
+    {
+      "ordinal": 108,
+      "unit_id": "ziwei_068_u0108",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0108_v2",
+      "input_text_sha256": "9972b0e7aa5ffe263875d009e1715ad1f9adc863d3dd0f5b839e4fe9cad4283e",
+      "result_text_sha256": "9972b0e7aa5ffe263875d009e1715ad1f9adc863d3dd0f5b839e4fe9cad4283e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 109,
+      "unit_id": "ziwei_068_u0109",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0109_v2",
+      "input_text_sha256": "24298916eff28710b924c3980d118247b1afa8d017621c1d75c03ac4bab38de1",
+      "result_text_sha256": "02b144996908a98d4f8a534dc808b0c360074d7a95e44b14d92b91d7b237f06b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 110,
+      "unit_id": "ziwei_068_u0110",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0110_v2",
+      "input_text_sha256": "ff7892fe6e40955a5fb672e97a4eeeaa423ca217483788e57b37824ec41f2c70",
+      "result_text_sha256": "ff7892fe6e40955a5fb672e97a4eeeaa423ca217483788e57b37824ec41f2c70",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 111,
+      "unit_id": "ziwei_068_u0111",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0111_v2",
+      "input_text_sha256": "4a75bd9b25f7562a56e7e07bed1fa5d2fe29d4041d0a20a0e1c721e8fb0ec3e4",
+      "result_text_sha256": "4a75bd9b25f7562a56e7e07bed1fa5d2fe29d4041d0a20a0e1c721e8fb0ec3e4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 112,
+      "unit_id": "ziwei_068_u0112",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0112_v2",
+      "input_text_sha256": "b62c3273d410514df5900210b32d375b9b81a4bd148c6dd2882b15e130f7d06f",
+      "result_text_sha256": "b62c3273d410514df5900210b32d375b9b81a4bd148c6dd2882b15e130f7d06f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 113,
+      "unit_id": "ziwei_068_u0113",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0113_v2",
+      "input_text_sha256": "4838324cd4f02167bcee9404f0928e75fa058d03175824d39c4544ab2da5cf72",
+      "result_text_sha256": "4838324cd4f02167bcee9404f0928e75fa058d03175824d39c4544ab2da5cf72",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 114,
+      "unit_id": "ziwei_068_u0114",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0114_v2",
+      "input_text_sha256": "704235b3197eaacf24d8131f991f4aaf4e5e145df269216bf77bba4c4e338488",
+      "result_text_sha256": "63da835ec9b52a78fa9b042ea1ff53029546e20416c0c72b63827948f68cab9b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 115,
+      "unit_id": "ziwei_068_u0115",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0115_v2",
+      "input_text_sha256": "1bc7f419c06cab21b4b3382a69d12e12e65f4a8986a7ff9d93b2f1b59e979c0a",
+      "result_text_sha256": "1bc7f419c06cab21b4b3382a69d12e12e65f4a8986a7ff9d93b2f1b59e979c0a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 116,
+      "unit_id": "ziwei_068_u0116",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0116_v2",
+      "input_text_sha256": "837952e577808e6e708c6035e05d12549f448895b60ac00162f5db1e9d2fb73c",
+      "result_text_sha256": "837952e577808e6e708c6035e05d12549f448895b60ac00162f5db1e9d2fb73c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 117,
+      "unit_id": "ziwei_068_u0117",
+      "batch_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0117_v2",
+      "input_text_sha256": "9284f8b631f4d2e413c43171fb15f91ae8f94b4829ed857da6994718cc74ca9e",
+      "result_text_sha256": "3b22b73df36c5f3dbcd5e3dd79ce56796b4dfb19c9871f79feef20ba0247bf30",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-108-117-v2.jsonl"
+    },
+    {
+      "ordinal": 118,
+      "unit_id": "ziwei_068_u0118",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0118_v1",
+      "input_text_sha256": "d2927b1e4fee3ed940e303acf7c5515efd8a07f4de177a93f7e793fc1e6a4d77",
+      "result_text_sha256": "d2927b1e4fee3ed940e303acf7c5515efd8a07f4de177a93f7e793fc1e6a4d77",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 119,
+      "unit_id": "ziwei_068_u0119",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0119_v1",
+      "input_text_sha256": "7aaa2cb5cd011ec6f9593c64bed3d6710bf844d3a2219c6cdc5bcf6bbf8e3627",
+      "result_text_sha256": "7aaa2cb5cd011ec6f9593c64bed3d6710bf844d3a2219c6cdc5bcf6bbf8e3627",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 120,
+      "unit_id": "ziwei_068_u0120",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0120_v1",
+      "input_text_sha256": "b989597721a7a027fdb58ab82fb72196fc739df352eac648048194a7bd823ca4",
+      "result_text_sha256": "b989597721a7a027fdb58ab82fb72196fc739df352eac648048194a7bd823ca4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 121,
+      "unit_id": "ziwei_068_u0121",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0121_v1",
+      "input_text_sha256": "5303a7d066e5a232e2ce008170248e6aa01d19bf838c3923ee189d2c6685c532",
+      "result_text_sha256": "5303a7d066e5a232e2ce008170248e6aa01d19bf838c3923ee189d2c6685c532",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 122,
+      "unit_id": "ziwei_068_u0122",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0122_v1",
+      "input_text_sha256": "6c990c87f10af41b3fd45a22b282a02c356aa61ce4b01f0969d21e827c6fd047",
+      "result_text_sha256": "6c990c87f10af41b3fd45a22b282a02c356aa61ce4b01f0969d21e827c6fd047",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 123,
+      "unit_id": "ziwei_068_u0123",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0123_v1",
+      "input_text_sha256": "8be60b81304a7ec1224044ff1ac4d4b2dbdde0c76ad11f31968a2aeb31a784ae",
+      "result_text_sha256": "8be60b81304a7ec1224044ff1ac4d4b2dbdde0c76ad11f31968a2aeb31a784ae",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 124,
+      "unit_id": "ziwei_068_u0124",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0124_v1",
+      "input_text_sha256": "c758195705074b8272ab30939df62708dacc23ac958e0ac2cae80f3f8794f4cf",
+      "result_text_sha256": "c758195705074b8272ab30939df62708dacc23ac958e0ac2cae80f3f8794f4cf",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 125,
+      "unit_id": "ziwei_068_u0125",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0125_v1",
+      "input_text_sha256": "cd4ee64815c1a6b2c0866d1a18fb6de65640be93aa1b661f22257397c6f28548",
+      "result_text_sha256": "cd4ee64815c1a6b2c0866d1a18fb6de65640be93aa1b661f22257397c6f28548",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 126,
+      "unit_id": "ziwei_068_u0126",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0126_v1",
+      "input_text_sha256": "b5e89662c2dcaeceb18393b861925c2de8891c51d61e4cc784a785ac0c1b483e",
+      "result_text_sha256": "b5e89662c2dcaeceb18393b861925c2de8891c51d61e4cc784a785ac0c1b483e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 127,
+      "unit_id": "ziwei_068_u0127",
+      "batch_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0127_v1",
+      "input_text_sha256": "bea3d5e9c001216e7cf4e51421cd5621ae78eda26c3bf98bdc1c9743fc03b56a",
+      "result_text_sha256": "bea3d5e9c001216e7cf4e51421cd5621ae78eda26c3bf98bdc1c9743fc03b56a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-118-127-v1.jsonl"
+    },
+    {
+      "ordinal": 128,
+      "unit_id": "ziwei_068_u0128",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0128_v1",
+      "input_text_sha256": "a6785d2b457060415327dfa56844e162232c2fcdf14d2050ac907294ff2ee8de",
+      "result_text_sha256": "1bb9da04bdc9d0005c609c42f1cb48d81dd5de2e69e5a11ba1f25d9df64d0d0a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 129,
+      "unit_id": "ziwei_068_u0129",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0129_v1",
+      "input_text_sha256": "88a9ff98f78fb96be7e3622ee328968784d425c65abffedba50e1474980b56a7",
+      "result_text_sha256": "4b40b1393b1a92feb924e018230fbea478ae6cb15a0f2bccf44639faab79cee2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 130,
+      "unit_id": "ziwei_068_u0130",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0130_v1",
+      "input_text_sha256": "a66f108181f17a26b843bab7825b26332a35341189cb3b13fbde62c85abe9596",
+      "result_text_sha256": "a66f108181f17a26b843bab7825b26332a35341189cb3b13fbde62c85abe9596",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 131,
+      "unit_id": "ziwei_068_u0131",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0131_v1",
+      "input_text_sha256": "798ca9b33e58eabd39db6adb0111d31fb631d2e6c558e1394f21cc67e9974232",
+      "result_text_sha256": "faa1dfe19c1b68ce068b36ed42553af700f3a31a5f63b59924e779140902a333",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 132,
+      "unit_id": "ziwei_068_u0132",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0132_v1",
+      "input_text_sha256": "4241bf4899460fc5b2cb011169bf298373fc3dab55d449a201d2d3090563d2a0",
+      "result_text_sha256": "4241bf4899460fc5b2cb011169bf298373fc3dab55d449a201d2d3090563d2a0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 133,
+      "unit_id": "ziwei_068_u0133",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0133_v1",
+      "input_text_sha256": "12f9b3cd1a3054f1079fdef64520f95d99997edcd82a1ddf765acde88c3ff544",
+      "result_text_sha256": "12f9b3cd1a3054f1079fdef64520f95d99997edcd82a1ddf765acde88c3ff544",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 134,
+      "unit_id": "ziwei_068_u0134",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0134_v1",
+      "input_text_sha256": "1d8a70a4bff1f5bcfd43c34a91dc66bb91a41131ccb30988b353c9cc6a722378",
+      "result_text_sha256": "95b6269fea371df5c7221e112f433923a3edc6bb23e6ce1bc4ed5541652a1213",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 135,
+      "unit_id": "ziwei_068_u0135",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0135_v1",
+      "input_text_sha256": "01ccc2d6bb1c685a0a26d553cc5de042e4b900f37f055b0959231857c6bcbd1c",
+      "result_text_sha256": "01ccc2d6bb1c685a0a26d553cc5de042e4b900f37f055b0959231857c6bcbd1c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 136,
+      "unit_id": "ziwei_068_u0136",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0136_v1",
+      "input_text_sha256": "93dff9e6dc5eabc96341ee06aad5c7f758e6d6ad52338ff4ff40a193ef214420",
+      "result_text_sha256": "93dff9e6dc5eabc96341ee06aad5c7f758e6d6ad52338ff4ff40a193ef214420",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 137,
+      "unit_id": "ziwei_068_u0137",
+      "batch_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0137_v1",
+      "input_text_sha256": "136710a5bde894307fbcac1bd65c267acf9b3e077525bbedc736993cf3065fc3",
+      "result_text_sha256": "9e80d749c8a44cdbc469f8f65f0d43027c16a2266013c2e579256f9aad48b99d",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-128-137-v1.jsonl"
+    },
+    {
+      "ordinal": 138,
+      "unit_id": "ziwei_068_u0138",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0138_v1",
+      "input_text_sha256": "a04b257ad9eb9734e9acab4c2e57f1b0bf765f20b78cfac8a422ab451b70351d",
+      "result_text_sha256": "88b1537ddc8623c70795e1f41eff04775fe21b876c3107668fcabc1661b3c4ba",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 139,
+      "unit_id": "ziwei_068_u0139",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0139_v1",
+      "input_text_sha256": "fb7b37f6e79569c0dd7ac9b73c176a9d24469a9a2776a5d21b6e2270ad67accc",
+      "result_text_sha256": "fb7b37f6e79569c0dd7ac9b73c176a9d24469a9a2776a5d21b6e2270ad67accc",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 140,
+      "unit_id": "ziwei_068_u0140",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0140_v1",
+      "input_text_sha256": "f5f32a82ac28f8ff06c870febba9e0da8ad106b74d88ff698a529830a8afc055",
+      "result_text_sha256": "f5f32a82ac28f8ff06c870febba9e0da8ad106b74d88ff698a529830a8afc055",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 141,
+      "unit_id": "ziwei_068_u0141",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0141_v1",
+      "input_text_sha256": "da5b61a70014fe4bba8b63f9595f3c24afe91cd0d1a5ed826e8a427947eaa2db",
+      "result_text_sha256": "da5b61a70014fe4bba8b63f9595f3c24afe91cd0d1a5ed826e8a427947eaa2db",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 142,
+      "unit_id": "ziwei_068_u0142",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0142_v1",
+      "input_text_sha256": "60616957e07ce9c952613a4b491befb93e6e13ec1007a7406175bfe29c5b42c9",
+      "result_text_sha256": "f58267525a0619ccd5531c852167b6f3360c51c02754f81912749666adf112dd",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 143,
+      "unit_id": "ziwei_068_u0143",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0143_v1",
+      "input_text_sha256": "9fa8705eae6588363137a2d4b303019a77ecf2ec8b09cf82fd9c660b53bef9aa",
+      "result_text_sha256": "3a72009781dba2168b37acf298ba23d752cf6f092ef773c29e1e0e215ed1b715",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 144,
+      "unit_id": "ziwei_068_u0144",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0144_v1",
+      "input_text_sha256": "c0af7d49e020ec07b9af454d951e06d59ffaee9f362865e735bd6c76f3849e47",
+      "result_text_sha256": "c0af7d49e020ec07b9af454d951e06d59ffaee9f362865e735bd6c76f3849e47",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 145,
+      "unit_id": "ziwei_068_u0145",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0145_v1",
+      "input_text_sha256": "88b71d8949757e489f4a894dbdeff2e5eff311758211efae8135e5c5e38c5e72",
+      "result_text_sha256": "88b71d8949757e489f4a894dbdeff2e5eff311758211efae8135e5c5e38c5e72",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 146,
+      "unit_id": "ziwei_068_u0146",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0146_v1",
+      "input_text_sha256": "7c6e9aefbe31d720314813fb860e8ed9e1db5b95a075b4e896fccc1847ce056e",
+      "result_text_sha256": "ff8728271dcd92e43cdd597733fc91a3e85f0049242c9c96a57d9c0746cbb05c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 147,
+      "unit_id": "ziwei_068_u0147",
+      "batch_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0147_v1",
+      "input_text_sha256": "d142db690ff4fde15a01c1b855be677a6280f59c501ab4ae1b06c12aa6145a1b",
+      "result_text_sha256": "d142db690ff4fde15a01c1b855be677a6280f59c501ab4ae1b06c12aa6145a1b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-138-147-v1.jsonl"
+    },
+    {
+      "ordinal": 148,
+      "unit_id": "ziwei_068_u0148",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0148_v1",
+      "input_text_sha256": "c7d2cc12c0ac0c47ef25510be1fcb1d17d5fa77baf62d9e8acb18836be84c5e7",
+      "result_text_sha256": "c7d2cc12c0ac0c47ef25510be1fcb1d17d5fa77baf62d9e8acb18836be84c5e7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 149,
+      "unit_id": "ziwei_068_u0149",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0149_v1",
+      "input_text_sha256": "e2bcfd0ec85061f867db2589e01572fd5781df928424b30625981e5f8ddf42d5",
+      "result_text_sha256": "e2bcfd0ec85061f867db2589e01572fd5781df928424b30625981e5f8ddf42d5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 150,
+      "unit_id": "ziwei_068_u0150",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0150_v1",
+      "input_text_sha256": "ab263d187853ee3640f36b27f9ec18d1b7fd8c32bf768499d6bf104b2d2bbe13",
+      "result_text_sha256": "8fe2b2a98c5b3bc46bf4163832c3d9ff8e97c029e67fd5e28d0e5d0f7e02b5fd",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 151,
+      "unit_id": "ziwei_068_u0151",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0151_v1",
+      "input_text_sha256": "6b583aee9eae0a4511e9c3539674d4be4fe94a08639e9a61a4a6501dc2eb802f",
+      "result_text_sha256": "8567f0bb192d82002880bc03880d4a8b6e13692ac48b4be4f19c4a8ed590866f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 152,
+      "unit_id": "ziwei_068_u0152",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0152_v1",
+      "input_text_sha256": "31d99fc38d72439f44002317169cba288818289adbbe72624df55c8dc4380eed",
+      "result_text_sha256": "3d77ee0150ca4584333e5fe1dcf4a4455be3dfea052b945500df2ca6fcea2110",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 153,
+      "unit_id": "ziwei_068_u0153",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0153_v1",
+      "input_text_sha256": "c926ec885ed9e8bd89f8fcc3b4e3350d275d8534ed489ae6fc3220b9ac3b868f",
+      "result_text_sha256": "f939c901245980a30c3f4290b260d695f9e904cad6f9ba73c5eea3086e1a1f04",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 154,
+      "unit_id": "ziwei_068_u0154",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0154_v1",
+      "input_text_sha256": "1d80bfda4028161ffad4fd300b7d69848b70b8290281729515d4d0ca3bf9bbe0",
+      "result_text_sha256": "1d80bfda4028161ffad4fd300b7d69848b70b8290281729515d4d0ca3bf9bbe0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 155,
+      "unit_id": "ziwei_068_u0155",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0155_v1",
+      "input_text_sha256": "60df0c45910d94a647c396fcd46e4539fb1436d97570bbd109b11ec54021bca5",
+      "result_text_sha256": "60df0c45910d94a647c396fcd46e4539fb1436d97570bbd109b11ec54021bca5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 156,
+      "unit_id": "ziwei_068_u0156",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0156_v1",
+      "input_text_sha256": "4d935f27f07682947f4c02f5819c8d5d43dc61aab85c8aea5102f75d627101a0",
+      "result_text_sha256": "4d935f27f07682947f4c02f5819c8d5d43dc61aab85c8aea5102f75d627101a0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 157,
+      "unit_id": "ziwei_068_u0157",
+      "batch_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0157_v1",
+      "input_text_sha256": "69af8ba84f15d8aaefb4b59d5e0b1a3e5f75048a6474ec93a6e0827cff195b03",
+      "result_text_sha256": "69af8ba84f15d8aaefb4b59d5e0b1a3e5f75048a6474ec93a6e0827cff195b03",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-148-157-v1.jsonl"
+    },
+    {
+      "ordinal": 158,
+      "unit_id": "ziwei_068_u0158",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0158_v1",
+      "input_text_sha256": "9f49d23962dfbc40d835ad5eb68639dbc10b8e525105675034647f6c57245662",
+      "result_text_sha256": "199584644692732040b0d1f1100318bdab9325f87f866d95d4e5cd82b4f76b9e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 159,
+      "unit_id": "ziwei_068_u0159",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0159_v1",
+      "input_text_sha256": "de337520ad5cefb40fdbb02b2cb086b71e253e541472b08581e382695e148cfe",
+      "result_text_sha256": "de337520ad5cefb40fdbb02b2cb086b71e253e541472b08581e382695e148cfe",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 160,
+      "unit_id": "ziwei_068_u0160",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0160_v1",
+      "input_text_sha256": "6b9607b84c7f43e5c64fb56913fcca84d5f5024c243ffb2de68e5a2213dff74a",
+      "result_text_sha256": "9d276088800cf663c65535c821c248a473f76ed1d1d700572d9d358657c94022",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 161,
+      "unit_id": "ziwei_068_u0161",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0161_v1",
+      "input_text_sha256": "3264303eeab95c7de5a4178fff66a2f15b1c5925e6833794f07e453941600661",
+      "result_text_sha256": "df165ca87f4ca3e248da0143e3bc3be45aee7c5ee0111cbbdb768ed97e865f50",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 162,
+      "unit_id": "ziwei_068_u0162",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0162_v1",
+      "input_text_sha256": "d2b8980274fe023e115b3a918feb6135b34d11d1ed5987ed1b350055e058a3aa",
+      "result_text_sha256": "d2b8980274fe023e115b3a918feb6135b34d11d1ed5987ed1b350055e058a3aa",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 163,
+      "unit_id": "ziwei_068_u0163",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0163_v1",
+      "input_text_sha256": "8542ebda7d99878c7dab6cab8540007ab6751ed5d2a0ed41ec424f62aadc5e42",
+      "result_text_sha256": "8542ebda7d99878c7dab6cab8540007ab6751ed5d2a0ed41ec424f62aadc5e42",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 164,
+      "unit_id": "ziwei_068_u0164",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0164_v1",
+      "input_text_sha256": "028d570de1e109dacd90441aada5e54543854eea49b501c87cc2be3420aa4721",
+      "result_text_sha256": "028d570de1e109dacd90441aada5e54543854eea49b501c87cc2be3420aa4721",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 165,
+      "unit_id": "ziwei_068_u0165",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0165_v1",
+      "input_text_sha256": "bf058ddcc692e694d19f7d23460af525c167bb2b0d0338a2ab2cb4165d7c865b",
+      "result_text_sha256": "bf058ddcc692e694d19f7d23460af525c167bb2b0d0338a2ab2cb4165d7c865b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 166,
+      "unit_id": "ziwei_068_u0166",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0166_v1",
+      "input_text_sha256": "7d5f42548b6fc355e09e8cc1b4eb8ac49ccfdb98fa9aabba085934e6f7eea2cb",
+      "result_text_sha256": "7d5f42548b6fc355e09e8cc1b4eb8ac49ccfdb98fa9aabba085934e6f7eea2cb",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 167,
+      "unit_id": "ziwei_068_u0167",
+      "batch_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0167_v1",
+      "input_text_sha256": "5426e16b145045de67ea6c6ebbf7da3732eec6a210d437867c72972dc4daa88a",
+      "result_text_sha256": "69e6b9d0ce0ad48b0b2f5007c45e9cd7d731d9ded0efbd2bcb421d5cb9bde6c2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-158-167-v1.jsonl"
+    },
+    {
+      "ordinal": 168,
+      "unit_id": "ziwei_068_u0168",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0168_v1",
+      "input_text_sha256": "fae83190a3ce6b5a748198bc601c4867d6d68f6a3dead9888a8770004dde9ba1",
+      "result_text_sha256": "fae83190a3ce6b5a748198bc601c4867d6d68f6a3dead9888a8770004dde9ba1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 169,
+      "unit_id": "ziwei_068_u0169",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0169_v1",
+      "input_text_sha256": "a8a3857781eaef8b395b779b34905a71db13ea710ce2f270ab60b5c9d482814d",
+      "result_text_sha256": "a8a3857781eaef8b395b779b34905a71db13ea710ce2f270ab60b5c9d482814d",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 170,
+      "unit_id": "ziwei_068_u0170",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0170_v1",
+      "input_text_sha256": "a42770993ea7dfc0b8b6fe46f229b04c74730813542fb2f64845316c28e5867b",
+      "result_text_sha256": "2132a4dabc334422b4111eb5fbdce77e2766513c1fedbfb6b72378b77b0794f6",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 171,
+      "unit_id": "ziwei_068_u0171",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0171_v1",
+      "input_text_sha256": "f75c79a596b88b655358a2d3fbcfba81f0425e4dde1119aeec96fc8d23fc0a4b",
+      "result_text_sha256": "8fd7d70e5089921c476f6df341c0aca5e9def3031d53ef00edd8dfc2401e164d",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 172,
+      "unit_id": "ziwei_068_u0172",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0172_v1",
+      "input_text_sha256": "f35c69addc8254bd49d7f7396cbdf99a13d8bb07209513dc942f5ab033805927",
+      "result_text_sha256": "f35c69addc8254bd49d7f7396cbdf99a13d8bb07209513dc942f5ab033805927",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 173,
+      "unit_id": "ziwei_068_u0173",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0173_v1",
+      "input_text_sha256": "db295fef69289211204c5274ba45b65fbca439cd187800139e92eeae01d37d8a",
+      "result_text_sha256": "6396cbc083861b2e8c52a93e36373422563c2a3b5814be20ad59f6a348ef609a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 174,
+      "unit_id": "ziwei_068_u0174",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0174_v1",
+      "input_text_sha256": "ac24301e7b1d450b76a3fd210918a7217c798b2f970d57c58b4bc6ff789de9d9",
+      "result_text_sha256": "0b7c1e8673415e3385c8df2b9cf618994e8d721b601ff1347acea23d39c3e962",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 175,
+      "unit_id": "ziwei_068_u0175",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0175_v1",
+      "input_text_sha256": "2d357e8497fe79f631c5200fa8878baeeffc407fbb7d05db6347f6df8d9670bd",
+      "result_text_sha256": "2d357e8497fe79f631c5200fa8878baeeffc407fbb7d05db6347f6df8d9670bd",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 176,
+      "unit_id": "ziwei_068_u0176",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0176_v1",
+      "input_text_sha256": "34c9fa74f3856282d2ccab3c048b77584758f8a0deb7aaf8b6fe5d857a3d75cb",
+      "result_text_sha256": "34c9fa74f3856282d2ccab3c048b77584758f8a0deb7aaf8b6fe5d857a3d75cb",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 177,
+      "unit_id": "ziwei_068_u0177",
+      "batch_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0177_v1",
+      "input_text_sha256": "be0a99e8137598d6775ed3d7c1781b46b503b24bfe664c07268b21a6d76cfedd",
+      "result_text_sha256": "be0a99e8137598d6775ed3d7c1781b46b503b24bfe664c07268b21a6d76cfedd",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-168-177-v1.jsonl"
+    },
+    {
+      "ordinal": 178,
+      "unit_id": "ziwei_068_u0178",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0178_v1",
+      "input_text_sha256": "7dd5a8639db4e341f698c439cf1882a0516f8b47d2ea82d8bce16f050b1fde89",
+      "result_text_sha256": "57d5a89ed1a9adf7ecdedf7ad87b794d4959ac6177486526f827d5e205188d60",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 179,
+      "unit_id": "ziwei_068_u0179",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0179_v1",
+      "input_text_sha256": "a401e75b623d0d10f5aa615b7b8b0ff833876a6803779d65635fd4e04ef0ce12",
+      "result_text_sha256": "ddb388e75cc6eefb3491ce3c024e0f0b7e02d347a16b124374d9354868152f83",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 180,
+      "unit_id": "ziwei_068_u0180",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0180_v1",
+      "input_text_sha256": "0abc9d5ae36f570194a914097abb7784e433ab28ca11d1fde42b8fd5c54b44eb",
+      "result_text_sha256": "bec0566e30c2cfc8d4edd7686b14506b745d32d81e37db401bb8a26b7696aecc",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 181,
+      "unit_id": "ziwei_068_u0181",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0181_v1",
+      "input_text_sha256": "d5de533b3181fb2f75d09a8027a2f16090dda96470eebf80e72ed62cce4a4818",
+      "result_text_sha256": "d5de533b3181fb2f75d09a8027a2f16090dda96470eebf80e72ed62cce4a4818",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 182,
+      "unit_id": "ziwei_068_u0182",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0182_v1",
+      "input_text_sha256": "c42648ddcff155a23737bca0a2eae83e008fc7ca7804a2fe0daa2becec89a44c",
+      "result_text_sha256": "9da80bba9287f7524ab64cdfce4381c299192e7cbb3636e0bd9b74f436f22eb7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 183,
+      "unit_id": "ziwei_068_u0183",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0183_v1",
+      "input_text_sha256": "a0301a226417092b53ad12e17e7871140f1f2cf7eb54ad7bdb3ca5a2c94350c6",
+      "result_text_sha256": "a0301a226417092b53ad12e17e7871140f1f2cf7eb54ad7bdb3ca5a2c94350c6",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 184,
+      "unit_id": "ziwei_068_u0184",
+      "batch_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0184_v1",
+      "input_text_sha256": "026cebf28441fef8412a85a62083e386c336940109166b6bfc34165124eb7dac",
+      "result_text_sha256": "f977cde116fac32db5233489ac22b7e34ce49178babb09a3ad03b4f8f9302246",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-093-184/batch-178-184-v1.jsonl"
+    },
+    {
+      "ordinal": 185,
+      "unit_id": "ziwei_068_u0185",
+      "batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0185_v3",
+      "input_text_sha256": "5e6c8c46d86f1db10b37979336de6f878e27041f95fe0ee14e893b8dd4bf4fb8",
+      "result_text_sha256": "5e6c8c46d86f1db10b37979336de6f878e27041f95fe0ee14e893b8dd4bf4fb8",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl"
+    },
+    {
+      "ordinal": 186,
+      "unit_id": "ziwei_068_u0186",
+      "batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0186_v3",
+      "input_text_sha256": "d6392fb108107c90c2514ba7bef509712804ee76eefb4cbda61bd0511258fd1e",
+      "result_text_sha256": "ce0db9cf3d908841e59debcf52e3fb05c6bec9f392fea6b6a378a65da4bec388",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl"
+    },
+    {
+      "ordinal": 187,
+      "unit_id": "ziwei_068_u0187",
+      "batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0187_v3",
+      "input_text_sha256": "a0868eccd18251603c4fec5eda2c82ef8612fbae9cf92ca6c82c7d83751ab893",
+      "result_text_sha256": "a0868eccd18251603c4fec5eda2c82ef8612fbae9cf92ca6c82c7d83751ab893",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl"
+    },
+    {
+      "ordinal": 188,
+      "unit_id": "ziwei_068_u0188",
+      "batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0188_v3",
+      "input_text_sha256": "dd90470ce44581d12ecf876bcbc37d3660c09ae302e665f713f88f4071998919",
+      "result_text_sha256": "dd90470ce44581d12ecf876bcbc37d3660c09ae302e665f713f88f4071998919",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl"
+    },
+    {
+      "ordinal": 189,
+      "unit_id": "ziwei_068_u0189",
+      "batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0189_v3",
+      "input_text_sha256": "7de782e1eb580a7252a5369c88ad12f869611235e252b6e0618dd4031c7bc993",
+      "result_text_sha256": "7de782e1eb580a7252a5369c88ad12f869611235e252b6e0618dd4031c7bc993",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-185-189-v3.jsonl"
+    },
+    {
+      "ordinal": 190,
+      "unit_id": "ziwei_068_u0190",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0190_v2",
+      "input_text_sha256": "f9ae2cd1ef3b249789c9b24c13c9cd336c4c345438e4af4673eb45e632d415ba",
+      "result_text_sha256": "527d8f078ac02e263f78e4a873930a16d40f1ec72da2b1557853fb1de7f0b387",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 191,
+      "unit_id": "ziwei_068_u0191",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0191_v2",
+      "input_text_sha256": "1194e50dbfe674090289b09e40c4ccac5069ed8d81f8decf580a293c8374c13b",
+      "result_text_sha256": "1194e50dbfe674090289b09e40c4ccac5069ed8d81f8decf580a293c8374c13b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 192,
+      "unit_id": "ziwei_068_u0192",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0192_v2",
+      "input_text_sha256": "24e7494db18e3004064074a6806c0139a72f0de1092a04a522e289155399cf73",
+      "result_text_sha256": "24e7494db18e3004064074a6806c0139a72f0de1092a04a522e289155399cf73",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 193,
+      "unit_id": "ziwei_068_u0193",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0193_v2",
+      "input_text_sha256": "f6a4dcca3caa0371ee6bb38d13a89ad980e6d7ac353f32546ab16b6a455a3b24",
+      "result_text_sha256": "f6a4dcca3caa0371ee6bb38d13a89ad980e6d7ac353f32546ab16b6a455a3b24",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 194,
+      "unit_id": "ziwei_068_u0194",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0194_v2",
+      "input_text_sha256": "3899d09c8d5e2cd76e14c12a10c3e27b65ffc71ccb421e7855341a984fcfbf58",
+      "result_text_sha256": "3899d09c8d5e2cd76e14c12a10c3e27b65ffc71ccb421e7855341a984fcfbf58",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 195,
+      "unit_id": "ziwei_068_u0195",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0195_v2",
+      "input_text_sha256": "f5c19b1021c6f47de811643e30123af32939602fdab8106f56ea7a893dfc2b13",
+      "result_text_sha256": "3f43bc682c8c4b47fd74b173b920b3c9981ce4d81ebbe677a679477705930779",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 196,
+      "unit_id": "ziwei_068_u0196",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0196_v2",
+      "input_text_sha256": "2fbe780aa98d586dbffb308b7476007e2acec23d43bc2c0f76f2ad4d0d14deed",
+      "result_text_sha256": "2fbe780aa98d586dbffb308b7476007e2acec23d43bc2c0f76f2ad4d0d14deed",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 197,
+      "unit_id": "ziwei_068_u0197",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0197_v2",
+      "input_text_sha256": "56c4cae291fdadb2198997929f33a76ed6d027949530184f662ef4fc73afddf5",
+      "result_text_sha256": "56c4cae291fdadb2198997929f33a76ed6d027949530184f662ef4fc73afddf5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 198,
+      "unit_id": "ziwei_068_u0198",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0198_v2",
+      "input_text_sha256": "251482327d167213c039b2e1d708bd09d8f16f003e40e5acbf2d501a56e141c0",
+      "result_text_sha256": "251482327d167213c039b2e1d708bd09d8f16f003e40e5acbf2d501a56e141c0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 199,
+      "unit_id": "ziwei_068_u0199",
+      "batch_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0199_v2",
+      "input_text_sha256": "3deac96a5de1c13f08a3f22e1ed07b115ae77df6ea74307fce7f2faa321c3529",
+      "result_text_sha256": "3deac96a5de1c13f08a3f22e1ed07b115ae77df6ea74307fce7f2faa321c3529",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-190-199-v2.jsonl"
+    },
+    {
+      "ordinal": 200,
+      "unit_id": "ziwei_068_u0200",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0200_v2",
+      "input_text_sha256": "691cc65c0eb970230cdf41403aed0b728dbd5a6c2f01965ed803ce3f35eb57a9",
+      "result_text_sha256": "6747f3bf853f3d6ba81a4735ad29b0e92c316bd33b99a0fce3907cb968fd9f67",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 201,
+      "unit_id": "ziwei_068_u0201",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0201_v2",
+      "input_text_sha256": "b32e05ed39c16fe39cd2f7acafadc8d823f23f8a6bed23ab17611c93a966e7ff",
+      "result_text_sha256": "b32e05ed39c16fe39cd2f7acafadc8d823f23f8a6bed23ab17611c93a966e7ff",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 202,
+      "unit_id": "ziwei_068_u0202",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0202_v2",
+      "input_text_sha256": "a01662449538ca98dc02b7487889b9706a983572756fb76d8924cb93d9445839",
+      "result_text_sha256": "a01662449538ca98dc02b7487889b9706a983572756fb76d8924cb93d9445839",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 203,
+      "unit_id": "ziwei_068_u0203",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0203_v2",
+      "input_text_sha256": "fc545efe9cef787aa14f65542bc7c3880451be46aa5919df95533f556a1f92cd",
+      "result_text_sha256": "1108bf29103633ef8bdd231b2e763aa2e309bc3deb1484f19ac7d936192e273f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 204,
+      "unit_id": "ziwei_068_u0204",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0204_v2",
+      "input_text_sha256": "c5c9b964c3b3d388c8e1804613e711870d6edd0abd6341eeb35c37ca5c219284",
+      "result_text_sha256": "c5c9b964c3b3d388c8e1804613e711870d6edd0abd6341eeb35c37ca5c219284",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 205,
+      "unit_id": "ziwei_068_u0205",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0205_v2",
+      "input_text_sha256": "b96812cdf916013e043cc376bbc4c8bcf460e80602dfff1dc70e55b9ca35c124",
+      "result_text_sha256": "b96812cdf916013e043cc376bbc4c8bcf460e80602dfff1dc70e55b9ca35c124",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 206,
+      "unit_id": "ziwei_068_u0206",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0206_v2",
+      "input_text_sha256": "b3eb22f09c0a3861e9b27d3b9e59f473bcae8638b7592b6dcb6fe6ca0ea2d611",
+      "result_text_sha256": "b3eb22f09c0a3861e9b27d3b9e59f473bcae8638b7592b6dcb6fe6ca0ea2d611",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 207,
+      "unit_id": "ziwei_068_u0207",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0207_v2",
+      "input_text_sha256": "4fff98fa57ec4395593ff2830bb5115abf0bf74676db79593261aed8718578ca",
+      "result_text_sha256": "38fff54d6a0e82364f130dbda38cc74f264e0bc7c8042027934e113f6c7b8ba0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 208,
+      "unit_id": "ziwei_068_u0208",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0208_v2",
+      "input_text_sha256": "cc2b7b8ca55d05261704018ee07c369214f5ffd31e5c48b34b1a31412482c9e5",
+      "result_text_sha256": "cc2b7b8ca55d05261704018ee07c369214f5ffd31e5c48b34b1a31412482c9e5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 209,
+      "unit_id": "ziwei_068_u0209",
+      "batch_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0209_v2",
+      "input_text_sha256": "e208bd4af25b27387721a537623e4a56941e13ed5924af75a8cbc326964bf7ec",
+      "result_text_sha256": "e208bd4af25b27387721a537623e4a56941e13ed5924af75a8cbc326964bf7ec",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-200-209-v2.jsonl"
+    },
+    {
+      "ordinal": 210,
+      "unit_id": "ziwei_068_u0210",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0210_v2",
+      "input_text_sha256": "310b1816d454eebcf97a1b100e827ba15647764b17dff13b602432d0beaf1478",
+      "result_text_sha256": "310b1816d454eebcf97a1b100e827ba15647764b17dff13b602432d0beaf1478",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 211,
+      "unit_id": "ziwei_068_u0211",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0211_v2",
+      "input_text_sha256": "9eed4100e42de1fbfec0085a2f0892570ec023dd95eb10e501d6ebc42739bbf7",
+      "result_text_sha256": "9eed4100e42de1fbfec0085a2f0892570ec023dd95eb10e501d6ebc42739bbf7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 212,
+      "unit_id": "ziwei_068_u0212",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0212_v2",
+      "input_text_sha256": "ccf7b9026ed8776ea38d5b4a481c5e9645eaced57075612ae466dfb509723615",
+      "result_text_sha256": "99530fe870149d843a93eac59f14509ea72e89c01044735ac25fef118489b42a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 213,
+      "unit_id": "ziwei_068_u0213",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0213_v2",
+      "input_text_sha256": "d8ac5a3d0c8a6ae3862e9b4388eeaf579dc02e104e67f2d2556329ec98a1feb5",
+      "result_text_sha256": "d8ac5a3d0c8a6ae3862e9b4388eeaf579dc02e104e67f2d2556329ec98a1feb5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 214,
+      "unit_id": "ziwei_068_u0214",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0214_v2",
+      "input_text_sha256": "366d908b985aa59f02202a06dea79704a56f4354afa5f7fe904bf03c7eeafbb5",
+      "result_text_sha256": "366d908b985aa59f02202a06dea79704a56f4354afa5f7fe904bf03c7eeafbb5",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 215,
+      "unit_id": "ziwei_068_u0215",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0215_v2",
+      "input_text_sha256": "f152a5a8f21f0d860f246abec8c152a16d4ae7c849c6f465f9073245d8899f7a",
+      "result_text_sha256": "f152a5a8f21f0d860f246abec8c152a16d4ae7c849c6f465f9073245d8899f7a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 216,
+      "unit_id": "ziwei_068_u0216",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0216_v2",
+      "input_text_sha256": "7c4ddd52eac406390ad850ccc46b525daaa77eab879d1d59951b1a08193848b8",
+      "result_text_sha256": "9fb9795b8d7703f23acd13f780bee822ce0ee94066a2ea465b184351ba849db9",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 217,
+      "unit_id": "ziwei_068_u0217",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0217_v2",
+      "input_text_sha256": "08501c7e34d9b69f1d4bd4c1f702026fd8c5064b3368172b7c7df4cd0e7723d2",
+      "result_text_sha256": "08501c7e34d9b69f1d4bd4c1f702026fd8c5064b3368172b7c7df4cd0e7723d2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 218,
+      "unit_id": "ziwei_068_u0218",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0218_v2",
+      "input_text_sha256": "4b3497595bbcd9abfa03b5f347010dcf9dd5dbbe613a0a84acf92acc006f7be8",
+      "result_text_sha256": "4b3497595bbcd9abfa03b5f347010dcf9dd5dbbe613a0a84acf92acc006f7be8",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 219,
+      "unit_id": "ziwei_068_u0219",
+      "batch_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0219_v2",
+      "input_text_sha256": "63e77bee7df57906ded5c925ffa44b760193c6417298a315f85d8565a4a7a5f5",
+      "result_text_sha256": "d56ede919cd77dc02de2da9f7868428ebeba72ad8c6400703d470fb0b6ff1c9b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-210-219-v2.jsonl"
+    },
+    {
+      "ordinal": 220,
+      "unit_id": "ziwei_068_u0220",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0220_v2",
+      "input_text_sha256": "798147e53cc25f74fd301bde1b0b04605465b3cea9ce73d4a4b2234cdfcb9bd9",
+      "result_text_sha256": "cd826ed79c4edcaed30890d04837c03eed6edd8eb6698fdd35cfb081e1c8a73a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 221,
+      "unit_id": "ziwei_068_u0221",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0221_v2",
+      "input_text_sha256": "2ca90edb5f939d773ac1d45fe2f2c5b0c2859e35e10ff9acb1a8aae1e11e6d2e",
+      "result_text_sha256": "2ca90edb5f939d773ac1d45fe2f2c5b0c2859e35e10ff9acb1a8aae1e11e6d2e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 222,
+      "unit_id": "ziwei_068_u0222",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0222_v2",
+      "input_text_sha256": "e511c02e3158e1dce8f174d1554ea018b0e7579cacba2e27bf024f4a4e660d2f",
+      "result_text_sha256": "e511c02e3158e1dce8f174d1554ea018b0e7579cacba2e27bf024f4a4e660d2f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 223,
+      "unit_id": "ziwei_068_u0223",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0223_v2",
+      "input_text_sha256": "792397a2a427716b4c3e424a04f56b3a24bc7066749ab46dc8b0f28be733255e",
+      "result_text_sha256": "792397a2a427716b4c3e424a04f56b3a24bc7066749ab46dc8b0f28be733255e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 224,
+      "unit_id": "ziwei_068_u0224",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0224_v2",
+      "input_text_sha256": "91b1b3bf205f4a081a11d75ee30c27a67abd2279ab5dc1be58b86d84d5fd1885",
+      "result_text_sha256": "c74567ce03270ec184cb0853e4f6e91617ca7a3cf253a40d8a27f0cc6fd419d4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 225,
+      "unit_id": "ziwei_068_u0225",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0225_v2",
+      "input_text_sha256": "0bb3fa5b7fc2c1085c67fcdd2aae31ae9ef178bf85d5117de0146106cd98561c",
+      "result_text_sha256": "0bb3fa5b7fc2c1085c67fcdd2aae31ae9ef178bf85d5117de0146106cd98561c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 226,
+      "unit_id": "ziwei_068_u0226",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0226_v2",
+      "input_text_sha256": "e67512c922e8739e6b0bbbcace6be91424c5186e36cecdbb0fc72df9efb55d20",
+      "result_text_sha256": "e67512c922e8739e6b0bbbcace6be91424c5186e36cecdbb0fc72df9efb55d20",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 227,
+      "unit_id": "ziwei_068_u0227",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0227_v2",
+      "input_text_sha256": "fd91d048a1ceb06fda3a3e4c561425cd275e715e868ac1723ea8defdbf1b6897",
+      "result_text_sha256": "b4b9fb755a25b600fcf2c2accece21adf4cac612a393328257215d54413906b4",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 228,
+      "unit_id": "ziwei_068_u0228",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0228_v2",
+      "input_text_sha256": "4b1940c04f4376fae2c1bb2936d09764db65110acc2668aeaee1fdaae471f28f",
+      "result_text_sha256": "4b1940c04f4376fae2c1bb2936d09764db65110acc2668aeaee1fdaae471f28f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 229,
+      "unit_id": "ziwei_068_u0229",
+      "batch_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0229_v2",
+      "input_text_sha256": "be9a543b844ae6c5c4791685cfb0dd84bd19043b9004a95e4c0ac6dcdf28b700",
+      "result_text_sha256": "be9a543b844ae6c5c4791685cfb0dd84bd19043b9004a95e4c0ac6dcdf28b700",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-220-229-v2.jsonl"
+    },
+    {
+      "ordinal": 230,
+      "unit_id": "ziwei_068_u0230",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0230_v2",
+      "input_text_sha256": "0a0389921032038c101be63620f86b6502b9e54cb8399a1f341251a2b3044cae",
+      "result_text_sha256": "0a0389921032038c101be63620f86b6502b9e54cb8399a1f341251a2b3044cae",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 231,
+      "unit_id": "ziwei_068_u0231",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0231_v2",
+      "input_text_sha256": "b998c9bbde5200ce821c00cd1f313295656275b372239a51a3918a1e01644839",
+      "result_text_sha256": "b998c9bbde5200ce821c00cd1f313295656275b372239a51a3918a1e01644839",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 232,
+      "unit_id": "ziwei_068_u0232",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0232_v2",
+      "input_text_sha256": "cb024106f23abbc0351bbebce444b4f544c8acf5efd24dc98df3d76624e855c6",
+      "result_text_sha256": "d1c44084f9b3a2d4eca9653458108a9d52205a4d76e3711ca316bbc0f97fb758",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 233,
+      "unit_id": "ziwei_068_u0233",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0233_v2",
+      "input_text_sha256": "9fe399db8b46ba88e850059d4009ad8eccf711918bc8d2e49f72a4cf365f01e1",
+      "result_text_sha256": "827a15bae56b8000ee0943967ef0679e40dbd07afc1955c2d8d0192650f19afc",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 234,
+      "unit_id": "ziwei_068_u0234",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0234_v2",
+      "input_text_sha256": "793737dec1bff17712ddd207a6a06409a4fb9b1c8891b7876082f78870ad26bc",
+      "result_text_sha256": "793737dec1bff17712ddd207a6a06409a4fb9b1c8891b7876082f78870ad26bc",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 235,
+      "unit_id": "ziwei_068_u0235",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0235_v2",
+      "input_text_sha256": "c4478f1aa32035dd70f9a1b563beb2d9e3026fc8a5c9013caf15559c33a41968",
+      "result_text_sha256": "c4478f1aa32035dd70f9a1b563beb2d9e3026fc8a5c9013caf15559c33a41968",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 236,
+      "unit_id": "ziwei_068_u0236",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0236_v2",
+      "input_text_sha256": "340fa1c03fbb48cae57dfaf96ed21c34582bbd0aba391217bef5521f8e7eb83a",
+      "result_text_sha256": "8ded01c6af0b63f2fbeefaeed2659aabbc010a7ea56c07aa0db8d803fb8c4ab2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 237,
+      "unit_id": "ziwei_068_u0237",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0237_v2",
+      "input_text_sha256": "cd7ea3e4a0ac0a33d5b3ea8e3f81f0edfa619644a02ec6e0358b9ce076924c3e",
+      "result_text_sha256": "348930d3660fe0731e9bf44d246b8def1600467ee14a8d931df8a76fa43b6b7a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 238,
+      "unit_id": "ziwei_068_u0238",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0238_v2",
+      "input_text_sha256": "44ca91f642e14ff09d8261eace7761e6aea95b51e76b103b8b59b35dbecb742c",
+      "result_text_sha256": "44ca91f642e14ff09d8261eace7761e6aea95b51e76b103b8b59b35dbecb742c",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 239,
+      "unit_id": "ziwei_068_u0239",
+      "batch_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0239_v2",
+      "input_text_sha256": "5706b83769fa3ca944db5db724688765acf51823306174d936a5d771ac18c79a",
+      "result_text_sha256": "5706b83769fa3ca944db5db724688765acf51823306174d936a5d771ac18c79a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-230-239-v2.jsonl"
+    },
+    {
+      "ordinal": 240,
+      "unit_id": "ziwei_068_u0240",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0240_v1",
+      "input_text_sha256": "156b260c885006d033aca75d1b649a497acd8a67cbb26a21b5facbe92a80c903",
+      "result_text_sha256": "156b260c885006d033aca75d1b649a497acd8a67cbb26a21b5facbe92a80c903",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 241,
+      "unit_id": "ziwei_068_u0241",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0241_v1",
+      "input_text_sha256": "1b9c93c036c4219308e30ad6234e1f894fcb7dda1f5c844be41ac6d3105d450a",
+      "result_text_sha256": "1b9c93c036c4219308e30ad6234e1f894fcb7dda1f5c844be41ac6d3105d450a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 242,
+      "unit_id": "ziwei_068_u0242",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0242_v1",
+      "input_text_sha256": "ad829a34230573934a82af591ed4b98fe67117e2724bc655dccaabe8dca6ff39",
+      "result_text_sha256": "fddf33be63da882ff390adab2e7e629b568294cbc8ff2174b38d7a6c01b9f56e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 243,
+      "unit_id": "ziwei_068_u0243",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0243_v1",
+      "input_text_sha256": "bd84d1f195f537f6ba8848ce71fc3984c4ff52a5d099117defb527e15743f075",
+      "result_text_sha256": "bd84d1f195f537f6ba8848ce71fc3984c4ff52a5d099117defb527e15743f075",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 244,
+      "unit_id": "ziwei_068_u0244",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0244_v1",
+      "input_text_sha256": "d9deb8d00b886921a5e0d3efa9d083bbca6fadf276eaa0d5286740cbdd301d43",
+      "result_text_sha256": "d9deb8d00b886921a5e0d3efa9d083bbca6fadf276eaa0d5286740cbdd301d43",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 245,
+      "unit_id": "ziwei_068_u0245",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0245_v1",
+      "input_text_sha256": "3b4fb12200a38db00d65ad7fdb845c6dcb487c927b9df4030f319015b961b85a",
+      "result_text_sha256": "04494947e276604ac15085b256a44f25b76dfa3f0b463f24aa41fe523c8e0aa0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 246,
+      "unit_id": "ziwei_068_u0246",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0246_v1",
+      "input_text_sha256": "f5cf3747534526e8d40b7ace87c4f1a07fd8d03fe43e283996275c284b065de1",
+      "result_text_sha256": "f5cf3747534526e8d40b7ace87c4f1a07fd8d03fe43e283996275c284b065de1",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 247,
+      "unit_id": "ziwei_068_u0247",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0247_v1",
+      "input_text_sha256": "e1298a3819d9d8656e5e63f610e0728f9650f8da500b4ff56ae1e38931fa1bd7",
+      "result_text_sha256": "e1298a3819d9d8656e5e63f610e0728f9650f8da500b4ff56ae1e38931fa1bd7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 248,
+      "unit_id": "ziwei_068_u0248",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0248_v1",
+      "input_text_sha256": "97767a525f4daffe92acfee0ab8aea036c6d065b5f3fc8b92acdc49b80407607",
+      "result_text_sha256": "97767a525f4daffe92acfee0ab8aea036c6d065b5f3fc8b92acdc49b80407607",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 249,
+      "unit_id": "ziwei_068_u0249",
+      "batch_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0249_v1",
+      "input_text_sha256": "4f46e503a7224fb4d1c762efd034501dc2421374b977b264136d8805603a0ef7",
+      "result_text_sha256": "458fd3fccc387384d2d30c59538562def3842bb282490ad0630c3d14d4b28082",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-240-249-v1.jsonl"
+    },
+    {
+      "ordinal": 250,
+      "unit_id": "ziwei_068_u0250",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0250_v1",
+      "input_text_sha256": "866c10c9b5aaa84eb7848e73f8bb713d8db5b0e011824a6194284c1c6871064a",
+      "result_text_sha256": "866c10c9b5aaa84eb7848e73f8bb713d8db5b0e011824a6194284c1c6871064a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 251,
+      "unit_id": "ziwei_068_u0251",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0251_v1",
+      "input_text_sha256": "6bf283cba09660614fad916f1b7d46b3834700d121e910ed6feadd13d1e6f144",
+      "result_text_sha256": "3ac8e813923133aa7cde1d8275e2bcd3a5b910589b210034ad33ee458020dbf0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 252,
+      "unit_id": "ziwei_068_u0252",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0252_v1",
+      "input_text_sha256": "9753416eb12c47fbcb56f979171f0c7b440bfc1f0e3d7aa7959aebc7a3b12b13",
+      "result_text_sha256": "9753416eb12c47fbcb56f979171f0c7b440bfc1f0e3d7aa7959aebc7a3b12b13",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 253,
+      "unit_id": "ziwei_068_u0253",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0253_v1",
+      "input_text_sha256": "f5d8753d9fe3556d3179fad744711be54612bdecadf3b579981b25848038d38d",
+      "result_text_sha256": "ec7411e3c68bc31487c1147915e915ebd0405fe4a1ec89ec47368ea6dac48cd0",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 254,
+      "unit_id": "ziwei_068_u0254",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0254_v1",
+      "input_text_sha256": "19e4b7b4a0f8abaa33250c93023a8f3bf895aa587a9e91d8a3309bd8758db204",
+      "result_text_sha256": "256bad5d72ca8c140e265b4d1fb10c73132368383b6d8d6ec8e869998f46b799",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 255,
+      "unit_id": "ziwei_068_u0255",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0255_v1",
+      "input_text_sha256": "4330f9017db44cabbf27840d7ccf3779197e1be6751f59ac40caf96753305940",
+      "result_text_sha256": "4330f9017db44cabbf27840d7ccf3779197e1be6751f59ac40caf96753305940",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 256,
+      "unit_id": "ziwei_068_u0256",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0256_v1",
+      "input_text_sha256": "0ce1262affaae87a1a5409be9dc2782de94718bc36956fce6d7acd8dbcfcd038",
+      "result_text_sha256": "0ce1262affaae87a1a5409be9dc2782de94718bc36956fce6d7acd8dbcfcd038",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 257,
+      "unit_id": "ziwei_068_u0257",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0257_v1",
+      "input_text_sha256": "4deea6904ad3a8d84afa67920e97c15814abb6774decacf1b79043c189975a71",
+      "result_text_sha256": "89ced0f68edc1e8aab0d538c472c3eaffc6a947a66657ed33f7fd9668f4b65eb",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 258,
+      "unit_id": "ziwei_068_u0258",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0258_v1",
+      "input_text_sha256": "83fcc987f12cb4e0d41d568b4b1d130be081068d0f2ef73a687b1488c2af44d2",
+      "result_text_sha256": "83fcc987f12cb4e0d41d568b4b1d130be081068d0f2ef73a687b1488c2af44d2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 259,
+      "unit_id": "ziwei_068_u0259",
+      "batch_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0259_v1",
+      "input_text_sha256": "b6ac59e52f6c72da0bac8052f31ab653faf7fd362b3515f394596ffea19f4f4e",
+      "result_text_sha256": "b6ac59e52f6c72da0bac8052f31ab653faf7fd362b3515f394596ffea19f4f4e",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-250-259-v1.jsonl"
+    },
+    {
+      "ordinal": 260,
+      "unit_id": "ziwei_068_u0260",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0260_v1",
+      "input_text_sha256": "721bf6eb1ca49b84b47cf92540bf37afcf3664fe73fd392bff1d26296bd286c2",
+      "result_text_sha256": "721bf6eb1ca49b84b47cf92540bf37afcf3664fe73fd392bff1d26296bd286c2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 261,
+      "unit_id": "ziwei_068_u0261",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0261_v1",
+      "input_text_sha256": "db6732affef55ddbdce7343ca27fd237e868000cffe468a0252638b534f1cf80",
+      "result_text_sha256": "db6732affef55ddbdce7343ca27fd237e868000cffe468a0252638b534f1cf80",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 262,
+      "unit_id": "ziwei_068_u0262",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0262_v1",
+      "input_text_sha256": "1294713aa098b7052daaf7ad481eff5c52b52786b92a727e4b9e8ac7471e95b2",
+      "result_text_sha256": "1294713aa098b7052daaf7ad481eff5c52b52786b92a727e4b9e8ac7471e95b2",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 263,
+      "unit_id": "ziwei_068_u0263",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0263_v1",
+      "input_text_sha256": "640d83ed05b2a77d7f9f888e18b16336817e0178d537726e3a6159a3700d3ef5",
+      "result_text_sha256": "4c16a4f79509c8c159ba21427e77edab054242ab10c32ea71c108dcff7d1df7a",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 264,
+      "unit_id": "ziwei_068_u0264",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0264_v1",
+      "input_text_sha256": "fd8d09a4533b3879b20d9655650b9a04560fc179d440dc3b8a3dc06998c2fa37",
+      "result_text_sha256": "fd8d09a4533b3879b20d9655650b9a04560fc179d440dc3b8a3dc06998c2fa37",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 265,
+      "unit_id": "ziwei_068_u0265",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0265_v1",
+      "input_text_sha256": "2aee5290bcc0e27878fbe1116a4af5432758c5c613fdaa4f96a044414c53a5f7",
+      "result_text_sha256": "2aee5290bcc0e27878fbe1116a4af5432758c5c613fdaa4f96a044414c53a5f7",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 266,
+      "unit_id": "ziwei_068_u0266",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0266_v1",
+      "input_text_sha256": "fb0d8d9f8a0eac992702e8390aa5e7862952b9f876b64431ef506e208a205983",
+      "result_text_sha256": "fb0d8d9f8a0eac992702e8390aa5e7862952b9f876b64431ef506e208a205983",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 267,
+      "unit_id": "ziwei_068_u0267",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 8,
+      "proposal_id": "z068_s1_u0267_v1",
+      "input_text_sha256": "20a0e5e12a6d17745ed806b86487cfdb6c0c74f73773052b5ad085512fa2e94f",
+      "result_text_sha256": "20a0e5e12a6d17745ed806b86487cfdb6c0c74f73773052b5ad085512fa2e94f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 268,
+      "unit_id": "ziwei_068_u0268",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 9,
+      "proposal_id": "z068_s1_u0268_v1",
+      "input_text_sha256": "d75eca7f8459349e09d9e98c4e500219b87a1cc0d29117bd128fd7f08a52cd1a",
+      "result_text_sha256": "ce6e7029f1790a6ade1cc9ffdf3ff86290dba3ae5b8f26ad0ca17e3a684f1e2d",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 269,
+      "unit_id": "ziwei_068_u0269",
+      "batch_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "line_number": 10,
+      "proposal_id": "z068_s1_u0269_v1",
+      "input_text_sha256": "5d4919730fb25d63f74e1ff6c99248f88b2d83fa434c1b7fc41c73fa03be90ac",
+      "result_text_sha256": "5d4919730fb25d63f74e1ff6c99248f88b2d83fa434c1b7fc41c73fa03be90ac",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-260-269-v1.jsonl"
+    },
+    {
+      "ordinal": 270,
+      "unit_id": "ziwei_068_u0270",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 1,
+      "proposal_id": "z068_s1_u0270_v1",
+      "input_text_sha256": "6b0844e40282326f5de44dfd74dadf9efdfbade0c891058adb337ae18a6b9a1b",
+      "result_text_sha256": "6b0844e40282326f5de44dfd74dadf9efdfbade0c891058adb337ae18a6b9a1b",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 271,
+      "unit_id": "ziwei_068_u0271",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 2,
+      "proposal_id": "z068_s1_u0271_v1",
+      "input_text_sha256": "0bac0ea60ca08d466344a9630c2b204c7c9455fff9c9611529c77bdc22027972",
+      "result_text_sha256": "0bac0ea60ca08d466344a9630c2b204c7c9455fff9c9611529c77bdc22027972",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 272,
+      "unit_id": "ziwei_068_u0272",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 3,
+      "proposal_id": "z068_s1_u0272_v1",
+      "input_text_sha256": "aa4007b2845a65e58839d797173f3da495a0ff787d62341b4d5485d6ae5d61c9",
+      "result_text_sha256": "aa4007b2845a65e58839d797173f3da495a0ff787d62341b4d5485d6ae5d61c9",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 273,
+      "unit_id": "ziwei_068_u0273",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 4,
+      "proposal_id": "z068_s1_u0273_v1",
+      "input_text_sha256": "e7d4553e4f108a295887afc9388773312b4fd130fe4bde41419f66f9e2f58ed7",
+      "result_text_sha256": "2961b1db6e105fd06a91b2e43f85be9e43a6c51a221b569c8826ea2e230a1bfa",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 274,
+      "unit_id": "ziwei_068_u0274",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 5,
+      "proposal_id": "z068_s1_u0274_v1",
+      "input_text_sha256": "01e5a2a5968313c878931df46ea018b805601e8588e15f3b8b9c9798d5c03c84",
+      "result_text_sha256": "01e5a2a5968313c878931df46ea018b805601e8588e15f3b8b9c9798d5c03c84",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 275,
+      "unit_id": "ziwei_068_u0275",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 6,
+      "proposal_id": "z068_s1_u0275_v1",
+      "input_text_sha256": "8d4444fbb9938a089fa20ed02b2f4e58ff123f522d924344130df64bbe63fb1f",
+      "result_text_sha256": "8d4444fbb9938a089fa20ed02b2f4e58ff123f522d924344130df64bbe63fb1f",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    },
+    {
+      "ordinal": 276,
+      "unit_id": "ziwei_068_u0276",
+      "batch_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "line_number": 7,
+      "proposal_id": "z068_s1_u0276_v1",
+      "input_text_sha256": "db924240bf7e25d6d667ad1c75e6d5b3831621c476ec705e879bc604b1d5cf90",
+      "result_text_sha256": "db924240bf7e25d6d667ad1c75e6d5b3831621c476ec705e879bc604b1d5cf90",
+      "batch_path": "decisions/Z068/ledger-restart-20261111-001/s1/author-185-276/batch-270-276-v1.jsonl"
+    }
+  ],
+  "counts": {
+    "units": 276,
+    "patches": 85,
+    "unresolved": 527,
+    "changed_units": 65,
+    "filtered_units": 0
+  },
+  "reviews": [
+    {
+      "path": "reviews/Z068/ledger-restart-20261111-001/public-scope-001-092-v1.json",
+      "bytes": 3646,
+      "sha256": "4ba1d1e312292b83a23b97197057006aafa896320e99a4e99f2d7766bb2ff79f",
+      "git_blob": "fd3cbe29caac4d4ecf64861e730643d8a75fd7bc"
+    },
+    {
+      "path": "reviews/Z068/ledger-restart-20261111-001/public-scope-093-184-v1.json",
+      "bytes": 4256,
+      "sha256": "7e723d22ca8f52615b09f07979ea250f8a7287c2315945dda2dbfa07d8e41015",
+      "git_blob": "b3b27b073549f272366dbf8c8e2ff7ddf53d0535"
+    },
+    {
+      "path": "reviews/Z068/ledger-restart-20261111-001/public-scope-185-276-v1.json",
+      "bytes": 5396,
+      "sha256": "7a1b2e8b62338ff1b9dc3892ff8538789515ee9d724d15b6f70122dab2f69024",
+      "git_blob": "8b1a056278e48b138686680a14a168389346234f"
+    }
+  ],
+  "replay_code": [
+    {
+      "path": "replay/Z068/ledger-restart-20261111-001/assemble_s1.py",
+      "bytes": 9976,
+      "sha256": "d67131a8dec6bf144e762fbf4ffff039a51090fe38c182f2bc500e81871c28b4",
+      "git_blob": "d8c84b8e104d42df95b641076cfe1a121642f72d"
+    },
+    {
+      "path": "replay/Z068/ledger-restart-20261111-001/test_assemble_s1.py",
+      "bytes": 3805,
+      "sha256": "1c1ebfba6f0b83818a11b4d7e1c46f7812ef00002fbb2bf297a448a68fd5dadb",
+      "git_blob": "d84213319c8673885e16ddccca18caea125507aa"
+    }
+  ],
+  "synthetic_test_review": {
+    "path": "reviews/Z068/ledger-restart-20261111-001/s1-synthetic-tests-v1.json",
+    "bytes": 1603,
+    "sha256": "fd7e33a2e9c5e39b7e53a9519b168cd27a4423b00e3aed7135721255c17bf6e1",
+    "git_blob": "3aaef185412ac96e9e350a6633d1afc82900ec93"
+  },
+  "restoration": "Restore exact original author basenames using original_basename mappings; selected_units uses explicit remote paths and physical JSONL line numbers. Source and frozen rule contents remain outside this repository; use fixed-commit references in recovery-inputs-v1 and recovery-addendum-v1, then S0 replay checkpoint.",
+  "status": {
+    "manual_proposals_complete": true,
+    "formal_S1": false,
+    "full_S2": false,
+    "semantic_acceptance": false
+  },
+  "limitations": [
+    "Public scope review is not full semantic review.",
+    "New manual decisions, not recovered Nov10 results.",
+    "No raw source, old labels, rule bodies, credentials or private absolute paths are included."
+  ]
+}
