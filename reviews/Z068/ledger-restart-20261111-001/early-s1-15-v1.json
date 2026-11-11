@@ -1,0 +1,86 @@
+{
+  "schema": "northstar-ledger.early-s1-review.v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-restart-20261111-001",
+  "result": "PASS_WITH_NARROW_SUCCESSORS_CLOSED",
+  "scope": {
+    "ordinals": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      93,
+      94,
+      95,
+      96,
+      97,
+      185,
+      186,
+      187,
+      188,
+      189
+    ],
+    "full_non_author_body_and_decision_review": true,
+    "formal_S2": false,
+    "whole_source_acceptance": false
+  },
+  "selected_batches": [
+    {
+      "author_role": "author_001_092",
+      "filename": "batch_001_005_v2.public-ready.jsonl",
+      "bytes": 6637,
+      "sha256": "2bfbea3f5c57fdc77dfacdc1e2f551bcfb6ffa6b0851fa6847a35e394a508714"
+    },
+    {
+      "author_role": "author_093_184",
+      "filename": "batch_093_097_v1.jsonl",
+      "bytes": 8155,
+      "sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "author_role": "author_185_276",
+      "filename": "proposal_185_189_v3.jsonl",
+      "bytes": 8335,
+      "sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    }
+  ],
+  "checks": {
+    "literal_or_language_support_for_each_patch": true,
+    "retained_uncertainties_reviewed": 20,
+    "supported_patches": 4,
+    "three_substeps_reviewed": true,
+    "input_identity_span_and_hash": true,
+    "deterministic_replay_result_hash_and_length": true,
+    "patch_issue_substep_links": true,
+    "no_filtering": true,
+    "public_records_no_source_paragraphs_or_internal_paths": true
+  },
+  "narrow_successor_corrections": [
+    {
+      "ordinal": 5,
+      "change": "Replacement narrowed to the single changed character; resulting text hash unchanged."
+    },
+    {
+      "ordinals": [
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "change": "No-table substeps marked not_applicable rather than no_change; all source results and substantive decisions unchanged."
+    }
+  ],
+  "remaining_early_findings": [],
+  "limits": [
+    "Only the stated fifteen units were reviewed; other units remain outside this review.",
+    "Uncertainties remain unresolved and are not silently corrected.",
+    "This record is not formal S2 or annotation acceptance.",
+    "No formal production writes or uploads performed by this review."
+  ],
+  "private_review_evidence_sha256": [
+    "ecf49569127abb1102bdc939f530262d850fee1e7a9ce0532361035958b959a0",
+    "c220baa54c7e8518958fdfa85ac4322349d55f71ae6959232bd9abc4a380ba09"
+  ]
+}
