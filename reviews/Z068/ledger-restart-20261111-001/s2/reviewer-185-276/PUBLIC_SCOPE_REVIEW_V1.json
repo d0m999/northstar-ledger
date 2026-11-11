@@ -1,0 +1,157 @@
+{
+  "result": "PASS_PUBLIC_SCOPE_AND_EXACT_SELECTION_ONLY",
+  "source_id": "ziwei_068",
+  "scope": [
+    185,
+    276
+  ],
+  "files": [
+    {
+      "file": "review_185_189_v1.public-ready.jsonl",
+      "bytes": 10288,
+      "sha256": "eafcd26645178654a46d53b2925ed669b28e219e1a41637cd71114733197dfe8",
+      "git_blob": "d6bcd60b0323a26d81b5cd53f72ae5fab3900950"
+    },
+    {
+      "file": "review_190_194_v1.public-ready.jsonl",
+      "bytes": 9055,
+      "sha256": "b5c8c192a681a0a785aa23144321b0ea8353da59326514441e12ce737e399b5f",
+      "git_blob": "046fda26b8c59ba9b94e84071a75169a0ea354eb"
+    },
+    {
+      "file": "review_195_199_v1.public-ready.jsonl",
+      "bytes": 9527,
+      "sha256": "21f4fb89282924ad3bd08d3e1e2222e7469aee5eb294950b758440b8d6890dd0",
+      "git_blob": "6d23a9ceffb84b451f2638061afe4535602f402a"
+    },
+    {
+      "file": "review_200_204_v1.public-ready.jsonl",
+      "bytes": 9208,
+      "sha256": "3b8fd8675618c4cbe00b761fdbf4f240a1840374f82d49e1a9aa0b62add81e80",
+      "git_blob": "0b635a9738017056ef2302d18e81381dc44a6705"
+    },
+    {
+      "file": "review_205_209_v1.public-ready.jsonl",
+      "bytes": 9213,
+      "sha256": "f6c67da251da4a6e90c3eca071a1e11bc1134c2049501753d6e0da9157c40aa1",
+      "git_blob": "7723b15b04edac463c2c949f58399add9f770894"
+    },
+    {
+      "file": "review_210_214_v1.public-ready.jsonl",
+      "bytes": 9321,
+      "sha256": "26d223bbbe27a74e3b2c14045a8bc0792c033d11773f7cf91bd67f16c7898c97",
+      "git_blob": "e91014ef52af674ab40305468c28123e8ffb02bd"
+    },
+    {
+      "file": "review_215_219_v1.public-ready.jsonl",
+      "bytes": 8773,
+      "sha256": "802211a0bab937a33e3a49edc70edb6ca316cebd815d3426fc9bc186542ed33e",
+      "git_blob": "4501f48d0f08f0fbe49bd07ebb62a222eb77d2b5"
+    },
+    {
+      "file": "part_220_249/review_220_224_v1.public-ready.jsonl",
+      "bytes": 7500,
+      "sha256": "69e0316218e2f98e864eaf12e6dfc306314b8ca302f340b05b57e9909ff126fa",
+      "git_blob": "7f6a161eaee3d533bfdef250ec32eee1f7ec675f"
+    },
+    {
+      "file": "part_220_249/review_225_229_v1.public-ready.jsonl",
+      "bytes": 6926,
+      "sha256": "d632483387ad6219a7d96f39b85aba39d331cb4982b1427a5381e328a61722fe",
+      "git_blob": "5a6b50886463e7e3d5b6b13ef5605895b53d6216"
+    },
+    {
+      "file": "part_220_249/review_230_234_v1.public-ready.jsonl",
+      "bytes": 8546,
+      "sha256": "40f532ba1ac5d6e2fc3048eff8a9bd025d9234575701c211fdba42deecb4a8f3",
+      "git_blob": "0c4876edebdb9b41aa78a2c5affa57869f6a01a6"
+    },
+    {
+      "file": "part_220_249/review_235_239_v1.public-ready.jsonl",
+      "bytes": 8550,
+      "sha256": "2bf6efa20655d694cfe40601fc20972953cfb74037f8cb58e16a3dd9f49ad3cd",
+      "git_blob": "bbe2a758cb147705b2b20612bb1c3d5757db9d07"
+    },
+    {
+      "file": "part_220_249/review_240_244_v1.public-ready.jsonl",
+      "bytes": 7510,
+      "sha256": "96fb663e7761ab0f694d2f0299c8050e2476ec3ef127aadf4623f246db7802db",
+      "git_blob": "bbc0657a3cae34a84ad72d52790eae8aa5197c11"
+    },
+    {
+      "file": "part_220_249/review_245_249_v1.public-ready.jsonl",
+      "bytes": 8429,
+      "sha256": "7c4019faba75e5c77a46f47208a510c06fa507b1f77759fa4d4563b47fb424f3",
+      "git_blob": "c06efc2d1c1048c362ed4f38b3188e2b8bbc8075"
+    },
+    {
+      "file": "part_250_276/review_250_254_v1.public-ready.jsonl",
+      "bytes": 10852,
+      "sha256": "0e23606691ea26160941a904b34a4784cabb96bf76089d30589a2e1caf6884b2",
+      "git_blob": "d206aadff84143f32f21bc6cc86a0f751331b3cb"
+    },
+    {
+      "file": "part_250_276/review_255_259_v1.public-ready.jsonl",
+      "bytes": 10691,
+      "sha256": "fa71bef48fcb2b159f0e25ef55662c7c367094221188400f54c98ccf070121fa",
+      "git_blob": "cb7fba171ee5a88d891d4541a9ecf9dbe42eeee3"
+    },
+    {
+      "file": "part_250_276/review_260_264_v1.public-ready.jsonl",
+      "bytes": 8769,
+      "sha256": "637b434cc8b87cbf9dbacb831f6f8684c4d15ad82740648158f429b9c2a634ca",
+      "git_blob": "7d21347006ad7f254c4e8b657796bf6d30ea6331"
+    },
+    {
+      "file": "part_250_276/review_265_270_v1.public-ready.jsonl",
+      "bytes": 12409,
+      "sha256": "bb8c89e9097888473c2a29edc2c8cefde798e379ba56632f7939336ed5ba127b",
+      "git_blob": "1df3eb1dc69f90800f705d2f2fd5bba3eb4735bd"
+    },
+    {
+      "file": "part_250_276/review_271_276_v1.public-ready.jsonl",
+      "bytes": 11179,
+      "sha256": "16082d74b8610315781c54b56bbe6ed4a50f2ea79452d1cecc3cba9f77ef2180",
+      "git_blob": "a3085ccc8eda066dee752bfe401fcde53a8442cd"
+    },
+    {
+      "file": "SELECTION_185_276_S2_V1.public-ready.json",
+      "bytes": 68399,
+      "sha256": "bd1bb001dedce55057055c8822568cf368e4f2c0d7aecca414719df918fc3b3d",
+      "git_blob": "04efa7f63c7209332b18a2a5215f2d187478a09e"
+    },
+    {
+      "file": "MECHANICAL_185_276_S2_V1.public-ready.json",
+      "bytes": 1163,
+      "sha256": "48c4f4271b0944163e2d1b7b2f249acdfa3024c641d530bdfb43a0ea4add44bc",
+      "git_blob": "0f07040efb31a7decb137e5a10c41eed62549d79"
+    }
+  ],
+  "counts": {
+    "units": 92,
+    "new_full_non_author_reviews": 87,
+    "prior_full_non_author_review_reused": 5,
+    "patches_reviewed": 34,
+    "retained_uncertainties_reviewed": 206,
+    "new_findings": 0,
+    "new_original_codepoints_read": 53074,
+    "new_clean_codepoints_read": 53072
+  },
+  "reviewer_roles": {
+    "s2_binding_verifier_185_219": 5,
+    "s2_non_author_185_219": 30,
+    "s2_non_author_220_249": 30,
+    "s2_non_author_250_276": 27
+  },
+  "checks": [
+    "All 18 review files and complete selection/mechanical public fields read; all exact bytes/SHA and physical-line mappings verified.",
+    "Authored review explanations, coordinates and identities only; no source paragraphs, raw before/after excerpts, rule text, credentials or private absolute paths found.",
+    "Five prior full reviews preserved as reuse with distinct binding verifier role; no claim of five new body reads."
+  ],
+  "limits": [
+    "No raw source reread or new semantic acceptance by this scope reviewer.",
+    "This assigned92 scope is complete per named reviewers, wholeS2 remains false and S1 needs_review.",
+    "The other184-unit review scopes are outside this upload.",
+    "No formal production changes."
+  ]
+}
