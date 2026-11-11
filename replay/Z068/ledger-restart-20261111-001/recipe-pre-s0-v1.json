@@ -1,0 +1,136 @@
+{
+  "schema": "public_s0_replay_recipe_v1",
+  "source_id": "ziwei_068",
+  "new_restart_not_old_results": true,
+  "production_executed": false,
+  "root_symbol": "ROOT",
+  "root_value_disclosed": false,
+  "package_relative_path": "repository/data_processing/corpus_variants/dots/all-sources-2026-10-13",
+  "run_id": "z068_ledger_restart_20261111_v001",
+  "parameters": {
+    "schema": "symbolic_s0_replay_parameters_v1",
+    "root_symbol": "ROOT",
+    "package_relative_path": "repository/data_processing/corpus_variants/dots/all-sources-2026-10-13",
+    "run_id": "z068_ledger_restart_20261111_v001",
+    "run_relative_path": "repository/data_processing/corpus_variants/dots/all-sources-2026-10-13/deliveries/z068_ledger_restart_20261111_v001",
+    "controls_timestamp": null,
+    "source_repository": "d0m999/Astrology_RAG",
+    "source_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "source_git_path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/inputs/ziwei/ziwei_068/data_processing/05_annotated/ziwei/紫云星曜初级班讲义_annotated.jsonl",
+    "path_sensitive_outputs": [
+      "input_units/ziwei_068.jsonl",
+      "reports/ziwei_068/S0_input_check.json"
+    ],
+    "relocated_replay_not_byte_identical": true,
+    "explicit_restart_authorized": true,
+    "authorization_scope": "Single-source Z068 restart from fixed private source and rules, with new process checkpoints.",
+    "root_semantics": "ROOT is the local attempt root; repository snapshot root is ROOT/repository.",
+    "repository_relative_path": "repository"
+  },
+  "source": {
+    "repository": "d0m999/Astrology_RAG",
+    "commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/inputs/ziwei/ziwei_068/data_processing/05_annotated/ziwei/紫云星曜初级班讲义_annotated.jsonl",
+    "git_blob": "733524d729c0d4b45dc48df4828148803b7ccefb",
+    "bytes": 1030926,
+    "sha256": "ead834bb8543fc5628b99ed14c9231d980ee359fd82b29e6edba16a49ac49a59"
+  },
+  "templates": [
+    {
+      "repository": "d0m999/Astrology_RAG",
+      "commit": "94af300bbadaf711397941e94ddc6bc215810884",
+      "path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/templates/run_manifest.json",
+      "git_blob": "e93deedd57645cd800108ce9a56f9b9ad79c22a9",
+      "bytes": 43209,
+      "sha256": "84e55bae4f50586ef458df936fb43a6f950f86f4904b4e9cbc644a12d9acd224"
+    },
+    {
+      "repository": "d0m999/Astrology_RAG",
+      "commit": "94af300bbadaf711397941e94ddc6bc215810884",
+      "path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/templates/run_status.json",
+      "git_blob": "2d13de8bbef42f84f8d8260e02e6024216ac9239",
+      "bytes": 460614,
+      "sha256": "99d800a1a779ca206f6e6dac290aa4bda77541bd05bfa8222e28f0c009a3209e"
+    },
+    {
+      "repository": "d0m999/Astrology_RAG",
+      "commit": "94af300bbadaf711397941e94ddc6bc215810884",
+      "path": "data_processing/corpus_variants/dots/all-sources-2026-10-13/templates/stage_report.json",
+      "git_blob": "33bb24d085e31428d38320dc21003eefd9dd3304",
+      "bytes": 1326,
+      "sha256": "5c60072fa6f80479e2add4ecdc7d07d3e5ed34ebc9f6bf534106ef5862caf98e"
+    }
+  ],
+  "new_helper": {
+    "path": "replay/Z068/ledger-restart-20261111-001/write_s0.py",
+    "bytes": 14405,
+    "sha256": "ce10322abed27d34fc07816b754bc4598ee94142f9b8a50de096835f880c9508",
+    "repository": "d0m999/northstar-ledger",
+    "commit": "9f3f8754791f54498df73b42680436369f9d4f5f"
+  },
+  "new_tests": {
+    "path": "replay/Z068/ledger-restart-20261111-001/test_write_s0.py",
+    "bytes": 2272,
+    "sha256": "ec2ae1eb0fabb50d756a616baa0ba8bb38507ca04f846692d4886e63c468a5ca",
+    "repository": "d0m999/northstar-ledger",
+    "commit": "9f3f8754791f54498df73b42680436369f9d4f5f"
+  },
+  "expected_count": 276,
+  "expected_index_facts": {
+    "index_gaps": [
+      42,
+      71,
+      78,
+      183,
+      251
+    ],
+    "duplicate_indices": 0,
+    "nonmonotonic_indices": true
+  },
+  "source_file_value_from": "fixed source card, do not copy source content",
+  "control_reconstruction": "Read pinned templates from ROOT/repository. Call helper.make_controls using run_id, timestamp=null, current independently verified authorization, and source pin instantiated as ROOT/repository/source_git_path. RUN is ROOT/parameters.run_relative_path. Write only into a fresh run; rehash all reconstructed controls. Public authorization scope is not a copy of the private original authorization object.",
+  "replay_materialization": "Instantiate a fresh approved local plan using source/report_template/initialized controls and new dependencies. Use materialize to derive all products, then independently compare structural facts and path-independent hashes. Do not replay old approval or override execution authorization.",
+  "original_control_hashes": [
+    {
+      "role": "run_manifest.json",
+      "bytes": 44053,
+      "sha256": "f20c4eebb78a0d393df7f7345048030bb9b116776da784d19cb858d11cdf0474",
+      "location_sensitive": true,
+      "historical_identity_only": true
+    },
+    {
+      "role": "status.json",
+      "bytes": 568272,
+      "sha256": "bf59ea3debc65e4d0392840ad468dbb1a9a1e54a96e89e3b3a053b2359b218d4",
+      "location_sensitive": false,
+      "historical_identity_only": true
+    },
+    {
+      "role": "resume_inventory.json",
+      "bytes": 467455,
+      "sha256": "8851bdfcf099151b9ec2e2025f0695df2250686582f5d81fdfb9b778ca7c1e9d",
+      "location_sensitive": false,
+      "historical_identity_only": true
+    }
+  ],
+  "original_plan_identity": {
+    "bytes": 18792,
+    "sha256": "da4168369593d5a4d76bb66987e87082db5cd8f37a5cf912d15df51aea00989a"
+  },
+  "expected_output_pins": null,
+  "path_independent_payloads": [
+    "02_working_inputs/ziwei_068.jsonl",
+    "image_links/ziwei_068.json",
+    "continuity/ziwei_068.json"
+  ],
+  "path_dependent_payloads": [
+    "input_units/ziwei_068.jsonl",
+    "reports/ziwei_068/S0_input_check.json",
+    "status.json"
+  ],
+  "exact_original_path_bytes_unavailable_publicly": true,
+  "restriction": "Private source access remains required. ROOT and authorization substitutions change controls, embedded paths, report input inventories and dependent hashes; no claim of byte-identical old run_manifest, status or reports. Reuse path-independent expected payload hashes only after actual execution and independent verification; expected_output_pins remains null now. Do not upload raw source, frozen rules, template controls or old restricted packages.",
+  "root_semantics": "ROOT is the local attempt root; repository snapshot root is ROOT/repository.",
+  "repository_relative_path": "repository",
+  "exact_original_authorization_unavailable_publicly": true
+}
