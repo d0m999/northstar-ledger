@@ -1,0 +1,729 @@
+{
+  "source_id": "ziwei_068",
+  "stage": "S1_manual_proposal_only",
+  "scope": [
+    93,
+    184
+  ],
+  "selection_revision": "v1",
+  "source_projection_sha256": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee",
+  "input_units_sha256": "2b039ac7054aa6e1b19c5f52e947925fdca508087ed24675c02a7a28121b24bc",
+  "files": [
+    {
+      "file": "batch_093_097_v1.jsonl",
+      "sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9",
+      "bytes": 8155,
+      "records": 5
+    },
+    {
+      "file": "batch_098_107_v2.jsonl",
+      "sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0",
+      "bytes": 14903,
+      "records": 10
+    },
+    {
+      "file": "batch_108_117_v2.jsonl",
+      "sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565",
+      "bytes": 14325,
+      "records": 10
+    },
+    {
+      "file": "batch_118_127_v1.jsonl",
+      "sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863",
+      "bytes": 15799,
+      "records": 10
+    },
+    {
+      "file": "batch_128_137_v1.jsonl",
+      "sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df",
+      "bytes": 18002,
+      "records": 10
+    },
+    {
+      "file": "batch_138_147_v1.jsonl",
+      "sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0",
+      "bytes": 17719,
+      "records": 10
+    },
+    {
+      "file": "batch_148_157_v1.jsonl",
+      "sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349",
+      "bytes": 17684,
+      "records": 10
+    },
+    {
+      "file": "batch_158_167_v1.jsonl",
+      "sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f",
+      "bytes": 17438,
+      "records": 10
+    },
+    {
+      "file": "batch_168_177_v1.jsonl",
+      "sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b",
+      "bytes": 18479,
+      "records": 10
+    },
+    {
+      "file": "batch_178_184_v1.jsonl",
+      "sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087",
+      "bytes": 11589,
+      "records": 7
+    }
+  ],
+  "selected": [
+    {
+      "ordinal": 93,
+      "unit_id": "ziwei_068_u0093",
+      "proposal_id": "z068_s1_u0093_v1",
+      "proposal_file": "batch_093_097_v1.jsonl",
+      "proposal_file_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "ordinal": 94,
+      "unit_id": "ziwei_068_u0094",
+      "proposal_id": "z068_s1_u0094_v1",
+      "proposal_file": "batch_093_097_v1.jsonl",
+      "proposal_file_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "ordinal": 95,
+      "unit_id": "ziwei_068_u0095",
+      "proposal_id": "z068_s1_u0095_v1",
+      "proposal_file": "batch_093_097_v1.jsonl",
+      "proposal_file_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "ordinal": 96,
+      "unit_id": "ziwei_068_u0096",
+      "proposal_id": "z068_s1_u0096_v1",
+      "proposal_file": "batch_093_097_v1.jsonl",
+      "proposal_file_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "ordinal": 97,
+      "unit_id": "ziwei_068_u0097",
+      "proposal_id": "z068_s1_u0097_v1",
+      "proposal_file": "batch_093_097_v1.jsonl",
+      "proposal_file_sha256": "f6473cd94678dd3a8c741b9efaf1578b6cb63b94d9ccbd559cecd13adf17d6c9"
+    },
+    {
+      "ordinal": 98,
+      "unit_id": "ziwei_068_u0098",
+      "proposal_id": "z068_s1_u0098_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 99,
+      "unit_id": "ziwei_068_u0099",
+      "proposal_id": "z068_s1_u0099_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 100,
+      "unit_id": "ziwei_068_u0100",
+      "proposal_id": "z068_s1_u0100_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 101,
+      "unit_id": "ziwei_068_u0101",
+      "proposal_id": "z068_s1_u0101_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 102,
+      "unit_id": "ziwei_068_u0102",
+      "proposal_id": "z068_s1_u0102_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 103,
+      "unit_id": "ziwei_068_u0103",
+      "proposal_id": "z068_s1_u0103_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 104,
+      "unit_id": "ziwei_068_u0104",
+      "proposal_id": "z068_s1_u0104_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 105,
+      "unit_id": "ziwei_068_u0105",
+      "proposal_id": "z068_s1_u0105_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 106,
+      "unit_id": "ziwei_068_u0106",
+      "proposal_id": "z068_s1_u0106_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 107,
+      "unit_id": "ziwei_068_u0107",
+      "proposal_id": "z068_s1_u0107_v2",
+      "proposal_file": "batch_098_107_v2.jsonl",
+      "proposal_file_sha256": "d7bd8dfeb476445a5e60fe4c0429f695e7cb9caea8fa1a8b34fdc27a84dc63f0"
+    },
+    {
+      "ordinal": 108,
+      "unit_id": "ziwei_068_u0108",
+      "proposal_id": "z068_s1_u0108_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 109,
+      "unit_id": "ziwei_068_u0109",
+      "proposal_id": "z068_s1_u0109_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 110,
+      "unit_id": "ziwei_068_u0110",
+      "proposal_id": "z068_s1_u0110_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 111,
+      "unit_id": "ziwei_068_u0111",
+      "proposal_id": "z068_s1_u0111_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 112,
+      "unit_id": "ziwei_068_u0112",
+      "proposal_id": "z068_s1_u0112_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 113,
+      "unit_id": "ziwei_068_u0113",
+      "proposal_id": "z068_s1_u0113_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 114,
+      "unit_id": "ziwei_068_u0114",
+      "proposal_id": "z068_s1_u0114_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 115,
+      "unit_id": "ziwei_068_u0115",
+      "proposal_id": "z068_s1_u0115_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 116,
+      "unit_id": "ziwei_068_u0116",
+      "proposal_id": "z068_s1_u0116_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 117,
+      "unit_id": "ziwei_068_u0117",
+      "proposal_id": "z068_s1_u0117_v2",
+      "proposal_file": "batch_108_117_v2.jsonl",
+      "proposal_file_sha256": "da488d3c9b6e13164c7f4855884426c72a7120b2c2d7a37409b187c6ea1dd565"
+    },
+    {
+      "ordinal": 118,
+      "unit_id": "ziwei_068_u0118",
+      "proposal_id": "z068_s1_u0118_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 119,
+      "unit_id": "ziwei_068_u0119",
+      "proposal_id": "z068_s1_u0119_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 120,
+      "unit_id": "ziwei_068_u0120",
+      "proposal_id": "z068_s1_u0120_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 121,
+      "unit_id": "ziwei_068_u0121",
+      "proposal_id": "z068_s1_u0121_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 122,
+      "unit_id": "ziwei_068_u0122",
+      "proposal_id": "z068_s1_u0122_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 123,
+      "unit_id": "ziwei_068_u0123",
+      "proposal_id": "z068_s1_u0123_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 124,
+      "unit_id": "ziwei_068_u0124",
+      "proposal_id": "z068_s1_u0124_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 125,
+      "unit_id": "ziwei_068_u0125",
+      "proposal_id": "z068_s1_u0125_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 126,
+      "unit_id": "ziwei_068_u0126",
+      "proposal_id": "z068_s1_u0126_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 127,
+      "unit_id": "ziwei_068_u0127",
+      "proposal_id": "z068_s1_u0127_v1",
+      "proposal_file": "batch_118_127_v1.jsonl",
+      "proposal_file_sha256": "0ae4f6eeec5e98a46bfa527b626f5f857568d618b3492f5db7488363fa380863"
+    },
+    {
+      "ordinal": 128,
+      "unit_id": "ziwei_068_u0128",
+      "proposal_id": "z068_s1_u0128_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 129,
+      "unit_id": "ziwei_068_u0129",
+      "proposal_id": "z068_s1_u0129_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 130,
+      "unit_id": "ziwei_068_u0130",
+      "proposal_id": "z068_s1_u0130_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 131,
+      "unit_id": "ziwei_068_u0131",
+      "proposal_id": "z068_s1_u0131_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 132,
+      "unit_id": "ziwei_068_u0132",
+      "proposal_id": "z068_s1_u0132_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 133,
+      "unit_id": "ziwei_068_u0133",
+      "proposal_id": "z068_s1_u0133_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 134,
+      "unit_id": "ziwei_068_u0134",
+      "proposal_id": "z068_s1_u0134_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 135,
+      "unit_id": "ziwei_068_u0135",
+      "proposal_id": "z068_s1_u0135_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 136,
+      "unit_id": "ziwei_068_u0136",
+      "proposal_id": "z068_s1_u0136_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 137,
+      "unit_id": "ziwei_068_u0137",
+      "proposal_id": "z068_s1_u0137_v1",
+      "proposal_file": "batch_128_137_v1.jsonl",
+      "proposal_file_sha256": "3d3d674ae49f7f011605126a53d7ef49995f37bb4eea83f8630c1e8a041d92df"
+    },
+    {
+      "ordinal": 138,
+      "unit_id": "ziwei_068_u0138",
+      "proposal_id": "z068_s1_u0138_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 139,
+      "unit_id": "ziwei_068_u0139",
+      "proposal_id": "z068_s1_u0139_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 140,
+      "unit_id": "ziwei_068_u0140",
+      "proposal_id": "z068_s1_u0140_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 141,
+      "unit_id": "ziwei_068_u0141",
+      "proposal_id": "z068_s1_u0141_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 142,
+      "unit_id": "ziwei_068_u0142",
+      "proposal_id": "z068_s1_u0142_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 143,
+      "unit_id": "ziwei_068_u0143",
+      "proposal_id": "z068_s1_u0143_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 144,
+      "unit_id": "ziwei_068_u0144",
+      "proposal_id": "z068_s1_u0144_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 145,
+      "unit_id": "ziwei_068_u0145",
+      "proposal_id": "z068_s1_u0145_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 146,
+      "unit_id": "ziwei_068_u0146",
+      "proposal_id": "z068_s1_u0146_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 147,
+      "unit_id": "ziwei_068_u0147",
+      "proposal_id": "z068_s1_u0147_v1",
+      "proposal_file": "batch_138_147_v1.jsonl",
+      "proposal_file_sha256": "55d75eb122528b12124f805bc90d4e05d65a178aea4776febf1c2c9018e4f0e0"
+    },
+    {
+      "ordinal": 148,
+      "unit_id": "ziwei_068_u0148",
+      "proposal_id": "z068_s1_u0148_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 149,
+      "unit_id": "ziwei_068_u0149",
+      "proposal_id": "z068_s1_u0149_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 150,
+      "unit_id": "ziwei_068_u0150",
+      "proposal_id": "z068_s1_u0150_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 151,
+      "unit_id": "ziwei_068_u0151",
+      "proposal_id": "z068_s1_u0151_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 152,
+      "unit_id": "ziwei_068_u0152",
+      "proposal_id": "z068_s1_u0152_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 153,
+      "unit_id": "ziwei_068_u0153",
+      "proposal_id": "z068_s1_u0153_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 154,
+      "unit_id": "ziwei_068_u0154",
+      "proposal_id": "z068_s1_u0154_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 155,
+      "unit_id": "ziwei_068_u0155",
+      "proposal_id": "z068_s1_u0155_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 156,
+      "unit_id": "ziwei_068_u0156",
+      "proposal_id": "z068_s1_u0156_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 157,
+      "unit_id": "ziwei_068_u0157",
+      "proposal_id": "z068_s1_u0157_v1",
+      "proposal_file": "batch_148_157_v1.jsonl",
+      "proposal_file_sha256": "f60bf3a9d7c81a1e12e98e9c2612ec7495a4c138963c85009dcea5290dca8349"
+    },
+    {
+      "ordinal": 158,
+      "unit_id": "ziwei_068_u0158",
+      "proposal_id": "z068_s1_u0158_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 159,
+      "unit_id": "ziwei_068_u0159",
+      "proposal_id": "z068_s1_u0159_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 160,
+      "unit_id": "ziwei_068_u0160",
+      "proposal_id": "z068_s1_u0160_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 161,
+      "unit_id": "ziwei_068_u0161",
+      "proposal_id": "z068_s1_u0161_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 162,
+      "unit_id": "ziwei_068_u0162",
+      "proposal_id": "z068_s1_u0162_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 163,
+      "unit_id": "ziwei_068_u0163",
+      "proposal_id": "z068_s1_u0163_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 164,
+      "unit_id": "ziwei_068_u0164",
+      "proposal_id": "z068_s1_u0164_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 165,
+      "unit_id": "ziwei_068_u0165",
+      "proposal_id": "z068_s1_u0165_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 166,
+      "unit_id": "ziwei_068_u0166",
+      "proposal_id": "z068_s1_u0166_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 167,
+      "unit_id": "ziwei_068_u0167",
+      "proposal_id": "z068_s1_u0167_v1",
+      "proposal_file": "batch_158_167_v1.jsonl",
+      "proposal_file_sha256": "a8714555cd8b8c812c8345fa770db7b9682a2d635cbc71b6222523e6a56bd82f"
+    },
+    {
+      "ordinal": 168,
+      "unit_id": "ziwei_068_u0168",
+      "proposal_id": "z068_s1_u0168_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 169,
+      "unit_id": "ziwei_068_u0169",
+      "proposal_id": "z068_s1_u0169_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 170,
+      "unit_id": "ziwei_068_u0170",
+      "proposal_id": "z068_s1_u0170_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 171,
+      "unit_id": "ziwei_068_u0171",
+      "proposal_id": "z068_s1_u0171_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 172,
+      "unit_id": "ziwei_068_u0172",
+      "proposal_id": "z068_s1_u0172_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 173,
+      "unit_id": "ziwei_068_u0173",
+      "proposal_id": "z068_s1_u0173_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 174,
+      "unit_id": "ziwei_068_u0174",
+      "proposal_id": "z068_s1_u0174_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 175,
+      "unit_id": "ziwei_068_u0175",
+      "proposal_id": "z068_s1_u0175_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 176,
+      "unit_id": "ziwei_068_u0176",
+      "proposal_id": "z068_s1_u0176_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 177,
+      "unit_id": "ziwei_068_u0177",
+      "proposal_id": "z068_s1_u0177_v1",
+      "proposal_file": "batch_168_177_v1.jsonl",
+      "proposal_file_sha256": "75f964ca2091915e79e0521876f5f56d1cc32aef33214c03623c9cef2d5a356b"
+    },
+    {
+      "ordinal": 178,
+      "unit_id": "ziwei_068_u0178",
+      "proposal_id": "z068_s1_u0178_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 179,
+      "unit_id": "ziwei_068_u0179",
+      "proposal_id": "z068_s1_u0179_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 180,
+      "unit_id": "ziwei_068_u0180",
+      "proposal_id": "z068_s1_u0180_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 181,
+      "unit_id": "ziwei_068_u0181",
+      "proposal_id": "z068_s1_u0181_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 182,
+      "unit_id": "ziwei_068_u0182",
+      "proposal_id": "z068_s1_u0182_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 183,
+      "unit_id": "ziwei_068_u0183",
+      "proposal_id": "z068_s1_u0183_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    },
+    {
+      "ordinal": 184,
+      "unit_id": "ziwei_068_u0184",
+      "proposal_id": "z068_s1_u0184_v1",
+      "proposal_file": "batch_178_184_v1.jsonl",
+      "proposal_file_sha256": "5e8ba56e77d373cf600330a7ba62a3890fd6a1b4016745ec34be55a205bc1087"
+    }
+  ],
+  "counts": {
+    "units": 92,
+    "patches": 44,
+    "unresolved": 139,
+    "changed_units": 32,
+    "input_codepoints": 54602
+  },
+  "verification_scope": "Identity, coverage, minimal-span linkage and deterministic replay only; not independent semantic acceptance.",
+  "formal_outputs_written": false,
+  "uploaded": false
+}
