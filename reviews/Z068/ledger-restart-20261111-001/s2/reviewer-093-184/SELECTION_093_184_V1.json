@@ -1,0 +1,736 @@
+{
+  "scope": "S2 non-author review only, ordinals 093–184",
+  "whole_source_pass_claim": false,
+  "formal_files_modified": false,
+  "counts": {
+    "units": 92,
+    "prior_full_review_reused": 5,
+    "new_full_read": 87,
+    "patches_reviewed": 44,
+    "uncertainties_reviewed": 139,
+    "new_source_findings": 5,
+    "blocking_findings": 0,
+    "filtered_units": 0
+  },
+  "mechanical_checks": [
+    "all selected proposal rows and batch SHA match actual S1",
+    "safe02 and actual03 text SHA match all author and review records",
+    "all patch replays reproduce actual03",
+    "all three subreports match full author record per unit",
+    "all unit identities and order preserved"
+  ],
+  "batches": [
+    {
+      "file": "review_093_097_v1.jsonl",
+      "bytes": 9650,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2",
+      "count": 5
+    },
+    {
+      "file": "review_098_102_v1.jsonl",
+      "bytes": 7498,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81",
+      "count": 5
+    },
+    {
+      "file": "review_103_107_v1.jsonl",
+      "bytes": 8209,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a",
+      "count": 5
+    },
+    {
+      "file": "review_108_117_v1.jsonl",
+      "bytes": 15291,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9",
+      "count": 10
+    },
+    {
+      "file": "review_118_127_v1.jsonl",
+      "bytes": 16187,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3",
+      "count": 10
+    },
+    {
+      "file": "review_128_137_v1.jsonl",
+      "bytes": 18320,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d",
+      "count": 10
+    },
+    {
+      "file": "review_138_147_v1.jsonl",
+      "bytes": 17306,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756",
+      "count": 10
+    },
+    {
+      "file": "review_148_157_v1.jsonl",
+      "bytes": 17308,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d",
+      "count": 10
+    },
+    {
+      "file": "review_158_167_v1.jsonl",
+      "bytes": 17326,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04",
+      "count": 10
+    },
+    {
+      "file": "review_168_177_v1.jsonl",
+      "bytes": 17796,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9",
+      "count": 10
+    },
+    {
+      "file": "review_178_184_v1.jsonl",
+      "bytes": 11808,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240",
+      "count": 7
+    }
+  ],
+  "selected_reviews": [
+    {
+      "ordinal": 93,
+      "review_id": "z068_s2_u0093_v1",
+      "file": "review_093_097_v1.jsonl",
+      "line": 1,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2"
+    },
+    {
+      "ordinal": 94,
+      "review_id": "z068_s2_u0094_v1",
+      "file": "review_093_097_v1.jsonl",
+      "line": 2,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2"
+    },
+    {
+      "ordinal": 95,
+      "review_id": "z068_s2_u0095_v1",
+      "file": "review_093_097_v1.jsonl",
+      "line": 3,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2"
+    },
+    {
+      "ordinal": 96,
+      "review_id": "z068_s2_u0096_v1",
+      "file": "review_093_097_v1.jsonl",
+      "line": 4,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2"
+    },
+    {
+      "ordinal": 97,
+      "review_id": "z068_s2_u0097_v1",
+      "file": "review_093_097_v1.jsonl",
+      "line": 5,
+      "sha256": "476c14268603bba14e4bc63540521929b957ac1503e3a380810150ff2e5a3ec2"
+    },
+    {
+      "ordinal": 98,
+      "review_id": "z068_s2_u0098_v1",
+      "file": "review_098_102_v1.jsonl",
+      "line": 1,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81"
+    },
+    {
+      "ordinal": 99,
+      "review_id": "z068_s2_u0099_v1",
+      "file": "review_098_102_v1.jsonl",
+      "line": 2,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81"
+    },
+    {
+      "ordinal": 100,
+      "review_id": "z068_s2_u0100_v1",
+      "file": "review_098_102_v1.jsonl",
+      "line": 3,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81"
+    },
+    {
+      "ordinal": 101,
+      "review_id": "z068_s2_u0101_v1",
+      "file": "review_098_102_v1.jsonl",
+      "line": 4,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81"
+    },
+    {
+      "ordinal": 102,
+      "review_id": "z068_s2_u0102_v1",
+      "file": "review_098_102_v1.jsonl",
+      "line": 5,
+      "sha256": "34422d12f8b2255ec0412d10def528b1b6bf12b2066f1feab15150221bdb9d81"
+    },
+    {
+      "ordinal": 103,
+      "review_id": "z068_s2_u0103_v1",
+      "file": "review_103_107_v1.jsonl",
+      "line": 1,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a"
+    },
+    {
+      "ordinal": 104,
+      "review_id": "z068_s2_u0104_v1",
+      "file": "review_103_107_v1.jsonl",
+      "line": 2,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a"
+    },
+    {
+      "ordinal": 105,
+      "review_id": "z068_s2_u0105_v1",
+      "file": "review_103_107_v1.jsonl",
+      "line": 3,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a"
+    },
+    {
+      "ordinal": 106,
+      "review_id": "z068_s2_u0106_v1",
+      "file": "review_103_107_v1.jsonl",
+      "line": 4,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a"
+    },
+    {
+      "ordinal": 107,
+      "review_id": "z068_s2_u0107_v1",
+      "file": "review_103_107_v1.jsonl",
+      "line": 5,
+      "sha256": "05c5339ba333b2bf82cb3a079d39e7d80a861ff9e088595cadae3596aa327c4a"
+    },
+    {
+      "ordinal": 108,
+      "review_id": "z068_s2_u0108_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 1,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 109,
+      "review_id": "z068_s2_u0109_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 2,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 110,
+      "review_id": "z068_s2_u0110_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 3,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 111,
+      "review_id": "z068_s2_u0111_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 4,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 112,
+      "review_id": "z068_s2_u0112_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 5,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 113,
+      "review_id": "z068_s2_u0113_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 6,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 114,
+      "review_id": "z068_s2_u0114_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 7,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 115,
+      "review_id": "z068_s2_u0115_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 8,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 116,
+      "review_id": "z068_s2_u0116_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 9,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 117,
+      "review_id": "z068_s2_u0117_v1",
+      "file": "review_108_117_v1.jsonl",
+      "line": 10,
+      "sha256": "67283e287f729073d32385e26302995abf89327672a0248da0bb3121aad49bc9"
+    },
+    {
+      "ordinal": 118,
+      "review_id": "z068_s2_u0118_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 1,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 119,
+      "review_id": "z068_s2_u0119_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 2,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 120,
+      "review_id": "z068_s2_u0120_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 3,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 121,
+      "review_id": "z068_s2_u0121_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 4,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 122,
+      "review_id": "z068_s2_u0122_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 5,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 123,
+      "review_id": "z068_s2_u0123_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 6,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 124,
+      "review_id": "z068_s2_u0124_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 7,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 125,
+      "review_id": "z068_s2_u0125_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 8,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 126,
+      "review_id": "z068_s2_u0126_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 9,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 127,
+      "review_id": "z068_s2_u0127_v1",
+      "file": "review_118_127_v1.jsonl",
+      "line": 10,
+      "sha256": "b488fe0db93691ff4a96e346689fd84c5e8983b824b5b3bab5a6ce56a01297d3"
+    },
+    {
+      "ordinal": 128,
+      "review_id": "z068_s2_u0128_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 1,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 129,
+      "review_id": "z068_s2_u0129_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 2,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 130,
+      "review_id": "z068_s2_u0130_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 3,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 131,
+      "review_id": "z068_s2_u0131_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 4,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 132,
+      "review_id": "z068_s2_u0132_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 5,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 133,
+      "review_id": "z068_s2_u0133_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 6,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 134,
+      "review_id": "z068_s2_u0134_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 7,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 135,
+      "review_id": "z068_s2_u0135_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 8,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 136,
+      "review_id": "z068_s2_u0136_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 9,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 137,
+      "review_id": "z068_s2_u0137_v1",
+      "file": "review_128_137_v1.jsonl",
+      "line": 10,
+      "sha256": "21f75dad275e814369bf6e681546e0e9f2dc3f1d6f18d2b9ceacd8745b350d7d"
+    },
+    {
+      "ordinal": 138,
+      "review_id": "z068_s2_u0138_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 1,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 139,
+      "review_id": "z068_s2_u0139_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 2,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 140,
+      "review_id": "z068_s2_u0140_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 3,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 141,
+      "review_id": "z068_s2_u0141_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 4,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 142,
+      "review_id": "z068_s2_u0142_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 5,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 143,
+      "review_id": "z068_s2_u0143_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 6,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 144,
+      "review_id": "z068_s2_u0144_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 7,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 145,
+      "review_id": "z068_s2_u0145_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 8,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 146,
+      "review_id": "z068_s2_u0146_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 9,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 147,
+      "review_id": "z068_s2_u0147_v1",
+      "file": "review_138_147_v1.jsonl",
+      "line": 10,
+      "sha256": "427086a8a4566a5c9aea58f94d08615f2d23e9ddba9dc747c749b196015b7756"
+    },
+    {
+      "ordinal": 148,
+      "review_id": "z068_s2_u0148_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 1,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 149,
+      "review_id": "z068_s2_u0149_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 2,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 150,
+      "review_id": "z068_s2_u0150_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 3,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 151,
+      "review_id": "z068_s2_u0151_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 4,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 152,
+      "review_id": "z068_s2_u0152_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 5,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 153,
+      "review_id": "z068_s2_u0153_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 6,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 154,
+      "review_id": "z068_s2_u0154_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 7,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 155,
+      "review_id": "z068_s2_u0155_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 8,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 156,
+      "review_id": "z068_s2_u0156_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 9,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 157,
+      "review_id": "z068_s2_u0157_v1",
+      "file": "review_148_157_v1.jsonl",
+      "line": 10,
+      "sha256": "fe2f56dbb96a4c861b20b214b7edade712be53a98cbc854349e3a2f0e70df13d"
+    },
+    {
+      "ordinal": 158,
+      "review_id": "z068_s2_u0158_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 1,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 159,
+      "review_id": "z068_s2_u0159_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 2,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 160,
+      "review_id": "z068_s2_u0160_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 3,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 161,
+      "review_id": "z068_s2_u0161_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 4,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 162,
+      "review_id": "z068_s2_u0162_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 5,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 163,
+      "review_id": "z068_s2_u0163_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 6,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 164,
+      "review_id": "z068_s2_u0164_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 7,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 165,
+      "review_id": "z068_s2_u0165_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 8,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 166,
+      "review_id": "z068_s2_u0166_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 9,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 167,
+      "review_id": "z068_s2_u0167_v1",
+      "file": "review_158_167_v1.jsonl",
+      "line": 10,
+      "sha256": "78475d07dc14268fec9d1051f6d74dbfd7606e920ddc448aa7f6c8fa08cb7f04"
+    },
+    {
+      "ordinal": 168,
+      "review_id": "z068_s2_u0168_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 1,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 169,
+      "review_id": "z068_s2_u0169_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 2,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 170,
+      "review_id": "z068_s2_u0170_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 3,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 171,
+      "review_id": "z068_s2_u0171_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 4,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 172,
+      "review_id": "z068_s2_u0172_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 5,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 173,
+      "review_id": "z068_s2_u0173_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 6,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 174,
+      "review_id": "z068_s2_u0174_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 7,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 175,
+      "review_id": "z068_s2_u0175_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 8,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 176,
+      "review_id": "z068_s2_u0176_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 9,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 177,
+      "review_id": "z068_s2_u0177_v1",
+      "file": "review_168_177_v1.jsonl",
+      "line": 10,
+      "sha256": "d411c48c8f951e3658a5708e1dca357c03cd554859bc9cd16ceb436882f607b9"
+    },
+    {
+      "ordinal": 178,
+      "review_id": "z068_s2_u0178_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 1,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 179,
+      "review_id": "z068_s2_u0179_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 2,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 180,
+      "review_id": "z068_s2_u0180_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 3,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 181,
+      "review_id": "z068_s2_u0181_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 4,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 182,
+      "review_id": "z068_s2_u0182_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 5,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 183,
+      "review_id": "z068_s2_u0183_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 6,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    },
+    {
+      "ordinal": 184,
+      "review_id": "z068_s2_u0184_v1",
+      "file": "review_178_184_v1.jsonl",
+      "line": 7,
+      "sha256": "0979943b59317da343907576dbc3c7d5558e6633f8515720c5df9cf29e792240"
+    }
+  ]
+}
