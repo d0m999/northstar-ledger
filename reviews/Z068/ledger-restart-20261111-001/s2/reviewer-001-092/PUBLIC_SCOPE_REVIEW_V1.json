@@ -1,0 +1,103 @@
+{
+  "scope": "Public disclosure and exact selection check only; not semantic re-review",
+  "source": "Z068",
+  "ordinals": [
+    1,
+    92
+  ],
+  "counts": {
+    "units": 92,
+    "prior_full_non_author_review": 5,
+    "new_full_non_author_review": 87,
+    "patches": 7,
+    "uncertainties": 182,
+    "new_review_patches": 6,
+    "new_review_uncertainties": 178,
+    "filtered_units": 0,
+    "new_findings": 0,
+    "new_original_codepoints": 54445,
+    "new_clean_codepoints": 54444
+  },
+  "review_origins": {
+    "prior_full_non_author_review": 5,
+    "new_full_non_author_review": 87
+  },
+  "files": [
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_001_005_v1.jsonl",
+      "bytes": 4986,
+      "sha256": "a1bcc28c20bd323c7e815b43392b1efadd8e5a64e970ea0ed4579ca5f699c30e",
+      "git_blob": "c52dc802c0d25af05efdd9fe281365e0a39d902f"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_006_010_v1.jsonl",
+      "bytes": 8834,
+      "sha256": "db0bb20f4629937097be9f109045f85488303cf32ebb3ec754fc5758a941c5d3",
+      "git_blob": "9ce7e82a8dc5e67233a7fdc0c37e62b394f17a37"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_011_020_v1.jsonl",
+      "bytes": 16154,
+      "sha256": "4140d4f4235fe6f904fae838d06bac11660e2a6ea4919951f0987a267df44fbb",
+      "git_blob": "3333914f6593b8d8ac5cde60d1bfb0bb387c3e6c"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_021_030_v1.jsonl",
+      "bytes": 16823,
+      "sha256": "bd64f8048065bd9a44b9de882d0fdc056847cfd35b9d1e9fb9fa0c8d235adcee",
+      "git_blob": "67992381488b7a40f065be1e7680cda939434389"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_031_040_v1.jsonl",
+      "bytes": 16237,
+      "sha256": "5edde993e77792da86e795b5f500f56fdef6e1ac1bd311e85e77af2f06ef4680",
+      "git_blob": "71da76eda28236a1db5e108fba3ee8edf7a1eeab"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_041_050_v1.jsonl",
+      "bytes": 16805,
+      "sha256": "3f968cc7ea6efe51184db5ab9f7870674eadb6f246f5c0ef96dbc2dc544fe45d",
+      "git_blob": "9c5a5b1b7a5f5b67afd6bf35dfb336ac75f72dc7"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_051_060_v1.jsonl",
+      "bytes": 15677,
+      "sha256": "b31520b8776e4d71bcc64fa9791ff8157eddd55d6e31930c5b853396932894c8",
+      "git_blob": "44da60897ca2c4fc0e8459fa793f9b80f5c48c67"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_061_070_v1.jsonl",
+      "bytes": 16163,
+      "sha256": "8d79f1d8f12343793d65d5f2dcaab2ce3cdc1f2503f8b83fbda323c236b8e39f",
+      "git_blob": "bc3ff5bfb1c06f306ed1640cf0225eeaebda9c70"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_071_080_v1.jsonl",
+      "bytes": 15794,
+      "sha256": "f987217a71d3f951cd330ea26cae7fb95c454a4923372a16552d1ac6cef9b78e",
+      "git_blob": "4527983f3be85a108989f5a877ffd2a8f486fb9c"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_081_090_v1.jsonl",
+      "bytes": 16359,
+      "sha256": "54d094ccdf9348e0240abca9e38a5c4cfd160fd5837c870da32718d03c860171",
+      "git_blob": "e2db288fd24392a639c953012f53b67363ad279e"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/review_091_092_v1.jsonl",
+      "bytes": 3060,
+      "sha256": "e5c0e1c10a1c1e3cfbd86e8e26f79f705bf8279e174db37a73f07ad316b67807",
+      "git_blob": "ed7180c53fb9590f4c883ed81a762329272bb723"
+    },
+    {
+      "remote": "reviews/Z068/ledger-restart-20261111-001/s2/reviewer-001-092/SELECTION_001_092_S2_V1.json",
+      "bytes": 80154,
+      "sha256": "c73f817d5614c8bdea183282975ca6d6502922a0baef39efae46e3aca3f5e070",
+      "git_blob": "eeb62edd1dc980a47a437720ac51baab49647bda"
+    }
+  ],
+  "public_scope_pass": true,
+  "whole_source_acceptance": false,
+  "formal_S2_pass_claim": false,
+  "limits": "Original review roles and prior-review reuse are retained. No raw source, original labels, rule bodies, private paths, credentials or whole before/after text are published. No new findings in this segment; no formal files changed."
+}
