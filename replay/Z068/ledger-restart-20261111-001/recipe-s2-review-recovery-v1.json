@@ -1,0 +1,28 @@
+{
+  "source": "Z068",
+  "scope": "Recover source-free decisions and cleaning review, not old private execution context",
+  "source_repository": "d0m999/Astrology_RAG",
+  "source_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+  "public_checkpoint_commit": "9afd90eb49376f3e1ce9c043381f5355270733ec",
+  "s1_index": "checkpoints/Z068/ledger-restart-20261111-001/s1-complete-proposals-v1.json",
+  "s2_index": "checkpoints/Z068/ledger-restart-20261111-001/s2-complete-reviews-v1.json",
+  "steps": [
+    "Obtain authorized original and frozen rules from fixed commit using existing source references; do not publish their content. Follow the prior S0 projection and S1 replay recipe to reconstruct exact clean03 and all selected author decisions.",
+    "Use S2 index to restore all40 review files,3 reviewer finals,276 exact selected lines and all five new use restrictions. Verify sizes, SHA256, Git blobs and line hashes.",
+    "Retain distinct original reviewers and15 prior-full-review reuse versus261 newly read units; no invented rereading.",
+    "Create a fresh private runtime context and accurate current input pins. Independently check before registering any rebuilt S2 report; this public recipe grants no bypass of the registrar guards."
+  ],
+  "exact_clean03": {
+    "path": "03_cleaned/ziwei/ziwei_068.jsonl",
+    "bytes": 539269,
+    "sha256": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e"
+  },
+  "limitations": [
+    "Old private reports, paths, execution captures and approvals are not guaranteed byte-for-byte reproducible.",
+    "C early-five original reuse proofs identified by ecf495 and c220 prefixes were not publicly uploaded; do not claim their original bytes can be downloaded.",
+    "If a consumer still requires unavailable exact old proofs, explicitly assess the existing public early15 summary and current-version bridge, or reconstruct only the limited15 current proofs under applicable rules. Do not suppress or bypass missing-proof guards."
+  ],
+  "formal_stage_fact": "The current Nov11 run has independently verified S1 and S2 passed, with five frozen S1 artifacts. Recovery limitations do not change this completed fact.",
+  "whole_source_acceptance": false,
+  "annotation_acceptance": false
+}
