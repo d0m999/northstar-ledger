@@ -1,0 +1,73 @@
+{
+  "result": "PASS_ACTUAL_S2_PUBLICATION",
+  "formal_report": {
+    "path": "reports/ziwei_068/S2_clean_review.json",
+    "bytes": 3073352,
+    "sha256": "df6126181e431c20b7a6c38c1569d7cdcf87fccb83e6f03ae401c138b0f2ed79"
+  },
+  "current_status": {
+    "path": "status.json",
+    "bytes": 572620,
+    "sha256": "499720fd36dc31eb5b82791df2320f6a5d464b3562b14a60d5c7e47370c6e3e8"
+  },
+  "old_status_archive": {
+    "path": "history/pre_s2_registration/status.json",
+    "bytes": 572213,
+    "sha256": "574e4be13b20cff86fae0506323ce4c99770a69699d2eb3a2a86c3d935d0fb6f"
+  },
+  "frozen_s1_artifacts": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_068.jsonl",
+      "bytes": 539269,
+      "sha256": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e"
+    },
+    {
+      "path": "reports/ziwei_068/S1_text_treatment.json",
+      "bytes": 2564502,
+      "sha256": "bd902afb901e4ae14b1079cbf4e6a55e554142f7b1d37b61b583ac21f627330c"
+    },
+    {
+      "path": "reports/ziwei_068/S1_table.json",
+      "bytes": 139944,
+      "sha256": "dd0872253430a6adc365f309f684c014661ee8afd4f2acbb2f9e32f9519ec9bd"
+    },
+    {
+      "path": "reports/ziwei_068/S1_punctuation.json",
+      "bytes": 165298,
+      "sha256": "8352a5d8ed87ef670d97a0a68f981a5fd0fdc1aa5ee044c12cfeb0ae65290341"
+    },
+    {
+      "path": "reports/ziwei_068/S1_semantic.json",
+      "bytes": 845404,
+      "sha256": "d9a3b1d38f03a2dc9fac03b5573f4863cf67d327200270f1c3099b3d6a68915b"
+    }
+  ],
+  "journal": {
+    "path": "S2_registration_journal.jsonl",
+    "bytes": 1593,
+    "sha256": "d7ea3973984b0053f8d7f10d52e88ca6ab8258a7de647cd8a55531eed2725e92"
+  },
+  "journal_events": 8,
+  "protected_files": 12,
+  "controls_checked": 105,
+  "unchanged_other_controls": 104,
+  "actual_completed_at": "2026-11-11T17:44:58.837719+00:00",
+  "checks": [
+    "Formal S2/status byte-identical to independently reconstructed approved candidates; candidate pins/manifest unchanged.",
+    "Status entire expected serialization matches: only S1status passed and exact S2status/outcome/decision/output; other149sources and all otherfields unchanged.",
+    "Old status archive exact original572213bytes/hash;12protected actual pins unchanged.",
+    "105pre/post/livecontrols,99inputs covered, only expected status changed; exactCLI/cwd/recorded2GiB/exit0/fulloutputs verified.",
+    "Eightjournal events exact order; two temps absent; status last and complete."
+  ],
+  "stage_boundary": "S1/S2 now passed. Exactly five S1 artifacts frozen for S3.527original uncertainties and5new nonblocking findings retained. Not whole-source or annotation acceptance.",
+  "review_actions": "Read-only actual byte/hash/metadata verification and new private receipt; no producer/tests/A/source semantic reread or formal writes.",
+  "counts": {
+    "units": 276,
+    "patches": 85,
+    "retained_source_uncertainties": 527,
+    "new_nonblocking_findings": 5
+  },
+  "source_accepted": false,
+  "semantic_annotation_acceptance": false,
+  "evidence_boundary": "Projection of actual independent byte verification; private reports and execution approvals are not published or promised byte-reproducible."
+}
