@@ -1,0 +1,735 @@
+{
+  "source_id": "ziwei_068",
+  "author_role": "author_185_276",
+  "scope": [
+    185,
+    276
+  ],
+  "status": "manual_proposals_pending_independent_review",
+  "input_file_sha256": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee",
+  "input_units_file_sha256": "2b039ac7054aa6e1b19c5f52e947925fdca508087ed24675c02a7a28121b24bc",
+  "files": [
+    {
+      "file": "proposal_185_189_v3.jsonl",
+      "bytes": 8335,
+      "sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "records": 5
+    },
+    {
+      "file": "proposal_190_199_v2.jsonl",
+      "bytes": 16744,
+      "sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221",
+      "records": 10
+    },
+    {
+      "file": "proposal_200_209_v2.jsonl",
+      "bytes": 16916,
+      "sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067",
+      "records": 10
+    },
+    {
+      "file": "proposal_210_219_v2.jsonl",
+      "bytes": 16431,
+      "sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09",
+      "records": 10
+    },
+    {
+      "file": "proposal_220_229_v2.jsonl",
+      "bytes": 13602,
+      "sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220",
+      "records": 10
+    },
+    {
+      "file": "proposal_230_239_v2.jsonl",
+      "bytes": 16915,
+      "sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b",
+      "records": 10
+    },
+    {
+      "file": "proposal_240_249_v1.jsonl",
+      "bytes": 15208,
+      "sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35",
+      "records": 10
+    },
+    {
+      "file": "proposal_250_259_v1.jsonl",
+      "bytes": 19198,
+      "sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c",
+      "records": 10
+    },
+    {
+      "file": "proposal_260_269_v1.jsonl",
+      "bytes": 17306,
+      "sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb",
+      "records": 10
+    },
+    {
+      "file": "proposal_270_276_v1.jsonl",
+      "bytes": 11219,
+      "sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f",
+      "records": 7
+    }
+  ],
+  "selection": [
+    {
+      "ordinal": 185,
+      "unit_id": "ziwei_068_u0185",
+      "proposal_id": "z068_s1_u0185_v3",
+      "proposal_file": "proposal_185_189_v3.jsonl",
+      "proposal_file_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    },
+    {
+      "ordinal": 186,
+      "unit_id": "ziwei_068_u0186",
+      "proposal_id": "z068_s1_u0186_v3",
+      "proposal_file": "proposal_185_189_v3.jsonl",
+      "proposal_file_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    },
+    {
+      "ordinal": 187,
+      "unit_id": "ziwei_068_u0187",
+      "proposal_id": "z068_s1_u0187_v3",
+      "proposal_file": "proposal_185_189_v3.jsonl",
+      "proposal_file_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    },
+    {
+      "ordinal": 188,
+      "unit_id": "ziwei_068_u0188",
+      "proposal_id": "z068_s1_u0188_v3",
+      "proposal_file": "proposal_185_189_v3.jsonl",
+      "proposal_file_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    },
+    {
+      "ordinal": 189,
+      "unit_id": "ziwei_068_u0189",
+      "proposal_id": "z068_s1_u0189_v3",
+      "proposal_file": "proposal_185_189_v3.jsonl",
+      "proposal_file_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7"
+    },
+    {
+      "ordinal": 190,
+      "unit_id": "ziwei_068_u0190",
+      "proposal_id": "z068_s1_u0190_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 191,
+      "unit_id": "ziwei_068_u0191",
+      "proposal_id": "z068_s1_u0191_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 192,
+      "unit_id": "ziwei_068_u0192",
+      "proposal_id": "z068_s1_u0192_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 193,
+      "unit_id": "ziwei_068_u0193",
+      "proposal_id": "z068_s1_u0193_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 194,
+      "unit_id": "ziwei_068_u0194",
+      "proposal_id": "z068_s1_u0194_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 195,
+      "unit_id": "ziwei_068_u0195",
+      "proposal_id": "z068_s1_u0195_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 196,
+      "unit_id": "ziwei_068_u0196",
+      "proposal_id": "z068_s1_u0196_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 197,
+      "unit_id": "ziwei_068_u0197",
+      "proposal_id": "z068_s1_u0197_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 198,
+      "unit_id": "ziwei_068_u0198",
+      "proposal_id": "z068_s1_u0198_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 199,
+      "unit_id": "ziwei_068_u0199",
+      "proposal_id": "z068_s1_u0199_v2",
+      "proposal_file": "proposal_190_199_v2.jsonl",
+      "proposal_file_sha256": "06476707dd09ab43e929ff06baa5c19c811965fe37e751d446b563610f505221"
+    },
+    {
+      "ordinal": 200,
+      "unit_id": "ziwei_068_u0200",
+      "proposal_id": "z068_s1_u0200_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 201,
+      "unit_id": "ziwei_068_u0201",
+      "proposal_id": "z068_s1_u0201_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 202,
+      "unit_id": "ziwei_068_u0202",
+      "proposal_id": "z068_s1_u0202_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 203,
+      "unit_id": "ziwei_068_u0203",
+      "proposal_id": "z068_s1_u0203_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 204,
+      "unit_id": "ziwei_068_u0204",
+      "proposal_id": "z068_s1_u0204_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 205,
+      "unit_id": "ziwei_068_u0205",
+      "proposal_id": "z068_s1_u0205_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 206,
+      "unit_id": "ziwei_068_u0206",
+      "proposal_id": "z068_s1_u0206_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 207,
+      "unit_id": "ziwei_068_u0207",
+      "proposal_id": "z068_s1_u0207_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 208,
+      "unit_id": "ziwei_068_u0208",
+      "proposal_id": "z068_s1_u0208_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 209,
+      "unit_id": "ziwei_068_u0209",
+      "proposal_id": "z068_s1_u0209_v2",
+      "proposal_file": "proposal_200_209_v2.jsonl",
+      "proposal_file_sha256": "d2333dacd0068b647a0fe2e1aef799df190f9e0e06c9b6a1852733263e773067"
+    },
+    {
+      "ordinal": 210,
+      "unit_id": "ziwei_068_u0210",
+      "proposal_id": "z068_s1_u0210_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 211,
+      "unit_id": "ziwei_068_u0211",
+      "proposal_id": "z068_s1_u0211_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 212,
+      "unit_id": "ziwei_068_u0212",
+      "proposal_id": "z068_s1_u0212_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 213,
+      "unit_id": "ziwei_068_u0213",
+      "proposal_id": "z068_s1_u0213_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 214,
+      "unit_id": "ziwei_068_u0214",
+      "proposal_id": "z068_s1_u0214_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 215,
+      "unit_id": "ziwei_068_u0215",
+      "proposal_id": "z068_s1_u0215_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 216,
+      "unit_id": "ziwei_068_u0216",
+      "proposal_id": "z068_s1_u0216_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 217,
+      "unit_id": "ziwei_068_u0217",
+      "proposal_id": "z068_s1_u0217_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 218,
+      "unit_id": "ziwei_068_u0218",
+      "proposal_id": "z068_s1_u0218_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 219,
+      "unit_id": "ziwei_068_u0219",
+      "proposal_id": "z068_s1_u0219_v2",
+      "proposal_file": "proposal_210_219_v2.jsonl",
+      "proposal_file_sha256": "501f22d66aa687b37cb990590d5c82898da46e2ca3a5b28c2980363641533e09"
+    },
+    {
+      "ordinal": 220,
+      "unit_id": "ziwei_068_u0220",
+      "proposal_id": "z068_s1_u0220_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 221,
+      "unit_id": "ziwei_068_u0221",
+      "proposal_id": "z068_s1_u0221_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 222,
+      "unit_id": "ziwei_068_u0222",
+      "proposal_id": "z068_s1_u0222_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 223,
+      "unit_id": "ziwei_068_u0223",
+      "proposal_id": "z068_s1_u0223_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 224,
+      "unit_id": "ziwei_068_u0224",
+      "proposal_id": "z068_s1_u0224_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 225,
+      "unit_id": "ziwei_068_u0225",
+      "proposal_id": "z068_s1_u0225_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 226,
+      "unit_id": "ziwei_068_u0226",
+      "proposal_id": "z068_s1_u0226_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 227,
+      "unit_id": "ziwei_068_u0227",
+      "proposal_id": "z068_s1_u0227_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 228,
+      "unit_id": "ziwei_068_u0228",
+      "proposal_id": "z068_s1_u0228_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 229,
+      "unit_id": "ziwei_068_u0229",
+      "proposal_id": "z068_s1_u0229_v2",
+      "proposal_file": "proposal_220_229_v2.jsonl",
+      "proposal_file_sha256": "cfed9154fd75ba9866e2215620d20d9594efa4e8139b6bb1fe48497ba90a4220"
+    },
+    {
+      "ordinal": 230,
+      "unit_id": "ziwei_068_u0230",
+      "proposal_id": "z068_s1_u0230_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 231,
+      "unit_id": "ziwei_068_u0231",
+      "proposal_id": "z068_s1_u0231_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 232,
+      "unit_id": "ziwei_068_u0232",
+      "proposal_id": "z068_s1_u0232_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 233,
+      "unit_id": "ziwei_068_u0233",
+      "proposal_id": "z068_s1_u0233_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 234,
+      "unit_id": "ziwei_068_u0234",
+      "proposal_id": "z068_s1_u0234_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 235,
+      "unit_id": "ziwei_068_u0235",
+      "proposal_id": "z068_s1_u0235_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 236,
+      "unit_id": "ziwei_068_u0236",
+      "proposal_id": "z068_s1_u0236_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 237,
+      "unit_id": "ziwei_068_u0237",
+      "proposal_id": "z068_s1_u0237_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 238,
+      "unit_id": "ziwei_068_u0238",
+      "proposal_id": "z068_s1_u0238_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 239,
+      "unit_id": "ziwei_068_u0239",
+      "proposal_id": "z068_s1_u0239_v2",
+      "proposal_file": "proposal_230_239_v2.jsonl",
+      "proposal_file_sha256": "19cec2b1c49c5f2fbe8f50120ebdbf12a066ffee91cea46a3d10e0773178796b"
+    },
+    {
+      "ordinal": 240,
+      "unit_id": "ziwei_068_u0240",
+      "proposal_id": "z068_s1_u0240_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 241,
+      "unit_id": "ziwei_068_u0241",
+      "proposal_id": "z068_s1_u0241_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 242,
+      "unit_id": "ziwei_068_u0242",
+      "proposal_id": "z068_s1_u0242_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 243,
+      "unit_id": "ziwei_068_u0243",
+      "proposal_id": "z068_s1_u0243_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 244,
+      "unit_id": "ziwei_068_u0244",
+      "proposal_id": "z068_s1_u0244_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 245,
+      "unit_id": "ziwei_068_u0245",
+      "proposal_id": "z068_s1_u0245_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 246,
+      "unit_id": "ziwei_068_u0246",
+      "proposal_id": "z068_s1_u0246_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 247,
+      "unit_id": "ziwei_068_u0247",
+      "proposal_id": "z068_s1_u0247_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 248,
+      "unit_id": "ziwei_068_u0248",
+      "proposal_id": "z068_s1_u0248_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 249,
+      "unit_id": "ziwei_068_u0249",
+      "proposal_id": "z068_s1_u0249_v1",
+      "proposal_file": "proposal_240_249_v1.jsonl",
+      "proposal_file_sha256": "dab1fdab837268464d7a9f8b9c3878a6127de3cc818fad888b374a6e537fcb35"
+    },
+    {
+      "ordinal": 250,
+      "unit_id": "ziwei_068_u0250",
+      "proposal_id": "z068_s1_u0250_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 251,
+      "unit_id": "ziwei_068_u0251",
+      "proposal_id": "z068_s1_u0251_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 252,
+      "unit_id": "ziwei_068_u0252",
+      "proposal_id": "z068_s1_u0252_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 253,
+      "unit_id": "ziwei_068_u0253",
+      "proposal_id": "z068_s1_u0253_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 254,
+      "unit_id": "ziwei_068_u0254",
+      "proposal_id": "z068_s1_u0254_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 255,
+      "unit_id": "ziwei_068_u0255",
+      "proposal_id": "z068_s1_u0255_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 256,
+      "unit_id": "ziwei_068_u0256",
+      "proposal_id": "z068_s1_u0256_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 257,
+      "unit_id": "ziwei_068_u0257",
+      "proposal_id": "z068_s1_u0257_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 258,
+      "unit_id": "ziwei_068_u0258",
+      "proposal_id": "z068_s1_u0258_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 259,
+      "unit_id": "ziwei_068_u0259",
+      "proposal_id": "z068_s1_u0259_v1",
+      "proposal_file": "proposal_250_259_v1.jsonl",
+      "proposal_file_sha256": "459b0f6b880e4c4e262490519975eb5561928bc7b34b63e24a3d861c5c09c56c"
+    },
+    {
+      "ordinal": 260,
+      "unit_id": "ziwei_068_u0260",
+      "proposal_id": "z068_s1_u0260_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 261,
+      "unit_id": "ziwei_068_u0261",
+      "proposal_id": "z068_s1_u0261_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 262,
+      "unit_id": "ziwei_068_u0262",
+      "proposal_id": "z068_s1_u0262_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 263,
+      "unit_id": "ziwei_068_u0263",
+      "proposal_id": "z068_s1_u0263_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 264,
+      "unit_id": "ziwei_068_u0264",
+      "proposal_id": "z068_s1_u0264_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 265,
+      "unit_id": "ziwei_068_u0265",
+      "proposal_id": "z068_s1_u0265_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 266,
+      "unit_id": "ziwei_068_u0266",
+      "proposal_id": "z068_s1_u0266_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 267,
+      "unit_id": "ziwei_068_u0267",
+      "proposal_id": "z068_s1_u0267_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 268,
+      "unit_id": "ziwei_068_u0268",
+      "proposal_id": "z068_s1_u0268_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 269,
+      "unit_id": "ziwei_068_u0269",
+      "proposal_id": "z068_s1_u0269_v1",
+      "proposal_file": "proposal_260_269_v1.jsonl",
+      "proposal_file_sha256": "c3e6b5743f13aeb14b84ee675c24a0e0b51e8d7d45c20126854c67e4cedb62fb"
+    },
+    {
+      "ordinal": 270,
+      "unit_id": "ziwei_068_u0270",
+      "proposal_id": "z068_s1_u0270_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 271,
+      "unit_id": "ziwei_068_u0271",
+      "proposal_id": "z068_s1_u0271_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 272,
+      "unit_id": "ziwei_068_u0272",
+      "proposal_id": "z068_s1_u0272_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 273,
+      "unit_id": "ziwei_068_u0273",
+      "proposal_id": "z068_s1_u0273_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 274,
+      "unit_id": "ziwei_068_u0274",
+      "proposal_id": "z068_s1_u0274_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 275,
+      "unit_id": "ziwei_068_u0275",
+      "proposal_id": "z068_s1_u0275_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    },
+    {
+      "ordinal": 276,
+      "unit_id": "ziwei_068_u0276",
+      "proposal_id": "z068_s1_u0276_v1",
+      "proposal_file": "proposal_270_276_v1.jsonl",
+      "proposal_file_sha256": "7900e18926d08e8dfe955beaa408cc0d9c1bb10aaab541d2785dc00a8a01358f"
+    }
+  ],
+  "counts": {
+    "units": 92,
+    "patches": 34,
+    "unresolved": 206,
+    "changed_units": 26,
+    "filtered_units": 0
+  },
+  "mechanical_checks": {
+    "identity_and_input_hash": true,
+    "complete_recorded_read_spans": true,
+    "patch_and_issue_bounds": true,
+    "patch_substep_links": true,
+    "result_hash_and_length": true,
+    "table_applicability": true
+  },
+  "semantic_acceptance": false
+}
