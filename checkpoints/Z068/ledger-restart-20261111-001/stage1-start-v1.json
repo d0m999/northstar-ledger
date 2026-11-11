@@ -1,0 +1,57 @@
+{
+  "schema": "northstar-ledger.stage1-start.v1",
+  "source_id": "Z068",
+  "attempt": "ledger-restart-20261111-v001",
+  "recorded_at": "2026-11-11T16:35:43.394409+00:00",
+  "source_scope": "single source only",
+  "phase": "manual_cleaning_in_progress",
+  "formal_S1_report_written": false,
+  "S5_structured_annotation_started": false,
+  "saved_completed_manual_units_at_this_checkpoint": 0,
+  "prior_verified_S0": {
+    "repository": "d0m999/northstar-ledger",
+    "commit": "6c58cb0fdbf3e8800c1e01e208dd47a270d27b76",
+    "path": "checkpoints/Z068/ledger-restart-20261111-001/s0-complete-v1.json",
+    "bytes": 48960,
+    "sha256": "05c2f60a0758af5c96564ee9f31625dd480f8b03786774cd51738b8c7f52bebe"
+  },
+  "active_assignments": [
+    {
+      "role": "manual_cleaning_author_001_092",
+      "ordinals": [
+        1,
+        92
+      ]
+    },
+    {
+      "role": "manual_cleaning_author_093_184",
+      "ordinals": [
+        93,
+        184
+      ]
+    },
+    {
+      "role": "manual_cleaning_author_185_276",
+      "ordinals": [
+        185,
+        276
+      ]
+    }
+  ],
+  "current_stage1_preflight": {
+    "executed": true,
+    "exit_code": 0,
+    "configuration_sha256": "d117097ac046e67e32d982cfc40f4622e56ed8349f09e1be80fd9889a77bfdde",
+    "input_files": 185,
+    "exact_documentary_roles": 4043,
+    "named_bindings": 177,
+    "stage_input_bindings": 4,
+    "reference_occurrences": 1110,
+    "independent_saved_result_review_sha256": "6282a3f91761ab5deff4e6b8e245b8f82770214cf16bc0da4580c32d22686563",
+    "source_semantic_gate": false,
+    "recovery_requires_fresh_current_preflight": true
+  },
+  "persistence_plan": "Save immutable source-free human patch and uncertainty decisions by exact original offsets and hashes, then publish explicit selections. Original source and rule bodies stay private and are referenced by fixed commit. Full non-author review follows; an author proposal is not final acceptance.",
+  "original_or_rule_content_included": false,
+  "old_lost_results_reused": false
+}
