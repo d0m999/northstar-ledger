@@ -1,0 +1,48 @@
+{
+  "schema": "z068.recovery_progress.v6",
+  "as_of_utc": "2026-11-12T13:16:37.089960+00:00",
+  "source_id": "ziwei_068",
+  "prior_confirmed_public_commit": "192a09759c092e764132afbd42ebaec0f516adeb",
+  "formal_status": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "not_started",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_work_status": {
+    "S3_manual_authoring": "in_progress",
+    "bounded_independent_candidate_reviews": "in_progress",
+    "formal_build_or_publication_executed": false,
+    "full_source_accepted": false
+  },
+  "recovery_dependencies": {
+    "private_source_rules_git_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "public_preexisting_ledger_commit": "80fb9fb976aa94d4733d4bb325c6c9783528c433",
+    "source_and_rule_bodies_included": false,
+    "self_contained_backup": false
+  },
+  "unresolved_controls": [
+    "Two short source fragments retained in private HOLD; no unrelated padding or fabricated source.",
+    "A trace helper omits deletion-only change attribution; correct evidence retained, versioned repair and independent admission required before publication."
+  ],
+  "public_s3_candidate_upload": {
+    "state": "stopped_after_tool_denial",
+    "commits_created": 0,
+    "retry_attempted": false,
+    "replacement_payload_submitted": false,
+    "candidate_content_in_this_checkpoint": false
+  },
+  "quark_recovery_evidence_backup": {
+    "reported_confirmed_items": 169,
+    "total_items": 170,
+    "one_failed_item_bytes": 2,
+    "complete_batch_confirmed": false,
+    "active_uploads_reported": 0,
+    "download_hash_verification_performed": false
+  },
+  "boundary": "Only current production/recovery state metadata. No candidate decisions, source text, source-derived segmentation records, original input, rule bodies or approval payload from the denied submission are included. No completed-stage or public-payload acceptance is inferred from private review."
+}
