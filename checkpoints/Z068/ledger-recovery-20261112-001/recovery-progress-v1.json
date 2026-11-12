@@ -1,0 +1,34 @@
+{
+  "schema": "z068-recovery-checkpoint-v1",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-recovery-20261112-001",
+  "public_checkpoint_base": "80fb9fb976aa94d4733d4bb325c6c9783528c433",
+  "source_repository": "d0m999/Astrology_RAG",
+  "source_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+  "recovered_public_files": 110,
+  "recovered_public_bytes": 1810582,
+  "all_public_git_blobs_match": true,
+  "private_dependency_count": 118,
+  "private_dependencies_restored_and_size_sha256_git_blob_verified": 118,
+  "missing_controls": [],
+  "limitations": [
+    "All fixed dependency bytes are restored. Current source-specific preparation is under independent review; no formal stage has been executed in this recovery attempt.",
+    "Existing public checkpoint covers S0-S2 recovery metadata, decisions and reviews plus only the first S3 batch. No complete S3 or S5 recovery checkpoint is established.",
+    "Old private run receipts and paths are not claimed byte-identical or recovered. Original early-five review evidence remains a bounded documented gap."
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "pydantic": "2.12.5",
+    "PyYAML": "6.0.2"
+  },
+  "synthetic_tests": {
+    "count": 74,
+    "exit_code": 0,
+    "result": "PASS",
+    "source_semantic_acceptance": false
+  },
+  "production_executed_in_recovery_attempt": false,
+  "source_or_rule_content_included": false,
+  "next_step": "Independently review fresh current preparation, then reconstruct saved S1/S2 decisions without repeating their semantic work.",
+  "private_dependencies_restored_bytes": 9813137
+}
