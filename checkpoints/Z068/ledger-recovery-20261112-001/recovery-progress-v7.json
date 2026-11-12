@@ -1,0 +1,72 @@
+{
+  "schema": "z068.recovery_progress.v7",
+  "as_of_utc": "2026-11-12T13:49:03.726282+00:00",
+  "source_id": "ziwei_068",
+  "prior_confirmed_public_commit": "aefe9841da9ad59295c90e75edf5541fd953c9c9",
+  "formal_status": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "not_started",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_work_status": {
+    "S3_manual_authoring": "276 current units read and decisions saved",
+    "bounded_independent_candidate_reviews": "440 regular private candidates reviewed, with explicit successor corrections retained",
+    "formal_build_or_publication_executed": false,
+    "full_source_accepted": false,
+    "unresolved_short_source_fragments": 4,
+    "fragment_exception_authorization_received": false,
+    "private_evidence_registry_records_verified": 465
+  },
+  "recovery_dependencies": {
+    "private_source_rules_git_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "public_preexisting_ledger_commit": "80fb9fb976aa94d4733d4bb325c6c9783528c433",
+    "source_and_rule_bodies_included": false,
+    "self_contained_backup": false
+  },
+  "unresolved_controls": [
+    "Four source fragments remain HOLD pending a specifically scoped user decision; no padding, invented source or automatic exception.",
+    "Final current-run admission and formal S3 publication have not been executed."
+  ],
+  "public_s3_candidate_upload": {
+    "state": "stopped_after_tool_denial",
+    "commits_created": 0,
+    "retry_attempted": false,
+    "replacement_payload_submitted": false,
+    "candidate_content_in_this_checkpoint": false
+  },
+  "quark_recovery_evidence_backup": {
+    "reported_confirmed_items": 169,
+    "total_items": 170,
+    "one_failed_item_bytes": 2,
+    "complete_batch_confirmed": false,
+    "active_uploads_reported": 0,
+    "download_hash_verification_performed": false
+  },
+  "boundary": "Only current production/recovery state metadata. No candidate decisions, source text, source-derived segmentation records, original input, rule bodies or approval payload from the denied submission are included. No completed-stage or public-payload acceptance is inferred from private review.",
+  "mechanical_controls": {
+    "deletion_provenance_repair": "new version preserves deleted-character attribution without restoring deleted text",
+    "nonprimary_reference_guard": "new version rejects arbitrary context and requires exact preceding-primary sentence suffix overlap",
+    "fictional_regression_tests": {
+      "trace": 20,
+      "policy": 22,
+      "fresh_import_identity": 7,
+      "actual_exit_codes": [
+        0,
+        0,
+        0
+      ],
+      "independent_final_saved_result_check": "PASS; saved results and all ten helper identities verified; not formal production admission"
+    },
+    "source_production_called_by_tests": false
+  },
+  "new_helper_only_backup": {
+    "scope": "Independent newly written mechanical helpers and fictional-test evidence, not the denied author payload",
+    "state": "stable helper-only selection independently bounded and handed to authorized backup worker; no new upload confirmation yet",
+    "self_contained_source_backup": false
+  }
+}
