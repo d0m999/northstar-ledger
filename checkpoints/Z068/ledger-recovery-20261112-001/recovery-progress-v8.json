@@ -1,0 +1,62 @@
+{
+  "schema": "z068.recovery_progress.v8",
+  "as_of_utc": "2026-11-12T14:52:00Z",
+  "source_id": "ziwei_068",
+  "prior_confirmed_public_commit": "21bb64f73529ac8ed998e2efb94360de927518ad",
+  "formal_status": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "not_started",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_work_status": {
+    "units_reviewed": 276,
+    "candidates": 444,
+    "ordinary_evidence_records": 469,
+    "exact_short_fragment_evidence_records": 4,
+    "fragment_exception_authorization": "Four specifically bounded fragments authorized; two independently reviewed retrieval-eligible, two archive-only. No general rule change.",
+    "unified_metadata_review": "Three deletion-provenance identifiers require narrow successor correction; source spans and text remain unchanged.",
+    "formal_build_or_publication_executed": false,
+    "full_source_accepted": false
+  },
+  "mechanical_controls": {
+    "new_helper_count": 14,
+    "fresh_process_tests": [
+      3,
+      18,
+      28
+    ],
+    "actual_exit_codes": [
+      0,
+      0,
+      0
+    ],
+    "independent_saved_result_check": "PASS; not production admission"
+  },
+  "backup_status": {
+    "quark_s0_s2_confirmed": 169,
+    "quark_s0_s2_total": 170,
+    "prior_failed_item_not_retried": true,
+    "independent_helper_batch_confirmed": 29,
+    "independent_helper_batch_bytes": 169998,
+    "quark_observed_completed_total": 202,
+    "quark_observation_time": "2026-11-12T14:45:00Z",
+    "no_active_transfers_reported": true,
+    "download_verification": false
+  },
+  "public_candidate_disclosure": {
+    "state": "STOP_after_prior_tool_denial",
+    "retried": false,
+    "replacement_payload_submitted": false
+  },
+  "recovery_dependencies": {
+    "private_git_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+    "source_and_rule_bodies_included": false,
+    "self_contained_backup": false
+  },
+  "boundary": "Status metadata only. No source text, rule body, segmentation decisions, author candidate payload, or private evidence/approval contents. Historical checkpoints remain unchanged. Current final admission and formal publication are still pending."
+}
