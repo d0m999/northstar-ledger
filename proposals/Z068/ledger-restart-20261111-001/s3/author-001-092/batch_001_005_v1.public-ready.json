@@ -1,0 +1,890 @@
+{
+  "schema": "ledger.s3.public-manual-batch.v1",
+  "source_id": "ziwei_068",
+  "author_role": "s3_author_001_092",
+  "attempt": 1,
+  "primary_ordinals": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "context_only_ordinals": [
+    6
+  ],
+  "input_bindings": [
+    {
+      "artifact_key": "02_working_inputs/ziwei_068.jsonl",
+      "bytes": 539292,
+      "sha256": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee"
+    },
+    {
+      "artifact_key": "03_cleaned/ziwei/ziwei_068.jsonl",
+      "bytes": 539269,
+      "sha256": "7f79c29aded1859cfbb350b4cddb54179761bba65795f80be3357922745c4b1e"
+    },
+    {
+      "artifact_key": "input_units/ziwei_068.jsonl",
+      "bytes": 198296,
+      "sha256": "2b039ac7054aa6e1b19c5f52e947925fdca508087ed24675c02a7a28121b24bc"
+    },
+    {
+      "artifact_key": "continuity/ziwei_068.json",
+      "bytes": 243067,
+      "sha256": "0735de156664a3d557e1ecb7f8dd6f7de422c7e53e325d9ea9cfbed2159b88ac"
+    },
+    {
+      "artifact_key": "reports/ziwei_068/S1_text_treatment.json",
+      "bytes": 2564502,
+      "sha256": "bd902afb901e4ae14b1079cbf4e6a55e554142f7b1d37b61b583ac21f627330c"
+    },
+    {
+      "artifact_key": "reports/ziwei_068/S1_table.json",
+      "bytes": 139944,
+      "sha256": "dd0872253430a6adc365f309f684c014661ee8afd4f2acbb2f9e32f9519ec9bd"
+    },
+    {
+      "artifact_key": "reports/ziwei_068/S1_punctuation.json",
+      "bytes": 165298,
+      "sha256": "8352a5d8ed87ef670d97a0a68f981a5fd0fdc1aa5ee044c12cfeb0ae65290341"
+    },
+    {
+      "artifact_key": "reports/ziwei_068/S1_semantic.json",
+      "bytes": 845404,
+      "sha256": "d9a3b1d38f03a2dc9fac03b5573f4863cf67d327200270f1c3099b3d6a68915b"
+    },
+    {
+      "artifact_key": "reports/ziwei_068/S2_clean_review.json",
+      "bytes": 3073352,
+      "sha256": "df6126181e431c20b7a6c38c1569d7cdcf87fccb83e6f03ae401c138b0f2ed79"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "A001",
+      "primary_ordinals": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0001",
+          "clean_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+          "clean_span": [
+            0,
+            403
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0001",
+              "original_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+              "span": [
+                0,
+                403
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": ""
+        },
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0002",
+          "clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+          "clean_span": [
+            0,
+            154
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0002",
+              "original_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+              "span": [
+                0,
+                154
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": "\n"
+        }
+      ],
+      "start_reason": "起于现存描述与评议的完整入口。",
+      "end_reason": "收于后续纠偏总结，保留同一性格争议的两面，不把被评议语句单独定论。",
+      "semantic_unit_type": "claim_and_qualified_commentary",
+      "short_exception_reason": null,
+      "continuity_decision_ids": [
+        "A_pair_001_002"
+      ],
+      "carried_issue_ids": [],
+      "new_issue_ids": [],
+      "source_limitations": [],
+      "result_text_sha256": "15f326529a92b4e14c008f6772e08a42666fe86e72146621dd58f124b86b3fb0",
+      "result_codepoints": 558,
+      "estimated_tokens": 552
+    },
+    {
+      "candidate_id": "A002",
+      "primary_ordinals": [
+        2
+      ],
+      "parts": [
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0002",
+          "clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+          "clean_span": [
+            154,
+            780
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0002",
+              "original_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+              "span": [
+                154,
+                780
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": ""
+        }
+      ],
+      "start_reason": "由管理才能的组合条件另起说明。",
+      "end_reason": "停在男女适用条件对照已闭合处，下一引文另成因果说明。",
+      "semantic_unit_type": "conditional_explanations",
+      "short_exception_reason": null,
+      "continuity_decision_ids": [],
+      "carried_issue_ids": [
+        "u0002_q1"
+      ],
+      "new_issue_ids": [],
+      "source_limitations": [
+        {
+          "limitation_id": "A002_u0002_q1",
+          "unit_id": "ziwei_068_u0002",
+          "original_spans": [
+            [
+              354,
+              358
+            ]
+          ],
+          "clean_spans": [
+            [
+              354,
+              358
+            ]
+          ],
+          "candidate_spans": [
+            [
+              200,
+              204
+            ]
+          ],
+          "reason": "此处命例对象与本单元前段叙述未完全对齐，不能确定是误字还是另举例。",
+          "use_restriction": "不得依据此短语独立重建命例星位；须核原版。",
+          "issue_ids": [
+            "u0002_q1"
+          ]
+        }
+      ],
+      "result_text_sha256": "bfb15b3d2e825c56b3feb0042df89d992f32b0b1fe6280f0fa708b498da2a6d6",
+      "result_codepoints": 626,
+      "estimated_tokens": 617
+    },
+    {
+      "candidate_id": "A003",
+      "primary_ordinals": [
+        2,
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0002",
+          "clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+          "clean_span": [
+            780,
+            872
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0002",
+              "original_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+              "span": [
+                780,
+                872
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": ""
+        },
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0003",
+          "clean_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+          "clean_span": [
+            0,
+            317
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0003",
+              "original_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+              "span": [
+                0,
+                317
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": "\n"
+        },
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0004",
+          "clean_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+          "clean_span": [
+            0,
+            313
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0004",
+              "original_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+              "span": [
+                0,
+                313
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": ""
+        }
+      ],
+      "start_reason": "由引文及其性格归属解释进入。",
+      "end_reason": "保留随后亲属、身体与居处的宫位说明，收于居处条件句完成处。",
+      "semantic_unit_type": "quoted_claim_and_palace_applications",
+      "short_exception_reason": null,
+      "continuity_decision_ids": [
+        "A_pair_002_003",
+        "A_pair_003_004"
+      ],
+      "carried_issue_ids": [
+        "u0003_q1"
+      ],
+      "new_issue_ids": [],
+      "source_limitations": [
+        {
+          "limitation_id": "A003_u0003_q1",
+          "unit_id": "ziwei_068_u0003",
+          "original_spans": [
+            [
+              307,
+              317
+            ]
+          ],
+          "clean_spans": [
+            [
+              307,
+              317
+            ]
+          ],
+          "candidate_spans": [
+            [
+              400,
+              410
+            ]
+          ],
+          "reason": "本单元结束于尚未闭合的谓语，后邻有继续成分，清理阶段保留原边界。",
+          "use_restriction": "不可把末端残句单独作为完整结论使用；须结合相邻原文核读。",
+          "issue_ids": [
+            "u0003_q1"
+          ]
+        }
+      ],
+      "result_text_sha256": "0f7039d394ccc32e77032925d11b6bf0528defd2bf3ea0e23241cae8448086f2",
+      "result_codepoints": 723,
+      "estimated_tokens": 715
+    },
+    {
+      "candidate_id": "A004",
+      "primary_ordinals": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0004",
+          "clean_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+          "clean_span": [
+            313,
+            842
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0004",
+              "original_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+              "span": [
+                313,
+                842
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [],
+          "joiner_before": ""
+        },
+        {
+          "role": "main",
+          "unit_id": "ziwei_068_u0005",
+          "clean_text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0",
+          "clean_span": [
+            0,
+            179
+          ],
+          "original_spans": [
+            {
+              "unit_id": "ziwei_068_u0005",
+              "original_text_sha256": "a3843d502e58eb0d86db65622a3c0e1da26e05bd2c730930c982b904002f15b6",
+              "span": [
+                0,
+                38
+              ],
+              "change_ids": []
+            },
+            {
+              "unit_id": "ziwei_068_u0005",
+              "original_text_sha256": "a3843d502e58eb0d86db65622a3c0e1da26e05bd2c730930c982b904002f15b6",
+              "span": [
+                38,
+                39
+              ],
+              "change_ids": [
+                "u0005_p1"
+              ]
+            },
+            {
+              "unit_id": "ziwei_068_u0005",
+              "original_text_sha256": "a3843d502e58eb0d86db65622a3c0e1da26e05bd2c730930c982b904002f15b6",
+              "span": [
+                39,
+                179
+              ],
+              "change_ids": []
+            }
+          ],
+          "change_ids": [
+            "u0005_p1"
+          ],
+          "joiner_before": "\n"
+        }
+      ],
+      "start_reason": "新赋句开启特定宫位的干年分支。",
+      "end_reason": "把后接夹制举例与例外解释保留到总结结束，不丢失相反条件。",
+      "semantic_unit_type": "conditional_rule_and_counterexamples",
+      "short_exception_reason": null,
+      "continuity_decision_ids": [
+        "A_pair_004_005"
+      ],
+      "carried_issue_ids": [
+        "u0004_q1",
+        "u0004_q2"
+      ],
+      "new_issue_ids": [],
+      "source_limitations": [
+        {
+          "limitation_id": "A004_u0004_q1",
+          "unit_id": "ziwei_068_u0004",
+          "original_spans": [
+            [
+              452,
+              454
+            ]
+          ],
+          "clean_spans": [
+            [
+              452,
+              454
+            ]
+          ],
+          "candidate_spans": [
+            [
+              139,
+              141
+            ]
+          ],
+          "reason": "该二字搭配疑似形近识别错误，但未有原版图像支持改字。",
+          "use_restriction": "不得将该字形当作已校定术语；须核原版。",
+          "issue_ids": [
+            "u0004_q1"
+          ]
+        },
+        {
+          "limitation_id": "A004_u0004_q2",
+          "unit_id": "ziwei_068_u0004",
+          "original_spans": [
+            [
+              497,
+              499
+            ]
+          ],
+          "clean_spans": [
+            [
+              497,
+              499
+            ]
+          ],
+          "candidate_spans": [
+            [
+              184,
+              186
+            ]
+          ],
+          "reason": "末字在当前搭配中可疑，无图不能排除作者原写。",
+          "use_restriction": "引用须注明字形待核，不作规范词形依据。",
+          "issue_ids": [
+            "u0004_q2"
+          ]
+        }
+      ],
+      "result_text_sha256": "8f8493f8486c74af3d02b49261e888d8a82760d20783fdd7c6ca43c475f84230",
+      "result_codepoints": 709,
+      "estimated_tokens": 699
+    }
+  ],
+  "coverage_decisions": [
+    {
+      "unit_id": "ziwei_068_u0001",
+      "ordinal": 1,
+      "original_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+      "original_span": [
+        0,
+        403
+      ],
+      "action": "merged",
+      "candidate_ids": [
+        "A001"
+      ],
+      "change_ids": [],
+      "reason": "完整描述与下项直接纠偏合为一组，正文一次保留。"
+    },
+    {
+      "unit_id": "ziwei_068_u0002",
+      "ordinal": 2,
+      "original_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "original_span": [
+        0,
+        872
+      ],
+      "action": "split",
+      "candidate_ids": [
+        "A001",
+        "A002",
+        "A003"
+      ],
+      "change_ids": [],
+      "reason": "在纠偏收束、条件组收束与新引文入口分为三段；不删例外。"
+    },
+    {
+      "unit_id": "ziwei_068_u0003",
+      "ordinal": 3,
+      "original_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "original_span": [
+        0,
+        317
+      ],
+      "action": "merged",
+      "candidate_ids": [
+        "A003"
+      ],
+      "change_ids": [],
+      "reason": "全段接前因果并与后项闭合断词，原疑仍传递。"
+    },
+    {
+      "unit_id": "ziwei_068_u0004",
+      "ordinal": 4,
+      "original_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "original_span": [
+        0,
+        842
+      ],
+      "action": "split",
+      "candidate_ids": [
+        "A003",
+        "A004"
+      ],
+      "change_ids": [],
+      "reason": "宫位说明收束后切入新赋句，前后分别跟随各自解释。"
+    },
+    {
+      "unit_id": "ziwei_068_u0005",
+      "ordinal": 5,
+      "original_text_sha256": "a3843d502e58eb0d86db65622a3c0e1da26e05bd2c730930c982b904002f15b6",
+      "original_span": [
+        0,
+        179
+      ],
+      "action": "merged",
+      "candidate_ids": [
+        "A004"
+      ],
+      "change_ids": [
+        "u0005_p1"
+      ],
+      "reason": "全段为前项条件的显式例解，合并但不改清理结果。"
+    }
+  ],
+  "continuity_decisions": [
+    {
+      "decision_id": "A_pair_001_002",
+      "left_unit_id": "ziwei_068_u0001",
+      "right_unit_id": "ziwei_068_u0002",
+      "left_clean_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+      "right_clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "prior_state": "unknown",
+      "manual_state": "confirmed",
+      "evidence_refs": [
+        {
+          "unit_id": "ziwei_068_u0001",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            403
+          ],
+          "text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963"
+        },
+        {
+          "unit_id": "ziwei_068_u0002",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            872
+          ],
+          "text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e"
+        }
+      ],
+      "reason": "后项直接校释前项性格判断，并继续同一比较中的保留意见；不是仅据主题近似。",
+      "merge_used": true
+    },
+    {
+      "decision_id": "A_pair_002_003",
+      "left_unit_id": "ziwei_068_u0002",
+      "right_unit_id": "ziwei_068_u0003",
+      "left_clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "right_clean_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "prior_state": "unknown",
+      "manual_state": "confirmed",
+      "evidence_refs": [
+        {
+          "unit_id": "ziwei_068_u0002",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            872
+          ],
+          "text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e"
+        },
+        {
+          "unit_id": "ziwei_068_u0003",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            317
+          ],
+          "text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531"
+        }
+      ],
+      "reason": "后项以承接连词继续前项结尾对性格归属的因果解释。",
+      "merge_used": true
+    },
+    {
+      "decision_id": "A_pair_003_004",
+      "left_unit_id": "ziwei_068_u0003",
+      "right_unit_id": "ziwei_068_u0004",
+      "left_clean_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "right_clean_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "prior_state": "unknown",
+      "manual_state": "confirmed",
+      "evidence_refs": [
+        {
+          "unit_id": "ziwei_068_u0003",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            317
+          ],
+          "text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531"
+        },
+        {
+          "unit_id": "ziwei_068_u0004",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            842
+          ],
+          "text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa"
+        }
+      ],
+      "reason": "两端组合闭合中断的述语，后项接着解释同一亲属宫条件。",
+      "merge_used": true
+    },
+    {
+      "decision_id": "A_pair_004_005",
+      "left_unit_id": "ziwei_068_u0004",
+      "right_unit_id": "ziwei_068_u0005",
+      "left_clean_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "right_clean_text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0",
+      "prior_state": "unknown",
+      "manual_state": "confirmed",
+      "evidence_refs": [
+        {
+          "unit_id": "ziwei_068_u0004",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            842
+          ],
+          "text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa"
+        },
+        {
+          "unit_id": "ziwei_068_u0005",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            179
+          ],
+          "text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0"
+        }
+      ],
+      "reason": "后项以明确的举例语气细化前项已提出的同一干年及夹制条件，而非独立新条目。",
+      "merge_used": true
+    },
+    {
+      "decision_id": "A_pair_005_006",
+      "left_unit_id": "ziwei_068_u0005",
+      "right_unit_id": "ziwei_068_u0006",
+      "left_clean_text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0",
+      "right_clean_text_sha256": "80f3b202aa912f494e387ead76cb26edfeadca899240893a3cca6cacc0405407",
+      "prior_state": "unknown",
+      "manual_state": "unknown",
+      "evidence_refs": [
+        {
+          "unit_id": "ziwei_068_u0005",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            179
+          ],
+          "text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0"
+        },
+        {
+          "unit_id": "ziwei_068_u0006",
+          "coordinate_space": "clean",
+          "span": [
+            0,
+            890
+          ],
+          "text_sha256": "80f3b202aa912f494e387ead76cb26edfeadca899240893a3cca6cacc0405407"
+        }
+      ],
+      "reason": "前项已结束解释，后项另启财宅赋句；无须把两项拼接成同一论断，保留未证连续。",
+      "merge_used": false
+    }
+  ],
+  "issue_transfers": [
+    {
+      "issue_id": "u0002_q1",
+      "origin_stage": "S1",
+      "origin_record_sha256": "a3a996b03a5f0f0bcbf0a3db02065e30d707ad2716832db1ada6340005f1d68b",
+      "unit_id": "ziwei_068_u0002",
+      "original_span": [
+        354,
+        358
+      ],
+      "clean_spans": [
+        [
+          354,
+          358
+        ]
+      ],
+      "candidate_mappings": [
+        {
+          "candidate_id": "A002",
+          "spans": [
+            [
+              200,
+              204
+            ]
+          ],
+          "role": "main",
+          "reason": "原疑点与此主正文坐标相交，保持原限制，不以重切消除疑点。"
+        }
+      ],
+      "reason": "此处命例对象与本单元前段叙述未完全对齐，不能确定是误字还是另举例。",
+      "use_restriction": "不得依据此短语独立重建命例星位；须核原版。"
+    },
+    {
+      "issue_id": "u0003_q1",
+      "origin_stage": "S1",
+      "origin_record_sha256": "e3ba185b58a79758395caacc690f8af31b40edf146dc39c48145977a532b9019",
+      "unit_id": "ziwei_068_u0003",
+      "original_span": [
+        307,
+        317
+      ],
+      "clean_spans": [
+        [
+          307,
+          317
+        ]
+      ],
+      "candidate_mappings": [
+        {
+          "candidate_id": "A003",
+          "spans": [
+            [
+              400,
+              410
+            ]
+          ],
+          "role": "main",
+          "reason": "原疑点与此主正文坐标相交，保持原限制，不以重切消除疑点。"
+        }
+      ],
+      "reason": "本单元结束于尚未闭合的谓语，后邻有继续成分，清理阶段保留原边界。",
+      "use_restriction": "不可把末端残句单独作为完整结论使用；须结合相邻原文核读。"
+    },
+    {
+      "issue_id": "u0004_q1",
+      "origin_stage": "S1",
+      "origin_record_sha256": "ceb03ce1c450960dd11356a583a87d339fd0a98a8d9bb36fc48e339f17901268",
+      "unit_id": "ziwei_068_u0004",
+      "original_span": [
+        452,
+        454
+      ],
+      "clean_spans": [
+        [
+          452,
+          454
+        ]
+      ],
+      "candidate_mappings": [
+        {
+          "candidate_id": "A004",
+          "spans": [
+            [
+              139,
+              141
+            ]
+          ],
+          "role": "main",
+          "reason": "原疑点与此主正文坐标相交，保持原限制，不以重切消除疑点。"
+        }
+      ],
+      "reason": "该二字搭配疑似形近识别错误，但未有原版图像支持改字。",
+      "use_restriction": "不得将该字形当作已校定术语；须核原版。"
+    },
+    {
+      "issue_id": "u0004_q2",
+      "origin_stage": "S1",
+      "origin_record_sha256": "ed1b7ac85d0e5393e5d20fd6047da345bdc52567b67367620323a66c15afccb1",
+      "unit_id": "ziwei_068_u0004",
+      "original_span": [
+        497,
+        499
+      ],
+      "clean_spans": [
+        [
+          497,
+          499
+        ]
+      ],
+      "candidate_mappings": [
+        {
+          "candidate_id": "A004",
+          "spans": [
+            [
+              184,
+              186
+            ]
+          ],
+          "role": "main",
+          "reason": "原疑点与此主正文坐标相交，保持原限制，不以重切消除疑点。"
+        }
+      ],
+      "reason": "末字在当前搭配中可疑，无图不能排除作者原写。",
+      "use_restriction": "引用须注明字形待核，不作规范词形依据。"
+    }
+  ],
+  "reading_declarations": [
+    {
+      "ordinal": 1,
+      "unit_id": "ziwei_068_u0001",
+      "clean_read_span": [
+        0,
+        403
+      ],
+      "clean_text_sha256": "e72bbf63f30f803a225db45aea2878481f39ddacd47a4b7a14fe4669ac778963",
+      "reader_role": "s3_author_001_092",
+      "reading_origin": "current_full_manual_read"
+    },
+    {
+      "ordinal": 2,
+      "unit_id": "ziwei_068_u0002",
+      "clean_read_span": [
+        0,
+        872
+      ],
+      "clean_text_sha256": "09afef1885227f8166a53b962f68c1eac6beed9700e20626d98eb7b7f652152e",
+      "reader_role": "s3_author_001_092",
+      "reading_origin": "current_full_manual_read"
+    },
+    {
+      "ordinal": 3,
+      "unit_id": "ziwei_068_u0003",
+      "clean_read_span": [
+        0,
+        317
+      ],
+      "clean_text_sha256": "2f9b9351560f7549b29882b2572a06e36ff7d1fa1428a5f362a7ed9c834af531",
+      "reader_role": "s3_author_001_092",
+      "reading_origin": "current_full_manual_read"
+    },
+    {
+      "ordinal": 4,
+      "unit_id": "ziwei_068_u0004",
+      "clean_read_span": [
+        0,
+        842
+      ],
+      "clean_text_sha256": "c815afe116e791901df7e26557784c843941784af65bd4e3e710ad13fb7f9aaa",
+      "reader_role": "s3_author_001_092",
+      "reading_origin": "current_full_manual_read"
+    },
+    {
+      "ordinal": 5,
+      "unit_id": "ziwei_068_u0005",
+      "clean_read_span": [
+        0,
+        179
+      ],
+      "clean_text_sha256": "571889499096e00c60d249c73b7dc9ac844f56dc0411e6ad564a1e1fa245a2d0",
+      "reader_role": "s3_author_001_092",
+      "reading_origin": "current_full_manual_read"
+    }
+  ]
+}
