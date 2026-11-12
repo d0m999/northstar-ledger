@@ -1,0 +1,52 @@
+{
+  "schema": "z068.recovery_progress.v9",
+  "as_of_utc": "2026-11-12T15:20:00Z",
+  "source_id": "ziwei_068",
+  "prior_confirmed_public_commit": "b96acd21c4b606d3c29abf5bf868bc01d7ba0abe",
+  "formal_status": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "not_started",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_progress": {
+    "candidates": 444,
+    "covered_units": 276,
+    "continuity_edges": 275,
+    "source_issue_transfers": 536,
+    "ordinary_evidence_records": 469,
+    "exact_short_evidence_records": 4,
+    "unified_metadata_review": "PASS after three provenance corrections",
+    "run_only_four_fragment_authorization": "Two retrieval-eligible after independent review; two archive-only; original text and fixed rules unchanged",
+    "subsequent_interface_corrections": "55 continuity records gained verified full-unit hashes; three issue records gained canonical identifiers and explicit global/non-global restriction distinction. All original restrictions retained. Independently reviewed."
+  },
+  "preparation": {
+    "first_actual_A": "CURRENT_REQUIRED_CLOSURE_PASS",
+    "exit_code": 0,
+    "started_utc": "2026-11-12T15:05:32Z",
+    "finished_utc": "2026-11-12T15:17:27Z",
+    "actual_required_members": 1780,
+    "independent_saved_result_check": "PASS, historical configuration scope only",
+    "corrected_plan": "1788-input successor awaiting final independent admission and a new actual A; old A cannot authorize corrected production",
+    "formal_build_or_publish": false,
+    "source_accepted": false
+  },
+  "quark": {
+    "new_helper_delta_confirmed_items": 28,
+    "new_helper_delta_bytes": 124888,
+    "global_completed_after_delta": 230,
+    "prior_failed_item_not_retried": true,
+    "source_complete_backup": false,
+    "download_verification": false
+  },
+  "public_candidate_disclosure": {
+    "state": "STOP_after_prior_denial",
+    "retried": false,
+    "replacement_submission": false
+  },
+  "boundary": "Status metadata only. No source text, fixed rule bodies, candidate decisions, segmentation payload, private approval contents or prior denied payload. This is not a self-contained recovery backup or semantic acceptance."
+}
