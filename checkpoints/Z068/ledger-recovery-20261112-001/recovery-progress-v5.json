@@ -1,0 +1,66 @@
+{
+  "schema": "z068-recovery-progress-v5",
+  "source_id": "ziwei_068",
+  "previous_public_checkpoint": "3e516093d651dbc162d45de39eed9f264d14be60",
+  "as_of_utc": "2026-11-12T12:50:22.305589+00:00",
+  "formal_status": {
+    "S0": "passed/resume",
+    "S1": "passed/reuse",
+    "S2": "passed/reuse_with_current_five",
+    "S3": "not_started/private_manual_authoring_admitted",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "stage3_reader_preparation": {
+    "actual_result": "CURRENT_REQUIRED_CLOSURE_PASS",
+    "required_files": 392,
+    "actual_files": 392,
+    "reference_occurrences": 4061,
+    "errors": 0,
+    "actual_config_sha256": "46a3a718650a900aea6ddcb6a2846222825c45ae7a30b0bea23b2d7b194fdef0",
+    "independent_actual_postcheck_sha256": "8e81b576f944e8988e5b0f9243ff4ecf750466dc406f3808d313a1be086c10d1",
+    "baseline_access_allowed": false,
+    "permission": "safe current source reading and private manual boundary proposals only, not assembly or publication"
+  },
+  "mechanical_synthetic_tests": {
+    "v1": 37,
+    "v2": 17,
+    "isolated_long_strategy_v3": 2,
+    "all_actual_exit_zero": true,
+    "limitations": "V1 alone lacked production guards; newer code enforces hard minimum and exact decision/coverage restrictions. Tests are not semantic source acceptance."
+  },
+  "manual_work": {
+    "assigned_source_order_ranges": [
+      [
+        1,
+        92
+      ],
+      [
+        93,
+        184
+      ],
+      [
+        185,
+        276
+      ]
+    ],
+    "one_source_only": true,
+    "ranges_are_not_semantic_boundaries": true,
+    "current_proposals_saved": 0,
+    "historical_first_batch_scope": [
+      1,
+      5
+    ],
+    "historical_first_batch_not_automatically_accepted": true
+  },
+  "source_and_rules_bodies_included": false,
+  "whole_source_accepted": false,
+  "recovery_limits": [
+    "Metadata checkpoint, not self-contained source backup.",
+    "Fixed private source/rules remain external dependencies, and local new helpers/private complete execution context are not published here.",
+    "Missing old private proof bytes remain missing; bounded five current reviews were separately completed and approved in the preceding checkpoint.",
+    "Current S3 complete manual results and S4-S7 do not yet exist."
+  ]
+}
