@@ -1,0 +1,268 @@
+{
+  "schema": "z068-recovery-progress-v4",
+  "source_id": "ziwei_068",
+  "review_scope": [
+    185,
+    186,
+    187,
+    188,
+    189
+  ],
+  "actual_read_started_at": "2026-11-12T12:18:43.997864+00:00",
+  "actual_read_completed_at": "2026-11-12T12:20:03.348391+00:00",
+  "actual_non_author_read_complete": true,
+  "source_and_rules_bodies_included": false,
+  "private_bridge_sha256": "b713f95c08c1ed0cea26a8686a9d00d3e2d130d2221da23fac535b5fba4156a3",
+  "independent_approval": "PASS_CURRENT_FIVE_ACTUAL_REVIEW",
+  "S2_registered": true,
+  "missing_historical_proof_bytes_recovered": false,
+  "other271_new_read_claim": false,
+  "rows": [
+    {
+      "ordinal": 185,
+      "unit_id": "ziwei_068_u0185",
+      "author_record_sha256": "af0baaf0821a18d40435dde4fda69c1348e0a6ba3dc41aa793d6eb263e205dec",
+      "author_proposal_id": "z068_s1_u0185_v3",
+      "author_batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "original_text_sha256": "5e6c8c46d86f1db10b37979336de6f878e27041f95fe0ee14e893b8dd4bf4fb8",
+      "clean_text_sha256": "5e6c8c46d86f1db10b37979336de6f878e27041f95fe0ee14e893b8dd4bf4fb8",
+      "original_read_span": [
+        0,
+        896
+      ],
+      "clean_read_span": [
+        0,
+        896
+      ],
+      "reviewed_patch_ids": [],
+      "reviewed_uncertainty_ids": [
+        "z068_s1_u0185_i01",
+        "z068_s1_u0185_i02"
+      ],
+      "three_substep_ids": [
+        "z068_s1_u0185_table",
+        "z068_s1_u0185_punctuation",
+        "z068_s1_u0185_semantic"
+      ],
+      "result": "passed",
+      "blocking_issues": [],
+      "new_findings": [],
+      "disposition": "逐行原清对照相同，标题和讲解顺序保留；两疑词没有唯一安全修订依据，保留各自限制；首尾续接不作独立完整命题，不强补括号。",
+      "retained_uncertainty_restrictions": [
+        {
+          "issue_id": "z068_s1_u0185_i01",
+          "use_restriction": "不以该词形确定宫位旺陷。"
+        },
+        {
+          "issue_id": "z068_s1_u0185_i02",
+          "use_restriction": "该局部因由仅保留为待核内容。"
+        }
+      ]
+    },
+    {
+      "ordinal": 186,
+      "unit_id": "ziwei_068_u0186",
+      "author_record_sha256": "cf2591f44d4939eedd947655996453e72918ed12f2217d596dcd089ab9e980b4",
+      "author_proposal_id": "z068_s1_u0186_v3",
+      "author_batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "original_text_sha256": "d6392fb108107c90c2514ba7bef509712804ee76eefb4cbda61bd0511258fd1e",
+      "clean_text_sha256": "ce0db9cf3d908841e59debcf52e3fb05c6bec9f392fea6b6a378a65da4bec388",
+      "original_read_span": [
+        0,
+        816
+      ],
+      "clean_read_span": [
+        0,
+        816
+      ],
+      "reviewed_patch_ids": [
+        "z068_s1_u0186_p01",
+        "z068_s1_u0186_p02"
+      ],
+      "reviewed_uncertainty_ids": [
+        "z068_s1_u0186_i01",
+        "z068_s1_u0186_i02",
+        "z068_s1_u0186_i03"
+      ],
+      "three_substep_ids": [
+        "z068_s1_u0186_table",
+        "z068_s1_u0186_punctuation",
+        "z068_s1_u0186_semantic"
+      ],
+      "result": "passed",
+      "blocking_issues": [],
+      "new_findings": [],
+      "disposition": "仅两处单字变化：句末限制语的语法支持第一处，同段同一宫位的随后复述支持第二处；其他主辅、旺陷及化忌条件未改。三疑点仍不可按猜测统一，保持全部限制。",
+      "retained_uncertainty_restrictions": [
+        {
+          "issue_id": "z068_s1_u0186_i01",
+          "use_restriction": "不将该词形另立专门术语。"
+        },
+        {
+          "issue_id": "z068_s1_u0186_i02",
+          "use_restriction": "该局部字词待原页核实。"
+        },
+        {
+          "issue_id": "z068_s1_u0186_i03",
+          "use_restriction": "不依该连接词推导新的条件。"
+        }
+      ]
+    },
+    {
+      "ordinal": 187,
+      "unit_id": "ziwei_068_u0187",
+      "author_record_sha256": "e9b4d2809eb3c61696478db027247166d2eecd07f44cc649b92a0d624699a53d",
+      "author_proposal_id": "z068_s1_u0187_v3",
+      "author_batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "original_text_sha256": "a0868eccd18251603c4fec5eda2c82ef8612fbae9cf92ca6c82c7d83751ab893",
+      "clean_text_sha256": "a0868eccd18251603c4fec5eda2c82ef8612fbae9cf92ca6c82c7d83751ab893",
+      "original_read_span": [
+        0,
+        846
+      ],
+      "clean_read_span": [
+        0,
+        846
+      ],
+      "reviewed_patch_ids": [],
+      "reviewed_uncertainty_ids": [
+        "z068_s1_u0187_i01"
+      ],
+      "three_substep_ids": [
+        "z068_s1_u0187_table",
+        "z068_s1_u0187_punctuation",
+        "z068_s1_u0187_semantic"
+      ],
+      "result": "passed",
+      "blocking_issues": [],
+      "new_findings": [],
+      "disposition": "原清全文相同。疾病论述的不同前提、同宫和会照力度及讲者异议均保留；病症词疑问不规范成确定诊断，不能把术数说法当现实医疗依据。",
+      "retained_uncertainty_restrictions": [
+        {
+          "issue_id": "z068_s1_u0187_i01",
+          "use_restriction": "该病症措辞不可作为确定病名使用。"
+        }
+      ]
+    },
+    {
+      "ordinal": 188,
+      "unit_id": "ziwei_068_u0188",
+      "author_record_sha256": "a6efbe8880853dc7b502f19e634f0c54ee8d87f8a0ce38293e705472542a2de8",
+      "author_proposal_id": "z068_s1_u0188_v3",
+      "author_batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "original_text_sha256": "dd90470ce44581d12ecf876bcbc37d3660c09ae302e665f713f88f4071998919",
+      "clean_text_sha256": "dd90470ce44581d12ecf876bcbc37d3660c09ae302e665f713f88f4071998919",
+      "original_read_span": [
+        0,
+        833
+      ],
+      "clean_read_span": [
+        0,
+        833
+      ],
+      "reviewed_patch_ids": [],
+      "reviewed_uncertainty_ids": [
+        "z068_s1_u0188_i01",
+        "z068_s1_u0188_i02"
+      ],
+      "three_substep_ids": [
+        "z068_s1_u0188_table",
+        "z068_s1_u0188_punctuation",
+        "z068_s1_u0188_semantic"
+      ],
+      "result": "passed",
+      "blocking_issues": [],
+      "new_findings": [],
+      "disposition": "原清全文相同，长段落仍保持引述与解释次序、努力成效及主辅旺弱限制；两疑点不作理论性补字，不据其推断确定职位薪酬或宫位。",
+      "retained_uncertainty_restrictions": [
+        {
+          "issue_id": "z068_s1_u0188_i01",
+          "use_restriction": "该局部不可据以断定职位或薪酬含义。"
+        },
+        {
+          "issue_id": "z068_s1_u0188_i02",
+          "use_restriction": "此处宫位待确认，不凭字形自动归一。"
+        }
+      ]
+    },
+    {
+      "ordinal": 189,
+      "unit_id": "ziwei_068_u0189",
+      "author_record_sha256": "b1f9ca77d4ab768754e3747759e77660db3d093cb3ba0b4be0bdedcb2a899d4e",
+      "author_proposal_id": "z068_s1_u0189_v3",
+      "author_batch_sha256": "c16e21fdacffd9ced48188e40c0c9e9c60ca9322270e35b4b0fc2d05278ca0d7",
+      "original_text_sha256": "7de782e1eb580a7252a5369c88ad12f869611235e252b6e0618dd4031c7bc993",
+      "clean_text_sha256": "7de782e1eb580a7252a5369c88ad12f869611235e252b6e0618dd4031c7bc993",
+      "original_read_span": [
+        0,
+        115
+      ],
+      "clean_read_span": [
+        0,
+        115
+      ],
+      "reviewed_patch_ids": [],
+      "reviewed_uncertainty_ids": [
+        "z068_s1_u0189_i01"
+      ],
+      "three_substep_ids": [
+        "z068_s1_u0189_table",
+        "z068_s1_u0189_punctuation",
+        "z068_s1_u0189_semantic"
+      ],
+      "result": "passed",
+      "blocking_issues": [],
+      "new_findings": [],
+      "disposition": "原清全文相同，主星比较与随后残句均完整留存；末尾未完成动作不得补写或当完整能力职务断言。",
+      "retained_uncertainty_restrictions": [
+        {
+          "issue_id": "z068_s1_u0189_i01",
+          "use_restriction": "不得把该未完论断当成完整能力或职务事实。"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Nine existing uncertainties and their restrictions retained; no new blockers or findings.",
+    "Historical five additional nonblocking findings outside this bounded scope must be preserved by later registration.",
+    "This metadata is not a self-contained source backup or whole-source acceptance."
+  ],
+  "independent_approval_sha256": "b7427fe72603eb949e990f17c8fd807535c6de506086417713e6cb9c8e4919f7",
+  "previous_public_checkpoint": "a662dd43c7f2adc8c3aecb953f2421a4c14e32d3",
+  "current_stage_status": {
+    "S0": "passed/resume",
+    "S1": "passed/reuse",
+    "S2": "passed/reuse_with_current_five",
+    "S3": "not_started",
+    "S4": "not_started",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "actual_S2_publication": {
+    "report_bytes": 3177769,
+    "report_sha256": "55b3989c0b703a387b4e51bd5fd8e2fa0e1260ad4e272d31ab3a9a64a7aa82e8",
+    "status_bytes": 804336,
+    "status_sha256": "9f319bc3e085fd5f38ec4de4a7438e12643544fe7d73daa736341792dd26f134",
+    "independent_postcheck_sha256": "168b7c297f504594515eb2cd2590172f479afdb15f3c8cde83309b52e39bc191",
+    "historical_evidence_recovered": 271,
+    "current_fresh_reviews": 5,
+    "historical_Nov11_counts": {
+      "reused": 15,
+      "newly_read": 261
+    },
+    "five_original_additional_nonblocking_findings_retained": true,
+    "five_S1_artifacts_frozen": true,
+    "non_status_inputs_unchanged": 102,
+    "prior_status_archived_exactly": true,
+    "journal_complete": true,
+    "whole_source_accepted": false
+  },
+  "recovery_limits": [
+    "Private source and rules remain external fixed Git dependencies; no original or rule bodies included.",
+    "Two old private proof files remain unavailable; exact bounded five current reviews are new evidence, not a claim of recovered old bytes.",
+    "Only first historical S3 batch001-005 is established restored, and not yet qualified against current metadata; complete later S3/S5 work is not established restored.",
+    "New local replay helper bodies and complete private execution context are not published in this metadata checkpoint."
+  ],
+  "as_of_utc": "2026-11-12T12:30:42.652773+00:00"
+}
