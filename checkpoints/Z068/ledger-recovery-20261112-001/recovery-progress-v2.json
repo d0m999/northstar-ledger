@@ -1,0 +1,51 @@
+{
+  "schema": "z068-recovery-progress-v2",
+  "source_id": "ziwei_068",
+  "attempt": "ledger-recovery-20261112-001",
+  "previous_public_checkpoint": "73190da2817b7ae914708ea85bb4b39b817a8beb",
+  "source_repository": "d0m999/Astrology_RAG",
+  "source_commit": "94af300bbadaf711397941e94ddc6bc215810884",
+  "source_and_rule_bodies_included": false,
+  "current_stage_status": {
+    "S0": "passed/resume",
+    "S1": "not_started/reuse_planned",
+    "S2": "not_started/reuse_planned",
+    "whole_source_accepted": false
+  },
+  "actual_S0_completed_at": "2026-11-12T11:49:43Z",
+  "actual_independent_postcheck": {
+    "result": "PASS",
+    "sha256": "9d2c05a6f8b61f22db7c0e580756b489d704e387b6151739af295a6b11f6537e",
+    "five_outputs_and_status_pins_match": true,
+    "rows": 276,
+    "original_order_retained": true,
+    "only_five_source_fields_projected": true,
+    "non_status_plan_inputs_unchanged": 264,
+    "prior_status_archived_exactly": true
+  },
+  "working_input": {
+    "relative_path": "02_working_inputs/ziwei_068.jsonl",
+    "bytes": 539292,
+    "sha256": "55f71cdaf14133dd4c9b13c3b2947acaec011d505c2c98e6dc876055d43982ee",
+    "body_not_published": true
+  },
+  "preparation": {
+    "actual_config_sha256": "6b4cb3dbe8410fc08a5b1ae26c2bce0edb532559a4511012274b66029886ee7b",
+    "required_and_actual_files": 266,
+    "reference_occurrences": 1105,
+    "exact_documentary_occurrences": 5540,
+    "errors": 0,
+    "baseline_content_access_allowed": false
+  },
+  "failure_history": {
+    "first_writer": "Stopped before materialization or writes due to exact input pin object shape mismatch; all three original controls unchanged.",
+    "correction": "Only copied the existing git_blob fields into the source/report pin bindings; checks and helper were not weakened. Corrected plan and new actual preparation independently checked before second writer."
+  },
+  "recovery_limits": [
+    "Fixed private source/rules and public S0-S2 decisions remain external dependencies; this is metadata, not a self-contained backup.",
+    "Historical Nov11 S1/S2 acceptance remains history; this new run has not yet reconstructed or registered those stages.",
+    "Complete old S3/S5 payloads and private execution context are not established as recovered.",
+    "The current locally adapted S0 helper body is not included; its recovery-specific history wording differs from the prior published helper. New current context must be reconstructed and independently checked."
+  ],
+  "next_step": "Restore S1 from its exact 276 saved human decisions, then rebuild the bounded S2 review history; do not repeat completed semantic work or claim absent original receipts."
+}
