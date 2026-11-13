@@ -1,0 +1,51 @@
+{
+  "schema": "z068.public.recovery.progress.v12",
+  "recorded_at": "2026-11-13T05:19:37.814719+00:00",
+  "source_id": "ziwei_068",
+  "run_id": "z068_ledger_recovery_20261112_v001",
+  "formal_stages": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "passed",
+    "S4": "passed",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_work": {
+    "current_rows": 444,
+    "archive_only_ordinals": [
+      255,
+      431
+    ],
+    "source_reviews": "current private source reviews and narrowly corrected successors recorded; not formal S6 acceptance",
+    "record_036": "new exact summary/keyword successor independently reviewed; single-record technical validation and saved postcheck passed; narrowly emitted normalized view and protected-input postcheck passed; new exact normalization and current-record closure independently approved",
+    "other_443": "exact previous identities reused and checked",
+    "quality_signals": 2345,
+    "quality_evidence": "All 2345 historical findings are mapped without duplicates or omissions; complete aggregate manifest independently checked against 433 evidence-file identities. Original warnings retained, record 036 successor explicitly bridged, one detector-origin uncertainty preserved. This is not a new whole-file technical or formal S6 result.",
+    "current_join": "Actual updated 444-row selection independently checked; record 036 successor and 443 unchanged entries precisely bound; protected inputs unchanged.",
+    "private_assembly": "Four private candidate artifacts actually saved and independently checked: 444 rows, report, private status and mapping. Formal source files not published; private S5 needs_review.",
+    "whole_file_technical": "Not executed on this new assembled version. First report-validation mode requires one finite updated preparation check and independent admission.",
+    "finite_preparation": "First full-candidate report-validation mode requires an updated current preparation. Large historical configuration declarations are being reduced to avoid excessive resource use; exact historical-owner retirement is independently reviewed while all current target dependencies and original historical files remain protected. Nine fictional stream-transform tests passed and saved results were independently checked. Real configuration generation, updated preparation execution and whole-file validation have not yet run."
+  },
+  "latest_confirmed_public_boundary_checkpoint": {
+    "commit": "5cfe2ae31603257b51e188740b8bf075d6eb9758",
+    "path": "checkpoints/Z068/ledger-recovery-20261112-001/reviewed-s3-s4-boundaries-v1.json",
+    "bytes": 441187,
+    "sha256": "f1dddd644c6c37bd9f06224cf12b449ea8990d271b0a322e6efa3d7f00714f96"
+  },
+  "private_backup_boundary": {
+    "latest_confirmed_completed_files": 378,
+    "scope": "selected recovery metadata and independent helper/test artifacts; not a complete current source backup",
+    "previous_failed_entry": "retained without retry",
+    "new_recovery_increment": "15 independently reviewed private intermediate files plus complete backup index, 16 files / 32049575 bytes, upload confirmed by normal UI filenames, sizes and completion count. Not self-contained; formal publication and S6 acceptance remain outstanding."
+  },
+  "recovery_limitations": [
+    "This public status file is not a self-contained production backup.",
+    "Source text, rule bodies, credentials and private working paths are excluded.",
+    "Formal S5 publication and full S6/S7 acceptance remain outstanding.",
+    "Environment interruption recovery checks precede any resumed operation; completed operations are not replayed."
+  ],
+  "next": "Complete finite current preparation, then actual whole-file technical checks and independent result review before formal publication; preserve prior evidence and archival restrictions."
+}
