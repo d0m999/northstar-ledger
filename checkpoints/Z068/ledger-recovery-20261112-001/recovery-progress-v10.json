@@ -1,0 +1,46 @@
+{
+  "schema": "z068.public.recovery.progress.v10",
+  "recorded_at": "2026-11-13T04:22:02.274786+00:00",
+  "source_id": "ziwei_068",
+  "run_id": "z068_ledger_recovery_20261112_v001",
+  "formal_stages": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "passed",
+    "S4": "passed",
+    "S5": "not_started",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "private_work": {
+    "current_rows": 444,
+    "archive_only_ordinals": [
+      255,
+      431
+    ],
+    "source_reviews": "current private source reviews and narrowly corrected successors recorded; not formal S6 acceptance",
+    "record_036": "new exact summary/keyword successor independently reviewed; single-record technical validation and saved postcheck passed; narrowly emitted normalized view and protected-input postcheck passed; new exact normalization and current-record closure independently approved",
+    "other_443": "exact previous identities reused and checked",
+    "quality_signals": 2345,
+    "quality_evidence": "source-term and English-scope dispositions and requested source-context supplements saved and independently checked; aggregate manifest pending; one detector-origin uncertainty retained, not silently discarded"
+  },
+  "latest_confirmed_public_boundary_checkpoint": {
+    "commit": "5cfe2ae31603257b51e188740b8bf075d6eb9758",
+    "path": "checkpoints/Z068/ledger-recovery-20261112-001/reviewed-s3-s4-boundaries-v1.json",
+    "bytes": 441187,
+    "sha256": "f1dddd644c6c37bd9f06224cf12b449ea8990d271b0a322e6efa3d7f00714f96"
+  },
+  "private_backup_boundary": {
+    "latest_confirmed_completed_files": 362,
+    "scope": "selected recovery metadata and independent helper/test artifacts; not a complete current source backup",
+    "previous_failed_entry": "retained without retry"
+  },
+  "recovery_limitations": [
+    "This public status file is not a self-contained production backup.",
+    "Source text, rule bodies, credentials and private working paths are excluded.",
+    "Formal S5 publication and full S6/S7 acceptance remain outstanding.",
+    "Environment interruption recovery checks precede any resumed operation; completed operations are not replayed."
+  ],
+  "next": "bind approved current record and reused 443 identities, merge evidence, then independently admit remaining private assembly and formal publication stages"
+}
