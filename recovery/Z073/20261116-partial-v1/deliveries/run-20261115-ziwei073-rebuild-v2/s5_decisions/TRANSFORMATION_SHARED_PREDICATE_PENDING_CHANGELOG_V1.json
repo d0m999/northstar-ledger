@@ -1,0 +1,214 @@
+[
+  {
+    "chunk": 26,
+    "old_batch": "C0026_C0030_V6",
+    "new_batch": "C0026_C0030_V7",
+    "removed_original_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "removed_objects": [
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "scope_id": "c026_化禄"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化禄",
+        "scope_id": "c026_化禄"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c026_化忌"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "scope_id": "c026_化忌"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 27,
+    "old_batch": "C0026_C0030_V6",
+    "new_batch": "C0026_C0030_V7",
+    "removed_original_indices": [
+      0,
+      1
+    ],
+    "removed_objects": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c027_base"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "scope_id": "c027_base"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 30,
+    "old_batch": "C0026_C0030_V6",
+    "new_batch": "C0026_C0030_V7",
+    "removed_original_indices": [
+      0,
+      1,
+      2
+    ],
+    "removed_objects": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c030_activation"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "scope_id": "c030_activation"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "scope_id": "c030_activation"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 36,
+    "old_batch": "C0036_C0040_V3",
+    "new_batch": "C0036_C0040_V4",
+    "removed_original_indices": [
+      1,
+      2,
+      3
+    ],
+    "removed_objects": [
+      {
+        "star": null,
+        "transformation": "化忌",
+        "scope_id": "c036_generic"
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "scope_id": "c036_generic"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "scope_id": "c036_generic"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 41,
+    "old_batch": "C0041_C0045_V4",
+    "new_batch": "C0041_C0045_V5",
+    "removed_original_indices": [
+      0,
+      1
+    ],
+    "removed_objects": [
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "scope_id": "c041_generic"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c041_generic"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 146,
+    "old_batch": "C0146_C0150_V3",
+    "new_batch": "C0146_C0150_V4",
+    "removed_original_indices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "removed_objects": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c146_annual"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "scope_id": "c146_annual"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "scope_id": "c146_annual"
+      },
+      {
+        "star": "文昌",
+        "transformation": "化忌",
+        "scope_id": "c146_annual"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 366,
+    "old_batch": "C0366_C0370_V2",
+    "new_batch": "C0366_C0370_V3",
+    "removed_original_indices": [
+      4,
+      5
+    ],
+    "removed_objects": [
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "scope_id": "c366_generic_activation"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c366_generic_activation"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  },
+  {
+    "chunk": 410,
+    "old_batch": "C0406_C0410_V3",
+    "new_batch": "C0406_C0410_V4",
+    "removed_original_indices": [
+      0,
+      1
+    ],
+    "removed_objects": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "scope_id": "c410_author"
+      },
+      {
+        "star": null,
+        "transformation": "化忌",
+        "scope_id": "c410_author"
+      }
+    ],
+    "status": "transformation_alternative_pending_not_passed"
+  }
+]

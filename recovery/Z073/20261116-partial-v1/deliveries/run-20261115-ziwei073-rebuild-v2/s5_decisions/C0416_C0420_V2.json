@@ -1,0 +1,1987 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c416",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "仅完整盘二十三图注：壬年廉相子命同羊劫，虽武忌铃来冲，却得梁禄禄存双禄辅而刑囚夹印反吉，辰寡宿被制。盘面不用于补宫位与时间。",
+        "summary_en": "Only the intact Chart Twenty-Three caption is used: Ren-year Lian/Xiang in Zi Life with Yang/Jie receives Liang Lu and Lu Cun support despite Wu Ji/Ling opposition. Xing Qiu Jia Yin is favorable and the Chen loneliness pattern is restrained. Chart fragments supply no extra placements or timing.",
+        "keywords": [
+          "完整图注",
+          "双禄刑囚",
+          "寡宿格非星"
+        ],
+        "keywords_en": [
+          "intact caption",
+          "Lu-supported Xing Qiu",
+          "loneliness pattern not star"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞",
+            "天相",
+            "擎羊",
+            "地劫",
+            "武曲",
+            "铃星",
+            "天梁",
+            "禄存"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c416_caption",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天相"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c416_caption",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c416_caption",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "地劫"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c416_caption",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天相"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "地劫"
+                }
+              ],
+              "scope_id": "c416_caption",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "武曲",
+              "transformation": "化忌",
+              "scope_id": "c416_caption",
+              "tiangan": "壬"
+            },
+            {
+              "star": "天梁",
+              "transformation": "化禄",
+              "scope_id": "c416_caption",
+              "tiangan": "壬"
+            }
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "刑囚夹印",
+              "formation_status": "成格",
+              "evidence": "雙祿輔的「刑囚夾印」吉格"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "寡宿",
+              "proposed_category": "source_pattern_term",
+              "reason": "图注为凶格名，不映射同名小星或猜具体组合",
+              "english_surface": "loneliness configuration",
+              "scope_id": "c416_caption"
+            }
+          ],
+          "knowledge_domains": [
+            "格局解析"
+          ],
+          "analysis_methods": [
+            "格局分析",
+            "四化分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 299,
+                "end": 308,
+                "quote": "擎羊與地劫在子同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 299,
+                "end": 308,
+                "quote": "擎羊與地劫在子同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 313,
+                "end": 322,
+                "quote": "武曲化忌並鈴星來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 313,
+                "end": 322,
+                "quote": "武曲化忌並鈴星來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 327,
+                "end": 337,
+                "quote": "天梁化祿及祿存來吉輔"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.7",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 327,
+                "end": 337,
+                "quote": "天梁化祿及祿存來吉輔"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 299,
+                "end": 308,
+                "quote": "擎羊與地劫在子同踞"
+              },
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 299,
+                "end": 308,
+                "quote": "擎羊與地劫在子同踞"
+              },
+              {
+                "start": 287,
+                "end": 293,
+                "quote": "廉相在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.4",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 308,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 313,
+                "end": 322,
+                "quote": "武曲化忌並鈴星來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 389,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 327,
+                "end": 337,
+                "quote": "天梁化祿及祿存來吉輔"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1.tiangan",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 389,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 345,
+                "end": 357,
+                "quote": "雙祿輔的「刑囚夾印」吉格"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 363,
+                "end": 365,
+                "quote": "寡宿"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 389,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 389,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.1",
+            "scope": {
+              "scope_id": "c416_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            },
+            "spans": [
+              {
+                "start": 287,
+                "end": 389,
+                "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "混排盘面不采，只完整caption",
+          "usable_spans": [
+            {
+              "start": 287,
+              "end": 389,
+              "quote": "廉相在子坐命，壬年生人，擎羊與地劫在子同踞，三合亦有武曲化忌並鈴星來沖，但子宮得天梁化祿及祿存來吉輔後，造成子宮成為雙祿輔的「刑囚夾印」吉格，而辰宮的「寡宿」凶格跟擎羊一樣會被制煞為用，故子宫在此以吉論。"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c416"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "混排盘面不采，只完整caption"
+        ],
+        "notes": "不借415或盘字把武铃同宫/辰官禄补进本caption。梁禄吉辅不命承载，两个壬年四化直接源条件，不填年支/时辰。四星子同宫来自明确子命+羊劫子两句，未把铃武移命。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c417",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "保留完整作者说明：大限走到廉宫仍须以先天命宫为枢纽，不能照搬古说牢狱伤残。后例示导语的已宫疑损句排除，不补巳宫或理论盘配置。",
+        "summary_en": "The intact explanation requires natal Life context when a period reaches Lian’s palace and rejects mechanically applying imprisonment or injury claims. The following example-introduction sentence has a damaged palace term and is excluded without reconstructing Si or its chart configurations.",
+        "keywords": [
+          "先天命为枢纽",
+          "非必牢狱伤残",
+          "损导语排除"
+        ],
+        "keywords_en": [
+          "natal Life as basis",
+          "no inevitable imprisonment injury",
+          "damaged introduction excluded"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "time_mentions": [
+            {
+              "time_context": "大限",
+              "scope_id": "c417_author",
+              "subject": "廉贞宫位所在十年限",
+              "chart_type": null
+            },
+            {
+              "time_context": "本命",
+              "scope_id": "c417_author",
+              "subject": "先天命宫为论命枢纽",
+              "chart_type": null
+            }
+          ],
+          "topics_mentioned": [
+            "健康医疗"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "spans": [
+              {
+                "start": 98,
+                "end": 108,
+                "quote": "大限走到廉貞坐守宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "spans": [
+              {
+                "start": 141,
+                "end": 148,
+                "quote": "先天命宮的作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "spans": [
+              {
+                "start": 98,
+                "end": 114,
+                "quote": "大限走到廉貞坐守宮位，則在此十年"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.1",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "spans": [
+              {
+                "start": 141,
+                "end": 148,
+                "quote": "先天命宮的作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c417_author",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 160,
+                "quote": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "后廉贪在已坐命导语宫支疑损，整导语不采，不从标题/下块补巳",
+          "usable_spans": [
+            {
+              "start": 43,
+              "end": 160,
+              "quote": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c417"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "后廉贪在已坐命导语宫支疑损，整导语不采，不从标题/下块补巳"
+        ],
+        "notes": "命宫星不为廉是明确前提，不输出廉本命入宫。古说伤残被作者限定不是诊断，未给四煞具体星不据前块加。方法未具体四化不因标题添方法。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c418",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "癸年廉贪巳命贪忌，癸卯辰时的羊陀火铃配置使源论本命凶弱；男逆限好坏交替，多吉与自我节制是限制，不必早夭，健康伤害仅可能。",
+        "summary_en": "Gui-year Lian/Tan Si Life with Tan Ji, specified further for Gui-Mao birth and Chen hour, is described as weak. Male reverse periods alternate in strength; auspicious support and self-restraint qualify the interpretation. Early death is not inevitable and health harm is only a stated possibility.",
+        "keywords": [
+          "癸卯辰时",
+          "廉贪巳命",
+          "多吉自制限制",
+          "非必横夭"
+        ],
+        "keywords_en": [
+          "Gui Mao Chen hour",
+          "Lian Tan Si Life",
+          "support and restraint",
+          "no inevitable early death"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞",
+            "贪狼",
+            "擎羊",
+            "陀罗",
+            "火星",
+            "铃星"
+          ],
+          "star_pairs_mentioned": [
+            "擎羊陀罗",
+            "火星铃星"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c418_natal",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c418_natal",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c418_natal",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "贪狼",
+              "transformation": "化忌",
+              "scope_id": "c418_natal",
+              "palace": "命宫",
+              "tiangan": "癸"
+            },
+            {
+              "star": null,
+              "transformation": "化忌",
+              "scope_id": "c418_periods"
+            }
+          ],
+          "time_mentions": [
+            {
+              "time_context": "本命",
+              "scope_id": "c418_natal",
+              "subject": "癸卯年辰时出生配置",
+              "chart_type": null
+            }
+          ],
+          "topics_mentioned": [
+            "健康医疗"
+          ],
+          "analysis_methods": [
+            "四化分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 71,
+                "end": 80,
+                "quote": "羊陀自丑亥二宮來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 71,
+                "end": 80,
+                "quote": "羊陀自丑亥二宮來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 96,
+                "end": 104,
+                "quote": "火鈴分坐丑寅二宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 96,
+                "end": 104,
+                "quote": "火鈴分坐丑寅二宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 71,
+                "end": 80,
+                "quote": "羊陀自丑亥二宮來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.1",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 96,
+                "end": 104,
+                "quote": "火鈴分坐丑寅二宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 61,
+                "end": 70,
+                "quote": "癸年生人，貪狼化忌"
+              },
+              {
+                "start": 54,
+                "end": 60,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 61,
+                "end": 70,
+                "quote": "癸年生人，貪狼化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c418_periods",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 229,
+                "end": 234,
+                "quote": "行限的化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1.star",
+            "scope": {
+              "scope_id": "c418_periods",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 81,
+                "end": 95,
+                "quote": "若為癸卯年生人，且是辰時生人"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c418_periods",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 271,
+                "end": 339,
+                "quote": "惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c418_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+            },
+            "spans": [
+              {
+                "start": 45,
+                "end": 339,
+                "quote": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c418"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "出生时辰不当流时，泛行限忌不赋癸不猜承载，时序粒度无明确大限不造。四煞分坐地支无功能宫不映射；弱宫不保证犯罪、强调自制及非必早夭，健康段保可能措辞不作医学结论。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c419",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "盘二十四混排与廉食在已等疑损使完整配置和限运结论断裂，按S4归档，不重排不借邻块补。",
+        "summary_en": "Chart Twenty-Four’s interleaved and damaged text breaks the configuration and period assertions. It is archived under the source limitation without reordering or borrowing from adjacent chunks.",
+        "keywords": [
+          "混排归档",
+          "断言不拼接"
+        ],
+        "keywords_en": [
+          "interleaved archive",
+          "no reconstructed assertions"
+        ],
+        "ziwei": {
+          "chart_type": null
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c419_archive",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "archive_only",
+          "reason": "S4排除破碎图注整断言；极端凶果句依赖断裂配置/限运，不能分割成普遍结论。"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c419"
+      ],
+      "quality_review": {
+        "retrieval_status": "archive_only",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "S4排除破碎图注整断言；极端凶果句依赖断裂配置/限运，不能分割成普遍结论。"
+        ],
+        "notes": "全段逐读，没有可独立恢复条件的连续完整断言，盘中文字不自行排序，保持原source全部可追踪归档。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c420",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "戊年廉贪巳命贪禄禄存使陷宫转强；戊午卯时火铃夹辅形成源称火铃贪吉格。行限若贪忌或廉忌，则夹辅反为夹忌凶害，健康也仅可能受影响。",
+        "summary_en": "Wu-year Lian/Tan Si Life with Tan Lu and Lu Cun changes weakness to strength. For Wu-Wu birth and Mao hour, flanking Huo/Ling supports the source’s favorable pattern. Period Tan Ji or Lian Ji reverses that support into adverse flanking, with possible health effects rather than certainty.",
+        "keywords": [
+          "戊午卯时夹辅",
+          "火铃贪正反",
+          "行限忌反转"
+        ],
+        "keywords_en": [
+          "Wu Wu Mao-hour flanking",
+          "Huo Ling Tan positive negative",
+          "period Ji reversal"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞",
+            "贪狼",
+            "禄存",
+            "擎羊",
+            "陀罗",
+            "火星",
+            "铃星"
+          ],
+          "star_pairs_mentioned": [
+            "擎羊陀罗",
+            "火星铃星"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            },
+            {
+              "relation_type": "夹辅",
+              "participants": [
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                },
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "陀罗"
+                },
+                {
+                  "role": "target",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            },
+            {
+              "relation_type": "夹辅",
+              "participants": [
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "铃星"
+                },
+                {
+                  "role": "target",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c420_positive",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "贪狼",
+              "transformation": "化禄",
+              "scope_id": "c420_positive",
+              "palace": "命宫",
+              "tiangan": "戊"
+            },
+            {
+              "star": "贪狼",
+              "transformation": "化忌",
+              "scope_id": "c420_tan_period_trigger",
+              "palace": "命宫"
+            },
+            {
+              "star": "廉贞",
+              "transformation": "化忌",
+              "scope_id": "c420_lian_period_trigger",
+              "palace": "命宫"
+            }
+          ],
+          "time_mentions": [
+            {
+              "time_context": "本命",
+              "scope_id": "c420_positive",
+              "subject": "戊午年卯时出生配置",
+              "chart_type": null
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "火（鈴）貪",
+              "proposed_category": "source_pattern_term",
+              "reason": "原词括注并为夹辅结构，不凭名称改成标准同宫格",
+              "english_surface": "Huo (Ling) Tan",
+              "scope_id": "c420_positive"
+            }
+          ],
+          "topics_mentioned": [
+            "健康医疗"
+          ],
+          "knowledge_domains": [
+            "格局解析"
+          ],
+          "analysis_methods": [
+            "格局分析",
+            "四化分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 67,
+                "end": 78,
+                "quote": "貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 104,
+                "end": 115,
+                "quote": "羊陀夾對巳宮有護衛作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 104,
+                "end": 115,
+                "quote": "羊陀夾對巳宮有護衛作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 135,
+                "end": 147,
+                "quote": "火鈴分坐辰午二宮夾輔巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 135,
+                "end": 147,
+                "quote": "火鈴分坐辰午二宮夾輔巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 104,
+                "end": 115,
+                "quote": "羊陀夾對巳宮有護衛作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.1",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 135,
+                "end": 147,
+                "quote": "火鈴分坐辰午二宮夾輔巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 67,
+                "end": 78,
+                "quote": "貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 67,
+                "end": 78,
+                "quote": "貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 46,
+                "end": 78,
+                "quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 56,
+                "end": 78,
+                "quote": "戊年生人（盤二十五），貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 56,
+                "end": 78,
+                "quote": "戊年生人（盤二十五），貪狼化祿並祿存同坐命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c420_tan_period_trigger",
+              "kind": "conditional",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+              "attribution": "作者独立行限贪狼化忌子句，保廉贪巳命戊午卯时共同条件"
+            },
+            "spans": [
+              {
+                "start": 185,
+                "end": 199,
+                "quote": "若行限造成貪狼化忌或廉貞化忌"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              },
+              {
+                "start": 185,
+                "end": 194,
+                "quote": "若行限造成貪狼化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.2",
+            "scope": {
+              "scope_id": "c420_lian_period_trigger",
+              "kind": "conditional",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+              "attribution": "作者另一完整行限廉贞化忌子句，保廉贪巳命戊午卯时共同条件"
+            },
+            "spans": [
+              {
+                "start": 185,
+                "end": 199,
+                "quote": "若行限造成貪狼化忌或廉貞化忌"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              },
+              {
+                "start": 195,
+                "end": 199,
+                "quote": "廉貞化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.4",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 104,
+                "end": 115,
+                "quote": "羊陀夾對巳宮有護衛作用"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.5",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 135,
+                "end": 147,
+                "quote": "火鈴分坐辰午二宮夾輔巳宮"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "quote": "廉貪在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 120,
+                "end": 134,
+                "quote": "若為戊午年生人，且是卯時生人"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c420_positive",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。"
+            },
+            "spans": [
+              {
+                "start": 151,
+                "end": 156,
+                "quote": "火（鈴）貪"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c420_negative",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+            },
+            "spans": [
+              {
+                "start": 277,
+                "end": 286,
+                "quote": "健康可能也會有問題"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c420_negative",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+            },
+            "spans": [
+              {
+                "start": 46,
+                "end": 288,
+                "quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c420_negative",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+            },
+            "spans": [
+              {
+                "start": 46,
+                "end": 288,
+                "quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.1",
+            "scope": {
+              "scope_id": "c420_negative",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+            },
+            "spans": [
+              {
+                "start": 46,
+                "end": 288,
+                "quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c420"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "两煞对夹辅宫与源巳命双证据明确，不同宫。忌为行限两替代提及，不造廉贪都忌同盘或填戊干；承载源固定两星命。火铃贪原词括注并非构造关系OR，夹辅双方火铃已明示同存在，原词未强配注册格。反面不否定原源正面夹配置，作用反转双语保。 四化专项：仅依明确独立完整子句或原文明确分别讨论概念分scope，逐项原句证据，保全部共同条件，不用scope名掩饰共享谓语互择；此为普通返修待独审。"
+      }
+    }
+  ]
+}

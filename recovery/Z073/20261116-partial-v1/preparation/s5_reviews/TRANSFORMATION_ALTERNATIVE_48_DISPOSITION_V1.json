@@ -1,0 +1,4421 @@
+{
+  "review_type": "bounded_independent_transformation_alternative_scan_not_S6",
+  "baseline_read": false,
+  "scope": "all483 current candidate rows, same-scope>=2 sihua objects, OR/any-one in corresponding scope/evidence; all48 resultinggroups individually inspected with local fixed04/source evidence. C15 already corrected before scan and retained separatepending. No claim other unsearched logical errors absent.",
+  "candidate_groups": 48,
+  "candidate_chunks": 39,
+  "dispositions": [
+    {
+      "chunk": 26,
+      "batch": "C0026_C0030_V6",
+      "scope": "c026_化禄",
+      "hua": [
+        [
+          0,
+          {
+            "star": "武曲",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c026_化禄"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c026_化禄"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c026_化禄",
+            "kind": "conditional",
+            "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋，此時武曲或貪狼任一星曜的化祿或化忌，對此二宮位的吉凶影響就很大。\n若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用，而木在受到金（金在此可隱喻為刀具）來雕鑿後，始能成「器」，然後才能有用，故當有祿星時，始能發揮武貪二星曜的正面賦性作用。唯因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿，武貪在丑未坐命者一輩子仍然是較為勞碌。反之，對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時，即造成金「剋」木，此時就會凸顯出此二星曜賦性的負面作用，即使是在會多吉星的情形下，此人一輩子不但極為勞碌，且起伏亦大，行運好時則發，不好時則敗。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 147,
+              "end": 161,
+              "quote": "若是武曲或貪狼任一星曜化祿時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c026_化禄",
+            "kind": "conditional",
+            "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋，此時武曲或貪狼任一星曜的化祿或化忌，對此二宮位的吉凶影響就很大。\n若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用，而木在受到金（金在此可隱喻為刀具）來雕鑿後，始能成「器」，然後才能有用，故當有祿星時，始能發揮武貪二星曜的正面賦性作用。唯因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿，武貪在丑未坐命者一輩子仍然是較為勞碌。反之，對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時，即造成金「剋」木，此時就會凸顯出此二星曜賦性的負面作用，即使是在會多吉星的情形下，此人一輩子不但極為勞碌，且起伏亦大，行運好時則發，不好時則敗。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 147,
+              "end": 161,
+              "quote": "若是武曲或貪狼任一星曜化祿時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 26,
+      "batch": "C0026_C0030_V6",
+      "scope": "c026_化忌",
+      "hua": [
+        [
+          2,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c026_化忌"
+          }
+        ],
+        [
+          3,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c026_化忌"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c026_化忌",
+            "kind": "conditional",
+            "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋，此時武曲或貪狼任一星曜的化祿或化忌，對此二宮位的吉凶影響就很大。\n若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用，而木在受到金（金在此可隱喻為刀具）來雕鑿後，始能成「器」，然後才能有用，故當有祿星時，始能發揮武貪二星曜的正面賦性作用。唯因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿，武貪在丑未坐命者一輩子仍然是較為勞碌。反之，對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時，即造成金「剋」木，此時就會凸顯出此二星曜賦性的負面作用，即使是在會多吉星的情形下，此人一輩子不但極為勞碌，且起伏亦大，行運好時則發，不好時則敗。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 291,
+              "end": 315,
+              "quote": "對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c026_化忌",
+            "kind": "conditional",
+            "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋，此時武曲或貪狼任一星曜的化祿或化忌，對此二宮位的吉凶影響就很大。\n若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用，而木在受到金（金在此可隱喻為刀具）來雕鑿後，始能成「器」，然後才能有用，故當有祿星時，始能發揮武貪二星曜的正面賦性作用。唯因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿，武貪在丑未坐命者一輩子仍然是較為勞碌。反之，對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時，即造成金「剋」木，此時就會凸顯出此二星曜賦性的負面作用，即使是在會多吉星的情形下，此人一輩子不但極為勞碌，且起伏亦大，行運好時則發，不好時則敗。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 291,
+              "end": 315,
+              "quote": "對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 27,
+      "batch": "C0026_C0030_V6",
+      "scope": "c027_base",
+      "hua": [
+        [
+          0,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c027_base"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c027_base"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c027_base",
+            "kind": "conditional",
+            "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 53,
+              "end": 72,
+              "quote": "當武貪在丑未坐命者，若其中任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c027_base",
+            "kind": "conditional",
+            "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 53,
+              "end": 72,
+              "quote": "當武貪在丑未坐命者，若其中任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 30,
+      "batch": "C0026_C0030_V6",
+      "scope": "c030_activation",
+      "hua": [
+        [
+          0,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c030_activation"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c030_activation"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c030_activation"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c030_activation",
+            "kind": "conditional",
+            "condition": "武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 187,
+              "end": 199,
+              "quote": "武曲或貪狼或廉貞任一化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c030_activation",
+            "kind": "conditional",
+            "condition": "武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 187,
+              "end": 199,
+              "quote": "武曲或貪狼或廉貞任一化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c030_activation",
+            "kind": "conditional",
+            "condition": "武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 187,
+              "end": 199,
+              "quote": "武曲或貪狼或廉貞任一化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 36,
+      "batch": "C0036_C0040_V3",
+      "scope": "c036_generic",
+      "hua": [
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c036_generic"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c036_generic"
+          }
+        ],
+        [
+          3,
+          {
+            "star": "武曲",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c036_generic"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c036_generic",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮坐守時，若有火星同踞，則因武曲與七殺五行均屬金，而火星五行屬火，本質上為火金相剋，此時若有化忌或化祿（如武曲化忌或化祿）來引動",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 353,
+              "end": 362,
+              "quote": "此時若有化忌或化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c036_generic",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮坐守時，若有火星同踞，則因武曲與七殺五行均屬金，而火星五行屬火，本質上為火金相剋，此時若有化忌或化祿（如武曲化忌或化祿）來引動",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 353,
+              "end": 362,
+              "quote": "此時若有化忌或化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c036_generic",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮坐守時，若有火星同踞，則因武曲與七殺五行均屬金，而火星五行屬火，本質上為火金相剋，此時若有化忌或化祿（如武曲化忌或化祿）來引動",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 363,
+              "end": 371,
+              "quote": "如武曲化忌或化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 41,
+      "batch": "C0041_C0045_V4",
+      "scope": "c041_generic",
+      "hua": [
+        [
+          0,
+          {
+            "star": "武曲",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c041_generic"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c041_generic"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c041_generic",
+            "kind": "conditional",
+            "condition": "武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 112,
+              "quote": "武曲化祿或化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c041_generic",
+            "kind": "conditional",
+            "condition": "武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 112,
+              "quote": "武曲化祿或化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 44,
+      "batch": "C0041_C0045_V4",
+      "scope": "c044_transforms",
+      "hua": [
+        [
+          2,
+          {
+            "star": "武曲",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c044_transforms"
+          }
+        ],
+        [
+          3,
+          {
+            "star": "巨门",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c044_transforms"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c044_transforms",
+            "kind": "conditional",
+            "condition": "武曲或巨門化權時",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 275,
+              "end": 283,
+              "quote": "武曲或巨門化權時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c044_transforms",
+            "kind": "conditional",
+            "condition": "武曲或巨門化權時",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 275,
+              "end": 283,
+              "quote": "武曲或巨門化權時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 46,
+      "batch": "C0046_C0050_V4",
+      "scope": "c046_full",
+      "hua": [
+        [
+          5,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c046_full"
+          }
+        ],
+        [
+          6,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c046_full"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c046_full",
+            "kind": "conditional",
+            "condition": "正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 206,
+              "end": 249,
+              "quote": "正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.6",
+          "scope": {
+            "scope_id": "c046_full",
+            "kind": "conditional",
+            "condition": "正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 206,
+              "end": 249,
+              "quote": "正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 46,
+      "batch": "C0046_C0050_V4",
+      "scope": "c046_partial",
+      "hua": [
+        [
+          7,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c046_partial"
+          }
+        ],
+        [
+          8,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c046_partial"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.7",
+          "scope": {
+            "scope_id": "c046_partial",
+            "kind": "conditional",
+            "condition": "凡武曲坐命者，財帛宮必有廉貞坐守。當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」。由於廉貞五行屬火，故當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金，因此不但不利於財，也會激發出廉貞「囚星」的不利作用，使得命造容易因財與人起糾紛，嚴重時，甚至會有官司訴訟等事發生，此即所謂的「財與囚仇」。\n正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是。若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 250,
+              "end": 289,
+              "quote": "若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.8",
+          "scope": {
+            "scope_id": "c046_partial",
+            "kind": "conditional",
+            "condition": "凡武曲坐命者，財帛宮必有廉貞坐守。當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」。由於廉貞五行屬火，故當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金，因此不但不利於財，也會激發出廉貞「囚星」的不利作用，使得命造容易因財與人起糾紛，嚴重時，甚至會有官司訴訟等事發生，此即所謂的「財與囚仇」。\n正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是。若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 250,
+              "end": 289,
+              "quote": "若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 72,
+      "batch": "C0071_C0075_V1",
+      "scope": "c072_case",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c072_case"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c072_case"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c072_case",
+            "kind": "case",
+            "condition": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用，並因昌曲魁鉞的聰明才智作用，故此人可說是文武兼備。但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。由於星曜坐入陷宮時，對吉星的吉化作用的感應力較差，對忌星或煞星的煞害作用的抵抗力亦較差，因此前述武曲在陷宮坐會昌曲的不利作用，就會被凸顯出來。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 152,
+              "quote": "武破在亥得化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c072_case",
+            "kind": "case",
+            "condition": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用，並因昌曲魁鉞的聰明才智作用，故此人可說是文武兼備。但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。由於星曜坐入陷宮時，對吉星的吉化作用的感應力較差，對忌星或煞星的煞害作用的抵抗力亦較差，因此前述武曲在陷宮坐會昌曲的不利作用，就會被凸顯出來。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 213,
+              "end": 219,
+              "quote": "貪狼化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 78,
+      "batch": "C0076_C0080_V3",
+      "scope": "c078_female",
+      "hua": [
+        [
+          3,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c078_female"
+          }
+        ],
+        [
+          4,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c078_female"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c078_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 57,
+              "end": 65,
+              "quote": "雖間有化祿來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c078_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 105,
+              "quote": "有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 80,
+      "batch": "C0076_C0080_V3",
+      "scope": "c080_female",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c080_female"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c080_female"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c080_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 20,
+              "end": 26,
+              "quote": "有化祿來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c080_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 66,
+              "quote": "有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 81,
+      "batch": "C0081_C0085_V4",
+      "scope": "c081_first",
+      "hua": [
+        [
+          0,
+          {
+            "star": "太阴",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c081_first"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "天同",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c081_first"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c081_first",
+            "kind": "case",
+            "condition": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 416,
+              "end": 453,
+              "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c081_first",
+            "kind": "case",
+            "condition": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 416,
+              "end": 453,
+              "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_temporal_sequence_not_or_choice",
+      "reason": "Explicit 輪著 across stated multiple periods describes both transformations at different times in range, not ambiguous choice of which exists. Range evidence preserved; do not invent each-period mapping."
+    },
+    {
+      "chunk": 81,
+      "batch": "C0081_C0085_V4",
+      "scope": "c081_female",
+      "hua": [
+        [
+          5,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c081_female"
+          }
+        ],
+        [
+          6,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c081_female"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c081_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 57,
+              "end": 65,
+              "quote": "雖間有化祿來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.6",
+          "scope": {
+            "scope_id": "c081_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 105,
+              "quote": "有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 82,
+      "batch": "C0081_C0085_V4",
+      "scope": "c082_female",
+      "hua": [
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c082_female"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c082_female"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c082_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 221,
+              "end": 310,
+              "quote": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c082_female",
+            "kind": "conditional",
+            "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 221,
+              "end": 310,
+              "quote": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 88,
+      "batch": "C0086_C0090_V3",
+      "scope": "c088_case",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c088_case"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c088_case"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c088_case"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c088_case",
+            "kind": "case",
+            "condition": "觀諸行限，男命逆行。自乙卯限到甲子限，連著四個大限，先天或後天命宮皆有化祿來吉化，形成命格的連珠，甚吉。但若細察行限，卻也發現，自出生到老，先天或後天命宮雖間有化忌來沖，所幸尚未構成連忌，再加先天命格甚為吉旺，故化忌在此僅代表勞碌，應無妨。故從限運來看，像這種吉凶互現的行限，正好也呼應了上述因貪狼化忌造成命格有所減損的說法。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 73,
+              "end": 79,
+              "quote": "有化祿來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c088_case",
+            "kind": "case",
+            "condition": "觀諸行限，男命逆行。自乙卯限到甲子限，連著四個大限，先天或後天命宮皆有化祿來吉化，形成命格的連珠，甚吉。但若細察行限，卻也發現，自出生到老，先天或後天命宮雖間有化忌來沖，所幸尚未構成連忌，再加先天命格甚為吉旺，故化忌在此僅代表勞碌，應無妨。故從限運來看，像這種吉凶互現的行限，正好也呼應了上述因貪狼化忌造成命格有所減損的說法。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 117,
+              "end": 123,
+              "quote": "間有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c088_case",
+            "kind": "case",
+            "condition": "觀諸行限，男命逆行。自乙卯限到甲子限，連著四個大限，先天或後天命宮皆有化祿來吉化，形成命格的連珠，甚吉。但若細察行限，卻也發現，自出生到老，先天或後天命宮雖間有化忌來沖，所幸尚未構成連忌，再加先天命格甚為吉旺，故化忌在此僅代表勞碌，應無妨。故從限運來看，像這種吉凶互現的行限，正好也呼應了上述因貪狼化忌造成命格有所減損的說法。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 190,
+              "quote": "貪狼化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 100,
+      "batch": "C0096_C0100_V6",
+      "scope": "c100_definition",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c100_definition"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c100_definition"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化科",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c100_definition"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c100_definition",
+            "kind": "rule",
+            "condition": "註十三：任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。同理，也就有所謂的「祿權夾科」及「科權夾祿」宮位。任一宮位若得「祿科夾權」或「祿權夾科」或「科權夾祿」，雖然其作用和「三奇嘉會」有所不同，但皆有吉化作用。有關祿權科的作用，將於四化部份再詳細討論。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 44,
+              "end": 65,
+              "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c100_definition",
+            "kind": "rule",
+            "condition": "註十三：任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。同理，也就有所謂的「祿權夾科」及「科權夾祿」宮位。任一宮位若得「祿科夾權」或「祿權夾科」或「科權夾祿」，雖然其作用和「三奇嘉會」有所不同，但皆有吉化作用。有關祿權科的作用，將於四化部份再詳細討論。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 44,
+              "end": 65,
+              "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c100_definition",
+            "kind": "rule",
+            "condition": "註十三：任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。同理，也就有所謂的「祿權夾科」及「科權夾祿」宮位。任一宮位若得「祿科夾權」或「祿權夾科」或「科權夾祿」，雖然其作用和「三奇嘉會」有所不同，但皆有吉化作用。有關祿權科的作用，將於四化部份再詳細討論。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 44,
+              "end": 65,
+              "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 144,
+      "batch": "C0141_C0145_V2",
+      "scope": "c144_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c144_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "文昌",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c144_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c144_author",
+            "kind": "conditional",
+            "condition": "本賦文主要在說明，當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險。若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶。若是大限逢「鈴昌陀武」凶格，亦做同一論斷。賦文中的「限至投河」，在此是用以比喻「鈴昌陀武」凶格的凶性不但強烈，而且往往也來得很突然，以致於事情發生時，讓人措手不及，無法補救，終致潰敗，而不是說遇此凶格者，就一定會去投河自盡。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 284,
+              "end": 291,
+              "quote": "只要武曲一化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c144_author",
+            "kind": "conditional",
+            "condition": "本賦文主要在說明，當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險。若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶。若是大限逢「鈴昌陀武」凶格，亦做同一論斷。賦文中的「限至投河」，在此是用以比喻「鈴昌陀武」凶格的凶性不但強烈，而且往往也來得很突然，以致於事情發生時，讓人措手不及，無法補救，終致潰敗，而不是說遇此凶格者，就一定會去投河自盡。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 298,
+              "end": 308,
+              "quote": "若是由文昌化忌所引動"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 146,
+      "batch": "C0146_C0150_V3",
+      "scope": "c146_annual",
+      "hua": [
+        [
+          1,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c146_annual"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c146_annual"
+          }
+        ],
+        [
+          3,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c146_annual"
+          }
+        ],
+        [
+          4,
+          {
+            "star": "文昌",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c146_annual"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c146_annual",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格，此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性，故此大限恐難順利度過，因十年中有一半以上的流年，皆相當凶之故。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 232,
+              "end": 253,
+              "quote": "流年再有武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c146_annual",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格，此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性，故此大限恐難順利度過，因十年中有一半以上的流年，皆相當凶之故。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 232,
+              "end": 253,
+              "quote": "流年再有武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c146_annual",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格，此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性，故此大限恐難順利度過，因十年中有一半以上的流年，皆相當凶之故。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 232,
+              "end": 253,
+              "quote": "流年再有武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c146_annual",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格，此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性，故此大限恐難順利度過，因十年中有一半以上的流年，皆相當凶之故。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 232,
+              "end": 253,
+              "quote": "流年再有武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 149,
+      "batch": "C0146_C0150_V3",
+      "scope": "c149_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c149_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c149_author"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化科",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c149_author"
+          }
+        ],
+        [
+          3,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c149_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c149_author",
+            "kind": "conditional",
+            "condition": "本賦文主要是在說明，武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言。\n反之，若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作，一輩子勞碌飄泊，縱能享福亦有所不全，否則就會夭折。又，百工技藝在此係泛指各種工匠及工藝。\n實則任一星曜入命若無吉化，又見多煞星及有化忌來沖，其賦性作用所呈現出來者以負面居多，因此與人相處就易有寡合現象，故較不適合從事須人際往來頻繁的工作，而較適合去學技藝，以求得一技之長，好賴以謀生，並不限於武貪入身命者。此即《全集，註解骨髓賦》會有「武曲閒宮多手藝」的說法由來，並對之有註解如下：「武曲巳亥守命，加煞者手藝安身」，而《全書，諸星在命身及十二宮吉凶要訣》亦有「武曲平閒宮守命，斯人多係手藝精」的類似敘述，並有註解如下：「此云即乃武曲在巳亥宫守命而加煞或與刑囚諸惡同值，多主手藝安身之人」。\n有關武貪組合的命理現象，在前面已有詳盡的解說，就不再贅敘。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 192,
+              "end": 202,
+              "quote": "即不見六吉星及祿權科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c149_author",
+            "kind": "conditional",
+            "condition": "本賦文主要是在說明，武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言。\n反之，若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作，一輩子勞碌飄泊，縱能享福亦有所不全，否則就會夭折。又，百工技藝在此係泛指各種工匠及工藝。\n實則任一星曜入命若無吉化，又見多煞星及有化忌來沖，其賦性作用所呈現出來者以負面居多，因此與人相處就易有寡合現象，故較不適合從事須人際往來頻繁的工作，而較適合去學技藝，以求得一技之長，好賴以謀生，並不限於武貪入身命者。此即《全集，註解骨髓賦》會有「武曲閒宮多手藝」的說法由來，並對之有註解如下：「武曲巳亥守命，加煞者手藝安身」，而《全書，諸星在命身及十二宮吉凶要訣》亦有「武曲平閒宮守命，斯人多係手藝精」的類似敘述，並有註解如下：「此云即乃武曲在巳亥宫守命而加煞或與刑囚諸惡同值，多主手藝安身之人」。\n有關武貪組合的命理現象，在前面已有詳盡的解說，就不再贅敘。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 192,
+              "end": 202,
+              "quote": "即不見六吉星及祿權科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c149_author",
+            "kind": "conditional",
+            "condition": "本賦文主要是在說明，武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言。\n反之，若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作，一輩子勞碌飄泊，縱能享福亦有所不全，否則就會夭折。又，百工技藝在此係泛指各種工匠及工藝。\n實則任一星曜入命若無吉化，又見多煞星及有化忌來沖，其賦性作用所呈現出來者以負面居多，因此與人相處就易有寡合現象，故較不適合從事須人際往來頻繁的工作，而較適合去學技藝，以求得一技之長，好賴以謀生，並不限於武貪入身命者。此即《全集，註解骨髓賦》會有「武曲閒宮多手藝」的說法由來，並對之有註解如下：「武曲巳亥守命，加煞者手藝安身」，而《全書，諸星在命身及十二宮吉凶要訣》亦有「武曲平閒宮守命，斯人多係手藝精」的類似敘述，並有註解如下：「此云即乃武曲在巳亥宫守命而加煞或與刑囚諸惡同值，多主手藝安身之人」。\n有關武貪組合的命理現象，在前面已有詳盡的解說，就不再贅敘。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 192,
+              "end": 202,
+              "quote": "即不見六吉星及祿權科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c149_author",
+            "kind": "conditional",
+            "condition": "本賦文主要是在說明，武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言。\n反之，若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作，一輩子勞碌飄泊，縱能享福亦有所不全，否則就會夭折。又，百工技藝在此係泛指各種工匠及工藝。\n實則任一星曜入命若無吉化，又見多煞星及有化忌來沖，其賦性作用所呈現出來者以負面居多，因此與人相處就易有寡合現象，故較不適合從事須人際往來頻繁的工作，而較適合去學技藝，以求得一技之長，好賴以謀生，並不限於武貪入身命者。此即《全集，註解骨髓賦》會有「武曲閒宮多手藝」的說法由來，並對之有註解如下：「武曲巳亥守命，加煞者手藝安身」，而《全書，諸星在命身及十二宮吉凶要訣》亦有「武曲平閒宮守命，斯人多係手藝精」的類似敘述，並有註解如下：「此云即乃武曲在巳亥宫守命而加煞或與刑囚諸惡同值，多主手藝安身之人」。\n有關武貪組合的命理現象，在前面已有詳盡的解說，就不再贅敘。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 300,
+              "end": 311,
+              "quote": "又見多煞星及有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 205,
+      "batch": "C0201_C0205_V3",
+      "scope": "c205_yiyou",
+      "hua": [
+        [
+          0,
+          {
+            "star": "太阴",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c205_yiyou"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "天机",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c205_yiyou"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c205_yiyou",
+            "kind": "case",
+            "condition": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大，但卻使命宮成為忌祿沖宮位，不利於健康。此時除非命宮坐會諸多吉星且不會沖火鈴，並且在輸入父母的生年資料後，對命宮有所吉化，不然輕者體弱多病，嚴重的話，恐易有較重大的疾病，甚至危害到生命。更有甚者，太陰化忌也來引動上述遷移宮的凶象，此時若遷移宮再會沖火鈴，就很有可能會發生嚴重的意外事故，危害到身體健康或生命。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 121,
+              "end": 139,
+              "quote": "太陰化忌來引動命宮原有忌煞交沖的凶象"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c205_yiyou",
+            "kind": "case",
+            "condition": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大，但卻使命宮成為忌祿沖宮位，不利於健康。此時除非命宮坐會諸多吉星且不會沖火鈴，並且在輸入父母的生年資料後，對命宮有所吉化，不然輕者體弱多病，嚴重的話，恐易有較重大的疾病，甚至危害到生命。更有甚者，太陰化忌也來引動上述遷移宮的凶象，此時若遷移宮再會沖火鈴，就很有可能會發生嚴重的意外事故，危害到身體健康或生命。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 146,
+              "end": 155,
+              "quote": "天機化祿雖吉化命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 233,
+      "batch": "C0231_C0235_V3",
+      "scope": "c233_yiwei",
+      "hua": [
+        [
+          0,
+          {
+            "star": "天机",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c233_yiwei"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "太阴",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c233_yiwei"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c233_yiwei",
+            "kind": "case",
+            "condition": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 65,
+              "end": 151,
+              "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c233_yiwei",
+            "kind": "case",
+            "condition": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 65,
+              "end": 151,
+              "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 271,
+      "batch": "C0271_C0275_V2",
+      "scope": "c271_classic",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化科",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ],
+        [
+          3,
+          {
+            "star": null,
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ],
+        [
+          4,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ],
+        [
+          5,
+          {
+            "star": "巨门",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c271_classic"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 202,
+              "end": 209,
+              "quote": "亥方有化祿暗合"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 231,
+              "quote": "財宮化祿亦吉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 246,
+              "quote": "以丁生人三合科權祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 246,
+              "quote": "以丁生人三合科權祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 246,
+              "quote": "以丁生人三合科權祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c271_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故女命得之必賢，但不喜巳亥及酉宫立命，雖有吉，亦美中不足，丑未宮多刑剋凶暴，喜甲生人立命寅宫，祿存同度，亥方有化祿暗合，辛生人立命卯宮，祿存旺地對照，財宮化祿亦吉，子宫立命，以丁生人三合科權祿，及癸生人祿存同度，均佳。至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權，並暗合子宮之祿存，當先是出身貧賤，甚或二三婚嫁，但晚景甚佳，福澤優厚，且得子嗣之力。」",
+            "attribution": "先贤女命古注，被作者以男女共同条件及历史社会背景限定，不当现代事实"
+          },
+          "spans": [
+            {
+              "start": 280,
+              "end": 285,
+              "quote": "但巨門化權"
+            },
+            {
+              "start": 259,
+              "end": 285,
+              "quote": "至若丑宮立命，有巨暗同度，癸生人擎羊入命，但巨門化權"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 280,
+      "batch": "C0276_C0280_V4",
+      "scope": "c280_case",
+      "hua": [
+        [
+          0,
+          {
+            "star": "太阴",
+            "transformation": "化禄",
+            "tiangan": "丁",
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "天同",
+            "transformation": "化权",
+            "tiangan": "丁",
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "天机",
+            "transformation": "化科",
+            "tiangan": "丁",
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ],
+        [
+          3,
+          {
+            "star": "巨门",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ],
+        [
+          4,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ],
+        [
+          5,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c280_case"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 147,
+              "end": 157,
+              "quote": "太陰財星旺宮化祿入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 84,
+              "end": 98,
+              "quote": "太陰化祿、天同化權、天機化科"
+            },
+            {
+              "start": 43,
+              "end": 47,
+              "quote": "同陰在子"
+            },
+            {
+              "start": 147,
+              "end": 157,
+              "quote": "太陰財星旺宮化祿入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 84,
+              "end": 98,
+              "quote": "太陰化祿、天同化權、天機化科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 273,
+              "end": 281,
+              "quote": "又有巨門化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 250,
+              "end": 256,
+              "quote": "就是有化祿來"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c280_case",
+            "kind": "conditional",
+            "condition": "同陰在子，丁年生人，祿存在午（盤二十八）。同陰在子，為「水澄桂萼」格局，丁年生人，太陰化祿、天同化權、天機化科，「三奇嘉會」入命，且因祿權科坐入宮位皆為旺宮，能充分發揮格局的「官貴」作用，利於事業，甚吉。又，太陰財星旺宮化祿入命，並有祿存自對宮會照，形成雙祿交馳，利於財，故此命格者亦為「富」格。（關於「水澄桂萼」格局，將於太陰星中再詳加解說。）觀諸行限，女命順行。自少到老，先天或大限命宮，若不是見到先天的祿星，就是有化祿來，以吉論。然因祿存在午獨坐遷移位，又有巨門化忌來沖，加上自少到老的遷移宮皆有化忌來，不但對命格有所減損，一輩子較為辛勞，對外行事亦須相當謹慎，此時職業的擇取，就很重要。\n惟須注意的是，「水澄桂萼」格局之人，須身宮強旺，始能充分發揮「水澄桂萼」的官貴格局，例如身宮在子或辰宮。反之，例如身宮在寅，因巨門水星化忌與屬火的太陽成水火相剋，使寅宮成弱陷宮位，不利於事業，故此命格者只能以「富而不貴」論。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 284,
+              "end": 297,
+              "quote": "自少到老的遷移宮皆有化忌來"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 283,
+      "batch": "C0281_C0285_V2",
+      "scope": "c283_case",
+      "hua": [
+        [
+          0,
+          {
+            "star": "巨门",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c283_case"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c283_case"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "破军",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c283_case"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c283_case",
+            "kind": "conditional",
+            "condition": "巨同在丑，癸年生人，擎羊入命（盤三十）。巨同在丑為陷宮，擎羊同踞，因擎羊的煞害作用，會凸顯巨門不依祖業的刑剋作用，復因巨門化權，也會讓此人因剛愎自用且脾氣不好，造成與人相處寡合。先天田宅宮在辰，雖有貪狼化忌來沖，但亦得破軍化祿與祿存吉化，不做不好論。\n前曾提及，巨同在丑未坐命，除非是命宮及夫妻宮均會多吉星且不會煞星，否則在感情的想法不但偏向負面，且又定不下來，就不利於婚姻感情，此時若再會桃花星，會助長太陰的桃花作用，就可能出現過於濫情或把持不住感情等不利於婚姻感情的負面現象。\n命宮因擎羊同踞而有不利親情人際的作用，陀羅又坐入夫妻宮，除非是命宮及夫妻宮均會多吉星且不會其他煞星，否則此女命易有刑剋，且不利婚姻感情。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 96,
+              "end": 102,
+              "quote": "復因巨門化權"
+            },
+            {
+              "start": 59,
+              "end": 71,
+              "quote": "巨同在丑為陷宮，擎羊同踞"
+            },
+            {
+              "start": 49,
+              "end": 53,
+              "quote": "擎羊入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c283_case",
+            "kind": "conditional",
+            "condition": "巨同在丑，癸年生人，擎羊入命（盤三十）。巨同在丑為陷宮，擎羊同踞，因擎羊的煞害作用，會凸顯巨門不依祖業的刑剋作用，復因巨門化權，也會讓此人因剛愎自用且脾氣不好，造成與人相處寡合。先天田宅宮在辰，雖有貪狼化忌來沖，但亦得破軍化祿與祿存吉化，不做不好論。\n前曾提及，巨同在丑未坐命，除非是命宮及夫妻宮均會多吉星且不會煞星，否則在感情的想法不但偏向負面，且又定不下來，就不利於婚姻感情，此時若再會桃花星，會助長太陰的桃花作用，就可能出現過於濫情或把持不住感情等不利於婚姻感情的負面現象。\n命宮因擎羊同踞而有不利親情人際的作用，陀羅又坐入夫妻宮，除非是命宮及夫妻宮均會多吉星且不會其他煞星，否則此女命易有刑剋，且不利婚姻感情。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 138,
+              "end": 144,
+              "quote": "貪狼化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c283_case",
+            "kind": "conditional",
+            "condition": "巨同在丑，癸年生人，擎羊入命（盤三十）。巨同在丑為陷宮，擎羊同踞，因擎羊的煞害作用，會凸顯巨門不依祖業的刑剋作用，復因巨門化權，也會讓此人因剛愎自用且脾氣不好，造成與人相處寡合。先天田宅宮在辰，雖有貪狼化忌來沖，但亦得破軍化祿與祿存吉化，不做不好論。\n前曾提及，巨同在丑未坐命，除非是命宮及夫妻宮均會多吉星且不會煞星，否則在感情的想法不但偏向負面，且又定不下來，就不利於婚姻感情，此時若再會桃花星，會助長太陰的桃花作用，就可能出現過於濫情或把持不住感情等不利於婚姻感情的負面現象。\n命宮因擎羊同踞而有不利親情人際的作用，陀羅又坐入夫妻宮，除非是命宮及夫妻宮均會多吉星且不會其他煞星，否則此女命易有刑剋，且不利婚姻感情。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 148,
+              "end": 157,
+              "quote": "破軍化祿與祿存吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 292,
+      "batch": "C0291_C0295_V3",
+      "scope": "c292_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c292_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c292_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c292_author",
+            "kind": "conditional",
+            "condition": "又，福德宮的吉凶，不但顯示一個人能否勞逸，亦與一個人聚財的多寡難易有關。除此以外，福德宮尚可反映出一個人在生活用度的意識型態。\n根據論命經驗得知，女命福德宮忌煞交沖，若再坐會桃花星，往往為求安逸生活或物質享受，就可能淪落風塵。\n天同為福星，太陰為財星，又主「一生之快樂享受」（註二十二），同陰在午為弱陷，若女命坐守於此，且忌煞交沖，此時再會桃花星，因意志薄弱，為求安逸生活及享福，會有類如上述福德宮的現象，即易淪落風塵。萬一福德宮又不好，會更加重此一現象。\n惟須注意的是，關於女命淪落風塵的命理現象，若同樣發生在男命，是否會造成此人去當牛郎，則不得而知。\n根據上述說明，就不難理解先賢為何會認為同陰在午坐命且忌煞交沖者會「一生辛勞，僅足溫飽而已，女命如再逢福德宮不佳，或有桃花之星，多是娼妓之流」。",
+            "attribution": "本书作者传统女命职业/性别观点及其男命不确定限制，非助手对现实人物的事实断言"
+          },
+          "spans": [
+            {
+              "start": 116,
+              "end": 125,
+              "quote": "女命福德宮忌煞交沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c292_author",
+            "kind": "conditional",
+            "condition": "又，福德宮的吉凶，不但顯示一個人能否勞逸，亦與一個人聚財的多寡難易有關。除此以外，福德宮尚可反映出一個人在生活用度的意識型態。\n根據論命經驗得知，女命福德宮忌煞交沖，若再坐會桃花星，往往為求安逸生活或物質享受，就可能淪落風塵。\n天同為福星，太陰為財星，又主「一生之快樂享受」（註二十二），同陰在午為弱陷，若女命坐守於此，且忌煞交沖，此時再會桃花星，因意志薄弱，為求安逸生活及享福，會有類如上述福德宮的現象，即易淪落風塵。萬一福德宮又不好，會更加重此一現象。\n惟須注意的是，關於女命淪落風塵的命理現象，若同樣發生在男命，是否會造成此人去當牛郎，則不得而知。\n根據上述說明，就不難理解先賢為何會認為同陰在午坐命且忌煞交沖者會「一生辛勞，僅足溫飽而已，女命如再逢福德宮不佳，或有桃花之星，多是娼妓之流」。",
+            "attribution": "本书作者传统女命职业/性别观点及其男命不确定限制，非助手对现实人物的事实断言"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 208,
+              "quote": "若女命坐守於此，且忌煞交沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 307,
+      "batch": "C0306_C0310_V1",
+      "scope": "c307_rule",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c307_rule"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "廉贞",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c307_rule"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c307_rule",
+            "kind": "conditional",
+            "condition": "根據上述說法衍伸出，廉貞坐命者，為人不但很有原則，且會按既有的規定做事，縱使掌權，也不會胡作非為。當然，這是指廉貞在會吉多而會煞少或不會煞時，才是如此。反之，廉貞坐命者，在會煞多而會吉少或不會吉時，為人不僅沒有原則，且行事會依自身利益而做，嚴重時（指廉貞忌煞交沖且會沖火鈴），甚至會利用職權，違法亂紀，最終吃上官司，甚至去坐牢，這也是廉貞又名「囚星」的原因之一，此即《全書，諸星問答篇》談到廉貞時所說的「在斗司品職，在數司權令，不臨廟旺，更犯官符，故曰化囚」。惟須注意的是，當廉貞化祿又會吉時，則無「囚星」的作用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 166,
+              "end": 177,
+              "quote": "廉貞忌煞交沖且會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c307_rule",
+            "kind": "conditional",
+            "condition": "根據上述說法衍伸出，廉貞坐命者，為人不但很有原則，且會按既有的規定做事，縱使掌權，也不會胡作非為。當然，這是指廉貞在會吉多而會煞少或不會煞時，才是如此。反之，廉貞坐命者，在會煞多而會吉少或不會吉時，為人不僅沒有原則，且行事會依自身利益而做，嚴重時（指廉貞忌煞交沖且會沖火鈴），甚至會利用職權，違法亂紀，最終吃上官司，甚至去坐牢，這也是廉貞又名「囚星」的原因之一，此即《全書，諸星問答篇》談到廉貞時所說的「在斗司品職，在數司權令，不臨廟旺，更犯官符，故曰化囚」。惟須注意的是，當廉貞化祿又會吉時，則無「囚星」的作用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 278,
+              "end": 287,
+              "quote": "當廉貞化祿又會吉時"
+            },
+            {
+              "start": 51,
+              "end": 56,
+              "quote": "廉貞坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 314,
+      "batch": "C0311_C0315_V1",
+      "scope": "c314_rule",
+      "hua": [
+        [
+          0,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c314_rule"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "廉贞",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c314_rule"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c314_rule",
+            "kind": "conditional",
+            "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 271,
+              "quote": "當廉貞化忌或會煞多且又會吉少"
+            },
+            {
+              "start": 86,
+              "end": 96,
+              "quote": "廉貞在任一宮位坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c314_rule",
+            "kind": "conditional",
+            "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "當廉貞化祿又會吉時"
+            },
+            {
+              "start": 86,
+              "end": 96,
+              "quote": "廉貞在任一宮位坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 337,
+      "batch": "C0336_C0340_V4",
+      "scope": "c337_bingxu",
+      "hua": [
+        [
+          1,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c337_bingxu"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "天同",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c337_bingxu"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c337_bingxu",
+            "kind": "case",
+            "condition": "廉貞寅坐命，乙年生人，羊陀分別坐入辰寅二宮（盤五）。廉貞在寅坐命，身宮在辰有破軍坐守，乙年生人，魁鉞分別坐入子申二宮。命身合為廉破加擎羊，造成命造個性剛強，但因命身得魁鉞及化科的吉化，為人行事尚能遵守法度。\n觀諸行限，男命逆行，除丙戌限外，自少到老，行限皆有化祿吉化先天或大限命宮，吉。丙戌限，雖有廉貞化忌在先天命宮，造成先後天命宮皆呈忌煞交沖，但大限遷移辰宮（也是身宮）得天同化祿與祿存吉輔，此時擎羊不為惡，加上丙戌限是第五個大限，此時身宮的作用強過命宮，故此大限只要能謹慎行事，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 191,
+              "end": 200,
+              "quote": "廉貞化忌在先天命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c337_bingxu",
+            "kind": "case",
+            "condition": "廉貞寅坐命，乙年生人，羊陀分別坐入辰寅二宮（盤五）。廉貞在寅坐命，身宮在辰有破軍坐守，乙年生人，魁鉞分別坐入子申二宮。命身合為廉破加擎羊，造成命造個性剛強，但因命身得魁鉞及化科的吉化，為人行事尚能遵守法度。\n觀諸行限，男命逆行，除丙戌限外，自少到老，行限皆有化祿吉化先天或大限命宮，吉。丙戌限，雖有廉貞化忌在先天命宮，造成先後天命宮皆呈忌煞交沖，但大限遷移辰宮（也是身宮）得天同化祿與祿存吉輔，此時擎羊不為惡，加上丙戌限是第五個大限，此時身宮的作用強過命宮，故此大限只要能謹慎行事，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 238,
+              "quote": "大限遷移辰宮（也是身宮）得天同化祿與祿存吉輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 342,
+      "batch": "C0341_C0345_V3",
+      "scope": "c342_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c342_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "廉贞",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c342_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c342_author",
+            "kind": "conditional",
+            "condition": "廉貞坐入宮位忌煞交冲，若再坐會白虎，一輩子就易有糾紛，嚴重時甚至會官司纏身，卻不能說廉貞只要與白虎同宮，就會有「牢獄之災」。\n廉貞在陷地，主命造個性非常急躁，又見屬火的火星或鈴星，因火鈴煞星的煞害作用，會更凸顯廉貞坐命者急躁與情緒不穩的潛在性格。復因自我意識過強，聽不進他人意見，造成命造遇事不順遂時，個性中潛在的極端化性格就會浮現，常不自覺地陷於自己的想法中，想法極端，加之情緒起伏極大，有時會看什麽都不順眼，但有時又會意態消沉，嚴重時甚至有輕生的念頭（憂鬱症的現象），卻不能說一定會「自尋短見」。\n廉貞這種容易陷於自己想法而不克自拔的現象，正是其為囚星的命理現象之一。惟須注意的是，此一現象只有在廉貞化忌不會吉或是廉貞會煞多且會吉少或不會吉時，始是。若是廉貞化祿或會吉多且會煞少或不會煞時，就無此現象。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 481,
+              "end": 488,
+              "quote": "廉貞化忌不會吉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c342_author",
+            "kind": "conditional",
+            "condition": "廉貞坐入宮位忌煞交冲，若再坐會白虎，一輩子就易有糾紛，嚴重時甚至會官司纏身，卻不能說廉貞只要與白虎同宮，就會有「牢獄之災」。\n廉貞在陷地，主命造個性非常急躁，又見屬火的火星或鈴星，因火鈴煞星的煞害作用，會更凸顯廉貞坐命者急躁與情緒不穩的潛在性格。復因自我意識過強，聽不進他人意見，造成命造遇事不順遂時，個性中潛在的極端化性格就會浮現，常不自覺地陷於自己的想法中，想法極端，加之情緒起伏極大，有時會看什麽都不順眼，但有時又會意態消沉，嚴重時甚至有輕生的念頭（憂鬱症的現象），卻不能說一定會「自尋短見」。\n廉貞這種容易陷於自己想法而不克自拔的現象，正是其為囚星的命理現象之一。惟須注意的是，此一現象只有在廉貞化忌不會吉或是廉貞會煞多且會吉少或不會吉時，始是。若是廉貞化祿或會吉多且會煞少或不會煞時，就無此現象。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 510,
+              "end": 527,
+              "quote": "廉貞化祿或會吉多且會煞少或不會煞時"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 349,
+      "batch": "C0346_C0350_V2",
+      "scope": "c349_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c349_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c349_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c349_author",
+            "kind": "conditional",
+            "condition": "天姚又名桃花劫，咸池又名桃花煞，此二星若逢化忌或見煞多，就可能會呈現出非正常男女之情的桃花作用，但若逢化祿或會吉多且會煞少或不會煞，則無此作用。\n廉貪僅在巳亥同宮，因廉貞為桃花星，若再會同為桃花星的貪狼，會益凸顯其桃花作用，加上二者木火相生，使得桃花過旺，此時若再會丙級桃花星，談到男女之情，就會太過豐富，若再會多煞星，就有可能會濫情，甚至出軌。\n不論男女，廉貞坐命再會貪狼、天姚、咸池諸桃花星，此時若再逢化忌或見煞多，就可能會有不正常的男女之情，甚至出軌。但女命是否會因此就去做娼妓或淪落風塵，仍須視實際星曜組合及會煞多寡而定。（有關女命會否做娼妓或淪落風塵的命理現象，請參閱天同星的相關解說。）惟須注意的是，廉貪僅在巳亥同宮，若廉貞與貪狼不為同宮，而命身卻分坐入此二宮位，則上述桃花作用的推論亦成立。\n至於廉貞在卯酉丑未寅申等宮位，三合必有貪狼來會合，若命宮有廉貞坐守，而身宮不在貪狼宮位，在論及桃花作用時，亦有類如廉貪在巳亥的作用，惟其作用較弱。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 119,
+              "quote": "此二星若逢化忌或見煞多"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c349_author",
+            "kind": "conditional",
+            "condition": "天姚又名桃花劫，咸池又名桃花煞，此二星若逢化忌或見煞多，就可能會呈現出非正常男女之情的桃花作用，但若逢化祿或會吉多且會煞少或不會煞，則無此作用。\n廉貪僅在巳亥同宮，因廉貞為桃花星，若再會同為桃花星的貪狼，會益凸顯其桃花作用，加上二者木火相生，使得桃花過旺，此時若再會丙級桃花星，談到男女之情，就會太過豐富，若再會多煞星，就有可能會濫情，甚至出軌。\n不論男女，廉貞坐命再會貪狼、天姚、咸池諸桃花星，此時若再逢化忌或見煞多，就可能會有不正常的男女之情，甚至出軌。但女命是否會因此就去做娼妓或淪落風塵，仍須視實際星曜組合及會煞多寡而定。（有關女命會否做娼妓或淪落風塵的命理現象，請參閱天同星的相關解說。）惟須注意的是，廉貪僅在巳亥同宮，若廉貞與貪狼不為同宮，而命身卻分坐入此二宮位，則上述桃花作用的推論亦成立。\n至於廉貞在卯酉丑未寅申等宮位，三合必有貪狼來會合，若命宮有廉貞坐守，而身宮不在貪狼宮位，在論及桃花作用時，亦有類如廉貪在巳亥的作用，惟其作用較弱。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 140,
+              "end": 157,
+              "quote": "但若逢化祿或會吉多且會煞少或不會煞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 366,
+      "batch": "C0366_C0370_V2",
+      "scope": "c366_father",
+      "hua": [
+        [
+          0,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": "癸",
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c366_father"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "破军",
+            "transformation": "化禄",
+            "tiangan": "癸",
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c366_father"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c366_father",
+            "kind": "case",
+            "condition": "若以盤十二的女命而言，命宮在卯，火星獨踞。當命造行入癸亥限，先生（丁酉年生人）除了涉足風月場所之外，甚至還金屋藏嬌，棄家於不顧，導致命造最後因此而得了憂鬱症。（註十一）\n在本章節中提及，若廉貞坐守宮位忌煞交沖或受剋害時，除可能得到屬火病變外，也可能是心理、精神方面的疾病，如憂鬱症等。\n盤十二女命的廉貞在丑宮，七殺同宮。廉殺在丑本為弱陷宮位，坐會劫空後，就更弱。\n丑宮坐會魁鉞，且得雙祿及左右的吉化，並有鈴星自巳宮來冲。但因丑宮太弱，對吉星的吉化作用的感應力較弱，對凶星的煞害作用的抵抗力亦較弱，雖然三方吉星對之有增吉作用，但力道有限，若是三方的貪狼或武曲一旦化忌，此時鈴星及劫空等屬火星曜就來逞凶，且此煞害力道強過上述吉化力道，則廉貞的邪火作用於焉出現。\n父親為癸酉年（一九三三）生人，母親為甲戌年（一九三四）生人。父親之癸干使貪狼化忌，癸干之擎羊在丑亦來逞凶，使丑宮成為忌煞交冲宮位，廉貞的「邪火」就有作用。又，母親之甲干使廉貞化祿，甲干的祿存在寅與父親癸干的祿存吉輔丑宮，且父親癸干的破軍化祿也吉化丑宮，使丑宮成為雙祿輔祿並會諸祿的宮位。職是之故，丑宮的廉貞「邪火」作用就沒發作出來，直到女命行入癸亥限，貪狼化忌引動前述廉貞「邪火」的潛在凶性，此時女命才會因先生外遇而得了憂鬱症。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 415,
+              "end": 425,
+              "quote": "父親之癸干使貪狼化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c366_father",
+            "kind": "case",
+            "condition": "若以盤十二的女命而言，命宮在卯，火星獨踞。當命造行入癸亥限，先生（丁酉年生人）除了涉足風月場所之外，甚至還金屋藏嬌，棄家於不顧，導致命造最後因此而得了憂鬱症。（註十一）\n在本章節中提及，若廉貞坐守宮位忌煞交沖或受剋害時，除可能得到屬火病變外，也可能是心理、精神方面的疾病，如憂鬱症等。\n盤十二女命的廉貞在丑宮，七殺同宮。廉殺在丑本為弱陷宮位，坐會劫空後，就更弱。\n丑宮坐會魁鉞，且得雙祿及左右的吉化，並有鈴星自巳宮來冲。但因丑宮太弱，對吉星的吉化作用的感應力較弱，對凶星的煞害作用的抵抗力亦較弱，雖然三方吉星對之有增吉作用，但力道有限，若是三方的貪狼或武曲一旦化忌，此時鈴星及劫空等屬火星曜就來逞凶，且此煞害力道強過上述吉化力道，則廉貞的邪火作用於焉出現。\n父親為癸酉年（一九三三）生人，母親為甲戌年（一九三四）生人。父親之癸干使貪狼化忌，癸干之擎羊在丑亦來逞凶，使丑宮成為忌煞交冲宮位，廉貞的「邪火」就有作用。又，母親之甲干使廉貞化祿，甲干的祿存在寅與父親癸干的祿存吉輔丑宮，且父親癸干的破軍化祿也吉化丑宮，使丑宮成為雙祿輔祿並會諸祿的宮位。職是之故，丑宮的廉貞「邪火」作用就沒發作出來，直到女命行入癸亥限，貪狼化忌引動前述廉貞「邪火」的潛在凶性，此時女命才會因先生外遇而得了憂鬱症。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 496,
+              "end": 505,
+              "quote": "父親癸干的破軍化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 366,
+      "batch": "C0366_C0370_V2",
+      "scope": "c366_generic_activation",
+      "hua": [
+        [
+          4,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c366_generic_activation"
+          }
+        ],
+        [
+          5,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c366_generic_activation"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c366_generic_activation",
+            "kind": "conditional",
+            "condition": "盤十二女命的廉貞在丑宮，七殺同宮。廉殺在丑本為弱陷宮位，坐會劫空後，就更弱。\n丑宮坐會魁鉞，且得雙祿及左右的吉化，並有鈴星自巳宮來冲。但因丑宮太弱，對吉星的吉化作用的感應力較弱，對凶星的煞害作用的抵抗力亦較弱，雖然三方吉星對之有增吉作用，但力道有限，若是三方的貪狼或武曲一旦化忌，此時鈴星及劫空等屬火星曜就來逞凶，且此煞害力道強過上述吉化力道，則廉貞的邪火作用於焉出現。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 324,
+              "end": 338,
+              "quote": "若是三方的貪狼或武曲一旦化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c366_generic_activation",
+            "kind": "conditional",
+            "condition": "盤十二女命的廉貞在丑宮，七殺同宮。廉殺在丑本為弱陷宮位，坐會劫空後，就更弱。\n丑宮坐會魁鉞，且得雙祿及左右的吉化，並有鈴星自巳宮來冲。但因丑宮太弱，對吉星的吉化作用的感應力較弱，對凶星的煞害作用的抵抗力亦較弱，雖然三方吉星對之有增吉作用，但力道有限，若是三方的貪狼或武曲一旦化忌，此時鈴星及劫空等屬火星曜就來逞凶，且此煞害力道強過上述吉化力道，則廉貞的邪火作用於焉出現。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 324,
+              "end": 338,
+              "quote": "若是三方的貪狼或武曲一旦化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 367,
+      "batch": "C0366_C0370_V2",
+      "scope": "c367_intact_condition",
+      "hua": [
+        [
+          0,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c367_intact_condition"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "武曲",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c367_intact_condition"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c367_intact_condition",
+            "kind": "conditional",
+            "condition": "但因丑宮太弱，等到三方的贪狼化忌或武曲化忌，此時鈴星及劫空等屬火星曜就來逞凶。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 330,
+              "end": 342,
+              "quote": "三方的贪狼化忌或武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c367_intact_condition",
+            "kind": "conditional",
+            "condition": "但因丑宮太弱，等到三方的贪狼化忌或武曲化忌，此時鈴星及劫空等屬火星曜就來逞凶。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 330,
+              "end": 342,
+              "quote": "三方的贪狼化忌或武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 387,
+      "batch": "C0386_C0390_V3",
+      "scope": "c387_bingshen",
+      "hua": [
+        [
+          3,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_bingshen"
+          }
+        ],
+        [
+          4,
+          {
+            "star": "天同",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": "田宅宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_bingshen"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c387_bingshen",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 198,
+              "end": 211,
+              "quote": "廉貞再度化忌，引動先天命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c387_bingshen",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 220,
+              "end": 233,
+              "quote": "天同化祿亦來引動先天田宅宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 387,
+      "batch": "C0386_C0390_V3",
+      "scope": "c387_dingyou",
+      "hua": [
+        [
+          5,
+          {
+            "star": "巨门",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_dingyou"
+          }
+        ],
+        [
+          6,
+          {
+            "star": "太阴",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_dingyou"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c387_dingyou",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 304,
+              "end": 313,
+              "quote": "巨門化忌沖大限命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.6",
+          "scope": {
+            "scope_id": "c387_dingyou",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 322,
+              "end": 329,
+              "quote": "太陰化祿的吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 387,
+      "batch": "C0386_C0390_V3",
+      "scope": "c387_gengzi",
+      "hua": [
+        [
+          8,
+          {
+            "star": "太阳",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_gengzi"
+          }
+        ],
+        [
+          9,
+          {
+            "star": "天同",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_gengzi"
+          }
+        ],
+        [
+          10,
+          {
+            "star": "武曲",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c387_gengzi"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.8",
+          "scope": {
+            "scope_id": "c387_gengzi",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 498,
+              "end": 514,
+              "quote": "大限命宮得太陽化祿及天同化祿吉輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.9",
+          "scope": {
+            "scope_id": "c387_gengzi",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 498,
+              "end": 514,
+              "quote": "大限命宮得太陽化祿及天同化祿吉輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.10",
+          "scope": {
+            "scope_id": "c387_gengzi",
+            "kind": "case",
+            "condition": "廉貞在申坐命，丙年生人，祿存在巳宮（盤十五）。丙年生人，廉貞化忌入命，陀羅自辰宮來沖，使命宮成忌煞交沖宮位，以不好論。又，先天田宅宮有天同化祿坐守，並得天機化權暨祿存吉化，亥宮成雙祿交馳並坐會祿權宮位，吉。又，先賢註解中的「丙年生人化忌入命，有暗祿」，暗祿在此係指巳宮的祿存。\n觀諸行限，男命順行。丙申限，廉貞再度化忌，引動先天命宮忌煞交沖的凶象，但天同化祿亦來引動先天田宅宮雙祿交馳的吉象。此大限年紀尚小，只要能得到家裡的妥善照顧，廉貞化忌所造成的凶象，有可能是身體健康問題，只要不會沖火鈴，應無大礙。\n丁酉限，雖有巨門化忌沖大限命宮，但酉宮亦得祿存及太陰化祿的吉化，且下一個大限吉旺，故巨門化忌在此僅主辛勞。\n戊戌到庚子連著三個大限，先天或後天命宮若不是有化祿吉化，就是有雙祿吉輔，造成命宮連祿，甚吉。辛丑限，太陽化權入大限命宮，並得祿存吉化，此大限亦吉。\n若再細察限運，自少到老，行限亦利於田宅宮，甚吉。不僅如此，自丁酉到辛丑限，行限造成財帛宮的連祿，甚吉。雖然庚子限的先後天財帛宮並無祿星的吉化，但大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位，因武曲為財帛主又喜化權，故此大限亦等同於財帛宮化祿的作用。另外，自丁酉到庚子限，行限亦造成事業宮的連祿，甚吉。辛丑限，大限事業巳宮本為雙祿交馳，再得太陽化權的吉化，亦吉。\n綜上所述，先天命格雖不佳，但男命行限利於命宮、事業宮及財帛宮，若能選對職業，命宮的忌煞交沖（若不會沖火鈴）僅主辛勞，卻不一定會如先賢註解所言的「無大創造」。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 515,
+              "end": 530,
+              "quote": "使子宮成為雙祿輔武曲化權的宮位"
+            },
+            {
+              "start": 498,
+              "end": 530,
+              "quote": "大限命宮得太陽化祿及天同化祿吉輔，使子宮成為雙祿輔武曲化權的宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 390,
+      "batch": "C0386_C0390_V3",
+      "scope": "c390_later",
+      "hua": [
+        [
+          3,
+          {
+            "star": "贪狼",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c390_later"
+          }
+        ],
+        [
+          4,
+          {
+            "star": "武曲",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c390_later"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c390_later",
+            "kind": "case",
+            "condition": "廉貞在申坐命，庚年生人，祿存在申宮（盤十六）。庚年生人，祿存入命，對命宮有增吉、增穩及護衛作用，吉。又，武曲化權在事業宮，又得祿存旺宮來吉化，既利於武曲財星之財利作用，亦利於武曲將星之行事。惟須注意的是，先天命格雖佳，但嫌太過穩重，行限若間有化忌來沖，只要不會沖火鈴，對事業之開創反有激發作用。\n觀諸行限，男命順行。自甲申到丁亥連著四個大限，先天或大限事業宮若不是有化忌來沖，就是有雙忌夾制，造成事業宮的連忌，只要不再會沖火鈴，因先天命格吉旺，僅主極端艱辛。接著自戊子到己卯限，貪狼與武曲輪著化祿，造成先天命宮的連祿，甚吉。\n\n綜上所述，廉貞在申坐命，庚年生人，命格雖佳，因行限不利，早年歷盡艱辛，到戊子限後，才利於事業之開展。惟戊子限已步入中年，故日「晚景富貴」。\n又，先天田宅宮為陷弱之地，又忌煞交冲，行限亦不利於田宅宮，不得祖蔭，故曰「白手成家」。惟一個人是否能得祖蔭，卻不能單憑田宅宮陷弱即推斷之。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 281,
+              "end": 290,
+              "quote": "貪狼與武曲輪著化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c390_later",
+            "kind": "case",
+            "condition": "廉貞在申坐命，庚年生人，祿存在申宮（盤十六）。庚年生人，祿存入命，對命宮有增吉、增穩及護衛作用，吉。又，武曲化權在事業宮，又得祿存旺宮來吉化，既利於武曲財星之財利作用，亦利於武曲將星之行事。惟須注意的是，先天命格雖佳，但嫌太過穩重，行限若間有化忌來沖，只要不會沖火鈴，對事業之開創反有激發作用。\n觀諸行限，男命順行。自甲申到丁亥連著四個大限，先天或大限事業宮若不是有化忌來沖，就是有雙忌夾制，造成事業宮的連忌，只要不再會沖火鈴，因先天命格吉旺，僅主極端艱辛。接著自戊子到己卯限，貪狼與武曲輪著化祿，造成先天命宮的連祿，甚吉。\n\n綜上所述，廉貞在申坐命，庚年生人，命格雖佳，因行限不利，早年歷盡艱辛，到戊子限後，才利於事業之開展。惟戊子限已步入中年，故日「晚景富貴」。\n又，先天田宅宮為陷弱之地，又忌煞交冲，行限亦不利於田宅宮，不得祖蔭，故曰「白手成家」。惟一個人是否能得祖蔭，卻不能單憑田宅宮陷弱即推斷之。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 281,
+              "end": 290,
+              "quote": "貪狼與武曲輪著化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_temporal_sequence_not_or_choice",
+      "reason": "Explicit 輪著 across stated multiple periods describes both transformations at different times in range, not ambiguous choice of which exists. Range evidence preserved; do not invent each-period mapping."
+    },
+    {
+      "chunk": 396,
+      "batch": "C0396_C0400_V1",
+      "scope": "c396_male",
+      "hua": [
+        [
+          0,
+          {
+            "star": "贪狼",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c396_male"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c396_male"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c396_male",
+            "kind": "conditional",
+            "condition": "觀諸行限，男命順行。除辛酉限外，自少到老，行限皆有化祿吉化先天或大限命宮，甚吉。辛酉限，雖無大限化祿吉化大限命宮，但酉宮為見雙祿的「紫府相朝垣」宮位，甚吉。\n若再細查限運，自少到老，行限於事業宮及財帛宮亦有類如命宮的現象，以吉論。\n如上所述，廉殺在未為旺宮，得貪狼化祿的吉化後，火金相制為用。若為男命，行限利於命宮、事業宮及財帛宮，故命造為富貴命格，一輩子在事業上會較勞碌，但卻不必然會如先賢所說的「但多武職，不然，先勞後逸，刑췐頗重」。若為女命，因行限逆行，行限於命宮雖不若男命吉，大體尚可。惟自丁巳限到老，行限不利於夫妻宮，以不好論。又，傳統論命，認為命帶孤剋者，因不得祖業或祖蔭，若是類似廉殺惡星相剋坐命，七殺又主「孤剋刑殺」，則宜從事武職或技術生產行業。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 172,
+              "end": 180,
+              "quote": "得貪狼化祿的吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c396_male",
+            "kind": "conditional",
+            "condition": "觀諸行限，男命順行。除辛酉限外，自少到老，行限皆有化祿吉化先天或大限命宮，甚吉。辛酉限，雖無大限化祿吉化大限命宮，但酉宮為見雙祿的「紫府相朝垣」宮位，甚吉。\n若再細查限運，自少到老，行限於事業宮及財帛宮亦有類如命宮的現象，以吉論。\n如上所述，廉殺在未為旺宮，得貪狼化祿的吉化後，火金相制為用。若為男命，行限利於命宮、事業宮及財帛宮，故命造為富貴命格，一輩子在事業上會較勞碌，但卻不必然會如先賢所說的「但多武職，不然，先勞後逸，刑췐頗重」。若為女命，因行限逆行，行限於命宮雖不若男命吉，大體尚可。惟自丁巳限到老，行限不利於夫妻宮，以不好論。又，傳統論命，認為命帶孤剋者，因不得祖業或祖蔭，若是類似廉殺惡星相剋坐命，七殺又主「孤剋刑殺」，則宜從事武職或技術生產行業。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 53,
+              "end": 79,
+              "quote": "除辛酉限外，自少到老，行限皆有化祿吉化先天或大限命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 400,
+      "batch": "C0396_C0400_V1",
+      "scope": "c400_general",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c400_general"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c400_general"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c400_general",
+            "kind": "conditional",
+            "condition": "觀諸行限，男命逆行。自少到老，除辛巳限外，先天或後天命宮皆有大限化祿來吉化，雖行限不構成命宮連祿，但仍以吉論，惟因間有化忌冲命宮，於貴有所減損。\n若再細查限運，自少到老，行限造成事業宮及財帛宮的連祿，甚吉。又，辛巳限，巨門化祿與天機化祿吉輔卯宮，卯宮成為雙祿輔祿宮位，大限事業宮在酉無甲級星曜坐守，以卯宮紫貪照入為用，吉。惟須注意的是，行限雖構成事業宮及財帛宮的連祿，但亦間有化忌沖此二宮位，故一輩子在事業及求財方面皆較辛勞。\n綜上所述，廉殺在未坐命，乙年生人，自少到老，行限雖利於命宮，且造成事業宮及財帛宮的連祿，但亦間有化忌沖此三宮位，造成命格於「貴」有所減損，故先賢對此命格的評語為「可富不可貴」。又，先賢註解中的「帝星」係指紫微。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 60,
+              "end": 82,
+              "quote": "除辛巳限外，先天或後天命宮皆有大限化祿來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c400_general",
+            "kind": "conditional",
+            "condition": "觀諸行限，男命逆行。自少到老，除辛巳限外，先天或後天命宮皆有大限化祿來吉化，雖行限不構成命宮連祿，但仍以吉論，惟因間有化忌冲命宮，於貴有所減損。\n若再細查限運，自少到老，行限造成事業宮及財帛宮的連祿，甚吉。又，辛巳限，巨門化祿與天機化祿吉輔卯宮，卯宮成為雙祿輔祿宮位，大限事業宮在酉無甲級星曜坐守，以卯宮紫貪照入為用，吉。惟須注意的是，行限雖構成事業宮及財帛宮的連祿，但亦間有化忌沖此二宮位，故一輩子在事業及求財方面皆較辛勞。\n綜上所述，廉殺在未坐命，乙年生人，自少到老，行限雖利於命宮，且造成事業宮及財帛宮的連祿，但亦間有化忌沖此三宮位，造成命格於「貴」有所減損，故先賢對此命格的評語為「可富不可貴」。又，先賢註解中的「帝星」係指紫微。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 109,
+              "quote": "惟因間有化忌冲命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 400,
+      "batch": "C0396_C0400_V1",
+      "scope": "c400_xinsi",
+      "hua": [
+        [
+          3,
+          {
+            "star": "巨门",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c400_xinsi"
+          }
+        ],
+        [
+          4,
+          {
+            "star": "天机",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c400_xinsi"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c400_xinsi",
+            "kind": "case",
+            "condition": "觀諸行限，男命逆行。自少到老，除辛巳限外，先天或後天命宮皆有大限化祿來吉化，雖行限不構成命宮連祿，但仍以吉論，惟因間有化忌冲命宮，於貴有所減損。\n若再細查限運，自少到老，行限造成事業宮及財帛宮的連祿，甚吉。又，辛巳限，巨門化祿與天機化祿吉輔卯宮，卯宮成為雙祿輔祿宮位，大限事業宮在酉無甲級星曜坐守，以卯宮紫貪照入為用，吉。惟須注意的是，行限雖構成事業宮及財帛宮的連祿，但亦間有化忌沖此二宮位，故一輩子在事業及求財方面皆較辛勞。\n綜上所述，廉殺在未坐命，乙年生人，自少到老，行限雖利於命宮，且造成事業宮及財帛宮的連祿，但亦間有化忌沖此三宮位，造成命格於「貴」有所減損，故先賢對此命格的評語為「可富不可貴」。又，先賢註解中的「帝星」係指紫微。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 167,
+              "quote": "辛巳限，巨門化祿與天機化祿吉輔卯宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c400_xinsi",
+            "kind": "case",
+            "condition": "觀諸行限，男命逆行。自少到老，除辛巳限外，先天或後天命宮皆有大限化祿來吉化，雖行限不構成命宮連祿，但仍以吉論，惟因間有化忌冲命宮，於貴有所減損。\n若再細查限運，自少到老，行限造成事業宮及財帛宮的連祿，甚吉。又，辛巳限，巨門化祿與天機化祿吉輔卯宮，卯宮成為雙祿輔祿宮位，大限事業宮在酉無甲級星曜坐守，以卯宮紫貪照入為用，吉。惟須注意的是，行限雖構成事業宮及財帛宮的連祿，但亦間有化忌沖此二宮位，故一輩子在事業及求財方面皆較辛勞。\n綜上所述，廉殺在未坐命，乙年生人，自少到老，行限雖利於命宮，且造成事業宮及財帛宮的連祿，但亦間有化忌沖此三宮位，造成命格於「貴」有所減損，故先賢對此命格的評語為「可富不可貴」。又，先賢註解中的「帝星」係指紫微。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 167,
+              "quote": "辛巳限，巨門化祿與天機化祿吉輔卯宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 410,
+      "batch": "C0406_C0410_V3",
+      "scope": "c410_author",
+      "hua": [
+        [
+          0,
+          {
+            "star": null,
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c410_author"
+          }
+        ],
+        [
+          1,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c410_author"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 686,
+              "end": 696,
+              "quote": "特別是會有化祿或化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 686,
+              "end": 696,
+              "quote": "特別是會有化祿或化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "shared_predicate_alternative_requires_unresolved",
+      "reason": "One source OR/any-one clause supplies alternative star or transformation objects; current same-scope objects erase alternative selection. Preserve source/summary and actual separate determinate objects, remove unsupported alternatives to explicit transformation-alternative pending. For generic unknown Lu/Ji type comparisons (36/410), preserve contrast concept, do not substitute unknown-term as structural closure."
+    },
+    {
+      "chunk": 420,
+      "batch": "C0416_C0420_V1",
+      "scope": "c420_negative",
+      "hua": [
+        [
+          1,
+          {
+            "star": "贪狼",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c420_negative"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "廉贞",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": "命宫",
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c420_negative"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c420_negative",
+            "kind": "conditional",
+            "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 199,
+              "quote": "若行限造成貪狼化忌或廉貞化忌"
+            },
+            {
+              "start": 49,
+              "end": 55,
+              "quote": "廉貪在巳坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c420_negative",
+            "kind": "conditional",
+            "condition": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 199,
+              "quote": "若行限造成貪狼化忌或廉貞化忌"
+            },
+            {
+              "start": 49,
+              "end": 55,
+              "quote": "廉貪在巳坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "ordinary_scope_separation_review_required",
+      "reason": "Source supplies independently named transformation clauses or explicitly distributed conceptual exceptions (44武曲與巨門均属例外). Separate full branch attribution/scope and accurate evidence, retain shared complete base verbatim. If legal scope cannot express faithfully, record unresolved rather than force a pass. Do not remove valid independent configurations."
+    },
+    {
+      "chunk": 454,
+      "batch": "C0451_C0455_V3",
+      "scope": "c454_natal",
+      "hua": [
+        [
+          0,
+          {
+            "star": "太阴",
+            "transformation": "化禄",
+            "tiangan": "丁",
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_natal"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "天同",
+            "transformation": "化权",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_natal"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "天机",
+            "transformation": "化科",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_natal"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c454_natal",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 79,
+              "end": 95,
+              "quote": "丁年生人，太陰化祿與祿存吉輔命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c454_natal",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 131,
+              "end": 135,
+              "quote": "天同化權"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c454_natal",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 140,
+              "quote": "天機化科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 454,
+      "batch": "C0451_C0455_V3",
+      "scope": "c454_yisi",
+      "hua": [
+        [
+          3,
+          {
+            "star": "太阴",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_yisi"
+          }
+        ],
+        [
+          4,
+          {
+            "star": "巨门",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_yisi"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c454_yisi",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 170,
+              "end": 183,
+              "quote": "太陰化忌與巨門化忌夾制命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c454_yisi",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 170,
+              "end": 183,
+              "quote": "太陰化忌與巨門化忌夾制命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    },
+    {
+      "chunk": 454,
+      "batch": "C0451_C0455_V3",
+      "scope": "c454_early_property",
+      "hua": [
+        [
+          6,
+          {
+            "star": "天机",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_early_property"
+          }
+        ],
+        [
+          7,
+          {
+            "star": "天同",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c454_early_property"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.6",
+          "scope": {
+            "scope_id": "c454_early_property",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 248,
+              "end": 265,
+              "quote": "此二大限天機及天同輪著化祿吉化申宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.7",
+          "scope": {
+            "scope_id": "c454_early_property",
+            "kind": "case",
+            "condition": "廉貪在巳坐命，丁年生人，祿存在午宮（盤三十四）。廉貪在巳為弱陷，丁年生人，太陰化祿與祿存吉輔命宮，命宮由弱轉強，並得魁鉞自亥酉來朝，吉。又，先天田宅宮在申，因太陰化祿、天同化權、天機化科而成為「三奇嘉會」宮位，甚吉。\n觀諸行限，女命順行。乙巳限，太陰化忌與巨門化忌夾制命宮，使命宮成為雙忌夾煞（陀羅）。丙午限，廉貞化忌，使命宮成為忌煞交沖。乙巳及丙午連著二個大限，造成命宮連忌，相當不好。惟須注意的是，此二大限天機及天同輪著化祿吉化申宮，引動先天田宅宮的「三奇嘉會」，甚吉。職是之故，因此二大限年紀尚小，命宮的凶象有可能是建康問題，但只要命宮不會沖火鈴，則不至於造成太嚴重的疾病，只要家人照顧得宜，兼之下一個大限（丁未限）甚吉，應無大礙。自丁未到辛亥限，連著五個大限，先天命宮若不是得大限化祿引動雙祿輔的吉象，就是有大限化祿吉化，或者是大限命宮得大限化祿吉化，造成命宮連祿，甚吉。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 248,
+              "end": 265,
+              "quote": "此二大限天機及天同輪著化祿吉化申宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_temporal_sequence_not_or_choice",
+      "reason": "Explicit 輪著 across stated multiple periods describes both transformations at different times in range, not ambiguous choice of which exists. Range evidence preserved; do not invent each-period mapping."
+    },
+    {
+      "chunk": 459,
+      "batch": "C0456_C0460_V3",
+      "scope": "c459_periods",
+      "hua": [
+        [
+          1,
+          {
+            "star": "太阴",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c459_periods"
+          }
+        ],
+        [
+          2,
+          {
+            "star": "太阳",
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c459_periods"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c459_periods",
+            "kind": "case",
+            "condition": "惟須注意的是，女命廉貪在巳，戊年生人，雖然不一定會有上述的婚姻感情問題，但卻要留意到親情的刑剋問題。女命太陽在戌，不但弱陷且會沖羊陀，而太陰在辰陀羅同踞，並有天機化忌來沖，辰戌二宮皆相當不好。自乙卯到甲子連著四個大限，太陰及太陽輪著化忌，致使辰戌二宮成忌煞交沖，因此就可能會有親情刑剋情事發生，或者是自身健康的問題。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 152,
+              "end": 161,
+              "quote": "太陰及太陽輪著化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c459_periods",
+            "kind": "case",
+            "condition": "惟須注意的是，女命廉貪在巳，戊年生人，雖然不一定會有上述的婚姻感情問題，但卻要留意到親情的刑剋問題。女命太陽在戌，不但弱陷且會沖羊陀，而太陰在辰陀羅同踞，並有天機化忌來沖，辰戌二宮皆相當不好。自乙卯到甲子連著四個大限，太陰及太陽輪著化忌，致使辰戌二宮成忌煞交沖，因此就可能會有親情刑剋情事發生，或者是自身健康的問題。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 152,
+              "end": 161,
+              "quote": "太陰及太陽輪著化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_temporal_sequence_not_or_choice",
+      "reason": "Explicit 輪著 across stated multiple periods describes both transformations at different times in range, not ambiguous choice of which exists. Range evidence preserved; do not invent each-period mapping."
+    },
+    {
+      "chunk": 470,
+      "batch": "C0466_C0470_V2",
+      "scope": "c470_yiyou",
+      "hua": [
+        [
+          0,
+          {
+            "star": "天机",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c470_yiyou"
+          }
+        ],
+        [
+          1,
+          {
+            "star": "太阳",
+            "transformation": "化禄",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c470_yiyou"
+          }
+        ],
+        [
+          2,
+          {
+            "star": null,
+            "transformation": "化忌",
+            "tiangan": null,
+            "palace": null,
+            "source_palace": null,
+            "target_palace": null,
+            "scope_id": "c470_yiyou"
+          }
+        ]
+      ],
+      "evidence": [
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c470_yiyou",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，祿存在申宮（盤三十九）。廉破在酉為弱陷，庚年生人，擎羊同踞，擎羊的凶危煞害作用，會使命造行事易走極端。\n觀諸行限，男命順行。乙酉限，大限化忌不會沖大限命宮，而天機化祿與太陽化祿吉輔大限遷移宮，此大限以吉論。\n丙戌限，廉貞化忌，造成先天命宮忌煞交沖，引動廉貞「與擎羊同宮，是非日有」的凶象，此時正值青少年時期，容易因個性不穩、衝動且偏激而與人起糾紛，此時只要酉宮不會沖火鈴，家人又能照顧得宜，因下個大限尚可，此大限只是過程辛苦，應無大礙。又，廉貞化忌造成先天遷移宮成忌煞交沖，不利於向外或外出。若酉宮再會沖火鈴，就有可能造成較嚴重的健康問題或身體傷害，卻不能說只因「庚生人，擎羊在酉來沖破，主大凶」，就一定會「横死」。\n丁亥限，天府坐守大限命宮，大限化忌不會沖先後天命宮，此大限可。接著，自戊子到己卯限造成命宮的連祿，應以吉論。又，自丁亥到己卯限，行限造成先天事業丑宮的連祿，甚吉。\n線上所述，廉破在酉坐命，庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 138,
+              "end": 154,
+              "quote": "天機化祿與太陽化祿吉輔大限遷移宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c470_yiyou",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，祿存在申宮（盤三十九）。廉破在酉為弱陷，庚年生人，擎羊同踞，擎羊的凶危煞害作用，會使命造行事易走極端。\n觀諸行限，男命順行。乙酉限，大限化忌不會沖大限命宮，而天機化祿與太陽化祿吉輔大限遷移宮，此大限以吉論。\n丙戌限，廉貞化忌，造成先天命宮忌煞交沖，引動廉貞「與擎羊同宮，是非日有」的凶象，此時正值青少年時期，容易因個性不穩、衝動且偏激而與人起糾紛，此時只要酉宮不會沖火鈴，家人又能照顧得宜，因下個大限尚可，此大限只是過程辛苦，應無大礙。又，廉貞化忌造成先天遷移宮成忌煞交沖，不利於向外或外出。若酉宮再會沖火鈴，就有可能造成較嚴重的健康問題或身體傷害，卻不能說只因「庚生人，擎羊在酉來沖破，主大凶」，就一定會「横死」。\n丁亥限，天府坐守大限命宮，大限化忌不會沖先後天命宮，此大限可。接著，自戊子到己卯限造成命宮的連祿，應以吉論。又，自丁亥到己卯限，行限造成先天事業丑宮的連祿，甚吉。\n線上所述，廉破在酉坐命，庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 138,
+              "end": 154,
+              "quote": "天機化祿與太陽化祿吉輔大限遷移宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c470_yiyou",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，祿存在申宮（盤三十九）。廉破在酉為弱陷，庚年生人，擎羊同踞，擎羊的凶危煞害作用，會使命造行事易走極端。\n觀諸行限，男命順行。乙酉限，大限化忌不會沖大限命宮，而天機化祿與太陽化祿吉輔大限遷移宮，此大限以吉論。\n丙戌限，廉貞化忌，造成先天命宮忌煞交沖，引動廉貞「與擎羊同宮，是非日有」的凶象，此時正值青少年時期，容易因個性不穩、衝動且偏激而與人起糾紛，此時只要酉宮不會沖火鈴，家人又能照顧得宜，因下個大限尚可，此大限只是過程辛苦，應無大礙。又，廉貞化忌造成先天遷移宮成忌煞交沖，不利於向外或外出。若酉宮再會沖火鈴，就有可能造成較嚴重的健康問題或身體傷害，卻不能說只因「庚生人，擎羊在酉來沖破，主大凶」，就一定會「横死」。\n丁亥限，天府坐守大限命宮，大限化忌不會沖先後天命宮，此大限可。接著，自戊子到己卯限造成命宮的連祿，應以吉論。又，自丁亥到己卯限，行限造成先天事業丑宮的連祿，甚吉。\n線上所述，廉破在酉坐命，庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 125,
+              "end": 136,
+              "quote": "大限化忌不會沖大限命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "disposition": "retain_not_object_alternative",
+      "reason": "Individual exact evidence states each object separately or simultaneously; 或/任一 refers to external condition, resulting consequence, unspecified palace, or other sentence. No object choice collapse in inspected group."
+    }
+  ],
+  "required": "Only sole author modifies newversions, preserve full text/conditions, stable oldversions, existing holds. Independent repair review required."
+}

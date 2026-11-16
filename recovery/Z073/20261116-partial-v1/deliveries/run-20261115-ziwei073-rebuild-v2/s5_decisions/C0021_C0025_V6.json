@@ -1,0 +1,1758 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "壬年武曲化忌与擎羊同宫坐命的反例中，作者称天府土不再生武曲金，性情、人际、健康及财务可能不利，但明确不能据此断早夭。财星喜财帛田宅，仍须看会吉会煞。",
+        "summary_en": "For the Ren-born counterexample, Wu Qu Hua Ji shares the Life Palace with Qing Yang. The author says Tian Fu no longer generates Wu Qu beneficially, discussing adverse temperament, relationships, health and wealth while explicitly rejecting an automatic prediction of early death. Wealth stars favor Wealth and Property Palaces, but benefic and malefic conditions still govern interpretation.",
+        "keywords": [
+          "壬年",
+          "武曲化忌",
+          "擎羊",
+          "非必早夭",
+          "吉煞条件"
+        ],
+        "keywords_en": [
+          "Ren year",
+          "Wu Qu Hua Ji",
+          "Qing Yang",
+          "no inevitable early death",
+          "conditional benefics and malefics"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "擎羊",
+            "天府"
+          ],
+          "palaces_mentioned": [
+            "命宫",
+            "财帛宫",
+            "田宅宫"
+          ],
+          "topics_mentioned": [
+            "健康医疗",
+            "人际关系",
+            "财运分析"
+          ],
+          "knowledge_domains": [
+            "四化星",
+            "星曜性质"
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "武曲",
+              "transformation": "化忌",
+              "scope_id": "c021_ren",
+              "palace": "命宫",
+              "tiangan": "壬"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                }
+              ],
+              "scope_id": "c021_ren",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c021_ren",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c021_ren",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命",
+              "negated": false
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 61,
+                "quote": "武曲化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 62,
+                "end": 68,
+                "quote": "擎羊同宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 73,
+                "end": 83,
+                "quote": "天府土無法來生武曲金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 147,
+                "end": 157,
+                "quote": "命宮成為忌煞交沖宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c021_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 246,
+                "end": 253,
+                "quote": "以財帛及田宅宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.2",
+            "scope": {
+              "scope_id": "c021_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 246,
+                "end": 253,
+                "quote": "以財帛及田宅宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 159,
+                "end": 167,
+                "quote": "健康比較會有問題"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 123,
+                "end": 133,
+                "quote": "與人相處易有寡合現象"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.2",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 219,
+                "end": 226,
+                "quote": "也相當不利於財"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 61,
+                "quote": "武曲化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 73,
+                "end": 83,
+                "quote": "天府土無法來生武曲金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 68,
+                "quote": "武曲化忌並擎羊同宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 68,
+                "quote": "武曲化忌並擎羊同宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 68,
+                "quote": "武曲化忌並擎羊同宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 57,
+                "end": 68,
+                "quote": "武曲化忌並擎羊同宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c021_ren",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+            },
+            "spans": [
+              {
+                "start": 45,
+                "end": 61,
+                "quote": "如果是壬年生人（盤四），武曲化忌"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c021"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "壬年反例独立条件；明确坐命两星入宫，天府未因前文位置补入。非必早夭保留，中英不当医学事实；年干非流年，原文无损字。 V3仅按新独审与原文核实配置/通论scope及明确入宫比较覆盖。 明示触发干专项：逐读原文因果句，只补对应化曜的触发天干及原scope精确证据；未将相邻年干自动赋予其他化曜。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "禄马交驰不必为吉，须看宫位旺弱吉凶；异乡宜广义理解为向外。古引旺地身命或大限会禄马主异乡富有。作者称寅申巳亥为四生、四马之地，并给出按年干阴阳划分天马落宫的说法。",
+        "summary_en": "Lu Ma Jiao Chi is not inherently favorable: palace strength and benefic or malefic conditions matter, while foreign place is interpreted broadly as outward engagement. The ancient quotation concerns Lu Ma in strong Life/Body or major-period palaces. The author names Yin, Shen, Si and Hai the four growth or horse locations and states a year-stem polarity rule for Tian Ma placement; that claim is retained as the source’s account.",
+        "keywords": [
+          "禄马交驰",
+          "四马之地",
+          "天马",
+          "年干阴阳",
+          "异乡"
+        ],
+        "keywords_en": [
+          "Lu Ma Jiao Chi",
+          "four horse locations",
+          "Tian Ma",
+          "year-stem polarity",
+          "outward engagement"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "天机",
+            "天马"
+          ],
+          "palaces_mentioned": [
+            "身宫",
+            "命宫"
+          ],
+          "topics_mentioned": [
+            "出行迁移",
+            "财运分析"
+          ],
+          "knowledge_domains": [
+            "格局解析"
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "祿馬交馳",
+              "proposed_category": "source_pattern",
+              "reason": "来源明确术语不在注册格局canonical中，保留而不并入禄存天马对星。",
+              "english_surface": "Lu Ma Jiao Chi",
+              "scope_id": "c022_definition"
+            },
+            {
+              "surface": "四馬之地",
+              "proposed_category": "source_branch_group",
+              "reason": "寅申巳亥支位组，不映射十二宫。",
+              "english_surface": "four horse locations",
+              "scope_id": "c022_definition"
+            },
+            {
+              "surface": "四生之地",
+              "proposed_category": "source_branch_group",
+              "reason": "来源四地称谓，保留不改天马年干说法。",
+              "english_surface": "four growth locations",
+              "scope_id": "c022_definition"
+            }
+          ],
+          "time_mentions": [
+            {
+              "time_context": "大限",
+              "scope_id": "c022_ancient",
+              "subject": "古引旺地会禄马的大限",
+              "chart_type": null
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 181,
+                "end": 187,
+                "quote": "在天機星部份"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 224,
+                "end": 232,
+                "quote": "天馬依年干的不同"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 162,
+                "end": 167,
+                "quote": "旺地之身命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 162,
+                "end": 167,
+                "quote": "旺地之身命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 171,
+                "end": 176,
+                "quote": "主異鄉得意"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 177,
+                "end": 179,
+                "quote": "富有"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 47,
+                "end": 51,
+                "quote": "祿馬交馳"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 47,
+                "end": 51,
+                "quote": "祿馬交馳"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c022_ancient",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 157,
+                "end": 170,
+                "quote": "如會祿馬於旺地之身命或大限"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.1",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 247,
+                "end": 265,
+                "quote": "故寅申巳亥四個宮位亦稱為「四馬之地」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.2",
+            "scope": {
+              "scope_id": "c022_definition",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 203,
+                "end": 207,
+                "quote": "四生之地"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c022"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "全文读，禄马缩称未把禄自动选禄存或化禄，天机仅提及。身命古引范围明确，大限时间不推盘类。年干排法即使存疑不擅改为年支，四地条件与吉凶例外双语保留。 V3仅按新独审与原文核实配置/通论scope及明确入宫比较覆盖。 全源完整性核对发现此前证据命中上下文前缀；本次逐读正文，以实际作者定义/讨论及完整必要条件改精确证据，不改标签、其他语义或既有hold。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "盘四图注说明壬年生人武曲天府在子坐命，武曲化忌与擎羊同踞。仅保留到这一完整句；其后带高器疑损的健康寿命推断及零散盘面OCR均排除。",
+        "summary_en": "The intact opening caption of Chart Four states that, for a Ren-born person, Wu Qu and Tian Fu occupy the Life Palace in Zi and Wu Qu Hua Ji shares the location with Qing Yang. Fragmented chart OCR and the following health/longevity assertion containing damaged wording are excluded rather than reconstructed.",
+        "keywords": [
+          "盘四",
+          "壬年",
+          "武曲天府",
+          "武曲化忌",
+          "擎羊"
+        ],
+        "keywords_en": [
+          "Chart Four",
+          "Ren year",
+          "Wu Qu and Tian Fu",
+          "Wu Qu Hua Ji",
+          "Qing Yang"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "天府",
+            "擎羊"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "四化星"
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "武曲",
+              "transformation": "化忌",
+              "scope_id": "c023_caption",
+              "palace": "命宫",
+              "tiangan": "壬"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                }
+              ],
+              "scope_id": "c023_caption",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c023_caption",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c023_caption",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞",
+              "negated": false
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 114,
+                "quote": "武曲天府在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 114,
+                "quote": "武曲天府在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 120,
+                "end": 129,
+                "quote": "武曲化忌並擎羊同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 114,
+                "quote": "武曲天府在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 120,
+                "end": 124,
+                "quote": "武曲化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 120,
+                "end": 129,
+                "quote": "武曲化忌並擎羊同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 129,
+                "quote": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 114,
+                "quote": "武曲天府在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 114,
+                "quote": "武曲天府在子坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c023_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞"
+            },
+            "spans": [
+              {
+                "start": 115,
+                "end": 124,
+                "quote": "壬年生人，武曲化忌"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "盘面OCR不重建；末句高器疑损，整项健康寿命断言排除。",
+          "usable_spans": [
+            {
+              "start": 106,
+              "end": 130,
+              "quote": "武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c023"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "盘面OCR不重建；末句高器疑损，整项健康寿命断言排除。"
+        ],
+        "notes": "逐字看图注，高器不猜高寿，完整前句可独立解释；不用盘OCR，不生成时间盘类，英文与usable同界限。 V3仅按新独审与原文核实配置/通论scope及明确入宫比较覆盖。 明示触发干专项：逐读原文因果句，只补对应化曜的触发天干及原scope精确证据；未将相邻年干自动赋予其他化曜。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "天马表外动，宫位坐会化禄或禄存及天马称禄马交驰，吉凶须看旺弱。武曲旺宫坐命身、会禄再会天马有利向外；现代未必亲赴异乡。大限同理，但仍不可忽视先天命宫。",
+        "summary_en": "Tian Ma signifies outward motion. Lu Ma Jiao Chi involves Hua Lu or Lu Cun with Tian Ma, but its outcome depends on palace strength and benefic/malefic conditions. Wu Qu in a strong Life or Body Palace with Lu and Tian Ma supports outward engagement, which need not require physical travel today. The same interpretation can apply to a major period, while the natal Life Palace remains essential.",
+        "keywords": [
+          "禄马交驰",
+          "天马",
+          "化禄或禄存",
+          "武曲",
+          "先天命宫"
+        ],
+        "keywords_en": [
+          "Lu Ma Jiao Chi",
+          "Tian Ma",
+          "Hua Lu or Lu Cun",
+          "Wu Qu",
+          "natal Life Palace"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "天马",
+            "禄存",
+            "武曲"
+          ],
+          "palaces_mentioned": [
+            "命宫",
+            "身宫"
+          ],
+          "knowledge_domains": [
+            "格局解析",
+            "四化星"
+          ],
+          "topics_mentioned": [
+            "出行迁移",
+            "财运分析"
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "祿馬交馳",
+              "proposed_category": "source_pattern",
+              "reason": "来源明确术语不在注册格局canonical中，保留而不并入禄存天马对星。",
+              "english_surface": "Lu Ma Jiao Chi",
+              "scope_id": "c024_definition"
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": null,
+              "transformation": "化禄",
+              "scope_id": "c024_lu"
+            }
+          ],
+          "time_mentions": [
+            {
+              "time_context": "大限",
+              "scope_id": "c024_definition",
+              "subject": "武曲旺宫坐会禄马的大限",
+              "chart_type": null
+            },
+            {
+              "time_context": "本命",
+              "scope_id": "c024_definition",
+              "subject": "须兼顾的先天命宫",
+              "chart_type": null
+            }
+          ],
+          "relations": []
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 41,
+                "end": 47,
+                "quote": "天馬在賦性主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 78,
+                "end": 83,
+                "quote": "化祿或祿存"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 188,
+                "end": 195,
+                "quote": "當武曲旺宮坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 395,
+                "end": 399,
+                "quote": "先天命宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 213,
+                "end": 218,
+                "quote": "命（身）宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 61,
+                "end": 98,
+                "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 78,
+                "end": 83,
+                "quote": "化祿或祿存"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 341,
+                "end": 343,
+                "quote": "向外"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 224,
+                "end": 229,
+                "quote": "武曲利於財"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 61,
+                "end": 98,
+                "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c024_lu",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若坐會有祿星（化祿或祿存）及天馬"
+            },
+            "spans": [
+              {
+                "start": 78,
+                "end": 83,
+                "quote": "化祿或祿存"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.star",
+            "scope": {
+              "scope_id": "c024_lu",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若坐會有祿星（化祿或祿存）及天馬"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 349,
+                "end": 362,
+                "quote": "若是大限逢武曲旺宮坐會祿馬"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.1",
+            "scope": {
+              "scope_id": "c024_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 390,
+                "end": 402,
+                "quote": "仍不可忽視先天命宮的作用"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c024"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "C024命（身）括注仅有此原句，未明确同时入命与身；两肯定关系移除，原文括注与摘要适用范围保留。括注语义需独立门禁，非显式OR，不能借未来any_of自动闭环。"
+        ],
+        "notes": "全读，化禄或禄存非同时必要条件，星未知化禄独立null。坐会不推出禄存天马同宫关系；格局为定义讨论非个案成格。大限与先天时间分列不推盘类，英文保留现代向外及旺弱限制。 V3仅按新独审与原文核实配置/通论scope及明确入宫比较覆盖。 OR专项：原文和互择摘要保留，删除肯定入宫不能当作完成，当前语义门禁未闭合。 本次是括注参与者范围歧义，不把它直接改写成或。 全源完整性核对发现此前证据命中上下文前缀；本次逐读正文，以实际作者定义/讨论及完整必要条件改精确证据，不改标签、其他语义或既有hold。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "四马之地本身无作用，星曜坐入才体现较动。作者将杀破狼列为动、紫微天府列为静；不计其他星时，天府巳比酉活泼、七杀寅比戌冲劲强。以此补充武曲禄马交驰的向外意义，注明1995年课程来源。",
+        "summary_en": "The four horse locations have no effect by themselves; occupied stars are described as more active. Sha Po Lang are classed as active, Zi Wei and Tian Fu as quiet. Holding other stars aside, Tian Fu in Si is compared with You, and Qi Sha in Yin with Xu. The discussion extends Wu Qu’s Lu Ma Jiao Chi outward symbolism and cites teaching delivered in late 1995.",
+        "keywords": [
+          "四马之地",
+          "杀破狼",
+          "紫微天府",
+          "动静",
+          "条件比较"
+        ],
+        "keywords_en": [
+          "four horse locations",
+          "Sha Po Lang",
+          "Zi Wei and Tian Fu",
+          "motion and stillness",
+          "conditional comparison"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "七杀",
+            "破军",
+            "贪狼",
+            "紫微",
+            "天府",
+            "天马",
+            "武曲"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "格局解析"
+          ],
+          "topics_mentioned": [
+            "出行迁移"
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "祿馬交馳",
+              "proposed_category": "source_pattern",
+              "reason": "来源明确术语不在注册格局canonical中，保留而不并入禄存天马对星。",
+              "english_surface": "Lu Ma Jiao Chi",
+              "scope_id": "c025_motion"
+            },
+            {
+              "surface": "四馬之地",
+              "proposed_category": "source_branch_group",
+              "reason": "支位类别，不当独立星或十二宫。",
+              "english_surface": "four horse locations",
+              "scope_id": "c025_motion"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫",
+                  "location": "巳"
+                }
+              ],
+              "scope_id": "c025_tianfu_0",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫",
+                  "location": "酉"
+                }
+              ],
+              "scope_id": "c025_tianfu_1",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "七杀"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫",
+                  "location": "寅"
+                }
+              ],
+              "scope_id": "c025_qisha_0",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些。同理，原來主「動」的星曜進入四馬之地後，就會動得更厲害。例如，七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "七杀"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫",
+                  "location": "戌"
+                }
+              ],
+              "scope_id": "c025_qisha_1",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些。同理，原來主「動」的星曜進入四馬之地後，就會動得更厲害。例如，七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些。",
+              "negated": false
+            }
+          ],
+          "comparison_methods": [
+            "宫位对照"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 143,
+                "end": 149,
+                "quote": "殺、破、狼主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 143,
+                "end": 149,
+                "quote": "殺、破、狼主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 143,
+                "end": 149,
+                "quote": "殺、破、狼主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 158,
+                "end": 165,
+                "quote": "紫微、天府則主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 158,
+                "end": 165,
+                "quote": "紫微、天府則主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 171,
+                "end": 177,
+                "quote": "天馬的賦性主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 390,
+                "end": 398,
+                "quote": "武曲坐入四馬之地"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 276,
+                "end": 282,
+                "quote": "天府在巳坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 129,
+                "end": 138,
+                "quote": "主「動」與主「靜」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 403,
+                "end": 407,
+                "quote": "祿馬交馳"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 417,
+                "end": 421,
+                "quote": "異鄉得意"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 403,
+                "end": 407,
+                "quote": "祿馬交馳"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.1",
+            "scope": {
+              "scope_id": "c025_motion",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 75,
+                "end": 114,
+                "quote": "就地支宮位本身來看，四馬之地並無作用，但若有星曜坐入時，就會因之而有不同的作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.comparison_methods.0",
+            "scope": {
+              "scope_id": "c025_comparison",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 276,
+                "end": 300,
+                "quote": "天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c025_tianfu_0",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+            },
+            "spans": [
+              {
+                "start": 276,
+                "end": 283,
+                "quote": "天府在巳坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c025_tianfu_1",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+            },
+            "spans": [
+              {
+                "start": 288,
+                "end": 295,
+                "quote": "天府在酉坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c025_qisha_0",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些。同理，原來主「動」的星曜進入四馬之地後，就會動得更厲害。例如，七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些。"
+            },
+            "spans": [
+              {
+                "start": 332,
+                "end": 339,
+                "quote": "七殺在寅坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c025_qisha_1",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些。同理，原來主「動」的星曜進入四馬之地後，就會動得更厲害。例如，七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些。"
+            },
+            "spans": [
+              {
+                "start": 350,
+                "end": 357,
+                "quote": "七殺在戌坐命者"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c025"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "杀破狼为明确缩称提及，不推同宫；四马不补未列支位。巳酉与寅戌比较及不计他星条件保留。1995授课非命盘时间，英文保留条件，原文更深ー层轻微字形不损语义。 V3仅按新独审与原文核实配置/通论scope及明确入宫比较覆盖。 全源完整性核对发现此前证据命中上下文前缀；本次逐读正文，以实际作者定义/讨论及完整必要条件改精确证据，不改标签、其他语义或既有hold。"
+      }
+    }
+  ]
+}

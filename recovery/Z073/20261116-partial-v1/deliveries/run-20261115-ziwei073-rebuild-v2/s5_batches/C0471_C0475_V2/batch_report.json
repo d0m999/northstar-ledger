@@ -1,0 +1,1700 @@
+{
+  "status": "candidate_validated_structure_not_S6",
+  "source_id": "ziwei_073",
+  "field_evidence": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c471",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "廉破在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "廉破在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 200,
+              "end": 204,
+              "quote": "擎羊入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "廉破在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 239,
+              "end": 247,
+              "quote": "利於命宮與事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "廉破在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "廉破在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 200,
+              "end": 204,
+              "quote": "擎羊入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 204,
+              "quote": "廉破在酉坐命，庚年生人，擎羊入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 223,
+              "quote": "先天命格雖不佳"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 231,
+              "end": 234,
+              "quote": "丙戌限"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c471_caption",
+            "kind": "case",
+            "condition": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 264,
+              "quote": "廉破在酉坐命，庚年生人，擎羊入命，會使命造行事易走極端，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c471"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c472",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 57,
+              "end": 62,
+              "quote": "祿存在申宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 77,
+              "end": 87,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 77,
+              "end": 87,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 153,
+              "end": 160,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 153,
+              "end": 160,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 77,
+              "end": 87,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.1",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 153,
+              "end": 160,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 90,
+              "end": 102,
+              "quote": "壬午、癸未、甲申三個大限"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 109,
+              "end": 111,
+              "quote": "連忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 122,
+              "quote": "連祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 216,
+              "quote": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c472_case",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 216,
+              "quote": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c472"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c473",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉貞在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 75,
+              "end": 82,
+              "quote": "廉破在酉為弱陷"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉貞在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 164,
+              "quote": "利於命宮與事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉貞在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c473_mao",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。庚年生人，因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 184,
+              "end": 190,
+              "quote": "廉貞在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c473_mao_yi",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 196,
+              "end": 204,
+              "quote": "因間有化忌沖命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c473_mao_yi",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c473_mao_geng",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。庚年生人，因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 241,
+              "end": 248,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c473_mao_geng",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。庚年生人，因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 241,
+              "end": 248,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c473_mao_geng",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。庚年生人，因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 241,
+              "end": 248,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 148,
+              "end": 151,
+              "quote": "丙戌限"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 41,
+              "end": 182,
+              "quote": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c473_mao_yi",
+            "kind": "case",
+            "condition": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 182,
+              "end": 217,
+              "quote": "至於廉貞在卯坐命，乙年生人，因間有化忌沖命宮，故此命格者應是富大於貴。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 75,
+              "end": 82,
+              "quote": "廉破在酉為弱陷"
+            },
+            {
+              "start": 45,
+              "end": 51,
+              "quote": "廉貞在酉坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c473_you",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 75,
+              "end": 82,
+              "quote": "廉破在酉為弱陷"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c473_you_geng",
+            "kind": "case",
+            "condition": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+            "attribution": "作者酉命庚年分支，保完整酉命共同基础"
+          },
+          "spans": [
+            {
+              "start": 128,
+              "end": 140,
+              "quote": "庚年生人，先天命格雖不佳"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c473"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c474",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 199,
+              "end": 209,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 199,
+              "end": 209,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 232,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 232,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 199,
+              "end": 209,
+              "quote": "羊陀分自酉未二宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.1",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 232,
+              "quote": "命宮不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 191,
+              "quote": "廉破在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c474_caption",
+            "kind": "conditional",
+            "condition": "廉破在卯坐命，庚年生人，雖有羊陀分自酉未二宮來沖，但因行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 220,
+              "end": 222,
+              "quote": "連忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c474"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c475",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 484,
+              "end": 489,
+              "quote": "廉貞主品秩"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 535,
+              "end": 544,
+              "quote": "將軍與廉貞同宮坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 535,
+              "end": 544,
+              "quote": "將軍與廉貞同宮坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 535,
+              "end": 544,
+              "quote": "將軍與廉貞同宮坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 535,
+              "end": 544,
+              "quote": "將軍與廉貞同宮坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 535,
+              "end": 544,
+              "quote": "將軍與廉貞同宮坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c475_classic",
+            "kind": "conditional",
+            "condition": "《全書，註解骨髓賦》云：「仲由威猛，廉貞入廟遇將軍。」《全書》對此有註解如下：「命立申宮，廉貞、將軍坐守是也，餘倣此。」先賢於此亦有同樣的賦文，並進一步說明如下：「仲由又名子路，孔夫子之門生，威猛正直，此類格局，以廉貞入命，甲生人命坐午宫，乙生人命坐亥宫，丙戊年生人命在酉宮，丁己年生人命在寅宮，庚生人命坐子，辛生人命坐巳宮，壬生人安命在卯，癸生人坐申宫。然必廟旺，陷地，作凶暴論之。」\n",
+            "attribution": "全书短赋与先贤逐年注；庙旺/陷地条件原文保留"
+          },
+          "spans": [
+            {
+              "start": 83,
+              "end": 97,
+              "quote": "命立申宮，廉貞、將軍坐守是也"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c475_classic",
+            "kind": "conditional",
+            "condition": "《全書，註解骨髓賦》云：「仲由威猛，廉貞入廟遇將軍。」《全書》對此有註解如下：「命立申宮，廉貞、將軍坐守是也，餘倣此。」先賢於此亦有同樣的賦文，並進一步說明如下：「仲由又名子路，孔夫子之門生，威猛正直，此類格局，以廉貞入命，甲生人命坐午宫，乙生人命坐亥宫，丙戊年生人命在酉宮，丁己年生人命在寅宮，庚生人命坐子，辛生人命坐巳宮，壬生人安命在卯，癸生人坐申宫。然必廟旺，陷地，作凶暴論之。」\n",
+            "attribution": "全书短赋与先贤逐年注；庙旺/陷地条件原文保留"
+          },
+          "spans": [
+            {
+              "start": 83,
+              "end": 97,
+              "quote": "命立申宮，廉貞、將軍坐守是也"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c475_classic",
+            "kind": "conditional",
+            "condition": "《全書，註解骨髓賦》云：「仲由威猛，廉貞入廟遇將軍。」《全書》對此有註解如下：「命立申宮，廉貞、將軍坐守是也，餘倣此。」先賢於此亦有同樣的賦文，並進一步說明如下：「仲由又名子路，孔夫子之門生，威猛正直，此類格局，以廉貞入命，甲生人命坐午宫，乙生人命坐亥宫，丙戊年生人命在酉宮，丁己年生人命在寅宮，庚生人命坐子，辛生人命坐巳宮，壬生人安命在卯，癸生人坐申宫。然必廟旺，陷地，作凶暴論之。」\n",
+            "attribution": "全书短赋与先贤逐年注；庙旺/陷地条件原文保留"
+          },
+          "spans": [
+            {
+              "start": 83,
+              "end": 97,
+              "quote": "命立申宮，廉貞、將軍坐守是也"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c475_author",
+            "kind": "conditional",
+            "condition": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 484,
+              "end": 583,
+              "quote": "廉貞主品秩與權令，又為北斗剛星，若廉貞宮位吉旺者，為人威猛正直，若廉貞宮位凶弱者，則為人凶暴陰狠。設若將軍與廉貞同宮坐命，視廉貞宮位的吉旺或凶弱，將軍會強化命造在「威猛正直」或「凶暴陰狠」的一面。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c475"
+      ]
+    }
+  ],
+  "quality_reviews": [
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "只保连续完整图注，原盘碎字不取"
+      ],
+      "notes": "命三同直接证据，后多吉/安全过丙戌全条件保，不把可有成写必定富贵；图上太阴忌等不采，bare限不猜大限。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c471"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "缓和是OR不是AND，英文关系明确不冲非无星。羊陀来源酉未不按序配单星、不当命同宫；禄存申功能未知。后酉例回指比较不把本卯改酉。化曜连状态不造每限星/干。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c472"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "卯乙/庚scope保共同卯基础及分年，酉三年完整分支不赋全体同条件。破军只在酉弱陷被提及，没明言其功能宫本块保不猜，不借前471/472关系。未把庚减轻OR变AND，中文财富可能与辛苦非保证。 酉廉破弱陷与廉酉命双证据支持破命，新增仅酉段不扩卯；庚先天明示补本命对象非盘类。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c473"
+    },
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "只保连续完整图注，原盘碎字不取"
+      ],
+      "notes": "否定连忌仅原术语，不造化曜，source术语不代表肯定成立。羊陀是冲非同入命；庚year不用于补武权同忌。原OR两缓和分支不改，非医学保证。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c474"
+    },
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "依S4将军/博士混称的若博士至注十二整段排除，保前一般依附原则/将军定义与后明确廉将军论，不修博士为将军。"
+      ],
+      "notes": "博士十二神是将军类别说明，不把博士单独星精确规则从混称段提取。古引不同年不同地支没有同一星多功能宫互择，功能命已明确；不把每生年映四化或时间盘。吉旺/凶弱条件仍各层原文，不把传统人格断言作现实评价。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c475"
+    }
+  ],
+  "author_decision": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+    "bytes": 99160,
+    "sha256": "55aeb30b1acaece20f0df97099383940fe4ba358af2238ceb3ca047ab196d5aa"
+  },
+  "plan": {
+    "path": "preparation/S5_AUTHOR_PLAN_V1.json",
+    "bytes": 5313,
+    "sha256": "5e367c21c85a08d8ff8a8077a673b723b75956bc1a4889cf340ab41f9257de3d"
+  },
+  "approval": {
+    "path": "preparation/INDEPENDENT_PREPARATION_APPROVAL_S5_V1.json",
+    "bytes": 2548,
+    "sha256": "31a199d67acf3da0c10dec764238ca04455a98241021f6761d599b3f357c8e0e"
+  },
+  "annotations": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/annotations.jsonl",
+    "bytes": 85939,
+    "sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5"
+  },
+  "chunks": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/deliveries/run-20261115-ziwei073-rebuild-v2/versions/APPROVED_S3/04_chunked/ziwei/ziwei_073.jsonl",
+    "bytes": 578114,
+    "sha256": "21f3621881c7f7c2e818a63b3deb860ca4052cbce48d578b14fed75fe0febb33"
+  },
+  "whole_source_complete": false,
+  "baseline_read": false,
+  "runtime_manifest": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/package/amendments/AB-v1/runtime_manifest.json",
+    "bytes": 7320,
+    "sha256": "0b5b0594cff65d3d2047994c23b65e4c9c1f0993c50052cf15ba0e91e45a0dbb"
+  }
+}

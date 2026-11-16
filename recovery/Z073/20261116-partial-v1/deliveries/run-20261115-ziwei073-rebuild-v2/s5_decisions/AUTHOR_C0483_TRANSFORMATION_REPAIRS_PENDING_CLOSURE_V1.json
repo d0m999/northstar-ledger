@@ -1,0 +1,1239 @@
+{
+  "timestamp_utc": "2026-11-15T23:03:19.377115+00:00",
+  "kind": "read_only_integrity_not_semantic_gate",
+  "coverage": [
+    1,
+    483
+  ],
+  "candidate_rows": 483,
+  "unique_ids": 483,
+  "batch_count": 97,
+  "evidence_count": 7646,
+  "scope_mirror_count": 2573,
+  "retrieval_status_counts": {
+    "eligible": 285,
+    "limited": 184,
+    "archive_only": 14
+  },
+  "errors": [],
+  "source_04_sha256": "21f3621881c7f7c2e818a63b3deb860ca4052cbce48d578b14fed75fe0febb33",
+  "open_semantic_holds": [
+    9,
+    24,
+    105,
+    110,
+    154,
+    160,
+    188,
+    302,
+    306,
+    324,
+    355,
+    410,
+    442
+  ],
+  "representation_pending": [
+    15,
+    26,
+    27,
+    30,
+    36,
+    41,
+    146,
+    350,
+    353,
+    366,
+    406,
+    410,
+    426,
+    438,
+    440
+  ],
+  "c015_pending_kind": "four_transformation_object_alternatives_not_relation_only",
+  "remote_backup_gaps": [
+    {
+      "path": "s5_batches/C0231_C0235_V3/batch_report.json",
+      "bytes": 126847,
+      "sha256": "bad492e0bdb5d9da8bb3bf571a655752ca8c10be13a6859a111389d0675c0920",
+      "status": "upload_failed_do_not_retry_or_repackage",
+      "local_unchanged": true
+    },
+    {
+      "path": "preparation/s5_reviews/TRIGGER_STEM_CONTEXT_REVIEW_PART01_V1.json",
+      "bytes": 6384,
+      "sha256": "ce57f7f4469676f71d74abe7c361debcd568f5d81a33101f873c5b52e04854ed",
+      "status": "upload_failed_do_not_retry_or_repackage",
+      "local_unchanged": true
+    }
+  ],
+  "whole_source_S5_passed": false,
+  "S6_passed": false,
+  "final_uploaded": false,
+  "old_baseline_or_S7_read": false,
+  "candidates": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V3/annotations.jsonl",
+      "bytes": 54664,
+      "sha256": "de3e0bde0e950e47ffc5139768dd0a85a8f5a7fe5d876f2cb9dc24ef94c6b83a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "decision_sha256": "60396ef3f3331a1a65a63b289a8bbeb5c44762d8db274c713657b87c0548bda2",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V4/annotations.jsonl",
+      "bytes": 44248,
+      "sha256": "cbaebe953c3e3c79d0f919fd8d464482909e453c9cb04b4af1d31cd6f4e9960a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "decision_sha256": "f104a76c821e38e7d9291713fa04d9f0ea2a1a9056f3fef09e6a81206ebedfcd",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V4/annotations.jsonl",
+      "bytes": 76619,
+      "sha256": "ab3765f72cf252a5faa9eca1bd09df1a10537b56f58ac2a3cc6503afaf0ec743",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "decision_sha256": "fce9208a8d6ebaca0fbf8a51d850ebf1dfe070f6492ac36c125762b1af6f3077",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0016_C0020_V4/annotations.jsonl",
+      "bytes": 57175,
+      "sha256": "337decdd7aac38af416679c5572ef3b164d51acb958f9aca0962621cafb2db19",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0016_C0020_V4.json",
+      "decision_sha256": "c5ab12e463a8390729a6cbd82099f90bfdb27ed25d302363bae2a471c37fc080",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V6/annotations.jsonl",
+      "bytes": 53205,
+      "sha256": "de73b3f55dec9c6a6c02901d738ede0289293b7e51b738cc6a622da788294886",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "decision_sha256": "21619b93a08aa4851ff551c2d5338e64c32d85a6519fd0ab6452325182ff20b8",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V7/annotations.jsonl",
+      "bytes": 56975,
+      "sha256": "5acb24399dae6931deb842687b66f4b6eb6906b4a8f49c57dd71bab6767a3a0d",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "decision_sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V3/annotations.jsonl",
+      "bytes": 29044,
+      "sha256": "e98b87cbb826265757c3feb4db18ef17d7b19c1fd9fec867dbc0801a06f2ae93",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0031_C0035_V3.json",
+      "decision_sha256": "a99fe508f0459acefa6eb924c99c112383485a183b752dfdcfef9a445a788fe4",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V4/annotations.jsonl",
+      "bytes": 56989,
+      "sha256": "90492b460f834e03735f6aad9c99fed769b6979d7fa30ef887c652ba1be01536",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0036_C0040_V4.json",
+      "decision_sha256": "bc83e67164e13d8d98b5dbebf9dd3a720f1fb647ffe813f6d387d6f1ad7fabbf",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V6/annotations.jsonl",
+      "bytes": 64604,
+      "sha256": "dec74e0b9699e95e1b052c06dc97d413242fd4c7e2383b20fd00944f4d5660f8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0041_C0045_V6.json",
+      "decision_sha256": "7aa52a26fc8fbb0aa691443e35baf4a32c70e03b92760345789077d551c8832a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V5/annotations.jsonl",
+      "bytes": 88280,
+      "sha256": "81d84b002ffbcad92ea745fa0155becac740c09a96bae22b363fe2394e7dff56",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0046_C0050_V5.json",
+      "decision_sha256": "20d6dd1a310016c5c9c51b993f9f6a6728429845e9598f5b3850e9d84d30696f",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V3/annotations.jsonl",
+      "bytes": 85229,
+      "sha256": "60bbe69da5909ae5e33660eed4f0ef7ef36b0fcafc368965c11d8d62e82f173b",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0051_C0055_V3.json",
+      "decision_sha256": "ac5faf88eee188dc496caecbeae52816ed1765c2be47dbdf42789d3d9b28e777",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V4/annotations.jsonl",
+      "bytes": 60382,
+      "sha256": "5265ce58236af2d4109a5313438760ed0d8e794197d5b2284bed24af5697ca2c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0056_C0060_V4.json",
+      "decision_sha256": "ed9d4f3108c2635faaf9c80ccd4774ea1af4c56c357200034c366ce01463e989",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0061_C0065_V2/annotations.jsonl",
+      "bytes": 33889,
+      "sha256": "176df4104d914f7dad24ad0e5e75a69b40d2191c5b121cf5ae3332a9440754af",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0061_C0065_V2.json",
+      "decision_sha256": "d6e0d4887065f7dad5653225edd4bc7c4d40db2ead6c7ab133449363cdf9abf6",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0066_C0070_V2/annotations.jsonl",
+      "bytes": 52261,
+      "sha256": "b88db6e22a5bde344e7bc70b1d0518b0fb006dca246b53b3d6abee9374db8aa9",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0066_C0070_V2.json",
+      "decision_sha256": "33c38bd7afee10b93710786756cb0a1904565dbe72ce14ac6f9702c088b85d74",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0071_C0075_V1/annotations.jsonl",
+      "bytes": 63615,
+      "sha256": "666cf09a799e7a335e24a79bf5704d708d0a26ec745e4aebbdcc19471ef5f09a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0071_C0075_V1.json",
+      "decision_sha256": "c5b8ccc4ffca77d4f264f0d221791e6aa43543072828f83acacdb7c57753ef57",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0076_C0080_V3/annotations.jsonl",
+      "bytes": 84753,
+      "sha256": "625ca279c002af4f61b473b15594804a43c61d02ceaa01013f14422293aab909",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0076_C0080_V3.json",
+      "decision_sha256": "75c568ee1a765f3f9fdc10eae0afbf4a74b6649b43ee9fbad60c514de8cfc209",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0081_C0085_V4/annotations.jsonl",
+      "bytes": 104523,
+      "sha256": "a9e8fd00ac5c2269da686f3e48ab31b331a73d50368951df669815f2e902d536",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0081_C0085_V4.json",
+      "decision_sha256": "e3622bebe796ad7a018e3944b4ab6697877a0a976aec67ba082c965982ba1de3",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0086_C0090_V3/annotations.jsonl",
+      "bytes": 73905,
+      "sha256": "13e5212c2c5650148d97005ceaf2ce81f192135f5b61e45cc71c95c0e131afbc",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0086_C0090_V3.json",
+      "decision_sha256": "dd1e7b6d6c776c8b436236ebda8a4f6eb88e79ea7d04c29671d58538211a2fc8",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0091_C0095_V2/annotations.jsonl",
+      "bytes": 85690,
+      "sha256": "decb611468cbcce2885a8e23141a93419dc61dc97d40475546dcb48f5caef4cb",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0091_C0095_V2.json",
+      "decision_sha256": "8068d0820ba437d319381d0b465f8eb79f015e857afa25528e7e19622405cfae",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0096_C0100_V6/annotations.jsonl",
+      "bytes": 117003,
+      "sha256": "5dd225de289ad27fc7013a1f7885fd921cc2a9d20309074fd2d8f87c80886551",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0096_C0100_V6.json",
+      "decision_sha256": "1039603c243cba414fb8d63e11fac1499fc2c1afc0bc66c54de6b96b52e12c0f",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        101,
+        105
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0101_C0105_V4/annotations.jsonl",
+      "bytes": 117195,
+      "sha256": "75bc9e361baebaa4b54952c520fbe646dc9a3ecaa61341c251bcd9c075d0b29a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0101_C0105_V4.json",
+      "decision_sha256": "2b085cb9908e6f1c19ec4f6a75e03d53841f652b61a66906bb659ebb045c2fdc",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        106,
+        110
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0106_C0110_V4/annotations.jsonl",
+      "bytes": 124131,
+      "sha256": "0567c730db5c86f1dc5d1c16ebd610ab5ba17e33179d14f46e4c70965cb5372b",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0106_C0110_V4.json",
+      "decision_sha256": "308ce47026db13536dab64f0f1c0fe6f17ae80054763f8a63518edc5a180b2ec",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        111,
+        115
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0111_C0115_V2/annotations.jsonl",
+      "bytes": 95360,
+      "sha256": "421b18400218d697e2a7c1949ca9498290aa914902a88a6b8c23688184cf052f",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0111_C0115_V2.json",
+      "decision_sha256": "afcf3af684ba5ad91364e2a366573128bf939635bab6453b41850891eb65da57",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        116,
+        120
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0116_C0120_V3/annotations.jsonl",
+      "bytes": 85796,
+      "sha256": "fe0b630a0882fb1d3eeafb8e4eafbe8a962c04c48d7cf46101296b4538cfb401",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0116_C0120_V3.json",
+      "decision_sha256": "1998504e51501808de6fb18a1a9fa889c5fa145fc66dacbc5c4575bd5a579dc8",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        121,
+        125
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0121_C0125_V1/annotations.jsonl",
+      "bytes": 45503,
+      "sha256": "3599ebdc035ff6b8af3c9d41ebe295d26f55e2f6f5288f72864df21f6ecb1dfa",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0121_C0125_V1.json",
+      "decision_sha256": "20fbd1b9380f0a1dfec4f4dc5467b0f242698b9c7af2098859b6350f4530e6ee",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        126,
+        130
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0126_C0130_V2/annotations.jsonl",
+      "bytes": 90208,
+      "sha256": "bb8b08e8e276a1461cc04bf72e85036ea86198fa90482962d5b1765b889a5d4a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0126_C0130_V2.json",
+      "decision_sha256": "b26d790ac4541b33bb314c4c52619de217331275c105a08ef5a5708c22685d5e",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        131,
+        135
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0131_C0135_V2/annotations.jsonl",
+      "bytes": 71306,
+      "sha256": "d48f6cb3158b2965cbd1dc15c8d086d94b675972c7108a65329171eadf49e5f9",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0131_C0135_V2.json",
+      "decision_sha256": "1c02eeee53664ba6e5ceb5b0fefbe2d5562b54495c8ef16008adb580660f8473",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        136,
+        140
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0136_C0140_V3/annotations.jsonl",
+      "bytes": 97991,
+      "sha256": "7018bde054df32feabe306ed1b93d310495d01e70e45d255b7bcae4c4365e129",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0136_C0140_V3.json",
+      "decision_sha256": "b0eda0d2d447001dca9ff15143786fc01b356c64e5ed3cc1eae8e10cd75540b7",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        141,
+        145
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V3/annotations.jsonl",
+      "bytes": 115222,
+      "sha256": "97f31b5ab8d97e2f9347b2cabc60e96e0c7ed22dc19588803e24f349cdc5f3ec",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0141_C0145_V3.json",
+      "decision_sha256": "cd13cbafe6815bfa5dc5be4e05100bee380631cd10ae175e8ebf463469d93caa",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        146,
+        150
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V4/annotations.jsonl",
+      "bytes": 134910,
+      "sha256": "fa23077231c3e81f5eb0321ffe64d508a0b022454d6cb9ef6a3d82fb46d8c4c1",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0146_C0150_V4.json",
+      "decision_sha256": "fb70345f43e8e5ab7170db986222e687dd21ae84b0b15a093c70cd46953bb973",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        151,
+        155
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0151_C0155_V5/annotations.jsonl",
+      "bytes": 70326,
+      "sha256": "a04111d88eda3d8de6640204c63641857d1ae874dfab3e96dc3f9ac30026c586",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0151_C0155_V5.json",
+      "decision_sha256": "b07b9b1e521e0f938f547375984a8fdd15f483ef7059ecc501c5bbc2aad8f04d",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        156,
+        160
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0156_C0160_V3/annotations.jsonl",
+      "bytes": 64853,
+      "sha256": "a91009f3914ba594b83484925ffb798ae6868169b977711c3542f7ec6f279a00",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0156_C0160_V3.json",
+      "decision_sha256": "0ce84ec6bc57f639148ce4b69e3827a6bf2f39f08ab013541ce41445315e75b7",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        161,
+        165
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0161_C0165_V3/annotations.jsonl",
+      "bytes": 115437,
+      "sha256": "00e5b8dbef3018b54d41f7eae2810432a785fae0e3a5a91abb7a3686db6d2507",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0161_C0165_V3.json",
+      "decision_sha256": "b3d6d4302099b34384d31139d3e52e148bc05c696783a70addb1088edef19520",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        166,
+        170
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0166_C0170_V3/annotations.jsonl",
+      "bytes": 76670,
+      "sha256": "4d49f0abfc1a04dfadbb5ce3191d149fc201c6e4ab4ca0def7552c578ce356c4",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0166_C0170_V3.json",
+      "decision_sha256": "ca8ea1110287e738acafda22e376e0aeec1b0d88ec65e9c31eacb6fe7ec426f0",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        171,
+        175
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0171_C0175_V4/annotations.jsonl",
+      "bytes": 74231,
+      "sha256": "f96bdf6b9fc7c2766f67b3a1736221ce4c1f9178712127f4611d197d812da515",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0171_C0175_V4.json",
+      "decision_sha256": "df99bc1636d0bbe6c6a587c8ff3c233b950be5771edd068537776a99b06bc95c",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        176,
+        180
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0176_C0180_V3/annotations.jsonl",
+      "bytes": 72337,
+      "sha256": "8fcd0677e2509d98c2e3b8da436ef658e554aca6381670b92b9a9e238671ba8a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0176_C0180_V3.json",
+      "decision_sha256": "0a5527bfa38c0e24761510b546ead10026c87f9d1d9b42edaf5bb24918a1694a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        181,
+        185
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0181_C0185_V2/annotations.jsonl",
+      "bytes": 86186,
+      "sha256": "2d060bfcd95a1c8c90500fc1eb3c011aac73c8560918c716089d113772cd05d0",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0181_C0185_V2.json",
+      "decision_sha256": "c1ba555620bddf5f3c45cd3ec8528a4d3418b03fa83bdbdd00bcfc3867354317",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        186,
+        190
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0186_C0190_V1/annotations.jsonl",
+      "bytes": 87820,
+      "sha256": "73a6134a6bf1a66faa3b75f1458df3dcbc2ffe1eaa18b622c696df60eb5bd69e",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0186_C0190_V1.json",
+      "decision_sha256": "425fb154933778f2abbc1e7b17713c938125546c2f823aecbaa5e9668cc37ef0",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        191,
+        195
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0191_C0195_V2/annotations.jsonl",
+      "bytes": 128288,
+      "sha256": "a3bafc920f7a69d907eb831fa1eb347a989a1373546659c60eaef63e5f5d7d2c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0191_C0195_V2.json",
+      "decision_sha256": "c02796b36038ee8e40e87edcd16dd6f05f8e8b71776656d22ad0e566be27488c",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        196,
+        200
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0196_C0200_V1/annotations.jsonl",
+      "bytes": 91389,
+      "sha256": "0ece89f98709d57c31e01c546108473c07faec84078735c353b5db032fe8658a",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0196_C0200_V1.json",
+      "decision_sha256": "2327ab85b4776351592755273a1d4b4359ea6fd998b07fbf72e090030ac502c5",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        201,
+        205
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0201_C0205_V3/annotations.jsonl",
+      "bytes": 87714,
+      "sha256": "46e0a08c00db97c3cc9ab4466d3b6bdcc478f5bd6af4a35a7842b58e50d118dd",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0201_C0205_V3.json",
+      "decision_sha256": "0a8071059fed91089c1cb8e7547f3befcc871191c650736458510358bdd16d16",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        206,
+        210
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0206_C0210_V3/annotations.jsonl",
+      "bytes": 76282,
+      "sha256": "5fc9705c11093a3f59dc8bcdf7b794ab21d65b17257ec172d6d1dcf616ebbbaa",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0206_C0210_V3.json",
+      "decision_sha256": "5a37d6a04c11c329490a8c2cd63bdddaaef885d537b6aa2897598c92c88bdfe4",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        211,
+        215
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0211_C0215_V1/annotations.jsonl",
+      "bytes": 65578,
+      "sha256": "cdba56a994ed8313d07c7efa82131aaf1ba3cc14de4aa8b289c5900c64d989d6",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0211_C0215_V1.json",
+      "decision_sha256": "cf4fa4912e53bc020f3648cfab0a7b1b4f859eef5b12b9eccde799a5bcb0253c",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        216,
+        220
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0216_C0220_V2/annotations.jsonl",
+      "bytes": 92194,
+      "sha256": "8c7b8af7d0b73a39c0554a80f2da61e9a4ef8578a4bbb229062e986991743941",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0216_C0220_V2.json",
+      "decision_sha256": "396b0574c278ffd12ab190a86c24b58cf099b6054a021d2a60c5ed73077cd727",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        221,
+        225
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0221_C0225_V3/annotations.jsonl",
+      "bytes": 56672,
+      "sha256": "614ae0b5dee0b85c6f7cc7b96c6aaea1117a52001784310c4781be45c8ce3062",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0221_C0225_V3.json",
+      "decision_sha256": "1a43ead2465774e559731adceaed7ff5bd48736fe55d4aec8d2fecc3cb10e336",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        226,
+        230
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0226_C0230_V3/annotations.jsonl",
+      "bytes": 66198,
+      "sha256": "ca7811c77bd053d1b66d541a2aeaf97e4298b76613a0be08ab7835b892761dd7",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0226_C0230_V3.json",
+      "decision_sha256": "cc743e948e6bb4d7f610d67140d10de5f073e86f5981925773c90fd8fdc5aa25",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        231,
+        235
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0231_C0235_V3/annotations.jsonl",
+      "bytes": 126272,
+      "sha256": "63cec1ba9914a9c6550421affec4cdfb167b9452e41c4d3c870d6b26218cd177",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0231_C0235_V3.json",
+      "decision_sha256": "17b1a2a4e94320cc372b9f55f0ec2ca1b9ec85cc2776cc76b9df9a2d3b5903f4",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        236,
+        240
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0236_C0240_V3/annotations.jsonl",
+      "bytes": 89025,
+      "sha256": "b219c5745ea663b5c00b9610b644edbbc5fe407792b0577fa4d7428ee8780d33",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0236_C0240_V3.json",
+      "decision_sha256": "ec95b904b309343b8656b7ab3815bb1f9b0972ceadc95dbca822a1e99257fd4e",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        241,
+        245
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0241_C0245_V2/annotations.jsonl",
+      "bytes": 121956,
+      "sha256": "00a7956675e48b84de9bf3700fd84218368ca47fe23785651558a8b8b1c2f672",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0241_C0245_V2.json",
+      "decision_sha256": "ee8069be4dba62adff63a761d27e4b56bafba0cccb840f8b85c638a6981effd6",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        246,
+        250
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0246_C0250_V3/annotations.jsonl",
+      "bytes": 105171,
+      "sha256": "5a334688d4dc4e7d14a73762a74f49f2001a2c55c07923278f940c646b2e7016",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0246_C0250_V3.json",
+      "decision_sha256": "5552bb20ae2527369bfeb880c123f1e7f8acac234c4bee442be8977a64d3ef71",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        251,
+        255
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0251_C0255_V3/annotations.jsonl",
+      "bytes": 99866,
+      "sha256": "603bcc47a46c5ad3b7c91dd7cfb6880e5e74f95b340ddfcb0afd122f5c4fd359",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0251_C0255_V3.json",
+      "decision_sha256": "b1d815ad1853f5103cee9c3d59faf908be4ad41ce17a010c072c87f1e292ef92",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        256,
+        260
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0256_C0260_V5/annotations.jsonl",
+      "bytes": 125666,
+      "sha256": "f075bd3583d81fae6b41af9564e4d6cc8a5f67f53ac7c367245e6a7671918ba3",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0256_C0260_V5.json",
+      "decision_sha256": "03b7d58c9b3ad2608bd4619d1c9ae1c9118775cff9b1fcf09ce64aa1327cfbb4",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        261,
+        265
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0261_C0265_V2/annotations.jsonl",
+      "bytes": 120050,
+      "sha256": "f15f90956c66c305e8f0e99ac65ff674b00cd110eb29ff999c42de16e2b03ee7",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0261_C0265_V2.json",
+      "decision_sha256": "626d7b30324c67b85438b6c6d351980cefba6cadd605c31e5c6dbf19bf37276d",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        266,
+        270
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0266_C0270_V2/annotations.jsonl",
+      "bytes": 86326,
+      "sha256": "4a76cd24b8005de53d3995d136c06fe9e76319c6bd742641d0c1c6749bc93365",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0266_C0270_V2.json",
+      "decision_sha256": "ad6b60cacca66d58f5fefd93fa28f565fa8649f9b60c1c05bffac62b8258d8cc",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        271,
+        275
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0271_C0275_V2/annotations.jsonl",
+      "bytes": 97351,
+      "sha256": "dc9a3965f88f079e01f96ca6bf0188d8d2f26a7352dd8e4edbb77d56ef771890",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0271_C0275_V2.json",
+      "decision_sha256": "002d4066984816a5347c00aacecf0ad17a9aa43d0a458c007a6557b534206566",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        276,
+        280
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0276_C0280_V4/annotations.jsonl",
+      "bytes": 170881,
+      "sha256": "9ad8d6a708378e1a609a596a59f9b0b471dee2b3d623b293f02b37f9fe699712",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0276_C0280_V4.json",
+      "decision_sha256": "7952a2c3938452961deb22039c1337f52306078053be5b06d7c225411f313c56",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        281,
+        285
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0281_C0285_V2/annotations.jsonl",
+      "bytes": 105979,
+      "sha256": "76fbada553f4914d01377be2f90b8dc573dab0595b8fbe7b2ca5d2034182da33",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0281_C0285_V2.json",
+      "decision_sha256": "865a8e696e7e77c8b4548a039d40cfa3f5d9760607c4d08b9d76cd23e76286ff",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        286,
+        290
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0286_C0290_V2/annotations.jsonl",
+      "bytes": 111651,
+      "sha256": "6057b7f8f7ac8d219e0ef26aba4552ebb4a39f428b394b5ca4db5c4ab6c039f2",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0286_C0290_V2.json",
+      "decision_sha256": "38c1ef7382fe89425ace870b7c076f7e55b682b25f644127c11d1c25a0ff343b",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        291,
+        295
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0291_C0295_V3/annotations.jsonl",
+      "bytes": 123113,
+      "sha256": "1d02d832c75a8f431e1be7e21eb7625e43a7d8813e9087d57389effaf4a38e5e",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0291_C0295_V3.json",
+      "decision_sha256": "e9c16daad296985ccab17107bb5914eea4ff5cde3835fe10404b4261ace42889",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        296,
+        300
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0296_C0300_V2/annotations.jsonl",
+      "bytes": 171398,
+      "sha256": "f7940c4862014f908e78c81886fe16ba5ed5947010b857e212f2f34befab47a8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0296_C0300_V2.json",
+      "decision_sha256": "67d3a885c98cfd6699e864ed948d0be9fae3ee89d1d38fb8b4330664ad4a44c7",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        301,
+        305
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0301_C0305_V2/annotations.jsonl",
+      "bytes": 132412,
+      "sha256": "fe1c5d7cbb7896988b8fdca87b02d203d5074dd4a3522e38c4b06fbed7b942f8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0301_C0305_V2.json",
+      "decision_sha256": "b0740cbfdc627f55f53371bf503dde491780893c9c7bb390600d3eff2ebb0802",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        306,
+        310
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V2/annotations.jsonl",
+      "bytes": 74727,
+      "sha256": "bf32bee42b29392b1d1295caaeb224fa809d1dc37ce80b7bdbe6933e59582728",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0306_C0310_V2.json",
+      "decision_sha256": "db1c82c1ee2ab8999c9332ab0dcfa45d33be1775d5e5044461503c313d30c0ba",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        311,
+        315
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V2/annotations.jsonl",
+      "bytes": 79693,
+      "sha256": "79a925d0098e6f71ead4cc13fdc30a71d27292e1a52f01c21ea806b513d4c1d4",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "decision_sha256": "b7a9a2aa8ecaaf91301d1b430d48efc0e7d6383f354a9012b32d166c6caf4b7a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        316,
+        320
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0316_C0320_V2/annotations.jsonl",
+      "bytes": 82251,
+      "sha256": "2c03d807193f54c45c9cd750b6ac8d9095ecb799d9061692a2af32c44af73be8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0316_C0320_V2.json",
+      "decision_sha256": "b43fd94288a37312cc33b418d8247865de9b9626b27b0e8aed349117a29d023e",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        321,
+        325
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0321_C0325_V2/annotations.jsonl",
+      "bytes": 98175,
+      "sha256": "b1c8f2158d3a197144a9d270040b70f7239956fdfb0bd78a11e691ddcd6a2f0e",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0321_C0325_V2.json",
+      "decision_sha256": "fa211161e2b12151852931ed10c1584da3d28ffc24828cde68059606bb955ae4",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        326,
+        330
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0326_C0330_V1/annotations.jsonl",
+      "bytes": 80549,
+      "sha256": "b360ad415bb46f03941fd083a1a0e9e8ecb95d9f5e0adfa11e6d791e5b00b67c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0326_C0330_V1.json",
+      "decision_sha256": "11614213a9ec5be9d08f1856df85a4e0bee1bebac421fd79f7762ecd62bc540a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        331,
+        335
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0331_C0335_V3/annotations.jsonl",
+      "bytes": 89719,
+      "sha256": "eb065718f266ae83730d0e9481fe45fc6ab0a306e2f236204ec548e00d92a91c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0331_C0335_V3.json",
+      "decision_sha256": "b33be28b54d940d0e6549a0b91e18ae58b5d388268f59b14709ae7b10e662baf",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        336,
+        340
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0336_C0340_V4/annotations.jsonl",
+      "bytes": 66673,
+      "sha256": "c3b9443c36ef523ea96557fe453fbc4350212e91fa17abb1d9ba087e6964bde8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0336_C0340_V4.json",
+      "decision_sha256": "14e852e583e57ebaa38ed660b1c6bec4d1ff77702d1ffc1fbf0a365cd11b000a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        341,
+        345
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V4/annotations.jsonl",
+      "bytes": 134917,
+      "sha256": "ee637426b7dc6979ba876918bb83cadc047e0488c37e70bf66de89550fe916f8",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "decision_sha256": "190c9e6adab6c9fb9ec661ee9e3fd4ef6b805809de4ff19fa9dc1e105e4f7be2",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        346,
+        350
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V3/annotations.jsonl",
+      "bytes": 152000,
+      "sha256": "e23bdc102d49dcf475e5c78efef845305bb57b755919aedbfbe6d328593f2b06",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "decision_sha256": "23e4381341812783a0647dd38f0bb204070be77eed7e61d7f9bb1e26dc88656f",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        351,
+        355
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0351_C0355_V4/annotations.jsonl",
+      "bytes": 144932,
+      "sha256": "9a6ebf37bcf1bdf23a9708ce698a685b53d2e41c77ae6c223bd8a3c7fa934802",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0351_C0355_V4.json",
+      "decision_sha256": "e53603a036b1106cc36774b1da933095be32c381d50d4ba002a7c2d632535bde",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        356,
+        360
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0356_C0360_V2/annotations.jsonl",
+      "bytes": 67738,
+      "sha256": "3886e9275c461d153358d95c4f7fd7bf280a9acd2ccb23d0cbe8318f0cb411ea",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0356_C0360_V2.json",
+      "decision_sha256": "37488b36d4bfc1e6604bf2c4a290e8eb157cc0f643d9e1bd84af1479a9a52c80",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        361,
+        365
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0361_C0365_V2/annotations.jsonl",
+      "bytes": 122538,
+      "sha256": "b3173c777e8eb2b5f1d5a0abf4fca1badf8369a858d2c653846333efd2230436",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0361_C0365_V2.json",
+      "decision_sha256": "40d0fe00964e173c6502051fb7f3b3990317ed9c6a8b41641725153a8a49cef1",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        366,
+        370
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V4/annotations.jsonl",
+      "bytes": 114781,
+      "sha256": "bf3efec2945e9de698925ac7ee4c5c760279e252597078dcbb494a9d625bcbb0",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "decision_sha256": "f544a4dd4050903b029bcfed1d309e07fff03bb54dcf4377eb1546d83d74b16a",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        371,
+        375
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0371_C0375_V3/annotations.jsonl",
+      "bytes": 71377,
+      "sha256": "b5bd308c6db196ec135d3d3473fbd3d234157895351a6cd476a045e242e98e77",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0371_C0375_V3.json",
+      "decision_sha256": "eff1cb4f40c19a67640ada24c5ec134cabe987aaa94dac3a3c6916742f72cc7e",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        376,
+        380
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0376_C0380_V2/annotations.jsonl",
+      "bytes": 90760,
+      "sha256": "d8dd0ffb465ca35b45bf0d7ae56c0aa9241605e76bd0066fdc21d821ac831a28",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0376_C0380_V2.json",
+      "decision_sha256": "4e042b82cb0e549f237a075ed5a01fc0f4618b3cd4f3fa05474efd7482ce827f",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        381,
+        385
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0381_C0385_V3/annotations.jsonl",
+      "bytes": 165774,
+      "sha256": "26e24243a45b572d980e8b33d2646fcd098ebbeeb74c926226325807c340b8cc",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0381_C0385_V3.json",
+      "decision_sha256": "4ce18150179eae23193f5c77d942611f35a5647a2af408bb28b6dc4e47e59cc6",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        386,
+        390
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0386_C0390_V3/annotations.jsonl",
+      "bytes": 196645,
+      "sha256": "02081c9ec0c5f7abbcedb8faaf26c022a400cbbe241c176f3e44ccfa147d6981",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0386_C0390_V3.json",
+      "decision_sha256": "67184360f28cc113a045fa67c41e7fe96305825b5fea430bf8b8082aa52572ea",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        391,
+        395
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0391_C0395_V1/annotations.jsonl",
+      "bytes": 170857,
+      "sha256": "a024caeaafab6b5dd7ca77613f1c35ad547a445b0c5c04835114625d7cd34893",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0391_C0395_V1.json",
+      "decision_sha256": "74ad170de1791f90db94f559cb0030c021bd304eb77bf6bf82eae1d7683a61f3",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        396,
+        400
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0396_C0400_V1/annotations.jsonl",
+      "bytes": 154820,
+      "sha256": "078c3599938e72e82bbd431b06b46573ec55a57e458d110ede36b0766cbd8b66",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0396_C0400_V1.json",
+      "decision_sha256": "f2e51ee8f85670fe12767f4289b6315749b65b460fb7ec865486b6c5357935b2",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        401,
+        405
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0401_C0405_V2/annotations.jsonl",
+      "bytes": 100264,
+      "sha256": "c6b5fe756039100f2b4e3109b989eb22314f2ed8b26e424cffaa431cca5584ef",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0401_C0405_V2.json",
+      "decision_sha256": "3233b340f0591a1f5aa098e16a76d4c1a92df7463c3274800f3dbc0de2cc73c1",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        406,
+        410
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/annotations.jsonl",
+      "bytes": 116710,
+      "sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "decision_sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        411,
+        415
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0411_C0415_V1/annotations.jsonl",
+      "bytes": 178313,
+      "sha256": "dac077c817b9e3fe1a51e6a5d4f936f5879ff55b6db196c0f5202d18b8b18b98",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0411_C0415_V1.json",
+      "decision_sha256": "23e028e39d3c824f0e06e97dde5f6bdfc36cf4c844c27f53cb96fab21520ab58",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        416,
+        420
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V2/annotations.jsonl",
+      "bytes": 102798,
+      "sha256": "a8705c1ce51510fe9a30f39a304a18d6ffa8b1771192043df579d63f9d44fab7",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "decision_sha256": "f57eba11e52974a5fadd7bcb898acc63157962e3e5ba76719e9a554a396587d0",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        421,
+        425
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0421_C0425_V2/annotations.jsonl",
+      "bytes": 75781,
+      "sha256": "026442a99ccbda363ec0708153079334821cd69945eed26cd7ebea8c5de8c9e6",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0421_C0425_V2.json",
+      "decision_sha256": "a2bfe7a708ca5f742a1aa1533282d8e13a366e166f6e9963b32ee8606592ecff",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        426,
+        430
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0426_C0430_V2/annotations.jsonl",
+      "bytes": 112306,
+      "sha256": "cc6c3b8cc0813c6e154b31f394f3fc4ebe32d58411b32ee341ba8aeb73beaa43",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0426_C0430_V2.json",
+      "decision_sha256": "20d907b6c92c02cb78aba395527106b0138fedf9adf1506768dab31ccc72daed",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        431,
+        435
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0431_C0435_V2/annotations.jsonl",
+      "bytes": 102086,
+      "sha256": "8a62f56fa0305c24d776968fe689ae8ce8c77e8577596c1144fe4b625ed8137c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0431_C0435_V2.json",
+      "decision_sha256": "0bf59de865a5917088a3657ad7fadeb256090bfd61ab5c8601415d205c4f80b6",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        436,
+        440
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0436_C0440_V3/annotations.jsonl",
+      "bytes": 111393,
+      "sha256": "0ca3f674493e9d4a49be5bf409d536021a972d09c3d9669ab8d32dbb60e826bb",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0436_C0440_V3.json",
+      "decision_sha256": "4601e51d3539e7777fdc9380c2662b4a49470f41b373fa1954bc692b148aa09f",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        441,
+        445
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0441_C0445_V3/annotations.jsonl",
+      "bytes": 101424,
+      "sha256": "2378a03519978a08d117e73b5fa963df4788f6f0ed6c0b8ed4e4ec5aaf7b0a98",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0441_C0445_V3.json",
+      "decision_sha256": "019d510d3ccb63e4a5973adaab8e2800eb2f18b369ab8bed730bb7e998091e8e",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        446,
+        450
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0446_C0450_V4/annotations.jsonl",
+      "bytes": 164806,
+      "sha256": "262f3dae63482377347ac2b62f66801abc6186481d6c08e8e271af31cb6394a5",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0446_C0450_V4.json",
+      "decision_sha256": "c99f8335f9df59d7e219a4e578c567b919b664c9746b93320bd2d9465dcfa364",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        451,
+        455
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0451_C0455_V3/annotations.jsonl",
+      "bytes": 135094,
+      "sha256": "6d37872d499bb86c6a2fe90c37e6aef37b2756402b00f7e7fe314a03434c8508",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0451_C0455_V3.json",
+      "decision_sha256": "107e75750b3a822c2f2e4e69cb3d19241527bd6e18d5b2a7a40674ada0444039",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        456,
+        460
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0456_C0460_V3/annotations.jsonl",
+      "bytes": 142937,
+      "sha256": "974d4a656ea37c8d27374315397be0ac085faa037b5158a678280df866be147b",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0456_C0460_V3.json",
+      "decision_sha256": "ae8d8645290b461440da20d57cb5e0b9497936c91d1a7c197a3c3fb1c8cc3baa",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        461,
+        465
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0461_C0465_V2/annotations.jsonl",
+      "bytes": 126168,
+      "sha256": "319777d349a2193dc59b9c011046abdfdcb3fffe0f4c76235e04d6d326315c6c",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0461_C0465_V2.json",
+      "decision_sha256": "9da76044410d405748fc9095f614973ba58e6eb2ccaa396182ef6e1f623ce24b",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        466,
+        470
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0466_C0470_V2/annotations.jsonl",
+      "bytes": 222169,
+      "sha256": "78331529b931e54deae5bfdb2266a4fc7e1977d7ff17a24360c20705e3530712",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0466_C0470_V2.json",
+      "decision_sha256": "05346feb05e1eabef9674e2400c6a32293fc272beed6711237976703af1d0631",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        471,
+        475
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/annotations.jsonl",
+      "bytes": 85939,
+      "sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "decision_sha256": "55aeb30b1acaece20f0df97099383940fe4ba358af2238ceb3ca047ab196d5aa",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        476,
+        480
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/annotations.jsonl",
+      "bytes": 103138,
+      "sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "decision_sha256": "43b24d5d63f3dac3ef51ca1bce827ae5ccb16e0ca09f2741f3003dfab69cdbc5",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    },
+    {
+      "range": [
+        481,
+        483
+      ],
+      "candidate": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0481_C0483_V2/annotations.jsonl",
+      "bytes": 106837,
+      "sha256": "11ecd30ba7ca94ffe9c706c11b9102159a4b9dc03ec45b8cb707e039766c7ad3",
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "decision_sha256": "e0f03afaa72bd22d7afd09e41dc045704c18fed05c7524a546b89416b5957e98",
+      "status": "transformation_audit_repairs_pending_independent_closure_not_S6"
+    }
+  ]
+}

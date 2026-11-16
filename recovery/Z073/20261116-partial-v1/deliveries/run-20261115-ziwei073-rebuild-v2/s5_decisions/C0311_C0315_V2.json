@@ -1,0 +1,1302 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c311",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "作者明确五行颜色不能直接断廉贞命者肤色，古今外貌描述仅参考；实际描述还须星曜组合与父母生年，并解释口横、甲字脸的用语。",
+        "summary_en": "The author explicitly rejects inferring Lian Zhen Life skin color directly from elemental colors. Classical and modern appearance descriptions are only references; actual description requires star configurations and parental birth-year data, with explanations of the mouth and face-shape terms.",
+        "keywords": [
+          "肤色不可据五行断",
+          "外貌输入条件",
+          "口横甲字脸"
+        ],
+        "keywords_en": [
+          "no elemental-color skin inference",
+          "appearance input conditions",
+          "face-shape terminology"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c311_rule",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n",
+              "negated": false
+            }
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "生年太歲",
+              "proposed_category": "source_individual_input",
+              "reason": "父母输入资料非流年星曜",
+              "english_surface": "birth-year Tai Sui",
+              "scope_id": "c311_rule"
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "spans": [
+              {
+                "start": 45,
+                "end": 53,
+                "quote": "廉貞坐命者的膚色"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "spans": [
+              {
+                "start": 45,
+                "end": 53,
+                "quote": "廉貞坐命者的膚色"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "spans": [
+              {
+                "start": 45,
+                "end": 53,
+                "quote": "廉貞坐命者的膚色"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 267,
+                "quote": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c311_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "至於廉貞坐命者的膚色部份，因廉貞五行屬火，火代表紅色，這或許可以說明為什麽先賢會認為廉貞坐命者「為人少年面黃白色，老年紅黃色」的原因。惟從星曜五行所屬顏色，來論斷一個人膚色的說法，只能做參考，不可據以斷之，廉貞亦不例外。又，賦文中的口横係指嘴巴較大，甲字臉型則是指正方形。\n不論是古傳賦文或筆者對於廉貞坐命者的身材外貌的描述，僅供讀者參考。因要談論一個人的外貌及身材，不但要視實際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n"
+            },
+            "spans": [
+              {
+                "start": 250,
+                "end": 254,
+                "quote": "生年太歲"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c311"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "明确不可以肤色元素直接推断，summary不复述为肯定颜色。无疾病健康topic硬加，父母生年不当太岁实体或本命time。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c312",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "作者以太阳阳火与廉贞阴火作性格模型：旺阳命的助人观点与廉贞内敛急躁冲突、情绪极端倾向相对；这是源五行解释，非现实心理诊断。",
+        "summary_en": "The author contrasts Tai Yang’s yang Fire with Lian Zhen’s yin Fire as a personality model: helpfulness in strong Sun Life versus a tension between inward restraint and impatience in Lian Zhen. These are the source’s elemental interpretations, not psychological diagnoses.",
+        "keywords": [
+          "阴阳火比较",
+          "廉贞性格模型",
+          "旺阳助人"
+        ],
+        "keywords_en": [
+          "yin yang Fire comparison",
+          "Lian personality model",
+          "strong Sun helpfulness"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "紫微",
+            "廉贞",
+            "太阳"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "太阳"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c312_sun",
+              "condition": "太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c312_lian",
+              "condition": "而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n",
+              "negated": false
+            }
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "topics_mentioned": [
+            "人际关系"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 52,
+                "quote": "在紫微星部份曾提及"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 90,
+                "end": 101,
+                "quote": "廉貞五行屬火，屬性為陰"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 133,
+                "end": 138,
+                "quote": "太陽屬陽火"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 155,
+                "end": 163,
+                "quote": "太陽旺宮坐命的人"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c312_sun",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。"
+            },
+            "spans": [
+              {
+                "start": 155,
+                "end": 163,
+                "quote": "太陽旺宮坐命的人"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c312_lian",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 222,
+                "end": 232,
+                "quote": "形成廉貞坐命者性格上"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c312_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 315,
+                "quote": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰陽五行及南北斗的作用。\n廉貞五行屬火，屬性為陰。在斗數甲級星曜中五行屬火者，除廉貞外，尚有太陽。同樣五行屬火，太陽屬陽火，而廉貞屬陰火。太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。而廉貞的陰火則易造成較特殊的性格，基本上，火性主揮發、急躁，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。古傳賦文中關於廉貞星凶格的記載不少，究其原因，是廉貞星的陰火屬性所致。本文後續將對廉貞星的陰火屬性所造成的命理現象，逐一加以闡述。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c312_sun",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "太陽的陽火屬性，使太陽旺宮坐命的人，處處顯得光明磊落，樂於助人。"
+            },
+            "spans": [
+              {
+                "start": 173,
+                "end": 177,
+                "quote": "樂於助人"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c312"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "紫微仅章节回指，不入当前性格配置；阴火本文明文，旺阳条件完整。情绪不稳为源倾向不是医学标签，未提忌禄不得补四化。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c313",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "廉贞寅申独坐、六支杀破狼组合、子午廉相、辰戌廉府有不同动性来源；廉府较稳而有煞冲与对宫七杀时仍主动，不把所有配置无条件同判。",
+        "summary_en": "Lian Zhen’s solitary Yin/Shen, six-branch Sha-Po-Lang combinations, Zi/Wu Lian-Xiang and Chen/Xu Lian-Fu have different sources of movement. Lian-Fu is relatively stable but becomes active with adverse pressure and opposite Qi Sha, rather than all configurations being equivalent unconditionally.",
+        "keywords": [
+          "廉贞十二支",
+          "动性分支",
+          "廉府较稳例外"
+        ],
+        "keywords_en": [
+          "Lian twelve branches",
+          "movement branches",
+          "relative Lian Fu stability"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞",
+            "天相",
+            "天府",
+            "破军",
+            "七杀"
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天相"
+                }
+              ],
+              "scope_id": "c313_lianxiang",
+              "condition": "廉相在子午同宮",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                }
+              ],
+              "scope_id": "c313_lianfu",
+              "condition": "辰戌則是廉府同宮",
+              "negated": false
+            }
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "杀破狼",
+              "formation_status": "讨论",
+              "evidence": "巳酉丑亥卯未為雙星殺破狼"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "四馬地",
+              "proposed_category": "source_position_term",
+              "reason": "源地支分类未注册，不补全部位置或天马星",
+              "english_surface": "four movement branches",
+              "scope_id": "c313_rule"
+            }
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "comparison_methods": [
+            "宫位对照"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 39,
+                "end": 48,
+                "quote": "廉貞在十二地支宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 68,
+                "end": 75,
+                "quote": "廉相在子午同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 76,
+                "end": 84,
+                "quote": "辰戌則是廉府同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 174,
+                "end": 179,
+                "quote": "對宮的破軍"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 221,
+                "end": 226,
+                "quote": "對宮的七殺"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c313_lianxiang",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉相在子午同宮"
+            },
+            "spans": [
+              {
+                "start": 68,
+                "end": 75,
+                "quote": "廉相在子午同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c313_lianfu",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "辰戌則是廉府同宮"
+            },
+            "spans": [
+              {
+                "start": 76,
+                "end": 84,
+                "quote": "辰戌則是廉府同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 55,
+                "end": 67,
+                "quote": "巳酉丑亥卯未為雙星殺破狼"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 103,
+                "end": 106,
+                "quote": "四馬地"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 39,
+                "end": 239,
+                "quote": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.comparison_methods.0",
+            "scope": {
+              "scope_id": "c313_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+            },
+            "spans": [
+              {
+                "start": 39,
+                "end": 239,
+                "quote": "廉貞在十二地支宮位僅寅申為獨坐，巳酉丑亥卯未為雙星殺破狼，廉相在子午同宮，辰戌則是廉府同宮（盤一）。廉貞在寅申雖為獨坐，但寅申為四馬地，任一星曜進入四馬地，會動得較厲害；巳酉丑亥卯未則為雙星殺破狼，而殺破狼主變動，故廉貞在此六宮位皆主動；子午的廉相本質上為水火相剋，加上對宮的破軍（五行屬水且賦性主變動）作用，亦主動；辰戌的廉府為火土相生較穩，但若有煞星來沖，加上對宮的七殺主變動作用，此時亦主動。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c313"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "杀破狼组合名不因此补未单提贪狼；不同地支不映射功能宫。廉相/廉府同宫仅各自直接分支，无同时四星。七杀破军为对宫不推同宫关系，四马非天马。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c314",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "廉贞命的急躁与争执须吉煞条件，巳廉贪更急的原因归火性与动性；廉忌或多煞少吉可能加重负面，廉禄又吉为明确例外，不能据此认定现实违法。",
+        "summary_en": "Lian Zhen Life impatience and conflict are conditioned by support, with Si Lian/Tan explained as more restless through Fire and movement. Lian Ji or many adverse and few auspicious stars can intensify negative effects, while Lian Lu with auspicious support is an explicit exception, not a basis for finding actual wrongdoing.",
+        "keywords": [
+          "廉贞急躁条件",
+          "巳廉贪",
+          "廉禄吉例外"
+        ],
+        "keywords_en": [
+          "conditional Lian impatience",
+          "Si Lian Tan",
+          "Lian Lu exception"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞",
+            "贪狼"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c314_rule",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c314_silian_tan",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c314_silian_tan",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c314_silian_tan",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。",
+              "negated": false
+            }
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "杀破狼",
+              "formation_status": "讨论",
+              "evidence": "廉貪又是雙星殺破狼組合"
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "廉贞",
+              "transformation": "化忌",
+              "scope_id": "c314_negative_ji",
+              "palace": "命宫"
+            },
+            {
+              "star": "廉贞",
+              "transformation": "化禄",
+              "scope_id": "c314_positive_lu",
+              "palace": "命宫"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "四馬地",
+              "proposed_category": "source_position_term",
+              "reason": "源位置分类非天马星",
+              "english_surface": "four movement branches",
+              "scope_id": "c314_silian_tan"
+            }
+          ],
+          "topics_mentioned": [
+            "人际关系"
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "analysis_methods": [
+            "四化分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 96,
+                "quote": "廉貞在任一宮位坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 131,
+                "end": 138,
+                "quote": "廉貪坐命在巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 96,
+                "quote": "廉貞在任一宮位坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 96,
+                "quote": "廉貞在任一宮位坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c314_silian_tan",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。"
+            },
+            "spans": [
+              {
+                "start": 131,
+                "end": 138,
+                "quote": "廉貪坐命在巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c314_silian_tan",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。"
+            },
+            "spans": [
+              {
+                "start": 131,
+                "end": 138,
+                "quote": "廉貪坐命在巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c314_silian_tan",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。"
+            },
+            "spans": [
+              {
+                "start": 131,
+                "end": 138,
+                "quote": "廉貪坐命在巳宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c314_silian_tan",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。"
+            },
+            "spans": [
+              {
+                "start": 163,
+                "end": 174,
+                "quote": "廉貪又是雙星殺破狼組合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c314_negative_ji",
+              "kind": "conditional",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n",
+              "attribution": "作者负面分支的廉贞化忌子句，其他外部吉煞条件按原句保留"
+            },
+            "spans": [
+              {
+                "start": 257,
+                "end": 271,
+                "quote": "當廉貞化忌或會煞多且又會吉少"
+              },
+              {
+                "start": 86,
+                "end": 96,
+                "quote": "廉貞在任一宮位坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c314_positive_lu",
+              "kind": "conditional",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n",
+              "attribution": "作者另一完整化禄又会吉例外，不同事件"
+            },
+            "spans": [
+              {
+                "start": 430,
+                "end": 439,
+                "quote": "當廉貞化祿又會吉時"
+              },
+              {
+                "start": 86,
+                "end": 96,
+                "quote": "廉貞在任一宮位坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c314_silian_tan",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。"
+            },
+            "spans": [
+              {
+                "start": 177,
+                "end": 180,
+                "quote": "四馬地"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 336,
+                "end": 345,
+                "quote": "易與他人起爭執糾紛"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 447,
+                "quote": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c314_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+            },
+            "spans": [
+              {
+                "start": 43,
+                "end": 447,
+                "quote": "綜上所述，廉貞在十二宮位幾可說是皆主「動」，再加上廉貞五行屬火，火性主揮發、急躁，因此廉貞在任一宮位坐命者，除非是會多吉星且不見煞星，否則個性都較為急躁且不易靜下來。這當中又以廉貪坐命在巳宮，個性更為急躁（在巳比在亥來得急，因火太旺），而且廉貪又是雙星殺破狼組合，又在四馬地（主動），更是靜不下來。（註一）\n又，廉貞為北斗星，北斗主「剛」，造成廉貞坐命者的自我意識較強，且廉貞主權威，因此為人也較有主張。廉貞在賦性上主「品秩」，當廉貞化忌或會煞多且又會吉少，甚至不會吉時，會將不利於性格的負面作用激發出來，造成個性急躁、自我意識強，想法偏激且易鑽牛角尖，加上情緒不穩，無法冷靜下來，導致易與他人起爭執糾紛，就可能會做出「失序」的行為，嚴重時，甚至會因此要吃官司坐牢，此為廉貞被稱為「囚星」的另一表徵，同時這也是賦文認為廉貞坐命者會「為人性暴，好忿好爭」的原因。惟須注意的是，當廉貞化祿又會吉時，則無此現象。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c314"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "廉忌OR煞多为条件析取不是关系参与者OR，fullscope保。廉禄吉例外不变囚必然。巳廉贪两星命明确，杀破狼名称不补未提七杀破军。 四化专项：仅依明确独立完整子句或原文明确分别讨论概念分scope，逐项原句证据，保全部共同条件，不用scope名掩饰共享谓语互择；此为普通返修待独审。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c315",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "作者将礼义解释为社会礼节：廉贞命吉旺守规矩有礼，凶弱则有自我偏激不守礼的倾向；“性狠”是否成立留待后文，不能在此作肯定。",
+        "summary_en": "The author interprets propriety through social etiquette: favorable strong Lian Zhen Life follows rules, whereas adverse weakness is associated with self-centered disregard. Whether the classical “cruel” description applies is deferred rather than established here.",
+        "keywords": [
+          "廉贞礼义",
+          "吉旺凶弱对照",
+          "性狠未定"
+        ],
+        "keywords_en": [
+          "Lian propriety",
+          "favorable adverse contrast",
+          "cruelty not established"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "廉贞"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c315_rule",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n",
+              "negated": false
+            }
+          ],
+          "topics_mentioned": [
+            "人际关系"
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 123,
+                "quote": "廉貞坐命吉旺者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 123,
+                "quote": "廉貞坐命吉旺者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 123,
+                "quote": "廉貞坐命吉旺者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "spans": [
+              {
+                "start": 41,
+                "end": 292,
+                "quote": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c315_rule",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+            },
+            "spans": [
+              {
+                "start": 41,
+                "end": 292,
+                "quote": "先賢提及廉貞陷宮坐命逢煞者，為人「性狠而狂，無禮義」。禮義是指禮法道義或禮儀，而禮儀則是禮節儀式，故在此禮義與禮儀相通。前面談到，廉貞主「品秩」，因此廉貞坐命吉旺者，不但會按既有的規定做事，對於人際社會中該有的禮節儀式也一樣會遵守，與人相處則是彬彬有禮。反之，若是廉貞坐命凶弱者，因自我意識過強，想法偏激且易鑽牛角尖，自以為是，狂妄自大，做起事來，會有「只要我高興，有什麽不可以」的態度，與人相處往往不守社會禮儀，就會讓人覺得「無禮義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c315"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "全文保吉旺与凶弱区分，古性狠仅问题/后文预告，不输出性狠已成立。仅作者星性解释不对现实人格定性，无化曜时间。"
+      }
+    }
+  ]
+}

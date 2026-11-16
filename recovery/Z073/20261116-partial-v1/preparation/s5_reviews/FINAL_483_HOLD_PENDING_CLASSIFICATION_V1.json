@@ -1,0 +1,371 @@
+{
+  "manifest_sha256": "57de33b2d2dfabd53a42d8f5fbd082b581ca35716d4b05d35969041f6630d46b",
+  "relation_hold_chunks": [
+    9,
+    24,
+    105,
+    110,
+    154,
+    160,
+    188,
+    302,
+    306,
+    324,
+    355,
+    410,
+    442
+  ],
+  "representation_pending_chunks": [
+    15,
+    26,
+    27,
+    30,
+    36,
+    41,
+    146,
+    350,
+    353,
+    366,
+    406,
+    410,
+    426,
+    438,
+    440
+  ],
+  "transformation_pending_chunks": [
+    15,
+    26,
+    27,
+    30,
+    36,
+    41,
+    146,
+    366,
+    410
+  ],
+  "transformation_group_count_including_C15": 10,
+  "legacy_ambiguous_group_mapping_chunks": [
+    350,
+    353,
+    406,
+    426,
+    438,
+    440
+  ],
+  "overlap": [
+    410
+  ],
+  "unique_affected_chunks": 27,
+  "items": [
+    {
+      "chunk": 9,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C009首段女命武曲坐入命宮或夫妻宮为OR；夫妻宫关系无独立同块作者证据，移除肯定关系，保留原文/双语/提及并待表示规则门禁，非闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "decision_sha256": "f104a76c821e38e7d9291713fa04d9f0ea2a1a9056f3fef09e6a81206ebedfcd"
+    },
+    {
+      "chunk": 15,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0015:太陰或太陽化忌为互择，冻结对象无分支逻辑；撤两同scope肯定四化以免AND误表，保原文/双语/两星提及与天同忌，未以未知术语宣称通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "decision_sha256": "fce9208a8d6ebaca0fbf8a51d850ebf1dfe070f6492ac36c125762b1af6f3077"
+    },
+    {
+      "chunk": 24,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C024命（身）括注仅有此原句，未明确同时入命与身；两肯定关系移除，原文括注与摘要适用范围保留。括注语义需独立门禁，非显式OR，不能借未来any_of自动闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "decision_sha256": "21619b93a08aa4851ff551c2d5338e64c32d85a6519fd0ab6452325182ff20b8"
+    },
+    {
+      "chunk": 26,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0026:transformation_alternative:c026_化禄:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。",
+        "semantic_representation_pending:C0026:transformation_alternative:c026_化忌:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "decision_sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7"
+    },
+    {
+      "chunk": 27,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "古引灭番疑损，完整古引归因句排除，不猜为减寿。",
+        "semantic_representation_pending:C0027:transformation_alternative:c027_base:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "decision_sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7"
+    },
+    {
+      "chunk": 30,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0030:transformation_alternative:c030_activation:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "decision_sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7"
+    },
+    {
+      "chunk": 36,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0036:transformation_alternative:c036_generic:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0036_C0040_V4.json",
+      "decision_sha256": "bc83e67164e13d8d98b5dbebf9dd3a720f1fb647ffe813f6d387d6f1ad7fabbf"
+    },
+    {
+      "chunk": 41,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0041:transformation_alternative:c041_generic:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0041_C0045_V6.json",
+      "decision_sha256": "7aa52a26fc8fbb0aa691443e35baf4a32c70e03b92760345789077d551c8832a"
+    },
+    {
+      "chunk": 105,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C105作者武曲坐入事業宮或財帛宮或遷移宮，宫位互择当前schema不具分支selector。三条肯定入宫移除，原文/摘要/提及保留，待表示门禁，不称闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0101_C0105_V4.json",
+      "decision_sha256": "2b085cb9908e6f1c19ec4f6a75e03d53841f652b61a66906bb659ebb045c2fdc"
+    },
+    {
+      "chunk": 110,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C110作者武貪坐入財帛宮或田宅宮为宫位互择，四条肯定入宫移除，原文/摘要/提及保留；当前schema不能忠实绑定OR宫位，待表示门禁，不称闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0106_C0110_V4.json",
+      "decision_sha256": "308ce47026db13536dab64f0f1c0fe6f17ae80054763f8a63518edc5a180b2ec"
+    },
+    {
+      "chunk": 146,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0146:transformation_alternative:c146_annual:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0146_C0150_V4.json",
+      "decision_sha256": "fb70345f43e8e5ab7170db986222e687dd21ae84b0b15a093c70cd46953bb973"
+    },
+    {
+      "chunk": 154,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C154作者OR同宫：擎羊或陀羅同宮、火星或鈴星同宮，现schema无法原条件下绑定单成员而不肯定另一分支。肯定关系暂不输出，保留原文/完整摘要/星曜提及。需表示门禁处理，不能称标注闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0151_C0155_V5.json",
+      "decision_sha256": "b07b9b1e521e0f938f547375984a8fdd15f483ef7059ecc501c5bbc2aad8f04d"
+    },
+    {
+      "chunk": 160,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C160天機或貪狼坐命者为OR参与者入宫表达，沿C154既有规则门禁：不拆成两个在所有OR情形均肯定的入命关系、不用自造非原文conditional、不改validator。保存完整源/摘要/提及，关系表示待决，不能称此块语义通过。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0156_C0160_V3.json",
+      "decision_sha256": "0ce84ec6bc57f639148ce4b69e3827a6bf2f39f08ab013541ce41445315e75b7"
+    },
+    {
+      "chunk": 188,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "C188命宮或夫妻宮有天梁坐入为宫位互择，无独立分支句可确定各肯定placement；保留原文/完整双语/提及，未输出这两关系，需表示门禁，非完成。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0186_C0190_V1.json",
+      "decision_sha256": "425fb154933778f2abbc1e7b17713c938125546c2f823aecbaa5e9668cc37ef0"
+    },
+    {
+      "chunk": 302,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "末人物生卒年及网址损坏整注排除，保完整职业方法正文。",
+        "SEMANTIC_HOLD_C0302：教师律师例太阳坐入命宫或身宫或事业宫是互择对象，当前关系参与者AND模型不能忠实表达；只保完整原文/摘要/宫星提及，独立太阳坐命通论可表，不能声称已全闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0301_C0305_V2.json",
+      "decision_sha256": "b0740cbfdc627f55f53371bf503dde491780893c9c7bb390600d3eff2ebb0802"
+    },
+    {
+      "chunk": 306,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "SEMANTIC_HOLD_C0306：廉贞坐入命宫或身宫是互择，当前AND关系模型无法忠实表示；保完整原文与条件摘要/纯提及，不同时写两肯定入宫，等待表示规则决策。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0306_C0310_V2.json",
+      "decision_sha256": "db1c82c1ee2ab8999c9332ab0dcfa45d33be1775d5e5044461503c313d30c0ba"
+    },
+    {
+      "chunk": 324,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "SEMANTIC_HOLD_C0324：身宫得紫微或天府为星曜参与者互择，现AND模型不可忠实表示；保独立廉命/紫财确定事实与完整身OR条件，不写紫府双肯定入身。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0321_C0325_V2.json",
+      "decision_sha256": "fa211161e2b12151852931ed10c1584da3d28ffc24828cde68059606bb955ae4"
+    },
+    {
+      "chunk": 350,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "REPRESENTATION_PENDING_C0350: 古引守於身命与廉贪同值身命并列写法，不能无条件生成入命且入身；需判读表示后才可闭合，非自动显式OR。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "decision_sha256": "23e4381341812783a0647dd38f0bb204070be77eed7e61d7f9bb1e26dc88656f"
+    },
+    {
+      "chunk": 353,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "REPRESENTATION_PENDING_C0353: 昌曲同度缩称后接昌贪或曲贪，参与者组合表示需判读，不自动四星同时或隐去后宣称闭环。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0351_C0355_V4.json",
+      "decision_sha256": "e53603a036b1106cc36774b1da933095be32c381d50d4ba002a7c2d632535bde"
+    },
+    {
+      "chunk": 355,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "SEMANTIC_HOLD_C0355: 貪狼與文昌或文曲同宮明确互择，当前participants不能OR，不输出三星同时同宫或两无条件肯定关系；原文和双语保完整待规则。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0351_C0355_V4.json",
+      "decision_sha256": "e53603a036b1106cc36774b1da933095be32c381d50d4ba002a7c2d632535bde"
+    },
+    {
+      "chunk": 366,
+      "classes": [
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_representation_pending:C0366:transformation_alternative:c366_generic_activation:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "decision_sha256": "f544a4dd4050903b029bcfed1d309e07fff03bb54dcf4377eb1546d83d74b16a"
+    },
+    {
+      "chunk": 406,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "representation_pending:C0406:末命身分坐廉申杀午/杀子廉寅未明确功能宫与星的逐一对应；不写两套肯定入宫，不借407实例反填泛规则，待独立判读。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "decision_sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce"
+    },
+    {
+      "chunk": 410,
+      "classes": [
+        "relation_semantics_or_representation_hold",
+        "transformation_alternative_pending"
+      ],
+      "actual_unresolved": [
+        "semantic_hold_pending_confirmation:C0410:羊陀及火铃至少各一的会合参与者选择无法由AND participants表达，未生成四星同时关系，保完整原文条件与提及，未闭合。",
+        "损长注及发违尾句保原文排除，不猜修。",
+        "C0410古引四煞群亦不得凭数字四全AND展开，统一保持群关系表示hold。",
+        "semantic_representation_pending:C0410:transformation_alternative:c410_author:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "decision_sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce"
+    },
+    {
+      "chunk": 426,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "representation_pending:C0426:首泛廉破分别命身、火星命或身未固定对应，不能按具体例反填泛规则关系；具体破火命廉身/夫妻已独立表达。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0426_C0430_V2.json",
+      "decision_sha256": "20d907b6c92c02cb78aba395527106b0138fedf9adf1506768dab31ccc72daed"
+    },
+    {
+      "chunk": 438,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "灭折损古注整排；独立首质疑、短赋、后作者解释保留，不以损注补宫位。",
+        "representation_pending:C0438:昌曲同度及三合昌（曲）贪参与者组/替代未唯一，保明确提及不展开全AND关系，待独审。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0436_C0440_V3.json",
+      "decision_sha256": "4601e51d3539e7777fdc9380c2662b4a49470f41b373fa1954bc692b148aa09f"
+    },
+    {
+      "chunk": 440,
+      "classes": [
+        "ambiguous_source_group_or_mapping_pending"
+      ],
+      "actual_unresolved": [
+        "天折损结果断言不采，保完整首作者限定、独立配置短句与后术语/旺吉通论，不修天字。",
+        "representation_pending:C0440:同宫昌曲与昌（曲）贪括号表述的参与者数量未澄清，未作四星肯定同宫或昌曲均入命；廉贪自身明确命可表。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0436_C0440_V3.json",
+      "decision_sha256": "4601e51d3539e7777fdc9380c2662b4a49470f41b373fa1954bc692b148aa09f"
+    },
+    {
+      "chunk": 442,
+      "classes": [
+        "relation_semantics_or_representation_hold"
+      ],
+      "actual_unresolved": [
+        "来宫/缺七杀损断言与己年爭业配置整排；其他完整古引分句保留，不借邻文修复。",
+        "semantic_hold:C0442:命宮或身宮坐七殺参与宫位互择schema不能忠实表达；只保另句明确七杀坐命，不宣称该关系覆盖互择。"
+      ],
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0441_C0445_V3.json",
+      "decision_sha256": "019d510d3ccb63e4a5973adaab8e2800eb2f18b369ab8bed730bb7e998091e8e"
+    }
+  ],
+  "not_all_unresolved_are_holds": "Source damage/exclusion notes remain separately in decisions; they are not automatically newly blocked semantic representation cases.",
+  "C447": "Q4 section5 unregistered relation term with full participants/source evidence, not registered edge and not an OR hold.",
+  "formal_S6_passed": false
+}

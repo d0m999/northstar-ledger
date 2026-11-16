@@ -1,0 +1,2592 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "武曲会火星或铃星的负面作用须结合旺陷吉煞。作者区分无化忌时未必有大碍、化忌引动火克金时加凶，以及武曲化禄时火炼金而利人际求财；女命婚恋仍须考虑配偶个性与忍让，不能径断早寡。",
+        "summary_en": "The author makes Wu Qu with Huo Xing or Ling Xing conditional on strength and benefic or malefic influences. Without Hua Ji, serious harm is not inevitable; Hua Ji, including Wu Qu Hua Ji, activates the adverse fire–metal account. Wu Qu Hua Lu instead changes it to beneficial refinement supporting relationships and wealth. Female-marriage conclusions remain dependent on the spouse’s temperament and tolerance, rather than inevitably implying widowhood.",
+        "keywords": [
+          "武曲",
+          "火星",
+          "铃星",
+          "化忌",
+          "化禄",
+          "寡宿凶格",
+          "配偶差异"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "Huo Xing",
+          "Ling Xing",
+          "Hua Ji",
+          "Hua Lu",
+          "Gu Su pattern",
+          "spousal differences"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "火星",
+            "铃星"
+          ],
+          "star_pairs_mentioned": [
+            "火星铃星"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "四化星"
+          ],
+          "analysis_methods": [
+            "四化分析"
+          ],
+          "topics_mentioned": [
+            "感情姻缘",
+            "人际关系",
+            "财运分析"
+          ],
+          "sihua_mentioned": [
+            {
+              "star": null,
+              "transformation": "化忌",
+              "scope_id": "c011_ji"
+            },
+            {
+              "star": "武曲",
+              "transformation": "化忌",
+              "scope_id": "c011_ji"
+            },
+            {
+              "star": "武曲",
+              "transformation": "化禄",
+              "scope_id": "c011_lu"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "寡宿",
+              "proposed_category": "source_pattern",
+              "reason": "此处武曲火星受忌引动的凶格称谓，不当独立寡宿星或无条件成格。",
+              "english_surface": "Gu Su",
+              "scope_id": "c011_rules"
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 199,
+                "end": 207,
+                "quote": "當武曲會合火星時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 199,
+                "end": 207,
+                "quote": "當武曲會合火星時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 379,
+                "end": 391,
+                "quote": "因鈴星和火星為成對的星曜"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 379,
+                "end": 391,
+                "quote": "因鈴星和火星為成對的星曜"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 250,
+                "quote": "火來剋（武曲）金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 533,
+                "end": 553,
+                "quote": "但若是武曲化祿，則武曲火星成為火「煉」金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 437,
+                "end": 461,
+                "quote": "若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 259,
+                "end": 273,
+                "quote": "不利於婚姻感情及親情人際關係"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 259,
+                "end": 273,
+                "quote": "不利於婚姻感情及親情人際關係"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.2",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 517,
+                "end": 532,
+                "quote": "且因武曲為財帛主，亦不利於求財"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c011_ji",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象"
+            },
+            "spans": [
+              {
+                "start": 463,
+                "end": 486,
+                "quote": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.star",
+            "scope": {
+              "scope_id": "c011_ji",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c011_ji",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象"
+            },
+            "spans": [
+              {
+                "start": 469,
+                "end": 474,
+                "quote": "如武曲化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.2",
+            "scope": {
+              "scope_id": "c011_lu",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是武曲化祿"
+            },
+            "spans": [
+              {
+                "start": 533,
+                "end": 553,
+                "quote": "但若是武曲化祿，則武曲火星成為火「煉」金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c011_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 487,
+                "end": 499,
+                "quote": "則成為正格的「寡宿」凶格"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c011"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "会合未推同宫。两种化忌记一般未指明星及明确例武曲，同一引凶scope；化禄另scope，配偶柔弱忍让例外保留摘要。未把古性别规范当现实判断或填盘类。 全源完整性核对发现此前证据命中上下文前缀；本次逐读正文，以实际作者定义/讨论及完整必要条件改精确证据，不改标签、其他语义或既有hold。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "作者将武曲无吉多煞的婚恋人际解释用于男女，并述火铃再受忌冲的健康可能。首全书廟旺值羊陀及末先贤男女会羊陀两完整古引保留；中间雨刚/因克损长引排除，四煞定义保留。",
+        "summary_en": "The author applies the no-support/affliction interpretation to both sexes and discusses possible health issues when Huo/Ling also receives Ji influence. The intact opening classical quotation about strong Wu Qu with Yang/Tuo and the final both-sexes Yang/Tuo quotation are retained. The damaged intervening quotation remains excluded; the four-malefic definition remains.",
+        "keywords": [
+          "武曲",
+          "火铃",
+          "化忌",
+          "健康",
+          "四煞",
+          "男女适用"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "Huo Xing and Ling Xing",
+          "Hua Ji",
+          "health",
+          "four malefics",
+          "both sexes"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "擎羊",
+            "陀罗",
+            "火星",
+            "铃星",
+            "武曲",
+            "擎羊",
+            "陀罗"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "topics_mentioned": [
+            "感情姻缘",
+            "人际关系",
+            "健康医疗"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "四化星"
+          ],
+          "sihua_mentioned": [
+            {
+              "star": null,
+              "transformation": "化忌",
+              "scope_id": "c012_health"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c012_placement",
+              "condition": "只要是武曲坐命不會吉或會煞多者",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c012_classic_first",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）",
+              "negated": false
+            }
+          ],
+          "star_pairs_mentioned": [
+            "擎羊陀罗",
+            "擎羊陀罗",
+            "火星铃星"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 131,
+                "quote": "只要是武曲坐命不會吉或會煞多者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 433,
+                "end": 441,
+                "quote": "四煞是指羊陀火鈴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 433,
+                "end": 441,
+                "quote": "四煞是指羊陀火鈴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 433,
+                "end": 441,
+                "quote": "四煞是指羊陀火鈴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 433,
+                "end": 441,
+                "quote": "四煞是指羊陀火鈴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 131,
+                "quote": "只要是武曲坐命不會吉或會煞多者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 132,
+                "end": 146,
+                "quote": "均不利婚姻感情和親情人際關係"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 132,
+                "end": 146,
+                "quote": "均不利婚姻感情和親情人際關係"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.2",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 182,
+                "end": 194,
+                "quote": "則有可能是本身的健康問題"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 52,
+                "end": 66,
+                "quote": "有關武曲為「寡宿」的諸多說明"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c012_author",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 172,
+                "end": 181,
+                "quote": "此時若再有化忌來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c012_health",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖"
+            },
+            "spans": [
+              {
+                "start": 154,
+                "end": 181,
+                "quote": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.star",
+            "scope": {
+              "scope_id": "c012_health",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c012_placement",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "只要是武曲坐命不會吉或會煞多者"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 131,
+                "quote": "只要是武曲坐命不會吉或會煞多者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c012_classic_first",
+              "kind": "conditional",
+              "attribution": "全书完整首引，不与中间损长引混合",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            "spans": [
+              {
+                "start": 272,
+                "end": 281,
+                "quote": "武曲守命廟旺值羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c012_classic_first",
+              "kind": "conditional",
+              "attribution": "全书完整首引，不与中间损长引混合",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            "spans": [
+              {
+                "start": 272,
+                "end": 281,
+                "quote": "武曲守命廟旺值羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.7",
+            "scope": {
+              "scope_id": "c012_classic_first",
+              "kind": "conditional",
+              "attribution": "全书完整首引，不与中间损长引混合",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            "spans": [
+              {
+                "start": 272,
+                "end": 281,
+                "quote": "武曲守命廟旺值羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c012_classic_first",
+              "kind": "conditional",
+              "attribution": "全书完整首引，不与中间损长引混合",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            "spans": [
+              {
+                "start": 272,
+                "end": 281,
+                "quote": "武曲守命廟旺值羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c012_classic_first",
+              "kind": "conditional",
+              "attribution": "全书完整首引，不与中间损长引混合",
+              "condition": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            "spans": [
+              {
+                "start": 272,
+                "end": 281,
+                "quote": "武曲守命廟旺值羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.1",
+            "scope": {
+              "scope_id": "c012_classic_last",
+              "kind": "conditional",
+              "attribution": "先贤完整不论男女会羊陀短引，源观点非现实断言",
+              "condition": "而先賢亦有類似的說法如下：「此星不論男女逢之，而會合羊陀，男孤、女寡，刑剋極重。」（註四）"
+            },
+            "spans": [
+              {
+                "start": 396,
+                "end": 410,
+                "quote": "此星不論男女逢之，而會合羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.2",
+            "scope": {
+              "scope_id": "c012_health",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖"
+            },
+            "spans": [
+              {
+                "start": 164,
+                "end": 171,
+                "quote": "特別是坐會火鈴"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "保作者条件段、首完整全书引文与末完整先贤会羊陀短引及四煞定义；仅雨剛/因剋所在中段引文仍排，不修字。",
+          "usable_spans": [
+            {
+              "start": 50,
+              "end": 215,
+              "quote": "前面有關武曲為「寡宿」的諸多說明，均是以女命為主，實則亦適用於男命，只不過因傳統認為男喜陽剛、女喜陰柔，故較不利女命。其實不論男女，只要是武曲坐命不會吉或會煞多者，均不利婚姻感情和親情人際關係。惟須注意的是，當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題。關於武曲在疾病的推論，將於後再詳述之。\n"
+            },
+            {
+              "start": 244,
+              "end": 314,
+              "quote": "《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）"
+            },
+            {
+              "start": 382,
+              "end": 427,
+              "quote": "而先賢亦有類似的說法如下：「此星不論男女逢之，而會合羊陀，男孤、女寡，刑剋極重。」（註四）"
+            },
+            {
+              "start": 427,
+              "end": 443,
+              "quote": "又，賦文中的四煞是指羊陀火鈴。\n"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c012"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "保作者条件段、首完整全书引文与末完整先贤会羊陀短引及四煞定义；仅雨剛/因剋所在中段引文仍排，不修字。"
+        ],
+        "notes": "完整排除疑损古引而不凭经验修字；健康为来源命理解释，不推医学诊断。四煞定义明确列四星，火铃没有推同宫；化忌不明星独立null。 新独审恢复两个独立完整古引，不放开中损句，羊陀/火铃对星仅各自完整scope提及，古引武曲命明确。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "林太太命宫子位由武曲、天府、文昌、左辅坐守并见禄权，身宫申有廉贞、禄存、天马，作者称命身为紫府相朝垣。作者以传统男女角色讨论强格局须配合婚姻互动、配偶包容，不能仅凭格局强便断富贵全美。",
+        "summary_en": "In Mrs. Lin’s case, Wu Qu, Tian Fu, Wen Chang and Zuo Fu occupy the Life Palace in Zi, with Lu and Quan influences. Lian Zhen, Lu Cun and Tian Ma share the Body Palace in Shen. The author calls the Life/Body configuration Zi Fu Xiang Chao Yuan, then argues that a strong configuration alone does not guarantee complete prosperity: marital coordination and a spouse’s tolerance matter. The gender-role framing is attributed to the traditional source.",
+        "keywords": [
+          "林太太",
+          "武曲天府",
+          "文昌左辅",
+          "廉贞",
+          "禄存天马",
+          "紫府相朝垣",
+          "婚姻配合"
+        ],
+        "keywords_en": [
+          "Mrs. Lin",
+          "Wu Qu and Tian Fu",
+          "Wen Chang and Zuo Fu",
+          "Lian Zhen",
+          "Lu Cun and Tian Ma",
+          "Zi Fu Xiang Chao Yuan",
+          "marital coordination"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "天府",
+            "文昌",
+            "左辅",
+            "廉贞",
+            "禄存",
+            "天马",
+            "文曲",
+            "右弼"
+          ],
+          "palaces_mentioned": [
+            "命宫",
+            "身宫"
+          ],
+          "star_pairs_mentioned": [
+            "禄存天马",
+            "文昌文曲",
+            "左辅右弼"
+          ],
+          "knowledge_domains": [
+            "格局解析"
+          ],
+          "analysis_methods": [
+            "格局分析"
+          ],
+          "topics_mentioned": [
+            "感情姻缘",
+            "人际关系"
+          ],
+          "relationship_types_mentioned": [
+            "夫妻"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "文昌"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "左辅"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "身宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "身宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天马"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "身宫"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "文昌"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "左辅"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "廉贞"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天马"
+                }
+              ],
+              "scope_id": "c013_lin",
+              "condition": null,
+              "negated": false
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "紫府相朝垣",
+              "proposed_category": "source_pattern",
+              "reason": "原文完整称谓与已注册紫府朝垣/府相朝垣不同，不无声合并。",
+              "english_surface": "Zi Fu Xiang Chao Yuan",
+              "scope_id": "c013_lin"
+            }
+          ],
+          "time_mentions": [
+            {
+              "time_context": "本命",
+              "scope_id": "c013_lin_natal",
+              "subject": "林太太先天命理格局",
+              "chart_type": null
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": null,
+              "transformation": "化禄",
+              "scope_id": "c013_luquan"
+            },
+            {
+              "star": null,
+              "transformation": "化权",
+              "scope_id": "c013_luquan"
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 108,
+                "quote": "武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 108,
+                "quote": "武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 108,
+                "quote": "武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 108,
+                "quote": "武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 123,
+                "end": 134,
+                "quote": "廉貞並祿存天馬同宮坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 123,
+                "end": 134,
+                "quote": "廉貞並祿存天馬同宮坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 123,
+                "end": 134,
+                "quote": "廉貞並祿存天馬同宮坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.7",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 136,
+                "end": 146,
+                "quote": "三方並有昌曲左右來合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.8",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 136,
+                "end": 146,
+                "quote": "三方並有昌曲左右來合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 88,
+                "end": 96,
+                "quote": "林太太的命宮在子"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 120,
+                "quote": "身宮在申"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 126,
+                "end": 134,
+                "quote": "祿存天馬同宮坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.1",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 140,
+                "end": 146,
+                "quote": "昌曲左右來合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.2",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 140,
+                "end": 146,
+                "quote": "昌曲左右來合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 147,
+                "end": 161,
+                "quote": "命身皆為「紫府相朝垣」大格局"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 147,
+                "end": 161,
+                "quote": "命身皆為「紫府相朝垣」大格局"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 226,
+                "end": 234,
+                "quote": "其中尤以婚姻為重"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 254,
+                "end": 267,
+                "quote": "夫妻間的互動關係能協調良好"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relationship_types_mentioned.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 254,
+                "end": 267,
+                "quote": "夫妻間的互動關係能協調良好"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 88,
+                "end": 108,
+                "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 88,
+                "end": 108,
+                "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 88,
+                "end": 108,
+                "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 88,
+                "end": 108,
+                "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.4",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 135,
+                "quote": "身宮在申，除有廉貞並祿存天馬同宮坐守外"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.5",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 135,
+                "quote": "身宮在申，除有廉貞並祿存天馬同宮坐守外"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.6",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 116,
+                "end": 135,
+                "quote": "身宮在申，除有廉貞並祿存天馬同宮坐守外"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.7",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 108,
+                "quote": "武曲天府和文昌左輔坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.8",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 123,
+                "end": 134,
+                "quote": "廉貞並祿存天馬同宮坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c013_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 152,
+                "end": 157,
+                "quote": "紫府相朝垣"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c013_lin_natal",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 167,
+                "end": 177,
+                "quote": "女命先天命理格局太強"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c013_luquan",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 109,
+                "end": 115,
+                "quote": "並有祿權照會"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.star",
+            "scope": {
+              "scope_id": "c013_luquan",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c013_luquan",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 109,
+                "end": 115,
+                "quote": "並有祿權照會"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1.star",
+            "scope": {
+              "scope_id": "c013_luquan",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_mentioned"
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c013"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "明确坐守者绑定命/身宫；昌曲左右三方来合仅提及不推同宫。禄权未明确写化禄/化权，不强造四化对象。先天格局只记时间语境不推盘类。旧性别价值语言仅归属于来源，不归咎受暴者。 V2独立审改：禄权照会明确四化，未知承载星各自null，不赋命宫承载。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "medium",
+        "summary": "盘二图文列示林女士命例；只采用完整图注：命宫在子，武曲天府坐守，火铃自左右邻宫夹制。后续图注记叙其赚钱养家却遭丈夫殴打。零散盘位OCR及疑损反问不用于重建星位或推断暴力必然性。",
+        "summary_en": "Only the intact caption is used from this OCR chart: the Life Palace is in Zi with Wu Qu and Tian Fu, flanked from neighboring palaces by Huo Xing and Ling Xing. The caption describes the woman supporting her family financially while suffering violence from her husband. Fragmented chart geometry and damaged questions are excluded, and no inevitability of violence is inferred.",
+        "keywords": [
+          "盘二",
+          "武曲天府",
+          "命宫",
+          "火铃夹制",
+          "林女士命例",
+          "图文质量"
+        ],
+        "keywords_en": [
+          "Chart Two",
+          "Wu Qu and Tian Fu",
+          "Life Palace",
+          "Huo Xing and Ling Xing flanking",
+          "Mrs. Lin case",
+          "OCR limitations"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "天府",
+            "火星",
+            "铃星"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "格局解析"
+          ],
+          "topics_mentioned": [
+            "感情姻缘",
+            "财运分析"
+          ],
+          "relationship_types_mentioned": [
+            "夫妻"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c014_caption",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c014_caption",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天府"
+                }
+              ],
+              "scope_id": "c014_caption",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "夹辅",
+              "participants": [
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "铃星"
+                },
+                {
+                  "role": "target",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c014_caption",
+              "condition": null,
+              "negated": false
+            }
+          ],
+          "star_pairs_mentioned": [
+            "火星铃星"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 247,
+                "end": 253,
+                "quote": "武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 247,
+                "end": 253,
+                "quote": "武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 256,
+                "end": 268,
+                "quote": "火星及鈴星自左右鄰宮夾制"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 256,
+                "end": 268,
+                "quote": "火星及鈴星自左右鄰宮夾制"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 253,
+                "quote": "命宮在子，武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 269,
+                "end": 280,
+                "quote": "這個命造命身格局這麽大"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 295,
+                "end": 302,
+                "quote": "卻會挨老公的揍"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 288,
+                "end": 294,
+                "quote": "賺錢養家之餘"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relationship_types_mentioned.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 295,
+                "end": 302,
+                "quote": "卻會挨老公的揍"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 253,
+                "quote": "命宮在子，武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 253,
+                "quote": "命宮在子，武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 253,
+                "quote": "命宮在子，武曲天府坐守"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 242,
+                "end": 269,
+                "quote": "命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c014_caption",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 256,
+                "end": 268,
+                "quote": "火星及鈴星自左右鄰宮夾制"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "盘位OCR碎片不用于重建几何；后段逻過/挨捺疑损反问整体排除，只保留完整图注。",
+          "usable_spans": [
+            {
+              "start": 242,
+              "end": 303,
+              "quote": "命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。這個命造命身格局這麽大，是個女強人，但賺錢養家之餘，卻會挨老公的揍。"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c014"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "盘位OCR碎片不用于重建几何；后段逻過/挨捺疑损反问整体排除，只保留完整图注。"
+        ],
+        "notes": "不读散乱盘位作精确星宫配对，关系仅据完整caption；未猜火铃各在哪一侧。家暴为原文案例记叙，非命盘导致或受害人责任。未从弱OCR年份赋时间对象。 完整caption火铃对星补记，不从图盘添星。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "hard",
+        "summary": "林太太先天夫妻宫戌虽被古语称君臣不义，因无煞且命与夫妻宫见左右，作者不作必然论。命宫子受邻宫火铃夹，火星同宫天同化忌；行限若使太阴或太阳化忌形成双忌夹，才引火克金，并须结合配偶太岁宫位判断婚姻。",
+        "summary_en": "The author does not treat Mrs. Lin’s Xu Spouse Palace as inevitably producing marital disloyalty: the cited Zi Po Chen Xu configuration is moderated by the absence of malefics and Zuo Fu/You Bi. Her Zi Life Palace is flanked by Huo Xing and Ling Xing, with Tian Tong Hua Ji sharing Huo Xing’s palace. A fortune-period Tai Yin or Tai Yang Hua Ji forming double flanking Ji activates the adverse account; the spouse’s Tai Sui palace is another condition.",
+        "keywords": [
+          "林太太",
+          "夫妻宫",
+          "紫破辰戌",
+          "左辅右弼",
+          "火铃",
+          "天同化忌",
+          "双忌夹",
+          "太岁宫"
+        ],
+        "keywords_en": [
+          "Mrs. Lin",
+          "Spouse Palace",
+          "Zi Po Chen Xu",
+          "Zuo Fu and You Bi",
+          "Huo Xing and Ling Xing",
+          "Tian Tong Hua Ji",
+          "double flanking Ji",
+          "Tai Sui palace"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "左辅",
+            "右弼",
+            "铃星",
+            "火星",
+            "天同",
+            "太阴",
+            "太阳",
+            "武曲",
+            "紫微",
+            "破军"
+          ],
+          "palaces_mentioned": [
+            "夫妻宫",
+            "命宫"
+          ],
+          "topics_mentioned": [
+            "感情姻缘"
+          ],
+          "knowledge_domains": [
+            "格局解析",
+            "四化星"
+          ],
+          "analysis_methods": [
+            "三方四正",
+            "四化分析"
+          ],
+          "time_mentions": [
+            {
+              "time_context": "本命",
+              "scope_id": "c015_lin",
+              "subject": "林太太命宫与夫妻宫",
+              "chart_type": null
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "天同",
+              "transformation": "化忌",
+              "scope_id": "c015_lin"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天同"
+                }
+              ],
+              "scope_id": "c015_lin",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "夹辅",
+              "participants": [
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "铃星"
+                },
+                {
+                  "role": "flanker",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "target",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c015_flank",
+              "condition": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n",
+              "negated": false
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "君臣不義",
+              "proposed_category": "source_verse",
+              "reason": "原文紫破辰戌评价，不合并为君臣庆会等格局。",
+              "english_surface": "Jun Chen Bu Yi",
+              "scope_id": "c015_lin"
+            },
+            {
+              "surface": "太歲宮位",
+              "proposed_category": "source_palace_concept",
+              "reason": "原文配偶太岁定位概念未注册，不映射成夫妻宫。",
+              "english_surface": "Tai Sui palace",
+              "scope_id": "c015_lin"
+            },
+            {
+              "surface": "寡宿",
+              "proposed_category": "source_pattern_term",
+              "reason": "源凶格名非寡宿星，不合并其他格",
+              "english_surface": "widowhood-pattern term",
+              "scope_id": "c015_flank"
+            },
+            {
+              "surface": "行限",
+              "proposed_category": "source_time_term",
+              "reason": "本块裸限不推大限类型",
+              "english_surface": "fortune period",
+              "scope_id": "c015_flank"
+            }
+          ],
+          "star_pairs_mentioned": [
+            "火星铃星"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 114,
+                "end": 129,
+                "quote": "命宮及夫妻宮分別見到左輔及右弼"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 114,
+                "end": 129,
+                "quote": "命宮及夫妻宮分別見到左輔及右弼"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 214,
+                "end": 228,
+                "quote": "左右鄰宮分別有鈴星及火星坐入"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 214,
+                "end": 228,
+                "quote": "左右鄰宮分別有鈴星及火星坐入"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 235,
+                "end": 244,
+                "quote": "火星同宮有天同化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 253,
+                "end": 260,
+                "quote": "太陰或太陽化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 253,
+                "end": 260,
+                "quote": "太陰或太陽化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.7",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 300,
+                "end": 315,
+                "quote": "對武曲產生「火剋金」的剋害作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.8",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 84,
+                "end": 93,
+                "quote": "紫破辰戌，君臣不義"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.9",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 84,
+                "end": 93,
+                "quote": "紫破辰戌，君臣不義"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 71,
+                "end": 78,
+                "quote": "先天夫妻宮在戌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 195,
+                "end": 208,
+                "quote": "子宮（即林太太的先天命宮）"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 336,
+                "end": 345,
+                "quote": "相當不利於婚姻感情"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 330,
+                "end": 335,
+                "quote": "寡宿」凶格"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 235,
+                "end": 244,
+                "quote": "火星同宮有天同化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 100,
+                "end": 111,
+                "quote": "戌宮的三方四正不見煞曜"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.1",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 245,
+                "end": 260,
+                "quote": "此時只要行限造成太陰或太陽化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 156,
+                "end": 164,
+                "quote": "先天命宮及夫妻宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 235,
+                "end": 244,
+                "quote": "火星同宮有天同化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 235,
+                "end": 244,
+                "quote": "火星同宮有天同化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 89,
+                "end": 93,
+                "quote": "君臣不義"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.1",
+            "scope": {
+              "scope_id": "c015_lin",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 354,
+                "end": 358,
+                "quote": "太歲宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c015_flank",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+            },
+            "spans": [
+              {
+                "start": 213,
+                "end": 228,
+                "quote": "其左右鄰宮分別有鈴星及火星坐入"
+              },
+              {
+                "start": 195,
+                "end": 208,
+                "quote": "子宮（即林太太的先天命宮）"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c015_flank",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+            },
+            "spans": [
+              {
+                "start": 213,
+                "end": 228,
+                "quote": "其左右鄰宮分別有鈴星及火星坐入"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.2",
+            "scope": {
+              "scope_id": "c015_flank",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+            },
+            "spans": [
+              {
+                "start": 330,
+                "end": 332,
+                "quote": "寡宿"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.3",
+            "scope": {
+              "scope_id": "c015_flank",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+            },
+            "spans": [
+              {
+                "start": 249,
+                "end": 251,
+                "quote": "行限"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c015"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "semantic_representation_pending:C0015:太陰或太陽化忌为互择，冻结对象无分支逻辑；撤两同scope肯定四化以免AND误表，保原文/双语/两星提及与天同忌，未以未知术语宣称通关。"
+        ],
+        "notes": "太阴/太阳为或的条件候选，不称两者同时化忌；行限未明大限不猜盘类。未从紫破缩称推同宫，左右分别绑定按明确分別。太岁宫不映射夫妻，保留婚姻非必然及配偶条件，英文逐项覆盖。 V2独立审改：分别见到仅提及，删除左右入宫关系。 补邻宫双证据夹命/对星与寡宿原词、裸行限。太阴或太阳化忌互择另真实pending，不与火铃固定夹宫关系混淆。"
+      }
+    }
+  ]
+}

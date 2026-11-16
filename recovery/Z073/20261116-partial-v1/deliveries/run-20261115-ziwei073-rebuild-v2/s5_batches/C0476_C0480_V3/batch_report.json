@@ -1,0 +1,1885 @@
+{
+  "status": "candidate_validated_structure_not_S6",
+  "source_id": "ziwei_073",
+  "field_evidence": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c476",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 94,
+              "quote": "由祿存宮位起博士"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 95,
+              "end": 100,
+              "quote": "依序為博士"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 101,
+              "end": 106,
+              "quote": "力士、青龍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 101,
+              "end": 106,
+              "quote": "力士、青龍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 107,
+              "end": 112,
+              "quote": "小耗、將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 107,
+              "end": 112,
+              "quote": "小耗、將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 113,
+              "end": 118,
+              "quote": "奏書、飛廉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.7",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 113,
+              "end": 118,
+              "quote": "奏書、飛廉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.8",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 119,
+              "end": 124,
+              "quote": "喜神、病符"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.9",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 119,
+              "end": 124,
+              "quote": "喜神、病符"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.10",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 125,
+              "end": 130,
+              "quote": "大耗、伏兵"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.11",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 125,
+              "end": 130,
+              "quote": "大耗、伏兵"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.12",
+          "scope": {
+            "scope_id": "c476_sequence",
+            "kind": "rule",
+            "condition": "博士十二神的排法如下：由祿存宮位起博士，依序為博士、力士、青龍、小耗、將軍、奏書、飛廉、喜神、病符、大耗、伏兵、官符。（若為陽男陰女取順行，若為陰男陽女取逆行）。若以祿存宮位為基準起算，則將軍必坐入第五個宮位。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 128,
+              "end": 133,
+              "quote": "伏兵、官符"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.13",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 228,
+              "quote": "廉相在午與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.14",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 228,
+              "quote": "廉相在午與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.15",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 278,
+              "quote": "破軍化權"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.16",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 279,
+              "end": 283,
+              "quote": "武曲化科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 335,
+              "quote": "廉相在午坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 267,
+              "quote": "祿存自財帛宮旺宮來合"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 335,
+              "quote": "廉相在午坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 335,
+              "quote": "廉相在午坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 228,
+              "quote": "廉相在午與將軍同宮"
+            },
+            {
+              "start": 328,
+              "end": 335,
+              "quote": "廉相在午坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 228,
+              "quote": "廉相在午與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 267,
+              "quote": "祿存自財帛宮旺宮來合"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 242,
+              "end": 256,
+              "quote": "廉相在午，甲年生人，廉貞化祿"
+            },
+            {
+              "start": 328,
+              "end": 335,
+              "quote": "廉相在午坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 242,
+              "end": 256,
+              "quote": "廉相在午，甲年生人，廉貞化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 278,
+              "quote": "破軍化權"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 279,
+              "end": 283,
+              "quote": "武曲化科"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 268,
+              "end": 290,
+              "quote": "同時命宮也因破軍化權及武曲化科成「三奇嘉會」"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 181,
+              "end": 383,
+              "quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 181,
+              "end": 383,
+              "quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 181,
+              "end": 383,
+              "quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c476_case",
+            "kind": "case",
+            "condition": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 181,
+              "end": 383,
+              "quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c476"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c477",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c477_archive",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c477"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c478",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 94,
+              "quote": "廉破在酉與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 94,
+              "quote": "廉破在酉與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 94,
+              "quote": "廉破在酉與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 68,
+              "quote": "祿存在巳宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 167,
+              "end": 173,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 167,
+              "end": 173,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 125,
+              "end": 134,
+              "quote": "致使命宮成水火相剋"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 167,
+              "end": 173,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 94,
+              "quote": "廉破在酉與將軍同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 124,
+              "quote": "丙年生人，廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 124,
+              "quote": "丙年生人，廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 47,
+              "end": 265,
+              "quote": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c478_case",
+            "kind": "conditional",
+            "condition": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 47,
+              "end": 265,
+              "quote": "又如盤四十二所示，男命丙年生人，祿存在巳宮，因陽男順行，則將軍在酉宮，此時僅廉破在酉與將軍同宮，就構成本賦文的基本要件。廉破在酉為陷宮，丙年生人，廉貞化忌，致使命宮成水火相剋，且廉破不但為北斗剛星，也是惡星，此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。\n至於其他年份生人部份，有興趣的讀者，不妨仿造上述的做法，就能了解「仲由威猛，廉貞入廟遇將軍」對不同年份生人的作用，究竟是吉或凶。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c478"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c479",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 199,
+              "quote": "廉破在酉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 199,
+              "quote": "廉破在酉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 205,
+              "end": 210,
+              "quote": "將軍入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 245,
+              "end": 251,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 245,
+              "end": 251,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 245,
+              "end": 251,
+              "quote": "若再會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 205,
+              "end": 210,
+              "quote": "將軍入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 205,
+              "end": 210,
+              "quote": "將軍入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 199,
+              "quote": "廉破在酉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 216,
+              "quote": "因廉貞化忌"
+            },
+            {
+              "start": 195,
+              "end": 210,
+              "quote": "廉破在酉，丙年生人，將軍入命宮"
+            },
+            {
+              "start": 252,
+              "end": 259,
+              "quote": "此時同宮的將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 277,
+              "quote": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 277,
+              "quote": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 210,
+              "quote": "廉破在酉，丙年生人，將軍入命宮"
+            },
+            {
+              "start": 252,
+              "end": 259,
+              "quote": "此時同宮的將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 210,
+              "quote": "廉破在酉，丙年生人，將軍入命宮"
+            },
+            {
+              "start": 252,
+              "end": 259,
+              "quote": "此時同宮的將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c479_caption",
+            "kind": "conditional",
+            "condition": "廉破在酉，丙年生人，將軍入命宮。因廉貞化忌，致使命宮成水火相剋，造成此人脾氣剛烈又不好。因命宮凶弱，若再會沖火鈴，此時同宮的將軍就會加重命造為人「凶暴狠毒」的一面。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 195,
+              "end": 210,
+              "quote": "廉破在酉，丙年生人，將軍入命宮"
+            },
+            {
+              "start": 252,
+              "end": 259,
+              "quote": "此時同宮的將軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c479"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c480",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 193,
+              "quote": "廉貞與白虎同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 193,
+              "quote": "廉貞與白虎同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 193,
+              "quote": "廉貞與白虎同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 206,
+              "end": 218,
+              "quote": "當廉貞坐入宮位，忌煞交冲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 411,
+              "quote": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c480_author",
+            "kind": "conditional",
+            "condition": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 411,
+              "quote": "本賦文與基本賦性中的廉貞「有白虎同，則牢獄之災不免」類似，主要都是在探討廉貞與白虎同宮時的命理現象。基本上是說，當廉貞坐入宮位，忌煞交冲，若再坐會白虎，就易有糾紛，嚴重時甚至會官司纏身，甚至有牢獄之災。\n因白虎主「官非」，當坐入宮位忌煞交沖時，除會顯現其「官非」作用外，也會加重該宮位的凶象。而「官非」以現代生活而言，可以解釋成糾紛或官司，視坐入宮位的凶象而定。惟須注意的是，必須廉貞坐入宮位，忌煞交冲，若再坐會白虎，才可能有官非，卻不能只因廉貞與白虎同宮，就會「刑杖難免」或「牢獄之災不免」。又，刑杖，責打犯人的棍棒。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 109,
+              "end": 117,
+              "quote": "流年白虎同宮相沖"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 121,
+              "end": 131,
+              "quote": "若加擎羊，或羊陀相夾"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 126,
+              "end": 131,
+              "quote": "或羊陀相夾"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 126,
+              "end": 131,
+              "quote": "或羊陀相夾"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 70,
+              "end": 74,
+              "quote": "囚星入命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 70,
+              "end": 74,
+              "quote": "囚星入命"
+            },
+            {
+              "start": 48,
+              "end": 52,
+              "quote": "廉貞白虎"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c480_classic",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n再如人行運逢廉囚，而有流年白虎同宮相沖，亦凶，若加擎羊，或羊陀相夾，相併，更甚，\n\n煞多，丧命之運。」\n",
+            "attribution": "先贤古注的条件性凶象，作者随后限制非必然"
+          },
+          "spans": [
+            {
+              "start": 82,
+              "end": 85,
+              "quote": "本生命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c480_classic_birth_clause",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n",
+            "attribution": "先贤古注首囚星入命与本生命白虎同度分支；不与后流年同宫相冲分支混合"
+          },
+          "spans": [
+            {
+              "start": 70,
+              "end": 90,
+              "quote": "囚星入命，不論廟陷，若與本生命之白虎同度"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c480_classic_birth_clause",
+            "kind": "conditional",
+            "condition": "先賢曰：「廉貞白虎，刑杖難免。」先賢對之有註解如下：「囚星入命，不論廟陷，若與本生命之白虎同度，主易犯官刑。\n",
+            "attribution": "先贤古注首囚星入命与本生命白虎同度分支；不与后流年同宫相冲分支混合"
+          },
+          "spans": [
+            {
+              "start": 70,
+              "end": 90,
+              "quote": "囚星入命，不論廟陷，若與本生命之白虎同度"
+            },
+            {
+              "start": 48,
+              "end": 52,
+              "quote": "廉貞白虎"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c480"
+      ]
+    }
+  ],
+  "quality_reviews": [
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "十二神依序仅提及，不给每星实际宫/泛排盘关系；甲男第五午是本例，顺逆完整男女规则保留。破权武科吉化命不等入命，未只看甲年给后两对象干。廉禄命由本段廉相午命明确，财禄存来合不入命。 廉禄命承载字段补本块明确廉相午命双证据。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c476"
+    },
+    {
+      "retrieval_status": "archive_only",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "依S4排破碎图注整句后无完整独立可用断言；保原始混排，不把中间配置词串截接效果。"
+      ],
+      "notes": "即使可认个别廉相午/甲年/将军命词串，均嵌入前后倒置效果断句，按既定整句排除不抽半句重排。S4原limited不改，本批无剩余usable故更严格archive。无借476/旧标签。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c477"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "本块只明酉同宫及命凶效果，未直接坐命命题时不补三入命/承载，待独审双证据核。将军作用需命凶且再火铃，不推广所有丙年；注十二为本书附注不可省而把将军当作者实践必用。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c478"
+    },
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "仅完整caption，不从原图补同禄等"
+      ],
+      "notes": "caption将军命明确，末同宫将军回指同廉破但须谨慎可由独核决定三同/其他承载双证据，不借478。生丙与后因廉忌无逐干因果句不机械填；负面条件全文保。 同块将军入命与后此时同宫回指确指廉破，补三同及廉破命和廉忌命双证据，不借478。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c479"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "古注囚星依同句廉白虎主题指廉，若生字时间不明确保原词不补本命。羊加或羊陀夹不合全星同时关系，未知忌不等廉忌。作者同宫仅几何/讨论，风险须额外忌煞且可能而非必定。刑杖定义不提供施害指导。 古注首条件囚入命若白虎同度补独立廉虎同宫及虎命，不改本生命时间词，不并后流年作用。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c480"
+    }
+  ],
+  "author_decision": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+    "bytes": 115890,
+    "sha256": "43b24d5d63f3dac3ef51ca1bce827ae5ccb16e0ca09f2741f3003dfab69cdbc5"
+  },
+  "plan": {
+    "path": "preparation/S5_AUTHOR_PLAN_V1.json",
+    "bytes": 5313,
+    "sha256": "5e367c21c85a08d8ff8a8077a673b723b75956bc1a4889cf340ab41f9257de3d"
+  },
+  "approval": {
+    "path": "preparation/INDEPENDENT_PREPARATION_APPROVAL_S5_V1.json",
+    "bytes": 2548,
+    "sha256": "31a199d67acf3da0c10dec764238ca04455a98241021f6761d599b3f357c8e0e"
+  },
+  "annotations": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/annotations.jsonl",
+    "bytes": 103138,
+    "sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d"
+  },
+  "chunks": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/deliveries/run-20261115-ziwei073-rebuild-v2/versions/APPROVED_S3/04_chunked/ziwei/ziwei_073.jsonl",
+    "bytes": 578114,
+    "sha256": "21f3621881c7f7c2e818a63b3deb860ca4052cbce48d578b14fed75fe0febb33"
+  },
+  "whole_source_complete": false,
+  "baseline_read": false,
+  "runtime_manifest": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/package/amendments/AB-v1/runtime_manifest.json",
+    "bytes": 7320,
+    "sha256": "0b5b0594cff65d3d2047994c23b65e4c9c1f0993c50052cf15ba0e91e45a0dbb"
+  }
+}

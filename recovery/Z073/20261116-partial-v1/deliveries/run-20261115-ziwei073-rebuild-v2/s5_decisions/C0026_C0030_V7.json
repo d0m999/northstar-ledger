@@ -1,0 +1,1783 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "武曲贪狼仅丑未同度，金木相克。任一化禄转作金制木而见正面作用，仍须多吉才减劳碌；任一化忌则负面显现，即使多吉也劳碌起伏。会煞多不见吉的作用近化忌，不可混同实际化忌。",
+        "summary_en": "Wu Qu and Tan Lang share Chou or Wei and are described as metal–wood conflict. Hua Lu on either star changes the account to constructive control, yet many benefics are still needed to reduce toil. Hua Ji on either brings adversity and fluctuations even with benefics. Many malefics without benefics are compared with Hua Ji in effect, not asserted to be an actual transformation.",
+        "keywords": [
+          "武贪丑未",
+          "化禄",
+          "化忌",
+          "金木作用",
+          "劳碌条件"
+        ],
+        "keywords_en": [
+          "Wu Qu–Tan Lang in Chou or Wei",
+          "Hua Lu",
+          "Hua Ji",
+          "metal–wood interaction",
+          "conditions of toil"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "贪狼"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "四化星"
+          ],
+          "analysis_methods": [
+            "四化分析"
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c026_co",
+              "condition": "武曲與貪狼僅在丑未二宮同度",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": []
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 66,
+                "end": 71,
+                "quote": "武曲與貪狼"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 66,
+                "end": 71,
+                "quote": "武曲與貪狼"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 269,
+                "end": 277,
+                "quote": "武貪在丑未坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 91,
+                "end": 104,
+                "quote": "武曲五行屬金而貪狼五行屬木"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 126,
+                "end": 131,
+                "quote": "化祿或化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c026_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 126,
+                "end": 131,
+                "quote": "化祿或化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c026_co",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲與貪狼僅在丑未二宮同度"
+            },
+            "spans": [
+              {
+                "start": 66,
+                "end": 79,
+                "quote": "武曲與貪狼僅在丑未二宮同度"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c026"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "semantic_representation_pending:C0026:transformation_alternative:c026_化禄:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。",
+          "semantic_representation_pending:C0026:transformation_alternative:c026_化忌:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+        ],
+        "notes": "逐句双分支：任一是替代非同时化，丑未基础条件同scope；多煞类比非自动四化。行运好坏未指大限流年，不造时间盘类；英文保留纵化禄仍劳碌及多吉例外，字面完整。 V4依新独审和当前原文核实补健康scope/对宫/格局条件及方法。 四化互择专项逐项核对源句，删除仅审计指认的共享谓语对象并重映射证据；不改变独立确定对象、不宣称门禁闭环。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "武贪丑未坐命遇任一化忌或多煞无吉，作者称不利财、人际亲情，武曲金内聚易显气量小及吝啬。相克再受煞冲可能涉及健康，但不可径断短命。结论仍须看宫位旺弱吉凶；疑损古引整体排除。",
+        "summary_en": "For Wu Qu–Tan Lang in the Life Palace at Chou or Wei, either Hua Ji or many malefics without benefics is linked by the source to adverse wealth and relationships. Wu Qu’s inward metal symbolism is associated with narrowness and stinginess. Conflict plus malefic opposition raises health concerns, but short life cannot be inferred automatically. Palace strength and benefic/malefic conditions remain decisive; a damaged ancient quotation is excluded.",
+        "keywords": [
+          "武贪",
+          "丑未",
+          "化忌",
+          "人际财务",
+          "寿命非必然"
+        ],
+        "keywords_en": [
+          "Wu Qu–Tan Lang",
+          "Chou and Wei",
+          "Hua Ji",
+          "relationships and wealth",
+          "non-guaranteed lifespan"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "贪狼",
+            "天机"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "topics_mentioned": [
+            "财运分析",
+            "人际关系",
+            "健康医疗"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "四化星"
+          ],
+          "sihua_mentioned": []
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 128,
+                "end": 135,
+                "quote": "武曲因五行屬金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 309,
+                "end": 315,
+                "quote": "貪狼五行屬木"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 275,
+                "end": 281,
+                "quote": "在天機星部份"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 177,
+                "end": 184,
+                "quote": "命宮星曜相剋者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 108,
+                "end": 112,
+                "quote": "不利於財"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 117,
+                "end": 124,
+                "quote": "親情與人際關係"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 128,
+                "end": 135,
+                "quote": "武曲因五行屬金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c027_base",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時"
+            },
+            "spans": [
+              {
+                "start": 66,
+                "end": 72,
+                "quote": "任一星曜化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.2",
+            "scope": {
+              "scope_id": "c027_health",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "因命宮星曜相剋者，除遇事較無法心平氣和外，此時若再有煞星來沖，也較易有健康上的問題"
+            },
+            "spans": [
+              {
+                "start": 176,
+                "end": 217,
+                "quote": "因命宮星曜相剋者，除遇事較無法心平氣和外，此時若再有煞星來沖，也較易有健康上的問題"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "limited",
+          "reason": "古引灭番疑损，完整古引归因句排除，不猜为减寿。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 328,
+              "quote": "[上下文] 《紫雲論斗數星曜賦性》第二冊，武曲；武貪負面作用與不可遽斷壽命。\n---\n從上述解說就可知道，當武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時，此二星曜的負面賦性作用就會被彰顯出來，此時不但不利於財，亦不利於親情與人際關係。再者，武曲因五行屬金，金主「内聚」，在遇有化忌或會煞多時，其人往往不但氣量狹小，且亦較吝嗇。更有甚者，因命宮星曜相剋者，除遇事較無法心平氣和外，此時若再有煞星來沖，也較易有健康上的問題。因此，對一個不能心平氣和來面對事情，且健康又較易有問題的人，雖不能據此推論此人一定會短命，但恐怕也不易長壽。另外，在天機星部份曾提及，凡星曜五行屬木者，在會多吉星時，其人會較長壽，而貪狼五行屬木，被金剋害後，反不利於此，"
+            },
+            {
+              "start": 366,
+              "end": 406,
+              "quote": "但武貪在丑未坐命者，是否就會如先賢或賦文所言，則仍須視此二宮位的旺弱吉凶而定。\n"
+            }
+          ]
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c027"
+      ],
+      "quality_review": {
+        "retrieval_status": "limited",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "古引灭番疑损，完整古引归因句排除，不猜为减寿。",
+          "semantic_representation_pending:C0027:transformation_alternative:c027_base:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+        ],
+        "notes": "古引受损整句排除但后结论完整。天机为引用提及，不推关系；任一化忌替代scope，未把一般遇化忌强绑武曲转化。时间未明确不填，健康只是来源说法且非必短命，中英一致。 V4依新独审和当前原文核实补健康scope/对宫/格局条件及方法。 四化互择专项逐项核对源句，删除仅审计指认的共享谓语对象并重映射证据；不改变独立确定对象、不宣称门禁闭环。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "hard",
+        "summary": "辰戌丑未为四墓库，武曲在其中旺；丑未同贪狼、辰戌对宫贪狼。火星与贪狼同宫且会吉方论火贪成格，铃星替代同理。大富贵还受社会环境影响；命宫同太岁是吉凶皆加重，非四库年支一概有利。",
+        "summary_en": "Chen, Xu, Chou and Wei are described as the four repositories where Wu Qu is strong. Tan Lang shares Chou/Wei and opposes Chen/Xu. Huo Tan formation requires Huo Xing with Tan Lang and benefics; Ling Xing may substitute. Great wealth or status also depends on social environment. A Life Palace sharing the Tai Sui location amplifies both good and bad, not an unconditional benefit for repository-year births.",
+        "keywords": [
+          "四墓库",
+          "武曲贪狼",
+          "火贪",
+          "铃贪",
+          "社会环境",
+          "太岁同宫"
+        ],
+        "keywords_en": [
+          "four repositories",
+          "Wu Qu and Tan Lang",
+          "Huo Tan",
+          "Ling Tan",
+          "social environment",
+          "Tai Sui overlap"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "贪狼",
+            "火星",
+            "铃星",
+            "天机",
+            "紫微"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "star_pairs_mentioned": [
+            "火星铃星"
+          ],
+          "knowledge_domains": [
+            "格局解析",
+            "星曜性质"
+          ],
+          "topics_mentioned": [
+            "财运分析"
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "火贪格",
+              "formation_status": "讨论",
+              "evidence": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。"
+            },
+            {
+              "pattern_name": "铃贪格",
+              "formation_status": "讨论",
+              "evidence": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。至於賦文所說的「若火貪同度或對照，主大富貴」，主要係從武曲的「財星」及「將星」作用，再加上「火貪」的「橫發」作用而得之。實際上，一個人是否能「大富貴」，除命理條件外，尚需考慮其所處社會環境的影響。又，火鈴為成對的星曜，故上述賦文中的火星若以鈴星來取代，作用亦同。"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "太歲宮位",
+              "proposed_category": "source_palace_concept",
+              "reason": "来源太岁定位不映射夫妻等宫。",
+              "english_surface": "Tai Sui palace",
+              "scope_id": "c028_rule"
+            },
+            {
+              "surface": "四墓庫",
+              "proposed_category": "source_branch_group",
+              "reason": "辰戌丑未支位组，不作为十二宫。",
+              "english_surface": "four repositories",
+              "scope_id": "c028_rule"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c028_chouwei",
+              "condition": "武曲在辰戌丑未四宮位均為旺宮（見盤一），在丑未二宮則有貪狼同宮",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c028_fire",
+              "condition": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉",
+              "negated": false
+            },
+            {
+              "relation_type": "对宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲",
+                  "location": "辰戌"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼",
+                  "location": "对宫"
+                }
+              ],
+              "scope_id": "c028_opposition",
+              "condition": "武曲在辰戌丑未四宮位均為旺宮（見盤一），在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合",
+              "negated": false
+            }
+          ],
+          "analysis_methods": [
+            "格局分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 76,
+                "end": 83,
+                "quote": "武曲在辰戌丑未"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 265,
+                "end": 270,
+                "quote": "有貪狼同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 338,
+                "end": 345,
+                "quote": "火星與貪狼同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 483,
+                "end": 488,
+                "quote": "鈴星來取代"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 163,
+                "end": 169,
+                "quote": "在天機星部份"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 513,
+                "end": 519,
+                "quote": "在紫微星部份"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 46,
+                "end": 56,
+                "quote": "命宮與太歲宮位同宮者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 463,
+                "end": 471,
+                "quote": "火鈴為成對的星曜"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 354,
+                "end": 359,
+                "quote": "火貪」成格"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 305,
+                "end": 311,
+                "quote": "武曲五行屬金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 146,
+                "end": 149,
+                "quote": "大富貴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 49,
+                "end": 53,
+                "quote": "太歲宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.1",
+            "scope": {
+              "scope_id": "c028_rule",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 220,
+                "end": 237,
+                "quote": "故辰戌丑未四個地支宮位合稱為四墓庫"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c028_chouwei",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰戌丑未四宮位均為旺宮（見盤一），在丑未二宮則有貪狼同宮"
+            },
+            "spans": [
+              {
+                "start": 259,
+                "end": 270,
+                "quote": "在丑未二宮則有貪狼同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c028_fire",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉"
+            },
+            "spans": [
+              {
+                "start": 338,
+                "end": 350,
+                "quote": "火星與貪狼同宮坐守且會吉"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c028_opposition",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰戌丑未四宮位均為旺宮（見盤一），在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合"
+            },
+            "spans": [
+              {
+                "start": 239,
+                "end": 292,
+                "quote": "武曲在辰戌丑未四宮位均為旺宮（見盤一），在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c028_patternfire",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。"
+            },
+            "spans": [
+              {
+                "start": 293,
+                "end": 363,
+                "quote": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.1",
+            "scope": {
+              "scope_id": "c028_patternbell",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。至於賦文所說的「若火貪同度或對照，主大富貴」，主要係從武曲的「財星」及「將星」作用，再加上「火貪」的「橫發」作用而得之。實際上，一個人是否能「大富貴」，除命理條件外，尚需考慮其所處社會環境的影響。又，火鈴為成對的星曜，故上述賦文中的火星若以鈴星來取代，作用亦同。"
+            },
+            "spans": [
+              {
+                "start": 293,
+                "end": 494,
+                "quote": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。至於賦文所說的「若火貪同度或對照，主大富貴」，主要係從武曲的「財星」及「將星」作用，再加上「火貪」的「橫發」作用而得之。實際上，一個人是否能「大富貴」，除命理條件外，尚需考慮其所處社會環境的影響。又，火鈴為成對的星曜，故上述賦文中的火星若以鈴星來取代，作用亦同。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c028_patternmethod",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。"
+            },
+            "spans": [
+              {
+                "start": 293,
+                "end": 363,
+                "quote": "當武曲坐入任一墓庫時，因武曲五行屬金，而墓庫五行屬土，宮星相生，謂之得位或入位。此時若再有火星與貪狼同宮坐守且會吉，則因「火貪」成格，甚吉。"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c028"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "丑未同宫与辰戌对宫分开不混；火贪明确会吉与墓库基础条件，成格讨论非真实命例。铃替代规则保留提及不创建实际同宫；社会环境及太岁凶亦加重中英保留，原文完整，无时间盘类推断。 V4依新独审和当前原文核实补健康scope/对宫/格局条件及方法。 全源完整性核对发现此前证据命中上下文前缀；本次逐读正文，以实际作者定义/讨论及完整必要条件改精确证据，不改标签、其他语义或既有hold。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "案例分析",
+        "difficulty": "hard",
+        "summary": "武贪丑命，己年武曲化禄贪狼化权，作者称命旺制羊陀，己丑同太岁更吉；癸年贪狼化忌与擎羊同踞则凶，癸丑同太岁更凶。命宫或大限同太岁会加强原吉凶，并非四库年支都利武曲。",
+        "summary_en": "For Wu Qu–Tan Lang in Chou, the Ji-year example has Wu Qu Hua Lu and Tan Lang Hua Quan, with a strong Life Palace said to control Qing Yang/Tuo Luo. Ji Chou intensifies the favorable account through Tai Sui overlap. The Gui-year example has Tan Lang Hua Ji with Qing Yang; Gui Chou intensifies adversity. Life or major-period overlap with Tai Sui amplifies existing conditions rather than always benefiting repository-year births.",
+        "keywords": [
+          "己癸对照",
+          "武贪丑命",
+          "化禄化权",
+          "化忌",
+          "太岁同宫"
+        ],
+        "keywords_en": [
+          "Ji and Gui contrast",
+          "Wu Qu–Tan Lang in Chou",
+          "Hua Lu and Hua Quan",
+          "Hua Ji",
+          "Tai Sui overlap"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "贪狼",
+            "擎羊",
+            "陀罗"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "四化星"
+          ],
+          "analysis_methods": [
+            "四化分析"
+          ],
+          "time_mentions": [
+            {
+              "time_context": "大限",
+              "scope_id": "c029_discussion",
+              "subject": "坐入太岁宫位的大限",
+              "chart_type": null
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "太歲宮位",
+              "proposed_category": "source_palace_concept",
+              "reason": "来源同宫定位概念，保留而不改为其他宫。",
+              "english_surface": "Tai Sui palace",
+              "scope_id": "c029_discussion"
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": "武曲",
+              "transformation": "化禄",
+              "scope_id": "c029_ji",
+              "palace": "命宫",
+              "tiangan": "己"
+            },
+            {
+              "star": "贪狼",
+              "transformation": "化权",
+              "scope_id": "c029_ji",
+              "palace": "命宫",
+              "tiangan": "己"
+            },
+            {
+              "star": "贪狼",
+              "transformation": "化忌",
+              "scope_id": "c029_gui",
+              "palace": "命宫",
+              "tiangan": "癸"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c029_ji",
+              "condition": "武貪在丑坐命，己年生人",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c029_ji",
+              "condition": "武貪在丑坐命，己年生人",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "擎羊"
+                }
+              ],
+              "scope_id": "c029_gui",
+              "condition": "同樣是武貪在丑坐命，癸年生人",
+              "negated": false
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 110,
+                "quote": "武曲化祿"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 111,
+                "end": 115,
+                "quote": "貪狼化權"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 134,
+                "end": 139,
+                "quote": "三方的羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 134,
+                "end": 139,
+                "quote": "三方的羊陀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 73,
+                "end": 81,
+                "quote": "命宮坐入太歲宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 115,
+                "quote": "武曲化祿並貪狼化權"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 219,
+                "end": 223,
+                "quote": "貪狼化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.time_mentions.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 44,
+                "end": 53,
+                "quote": "大限坐入太歲宮位時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c029_discussion",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 48,
+                "end": 52,
+                "quote": "太歲宮位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 117,
+                "quote": "武曲化祿並貪狼化權入命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 117,
+                "quote": "武曲化祿並貪狼化權入命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 117,
+                "quote": "武曲化祿並貪狼化權入命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 106,
+                "end": 117,
+                "quote": "武曲化祿並貪狼化權入命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.2",
+            "scope": {
+              "scope_id": "c029_gui",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武貪在丑坐命，癸年生人"
+            },
+            "spans": [
+              {
+                "start": 219,
+                "end": 228,
+                "quote": "貪狼化忌並擎羊同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c029_gui",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武貪在丑坐命，癸年生人"
+            },
+            "spans": [
+              {
+                "start": 219,
+                "end": 228,
+                "quote": "貪狼化忌並擎羊同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.tiangan",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 115,
+                "quote": "己年生人（盤五），武曲化祿並貪狼化權"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1.tiangan",
+            "scope": {
+              "scope_id": "c029_ji",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武貪在丑坐命，己年生人"
+            },
+            "spans": [
+              {
+                "start": 97,
+                "end": 115,
+                "quote": "己年生人（盤五），武曲化祿並貪狼化權"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.2.tiangan",
+            "scope": {
+              "scope_id": "c029_gui",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武貪在丑坐命，癸年生人"
+            },
+            "spans": [
+              {
+                "start": 210,
+                "end": 223,
+                "quote": "癸年生人（盤六），貪狼化忌"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c029"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "两案例干支条件独立，无己癸四化混绑；三方羊陀不推坐命，癸例同踞仅明确贪狼擎羊。出生年不推流年盘；太岁更吉更凶对称保留，中英非事实吉凶保证，原文完好。 V4依新独审和当前原文核实补健康scope/对宫/格局条件及方法。 明示触发干专项：逐读原文因果句，只补对应化曜的触发天干及原scope精确证据；未将相邻年干自动赋予其他化曜。 明示触发干专项：逐读原文因果句，只补对应化曜的触发天干及原scope精确证据；未将相邻年干自动赋予其他化曜。 明示触发干专项：逐读原文因果句，只补对应化曜的触发天干及原scope精确证据；未将相邻年干自动赋予其他化曜。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "hard",
+        "summary": "作者强调火贪大富贵须火星贪狼同宫。盘七武曲辰命同火星不同于此；除多吉且行限佳外，武曲、贪狼或廉贞任一化忌可能激发寡宿负面，而非一定富贵。",
+        "summary_en": "The author distinguishes Huo Xing sharing Tan Lang from Chart Seven’s Wu Qu sharing Huo Xing in the Chen Life Palace. The latter is not an automatic Huo Tan wealth configuration. Unless many benefics and favorable fortune periods intervene, Hua Ji on Wu Qu, Tan Lang or Lian Zhen can activate the adverse Gu Su account rather than produce great wealth or status.",
+        "keywords": [
+          "火贪条件",
+          "武曲火星",
+          "辰命",
+          "任一化忌",
+          "寡宿"
+        ],
+        "keywords_en": [
+          "Huo Tan conditions",
+          "Wu Qu and Huo Xing",
+          "Chen Life Palace",
+          "alternative Hua Ji",
+          "Gu Su"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "火星",
+            "贪狼",
+            "武曲",
+            "廉贞"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "格局解析",
+            "四化星"
+          ],
+          "topics_mentioned": [
+            "财运分析"
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "火贪格",
+              "formation_status": "讨论",
+              "evidence": "若火貪同度或對照，主大富貴"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "贪狼"
+                }
+              ],
+              "scope_id": "c030_definition",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "火星"
+                }
+              ],
+              "scope_id": "c030_chart7",
+              "condition": "武曲在辰坐命有火星同踞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c030_chart7",
+              "condition": "武曲在辰坐命有火星同踞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "火星"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c030_chart7",
+              "condition": "武曲在辰坐命有火星同踞",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": [],
+          "unregistered_terms": [
+            {
+              "surface": "寡宿",
+              "proposed_category": "source_pattern",
+              "reason": "武曲火星的凶格称谓，不当寡宿星。",
+              "english_surface": "Gu Su",
+              "scope_id": "c030_definition"
+            }
+          ],
+          "analysis_methods": [
+            "格局分析",
+            "四化分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 93,
+                "quote": "火星與貪狼同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 93,
+                "quote": "火星與貪狼同宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 125,
+                "quote": "武曲在辰坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 187,
+                "end": 199,
+                "quote": "武曲或貪狼或廉貞任一化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 125,
+                "quote": "武曲在辰坐命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 201,
+                "end": 206,
+                "quote": "寡宿」凶格"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 195,
+                "end": 199,
+                "quote": "任一化忌"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 79,
+                "end": 82,
+                "quote": "大富貴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 69,
+                "end": 82,
+                "quote": "若火貪同度或對照，主大富貴"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 86,
+                "end": 98,
+                "quote": "火星與貪狼同宮坐守時始是"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c030_chart7",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰坐命有火星同踞"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 130,
+                "quote": "武曲在辰坐命有火星同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c030_chart7",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰坐命有火星同踞"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 130,
+                "quote": "武曲在辰坐命有火星同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c030_chart7",
+              "kind": "case",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰坐命有火星同踞"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 130,
+                "quote": "武曲在辰坐命有火星同踞"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c030_definition",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 164,
+                "end": 166,
+                "quote": "寡宿"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c030_patternmethod",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 62,
+                "end": 108,
+                "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是（請見前面的說明）。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.1",
+            "scope": {
+              "scope_id": "c030_transformmethod",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌，「寡宿」凶格的凶象就會被激發出來，"
+            },
+            "spans": [
+              {
+                "start": 119,
+                "end": 217,
+                "quote": "武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌，「寡宿」凶格的凶象就會被激發出來，"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c030"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [
+          "semantic_representation_pending:C0030:transformation_alternative:c030_activation:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+        ],
+        "notes": "火贪定义与武火命例各scope，三种化忌任一替代非同时，基础辰命武火与多吉行限例外绑定。行限未明大限流年不猜；英文不许必富贵推论，原文完整。 V4依新独审和当前原文核实补健康scope/对宫/格局条件及方法。 四化互择专项逐项核对源句，删除仅审计指认的共享谓语对象并重映射证据；不改变独立确定对象、不宣称门禁闭环。"
+      }
+    }
+  ]
+}

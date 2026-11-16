@@ -1,0 +1,17 @@
+{
+  "checked_utc": "2026-11-16T02:45:08.964729+00:00",
+  "scheduled_run": "2026-11-16T02:45:00Z",
+  "result": "no_new_production_or_unique_recovery_payload_to_upload",
+  "last_remote_checkpoint": "C483 representation blocked; prior 84/84 upload confirmed",
+  "latest_remote_observation": "2026-11-16 production restore: C483 directory, RECOVERY_INDEX and numbered files visible; index and 38 native files downloaded successfully before limit",
+  "local_only_new_metadata": "RESTORATION_STATUS_V1.json tracks partial hydration of already-backed-up files; does not add unique production dependency",
+  "restored_count_excluding_index": 38,
+  "remaining_current_directory": 45,
+  "remaining_reused_mappings": 513,
+  "restriction": "063.json download stopped at visible 文件下载超限; not retried",
+  "uploads": 0,
+  "downloads": 0,
+  "old_files_deleted": 0,
+  "production_started": false,
+  "full_recovery_claim": false
+}

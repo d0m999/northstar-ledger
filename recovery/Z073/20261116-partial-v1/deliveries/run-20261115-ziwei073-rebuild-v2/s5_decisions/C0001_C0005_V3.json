@@ -1,0 +1,1781 @@
+{
+  "source_id": "ziwei_073",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "本章以武曲财星、将星及阴金性质解释其作用，回顾传统女命寡宿与武贪、武杀、武破的负面评价。作者强调财与囚仇须结合吉化与行限，不能一概论凶，并将以理论命盘及实例讨论铃昌陀武、因财持刀、武贪不发少年人等。",
+        "summary_en": "This chapter frames Wu Qu as a wealth and martial star of yin metal. It previews traditional female-marriage interpretations and Wu Qu combinations with Tan Lang, Qi Sha and Po Jun, without endorsing uniformly negative conclusions. Cai Yu Qiu Chou depends on benefic transformations and fortune periods. The chapter also introduces Ling Chang Tuo Wu, Yin Cai Chi Dao and Wu Tan Bu Fa Shao Nian Ren through theoretical charts and cases.",
+        "keywords": [
+          "武曲",
+          "财星",
+          "将星",
+          "阴金",
+          "财与囚仇",
+          "铃昌陀武",
+          "因财持刀",
+          "武贪不发少年人"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "wealth star",
+          "martial star",
+          "yin metal",
+          "Cai Yu Qiu Chou",
+          "Ling Chang Tuo Wu",
+          "Yin Cai Chi Dao",
+          "Wu Tan Bu Fa Shao Nian Ren"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "火星",
+            "贪狼",
+            "七杀",
+            "破军",
+            "天魁",
+            "天钺"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "格局解析"
+          ],
+          "topics_mentioned": [
+            "财运分析",
+            "感情姻缘"
+          ],
+          "analysis_methods": [
+            "格局分析"
+          ],
+          "patterns_mentioned": [
+            {
+              "pattern_name": "铃昌陀武",
+              "formation_status": "讨论",
+              "evidence": "「鈴昌陀武」"
+            }
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "財與囚仇",
+              "proposed_category": "source_pattern_or_verse",
+              "reason": "原作者明确命名，本冻结词表无同名格局；保留来源用语，不强并其他格局。",
+              "english_surface": "Cai Yu Qiu Chou",
+              "scope_id": "c001_outline"
+            },
+            {
+              "surface": "因財持刀",
+              "proposed_category": "source_pattern_or_verse",
+              "reason": "原作者明确命名，本冻结词表无同名格局；保留来源用语，不强并其他格局。",
+              "english_surface": "Yin Cai Chi Dao",
+              "scope_id": "c001_outline"
+            },
+            {
+              "surface": "武貪不發少年人",
+              "proposed_category": "source_pattern_or_verse",
+              "reason": "原作者明确命名，本冻结词表无同名格局；保留来源用语，不强并其他格局。",
+              "english_surface": "Wu Tan Bu Fa Shao Nian Ren",
+              "scope_id": "c001_outline"
+            }
+          ],
+          "palaces_mentioned": [
+            "身宫",
+            "命宫",
+            "迁移宫",
+            "财帛宫",
+            "田宅宫"
+          ],
+          "star_pairs_mentioned": [
+            "天魁天钺"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 6,
+                "end": 12,
+                "quote": "武曲為財帛主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 94,
+                "end": 104,
+                "quote": "特別是武曲加會火星時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 31,
+                "end": 45,
+                "quote": "武曲五行屬金及屬性為陰的特質"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 512,
+                "end": 540,
+                "quote": "本文除採用理論命盤來說明這些格局的作用外，並佐以實際命例"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 6,
+                "end": 12,
+                "quote": "武曲為財帛主"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.1",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 143,
+                "end": 153,
+                "quote": "並舉一女命的婚姻遭遇"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 512,
+                "end": 540,
+                "quote": "本文除採用理論命盤來說明這些格局的作用外，並佐以實際命例"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.patterns_mentioned.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 348,
+                "end": 354,
+                "quote": "「鈴昌陀武」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 247,
+                "end": 251,
+                "quote": "財與囚仇"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.1",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 356,
+                "end": 360,
+                "quote": "因財持刀"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.2",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 363,
+                "end": 370,
+                "quote": "武貪不發少年人"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 495,
+                "end": 502,
+                "quote": "武曲貪狼財宅位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 424,
+                "end": 431,
+                "quote": "武曲文星於身命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 424,
+                "end": 431,
+                "quote": "武曲文星於身命"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.2",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 480,
+                "end": 487,
+                "quote": "武曲加吉坐遷移"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.3",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 495,
+                "end": 502,
+                "quote": "武曲貪狼財宅位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.4",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 495,
+                "end": 502,
+                "quote": "武曲貪狼財宅位"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 185,
+                "end": 193,
+                "quote": "武貪、武殺及武破"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.4",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 185,
+                "end": 193,
+                "quote": "武貪、武殺及武破"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.5",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 465,
+                "end": 472,
+                "quote": "武曲魁鉞居廟旺"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.6",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 465,
+                "end": 472,
+                "quote": "武曲魁鉞居廟旺"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_pairs_mentioned.0",
+            "scope": {
+              "scope_id": "c001_outline",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 465,
+                "end": 472,
+                "quote": "武曲魁鉞居廟旺"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c001"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "整块为章导读，不冒充王永庆案例结果；寡宿/将星为武曲属性称谓，未当成另颗星入盘；武贪等预告组合未推断同宫。英文保留三组合及主要命名和吉化/行限限制；无明确盘类和时间对象。 早审返修补原文明说贪狼与身命、迁移、财宅宫位提及；仅提及不推同宫/入宫成立。 新独审导言明确武杀武破与魁钺补纯提及/对星，格名导言不判实际关系。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "武曲为阴金财星，论财不能只看财帛宫，还须兼看命宫武曲，并联系福德、田宅。武曲会禄存并非必然巨富：旺宫且多吉才可强论；陷宫多吉少煞仍辛苦得财，化忌或多煞少吉则反不利财。",
+        "summary_en": "Wu Qu is described as yin metal and a wealth star. Financial interpretation must consider Wu Qu in the Life Palace together with the Wealth, Happiness and Property Palaces. Sharing a wealth palace with Lu Cun does not guarantee great riches: strength and many benefics are required. In a weak palace, many benefics and few malefics can still mean hard-earned money; Hua Ji or many malefics with few benefics can instead harm finances.",
+        "keywords": [
+          "武曲",
+          "禄存",
+          "命宫",
+          "财帛宫",
+          "福德宫",
+          "田宅宫",
+          "旺陷",
+          "化禄",
+          "化忌"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "Lu Cun",
+          "Life Palace",
+          "Wealth Palace",
+          "Happiness Palace",
+          "Property Palace",
+          "strength and weakness",
+          "Hua Lu",
+          "Hua Ji"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "禄存"
+          ],
+          "palaces_mentioned": [
+            "财帛宫",
+            "命宫",
+            "福德宫",
+            "田宅宫"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "宫位变化"
+          ],
+          "topics_mentioned": [
+            "财运分析"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "财帛宫"
+                }
+              ],
+              "scope_id": "c002_general",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c002_general",
+              "condition": null,
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                }
+              ],
+              "scope_id": "c002_pair_0",
+              "condition": "武曲旺宮得祿存同坐並會多吉星",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                }
+              ],
+              "scope_id": "c002_pair_1",
+              "condition": "武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                }
+              ],
+              "scope_id": "c002_pair_2",
+              "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "福德宫"
+                }
+              ],
+              "scope_id": "c002_fu_tian",
+              "condition": "若是坐入福德宮及田宅宮",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "田宅宫"
+                }
+              ],
+              "scope_id": "c002_fu_tian",
+              "condition": "若是坐入福德宮及田宅宮",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "财帛宫"
+                }
+              ],
+              "scope_id": "c002_pair_1",
+              "condition": "武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "禄存"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "财帛宫"
+                }
+              ],
+              "scope_id": "c002_pair_2",
+              "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）",
+              "negated": false
+            }
+          ],
+          "sihua_mentioned": [
+            {
+              "star": null,
+              "transformation": "化禄",
+              "scope_id": "c002_wealth_benefics"
+            },
+            {
+              "star": "武曲",
+              "transformation": "化忌",
+              "palace": "财帛宫",
+              "scope_id": "c002_pair_2"
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 51,
+                "end": 61,
+                "quote": "武曲陰金，北斗第六星"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 456,
+                "end": 461,
+                "quote": "化祿或祿存"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 188,
+                "end": 197,
+                "quote": "當武曲坐入財帛宮時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.1",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 258,
+                "end": 269,
+                "quote": "必須兼視命宮所坐武曲星"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.2",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 301,
+                "end": 314,
+                "quote": "福德宮及田宅宮亦和財利有關"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.3",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 301,
+                "end": 314,
+                "quote": "福德宮及田宅宮亦和財利有關"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 73,
+                "end": 91,
+                "quote": "武曲陰金，專主財帛之司，為剛毅之宿。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 333,
+                "end": 381,
+                "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈，但若是坐入福德宮及田宅宮，在財利方面的作用亦強"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 149,
+                "end": 187,
+                "quote": "武曲既為「財帛」之主，因此在談到一個人的財利時，就會扮演一個非常重要的角色。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 188,
+                "end": 197,
+                "quote": "當武曲坐入財帛宮時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c002_general",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 258,
+                "end": 269,
+                "quote": "必須兼視命宮所坐武曲星"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c002_pair_0",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲旺宮得祿存同坐並會多吉星"
+            },
+            "spans": [
+              {
+                "start": 516,
+                "end": 543,
+                "quote": "但必須是武曲旺宮得祿存同坐並會多吉星，始能做如是推論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c002_pair_1",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時"
+            },
+            "spans": [
+              {
+                "start": 543,
+                "end": 605,
+                "quote": "若是武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時，則尚能凸顯出武曲的財星作用，惟仍是辛苦得財，但就可能談不上「發財鉅萬」。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.4",
+            "scope": {
+              "scope_id": "c002_pair_2",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）"
+            },
+            "spans": [
+              {
+                "start": 605,
+                "end": 649,
+                "quote": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0",
+            "scope": {
+              "scope_id": "c002_wealth_benefics",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "仍須會多吉星"
+            },
+            "spans": [
+              {
+                "start": 441,
+                "end": 465,
+                "quote": "仍須會多吉星，特別是坐會祿星（化祿或祿存）於旺地"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.0.star",
+            "scope": {
+              "scope_id": "c002_wealth_benefics",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "仍須會多吉星"
+            },
+            "null_reason": "not_mentioned"
+          },
+          {
+            "field_path": "ziwei.sihua_mentioned.1",
+            "scope": {
+              "scope_id": "c002_pair_2",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）"
+            },
+            "spans": [
+              {
+                "start": 605,
+                "end": 649,
+                "quote": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.5",
+            "scope": {
+              "scope_id": "c002_fu_tian",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是坐入福德宮及田宅宮"
+            },
+            "spans": [
+              {
+                "start": 333,
+                "end": 381,
+                "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈，但若是坐入福德宮及田宅宮，在財利方面的作用亦強"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.6",
+            "scope": {
+              "scope_id": "c002_fu_tian",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "若是坐入福德宮及田宅宮"
+            },
+            "spans": [
+              {
+                "start": 333,
+                "end": 381,
+                "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈，但若是坐入福德宮及田宅宮，在財利方面的作用亦強"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.7",
+            "scope": {
+              "scope_id": "c002_pair_1",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時"
+            },
+            "spans": [
+              {
+                "start": 545,
+                "end": 568,
+                "quote": "武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.8",
+            "scope": {
+              "scope_id": "c002_pair_2",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）"
+            },
+            "spans": [
+              {
+                "start": 605,
+                "end": 642,
+                "quote": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星）"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c002"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "分别绑定旺吉、陷吉少煞、陷忌多煞三套条件，不把禄存同坐概括成必富。化禄未明星独立null说明；化忌对象由同一句武曲陷宫回指绑定，未推断飞宫或天干。正文完整，证据均来自原文非头注；英文明列正反条件。 早审返修补福德/田宅明确入宫关系；负面条件连同武曲陷宫、禄存同坐财宫基础条件绑定，不能仅摘化忌或多煞。 两陷宫分支原文同坐财宫明确，补禄存入财且分别保完整吉/忌煞条件，不混旺宫通论。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "作者以金性内聚、刚硬解释武曲的刚毅称谓，认为武曲坐命者通常性格刚直、言行直接，并以战将须刚强勇猛的类比说明其将星之名。",
+        "summary_en": "The author links Wu Qu’s traditional yin-metal symbolism of inward cohesion and hardness to its resolute designation. Wu Qu in the Life Palace is generally described as forthright and direct. The martial-star name is explained through an analogy with a strong, courageous battlefield commander.",
+        "keywords": [
+          "武曲",
+          "金性内聚",
+          "刚毅",
+          "将星",
+          "命宫"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "metal cohesion",
+          "resoluteness",
+          "martial star",
+          "Life Palace"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "relations": [
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c003_placement",
+              "condition": null,
+              "negated": false
+            }
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c003_symbolism",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c003_symbolism",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 40,
+                "end": 46,
+                "quote": "武曲五行屬金"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c003_symbolism",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 129,
+                "end": 134,
+                "quote": "武曲坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c003_symbolism",
+              "kind": "concept",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 40,
+                "end": 72,
+                "quote": "武曲五行屬金，金之物性「内聚」，因為「內聚」，所以就較「剛硬」。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c003_placement",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 129,
+                "end": 149,
+                "quote": "武曲坐命者的個性，一般說來較為剛直、強硬"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c003"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "保留作者传统物性比喻与一般说来限定；将星不作为另颗将军星，同样未据坐命默认本命盘。英文为来源观点而非客观性格断定。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "实战断语",
+        "difficulty": "medium",
+        "summary": "将星得地不能只凭武曲坐命，须旺宫且会多吉。单星名义旺弱仍须三方四正吉煞合论。武相寅旺申平，武破巳旺亥陷；武破在亥即使多吉能显正面作用，强度仍逊巳宫且较辛劳。",
+        "summary_en": "Jiang Xing De Di requires more than Wu Qu in the Life Palace: a strong palace and many benefics are necessary. Nominal strength must be reassessed through benefics and malefics in the three directions and four cardinal palaces. Wu Qu with Tian Xiang is strong in Yin and neutral in Shen; with Po Jun it is strong in Si and weak in Hai. Even with benefics, the Hai combination remains weaker and more laborious than Si.",
+        "keywords": [
+          "武曲",
+          "将星得地格",
+          "三方四正",
+          "武相",
+          "武破",
+          "寅申",
+          "巳亥",
+          "吉煞条件"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "Jiang Xing De Di",
+          "three directions and four cardinal palaces",
+          "Tian Xiang",
+          "Po Jun",
+          "Yin and Shen",
+          "Si and Hai",
+          "benefic and malefic conditions"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲",
+            "紫微",
+            "天相",
+            "破军"
+          ],
+          "palaces_mentioned": [
+            "命宫"
+          ],
+          "knowledge_domains": [
+            "星曜性质",
+            "宫位变化",
+            "格局解析"
+          ],
+          "analysis_methods": [
+            "三方四正",
+            "格局分析"
+          ],
+          "unregistered_terms": [
+            {
+              "surface": "將星得地格",
+              "proposed_category": "source_pattern",
+              "reason": "本词表未注册同名格局，保留原书名与明确旺宫会吉条件，不并入其他武曲格。",
+              "english_surface": "Jiang Xing De Di",
+              "scope_id": "c004_rules"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "天相"
+                }
+              ],
+              "scope_id": "c004_wu_xiang",
+              "condition": "武曲在寅申雖為平宮",
+              "negated": false
+            },
+            {
+              "relation_type": "同宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "破军"
+                }
+              ],
+              "scope_id": "c004_wu_po",
+              "condition": "武曲在巳亥雖為平宮",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c004_hai_life",
+              "condition": "就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "破军"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c004_hai_life",
+              "condition": "就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞",
+              "negated": false
+            },
+            {
+              "relation_type": "星曜入宫",
+              "participants": [
+                {
+                  "role": "star",
+                  "entity_type": "star",
+                  "name": "武曲"
+                },
+                {
+                  "role": "palace",
+                  "entity_type": "palace",
+                  "name": "命宫"
+                }
+              ],
+              "scope_id": "c004_wu_life_final",
+              "condition": "武曲坐命者，必須在旺宮且會多吉星時，始能以「將星」論之",
+              "negated": false
+            }
+          ],
+          "star_interactions_mentioned": [
+            "武相同宫",
+            "武破同宫"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 217,
+                "end": 229,
+                "quote": "武曲在十二地支宮位無弱陷"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.1",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 253,
+                "end": 262,
+                "quote": "因此就如同紫微一樣"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.2",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 387,
+                "end": 396,
+                "quote": "但和同宮的天相合論"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.3",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 434,
+                "end": 443,
+                "quote": "但和同宮的破軍合論"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.palaces_mentioned.0",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 98,
+                "end": 107,
+                "quote": "武曲臨旺宫守命是也"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 39,
+                "end": 48,
+                "quote": "武曲之「將星」作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.1",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 377,
+                "end": 386,
+                "quote": "武曲在寅申雖為平宮"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.2",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 81,
+                "end": 88,
+                "quote": "「將星得地格」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.0",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 277,
+                "end": 301,
+                "quote": "必須以其三方四正會吉或會煞的多寡來定該宮位之旺弱"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.analysis_methods.1",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 604,
+                "end": 625,
+                "quote": "必須在旺宮且會多吉星時，始能以「將星」論之"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.unregistered_terms.0",
+            "scope": {
+              "scope_id": "c004_rules",
+              "kind": "rule",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+            },
+            "spans": [
+              {
+                "start": 82,
+                "end": 87,
+                "quote": "將星得地格"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.0",
+            "scope": {
+              "scope_id": "c004_wu_xiang",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在寅申雖為平宮"
+            },
+            "spans": [
+              {
+                "start": 377,
+                "end": 420,
+                "quote": "武曲在寅申雖為平宮，但和同宮的天相合論，則有武相在寅合為旺宮，而武相在申則合以平宮論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_interactions_mentioned.0",
+            "scope": {
+              "scope_id": "c004_wu_xiang",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在寅申雖為平宮"
+            },
+            "spans": [
+              {
+                "start": 377,
+                "end": 420,
+                "quote": "武曲在寅申雖為平宮，但和同宮的天相合論，則有武相在寅合為旺宮，而武相在申則合以平宮論。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.star_interactions_mentioned.1",
+            "scope": {
+              "scope_id": "c004_wu_po",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在巳亥雖為平宮"
+            },
+            "spans": [
+              {
+                "start": 434,
+                "end": 443,
+                "quote": "但和同宮的破軍合論"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.1",
+            "scope": {
+              "scope_id": "c004_wu_po",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲在巳亥雖為平宮"
+            },
+            "spans": [
+              {
+                "start": 424,
+                "end": 451,
+                "quote": "武曲在巳亥雖為平宮，但和同宮的破軍合論，則有旺陷之分。"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.2",
+            "scope": {
+              "scope_id": "c004_hai_life",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+            },
+            "spans": [
+              {
+                "start": 542,
+                "end": 549,
+                "quote": "武破在亥坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.3",
+            "scope": {
+              "scope_id": "c004_hai_life",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+            },
+            "spans": [
+              {
+                "start": 542,
+                "end": 549,
+                "quote": "武破在亥坐命者"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.relations.4",
+            "scope": {
+              "scope_id": "c004_wu_life_final",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "武曲坐命者，必須在旺宮且會多吉星時，始能以「將星」論之"
+            },
+            "spans": [
+              {
+                "start": 598,
+                "end": 625,
+                "quote": "武曲坐命者，必須在旺宮且會多吉星時，始能以「將星」論之"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c004"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "按源书分别保留武相与武破组合及寅申巳亥差异，不从十二地支推造十二宫。三方四正为明确方法；将星得地未注册另列。英译包含会吉仍弱与辛劳，未无条件视为将星。 早审返修将寅申/巳亥位置限定绑定到同宫关系及交互提及scope，不泛化为所有宫位。 补独立亥武破命二关系及末旺吉武曲命规则，亥分支不扩巳或其他地支，源条件与证据独立。"
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "annotation": {
+        "school": "紫微",
+        "school_code": "ziwei",
+        "content_type": "概念解释",
+        "difficulty": "medium",
+        "summary": "作者认为武曲将星性使求财态度主动而坚持，但阴性内敛；会多吉星时会讲究谋略和方法，并非为求财横冲直撞。",
+        "summary_en": "The author describes Wu Qu’s martial aspect as initiative and persistence in seeking wealth. Its yin quality is inwardly restrained; with many benefic stars, pursuit of money emphasizes strategy and method rather than reckless maneuvering.",
+        "keywords": [
+          "武曲",
+          "将星",
+          "求财",
+          "阴性内敛",
+          "多吉星"
+        ],
+        "keywords_en": [
+          "Wu Qu",
+          "martial aspect",
+          "wealth seeking",
+          "yin restraint",
+          "benefic stars"
+        ],
+        "ziwei": {
+          "chart_type": null,
+          "stars_mentioned": [
+            "武曲"
+          ],
+          "knowledge_domains": [
+            "星曜性质"
+          ],
+          "topics_mentioned": [
+            "财运分析"
+          ]
+        },
+        "annotation_evidence": [
+          {
+            "field_path": "ziwei.chart_type",
+            "scope": {
+              "scope_id": "c005_attitude",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在會多吉星時"
+            },
+            "null_reason": "not_applicable"
+          },
+          {
+            "field_path": "ziwei.stars_mentioned.0",
+            "scope": {
+              "scope_id": "c005_attitude",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在會多吉星時"
+            },
+            "spans": [
+              {
+                "start": 50,
+                "end": 59,
+                "quote": "武曲的「將星」作用"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.knowledge_domains.0",
+            "scope": {
+              "scope_id": "c005_attitude",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在會多吉星時"
+            },
+            "spans": [
+              {
+                "start": 85,
+                "end": 100,
+                "quote": "但因屬性為「陰」，陰主「內斂」"
+              }
+            ]
+          },
+          {
+            "field_path": "ziwei.topics_mentioned.0",
+            "scope": {
+              "scope_id": "c005_attitude",
+              "kind": "conditional",
+              "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标",
+              "condition": "在會多吉星時"
+            },
+            "spans": [
+              {
+                "start": 60,
+                "end": 84,
+                "quote": "表現在求財方面，其態度會顯得較主動積極，並較堅持"
+              }
+            ]
+          }
+        ],
+        "retrieval_eligibility": {
+          "status": "eligible"
+        },
+        "vocab_version": "2.1.0",
+        "school_vocab_version": "2.1.0",
+        "annotation_version": "dots-all-sources-2026-10-13-v4"
+      },
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c005"
+      ],
+      "quality_review": {
+        "retrieval_status": "eligible",
+        "reviewed_axes": [
+          "coverage",
+          "binding",
+          "time",
+          "content_type",
+          "english",
+          "source_quality"
+        ],
+        "unresolved": [],
+        "notes": "保留多吉星才重谋略的条件，未补盘类、时间、宫位或关系；英文没有把传统求财倾向转为无条件断言。"
+      }
+    }
+  ],
+  "supersedes_candidate_only": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V1.json"
+}

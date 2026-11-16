@@ -1,0 +1,1917 @@
+{
+  "status": "candidate_validated_structure_not_S6",
+  "source_id": "ziwei_073",
+  "field_evidence": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c406",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 98,
+              "end": 102,
+              "quote": "廉貞屬火"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 64,
+              "end": 68,
+              "quote": "七殺陽金"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 275,
+              "end": 284,
+              "quote": "廉殺在未坐命吉旺者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c406_split",
+            "kind": "conditional",
+            "condition": "惟須注意的是，廉殺僅在丑未同宮，若廉貞與七殺不為同宮，而命身卻分坐入此二宮位，則上述「七殺廉貞居廟旺，反為積富之人」的推論亦成立，此即賦文所說的「若人身命，一居廉貞在申，一在七殺居午，皆是廟樂之鄉，及七殺在子，廉貞居寅之身命，旺地，皆作積富論之」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 367,
+              "end": 377,
+              "quote": "命身卻分坐入此二宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 53,
+              "quote": "廉殺僅在丑未同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 275,
+              "end": 284,
+              "quote": "廉殺在未坐命吉旺者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 275,
+              "end": 284,
+              "quote": "廉殺在未坐命吉旺者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 231,
+              "end": 244,
+              "quote": "廉殺在未亦為雙星殺破狼格局"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 339,
+              "quote": "殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 339,
+              "quote": "殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 64,
+              "end": 74,
+              "quote": "七殺陽金，南斗第六星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 339,
+              "quote": "殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c406_nature",
+            "kind": "conditional",
+            "condition": "廉殺僅在丑未同宮，丑為弱陷，未為旺宮。七殺陽金，南斗第六星。七殺是南斗之剛星，也是將星，且主「孤剋刑殺」。廉貞屬火，七殺屬金，本質上為火金相剋，但未宮為墓庫屬土，造成廉貞火去生土，對火而言是洩，會降低廉貞火的凶性，從而減輕對七殺金的剋害，而土又來生金，利於七殺。故廉殺在旺宮會吉且不要會太多煞星，就能發揮此二星的正面作用。\n殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 339,
+              "quote": "殺破狼格局的人通常是不依祖業（蔭）、白手成家，而廉殺在未亦為雙星殺破狼格局，更因廉殺本質為火金相剋而加重七殺主「孤剋刑殺」的現象，縱使是廉殺在未坐命吉旺者，多半還是靠著自身的努力，經過一番辛勞工作，才能在工作上有所成就或表現，故曰廉殺在旺宮守命者為「積富之人」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c406"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c407",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 65,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 65,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 153,
+              "end": 161,
+              "quote": "午宮正好是夫妻宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 65,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 153,
+              "end": 161,
+              "quote": "午宮正好是夫妻宮"
+            },
+            {
+              "start": 59,
+              "end": 65,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 66,
+              "end": 77,
+              "quote": "若為甲年生人，廉貞化祿"
+            },
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 66,
+              "end": 77,
+              "quote": "若為甲年生人，廉貞化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 187,
+              "quote": "甲年生人因廉貞化祿"
+            },
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.tiangan",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 187,
+              "quote": "甲年生人因廉貞化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 198,
+              "end": 208,
+              "quote": "若為丙年人，廉貞化忌"
+            },
+            {
+              "start": 52,
+              "end": 58,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.tiangan",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 198,
+              "end": 208,
+              "quote": "若為丙年人，廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 99,
+              "end": 103,
+              "quote": "利於本命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c407_lifebody",
+            "kind": "case",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 141,
+              "quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 141,
+              "end": 230,
+              "quote": "又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 230,
+              "quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 230,
+              "quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.comparison_methods.0",
+          "scope": {
+            "scope_id": "c407_spouse",
+            "kind": "conditional",
+            "condition": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 230,
+              "quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c407"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c408",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 126,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 133,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 126,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 133,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 126,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 133,
+              "quote": "身宮七殺在午"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c408_jia",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 145,
+              "quote": "若為甲年生人，廉貞化祿"
+            },
+            {
+              "start": 120,
+              "end": 126,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "c408_jia",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 145,
+              "quote": "若為甲年生人，廉貞化祿"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c408_jia",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 160,
+              "quote": "利於本命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c408_bing",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 177,
+              "end": 187,
+              "quote": "若為丙年人，廉貞化忌"
+            },
+            {
+              "start": 120,
+              "end": 126,
+              "quote": "命宮廉貞在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.tiangan",
+          "scope": {
+            "scope_id": "c408_bing",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 177,
+              "end": 187,
+              "quote": "若為丙年人，廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "c408_bing",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 201,
+              "end": 206,
+              "quote": "不利於本命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 207,
+              "quote": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c408_caption",
+            "kind": "case",
+            "condition": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 207,
+              "quote": "命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時不利於本命。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c408"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c409",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 71,
+              "quote": "廉貞火就會來剋七殺金"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 71,
+              "quote": "廉貞火就會來剋七殺金"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 40,
+              "end": 44,
+              "quote": "廉殺在丑"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 50,
+              "end": 59,
+              "quote": "再逢化忌或會多煞星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 140,
+              "quote": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 71,
+              "quote": "廉貞火就會來剋七殺金"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 140,
+              "quote": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c409_condition",
+            "kind": "conditional",
+            "condition": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 140,
+              "quote": "至於廉殺在丑，本為陷宮，再逢化忌或會多煞星，則廉貞火就會來剋七殺金，又是惡星相剋，廉殺的負面作用被激發出來，或受到煞星的煞害作用，就會逞凶為惡，結果以不利論，此即《全集》註解所說的：「陷地化忌，下格」。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c409"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c410",
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 397,
+              "end": 407,
+              "quote": "廉貞坐守宮位若會四煞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 546,
+              "end": 550,
+              "quote": "廉貪在巳"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 551,
+              "end": 555,
+              "quote": "廉殺在丑"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.7",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 556,
+              "end": 560,
+              "quote": "廉破在酉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.8",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 661,
+              "end": 668,
+              "quote": "廉相在子見四煞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.1",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 430,
+              "end": 439,
+              "quote": "四煞在此指羊陀火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c410_period",
+            "kind": "conditional",
+            "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 143,
+              "end": 150,
+              "quote": "先天命宮的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c410_period",
+            "kind": "conditional",
+            "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 116,
+              "quote": "大限走到廉貞坐守宮位，則在此十年"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "c410_period",
+            "kind": "conditional",
+            "condition": "至於先賢註解的「行運逢之，亦作此斷，若有吉來救，仍有長期牢獄之災，不然，傷殘不免也」，即謂命宮星曜不為廉貞，但大限走到廉貞坐守宮位，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用，不一定會如賦文所言。\n",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 139,
+              "end": 150,
+              "quote": "不可忽視先天命宮的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 546,
+              "end": 550,
+              "quote": "廉貪在巳"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 551,
+              "end": 555,
+              "quote": "廉殺在丑"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 556,
+              "end": 560,
+              "quote": "廉破在酉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 661,
+              "end": 668,
+              "quote": "廉相在子見四煞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 405,
+              "end": 407,
+              "quote": "四煞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 507,
+              "end": 540,
+              "quote": "廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c410_author",
+            "kind": "conditional",
+            "condition": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+            "attribution": "紫雲《斗數星曜賦性》第二冊作者论述；古引依原文另标"
+          },
+          "spans": [
+            {
+              "start": 389,
+              "end": 707,
+              "quote": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c410_classic_fullfour",
+            "kind": "conditional",
+            "condition": "廉貞守命與四煞同宫，多遭刑戮",
+            "attribution": "《全书》完整古引首分句；四煞群的参与者展开受作者至少各一解释限制，群关系仍未闭合，不预设全四同宫。"
+          },
+          "spans": [
+            {
+              "start": 336,
+              "end": 350,
+              "quote": "廉貞守命與四煞同宫，多遭刑戮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c410_classic_fullfour",
+            "kind": "conditional",
+            "condition": "廉貞守命與四煞同宫，多遭刑戮",
+            "attribution": "《全书》完整古引首分句；四煞群的参与者展开受作者至少各一解释限制，群关系仍未闭合，不预设全四同宫。"
+          },
+          "spans": [
+            {
+              "start": 336,
+              "end": 350,
+              "quote": "廉貞守命與四煞同宫，多遭刑戮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c410"
+      ]
+    }
+  ],
+  "quality_reviews": [
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "representation_pending:C0406:末命身分坐廉申杀午/杀子廉寅未明确功能宫与星的逐一对应；不写两套肯定入宫，不借407实例反填泛规则，待独立判读。"
+      ],
+      "notes": "明示阳金可记性质但不扩其他阴阳；同宫丑未地支互择仍固定廉杀两参与者。前未命两星入命明确，与末分坐另scope不混。末待表示非S5闭环，source原字完整，未擅改为固定命廉身杀。 格局方法证据收窄首完整未命论，不跨split待表示段。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c406"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "两独立用途分scope，夫妻段身不午不继续断身杀，但七杀本块午与夫妻午支持入夫妻；不改命廉。甲禄两提及对应不同应用，丙忌命承载同本块配置，不借其他盘。否定格局适用不否定先前实例。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c407"
+    },
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "只完整caption，上方盘面混字排除"
+      ],
+      "notes": "甲丙分支非同盘同时，完整命身配置共用原句；七杀不入命，夫妻不借盘面补。身杀命廉非同宫，未注册积富普通词不造格名。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c408"
+    },
+    {
+      "retrieval_status": "eligible",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [],
+      "notes": "丑地支明确共同二星，未功能宫不补命。再逢未知忌非必廉忌，没有具体健康/犯法断言不加主题。古注与作者同段解释不作独立实盘，反面条件保OR。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c409"
+    },
+    {
+      "retrieval_status": "limited",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "unresolved": [
+        "semantic_hold_pending_confirmation:C0410:羊陀及火铃至少各一的会合参与者选择无法由AND participants表达，未生成四星同时关系，保完整原文条件与提及，未闭合。",
+        "损长注及发违尾句保原文排除，不猜修。",
+        "C0410古引四煞群亦不得凭数字四全AND展开，统一保持群关系表示hold。",
+        "semantic_representation_pending:C0410:transformation_alternative:c410_author:共享谓语的星曜或化曜类型互择，当前四化对象不能忠实表示选择逻辑；撤除同scope并列肯定对象，原文/完整条件/双语及明确独立对象保留；不以未知术语或关系OR替代通关。"
+      ],
+      "notes": "保原作者凶果条件而非现实医疗/刑罚预测；子相会煞不即断凶，unknown化曜不猜星。首命宫不为廉贞是前提否定，未生成廉入本命，十年大限明确。四个固定廉贪/杀/破/相各不同地支独立组合，非四星同宫；四煞选择关系仍实质未闭合。 修复独立两短引可用域；古引全四煞同宫与作者最低各一严格分scope，四煞展开仅据本块明确定义，古引关系交独审，不消作者OR hold。 V3撤回V2五参与者关系，独审否定全AND解读；古引原词和廉命保留，不绕过源最低组合解释。 四化互择专项逐项核对源句，删除仅审计指认的共享谓语对象并重映射证据；不改变独立确定对象、不宣称门禁闭环。",
+      "chunk_id": "dots_all_20261013_ziwei_073_c410"
+    }
+  ],
+  "author_decision": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+    "bytes": 130713,
+    "sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce"
+  },
+  "plan": {
+    "path": "preparation/S5_AUTHOR_PLAN_V1.json",
+    "bytes": 5313,
+    "sha256": "5e367c21c85a08d8ff8a8077a673b723b75956bc1a4889cf340ab41f9257de3d"
+  },
+  "approval": {
+    "path": "preparation/INDEPENDENT_PREPARATION_APPROVAL_S5_V1.json",
+    "bytes": 2548,
+    "sha256": "31a199d67acf3da0c10dec764238ca04455a98241021f6761d599b3f357c8e0e"
+  },
+  "annotations": {
+    "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/annotations.jsonl",
+    "bytes": 116710,
+    "sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6"
+  },
+  "chunks": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/deliveries/run-20261115-ziwei073-rebuild-v2/versions/APPROVED_S3/04_chunked/ziwei/ziwei_073.jsonl",
+    "bytes": 578114,
+    "sha256": "21f3621881c7f7c2e818a63b3deb860ca4052cbce48d578b14fed75fe0febb33"
+  },
+  "whole_source_complete": false,
+  "baseline_read": false,
+  "runtime_manifest": {
+    "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261115/package/amendments/AB-v1/runtime_manifest.json",
+    "bytes": 7320,
+    "sha256": "0b5b0594cff65d3d2047994c23b65e4c9c1f0993c50052cf15ba0e91e45a0dbb"
+  }
+}
