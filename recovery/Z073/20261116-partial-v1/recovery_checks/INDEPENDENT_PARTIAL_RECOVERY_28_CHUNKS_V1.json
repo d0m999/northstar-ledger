@@ -1,0 +1,918 @@
+{
+  "created_utc": "2026-11-16T04:02:34.062202+00:00",
+  "kind": "independent_readonly_partial_restoration_integrity_NOT_S6_NOT_source_semantic_review",
+  "historical_rollup_sha256": "8308ca47ee6c5a2e25c60e26d8f61e416bad24aa8155e054c737c3bca140e780",
+  "batches": [
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V4/annotations.jsonl",
+      "bytes": 114781,
+      "actual_sha256": "bf3efec2945e9de698925ac7ee4c5c760279e252597078dcbb494a9d625bcbb0",
+      "frozen_sha256": "bf3efec2945e9de698925ac7ee4c5c760279e252597078dcbb494a9d625bcbb0",
+      "rows": 5,
+      "indices": [
+        366,
+        367,
+        368,
+        369,
+        370
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": false,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    },
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/annotations.jsonl",
+      "bytes": 116710,
+      "actual_sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6",
+      "frozen_sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6",
+      "rows": 5,
+      "indices": [
+        406,
+        407,
+        408,
+        409,
+        410
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": true,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    },
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V2/annotations.jsonl",
+      "bytes": 102798,
+      "actual_sha256": "a8705c1ce51510fe9a30f39a304a18d6ffa8b1771192043df579d63f9d44fab7",
+      "frozen_sha256": "a8705c1ce51510fe9a30f39a304a18d6ffa8b1771192043df579d63f9d44fab7",
+      "rows": 5,
+      "indices": [
+        416,
+        417,
+        418,
+        419,
+        420
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": true,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    },
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/annotations.jsonl",
+      "bytes": 85939,
+      "actual_sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5",
+      "frozen_sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5",
+      "rows": 5,
+      "indices": [
+        471,
+        472,
+        473,
+        474,
+        475
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": true,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    },
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/annotations.jsonl",
+      "bytes": 103138,
+      "actual_sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d",
+      "frozen_sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d",
+      "rows": 5,
+      "indices": [
+        476,
+        477,
+        478,
+        479,
+        480
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": true,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    },
+    {
+      "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0481_C0483_V2/annotations.jsonl",
+      "bytes": 106837,
+      "actual_sha256": "11ecd30ba7ca94ffe9c706c11b9102159a4b9dc03ec45b8cb707e039766c7ad3",
+      "frozen_sha256": "11ecd30ba7ca94ffe9c706c11b9102159a4b9dc03ec45b8cb707e039766c7ad3",
+      "rows": 3,
+      "indices": [
+        481,
+        482,
+        483
+      ],
+      "decision_sha_verified": true,
+      "batch_evidence_mirror_checked": true,
+      "five_source_fields": "present and byte-identical to historically reviewed frozen candidate via full-file SHA; no independent04 source currently available",
+      "errors": []
+    }
+  ],
+  "counts": {
+    "restored_batches": 6,
+    "restored_unique_chunks": 28,
+    "expected_batches": 97,
+    "expected_chunks": 483,
+    "missing_batches": 91,
+    "missing_chunks": 455,
+    "evidence_objects": 444,
+    "evidence_spans": 444,
+    "scope_mirrors": 143,
+    "errors": 0
+  },
+  "errors": [],
+  "source_comparison_limit": "The standalone frozen04/raw source/complete rules/schema/runtime are absent in this recovered directory. Five-field comparison against independent04 cannot be rerun. Matching full-file SHA only establishes unchanged historical candidate including those fields; self-text offset checks do not establish source semantic correctness.",
+  "stage_gate": {
+    "historical_status": "S5_CANDIDATE_EARLY_REVIEW_COVERED_483_REPRESENTATION_BLOCKED_NOT_S6",
+    "relation_hold_chunks": [
+      9,
+      24,
+      105,
+      110,
+      154,
+      160,
+      188,
+      302,
+      306,
+      324,
+      355,
+      410,
+      442
+    ],
+    "representation_pending_chunks": [
+      15,
+      26,
+      27,
+      30,
+      36,
+      41,
+      146,
+      350,
+      353,
+      366,
+      406,
+      410,
+      426,
+      438,
+      440
+    ],
+    "unique_blocked_chunks": 27,
+    "next_stage_authorized_by_this_check": false,
+    "reason": "Historical independent rollup explicitly marks unresolved representation and not S6. No recovered complete controlling contract or subsequent rule approval permits closing 27 affected chunks or passing the next formal gate. Do not substitute restoration checks for source review or formal S6."
+  },
+  "remaining_dependencies": {
+    "missing_current_candidates": [
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V3/annotations.jsonl",
+        "sha256": "de3e0bde0e950e47ffc5139768dd0a85a8f5a7fe5d876f2cb9dc24ef94c6b83a",
+        "range": [
+          1,
+          5
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V4/annotations.jsonl",
+        "sha256": "cbaebe953c3e3c79d0f919fd8d464482909e453c9cb04b4af1d31cd6f4e9960a",
+        "range": [
+          6,
+          10
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V4/annotations.jsonl",
+        "sha256": "ab3765f72cf252a5faa9eca1bd09df1a10537b56f58ac2a3cc6503afaf0ec743",
+        "range": [
+          11,
+          15
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0016_C0020_V4/annotations.jsonl",
+        "sha256": "337decdd7aac38af416679c5572ef3b164d51acb958f9aca0962621cafb2db19",
+        "range": [
+          16,
+          20
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V6/annotations.jsonl",
+        "sha256": "de73b3f55dec9c6a6c02901d738ede0289293b7e51b738cc6a622da788294886",
+        "range": [
+          21,
+          25
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V7/annotations.jsonl",
+        "sha256": "5acb24399dae6931deb842687b66f4b6eb6906b4a8f49c57dd71bab6767a3a0d",
+        "range": [
+          26,
+          30
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V3/annotations.jsonl",
+        "sha256": "e98b87cbb826265757c3feb4db18ef17d7b19c1fd9fec867dbc0801a06f2ae93",
+        "range": [
+          31,
+          35
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V4/annotations.jsonl",
+        "sha256": "90492b460f834e03735f6aad9c99fed769b6979d7fa30ef887c652ba1be01536",
+        "range": [
+          36,
+          40
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V6/annotations.jsonl",
+        "sha256": "dec74e0b9699e95e1b052c06dc97d413242fd4c7e2383b20fd00944f4d5660f8",
+        "range": [
+          41,
+          45
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V5/annotations.jsonl",
+        "sha256": "81d84b002ffbcad92ea745fa0155becac740c09a96bae22b363fe2394e7dff56",
+        "range": [
+          46,
+          50
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V3/annotations.jsonl",
+        "sha256": "60bbe69da5909ae5e33660eed4f0ef7ef36b0fcafc368965c11d8d62e82f173b",
+        "range": [
+          51,
+          55
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V4/annotations.jsonl",
+        "sha256": "5265ce58236af2d4109a5313438760ed0d8e794197d5b2284bed24af5697ca2c",
+        "range": [
+          56,
+          60
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0061_C0065_V2/annotations.jsonl",
+        "sha256": "176df4104d914f7dad24ad0e5e75a69b40d2191c5b121cf5ae3332a9440754af",
+        "range": [
+          61,
+          65
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0066_C0070_V2/annotations.jsonl",
+        "sha256": "b88db6e22a5bde344e7bc70b1d0518b0fb006dca246b53b3d6abee9374db8aa9",
+        "range": [
+          66,
+          70
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0071_C0075_V1/annotations.jsonl",
+        "sha256": "666cf09a799e7a335e24a79bf5704d708d0a26ec745e4aebbdcc19471ef5f09a",
+        "range": [
+          71,
+          75
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0076_C0080_V3/annotations.jsonl",
+        "sha256": "625ca279c002af4f61b473b15594804a43c61d02ceaa01013f14422293aab909",
+        "range": [
+          76,
+          80
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0081_C0085_V4/annotations.jsonl",
+        "sha256": "a9e8fd00ac5c2269da686f3e48ab31b331a73d50368951df669815f2e902d536",
+        "range": [
+          81,
+          85
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0086_C0090_V3/annotations.jsonl",
+        "sha256": "13e5212c2c5650148d97005ceaf2ce81f192135f5b61e45cc71c95c0e131afbc",
+        "range": [
+          86,
+          90
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0091_C0095_V2/annotations.jsonl",
+        "sha256": "decb611468cbcce2885a8e23141a93419dc61dc97d40475546dcb48f5caef4cb",
+        "range": [
+          91,
+          95
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0096_C0100_V6/annotations.jsonl",
+        "sha256": "5dd225de289ad27fc7013a1f7885fd921cc2a9d20309074fd2d8f87c80886551",
+        "range": [
+          96,
+          100
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0101_C0105_V4/annotations.jsonl",
+        "sha256": "75bc9e361baebaa4b54952c520fbe646dc9a3ecaa61341c251bcd9c075d0b29a",
+        "range": [
+          101,
+          105
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0106_C0110_V4/annotations.jsonl",
+        "sha256": "0567c730db5c86f1dc5d1c16ebd610ab5ba17e33179d14f46e4c70965cb5372b",
+        "range": [
+          106,
+          110
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0111_C0115_V2/annotations.jsonl",
+        "sha256": "421b18400218d697e2a7c1949ca9498290aa914902a88a6b8c23688184cf052f",
+        "range": [
+          111,
+          115
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0116_C0120_V3/annotations.jsonl",
+        "sha256": "fe0b630a0882fb1d3eeafb8e4eafbe8a962c04c48d7cf46101296b4538cfb401",
+        "range": [
+          116,
+          120
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0121_C0125_V1/annotations.jsonl",
+        "sha256": "3599ebdc035ff6b8af3c9d41ebe295d26f55e2f6f5288f72864df21f6ecb1dfa",
+        "range": [
+          121,
+          125
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0126_C0130_V2/annotations.jsonl",
+        "sha256": "bb8b08e8e276a1461cc04bf72e85036ea86198fa90482962d5b1765b889a5d4a",
+        "range": [
+          126,
+          130
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0131_C0135_V2/annotations.jsonl",
+        "sha256": "d48f6cb3158b2965cbd1dc15c8d086d94b675972c7108a65329171eadf49e5f9",
+        "range": [
+          131,
+          135
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0136_C0140_V3/annotations.jsonl",
+        "sha256": "7018bde054df32feabe306ed1b93d310495d01e70e45d255b7bcae4c4365e129",
+        "range": [
+          136,
+          140
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V3/annotations.jsonl",
+        "sha256": "97f31b5ab8d97e2f9347b2cabc60e96e0c7ed22dc19588803e24f349cdc5f3ec",
+        "range": [
+          141,
+          145
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V4/annotations.jsonl",
+        "sha256": "fa23077231c3e81f5eb0321ffe64d508a0b022454d6cb9ef6a3d82fb46d8c4c1",
+        "range": [
+          146,
+          150
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0151_C0155_V5/annotations.jsonl",
+        "sha256": "a04111d88eda3d8de6640204c63641857d1ae874dfab3e96dc3f9ac30026c586",
+        "range": [
+          151,
+          155
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0156_C0160_V3/annotations.jsonl",
+        "sha256": "a91009f3914ba594b83484925ffb798ae6868169b977711c3542f7ec6f279a00",
+        "range": [
+          156,
+          160
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0161_C0165_V3/annotations.jsonl",
+        "sha256": "00e5b8dbef3018b54d41f7eae2810432a785fae0e3a5a91abb7a3686db6d2507",
+        "range": [
+          161,
+          165
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0166_C0170_V3/annotations.jsonl",
+        "sha256": "4d49f0abfc1a04dfadbb5ce3191d149fc201c6e4ab4ca0def7552c578ce356c4",
+        "range": [
+          166,
+          170
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0171_C0175_V4/annotations.jsonl",
+        "sha256": "f96bdf6b9fc7c2766f67b3a1736221ce4c1f9178712127f4611d197d812da515",
+        "range": [
+          171,
+          175
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0176_C0180_V3/annotations.jsonl",
+        "sha256": "8fcd0677e2509d98c2e3b8da436ef658e554aca6381670b92b9a9e238671ba8a",
+        "range": [
+          176,
+          180
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0181_C0185_V2/annotations.jsonl",
+        "sha256": "2d060bfcd95a1c8c90500fc1eb3c011aac73c8560918c716089d113772cd05d0",
+        "range": [
+          181,
+          185
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0186_C0190_V1/annotations.jsonl",
+        "sha256": "73a6134a6bf1a66faa3b75f1458df3dcbc2ffe1eaa18b622c696df60eb5bd69e",
+        "range": [
+          186,
+          190
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0191_C0195_V2/annotations.jsonl",
+        "sha256": "a3bafc920f7a69d907eb831fa1eb347a989a1373546659c60eaef63e5f5d7d2c",
+        "range": [
+          191,
+          195
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0196_C0200_V1/annotations.jsonl",
+        "sha256": "0ece89f98709d57c31e01c546108473c07faec84078735c353b5db032fe8658a",
+        "range": [
+          196,
+          200
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0201_C0205_V3/annotations.jsonl",
+        "sha256": "46e0a08c00db97c3cc9ab4466d3b6bdcc478f5bd6af4a35a7842b58e50d118dd",
+        "range": [
+          201,
+          205
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0206_C0210_V3/annotations.jsonl",
+        "sha256": "5fc9705c11093a3f59dc8bcdf7b794ab21d65b17257ec172d6d1dcf616ebbbaa",
+        "range": [
+          206,
+          210
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0211_C0215_V1/annotations.jsonl",
+        "sha256": "cdba56a994ed8313d07c7efa82131aaf1ba3cc14de4aa8b289c5900c64d989d6",
+        "range": [
+          211,
+          215
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0216_C0220_V2/annotations.jsonl",
+        "sha256": "8c7b8af7d0b73a39c0554a80f2da61e9a4ef8578a4bbb229062e986991743941",
+        "range": [
+          216,
+          220
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0221_C0225_V3/annotations.jsonl",
+        "sha256": "614ae0b5dee0b85c6f7cc7b96c6aaea1117a52001784310c4781be45c8ce3062",
+        "range": [
+          221,
+          225
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0226_C0230_V3/annotations.jsonl",
+        "sha256": "ca7811c77bd053d1b66d541a2aeaf97e4298b76613a0be08ab7835b892761dd7",
+        "range": [
+          226,
+          230
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0231_C0235_V3/annotations.jsonl",
+        "sha256": "63cec1ba9914a9c6550421affec4cdfb167b9452e41c4d3c870d6b26218cd177",
+        "range": [
+          231,
+          235
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0236_C0240_V3/annotations.jsonl",
+        "sha256": "b219c5745ea663b5c00b9610b644edbbc5fe407792b0577fa4d7428ee8780d33",
+        "range": [
+          236,
+          240
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0241_C0245_V2/annotations.jsonl",
+        "sha256": "00a7956675e48b84de9bf3700fd84218368ca47fe23785651558a8b8b1c2f672",
+        "range": [
+          241,
+          245
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0246_C0250_V3/annotations.jsonl",
+        "sha256": "5a334688d4dc4e7d14a73762a74f49f2001a2c55c07923278f940c646b2e7016",
+        "range": [
+          246,
+          250
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0251_C0255_V3/annotations.jsonl",
+        "sha256": "603bcc47a46c5ad3b7c91dd7cfb6880e5e74f95b340ddfcb0afd122f5c4fd359",
+        "range": [
+          251,
+          255
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0256_C0260_V5/annotations.jsonl",
+        "sha256": "f075bd3583d81fae6b41af9564e4d6cc8a5f67f53ac7c367245e6a7671918ba3",
+        "range": [
+          256,
+          260
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0261_C0265_V2/annotations.jsonl",
+        "sha256": "f15f90956c66c305e8f0e99ac65ff674b00cd110eb29ff999c42de16e2b03ee7",
+        "range": [
+          261,
+          265
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0266_C0270_V2/annotations.jsonl",
+        "sha256": "4a76cd24b8005de53d3995d136c06fe9e76319c6bd742641d0c1c6749bc93365",
+        "range": [
+          266,
+          270
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0271_C0275_V2/annotations.jsonl",
+        "sha256": "dc9a3965f88f079e01f96ca6bf0188d8d2f26a7352dd8e4edbb77d56ef771890",
+        "range": [
+          271,
+          275
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0276_C0280_V4/annotations.jsonl",
+        "sha256": "9ad8d6a708378e1a609a596a59f9b0b471dee2b3d623b293f02b37f9fe699712",
+        "range": [
+          276,
+          280
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0281_C0285_V2/annotations.jsonl",
+        "sha256": "76fbada553f4914d01377be2f90b8dc573dab0595b8fbe7b2ca5d2034182da33",
+        "range": [
+          281,
+          285
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0286_C0290_V2/annotations.jsonl",
+        "sha256": "6057b7f8f7ac8d219e0ef26aba4552ebb4a39f428b394b5ca4db5c4ab6c039f2",
+        "range": [
+          286,
+          290
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0291_C0295_V3/annotations.jsonl",
+        "sha256": "1d02d832c75a8f431e1be7e21eb7625e43a7d8813e9087d57389effaf4a38e5e",
+        "range": [
+          291,
+          295
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0296_C0300_V2/annotations.jsonl",
+        "sha256": "f7940c4862014f908e78c81886fe16ba5ed5947010b857e212f2f34befab47a8",
+        "range": [
+          296,
+          300
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0301_C0305_V2/annotations.jsonl",
+        "sha256": "fe1c5d7cbb7896988b8fdca87b02d203d5074dd4a3522e38c4b06fbed7b942f8",
+        "range": [
+          301,
+          305
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V2/annotations.jsonl",
+        "sha256": "bf32bee42b29392b1d1295caaeb224fa809d1dc37ce80b7bdbe6933e59582728",
+        "range": [
+          306,
+          310
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V2/annotations.jsonl",
+        "sha256": "79a925d0098e6f71ead4cc13fdc30a71d27292e1a52f01c21ea806b513d4c1d4",
+        "range": [
+          311,
+          315
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0316_C0320_V2/annotations.jsonl",
+        "sha256": "2c03d807193f54c45c9cd750b6ac8d9095ecb799d9061692a2af32c44af73be8",
+        "range": [
+          316,
+          320
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0321_C0325_V2/annotations.jsonl",
+        "sha256": "b1c8f2158d3a197144a9d270040b70f7239956fdfb0bd78a11e691ddcd6a2f0e",
+        "range": [
+          321,
+          325
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0326_C0330_V1/annotations.jsonl",
+        "sha256": "b360ad415bb46f03941fd083a1a0e9e8ecb95d9f5e0adfa11e6d791e5b00b67c",
+        "range": [
+          326,
+          330
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0331_C0335_V3/annotations.jsonl",
+        "sha256": "eb065718f266ae83730d0e9481fe45fc6ab0a306e2f236204ec548e00d92a91c",
+        "range": [
+          331,
+          335
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0336_C0340_V4/annotations.jsonl",
+        "sha256": "c3b9443c36ef523ea96557fe453fbc4350212e91fa17abb1d9ba087e6964bde8",
+        "range": [
+          336,
+          340
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V4/annotations.jsonl",
+        "sha256": "ee637426b7dc6979ba876918bb83cadc047e0488c37e70bf66de89550fe916f8",
+        "range": [
+          341,
+          345
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V3/annotations.jsonl",
+        "sha256": "e23bdc102d49dcf475e5c78efef845305bb57b755919aedbfbe6d328593f2b06",
+        "range": [
+          346,
+          350
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0351_C0355_V4/annotations.jsonl",
+        "sha256": "9a6ebf37bcf1bdf23a9708ce698a685b53d2e41c77ae6c223bd8a3c7fa934802",
+        "range": [
+          351,
+          355
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0356_C0360_V2/annotations.jsonl",
+        "sha256": "3886e9275c461d153358d95c4f7fd7bf280a9acd2ccb23d0cbe8318f0cb411ea",
+        "range": [
+          356,
+          360
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0361_C0365_V2/annotations.jsonl",
+        "sha256": "b3173c777e8eb2b5f1d5a0abf4fca1badf8369a858d2c653846333efd2230436",
+        "range": [
+          361,
+          365
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0371_C0375_V3/annotations.jsonl",
+        "sha256": "b5bd308c6db196ec135d3d3473fbd3d234157895351a6cd476a045e242e98e77",
+        "range": [
+          371,
+          375
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0376_C0380_V2/annotations.jsonl",
+        "sha256": "d8dd0ffb465ca35b45bf0d7ae56c0aa9241605e76bd0066fdc21d821ac831a28",
+        "range": [
+          376,
+          380
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0381_C0385_V3/annotations.jsonl",
+        "sha256": "26e24243a45b572d980e8b33d2646fcd098ebbeeb74c926226325807c340b8cc",
+        "range": [
+          381,
+          385
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0386_C0390_V3/annotations.jsonl",
+        "sha256": "02081c9ec0c5f7abbcedb8faaf26c022a400cbbe241c176f3e44ccfa147d6981",
+        "range": [
+          386,
+          390
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0391_C0395_V1/annotations.jsonl",
+        "sha256": "a024caeaafab6b5dd7ca77613f1c35ad547a445b0c5c04835114625d7cd34893",
+        "range": [
+          391,
+          395
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0396_C0400_V1/annotations.jsonl",
+        "sha256": "078c3599938e72e82bbd431b06b46573ec55a57e458d110ede36b0766cbd8b66",
+        "range": [
+          396,
+          400
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0401_C0405_V2/annotations.jsonl",
+        "sha256": "c6b5fe756039100f2b4e3109b989eb22314f2ed8b26e424cffaa431cca5584ef",
+        "range": [
+          401,
+          405
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0411_C0415_V1/annotations.jsonl",
+        "sha256": "dac077c817b9e3fe1a51e6a5d4f936f5879ff55b6db196c0f5202d18b8b18b98",
+        "range": [
+          411,
+          415
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0421_C0425_V2/annotations.jsonl",
+        "sha256": "026442a99ccbda363ec0708153079334821cd69945eed26cd7ebea8c5de8c9e6",
+        "range": [
+          421,
+          425
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0426_C0430_V2/annotations.jsonl",
+        "sha256": "cc6c3b8cc0813c6e154b31f394f3fc4ebe32d58411b32ee341ba8aeb73beaa43",
+        "range": [
+          426,
+          430
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0431_C0435_V2/annotations.jsonl",
+        "sha256": "8a62f56fa0305c24d776968fe689ae8ce8c77e8577596c1144fe4b625ed8137c",
+        "range": [
+          431,
+          435
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0436_C0440_V3/annotations.jsonl",
+        "sha256": "0ca3f674493e9d4a49be5bf409d536021a972d09c3d9669ab8d32dbb60e826bb",
+        "range": [
+          436,
+          440
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0441_C0445_V3/annotations.jsonl",
+        "sha256": "2378a03519978a08d117e73b5fa963df4788f6f0ed6c0b8ed4e4ec5aaf7b0a98",
+        "range": [
+          441,
+          445
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0446_C0450_V4/annotations.jsonl",
+        "sha256": "262f3dae63482377347ac2b62f66801abc6186481d6c08e8e271af31cb6394a5",
+        "range": [
+          446,
+          450
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0451_C0455_V3/annotations.jsonl",
+        "sha256": "6d37872d499bb86c6a2fe90c37e6aef37b2756402b00f7e7fe314a03434c8508",
+        "range": [
+          451,
+          455
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0456_C0460_V3/annotations.jsonl",
+        "sha256": "974d4a656ea37c8d27374315397be0ac085faa037b5158a678280df866be147b",
+        "range": [
+          456,
+          460
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0461_C0465_V2/annotations.jsonl",
+        "sha256": "319777d349a2193dc59b9c011046abdfdcb3fffe0f4c76235e04d6d326315c6c",
+        "range": [
+          461,
+          465
+        ]
+      },
+      {
+        "path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0466_C0470_V2/annotations.jsonl",
+        "sha256": "78331529b931e54deae5bfdb2266a4fc7e1977d7ff17a24360c20705e3530712",
+        "range": [
+          466,
+          470
+        ]
+      }
+    ],
+    "required": "Standalone frozen04 and original source/lineage; complete applicable rules, schema, vocabularies, validator/runtime and S4 approved limitations/gate; remaining evidence and exact latest decisions; approved resolution of representation gaps before stage closure. Historical manifests alone do not recreate these dependencies.",
+    "remote_gaps_preserved": [
+      {
+        "path": "s5_batches/C0231_C0235_V3/batch_report.json",
+        "bytes": 126847,
+        "sha256": "bad492e0bdb5d9da8bb3bf571a655752ca8c10be13a6859a111389d0675c0920",
+        "status": "upload_failed_do_not_retry_or_repackage",
+        "local_unchanged": true
+      },
+      {
+        "path": "preparation/s5_reviews/TRIGGER_STEM_CONTEXT_REVIEW_PART01_V1.json",
+        "bytes": 6384,
+        "sha256": "ce57f7f4469676f71d74abe7c361debcd568f5d81a33101f873c5b52e04854ed",
+        "status": "upload_failed_do_not_retry_or_repackage",
+        "local_unchanged": true
+      }
+    ]
+  },
+  "no_downloads": true,
+  "no_old_labels_read": true,
+  "no_existing_files_modified": true,
+  "source_work_not_resumed": true
+}

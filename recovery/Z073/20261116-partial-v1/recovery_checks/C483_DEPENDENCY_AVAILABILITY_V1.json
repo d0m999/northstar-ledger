@@ -1,0 +1,1870 @@
+{
+  "created_utc": "2026-11-16T04:01:49.763309+00:00",
+  "purpose": "actual_local_recovery_inventory_not_remote_backup_verification",
+  "frozen_manifest_entries": 595,
+  "present_matching_entries": 37,
+  "missing_entries": 558,
+  "mismatches": [],
+  "files": [
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V3/batch_report.json",
+      "bytes": 137525,
+      "sha256": "24765825b9082d65aa5c82c47f3134720138b6fedf4169adc8556fbcd829e4d3",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V4/annotations.jsonl",
+      "bytes": 114781,
+      "sha256": "bf3efec2945e9de698925ac7ee4c5c760279e252597078dcbb494a9d625bcbb0",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/annotations.jsonl",
+      "bytes": 116710,
+      "sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/batch_report.json",
+      "bytes": 112067,
+      "sha256": "aadbd376b861a8c45efd2b390395028cb20c7df5f01bf13cdb7eff59a1efe559",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V2/annotations.jsonl",
+      "bytes": 102798,
+      "sha256": "a8705c1ce51510fe9a30f39a304a18d6ffa8b1771192043df579d63f9d44fab7",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V2/batch_report.json",
+      "bytes": 99390,
+      "sha256": "40dbd1c79996e6967637d0ac622ea561d40548a27027f149873fc4d9b75cae3d",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/annotations.jsonl",
+      "bytes": 85939,
+      "sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/batch_report.json",
+      "bytes": 78613,
+      "sha256": "e19d8fdbe648816c05eb4449a8020a4bb484dc3e68c149c19fba967c22b5a7ad",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/annotations.jsonl",
+      "bytes": 103138,
+      "sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/batch_report.json",
+      "bytes": 101390,
+      "sha256": "edac33cd4d39135d40aca090787cd41bfba2d1f313452f65b62195b2334cd9d4",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0481_C0483_V2/annotations.jsonl",
+      "bytes": 106837,
+      "sha256": "11ecd30ba7ca94ffe9c706c11b9102159a4b9dc03ec45b8cb707e039766c7ad3",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0481_C0483_V2/batch_report.json",
+      "bytes": 102077,
+      "sha256": "21d29c8ab883fc35731f39d617240d8779779da23a0267b08aca0416ad9ad0ce",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/AUTHOR_C0483_ORDINARY_REPAIRS_CLOSED_PENDING_SIHUA_AUDIT_V1.json",
+      "bytes": 51832,
+      "sha256": "1c3829d59f16c30ea9949cd12a4342ef3437fd623ec13684bf707b4f1f25f439",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/AUTHOR_C0483_TRANSFORMATION_REPAIRS_PENDING_CLOSURE_V1.json",
+      "bytes": 55240,
+      "sha256": "57de33b2d2dfabd53a42d8f5fbd082b581ca35716d4b05d35969041f6630d46b",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "bytes": 62381,
+      "sha256": "60396ef3f3331a1a65a63b289a8bbeb5c44762d8db274c713657b87c0548bda2",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "bytes": 45588,
+      "sha256": "f104a76c821e38e7d9291713fa04d9f0ea2a1a9056f3fef09e6a81206ebedfcd",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "bytes": 90795,
+      "sha256": "fce9208a8d6ebaca0fbf8a51d850ebf1dfe070f6492ac36c125762b1af6f3077",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "bytes": 63398,
+      "sha256": "21619b93a08aa4851ff551c2d5338e64c32d85a6519fd0ab6452325182ff20b8",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "bytes": 67822,
+      "sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "bytes": 85758,
+      "sha256": "b7a9a2aa8ecaaf91301d1b430d48efc0e7d6383f354a9012b32d166c6caf4b7a",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "bytes": 153491,
+      "sha256": "190c9e6adab6c9fb9ec661ee9e3fd4ef6b805809de4ff19fa9dc1e105e4f7be2",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "bytes": 160637,
+      "sha256": "23e4381341812783a0647dd38f0bb204070be77eed7e61d7f9bb1e26dc88656f",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "bytes": 121356,
+      "sha256": "f544a4dd4050903b029bcfed1d309e07fff03bb54dcf4377eb1546d83d74b16a",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "bytes": 130713,
+      "sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "bytes": 115795,
+      "sha256": "f57eba11e52974a5fadd7bcb898acc63157962e3e5ba76719e9a554a396587d0",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "bytes": 99160,
+      "sha256": "55aeb30b1acaece20f0df97099383940fe4ba358af2238ceb3ca047ab196d5aa",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "bytes": 115890,
+      "sha256": "43b24d5d63f3dac3ef51ca1bce827ae5ccb16e0ca09f2741f3003dfab69cdbc5",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "bytes": 117305,
+      "sha256": "e0f03afaa72bd22d7afd09e41dc045704c18fed05c7524a546b89416b5957e98",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/TRANSFORMATION_INDEPENDENT_CLAUSES_SCOPE_CHANGELOG_V1.json",
+      "bytes": 25192,
+      "sha256": "671a6b2b8e2667135171f186daadabe9f5fa66401ace4a69cbeabeb02baa228a",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/TRANSFORMATION_SHARED_PREDICATE_PENDING_CHANGELOG_V1.json",
+      "bytes": 4543,
+      "sha256": "50d193a54e6242290e9f91ec5b94a1b12b71f2bb184bde4f97e0966bf4630c11",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "preparation/s5_reviews/TRANSFORMATION_ALTERNATIVE_48_DISPOSITION_V1.json",
+      "bytes": 229174,
+      "sha256": "36176c034e2fc44ad2c3d53ebd933c78e2859f9c979111d431dfa330e6d131bc",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/Z073_REBUILD_CHECKPOINT_S5_C0483_REPRESENTATION_BLOCKED_V1.json",
+      "bytes": 56988,
+      "sha256": "d4592cd814f5597ed32f2870f837ffa88030d4b3c622c1c419c63aa1ade241f3",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/AUTHOR_C0483_FROZEN_REPRESENTATION_BLOCKED_V1.json",
+      "bytes": 56821,
+      "sha256": "f4a3208bd2494ec9b0bb638f8df0996f7bf5b8900d79e51a6962203cbc84042a",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "preparation/s5_reviews/TRANSFORMATION_ALTERNATIVE_REPAIR_INDEPENDENT_CLOSURE_V1.json",
+      "bytes": 37556,
+      "sha256": "ab987df23e407162d55a4fdaa35214e49fb1ca4ff416faabcdcd9967dc89d0dd",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "preparation/s5_reviews/FINAL_483_HOLD_PENDING_CLASSIFICATION_V1.json",
+      "bytes": 18022,
+      "sha256": "8d3ef711046768cd80b9fbd53b717e0e85282f65b7496f383253874d0bc8696a",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "preparation/s5_reviews/EARLY_REVIEW_EVIDENCE_INVENTORY_FINAL_V1.json",
+      "bytes": 50837,
+      "sha256": "afe03e5b7c1678229e556d722474ffa32fa6342246c41b7adee22f7068ef4d43",
+      "matches_frozen_manifest": true
+    },
+    {
+      "relative_path": "preparation/s5_reviews/FINAL_EARLY_REVIEW_ROLLUP_C0483_V1.json",
+      "bytes": 56737,
+      "sha256": "8308ca47ee6c5a2e25c60e26d8f61e416bad24aa8155e054c737c3bca140e780",
+      "matches_frozen_manifest": true
+    }
+  ],
+  "missing_paths": [
+    "deliveries/run-20261115-ziwei073-rebuild-v2/Z073_REBUILD_CHECKPOINT_S5_C0470_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/Z073_REBUILD_CHECKPOINT_S5_C0483_PENDING_REVIEW_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0016_C0020_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0016_C0020_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V5/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V5/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V6/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V6/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V5/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V5/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V7/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V7/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0031_C0035_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0036_C0040_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V6/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0041_C0045_V6/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V5/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0046_C0050_V5/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0051_C0055_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0056_C0060_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0061_C0065_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0061_C0065_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0066_C0070_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0066_C0070_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0071_C0075_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0071_C0075_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0076_C0080_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0076_C0080_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0081_C0085_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0081_C0085_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0086_C0090_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0086_C0090_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0091_C0095_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0091_C0095_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0096_C0100_V6/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0096_C0100_V6/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0101_C0105_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0101_C0105_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0106_C0110_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0106_C0110_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0111_C0115_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0111_C0115_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0116_C0120_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0116_C0120_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0121_C0125_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0121_C0125_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0126_C0130_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0126_C0130_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0131_C0135_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0131_C0135_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0136_C0140_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0136_C0140_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0141_C0145_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0146_C0150_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0151_C0155_V5/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0151_C0155_V5/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0156_C0160_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0156_C0160_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0161_C0165_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0161_C0165_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0166_C0170_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0166_C0170_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0171_C0175_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0171_C0175_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0176_C0180_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0176_C0180_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0181_C0185_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0181_C0185_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0186_C0190_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0186_C0190_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0191_C0195_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0191_C0195_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0196_C0200_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0196_C0200_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0201_C0205_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0201_C0205_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0206_C0210_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0206_C0210_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0211_C0215_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0211_C0215_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0216_C0220_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0216_C0220_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0221_C0225_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0221_C0225_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0226_C0230_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0226_C0230_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0231_C0235_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0236_C0240_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0236_C0240_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0241_C0245_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0241_C0245_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0246_C0250_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0246_C0250_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0251_C0255_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0251_C0255_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0256_C0260_V5/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0256_C0260_V5/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0261_C0265_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0261_C0265_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0266_C0270_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0266_C0270_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0271_C0275_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0271_C0275_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0276_C0280_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0276_C0280_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0281_C0285_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0281_C0285_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0286_C0290_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0286_C0290_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0291_C0295_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0291_C0295_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0296_C0300_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0296_C0300_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0301_C0305_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0301_C0305_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0306_C0310_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0316_C0320_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0316_C0320_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0321_C0325_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0321_C0325_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0326_C0330_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0326_C0330_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0331_C0335_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0331_C0335_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0336_C0340_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0336_C0340_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0351_C0355_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0351_C0355_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0356_C0360_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0356_C0360_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0361_C0365_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0361_C0365_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0371_C0375_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0371_C0375_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0376_C0380_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0376_C0380_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0381_C0385_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0381_C0385_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0386_C0390_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0386_C0390_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0391_C0395_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0391_C0395_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0396_C0400_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0396_C0400_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0401_C0405_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0401_C0405_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0411_C0415_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0411_C0415_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V1/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V1/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0421_C0425_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0421_C0425_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0426_C0430_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0426_C0430_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0431_C0435_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0431_C0435_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0436_C0440_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0436_C0440_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0441_C0445_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0441_C0445_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0446_C0450_V4/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0446_C0450_V4/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0451_C0455_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0451_C0455_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0456_C0460_V3/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0456_C0460_V3/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0461_C0465_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0461_C0465_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0466_C0470_V2/annotations.jsonl",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0466_C0470_V2/batch_report.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/AUTHOR_CHECKPOINT_C0470_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0016_C0020_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V5.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V5.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0031_C0035_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0031_C0035_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0036_C0040_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0036_C0040_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0041_C0045_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0041_C0045_V6.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0046_C0050_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0046_C0050_V5.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0051_C0055_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0051_C0055_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0056_C0060_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0056_C0060_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0061_C0065_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0066_C0070_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0071_C0075_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0076_C0080_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0081_C0085_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0086_C0090_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0091_C0095_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0096_C0100_V6.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0101_C0105_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0106_C0110_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0111_C0115_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0116_C0120_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0121_C0125_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0126_C0130_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0131_C0135_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0136_C0140_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0141_C0145_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0141_C0145_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0146_C0150_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0146_C0150_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0151_C0155_V5.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0156_C0160_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0161_C0165_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0166_C0170_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0171_C0175_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0176_C0180_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0181_C0185_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0186_C0190_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0191_C0195_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0196_C0200_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0201_C0205_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0206_C0210_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0211_C0215_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0216_C0220_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0221_C0225_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0226_C0230_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0231_C0235_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0236_C0240_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0241_C0245_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0246_C0250_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0251_C0255_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0256_C0260_V5.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0261_C0265_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0266_C0270_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0271_C0275_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0276_C0280_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0281_C0285_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0286_C0290_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0291_C0295_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0296_C0300_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0301_C0305_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0306_C0310_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0306_C0310_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0316_C0320_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0321_C0325_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0326_C0330_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0331_C0335_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0336_C0340_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0351_C0355_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0356_C0360_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0361_C0365_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0371_C0375_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0376_C0380_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0381_C0385_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0386_C0390_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0391_C0395_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0396_C0400_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0401_C0405_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0411_C0415_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V1.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0421_C0425_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0426_C0430_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0431_C0435_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0436_C0440_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0441_C0445_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0446_C0450_V4.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0451_C0455_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0456_C0460_V3.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0461_C0465_V2.json",
+    "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0466_C0470_V2.json",
+    "preparation/s5_reviews/ACCIDENTAL_LEGACY_READ_AUDIT_V1.json",
+    "preparation/s5_reviews/C0001_C0005_EARLY_REVIEW_V1.json",
+    "preparation/s5_reviews/C0001_C0010_EARLY_REVIEW_V2.json",
+    "preparation/s5_reviews/C0001_C0015_OR_PARTICIPANT_AUDIT_V1.json",
+    "preparation/s5_reviews/C0001_C0315_TRIGGER_STEM_SCREENING_V1.json",
+    "preparation/s5_reviews/C0006_C0010_OR_REPAIR_PARTIAL_CLOSURE_V1.json",
+    "preparation/s5_reviews/C0006_C0015_EARLY_REVIEW_V1.json",
+    "preparation/s5_reviews/C0011_C0015_REPAIR_REVIEW_V2.json",
+    "preparation/s5_reviews/C0016_C0020_EARLY_REVIEW_V1.json",
+    "preparation/s5_reviews/C0016_C0025_EARLY_REVIEW_V1.json",
+    "preparation/s5_reviews/C0016_C0025_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0016_C0025_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0016_C0040_CURRENT_MIRROR_AUDIT_V1.json",
+    "preparation/s5_reviews/C0016_C0160_OR_PARTICIPANT_AUDIT_V1.json",
+    "preparation/s5_reviews/C0021_C0025_PARENTHESES_REPAIR_PARTIAL_CLOSURE_V1.json",
+    "preparation/s5_reviews/C0021_C0025_TRIGGER_PART01_REPAIR_CLOSURE_V5.json",
+    "preparation/s5_reviews/C0024_PARENTHESES_PARTICIPANT_AUDIT_ADDENDUM_V1.json",
+    "preparation/s5_reviews/C0026_C0030_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0026_C0030_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0026_C0030_TRIGGER_PART01_REPAIR_CLOSURE_V5.json",
+    "preparation/s5_reviews/C0031_C0035_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0031_C0035_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0036_C0040_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0036_C0040_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0036_C0040_TRIGGER_PART01_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0041_C0045_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0041_C0045_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0041_C0045_TRIGGER_PART02_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0041_C0095_CURRENT_MIRROR_AUDIT_V1.json",
+    "preparation/s5_reviews/C0046_C0050_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0046_C0050_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0046_C0050_TRIGGER_PART02_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0051_C0055_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0051_C0055_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0056_C0060_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0056_C0060_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0056_C0060_TRIGGER_PART02_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0061_C0065_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0061_C0065_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0066_C0070_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0071_C0075_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0076_C0080_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0076_C0080_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0076_C0080_TRIGGER_PART02_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0081_C0085_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0081_C0085_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0081_C0085_TRIGGER_PART02_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0086_C0090_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0086_C0090_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0086_C0090_TRIGGER_PART02_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0091_C0095_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0091_C0095_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0096_C0100_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0096_C0100_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0096_C0100_TRIGGER_PART02_REPAIR_CLOSURE_V6.json",
+    "preparation/s5_reviews/C0096_C0105_CURRENT_MIRROR_AUDIT_V1.json",
+    "preparation/s5_reviews/C0101_C0105_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0101_C0105_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0101_C0105_OR_REPAIR_PARTIAL_CLOSURE_V1.json",
+    "preparation/s5_reviews/C0106_C0110_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0106_C0110_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0106_C0110_OR_REPAIR_PARTIAL_CLOSURE_V1.json",
+    "preparation/s5_reviews/C0106_C0110_TRIGGER_PART02_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0106_C0145_CURRENT_MIRROR_AUDIT_V1.json",
+    "preparation/s5_reviews/C0111_C0115_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0116_C0120_EXPLICIT_STEM_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0116_C0120_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0116_C0120_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0121_C0125_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0126_C0130_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0126_C0130_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0131_C0135_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0131_C0135_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0136_C0140_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0136_C0140_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0141_C0145_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0141_C0145_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0146_C0150_EXPLICIT_STEM_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0146_C0150_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0146_C0150_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0151_C0155_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0151_C0155_FRESH_REPAIR_PARTIAL_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0154_RELATION_OR_REPRESENTATION_BOUNDARY_V1.json",
+    "preparation/s5_reviews/C0156_C0160_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0156_C0160_FRESH_REPAIR_PARTIAL_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0161_C0165_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0161_C0165_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0161_C0165_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0166_C0170_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0166_C0170_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0166_C0170_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0166_C0190_CURRENT_MIRROR_AUDIT_V1.json",
+    "preparation/s5_reviews/C0171_C0175_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0171_C0175_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0171_C0175_TRIGGER_PART03_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0176_C0180_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0176_C0180_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0181_C0185_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0181_C0185_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0186_C0190_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0191_C0195_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0191_C0195_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0196_C0200_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0201_C0205_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0201_C0205_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0201_C0205_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0206_C0210_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0206_C0210_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0206_C0210_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0211_C0215_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0216_C0220_EXPLICIT_STEM_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0216_C0220_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0221_C0225_EXPLICIT_STEM_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0221_C0225_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0221_C0225_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0226_C0230_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0226_C0230_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0226_C0230_TRIGGER_PART03_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0231_C0235_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0231_C0235_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0231_C0235_TRIGGER_PART04_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0236_C0240_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0236_C0240_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0236_C0240_TRIGGER_PART04_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0241_C0245_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0241_C0245_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0246_C0250_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0246_C0250_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0246_C0250_TRIGGER_PART04_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0251_C0255_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0251_C0255_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0251_C0255_TRIGGER_PART04_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0256_C0260_FRESH_INDEPENDENT_REVIEW_V3.json",
+    "preparation/s5_reviews/C0256_C0260_FRESH_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0256_C0260_TRIGGER_PART04_REPAIR_CLOSURE_V5.json",
+    "preparation/s5_reviews/C0261_C0265_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0261_C0265_TRIGGER_PART04_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0266_C0270_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0266_C0270_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0271_C0275_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0271_C0275_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0276_C0280_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0276_C0280_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0276_C0280_TRIGGER_PART04_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0281_C0285_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0281_C0285_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0286_C0290_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0286_C0290_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0291_C0295_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0291_C0295_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0291_C0295_TRIGGER_PART04_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0296_C0300_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0296_C0300_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0301_C0305_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0301_C0305_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0306_C0310_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0311_C0315_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0316_C0320_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0316_C0320_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0321_C0325_EXPLICIT_STEM_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0321_C0325_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0326_C0330_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0331_C0335_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0331_C0335_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0336_C0340_FRESH_INDEPENDENT_REVIEW_V3.json",
+    "preparation/s5_reviews/C0336_C0340_FRESH_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0341_C0345_ENUMERATION_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0341_C0345_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0341_C0345_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0345_ENUMERATION_REPRESENTATION_ADJUDICATION_V1.json",
+    "preparation/s5_reviews/C0346_C0350_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0346_C0350_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0351_C0355_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0351_C0355_FRESH_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0351_C0355_FRESH_REPAIR_REVIEW_V3.json",
+    "preparation/s5_reviews/C0356_C0360_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0356_C0360_NOTE6_ATTRIBUTION_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0360_NOTE6_ATTRIBUTION_REOPEN_V1.json",
+    "preparation/s5_reviews/C0361_C0365_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0361_C0365_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0366_C0370_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0366_C0370_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0371_C0375_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0371_C0375_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0376_C0380_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0376_C0380_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0381_C0385_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0381_C0385_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0386_C0390_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0386_C0390_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0386_C0390_FRESH_REPAIR_REVIEW_V2.json",
+    "preparation/s5_reviews/C0391_C0395_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0396_C0400_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0401_C0405_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0403_S5_ELIGIBILITY_CLARIFICATION_V1.json",
+    "preparation/s5_reviews/C0406_C0410_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0406_C0410_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0406_C0410_FRESH_REPAIR_REVIEW_V2.json",
+    "preparation/s5_reviews/C0406_SCOPE_SUPPLEMENT_V1.json",
+    "preparation/s5_reviews/C0411_C0415_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0413_TRIGGER_REVIEW_CORRECTION_AND_BATCH_CLOSURE_V1.json",
+    "preparation/s5_reviews/C0416_C0420_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0421_C0425_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0421_C0425_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0426_C0430_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0426_C0430_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0431_C0435_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0431_C0435_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0436_C0440_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0436_C0440_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0441_C0445_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0441_C0445_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0446_C0450_FRESH_INDEPENDENT_REVIEW_V3.json",
+    "preparation/s5_reviews/C0446_C0450_FRESH_REPAIR_CLOSURE_V4.json",
+    "preparation/s5_reviews/C0451_C0455_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0451_C0455_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0456_C0460_FRESH_INDEPENDENT_REVIEW_V2.json",
+    "preparation/s5_reviews/C0456_C0460_FRESH_REPAIR_CLOSURE_V3.json",
+    "preparation/s5_reviews/C0461_C0465_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0461_C0465_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/C0466_C0470_FRESH_INDEPENDENT_REVIEW_V1.json",
+    "preparation/s5_reviews/C0466_C0470_FRESH_REPAIR_CLOSURE_V2.json",
+    "preparation/s5_reviews/EXPLICIT_TRIGGER_STEM_CONFIRMED_OMISSIONS_V1.json",
+    "preparation/s5_reviews/FRESH_REVIEW_REPAIR_TRACKER_C0016_C0030_V1.json",
+    "preparation/s5_reviews/REVIEW_QUARANTINE_CONTROL_V1.json",
+    "preparation/s5_reviews/REVIEW_QUARANTINE_CONTROL_V2.json",
+    "preparation/s5_reviews/TRIGGER_STEM_52_CANDIDATE_DISPOSITION_ROLLUP_V1.json",
+    "preparation/s5_reviews/TRIGGER_STEM_CONTEXT_REVIEW_PART02_V1.json",
+    "preparation/s5_reviews/TRIGGER_STEM_CONTEXT_REVIEW_PART03_V1.json",
+    "preparation/s5_reviews/TRIGGER_STEM_CONTEXT_REVIEW_PART04_V1.json",
+    "preparation/s5_reviews/FULL_483_FINAL_CANDIDATE_INTEGRITY_V2.json"
+  ],
+  "effective_batch_availability": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        101,
+        105
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        106,
+        110
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        111,
+        115
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        116,
+        120
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        121,
+        125
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        126,
+        130
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        131,
+        135
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        136,
+        140
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        141,
+        145
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        146,
+        150
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        151,
+        155
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        156,
+        160
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        161,
+        165
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        166,
+        170
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        171,
+        175
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        176,
+        180
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        181,
+        185
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        186,
+        190
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        191,
+        195
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        196,
+        200
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        201,
+        205
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        206,
+        210
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        211,
+        215
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        216,
+        220
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        221,
+        225
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        226,
+        230
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        231,
+        235
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        236,
+        240
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        241,
+        245
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        246,
+        250
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        251,
+        255
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        256,
+        260
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        261,
+        265
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        266,
+        270
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        271,
+        275
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        276,
+        280
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        281,
+        285
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        286,
+        290
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        291,
+        295
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        296,
+        300
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        301,
+        305
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        306,
+        310
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        311,
+        315
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        316,
+        320
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        321,
+        325
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        326,
+        330
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        331,
+        335
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        336,
+        340
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        341,
+        345
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        346,
+        350
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    },
+    {
+      "range": [
+        351,
+        355
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        356,
+        360
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        361,
+        365
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        366,
+        370
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        371,
+        375
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        376,
+        380
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        381,
+        385
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        386,
+        390
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        391,
+        395
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        396,
+        400
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        401,
+        405
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        406,
+        410
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    },
+    {
+      "range": [
+        411,
+        415
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        416,
+        420
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    },
+    {
+      "range": [
+        421,
+        425
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        426,
+        430
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        431,
+        435
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        436,
+        440
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        441,
+        445
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        446,
+        450
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        451,
+        455
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        456,
+        460
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        461,
+        465
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        466,
+        470
+      ],
+      "annotation_present": false,
+      "annotation_hash_matches": null,
+      "decision_present": false,
+      "decision_hash_matches": null,
+      "batch_report_present": false
+    },
+    {
+      "range": [
+        471,
+        475
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    },
+    {
+      "range": [
+        476,
+        480
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    },
+    {
+      "range": [
+        481,
+        483
+      ],
+      "annotation_present": true,
+      "annotation_hash_matches": true,
+      "decision_present": true,
+      "decision_hash_matches": true,
+      "batch_report_present": true
+    }
+  ],
+  "annotation_batches_available": 6,
+  "annotation_rows_available": 28,
+  "decision_batches_available": 14,
+  "gate_decision": "No formal S6 advancement: representation issues retained, frozen upstream source/rules/runtime/preparation not restored. Recording unresolved does not clear them. Continue local recovery integrity only.",
+  "old_source_baseline_read": false,
+  "downloads": 0,
+  "restricted_action_retries": 0,
+  "production_annotations_changed": false,
+  "whole_source_passed": false
+}
