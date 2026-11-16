@@ -1,0 +1,1162 @@
+{
+  "created_utc": "2026-11-16T15:18:38.942438+00:00",
+  "purpose": "decision_record_recovery_feasibility_not_candidate_reconstruction",
+  "checkpoint": "deliveries/run-20261115-ziwei073-rebuild-v2/Z073_REBUILD_CHECKPOINT_S5_C0483_REPRESENTATION_BLOCKED_V1.json",
+  "checkpoint_sha256": "d4592cd814f5597ed32f2870f837ffa88030d4b3c622c1c419c63aa1ade241f3",
+  "counts": {
+    "decision_records": 68,
+    "decision_only_records": 40,
+    "candidate_present": 28,
+    "existing_candidate_shared_value_changes": 0,
+    "existing_candidate_additional_empty_or_null_fields": 2433,
+    "existing_candidate_additional_basis_source_fields": 444
+  },
+  "files": [
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "decision_sha256": "60396ef3f3331a1a65a63b289a8bbeb5c44762d8db274c713657b87c0548bda2",
+      "checkpoint_hash_match": true,
+      "range": [
+        1,
+        5
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0001_C0005_V3/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "de3e0bde0e950e47ffc5139768dd0a85a8f5a7fe5d876f2cb9dc24ef94c6b83a",
+      "expected_candidate_bytes": 54664
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "decision_sha256": "f104a76c821e38e7d9291713fa04d9f0ea2a1a9056f3fef09e6a81206ebedfcd",
+      "checkpoint_hash_match": true,
+      "range": [
+        6,
+        10
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0006_C0010_V4/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "cbaebe953c3e3c79d0f919fd8d464482909e453c9cb04b4af1d31cd6f4e9960a",
+      "expected_candidate_bytes": 44248
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "decision_sha256": "fce9208a8d6ebaca0fbf8a51d850ebf1dfe070f6492ac36c125762b1af6f3077",
+      "checkpoint_hash_match": true,
+      "range": [
+        11,
+        15
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0011_C0015_V4/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "ab3765f72cf252a5faa9eca1bd09df1a10537b56f58ac2a3cc6503afaf0ec743",
+      "expected_candidate_bytes": 76619
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "decision_sha256": "21619b93a08aa4851ff551c2d5338e64c32d85a6519fd0ab6452325182ff20b8",
+      "checkpoint_hash_match": true,
+      "range": [
+        21,
+        25
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0021_C0025_V6/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "de73b3f55dec9c6a6c02901d738ede0289293b7e51b738cc6a622da788294886",
+      "expected_candidate_bytes": 53205
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "decision_sha256": "db0de89cf5d9af1ee4bdd1210f8057c50c59b5089300894092bc5b08d7adafd7",
+      "checkpoint_hash_match": true,
+      "range": [
+        26,
+        30
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0026_C0030_V7/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "5acb24399dae6931deb842687b66f4b6eb6906b4a8f49c57dd71bab6767a3a0d",
+      "expected_candidate_bytes": 56975
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "decision_sha256": "b7a9a2aa8ecaaf91301d1b430d48efc0e7d6383f354a9012b32d166c6caf4b7a",
+      "checkpoint_hash_match": true,
+      "range": [
+        311,
+        315
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0311_C0315_V2/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "79a925d0098e6f71ead4cc13fdc30a71d27292e1a52f01c21ea806b513d4c1d4",
+      "expected_candidate_bytes": 79693
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "decision_sha256": "190c9e6adab6c9fb9ec661ee9e3fd4ef6b805809de4ff19fa9dc1e105e4f7be2",
+      "checkpoint_hash_match": true,
+      "range": [
+        341,
+        345
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0341_C0345_V4/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "ee637426b7dc6979ba876918bb83cadc047e0488c37e70bf66de89550fe916f8",
+      "expected_candidate_bytes": 134917
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "decision_sha256": "23e4381341812783a0647dd38f0bb204070be77eed7e61d7f9bb1e26dc88656f",
+      "checkpoint_hash_match": true,
+      "range": [
+        346,
+        350
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0346_C0350_V3/annotations.jsonl",
+      "candidate_local": false,
+      "expected_candidate_sha256": "e23bdc102d49dcf475e5c78efef845305bb57b755919aedbfbe6d328593f2b06",
+      "expected_candidate_bytes": 152000
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "decision_sha256": "f544a4dd4050903b029bcfed1d309e07fff03bb54dcf4377eb1546d83d74b16a",
+      "checkpoint_hash_match": true,
+      "range": [
+        366,
+        370
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0366_C0370_V4/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "bf3efec2945e9de698925ac7ee4c5c760279e252597078dcbb494a9d625bcbb0",
+      "expected_candidate_bytes": 114781
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "decision_sha256": "a340a5a17b359c556319b524965763f360e24864b84f982c4a2f2762ef2d3fce",
+      "checkpoint_hash_match": true,
+      "range": [
+        406,
+        410
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0406_C0410_V4/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "28dcee6b1fbc30fc26dc8606368bc631f2e5ad0e00fea735635bc27aef447be6",
+      "expected_candidate_bytes": 116710
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "decision_sha256": "f57eba11e52974a5fadd7bcb898acc63157962e3e5ba76719e9a554a396587d0",
+      "checkpoint_hash_match": true,
+      "range": [
+        416,
+        420
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0416_C0420_V2/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "a8705c1ce51510fe9a30f39a304a18d6ffa8b1771192043df579d63f9d44fab7",
+      "expected_candidate_bytes": 102798
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "decision_sha256": "55aeb30b1acaece20f0df97099383940fe4ba358af2238ceb3ca047ab196d5aa",
+      "checkpoint_hash_match": true,
+      "range": [
+        471,
+        475
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0471_C0475_V2/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "750b14312634ebf8e16fc5ca42fa5a00149051e23f05029175d77cd8245eb2e5",
+      "expected_candidate_bytes": 85939
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "decision_sha256": "43b24d5d63f3dac3ef51ca1bce827ae5ccb16e0ca09f2741f3003dfab69cdbc5",
+      "checkpoint_hash_match": true,
+      "range": [
+        476,
+        480
+      ],
+      "records": 5,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0476_C0480_V3/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "cee3a39c8d3e12b0d2896f99f2a3ab3e5a8575e799b56bbedcea45083d58095d",
+      "expected_candidate_bytes": 103138
+    },
+    {
+      "decision": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "decision_sha256": "e0f03afaa72bd22d7afd09e41dc045704c18fed05c7524a546b89416b5957e98",
+      "checkpoint_hash_match": true,
+      "range": [
+        481,
+        483
+      ],
+      "records": 3,
+      "candidate_path": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_batches/C0481_C0483_V2/annotations.jsonl",
+      "candidate_local": true,
+      "expected_candidate_sha256": "11ecd30ba7ca94ffe9c706c11b9102159a4b9dc03ec45b8cb707e039766c7ad3",
+      "expected_candidate_bytes": 106837
+    }
+  ],
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c001"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 23,
+      "span_count": 22,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c002"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 22,
+      "span_count": 20,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c003"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 5,
+      "span_count": 4,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c004"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 19,
+      "span_count": 18,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0001_C0005_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c005"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 4,
+      "span_count": 3,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c006"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 8,
+      "span_count": 7,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c007"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 5,
+      "span_count": 4,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c008"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 7,
+      "span_count": 6,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c009"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 13,
+      "span_count": 12,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0006_C0010_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c010"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c011"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 16,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c012"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 22,
+      "span_count": 20,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c013"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 35,
+      "span_count": 32,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c014"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0011_C0015_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c015"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 27,
+      "span_count": 27,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c021"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 17,
+      "span_count": 16,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c022"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 12,
+      "span_count": 11,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c023"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 11,
+      "span_count": 10,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c024"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 13,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0021_C0025_V6.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c025"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 19,
+      "span_count": 18,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c026"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 8,
+      "span_count": 7,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c027"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 10,
+      "span_count": 9,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c028"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 20,
+      "span_count": 19,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c029"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 19,
+      "span_count": 18,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0026_C0030_V7.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c030"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 17,
+      "span_count": 16,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c311",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c311"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 6,
+      "span_count": 5,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c312",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c312"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 9,
+      "span_count": 8,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c313",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c313"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 12,
+      "span_count": 11,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c314",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c314"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 16,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c315",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0311_C0315_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c315"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 6,
+      "span_count": 5,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c341",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c341"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 24,
+      "span_count": 23,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c342",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c342"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 14,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c343",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c343"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 34,
+      "span_count": 34,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c344",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c344"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 17,
+      "span_count": 17,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c345",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0341_C0345_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c345"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 16,
+      "span_count": 18,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c346",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c346"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c347",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c347"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 22,
+      "span_count": 21,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c348",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c348"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 9,
+      "span_count": 8,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c349",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c349"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 17,
+      "span_count": 14,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c350",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0346_C0350_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c350"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 12,
+      "span_count": 11,
+      "candidate_present": false,
+      "comparison_counts": {},
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c366",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c366"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 35,
+      "span_count": 34,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 204
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c367",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c367"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 10,
+      "span_count": 11,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 73
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c368",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c368"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 6,
+      "span_count": 5,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 47
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c369",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c369"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 2,
+      "span_count": 1,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 28
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c370",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0366_C0370_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c370"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 11,
+      "span_count": 12,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 79
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c406",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c406"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 14,
+      "span_count": 13,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 90
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c407",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c407"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 21,
+      "span_count": 24,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 130
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c408",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c408"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 15,
+      "span_count": 16,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 95
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c409",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c409"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 10,
+      "span_count": 8,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 72
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c410",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0406_C0410_V4.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c410"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 24,
+      "span_count": 23,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 140
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c416",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c416"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 24,
+      "span_count": 25,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 149
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c417",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c417"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 6,
+      "span_count": 5,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 45
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c418",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c418"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 20,
+      "span_count": 19,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 125
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c419",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c419"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 1,
+      "span_count": 0,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 26
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c420",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0416_C0420_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c420"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 27,
+      "span_count": 32,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 169
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c471",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c471"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 13,
+      "span_count": 12,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 87
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c472",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c472"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 19,
+      "span_count": 18,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 114
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c473",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c473"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 18,
+      "span_count": 17,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 115
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c474",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c474"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 14,
+      "span_count": 13,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 90
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c475",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0471_C0475_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c475"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 11,
+      "span_count": 10,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 82
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c476",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c476"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 34,
+      "span_count": 35,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 205
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c477",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c477"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 1,
+      "span_count": 0,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 26
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c478",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c478"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 14,
+      "span_count": 13,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 90
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c479",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c479"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 16,
+      "span_count": 20,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 106
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c480",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0476_C0480_V3.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c480"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 17,
+      "span_count": 17,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 109
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c481",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c481"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 40,
+      "span_count": 42,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 239
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c482",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c482"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 18,
+      "span_count": 17,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 110
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c483",
+      "decision_file": "deliveries/run-20261115-ziwei073-rebuild-v2/s5_decisions/C0481_C0483_V2.json",
+      "source_fact_refs": [
+        "lineage:dots_all_20261013_ziwei_073_c483"
+      ],
+      "full_source_text_present": false,
+      "annotation_evidence_entries": 3,
+      "span_count": 2,
+      "candidate_present": true,
+      "comparison_counts": {
+        "candidate_adds_key": 32
+      },
+      "reuse_status": "exact_checkpoint_linked_author_decision_only_not_full_candidate"
+    }
+  ],
+  "conclusions": [
+    "All listed decision file hashes match the effective_candidates entries of C483 checkpoint. This verifies frozen checkpoint membership, not generation correctness.",
+    "source_fact_refs are symbolic lineage IDs; original S3 text and lineage file content are not supplied by those references.",
+    "All decision-defined nested values in the 28 overlapping candidates are unchanged. Observed differences are candidate-added empty/null fields and basis=source. This is observed equivalence of shared values, not a substitute for the missing generator/schema.",
+    "Decision-only records can be used as preserved author inputs once approved S3 and exact frozen runtime/preparation are restored. They cannot be substituted for exact final annotations.jsonl.",
+    "Existing 28 candidates provide comparison evidence only. No inferred normalization template is applied to missing candidates.",
+    "No rule changes, production writes, or stage passes. Existing 27 representation blocks remain."
+  ]
+}

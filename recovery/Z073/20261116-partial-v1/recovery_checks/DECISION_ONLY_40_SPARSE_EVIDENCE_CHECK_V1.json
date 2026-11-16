@@ -1,0 +1,375 @@
+{
+  "purpose": "sparse_evidence_consistency_only_not_full_text_reconstruction",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "valid_evidence_positions": 125,
+      "first_covered_offset": 6,
+      "last_covered_offset": 539,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "valid_evidence_positions": 304,
+      "first_covered_offset": 51,
+      "last_covered_offset": 648,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "valid_evidence_positions": 52,
+      "first_covered_offset": 40,
+      "last_covered_offset": 148,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "valid_evidence_positions": 174,
+      "first_covered_offset": 39,
+      "last_covered_offset": 624,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "valid_evidence_positions": 48,
+      "first_covered_offset": 50,
+      "last_covered_offset": 99,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "valid_evidence_positions": 110,
+      "first_covered_offset": 40,
+      "last_covered_offset": 418,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "valid_evidence_positions": 32,
+      "first_covered_offset": 108,
+      "last_covered_offset": 305,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "valid_evidence_positions": 94,
+      "first_covered_offset": 202,
+      "last_covered_offset": 564,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "valid_evidence_positions": 117,
+      "first_covered_offset": 39,
+      "last_covered_offset": 676,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "valid_evidence_positions": 146,
+      "first_covered_offset": 136,
+      "last_covered_offset": 558,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "valid_evidence_positions": 136,
+      "first_covered_offset": 199,
+      "last_covered_offset": 552,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "valid_evidence_positions": 113,
+      "first_covered_offset": 52,
+      "last_covered_offset": 440,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "valid_evidence_positions": 100,
+      "first_covered_offset": 88,
+      "last_covered_offset": 266,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "valid_evidence_positions": 51,
+      "first_covered_offset": 242,
+      "last_covered_offset": 301,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "valid_evidence_positions": 135,
+      "first_covered_offset": 71,
+      "last_covered_offset": 357,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "valid_evidence_positions": 75,
+      "first_covered_offset": 45,
+      "last_covered_offset": 252,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "valid_evidence_positions": 60,
+      "first_covered_offset": 47,
+      "last_covered_offset": 264,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "valid_evidence_positions": 23,
+      "first_covered_offset": 106,
+      "last_covered_offset": 128,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "valid_evidence_positions": 87,
+      "first_covered_offset": 41,
+      "last_covered_offset": 401,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "valid_evidence_positions": 121,
+      "first_covered_offset": 75,
+      "last_covered_offset": 420,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "valid_evidence_positions": 39,
+      "first_covered_offset": 66,
+      "last_covered_offset": 276,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "valid_evidence_positions": 77,
+      "first_covered_offset": 66,
+      "last_covered_offset": 314,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "valid_evidence_positions": 303,
+      "first_covered_offset": 46,
+      "last_covered_offset": 518,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "valid_evidence_positions": 60,
+      "first_covered_offset": 44,
+      "last_covered_offset": 227,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "valid_evidence_positions": 144,
+      "first_covered_offset": 62,
+      "last_covered_offset": 216,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c311",
+      "valid_evidence_positions": 224,
+      "first_covered_offset": 43,
+      "last_covered_offset": 266,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c312",
+      "valid_evidence_positions": 272,
+      "first_covered_offset": 43,
+      "last_covered_offset": 314,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c313",
+      "valid_evidence_positions": 200,
+      "first_covered_offset": 39,
+      "last_covered_offset": 238,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c314",
+      "valid_evidence_positions": 404,
+      "first_covered_offset": 43,
+      "last_covered_offset": 446,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c315",
+      "valid_evidence_positions": 251,
+      "first_covered_offset": 41,
+      "last_covered_offset": 291,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c341",
+      "valid_evidence_positions": 129,
+      "first_covered_offset": 160,
+      "last_covered_offset": 288,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c342",
+      "valid_evidence_positions": 354,
+      "first_covered_offset": 181,
+      "last_covered_offset": 534,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c343",
+      "valid_evidence_positions": 251,
+      "first_covered_offset": 41,
+      "last_covered_offset": 291,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c344",
+      "valid_evidence_positions": 98,
+      "first_covered_offset": 190,
+      "last_covered_offset": 287,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c345",
+      "valid_evidence_positions": 171,
+      "first_covered_offset": 42,
+      "last_covered_offset": 212,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c346",
+      "valid_evidence_positions": 412,
+      "first_covered_offset": 68,
+      "last_covered_offset": 489,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c347",
+      "valid_evidence_positions": 366,
+      "first_covered_offset": 41,
+      "last_covered_offset": 406,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c348",
+      "valid_evidence_positions": 328,
+      "first_covered_offset": 113,
+      "last_covered_offset": 505,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c349",
+      "valid_evidence_positions": 426,
+      "first_covered_offset": 92,
+      "last_covered_offset": 517,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c350",
+      "valid_evidence_positions": 432,
+      "first_covered_offset": 45,
+      "last_covered_offset": 505,
+      "invalid_spans": 0,
+      "conflicting_positions": 0,
+      "full_text_length_known": false
+    }
+  ],
+  "counts": {
+    "records": 40,
+    "invalid_spans": 0,
+    "conflicting_positions": 0
+  },
+  "limits": [
+    "Quotes are preserved author evidence, not independent source truth.",
+    "Unknown unquoted positions and unknown total text length prohibit full chunk reconstruction.",
+    "No new chunk_text, candidate or stage approval generated."
+  ]
+}
