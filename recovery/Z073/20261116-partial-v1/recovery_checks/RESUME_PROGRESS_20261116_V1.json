@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-11-16T14:27:18.060972+00:00",
+  "restored_manifest_entries_checked": 37,
+  "mismatches": [],
+  "annotation_rows_available": 28,
+  "new_production_annotations": 0,
+  "diagnostic_report": "recovery_checks/NONEXACT_32_DIAGNOSTIC_V1.json",
+  "blocking_dependencies": [
+    "Full approved 483 segmentation and cleaning lineage",
+    "Applicable frozen Q4/AB rules and preparation inputs",
+    "Remaining 455 candidate annotation rows",
+    "Decision on 27 representation-blocked chunks; no contract change authorized"
+  ],
+  "unchanged_stage_status": "S5/S6 not passed; not final delivery",
+  "no_download_retry": true,
+  "no_rule_or_candidate_modification": true
+}

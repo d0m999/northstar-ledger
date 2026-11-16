@@ -1,0 +1,434 @@
+{
+  "created_utc": "2026-11-16T14:25:54.710849+00:00",
+  "purpose": "diagnostic_only_not_lineage_recovery_or_stage_approval",
+  "basis_sha256": "b31ec4991772b7f53ee766561e1ac1039055e219a482e0075536c059cb5b8820",
+  "counts": {
+    "boundary_whitespace_only": 2,
+    "adjacent_units_whitespace_normalized_match": 1,
+    "unresolved": 24,
+    "exact_whole_corpus": 5
+  },
+  "items": [
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c366",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "若以盤十二的女命而言，命宮在卯，火星獨踞。當命造行入癸亥限，先生（丁酉年生人）除了涉足風月場所之外，甚至還金屋藏嬌，棄家於不顧，導致命造最後因此而得了憂鬱症。（註十一）\n",
+      "classification": "boundary_whitespace_only",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c295",
+          "pages": [
+            302,
+            303
+          ],
+          "match": "boundary_whitespace_only",
+          "offset": 660
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c366",
+      "field_path": "ziwei.topics_mentioned.1",
+      "candidate_quote": "若以盤十二的女命而言，命宮在卯，火星獨踞。當命造行入癸亥限，先生（丁酉年生人）除了涉足風月場所之外，甚至還金屋藏嬌，棄家於不顧，導致命造最後因此而得了憂鬱症。（註十一）\n",
+      "classification": "boundary_whitespace_only",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c295",
+          "pages": [
+            302,
+            303
+          ],
+          "match": "boundary_whitespace_only",
+          "offset": 660
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c370",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "前已提及，廉貞坐命者，發表欲較強。若廉貞坐命吉旺者，說起話來，頭頭是道，反之則會強詞奪理。又，當廉貞化忌或會多煞星且又會吉少，甚至不會吉時，為人「好爭忿」。\n而田宅宮卻是在談到家人相處是否和諧時不可忽略的重點宮位，因廉貞的上述作用，故先賢認為廉貞坐入田宅宮者，在跟家人或鄰居相處時，就「易有口舌競爭」情事發生。\n古傳論命把田宅宮視為一個人的住家宅位，並認為可由田宅宮來推論其住家環境。廉貞主「品秩」，當廉貞坐入田宅宮時，若廉貞化忌或會煞多且又會吉少，甚至不會吉時，代表住家環境較為雜亂，此即先賢上述說法的來由。\n斗數命理在論及住家及其環境時，應依實際的住家方位來論吉凶，即必須根據房子的方位對應到命造者命盤的宮位（此宮位即為房子在命造者命盤的太歲宮位），才能作出正確的推斷。只有在不知道住家的實際方位時，退而求其次，才以先後天的田宅宮作推論。\n住家方位以不見忌煞為宜，凡是建築物方位坐入的宮位，不論星曜為何，若是忌煞交冲，皆以不利論，且住家方位若是三方四正會太多煞星，往往代表住家環境較雜亂，廉貞亦不例外。惟據論命經驗顯示，若建築物方位坐入的宮位有廉貞坐守，有時附近會有廟宇，提供讀者參考。",
+      "classification": "adjacent_units_whitespace_normalized_match",
+      "matches": [],
+      "adjacent_unit_diagnostic": {
+        "source_ids": [
+          "ziyun_fuxing_v2_c300",
+          "ziyun_fuxing_v2_c301",
+          "ziyun_fuxing_v2_c302"
+        ],
+        "ratio": 1.0,
+        "differences": []
+      }
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c407",
+      "field_path": "ziwei.topics_mentioned.1",
+      "candidate_quote": "又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c407",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c407",
+      "field_path": "ziwei.analysis_methods.1",
+      "candidate_quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c407",
+      "field_path": "ziwei.comparison_methods.0",
+      "candidate_quote": "例如盤二十一所示，命宮廉貞在申，身宮七殺在午，若為甲年生人，廉貞化祿，此時論及命身宮的互動，廉貞七殺為火金相制，利於本命，故此命格者為「積富之人」。但若身宮不在午宮而在其他宮位，則不能適用此格局。又，若身宮不在午宮，但因午宮正好是夫妻宮\n\n，在論及命宮與夫妻宮的互動時，甲年生人因廉貞化祿故，亦利於夫妻。反之，若為丙年人，廉貞化忌，廉貞七殺形成火來剋金，此時就不利於夫妻。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c410",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "本賦文大意是說，廉貞坐守宮位若會四煞，就易因行事不當而受刑罰，嚴重時，甚至被處死。四煞在此指羊陀火鈴，但因羊陀及火鈴均為成對星曜，雖然成對星曜以成對來會作用最強，但本賦文只要羊陀及火鈴至少各會其一就成立，會得越多就越凶。\n惟須注意的是，廉貞逢四煞，也有可能是自身健康問題，但卻不能說一定會「早年即横夭」。這當中又以廉貪在巳、廉殺在丑、廉破在酉最凶，因均為陷地。\n（註十一）\n雖然先賢認為廉貞五行屬火，子宮五行屬水（故謂之水地或泉鄉），當廉貞會四煞，而有「尤以子宮水地，廉貞之火入於泉鄉最凶」的說法。但根據盤二十二及盤二十三的相關解說顯示，縱然是廉相在子見四煞，仍須視實際星曜組合的會吉會煞多寡（特別是會有化祿或化忌）而論，不可遽而推斷。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c418",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c418",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "例如盤二十四所示，廉貪在巳坐命，癸年生人，貪狼化忌，羊陀自丑亥二宮來沖。若為癸卯年生人，且是辰時生人，火鈴分坐丑寅二宮。廉貪在巳為弱陷，貪狼化忌並羊陀火星來冲，非常凶。\n觀諸行限，男命逆行。自少到老，限運一強一弱，但因本命凶弱，除非命宮會多吉星，否則縱使遇到好的運程，也不易好起來，但若遇到不好的運程，就可能會如註解所說的因廉貞在「陷地禍不堪言」，恐也會因個性的關係及行限的化忌，造成是非極多，若無法自我節制，就可能會有「多犯法而遭刑戮」的情事發生。\n惟須注意的是，命宮忌煞交冲，雖不一定會「早年即横夭」，但也可能會有較嚴重的健\n\n康問題或先天性殘疾，或因受傷導致身體受到較嚴重的傷害。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c420",
+      "field_path": "ziwei.knowledge_domains.0",
+      "candidate_quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c420",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c420",
+      "field_path": "ziwei.analysis_methods.1",
+      "candidate_quote": "同樣是廉貪在巳坐命，戊年生人（盤二十五），貪狼化祿並祿存同坐命宮，巳宮的廉貪本為陷宮，得此雙祿吉化後，由弱轉強，此時羊陀夾對巳宮有護衛作用，以吉論。若為戊午年生人，且是卯時生人，火鈴分坐辰午二宮夾輔巳宮，巳宮「火（鈴）貪」成格，此時的「廉貞、四煞」反以吉論，甚佳。惟須注意的是，若行限造成貪狼化忌或廉貞化忌，此時不但不是「火（鈴）貪」格，火鈴夾反變成煞害作用，造成廉貞「邪火」過盛，會將貪狼木燒焦，巳宮也成為火鈴夾忌、羊陀夾忌，甚凶。此時命造不做不錯，越做越錯，健康可能也會有問題。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c472",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c472",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "廉破在卯坐命，庚年生人，祿存在申宮（盤四十）。廉破在卯為平宮，有羊陀分自酉未二宮來沖。雖然壬午、癸未、甲申三個大限，行限造成命宮連忌，但也同時造成命宮連祿，故此三大限吉凶參半。但因自少到老的行限不構成命宮的連忌，只要命宮不會沖火鈴或行限不構成凶格，應無大礙。如同廉破在酉坐命庚年生人一般，卻不能說只因庚生人「擎羊在酉來沖破，主大凶，横死」。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c473",
+      "field_path": "ziwei.stars_mentioned.1",
+      "candidate_quote": "廉破在酉為弱陷",
+      "classification": "exact_whole_corpus",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c352",
+          "pages": [
+            356,
+            357
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 373
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c364",
+          "pages": [
+            369,
+            370
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 351
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c365",
+          "pages": [
+            370,
+            371
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 203
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c368",
+          "pages": [
+            374
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c369",
+          "pages": [
+            374,
+            375
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c473",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "綜合上述廉貞在酉坐命者的討論，可以得知，戊年生人可說是富貴命格，但因廉破在酉為弱陷，故屬辛苦有成。辛年生人，命格雖不若戊年生人佳美，但因行限有利，若再多會吉星，亦有富貴可言。庚年生人，先天命格雖不佳，只要能平安度過丙戌限，後續行限利於命宮與事業宮，若再會多吉星，應是辛苦而能有成。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c473",
+      "field_path": "ziwei.relations.2",
+      "candidate_quote": "廉破在酉為弱陷",
+      "classification": "exact_whole_corpus",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c352",
+          "pages": [
+            356,
+            357
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 373
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c364",
+          "pages": [
+            369,
+            370
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 351
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c365",
+          "pages": [
+            370,
+            371
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 203
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c368",
+          "pages": [
+            374
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c369",
+          "pages": [
+            374,
+            375
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c473",
+      "field_path": "ziwei.relations.3",
+      "candidate_quote": "廉破在酉為弱陷",
+      "classification": "exact_whole_corpus",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c352",
+          "pages": [
+            356,
+            357
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 373
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c364",
+          "pages": [
+            369,
+            370
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 351
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c365",
+          "pages": [
+            370,
+            371
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 203
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c368",
+          "pages": [
+            374
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        },
+        {
+          "source_id": "ziyun_fuxing_v2_c369",
+          "pages": [
+            374,
+            375
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 255
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c476",
+      "field_path": "ziwei.knowledge_domains.0",
+      "candidate_quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c476",
+      "field_path": "ziwei.knowledge_domains.1",
+      "candidate_quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c476",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c476",
+      "field_path": "ziwei.analysis_methods.1",
+      "candidate_quote": "例如盤四十一所示，男命甲年生人，祿存在寅宮，因陽男順行，則將軍在午宮，此時僅廉相在午與將軍同宮，始能構成本賦文的基本要件。廉相在午，甲年生人，廉貞化祿並祿存自財帛宮旺宮來合，同時命宮也因破軍化權及武曲化科成「三奇嘉會」，甚吉。因命宮吉旺，此時同宮的將軍對命造為人「威猛正直」的一面有增強作用。惟廉相在午坐命者，因廉貞化祿暨祿存的吉化，造成命造為人雖威猛正直，但行事卻是既有原則且又有彈性，不會剛愎自用。\n",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c481",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "例如盤四十三的命造，紫府在寅坐命，丙年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，也使命宮成忌煞交沖，午宮又為命宮合方宮位，此人一輩子是非或糾紛較多。\n若是丙戌年生人，白虎在午宮，因午宮忌煞交冲，白虎不但會加重此一宮位的凶象，且使得是非或糾紛更嚴重。男命順行，走到壬辰限，武曲化忌引動「刑囚夾印」凶格，白虎的是非作用於焉發作。此時只要逢壬干（武曲化忌）、丙干（廉貞化忌）的流年，或流羊進入午宮，或流年羊陀來夾午宮，皆可能會引爆前述午宮的凶象。若廉貞宮位再會沖火鈴，則上述凶象就可能不僅是是非或糾紛，有可能會嚴重到因糾紛與人打官司，甚至不排除因發生犯法情\n\n事而官司纏身。\n從盤四十三的討論得知，當廉貞宮位忌煞交沖，且又有白虎同宮，只要大限來引動廉貞宮位的凶象，再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或糾紛情事發生，並不限於大限要走入廉貞宮位或是其三方宮位，才會有問題。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c481",
+      "field_path": "ziwei.topics_mentioned.1",
+      "candidate_quote": "例如盤四十三的命造，紫府在寅坐命，丙年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，也使命宮成忌煞交沖，午宮又為命宮合方宮位，此人一輩子是非或糾紛較多。\n若是丙戌年生人，白虎在午宮，因午宮忌煞交冲，白虎不但會加重此一宮位的凶象，且使得是非或糾紛更嚴重。男命順行，走到壬辰限，武曲化忌引動「刑囚夾印」凶格，白虎的是非作用於焉發作。此時只要逢壬干（武曲化忌）、丙干（廉貞化忌）的流年，或流羊進入午宮，或流年羊陀來夾午宮，皆可能會引爆前述午宮的凶象。若廉貞宮位再會沖火鈴，則上述凶象就可能不僅是是非或糾紛，有可能會嚴重到因糾紛與人打官司，甚至不排除因發生犯法情\n\n事而官司纏身。\n從盤四十三的討論得知，當廉貞宮位忌煞交沖，且又有白虎同宮，只要大限來引動廉貞宮位的凶象，再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或糾紛情事發生，並不限於大限要走入廉貞宮位或是其三方宮位，才會有問題。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c481",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "例如盤四十三的命造，紫府在寅坐命，丙年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，也使命宮成忌煞交沖，午宮又為命宮合方宮位，此人一輩子是非或糾紛較多。\n若是丙戌年生人，白虎在午宮，因午宮忌煞交冲，白虎不但會加重此一宮位的凶象，且使得是非或糾紛更嚴重。男命順行，走到壬辰限，武曲化忌引動「刑囚夾印」凶格，白虎的是非作用於焉發作。此時只要逢壬干（武曲化忌）、丙干（廉貞化忌）的流年，或流羊進入午宮，或流年羊陀來夾午宮，皆可能會引爆前述午宮的凶象。若廉貞宮位再會沖火鈴，則上述凶象就可能不僅是是非或糾紛，有可能會嚴重到因糾紛與人打官司，甚至不排除因發生犯法情\n\n事而官司纏身。\n從盤四十三的討論得知，當廉貞宮位忌煞交沖，且又有白虎同宮，只要大限來引動廉貞宮位的凶象，再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或糾紛情事發生，並不限於大限要走入廉貞宮位或是其三方宮位，才會有問題。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c481",
+      "field_path": "ziwei.analysis_methods.1",
+      "candidate_quote": "例如盤四十三的命造，紫府在寅坐命，丙年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，也使命宮成忌煞交沖，午宮又為命宮合方宮位，此人一輩子是非或糾紛較多。\n若是丙戌年生人，白虎在午宮，因午宮忌煞交冲，白虎不但會加重此一宮位的凶象，且使得是非或糾紛更嚴重。男命順行，走到壬辰限，武曲化忌引動「刑囚夾印」凶格，白虎的是非作用於焉發作。此時只要逢壬干（武曲化忌）、丙干（廉貞化忌）的流年，或流羊進入午宮，或流年羊陀來夾午宮，皆可能會引爆前述午宮的凶象。若廉貞宮位再會沖火鈴，則上述凶象就可能不僅是是非或糾紛，有可能會嚴重到因糾紛與人打官司，甚至不排除因發生犯法情\n\n事而官司纏身。\n從盤四十三的討論得知，當廉貞宮位忌煞交沖，且又有白虎同宮，只要大限來引動廉貞宮位的凶象，再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或糾紛情事發生，並不限於大限要走入廉貞宮位或是其三方宮位，才會有問題。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c482",
+      "field_path": "ziwei.palaces_mentioned.1",
+      "candidate_quote": "事業午宮成「刑囚夾印」",
+      "classification": "exact_whole_corpus",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c377",
+          "pages": [
+            382,
+            383
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 537
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c482",
+      "field_path": "ziwei.patterns_mentioned.0",
+      "candidate_quote": "廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格",
+      "classification": "exact_whole_corpus",
+      "matches": [
+        {
+          "source_id": "ziyun_fuxing_v2_c377",
+          "pages": [
+            382,
+            383
+          ],
+          "match": "exact_whole_corpus",
+          "offset": 529
+        }
+      ]
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c482",
+      "field_path": "ziwei.topics_mentioned.0",
+      "candidate_quote": "紫府在寅坐命，丙戌年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，加上白虎加重此一宮位的凶象，會使得是非或糾紛更嚴重。再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或纠紛情事發生。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c482",
+      "field_path": "ziwei.analysis_methods.0",
+      "candidate_quote": "紫府在寅坐命，丙戌年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，加上白虎加重此一宮位的凶象，會使得是非或糾紛更嚴重。再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或纠紛情事發生。",
+      "classification": "unresolved",
+      "matches": []
+    },
+    {
+      "candidate_id": "dots_all_20261013_ziwei_073_c482",
+      "field_path": "ziwei.analysis_methods.1",
+      "candidate_quote": "紫府在寅坐命，丙戌年生人，廉貞化忌與擎羊使事業午宮成「刑囚夾印」凶格，加上白虎加重此一宮位的凶象，會使得是非或糾紛更嚴重。再逢不好的流年，就會引爆廉貞宮位的凶象，該流年就可能會有是非或纠紛情事發生。",
+      "classification": "unresolved",
+      "matches": []
+    }
+  ],
+  "limitations": [
+    "No candidate, source or frozen rule modified.",
+    "Whitespace matching is a diagnostic, not authorization to normalize evidence or approve S4/S5/S6.",
+    "No original cleaning lineage recovered.",
+    "27 representation-blocked chunks remain blocked."
+  ],
+  "unique_quotes": 16,
+  "methods": [
+    "Search exact quoted evidence over every five-field source body.",
+    "If no exact match, compare boundary whitespace removal and all-whitespace removal inside each source body.",
+    "For remaining spans only, search concatenations of three successive source bodies under whitespace removal. Retain only complete normalized matches.",
+    "No fuzzy matches are accepted or retained."
+  ]
+}
