@@ -1,0 +1,3576 @@
+{
+  "formal05_written": false,
+  "old05_read": false,
+  "quality_reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c055",
+      "candidate_sha256": "65d2c1b10dd892930bc96ee4f080afe466bf1a53245a6dafa2bc7f2ea53c7969",
+      "retrieval_status": "eligible",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "eligible",
+          "reason": null,
+          "usable_spans": []
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 135,
+              "end": 137,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 2,
+              "quote": "武破"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 58,
+              "end": 60,
+              "quote": "陀羅"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 68,
+              "end": 70,
+              "quote": "貪狼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 180,
+              "end": 182,
+              "quote": "文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 316,
+              "end": 318,
+              "quote": "紫微"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 319,
+              "end": 321,
+              "quote": "七殺"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.7",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 507,
+              "end": 509,
+              "quote": "左輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.8",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 509,
+              "end": 511,
+              "quote": "右弼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 18,
+              "end": 20,
+              "quote": "命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 502,
+              "end": 504,
+              "quote": "身宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 25,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 25,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 87,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用，並因昌曲魁鉞的聰明才智作用，故此人可說是文武兼備。但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 87,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用，並因昌曲魁鉞的聰明才智作用，故此人可說是文武兼備。但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 25,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 87,
+              "quote": "但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 191,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用，並因昌曲魁鉞的聰明才智作用，故此人可說是文武兼備。但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。由於星曜坐入陷宮時，對吉星的吉化作用的感應力較差，對忌星或煞星的煞害作用的抵抗力亦較差，因此前述武曲在陷宮坐會昌曲的不利作用，就會被凸顯出來。\n不僅如此，命宮三合有「昌貪」（貪狼化忌加會文昌謂之）從卯宮來會，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 164,
+              "end": 190,
+              "quote": "命宮三合有「昌貪」（貪狼化忌加會文昌謂之）從卯宮來會"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 313,
+              "end": 346,
+              "quote": "命宮有紫微及七殺分別從三合來會照，使得命宮亦有「紫殺帶威權」的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 25,
+              "quote": "武破在亥得化祿及昌曲魁鉞的吉化後，對命宮有增旺作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 87,
+              "quote": "但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 87,
+              "quote": "但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 87,
+              "quote": "但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c55_chart17",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 87,
+              "quote": "但因命宮不但有陀羅同踞，且三合也有貪狼化忌來沖，造成命宮為忌煞交沖宮位。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 451,
+              "end": 472,
+              "quote": "故一輩子起伏大，限運好時則發，不好時則敗。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 451,
+              "end": 472,
+              "quote": "故一輩子起伏大，限運好時則發，不好時則敗。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c55_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 498,
+              "end": 576,
+              "quote": "若命宮或身宮能得會左輔右弼，因左輔右弼有穩定、持續的作用，對命造的想法及行事有增穩的作用，故就不一定會如上述一樣，此時須以實際的星曜組合及行限變化來推論。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "左辅右弼命或身是备择会合条件，不标两个宫实际同时入宫。",
+        "化禄未说明化曜星；只泛化禄null star，不能因武破两星同现任选其一。",
+        "普通复核V1全部项已处理；明确当限干只给来源所支持者，太阳忌/廉贞禄不机械套当前限干。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c056",
+      "candidate_sha256": "4d6a7de7199bf16a8aacdc3273fa89ad05a4ddfdea647e91af3f006929dc8eaa",
+      "retrieval_status": "limited",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "末尾丙生辰命引用断裂，保留前部完整理论及各年例，不补结论。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 443,
+              "quote": "《全集，註解骨髓賦》云：「武曲廟旺，威名赫奕。」《全集》對此有註解如下：「如辰戌二宫安命值之，上格；丑未安命，次之。宜見權祿、左右、昌曲諸言，依此斷」，先賢則有「武曲廟烜，威名赫奕」的類似說法，並對之有如下的描述：「此類格局，以西北方生人，年支辰戌丑未者為上格，廟恒指四墓庫及子午宮言，東南生人，富而不貴，更無威名矣，但女命總是美中不足。」武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合，故本賦文係指命宮主要星曜為武貪組合者。\n基本上，武曲在旺宮坐命，只要再會多吉星，就能充分發揮「將星」的作用。有關《全集，註解骨髓賦》及先賢的註解部份，請參閱前面的相關解說，就不再說明。\n除前述的註解外，先賢對此賦文有更進一步的說明，即「丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格。未宮以庚生人坐貴向貴，武曲化權為最吉。辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉；甲生人科祿加會，可富。戌宮，甲生人雙祿於財官二地來朝，富貴。"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 13,
+              "end": 15,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 192,
+              "end": 194,
+              "quote": "貪狼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 350,
+              "end": 352,
+              "quote": "陀羅"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 227,
+              "quote": "命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c56_chouwei",
+            "kind": "conditional",
+            "condition": "在丑未二宮則有貪狼同宮",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 170,
+              "end": 196,
+              "quote": "武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c56_chenxu",
+            "kind": "conditional",
+            "condition": "在辰戌二宮雖為獨坐",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 170,
+              "end": 218,
+              "quote": "武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c56_general",
+            "kind": "conditional",
+            "condition": "武曲在旺宮坐命，只要再會多吉星",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 243,
+              "end": 273,
+              "quote": "武曲在旺宮坐命，只要再會多吉星，就能充分發揮「將星」的作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.star",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.star",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c56_geng_wei",
+            "kind": "conditional",
+            "condition": "未宮以庚生人坐貴向貴",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 364,
+              "end": 382,
+              "quote": "未宮以庚生人坐貴向貴，武曲化權為最吉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c56_gui_chen",
+            "kind": "conditional",
+            "condition": "辰宫以癸生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 383,
+              "end": 412,
+              "quote": "辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 83,
+              "end": 85,
+              "quote": "廟烜"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 409,
+              "quote": "事業逢紫府"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 58,
+              "end": 70,
+              "quote": "宜見權祿、左右、昌曲諸言"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c56_jia_chou",
+            "kind": "conditional",
+            "condition": "丑宮以甲年生人",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 440,
+              "end": 442,
+              "quote": "富貴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 440,
+              "end": 442,
+              "quote": "富貴"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c56_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 337,
+              "end": 363,
+              "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c56_jia_chen",
+            "kind": "conditional",
+            "condition": "甲生人科祿加會，可富",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 383,
+              "end": 423,
+              "quote": "辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉；甲生人科祿加會，可富"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4.star",
+          "scope": {
+            "scope_id": "c56_jia_chen",
+            "kind": "conditional",
+            "condition": "甲生人科祿加會，可富",
+            "attribution": "先贤引文"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c56_jia_chen",
+            "kind": "conditional",
+            "condition": "甲生人科祿加會，可富",
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 383,
+              "end": 423,
+              "quote": "辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉；甲生人科祿加會，可富"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5.star",
+          "scope": {
+            "scope_id": "c56_jia_chen",
+            "kind": "conditional",
+            "condition": "甲生人科祿加會，可富",
+            "attribution": "先贤引文"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "地区/女命价值判断是古引文来源口径，不视为普遍事实。",
+        "其他引文“权禄/科禄/双禄”均有对象不明或集合，不擅指定星曜；数量与原称谓保留原文。",
+        "普通复核V1全部项已处理；明确当限干只给来源所支持者，太阳忌/廉贞禄不机械套当前限干。"
+      ],
+      "blocking_issues": [
+        "丑未/辰戌为成组位置，不映射单实际宫位。",
+        "魁鉞夾命明确但冻结对星仅canonical天魁天钺未列魁鉞显式简称alias；保来源术语及辰癸完整条件，待规范映射决策，不推具体左右位。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c057",
+      "candidate_sha256": "6c1ade3e5a3cd615510b7ec1c2122d1d3fdb0839c7b5e13118b581c972196940",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "开头承接古引文且对象不明，仅完整甲年丑命论述可用。",
+          "usable_spans": [
+            {
+              "start": 86,
+              "end": 362,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。武曲為財星，得廉貞化祿吉化後，更能彰顯出武曲的財利作用，而化科除代表名聲外，因其聰明才智及條理清晰的作用，亦有助於求財。再者，武曲為將星，得破軍化權來吉化，會強化將星的權柄與信心（或意志堅強）作用。不僅如此，甲干的天魁在丑天鉞在未，造成命宮為「坐貴向貴」宮位，除表示有外來的貴助外，對武曲也有增貴作用。由於聪命宮強旺，此時陀羅被制煞為用，因陀羅在被制煞時有增強「權威」作用，就更能凸顯出武曲將星的權柄作用。故武貪在丑坐命，甲年生人，可說是個「名利雙收」的富貴命格。\n"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c57_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c57_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 362,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。武曲為財星，得廉貞化祿吉化後，更能彰顯出武曲的財利作用，而化科除代表名聲外，因其聰明才智及條理清晰的作用，亦有助於求財。再者，武曲為將星，得破軍化權來吉化，會強化將星的權柄與信心（或意志堅強）作用。不僅如此，甲干的天魁在丑天鉞在未，造成命宮為「坐貴向貴」宮位，除表示有外來的貴助外，對武曲也有增貴作用。由於聪命宮強旺，此時陀羅被制煞為用，因陀羅在被制煞時有增強「權威」作用，就更能凸顯出武曲將星的權柄作用。故武貪在丑坐命，甲年生人，可說是個「名利雙收」的富貴命格。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 98,
+              "end": 100,
+              "quote": "廉貞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 103,
+              "end": 105,
+              "quote": "破軍"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 236,
+              "end": 238,
+              "quote": "天魁"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 240,
+              "end": 242,
+              "quote": "天鉞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 290,
+              "end": 292,
+              "quote": "陀羅"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            },
+            {
+              "start": 129,
+              "end": 156,
+              "quote": "武曲為財星，得廉貞化祿吉化後，更能彰顯出武曲的財利作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            },
+            {
+              "start": 192,
+              "end": 227,
+              "quote": "武曲為將星，得破軍化權來吉化，會強化將星的權柄與信心（或意志堅強）作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 233,
+              "end": 258,
+              "quote": "甲干的天魁在丑天鉞在未，造成命宮為「坐貴向貴」宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 233,
+              "end": 258,
+              "quote": "甲干的天魁在丑天鉞在未，造成命宮為「坐貴向貴」宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 129,
+              "quote": "武貪在丑坐命，甲年生人，廉貞化祿、破軍化權及武曲化科，造成命宮「三奇嘉會」（盤十八）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 349,
+              "end": 360,
+              "quote": "「名利雙收」的富貴命格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c57_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c57_jia_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命，甲年生人",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 349,
+              "end": 360,
+              "quote": "「名利雙收」的富貴命格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "聪命宮原异字不改；陀罗被制作用未据此独立推具体坐宫。",
+        "普通复核V1全部项已处理；明确当限干只给来源所支持者，太阳忌/廉贞禄不机械套当前限干。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c058",
+      "candidate_sha256": "c23b4a5469fb77e76634a76a3091d4b30acace046134c2c6bbd5a442a1501d32",
+      "retrieval_status": "limited",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "己巳句被混排盘打断，图说武食疑名不补；只用前部完整行限及庚午完整段。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 150,
+              "quote": "觀諸行限，男命順行。自丁丑限到丁卯限，連著三個大限，不是太陰化祿，就是天同化祿，和寅宮的祿存吉輔命宮，甚佳。至於丙寅限，因為先天命宮已得雙祿吉輔而成為非常吉旺宮位，此時大限命宮的「羊陀夾忌」僅主勞碌。戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            },
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 28,
+              "end": 30,
+              "quote": "太陰"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 35,
+              "end": 37,
+              "quote": "天同"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 44,
+              "end": 46,
+              "quote": "祿存"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 104,
+              "end": 106,
+              "quote": "貪狼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 126,
+              "end": 128,
+              "quote": "天機"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 422,
+              "end": 424,
+              "quote": "太陽"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 475,
+              "end": 479,
+              "quote": "武曲化權"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 50,
+              "quote": "命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "c58_bingyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 54,
+              "end": 100,
+              "quote": "至於丙寅限，因為先天命宮已得雙祿吉輔而成為非常吉旺宮位，此時大限命宮的「羊陀夾忌」僅主勞碌。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c58_bingyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 54,
+              "end": 100,
+              "quote": "至於丙寅限，因為先天命宮已得雙祿吉輔而成為非常吉旺宮位，此時大限命宮的「羊陀夾忌」僅主勞碌。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c58_gengwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 404,
+              "end": 525,
+              "quote": "庚午限，天同化忌不但沖大限本宮，且和太陽化忌夾制先天命宮，固然不佳，但因大限本宮也有太陽化祿及祿存來吉化，且先天命宮原本就相當吉旺，再得大限的武曲化權後，就更為強旺，故此大限只要能謹慎行事，上述化忌的凶象，只代表此大限的極端辛勞，應無大礙。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c58_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 150,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位，此時天機化忌在大限命宮，亦僅主辛勞，此大限仍以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.3",
+          "scope": {
+            "scope_id": "c58_aggregate_three",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 10,
+              "end": 25,
+              "quote": "自丁丑限到丁卯限，連著三個大限"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.4",
+          "scope": {
+            "scope_id": "c58_natal_life",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 458,
+              "end": 469,
+              "quote": "先天命宮原本就相當吉旺"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 82,
+              "end": 99,
+              "quote": "此時大限命宮的「羊陀夾忌」僅主勞碌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c58_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 123,
+              "quote": "戊辰限，貪狼化祿造成先天命宮為「雙祿交馳」宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "丁丑至丁卯跨度原样，不能依历法纠成其他限。",
+        "未利用己巳跨图上下半句或图说武食恢复入命。",
+        "按专项补原文aggregate时间/匿名四化提及；保持具体载体与备择归属hold，不将三限分配脑补。",
+        "普通复核V1全部项已处理；明确当限干只给来源所支持者，太阳忌/廉贞禄不机械套当前限干。"
+      ],
+      "blocking_issues": [
+        {
+          "evidence": {
+            "start": 10,
+            "end": 54,
+            "quote": "自丁丑限到丁卯限，連著三個大限，不是太陰化祿，就是天同化祿，和寅宮的祿存吉輔命宮，甚佳。"
+          },
+          "issue": "三限太阴或天同化禄轮替对象未逐限对应，不能无证分配各限或并发列两星；有明确名称的后续周期正常表达。",
+          "status": "typed_alternative_hold"
+        }
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c059",
+      "candidate_sha256": "c306df2f0860df92ec190964143d0f67a9181a1f762b7bb655b389c393ae27f6",
+      "retrieval_status": "eligible",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "eligible",
+          "reason": null,
+          "usable_spans": []
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 355,
+              "end": 357,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 327,
+              "end": 329,
+              "quote": "貪狼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 143,
+              "end": 145,
+              "quote": "太陽"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 146,
+              "end": 148,
+              "quote": "太陰"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 313,
+              "end": 315,
+              "quote": "天同"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 379,
+              "end": 381,
+              "quote": "廉貞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 154,
+              "quote": "武貪在丑坐命，必有太陽和太陰旺宮來夾輔。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 154,
+              "quote": "武貪在丑坐命，必有太陽和太陰旺宮來夾輔。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 154,
+              "quote": "武貪在丑坐命，必有太陽和太陰旺宮來夾輔。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 154,
+              "quote": "武貪在丑坐命，必有太陽和太陰旺宮來夾輔。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 23,
+              "end": 25,
+              "quote": "命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 33,
+              "end": 36,
+              "quote": "父母宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 37,
+              "end": 40,
+              "quote": "兄弟宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.3",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 304,
+              "end": 307,
+              "quote": "田宅宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c59_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 323,
+              "end": 343,
+              "quote": "戊辰限，貪狼化祿自丑宮來吉化大限田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c59_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 323,
+              "end": 343,
+              "quote": "戊辰限，貪狼化祿自丑宮來吉化大限田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.6",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c59_wuchen",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 323,
+              "end": 343,
+              "quote": "戊辰限，貪狼化祿自丑宮來吉化大限田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 218,
+              "end": 248,
+              "quote": "武貪在丑亦有「日月照壁」有利家產累積或購置不動產的吉化作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 7,
+              "end": 16,
+              "quote": "「紫府夾命為貴格」"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c59_chou",
+            "kind": "conditional",
+            "condition": "武貪在丑坐命",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 134,
+              "end": 154,
+              "quote": "武貪在丑坐命，必有太陽和太陰旺宮來夾輔。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c59_jisi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 343,
+              "end": 390,
+              "quote": "己巳限，大限田宅申宮得到武曲化祿（未宮為空宮，以對宮武曲作用照入為用）與廉貞化祿來吉輔，亦吉。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 230,
+              "end": 242,
+              "quote": "有利家產累積或購置不動產"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 230,
+              "end": 242,
+              "quote": "有利家產累積或購置不動產"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "c59_aggregate_three",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 286,
+              "end": 301,
+              "quote": "自丁丑限至丁卯限，連著三個大限"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.3",
+          "scope": {
+            "scope_id": "c59_natal_property",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 302,
+              "end": 322,
+              "quote": "先天田宅宮得太陰化祿或天同化祿輪著來吉化"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 154,
+              "end": 168,
+              "quote": "由於武貪為雙星「殺破狼」組合"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 247,
+              "quote": "日月旺宮夾輔作用，使得武貪在丑亦有「日月照壁」有利家產累積或購置不動產的吉化作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c59_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 22,
+              "quote": "在紫微星中談到「紫府夾命為貴格」部份時曾說過"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "武曲作用从对宫借入，palace未填未/申作为化曜承载；仅作用关系目标田宅申。",
+        "按专项补原文aggregate时间/匿名四化提及；保持具体载体与备择归属hold，不将三限分配脑补。",
+        "普通复核V1全部项已处理；明确当限干只给来源所支持者，太阳忌/廉贞禄不机械套当前限干。"
+      ],
+      "blocking_issues": [
+        {
+          "evidence": {
+            "start": 286,
+            "end": 323,
+            "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+          },
+          "issue": "太阴或天同轮替未给各限明确对象，不能并发当一限或擅分配；独立戊辰/己巳已表达。",
+          "status": "typed_alternative_hold"
+        }
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

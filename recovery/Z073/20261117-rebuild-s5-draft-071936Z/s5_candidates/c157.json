@@ -1,0 +1,1253 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c157",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    204,
+    205
+  ],
+  "chunk_text": "以下僅針對先賢對同陰在午坐命，不同年份生人的描述部份，做一解說。\n同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合。同陰得祿權吉化，由弱轉強，此時擎羊被制煞為用，反主開創。又，事業宮的機梁得祿權吉化後，更凸顯出「機梁善談兵」利於行事的作用。對一個鬥志及企圖心均強，衝勁十足，行事有勇有謀，且又果決能斷的人，當然利於從事對外開疆闢土的工作，此時若再會多吉星，就能充分發揮格局的正面作用，成果以吉論。\n觀諸行限，男命順行。甲午限，大限命宮自坐先天祿權。乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙。丙申限及丁酉\n\n祿存天府癸巳兄弟擎羊太天陰同祿甲午命宮4-13食武狼曲乙未父母14-23巨太門陽丙申福德24-33陀羅壬辰 夫妻男命丙年天鉞天相丁酉田宅34-43破廉軍貞忌辛卯 子女月日金時\n\n局天天梁機權戊戌事業44-53庚寅財帛辛丑疾厄74-83庚子遷移64-73天七紫魁殺微己亥僕役54-63盤十五同陰在午，丙年生人，天同化祿與擎羊同宫，天機化權自事業宮來合，此時擎羊被制煞為用，反主開創。自己未到己亥限，先天命宫若不是化祿就是有雙祿吉輔，引動先天命宮的吉象，造成本命連珠，甚吉。惟因行限間有化忌來沖，故此命格者一輩子較勞祿。",
+  "chunk_index": 157,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "丙年同阴午命天同禄与擎羊同宫，事业天机权会合，作者以禄权制煞论开创。甲午、乙未行限分别保留；乙未机禄阴忌及先天廉忌冲限虽劳碌健康风险，须不成凶格且后限吉。图说连珠与逐限化禄备择不补分配，混排不复原。",
+  "summary_en": "For Bing births with Tian Tong and Tai Yin in Wu Life, Tian Tong Hua Lu shares the palace with Qing Yang and Tian Ji Hua Quan meets from Career, interpreted as support for initiative. Jia Wu and Yi Wei cycles are kept separate. In Yi Wei, Tian Ji Hua Lu, Tai Yin Hua Ji and natal Lian Zhen Hua Ji affecting cycle Life are qualified by the absence of an adverse configuration and the favorable following cycle. The caption’s continuous-Lu alternatives are not assigned to unspecified stars or periods, and the mixed chart is excluded.",
+  "keywords": [
+    "同阴午命",
+    "丙禄权",
+    "乙未限",
+    "廉贞忌冲",
+    "本命连珠"
+  ],
+  "keywords_en": [
+    "Tian Tong Tai Yin in Wu Life",
+    "Bing Lu Quan",
+    "Yi Wei cycle",
+    "Lian Zhen Hua Ji",
+    "natal Lian Zhu"
+  ],
+  "topic": "事业运势",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 66,
+          "end": 70,
+          "quote": "天同化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 262,
+          "end": 266,
+          "quote": "太陰化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 71,
+          "end": 75,
+          "quote": "擎羊同宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 80,
+          "quote": "天機化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 123,
+          "quote": "事業宮的機梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 288,
+          "end": 294,
+          "quote": "先天廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 8,
+          "end": 14,
+          "quote": "同陰在午坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 81,
+          "end": 84,
+          "quote": "事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 86,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 99,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合。同陰得祿權吉化，由弱轉強"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 99,
+          "quote": "同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合。同陰得祿權吉化，由弱轉強"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c157_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 129,
+          "quote": "事業宮的機梁得祿權吉化後"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c157_jiawu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 252,
+          "quote": "甲午限，大限命宮自坐先天祿權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c157_jiawu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 252,
+          "quote": "甲午限，大限命宮自坐先天祿權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.3",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "c157_yiwei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 253,
+          "end": 339,
+          "quote": "乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.4",
+      "scope": {
+        "scope_id": "c157_caption",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 538,
+          "end": 582,
+          "quote": "自己未到己亥限，先天命宫若不是化祿就是有雙祿吉輔，引動先天命宮的吉象，造成本命連珠，甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.5",
+      "scope": {
+        "scope_id": "c157_caption",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 538,
+          "end": 582,
+          "quote": "自己未到己亥限，先天命宫若不是化祿就是有雙祿吉輔，引動先天命宮的吉象，造成本命連珠，甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 135,
+          "end": 140,
+          "quote": "機梁善談兵"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 575,
+          "end": 579,
+          "quote": "本命連珠"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 538,
+          "end": 541,
+          "quote": "自己未"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 563,
+          "end": 572,
+          "quote": "引動先天命宮的吉象"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 563,
+          "end": 572,
+          "quote": "引動先天命宮的吉象"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 563,
+          "end": 572,
+          "quote": "引動先天命宮的吉象"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 94,
+          "quote": "同陰得祿權吉化"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 94,
+          "quote": "同陰得祿權吉化"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c157_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 563,
+          "end": 572,
+          "quote": "引動先天命宮的吉象"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "截断丙申/丁酉半句及混排不补；保首段/甲午乙未完整行限与清晰图说。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 340,
+        "quote": "以下僅針對先賢對同陰在午坐命，不同年份生人的描述部份，做一解說。\n同陰在午，丙年生人，擎羊入命（盤十五）。同陰在午為弱陷，丙年生人，天同化祿與擎羊同宮，天機化權自事業宮來合。同陰得祿權吉化，由弱轉強，此時擎羊被制煞為用，反主開創。又，事業宮的機梁得祿權吉化後，更凸顯出「機梁善談兵」利於行事的作用。對一個鬥志及企圖心均強，衝勁十足，行事有勇有謀，且又果決能斷的人，當然利於從事對外開疆闢土的工作，此時若再會多吉星，就能充分發揮格局的正面作用，成果以吉論。\n觀諸行限，男命順行。甲午限，大限命宮自坐先天祿權。乙未限，天機化祿，太陰化忌，造成先天命宮忌煞交沖暨忌祿沖，大限本宮亦有先天廉貞化忌來沖，因下一個大限吉，故先後天命宮的化忌，只要不構成凶格，僅主勞碌或健康上的問題，應無大礙。"
+      },
+      {
+        "start": 489,
+        "end": 606,
+        "quote": "盤十五同陰在午，丙年生人，天同化祿與擎羊同宫，天機化權自事業宮來合，此時擎羊被制煞為用，反主開創。自己未到己亥限，先天命宫若不是化祿就是有雙祿吉輔，引動先天命宮的吉象，造成本命連珠，甚吉。惟因行限間有化忌來沖，故此命格者一輩子較勞祿。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "member",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c157_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c157_yiwei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c157_yiwei",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "機梁善談兵",
+        "proposed_category": "source_combination",
+        "reason": "来源原称，不当三方四正或另格。",
+        "english_surface": "Ji Liang Shan Tan Bing",
+        "scope_id": "c157_author"
+      },
+      {
+        "surface": "本命連珠",
+        "proposed_category": "source_pattern",
+        "reason": "未注册且逐限禄对象OR不填齐。",
+        "english_surface": "natal Lian Zhu",
+        "scope_id": "c157_author"
+      },
+      {
+        "surface": "自己未",
+        "proposed_category": "ocr_uncertain",
+        "reason": "不把己未静默改乙未，原图说保疑。",
+        "english_surface": "Zi Ji Wei uncertain OCR",
+        "scope_id": "c157_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "c157_jiawu",
+        "subject": "甲午限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "c157_jiawu",
+        "subject": "先天禄权",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "c157_yiwei",
+        "subject": "乙未限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "c157_yiwei",
+        "subject": "先天命宫及廉贞化忌",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "c157_caption",
+        "subject": "原文自己未到己亥限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "c157_caption",
+        "subject": "先天命宫连珠",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "太阴",
+      "擎羊",
+      "天机",
+      "天梁",
+      "廉贞"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化禄",
+        "tiangan": "丙",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c157_natal"
+      },
+      {
+        "star": "天机",
+        "transformation": "化权",
+        "tiangan": "丙",
+        "palace": "官禄宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c157_natal"
+      },
+      {
+        "star": "天机",
+        "transformation": "化禄",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c157_yiwei"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化忌",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c157_yiwei"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c157_yiwei"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,960 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c155",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    202,
+    203
+  ],
+  "chunk_text": "格局與理論命盤\n先賢曰：「天同擎羊居午位，丙戊生人鎮禦邊疆。」先賢對之有註解如下：「福星居午，當有太陰同宫，本是陷地，主漂泊，故曰邊疆，而丙年生人化祿入命，事業機梁廟地化權再合，及戊年生人擎羊入命，有化權，且有雙祿前後來夾，擎羊反為我用，主武職榮顯，此格又名「馬頭帶劍」，若無吉多來狭，多不菩終。（允以丙午及戊午年生人最吉。）」而《全書，諸星在命身及十二宮吉凶要訣》亦有類似的說法，即天同「與擎羊居午守命，丙戊年生人鎮禦邊。（為馬頭帶劍格，多主富貴。）」在武曲星部份論及「武曲七殺會擎羊，因財持刀」時，曾提及擎羊是六煞星之一，在命理上有主「凶危」作用，加上五行屬金屬性為陽，故所呈現出的凶性不但剛強而且明顯，甚至被形容為具有刀劍般的殺傷力，故擎羊常被引喻為刀或劍，藉之來說明其凶性的強烈。\n任一星曜在和擎羊同踞而無其他吉化時，不但會受到擎羊的煞害作用，同時其賦性的負面作用也會被引發出來。但若擎羊坐守宮位受到吉化，擎羊的煞星作用被制煞為用，反會激發出此人強烈的鬥志，擎羊的作用以開創論，此即註解中所說的「擎羊反為我用」之意。此時若擎羊坐守宮位再坐會化權，復因化權的企圌心及權柄作用，會益增此人的鬥志及權威性，且主能力強。\n又，因十二地支中的「午」相應十二生肖中的「馬」（註十四），而擎羊常被喻為劍，故擎羊在午宮日「馬頭帶劍」。\n本賦文主要是說明，天同太陰在午宮坐命，丙年或戊年生人因擎羊坐入午宮，此時若再會多吉星，擎羊被制煞為用，若在古代，從軍則能威震邊疆、榮華顯貴，若在現代，則因鬥志強且企圖心亦強，利於從事對外開疆闢土的工作，並能有好成果。\n",
+  "chunk_index": 155,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者释马头带剑：午对应马、擎羊喻剑；天同太阴午命的丙或戊生人有羊入命且会多吉时，可制煞为用，增斗志与开拓能力。古注丙禄权、戊权双禄夹分支保留，化曜未明不补星。刀剑比喻与古代武职论不作现实暴力断语。",
+  "summary_en": "The source explains Ma Tou Dai Jian, Sword at the Horse’s Head: Wu corresponds to the horse and Qing Yang is likened to a sword. For Tian Tong and Tai Yin in Wu Life, Bing or Wu births with Qing Yang and many benefics may redirect malefic force into determination and outward expansion. The quoted Bing Lu/Quan and Wu Quan/double-Lu branches are retained without inventing unnamed transforming stars. Sword imagery and historical military interpretations are not predictions of real-world violence.",
+  "keywords": [
+    "马头带剑",
+    "天同太阴",
+    "午命",
+    "擎羊制煞",
+    "丙戊分支"
+  ],
+  "keywords_en": [
+    "Ma Tou Dai Jian",
+    "Tian Tong and Tai Yin",
+    "Wu Life",
+    "controlled Qing Yang",
+    "Bing and Wu branches"
+  ],
+  "topic": "事业运势",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 573,
+          "end": 582,
+          "quote": "天同太陰在午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 573,
+          "end": 582,
+          "quote": "天同太陰在午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 591,
+          "end": 597,
+          "quote": "擎羊坐入午宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 82,
+          "quote": "事業機梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 82,
+          "quote": "事業機梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 243,
+          "quote": "武曲七殺會擎羊"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 243,
+          "quote": "武曲七殺會擎羊"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 578,
+          "end": 582,
+          "quote": "午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 82,
+          "quote": "事業機梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c155_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 573,
+          "end": 582,
+          "quote": "天同太陰在午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c155_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 573,
+          "end": 582,
+          "quote": "天同太陰在午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c155_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 573,
+          "end": 582,
+          "quote": "天同太陰在午宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 88,
+          "quote": "丙年生人化祿入命，事業機梁廟地化權再合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 88,
+          "quote": "丙年生人化祿入命，事業機梁廟地化權再合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 88,
+          "quote": "丙年生人化祿入命，事業機梁廟地化權再合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c155_bing_quote",
+        "kind": "conditional",
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 88,
+          "quote": "丙年生人化祿入命，事業機梁廟地化權再合"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c155_wu_quote",
+        "kind": "conditional",
+        "condition": "戊年生人擎羊入命，有化權，且有雙祿前後來夾",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 111,
+          "quote": "戊年生人擎羊入命，有化權，且有雙祿前後來夾"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c155_wu_quote",
+        "kind": "conditional",
+        "condition": "戊年生人擎羊入命，有化權，且有雙祿前後來夾",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 111,
+          "quote": "戊年生人擎羊入命，有化權，且有雙祿前後來夾"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.star",
+      "scope": {
+        "scope_id": "c155_wu_quote",
+        "kind": "conditional",
+        "condition": "戊年生人擎羊入命，有化權，且有雙祿前後來夾",
+        "attribution": "先贤注解"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "c155_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 125,
+          "end": 135,
+          "quote": "此格又名「馬頭帶劍」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c155_quan_rule",
+        "kind": "conditional",
+        "condition": "此時若擎羊坐守宮位再坐會化權",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 462,
+          "end": 476,
+          "quote": "此時若擎羊坐守宮位再坐會化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.star",
+      "scope": {
+        "scope_id": "c155_quan_rule",
+        "kind": "conditional",
+        "condition": "此時若擎羊坐守宮位再坐會化權",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 103,
+          "end": 111,
+          "quote": "且有雙祿前後來夾"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 482,
+          "end": 485,
+          "quote": "企圌心"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 419,
+          "quote": "擎羊的煞星作用被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 419,
+          "quote": "擎羊的煞星作用被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 419,
+          "quote": "擎羊的煞星作用被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 471,
+          "end": 476,
+          "quote": "再坐會化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 471,
+          "end": 476,
+          "quote": "再坐會化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c155_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 419,
+          "quote": "擎羊的煞星作用被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "member",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c155_tongyin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c155_tongyin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c155_tongyin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c155_bing_quote",
+        "negated": false,
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c155_bing_quote",
+        "negated": false,
+        "condition": "丙年生人化祿入命，事業機梁廟地化權再合"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c155_wu_quote",
+        "negated": false,
+        "condition": "戊年生人擎羊入命，有化權，且有雙祿前後來夾"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "雙祿前後來夾",
+        "proposed_category": "source_configuration",
+        "reason": "双禄未指星与两侧宫名，不能造星实体夹辅。",
+        "english_surface": "double Lu flanking",
+        "scope_id": "c155_author"
+      },
+      {
+        "surface": "企圌心",
+        "proposed_category": "ocr_uncertain",
+        "reason": "保原疑字，不自动改正文。",
+        "english_surface": "Qi Tuan Xin uncertain OCR",
+        "scope_id": "c155_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "太阴",
+      "擎羊",
+      "天机",
+      "天梁",
+      "武曲",
+      "七杀"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": "丙",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c155_bing_quote"
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": "丙",
+        "palace": "官禄宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c155_bing_quote"
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": "戊",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c155_wu_quote"
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c155_quan_rule"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "马头带剑",
+        "formation_status": null,
+        "evidence": "此格又名「馬頭帶劍」"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

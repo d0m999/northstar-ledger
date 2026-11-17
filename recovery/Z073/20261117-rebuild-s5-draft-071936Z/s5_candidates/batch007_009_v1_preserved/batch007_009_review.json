@@ -1,0 +1,141 @@
+{
+  "task": "Z073 new 293-chunk run S5 pilot C007–C009",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "S4_report_sha256": "3492b0e5d8129d0ae7831cb3d7e977fcd7fac2a26095efa90ea7d84ba8cde458",
+  "old_05_read": false,
+  "old_candidates_read": false,
+  "formal_05_written": false,
+  "schema_modified": false,
+  "blocked_count": 0,
+  "candidate_count": 3,
+  "validator_passed_count": 3,
+  "validation_history": [
+    {
+      "attempt": 1,
+      "result": "all three passed"
+    },
+    {
+      "attempt": 2,
+      "change": "C008英文补充原文明示空劫/四煞和早/中年引文，不自动补语义字段",
+      "result": "all three passed"
+    }
+  ],
+  "reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "candidate_file": "z073_rebuild_20261117/preparation/s5_candidates/c007.json",
+      "candidate_sha256": "db1a083da11d0302eb1497fe4e7083f550b69b3cc9659a8181e3986ec4b0bbf4",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed",
+      "semantic_review_status": "author_review_completed_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块覆盖地域推断限制、旺弱必要条件和中国大陆适用范围；印度/南美洲不是实际案例。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "单一武曲入命关系按一般对象条件记录；不把西北/东南地名作为星曜位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "未见本命/大限/流年明确时间，time_context=null/not_mentioned；不推本命盘。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释：作者校正地域断法而非真实命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语包含地域例外、宫位旺弱和富贵判断限制。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "完整可读独立警告段；eligible非质量降级绕合同。"
+        }
+      },
+      "remaining_questions": [
+        "请独审概念条件scope，未对星曜作用发明新关系类型。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "candidate_file": "z073_rebuild_20261117/preparation/s5_candidates/c008.json",
+      "candidate_sha256": "0bd30c5710cf774b43b0a966424995baf1c646163c75a57b051a041f7b15d1b7",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed",
+      "semantic_review_status": "author_review_completed_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "古赋女命吉凶条件、武曲火星称谓、作者性格正反说明均保留；空劫/四煞存未注册集合术语，不推小星位置。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武曲入命只用作者明说旺宫坐命条件；身命宫提及不推出同时入两宫；寡宿/将星作武曲称谓，不标同名小星。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "早/中年属于引文笼统人生阶段，非冻结time_context类别，不推流年/大限；英文忠实保留。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释含古籍引文，不把整块误判纯古籍或具体案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文保留Wu Qu/Huo Xing、Kong Jie/Si Sha、Gua Su/Jiang Xing隐喻及吉煞条件。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "源文完整可读；eligible。古赋性别价值判断保留作者归属，不作为现代普遍事实。"
+        }
+      },
+      "remaining_questions": [
+        "请独审确认空劫/四煞以未注册集合保留而非词表无显式别名扩写的保守处理；寡宿及将星必须保持隐喻。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "candidate_file": "z073_rebuild_20261117/preparation/s5_candidates/c009.json",
+      "candidate_sha256": "26e41eb464189d557a9c3fc4be8d668617d2983c2509079da06f38741f1a6007",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed",
+      "semantic_review_status": "author_review_completed_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "家庭社会背景、武曲羊陀火铃、人际婚姻、夫妻宫意识与配偶个别差异完整覆盖。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "命宫和夫妻宫分别依据两个明确原句建不同条件scope；最后命宫或夫妻宫句不扁平化为同时坐入，配偶差异不推合盘/互参法。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "无明确时间类别，null/not_mentioned；婚姻论不默认本命/合盘。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释，非实际双方命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文含四煞星名、两宫择一、配偶差异及不可径断负面事件。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "S4通过；仅U0010重复與修复，正文五字段保持04。eligible基于完整可读，不隐藏条件。"
+        }
+      },
+      "remaining_questions": [
+        "请独审概念条件scope，未对星曜作用发明新关系类型。"
+      ]
+    }
+  ],
+  "limitations": [
+    "三块作者候选，不是S5全源完成或S6语义验收。",
+    "自然语言作用/因果保留原文和摘要，没有发明未注册关系或将其作硬条件匹配。",
+    "领域方法空项按实际证据，不为了批量统计填标签。"
+  ]
+}

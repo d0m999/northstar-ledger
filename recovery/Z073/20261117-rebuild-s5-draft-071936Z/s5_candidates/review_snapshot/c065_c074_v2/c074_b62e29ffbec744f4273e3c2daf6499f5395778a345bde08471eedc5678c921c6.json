@@ -1,0 +1,520 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c074",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    99
+  ],
+  "chunk_text": "在紫微星部份曾提及，一個人是否能存錢，必須看福德宮的旺弱吉凶。福德宮的作用除和一個人聚財的多寡難易有關外，也能反映出一個人物質享受的豐缺。通常福德宮不好的人，自己較捨不得享受，但若是福德宮強旺且會桃花星者，則此人較重視生活的享受。再者，若命造的福德宮不但忌煞交沖，且又會多桃花星，則此人的生活會偏向奢侈浪費，亂花錢。\n又，福德宮忌煞交沖者，若只想經由投資理財來聚積財富，恐不易得。惟須注意的是，論命須以命宮為樞紐，因此在論及福德宮的吉凶旺弱時，就不可忽略命宮的作用，即必須二者合併來論。\n在了解上述福德宮的命理作用後，對武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位，但此人是否就會如先賢所說的「有享受，但來雖旺，而不能聚」，恐不能單僅憑福德宮的忌煞交沖，就遽爾斷之。惟福德宮已呈忌煞交沖，故此人若只想經由投資理財的方式來聚積財富，恐不易得之。\n",
+  "chunk_index": 74,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "福德宫与聚财及享受有关，但必须结合命宫，不能以单宫断定。强旺且会桃花偏重享受，忌煞交冲兼多桃花则偏奢侈。丙年武曲辰命例的福德午宫受擎羊及廉贞化忌，不宜仅凭此断不能聚财，但单靠投资理财聚财较难；均为作者命理观点。",
+  "summary_en": "The author links the Fortune Palace to saving and enjoyment but requires it to be read with the Life Palace. Strength with peach-blossom stars suggests enjoyment; Ji and malefic clashes combined with many such stars suggest wastefulness. In the Bing-year Wu Qu-at-Chen case, the Fortune Palace at Wu is afflicted by Qing Yang and Lian Zhen Hua Ji. The author rejects concluding inability to save from that palace alone, while cautioning that investment alone may not accumulate wealth. The Zi Wei section is only a cross-reference, not a new star-placement claim.",
+  "keywords": [
+    "福德宫",
+    "命宫",
+    "聚财",
+    "享受"
+  ],
+  "keywords_en": [
+    "Fortune Palace",
+    "Life Palace",
+    "saving",
+    "enjoyment"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c074_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c074_bing_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 291,
+          "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c074_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 9,
+          "quote": "在紫微星部份曾提及"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c074_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 270,
+          "quote": "武曲在辰坐命丙年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c074_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 271,
+          "end": 283,
+          "quote": "福德午宮因擎羊及廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c074_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 271,
+          "end": 283,
+          "quote": "福德午宮因擎羊及廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c074_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 22,
+          "end": 25,
+          "quote": "福德宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c074_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 197,
+          "end": 206,
+          "quote": "論命須以命宮為樞紐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c074_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 271,
+          "end": 291,
+          "quote": "福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c074_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 31,
+          "end": 37,
+          "quote": "福德宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c074_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 234,
+          "end": 242,
+          "quote": "必須二者合併來論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c074_knowledge_domains2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 279,
+          "end": 283,
+          "quote": "廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c074_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 184,
+          "quote": "聚積財富"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c074_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 101,
+          "quote": "桃花星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c074_bing_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 291,
+          "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c074_bing_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 291,
+          "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c074_bing_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 291,
+          "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c074_bing_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 291,
+          "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化",
+      "推测技法",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c074_bing_case",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "福德宫",
+            "role": "target",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c074_bing_case",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "桃花星",
+        "proposed_category": "source_star_group",
+        "reason": "未列具名桃花星，不补具体星名",
+        "english_surface": "peach blossom stars",
+        "scope_id": "c074_term0"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "c074_bing_case",
+        "subject": "丙年武曲辰命命例",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "紫微",
+      "武曲",
+      "擎羊",
+      "廉贞"
+    ],
+    "palaces_mentioned": [
+      "福德宫",
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c074_bing_case"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": "本命",
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

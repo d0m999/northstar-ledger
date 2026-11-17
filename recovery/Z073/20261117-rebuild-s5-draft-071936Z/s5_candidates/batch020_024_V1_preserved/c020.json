@@ -1,0 +1,621 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c020",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    43,
+    44
+  ],
+  "chunk_text": "天鉞天梁祿乙已僕役七殺丙午遷移丁未疾厄廉貞戊申財帛天紫相微權甲辰事業天魁巨天門機癸卯田宅合壬年月日木時\n\n局己酉 子女陀羅破軍庚戌 夫妻贪狼壬寅福德太太陰陽癸丑父母擎羊天武府曲忌壬子命宮祿存天同辛亥 兄弟盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。\n\n",
+  "chunk_index": 20,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘四说明武曲、天府在子坐命，壬年生人武曲化忌且擎羊同踞。作者认为此时天府土不能生武曲金，命宫忌煞交冲可能带来健康问题。前段排盘混排及末尾「高器」疑字均保留，不据混排重建星位。",
+  "summary_en": "The Chart Four caption places Military Melody and Heavenly Treasury in the Life Palace at Zi for a Ren-year birth. Military Melody has Obstruction Transformation and Ram Blade shares the placement. The author argues that Treasury earth cannot nourish Military Melody metal under these conditions; the afflicted Life Palace may also indicate health problems. The preceding OCR-mixed chart is not reconstructed. The unclear final expression Gao Qi is retained without supplying a missing conclusion.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "擎羊",
+    "化忌",
+    "命宫",
+    "子",
+    "壬年",
+    "健康",
+    "盘四"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Heavenly Treasury",
+    "Ram Blade",
+    "Obstruction Transformation",
+    "Life Palace",
+    "Zi",
+    "Ren-year birth",
+    "health",
+    "Chart Four"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 157,
+          "end": 167,
+          "quote": "此人健康可能也有問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 118,
+          "end": 127,
+          "quote": "武曲化忌並擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 132,
+          "end": 142,
+          "quote": "天府土無法來生武曲金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 104,
+          "end": 112,
+          "quote": "武曲天府在子坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 157,
+          "end": 167,
+          "quote": "此人健康可能也有問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 104,
+          "end": 112,
+          "quote": "武曲天府在子坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 104,
+          "end": 112,
+          "quote": "武曲天府在子坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 118,
+          "end": 127,
+          "quote": "武曲化忌並擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 155,
+          "quote": "命宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "chart4_colocation",
+        "kind": "conditional",
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "chart4_武曲",
+        "kind": "conditional",
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "chart4_天府",
+        "kind": "conditional",
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "chart4_擎羊",
+        "kind": "conditional",
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 180,
+          "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 177,
+          "end": 179,
+          "quote": "高器"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "前段排盘OCR混排不作星位依据；仅盘四可读说明可用。「高器」疑字原样保留，不据其末尾结论造标签。",
+    "usable_spans": [
+      {
+        "start": 102,
+        "end": 180,
+        "quote": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "星曜性质",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart4_colocation",
+        "negated": false,
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart4_武曲",
+        "negated": false,
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart4_天府",
+        "negated": false,
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart4_擎羊",
+        "negated": false,
+        "condition": "盤四武曲天府在子坐命，壬年生人，武曲化忌並擎羊同踞，此時不但天府土無法來生武曲金，且因命宮成為忌煞交沖宮位後，此人健康可能也有問題，也就遑論此人是否會高器。"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "高器",
+        "proposed_category": "ocr_uncertain",
+        "reason": "盘四末尾疑字，不擅改为成器或其他词，不作为解释结论",
+        "english_surface": "Gao Qi",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart4"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

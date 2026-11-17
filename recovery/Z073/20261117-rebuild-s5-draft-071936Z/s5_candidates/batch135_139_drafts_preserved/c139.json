@@ -1,0 +1,456 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c139",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    180
+  ],
+  "chunk_text": "聰明才智和性格狀況，而且身宮在命理作用上，也會對命理運程產生一種「調整作用」的功能。因此身宮和命宮在命理作用上，不僅是一體的兩面，而且隨著年齡的增長，其作用也愈強。\n再細察顏小姐的命盤，身宮在酉，天同與祿存同坐，並有火星及地劫自三方來沖。若依前述先賢所說的天同在酉乃水之沐浴地以及身宮的調整作用，則顏小姐豈不是會隨著年齡的增加使得感情越來越豐富，而造成在婚前太過濫情，若是結婚，則婚後易和異性發生感情。\n衡諸事實，卻非如此，何以故？此乃因天同不但不見桃花星，且又坐會祿存與地劫，使得水星坐入沐浴地的桃花作用不起作用，再加上命宮及太歲宮位的特質與行運對夫妻宮的影響，遂造成顏小姐過了四十仍未婚。\n",
+  "chunk_index": 139,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "颜小姐酉身天同禄存同坐，火星地劫三方来冲，但天同不见桃花且会禄存地劫，作者认为沐浴地桃花作用不显。并须结合命宫、太岁宫特质及行运对夫妻的影响解释四十后未婚，不把前段反问当作真实婚外情。开头续句不补。",
+  "summary_en": "Ms. Yan’s You Body Palace has Tian Tong with Lu Cun, while Huo Xing and Di Jie influence it from the trines. The author says Tian Tong has no peach-blossom stars and receives Lu Cun and Di Jie, so the usual bathing-related romantic effect does not operate. Life and Tai Sui characteristics and timing affecting Spouse also inform the explanation for remaining unmarried after forty. A rhetorical expectation of affairs is not reported as fact, and the opening continuation is not reconstructed.",
+  "keywords": [
+    "颜小姐",
+    "身宫",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Ms Yan",
+    "Body Palace",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "开头承接聪明才智与性格的半句不补，完整因此句和本例两段可用。",
+    "usable_spans": [
+      {
+        "start": 42,
+        "end": 297,
+        "quote": "因此身宮和命宮在命理作用上，不僅是一體的兩面，而且隨著年齡的增長，其作用也愈強。\n再細察顏小姐的命盤，身宮在酉，天同與祿存同坐，並有火星及地劫自三方來沖。若依前述先賢所說的天同在酉乃水之沐浴地以及身宮的調整作用，則顏小姐豈不是會隨著年齡的增加使得感情越來越豐富，而造成在婚前太過濫情，若是結婚，則婚後易和異性發生感情。\n衡諸事實，卻非如此，何以故？此乃因天同不但不見桃花星，且又坐會祿存與地劫，使得水星坐入沐浴地的桃花作用不起作用，再加上命宮及太歲宮位的特質與行運對夫妻宮的影響，遂造成顏小姐過了四十仍未婚。\n"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c139_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c139_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c139_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 98,
+          "end": 105,
+          "quote": "天同與祿存同坐"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c139_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 98,
+          "end": 105,
+          "quote": "天同與祿存同坐"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c139_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 108,
+          "end": 118,
+          "quote": "火星及地劫自三方來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c139_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 108,
+          "end": 118,
+          "quote": "火星及地劫自三方來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c139_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 93,
+          "end": 97,
+          "quote": "身宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c139_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 261,
+          "end": 268,
+          "quote": "命宮及太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c139_palaces_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 272,
+          "end": 281,
+          "quote": "行運對夫妻宮的影響"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c139_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 216,
+          "end": 238,
+          "quote": "此乃因天同不但不見桃花星，且又坐會祿存與地劫"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c139_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 42,
+          "end": 49,
+          "quote": "因此身宮和命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c139_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 241,
+          "end": 257,
+          "quote": "水星坐入沐浴地的桃花作用不起作用"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c139_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 288,
+          "end": 295,
+          "quote": "過了四十仍未婚"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c139_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 264,
+          "end": 268,
+          "quote": "太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c139_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 135,
+          "end": 138,
+          "quote": "沐浴地"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c139_yan_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 83,
+          "end": 118,
+          "quote": "再細察顏小姐的命盤，身宮在酉，天同與祿存同坐，並有火星及地劫自三方來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c139_yan_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 83,
+          "end": 118,
+          "quote": "再細察顏小姐的命盤，身宮在酉，天同與祿存同坐，並有火星及地劫自三方來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c139_yan_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 83,
+          "end": 118,
+          "quote": "再細察顏小姐的命盤，身宮在酉，天同與祿存同坐，並有火星及地劫自三方來沖"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c139_yan_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c139_yan_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c139_yan_body",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "太歲宮位",
+        "proposed_category": "source_position",
+        "reason": "本块个性宫位语境，不反推流年",
+        "english_surface": "Tai Sui position",
+        "scope_id": "c139_term0"
+      },
+      {
+        "surface": "沐浴地",
+        "proposed_category": "source_branch_quality",
+        "reason": "会禄存地劫例外，不能按水性断实际出轨",
+        "english_surface": "bathing location",
+        "scope_id": "c139_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "天同",
+      "禄存",
+      "火星",
+      "地劫"
+    ],
+    "palaces_mentioned": [
+      "身宫",
+      "命宫",
+      "夫妻宫"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "knowledge_domains": [
+      "宫位变化",
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "感情姻缘"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "reviewer": "coordinator_not_candidate_author",
+  "created_utc": "2026-11-17T06:53:46.394506+00:00",
+  "method": "Read full source and every domain/evidence field from immutable pre-review byte snapshots; frozen validator + five-field/evidence/serialization checks. No historical05 consulted.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c085",
+      "candidate_sha256": "7361dd2850712a3f372d72f83fe2631ee50041149e150b5e27dbd3e4899cd571",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C085_C089_V1/c085.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "完整财帛/田宅条件分支分开，对宫天机天梁不误作实入命，巳亥/辰戌备择未强配。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "case for C088, concept for others",
+      "english": "complete source and summaries compared; C089 source attribution correction required",
+      "source_quality": "eligible C085-087; limited C088-C089 based on real truncation/chart mixture",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c086",
+      "candidate_sha256": "6216151af2aaaf947264ae986f9d9d9fb64a8e17fe1d7f2595f32dff2cfeec93",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C085_C089_V1/c086.json",
+      "decision": "returned_for_revision",
+      "coverage": "两古赋与作者限制分开，三十为概数，阴金阳木解释不造关系；分坐负同宫支持。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "case for C088, concept for others",
+      "english": "complete source and summaries compared; C089 source attribution correction required",
+      "source_quality": "eligible C085-087; limited C088-C089 based on real truncation/chart mixture",
+      "ordinary_revision_requests": [
+        "天機星是末段明示交叉引用，补星曜mentioned而非实盘事实。"
+      ],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c087",
+      "candidate_sha256": "100edc688255467299e60159cba63946d1f3c5579cb2772befaaa7fac131d2e2",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C085_C089_V1/c087.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "武贪同行讨论及府相朝垣条件成格正确区分；命身迁移角色保留，命丑未/身未丑耦合不猜。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "case for C088, concept for others",
+      "english": "complete source and summaries compared; C089 source attribution correction required",
+      "source_quality": "eligible C085-087; limited C088-C089 based on real truncation/chart mixture",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c088",
+      "candidate_sha256": "d85634a60f241975aafd59a4e32005a48f422418deb56161e9d7a366521ca8ae",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C085_C089_V1/c088.json",
+      "decision": "returned_for_revision",
+      "coverage": "完整于先生事实/本段三合及大限四化复核，未把火贪跨宫虚构同宫，空宫未借照不作实坐。末尾未完排除合理。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "case for C088, concept for others",
+      "english": "complete source and summaries compared; C089 source attribution correction required",
+      "source_quality": "eligible C085-087; limited C088-C089 based on real truncation/chart mixture",
+      "ordinary_revision_requests": [
+        "紫殺帶威權提及对象与实坐关系要区分；核紫微七杀提及，不因不能推同宫而全丢提及。",
+        "大限命宫四化作用目标巳由癸巳限和本宫语境补绑定，或给明确不适用依据。"
+      ],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c089",
+      "candidate_sha256": "fd44d0d6f5fce3aafc460778e63a9f638f0aa7135e1339c95fd4d21fc4e6b530",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C085_C089_V1/c089.json",
+      "decision": "returned_for_revision",
+      "coverage": "图表混排及末句残片不拿来恢复命例，可读图说/书目两span可用；出版年份非流年，书目星曜mentioned合理。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "case for C088, concept for others",
+      "english": "complete source and summaries compared; C089 source attribution correction required",
+      "source_quality": "eligible C085-087; limited C088-C089 based on real truncation/chart mixture",
+      "ordinary_revision_requests": [
+        "摘要将不确定武食图说直接解释为武贪，与疑字不修声明冲突。拆分图说一般少年发达问题与书目武贪题名来源。"
+      ],
+      "remaining_blocking_issues": []
+    }
+  ],
+  "human_acceptance": false,
+  "whole_source_S5_or_S6_passed": false
+}

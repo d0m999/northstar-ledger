@@ -1,0 +1,3117 @@
+{
+  "task": "Full independent six-axis review C110–C114",
+  "created_utc": "2026-11-17T07:00:07.109215+00:00",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "immutable_snapshot_manifest_sha256": "597f71f12f3ea280afc7c6a48a89986592acd811a18d488052afe9043b4e3f87",
+  "method": "Read complete source, all top-level and domain fields, all evidence paths/scopes/quotes, bilingual text and eligibility; frozen validation is supplementary, specialist reports not substituted for full review.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c110",
+      "candidate_sha256": "ae2980cbc24254039b0ca8ee05333a361a5e556c5ab3c04ac9526ccf2817a0bc",
+      "snapshot_path": "preparation/independent_105_114_snapshot/c110.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Comparison and generic/hypothetical mitigation rules read; explicit source year/branch correspondence must survive English."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Star-transformation-to-pattern relation supported, no false carrying palace."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Bing/Ren, generic cycle/year and hypothetical female cycle/year scopes distinct."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Theory with hypothetical example appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Respectively fix requested; no inevitable death claim."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Broken initial subject excluded; intact comparison includes necessary qualifiers."
+        }
+      },
+      "findings": [
+        "Single topic false multiple_values reason requires correction.",
+        "English Chen or Xu should preserve source explicitly respectively for Bing/Ren; this local source has ordered 分別 clause, not unallocated OR.",
+        "Full conditions correctly separate hypothetical female JiChou Lu from annual Ren Ji, with favorable-cycle mitigation; broken opening excluded."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 51,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 153,
+              "quote": "丙干另有廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 132,
+              "end": 143,
+              "quote": "流年的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 117,
+              "end": 130,
+              "quote": "流年陀羅分別坐入辰宮與戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 153,
+              "quote": "丙干另有廉貞化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 154,
+              "end": 161,
+              "quote": "流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 446,
+              "end": 451,
+              "quote": "凶象就較小"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "bing_annual",
+            "kind": "conditional",
+            "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 161,
+              "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "bing_annual",
+            "kind": "conditional",
+            "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 161,
+              "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "bing_annual",
+            "kind": "conditional",
+            "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 161,
+              "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "bing_annual",
+            "kind": "conditional",
+            "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 161,
+              "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "bing_annual",
+            "kind": "conditional",
+            "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 145,
+              "end": 161,
+              "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "ren_annual",
+            "kind": "conditional",
+            "condition": "壬年則因流年導致武曲再度化忌",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.palace",
+          "scope": {
+            "scope_id": "ren_annual",
+            "kind": "conditional",
+            "condition": "壬年則因流年導致武曲再度化忌",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.source_palace",
+          "scope": {
+            "scope_id": "ren_annual",
+            "kind": "conditional",
+            "condition": "壬年則因流年導致武曲再度化忌",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.target_palace",
+          "scope": {
+            "scope_id": "ren_annual",
+            "kind": "conditional",
+            "condition": "壬年則因流年導致武曲再度化忌",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "ren_annual",
+            "kind": "conditional",
+            "condition": "壬年則因流年導致武曲再度化忌",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 177,
+              "quote": "壬年則因流年導致武曲再度化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.tiangan",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.source_palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2.target_palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3.tiangan",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3.palace",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3.source_palace",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.3.target_palace",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.3",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "generic_trigger",
+            "kind": "conditional",
+            "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 277,
+              "end": 331,
+              "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4",
+          "scope": {
+            "scope_id": "female_jichou",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 376,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4.palace",
+          "scope": {
+            "scope_id": "female_jichou",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 376,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4.source_palace",
+          "scope": {
+            "scope_id": "female_jichou",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 376,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.4.target_palace",
+          "scope": {
+            "scope_id": "female_jichou",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 376,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.4",
+          "scope": {
+            "scope_id": "female_jichou",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 376,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5.palace",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5.source_palace",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.5.target_palace",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.5",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.1",
+          "scope": {
+            "scope_id": "female_ren",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "female_ren_trigger",
+            "kind": "conditional",
+            "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 332,
+              "end": 414,
+              "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 230,
+              "end": 232,
+              "quote": "地網"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "limited",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c111",
+      "candidate_sha256": "0f40cf55fcfae62fcacebd1d773353b78415ea98c6de14b007a8a260dbfb2f0c",
+      "snapshot_path": "preparation/independent_105_114_snapshot/c111.json",
+      "decision": "blocked_typed_hold_only",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Conditional trade interpretation retained; absent auspicious transformation group not positive objects."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Unassigned Body/Life and Si/Hai kept separate from explicit quoted Life fact."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No generic trade language promoted to time cycle."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Attribution avoids claiming medical prediction, preserves trade/crafts distinction."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Eligible despite retained local OCR."
+        }
+      },
+      "findings": [
+        "No ordinary repair required in read snapshot.",
+        "Specific unresolved Life/Body and Si/Hai group binding retained; explicit quoted WuQu-Life relationship and source-unnamed HuaJi valid. Absent Lu/Quan/Ke not asserted as positive transformations."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 28,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 218,
+              "end": 234,
+              "quote": "其賦性作用所呈現出來者以負面居多"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 5,
+              "end": 17,
+              "quote": "武曲貪狼加煞忌，技藝之人"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 132,
+              "quote": "有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 5,
+              "end": 12,
+              "quote": "武曲貪狼加煞忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 5,
+              "end": 12,
+              "quote": "武曲貪狼加煞忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 340,
+              "end": 346,
+              "quote": "武曲巳亥守命"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 34,
+              "quote": "身命武貪"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 268,
+              "end": 275,
+              "quote": "較適合去學技藝"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 248,
+              "quote": "與人相處就易有寡合現象"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "malefic_trade",
+            "kind": "conditional",
+            "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 147,
+              "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "quoted_sihai",
+            "kind": "conditional",
+            "condition": "武曲巳亥守命，加煞者手藝安身",
+            "attribution": "《全集，注解骨髓赋》引文"
+          },
+          "spans": [
+            {
+              "start": 340,
+              "end": 354,
+              "quote": "武曲巳亥守命，加煞者手藝安身"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 88,
+              "end": 115,
+              "quote": "武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 122,
+              "end": 132,
+              "quote": "見多煞星及有化忌來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 108,
+              "quote": "祿權科"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 34,
+              "quote": "身命武貪"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 425,
+              "end": 429,
+              "quote": "刑囚諸惡"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 74,
+              "end": 76,
+              "quote": "灭折"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 342,
+              "end": 344,
+              "quote": "巳亥"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c112",
+      "candidate_sha256": "15d9e912ddf9359443df2a5f1eaedb189d14ef3a252f0acdee5102da69ef2d72",
+      "snapshot_path": "preparation/independent_105_114_snapshot/c112.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Introduction topics/method preview read, not treated as completed demonstrations."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Hypothetical Career subject explicit; preview verse not actual chart formation."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Single preview grand-cycle scalar matches object scope, usage repair needed."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept introduction correct."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Bilingual previews and no validated medical diagnosis correct."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Full continuous text including page break eligible."
+        }
+      },
+      "findings": [
+        "Preview pattern MaTouDaiJian, HuaJi verse and grand-cycle question are only named preview: usage discussed should be mentioned for relevant pattern/sihua/time evidence, matching scalar time_context evidence scope.",
+        "No formation asserted; methods empty is justified for chapter preview. Hypothetical career placement is explicit and usage mentioned."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 30,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 7,
+              "end": 11,
+              "quote": "天同陽水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 562,
+              "end": 569,
+              "quote": "有關天同的格局"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 491,
+              "end": 496,
+              "quote": "太歲入宮法"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 7,
+              "end": 11,
+              "quote": "天同陽水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 160,
+              "end": 167,
+              "quote": "天同坐入事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 135,
+              "end": 138,
+              "quote": "事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 249,
+              "end": 259,
+              "quote": "女命天同陷宮者的婚姻"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 480,
+              "end": 488,
+              "quote": "推論一個人的健康"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "preview_career",
+            "kind": "conditional",
+            "condition": "天同坐入事業宮的吉凶該如何推論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 160,
+              "end": 175,
+              "quote": "天同坐入事業宮的吉凶該如何推論"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "preview_cycle",
+            "kind": "conditional",
+            "condition": "走到天同的大限又如何",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 176,
+              "end": 186,
+              "quote": "走到天同的大限又如何"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "preview_pattern",
+            "kind": "conditional",
+            "condition": "「馬頭帶劍」",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 575,
+              "end": 581,
+              "quote": "「馬頭帶劍」"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 491,
+              "end": 496,
+              "quote": "太歲入宮法"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 322,
+              "end": 326,
+              "quote": "太歲宮位"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 583,
+              "end": 590,
+              "quote": "寅申最喜同梁會"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 593,
+              "end": 604,
+              "quote": "善福守于空位，天竺生涯"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.5",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 632,
+              "end": 640,
+              "quote": "女命天同，必是賢"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.6",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 643,
+              "end": 655,
+              "quote": "同月陷宮加煞忌，技藝羸黃"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.7",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 665,
+              "quote": "天同會吉壽元長"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.8",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 668,
+              "end": 680,
+              "quote": "子羽才能，巨宿同梁沖且合"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "preview_huaji",
+            "kind": "conditional",
+            "condition": "天同戌宮逢化忌，丁生命遇反為佳",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "preview_huaji",
+            "kind": "conditional",
+            "condition": "天同戌宮逢化忌，丁生命遇反為佳",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "preview_huaji",
+            "kind": "conditional",
+            "condition": "天同戌宮逢化忌，丁生命遇反為佳",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "preview_huaji",
+            "kind": "conditional",
+            "condition": "天同戌宮逢化忌，丁生命遇反為佳",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "preview_huaji",
+            "kind": "conditional",
+            "condition": "天同戌宮逢化忌，丁生命遇反為佳",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 614,
+              "end": 629,
+              "quote": "天同戌宮逢化忌，丁生命遇反為佳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "preview_cycle",
+            "kind": "conditional",
+            "condition": "走到天同的大限又如何",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 176,
+              "end": 186,
+              "quote": "走到天同的大限又如何"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c113",
+      "candidate_sha256": "9386cb583b7b52daa019f4338611da2c6e74b1ad0157329c7c8981b5cc70c784",
+      "snapshot_path": "preparation/independent_105_114_snapshot/c113.json",
+      "decision": "accepted_independent_six_axis",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Fortune meaning, health and accumulation distinction covered."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Life relation condition retains both support/opposition, no physical Fortune placement inferred."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No time inferred."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation correct."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Bilingual conditions/negative inference preserved."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Eligible intact text."
+        }
+      },
+      "findings": [
+        "No ordinary repair required.",
+        "Fortune epithet distinguished from physical Fortune Palace. Supported TianTong Life with benefic/malefic branches does not imply Fortune placement or automatic wealth."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 14,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 50,
+              "end": 61,
+              "quote": "天同五行屬水，屬性為陽"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 240,
+              "end": 252,
+              "quote": "並非指命盤上的「福德宮」"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 10,
+              "end": 14,
+              "quote": "天同陽水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 298,
+              "end": 303,
+              "quote": "天同坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 248,
+              "end": 251,
+              "quote": "福德宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 174,
+              "end": 183,
+              "quote": "「壽命」與「健康」"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 400,
+              "end": 407,
+              "quote": "聚財的多寡難易"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "life_support_conditions",
+            "kind": "conditional",
+            "condition": "天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享）",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 298,
+              "end": 344,
+              "quote": "天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享）"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 26,
+              "end": 30,
+              "quote": "福德之主"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c114",
+      "candidate_sha256": "7a298eb6f7a8e9e8934ffa6d5f96d3ec5442760b045620c1a98bba5314a01eb5",
+      "snapshot_path": "preparation/independent_105_114_snapshot/c114.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Four-star longevity themes and specific Life/Career placements covered, uncertainty retained."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "No TanLang false trine placement; no TianLiang same-palace claim."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No time inferred from longevity."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Conditional health interpretation attributed, cannot assert certain lifespan."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Eligible intact prose with OCR retained."
+        }
+      },
+      "findings": [
+        "Single topics_mentioned=[健康医疗] with scalar topic null_reason=multiple_values requires correction.",
+        "Two explicit Life/Career placement facts supported; no unregistered trine relation or invented longevity prediction. OCR uncertain source words retained with caution."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 20,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 9,
+              "end": 15,
+              "quote": "和壽命有關者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 80,
+              "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 17,
+              "end": 28,
+              "quote": "天機、貪狼、天同及天梁"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 17,
+              "end": 28,
+              "quote": "天機、貪狼、天同及天梁"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 17,
+              "end": 28,
+              "quote": "天機、貪狼、天同及天梁"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 17,
+              "end": 28,
+              "quote": "天機、貪狼、天同及天梁"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 66,
+              "quote": "天同坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 77,
+              "end": 80,
+              "quote": "事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 355,
+              "end": 362,
+              "quote": "就「壽命」一事"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "tong_life",
+            "kind": "conditional",
+            "condition": "天同坐命者，必有天機坐入三合方的事業宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 80,
+              "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "ji_career",
+            "kind": "conditional",
+            "condition": "天同坐命者，必有天機坐入三合方的事業宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 80,
+              "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 363,
+              "end": 388,
+              "quote": "天同旺宮（盤一）坐命且會吉多而不會煞（或會煞少）者"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 249,
+              "end": 252,
+              "quote": "番更長"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 298,
+              "end": 302,
+              "quote": "番考之福"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 461,
+              "end": 463,
+              "quote": "早天"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false
+    }
+  ],
+  "rules_consulted": {
+    "CONTRACT.md": "f2e54fe3d6dc501b9ea937993f9db0f4fa81a797fa7ed15f8ac4b8c52dc57080",
+    "QUALITY_REVISION_4.md": "9091c8f3e63c5a516ac9d14f2f1039801a155c6d4a32078fc4e52d5eab1377c2"
+  },
+  "old05_read": false,
+  "candidate_files_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

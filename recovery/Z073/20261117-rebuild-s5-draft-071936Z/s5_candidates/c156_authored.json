@@ -1,0 +1,593 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c156",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    203,
+    204,
+    205
+  ],
+  "chunk_text": "又，太陰在午為弱陷，此時太陽在申（除非會多吉星）亦可視為弱陷，故同陰在午坐命者亦有類如「日月反背」的命理現象（註十五）。即具「日月反背」命格者，因擎羊入命加重其不依祖業的命理特質，若在古代，往往須離鄉背井，到處奔波勞碌，甚至是從軍去戌守邊關，透過戰功，始有可能武職榮顯。此即註解中認為同陰在午「本是陷地，主漂泊，故曰邊疆」的說法來由。至於生活在現代的人，拜科技進步之賜，具「日月反背」或「馬頭帶劍」命格者，縱使須為生活奔波勞碌，卻不一定要離鄉背井，仍須視實際星曜組合及所從事工作性質而定。\n另外，註解中的「若無吉多來扶，多不善終」，係指「馬頭帶劍」者，因擎羊入命，若無吉化，當行限有化忌來沖時，恐有健康問題或易發生意外，嚴重時，甚至會危害到生命，不得善終。惟須注意的是，上述情況只有在會沖火鈴時，才可能如此，否則僅主辛勞、不順。\n前曾提及，命宮與太歲宮位同宮者，吉者更吉，凶者更凶。註解中的「尤以丙午及戊午，會因太歲宮位同宮，就較其他丙或戊年生人而地支不為午者更吉。\n",
+  "chunk_index": 156,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "同阴午命伴太阳申弱的配置被作者比作日月反背，但现代奔波不必离乡，要看工作与组合。马头带剑无吉、行限忌冲的严重健康或意外之说还须火铃会冲，否则仅论辛劳不顺；命与太岁同宫增吉凶的理论保留，末古注有残缺。",
+  "summary_en": "The author compares Tian Tong–Tai Yin in Wu Life with a weak Tai Yang at Shen to Ri Yue Fan Bei, but says modern toil need not require leaving home. Severe health or accident claims for Ma Tou Dai Jian require lack of favorable influence, adverse cycle Hua Ji and Huo Xing–Ling Xing meeting; otherwise the text limits the result to hardship. The proposed amplification when Life coincides with the Tai Sui position is preserved as source theory. The final quotation is incomplete.",
+  "keywords": [
+    "日月反背",
+    "马头带剑",
+    "火铃前提",
+    "行限忌冲",
+    "太岁宫位"
+  ],
+  "keywords_en": [
+    "Ri Yue Fan Bei",
+    "Ma Tou Dai Jian",
+    "Huo Ling prerequisite",
+    "adverse cycle Hua Ji",
+    "Tai Sui position"
+  ],
+  "topic": null,
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "stars_mentioned": [
+      "太阴",
+      "太阳",
+      "天同",
+      "擎羊",
+      "火星",
+      "铃星"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "member",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c156_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c156_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c156_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c156_yang",
+        "condition": "具「日月反背」命格者，因擎羊入命",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化忌",
+        "scope_id": "c156_adverse",
+        "tiangan": null,
+        "palace": null
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "日月反背",
+        "formation_status": null,
+        "evidence": "同陰在午坐命者亦有類如「日月反背」的命理現象"
+      },
+      {
+        "pattern_name": "马头带剑",
+        "formation_status": null,
+        "evidence": "「馬頭帶劍」者，因擎羊入命"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲宮位",
+        "proposed_category": "unregistered_palace",
+        "reason": "不可造canonical宫位参与同宫关系，且注册同宫需两星。",
+        "english_surface": "Tai Sui position",
+        "scope_id": "c156_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [
+      "火星铃星"
+    ],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": null
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 2,
+          "end": 6,
+          "quote": "太陰在午"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "quote": "太陽在申"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 38,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 73,
+          "end": 77,
+          "quote": "擎羊入命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 342,
+          "end": 346,
+          "quote": "會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 342,
+          "end": 346,
+          "quote": "會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 342,
+          "end": 346,
+          "quote": "會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 38,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c156_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 39,
+          "quote": "同陰在午坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c156_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 39,
+          "quote": "同陰在午坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c156_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 39,
+          "quote": "同陰在午坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c156_yang",
+        "kind": "conditional",
+        "condition": "具「日月反背」命格者，因擎羊入命",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 77,
+          "quote": "具「日月反背」命格者，因擎羊入命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 54,
+          "quote": "同陰在午坐命者亦有類如「日月反背」的命理現象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.1",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 281,
+          "quote": "「馬頭帶劍」者，因擎羊入命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c156_adverse",
+        "kind": "conditional",
+        "condition": "因擎羊入命，若無吉化，當行限有化忌來沖時，恐有健康問題或易發生意外，嚴重時，甚至會危害到生命，不得善終。惟須注意的是，上述情況只有在會沖火鈴時，才可能如此，否則僅主辛勞、不順",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 276,
+          "end": 363,
+          "quote": "因擎羊入命，若無吉化，當行限有化忌來沖時，恐有健康問題或易發生意外，嚴重時，甚至會危害到生命，不得善終。惟須注意的是，上述情況只有在會沖火鈴時，才可能如此，否則僅主辛勞、不順"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c156_adverse",
+        "kind": "conditional",
+        "condition": "因擎羊入命，若無吉化，當行限有化忌來沖時，恐有健康問題或易發生意外，嚴重時，甚至會危害到生命，不得善終。惟須注意的是，上述情況只有在會沖火鈴時，才可能如此，否則僅主辛勞、不順",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 370,
+          "end": 390,
+          "quote": "命宮與太歲宮位同宮者，吉者更吉，凶者更凶"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 243,
+          "quote": "仍須視實際星曜組合及所從事工作性質而定"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 243,
+          "quote": "仍須視實際星曜組合及所從事工作性質而定"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 243,
+          "quote": "仍須視實際星曜組合及所從事工作性質而定"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 288,
+          "end": 295,
+          "quote": "行限有化忌來沖"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 288,
+          "end": 295,
+          "quote": "行限有化忌來沖"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 297,
+          "end": 309,
+          "quote": "恐有健康問題或易發生意外"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c156_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

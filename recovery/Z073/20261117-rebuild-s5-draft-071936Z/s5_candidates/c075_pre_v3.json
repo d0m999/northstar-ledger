@@ -1,0 +1,2668 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c075",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    99,
+    100
+  ],
+  "chunk_text": "觀諸行限，男命順行。甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉。乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉。丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨。丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳。戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳。己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉。故就整個行限來看，自甲午限開始到老，命宮及財帛宮均成連祿，甚吉。而遷移宮雖沒構成連珠，亦相當吉，正好也反映出先賢所說的「主為人親友關係極佳，多貴人」之說。\n綜合上述武曲在辰坐命的討論，可以得知，癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」。甲年生人由於一輩子的限運，幾乎都是利於求財，故此人可說是一帶「富」命格。丙年生人雖然命格及行限均利於求財，但因財帛宮及福德宮皆呈忌煞交沖，故屬辛苦得財之人，另因遷移宮吉旺，故一輩子人際關係佳，多得貴助。",
+  "chunk_index": 75,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "逐限说明甲午廉贞化禄、乙未天机化禄、丙申廉贞化忌兼天同化禄、丁酉太阴化禄、戊戌贪狼化禄、己亥武曲化禄的先后天宫位影响。丙申虽冲击多宫，但有吉引动与旺命及后限，故辛劳而应无妨。另总结武曲辰命：癸年富多贵少，甲年利求财，丙年辛苦得财而人缘得助；各生年不合为同一人。",
+  "summary_en": "The male sequence discusses Jia Wu with Chaste Star Prosperity, Yi Wei with Celestial Machine Prosperity, Bing Shen with Chaste Star Obstruction and Heavenly Companion Prosperity, Ding You with Moon Prosperity, Wu Xu with Greedy Wolf Prosperity, and Ji Hai with Military Melody Prosperity. Natal and cycle palaces are distinguished. Bing Shen is laborious but mitigated by favorable activation, a strong Life Palace and the following cycle. A separate comparison of Military Melody at Chen describes Gui births as wealthier than eminent, Jia births as wealth-seeking, and Bing births as earning through toil while receiving social assistance. These birth-year alternatives are not one person.",
+  "keywords": [
+    "大限",
+    "先天命宫",
+    "廉贞",
+    "天机",
+    "天同",
+    "太阴",
+    "贪狼",
+    "武曲",
+    "化禄",
+    "化忌"
+  ],
+  "keywords_en": [
+    "Grand Cycles",
+    "natal Life Palace",
+    "Chaste Star",
+    "Celestial Machine",
+    "Heavenly Companion",
+    "Moon",
+    "Greedy Wolf",
+    "Military Melody",
+    "Prosperity Transformation",
+    "Obstruction Transformation"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 14,
+          "end": 24,
+          "quote": "廉貞化祿在先天財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "quote": "觀諸行限"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 119,
+          "end": 135,
+          "quote": "先天及後天的命宮、事業宮及財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 488,
+          "end": 492,
+          "quote": "利於求財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 561,
+          "end": 571,
+          "quote": "人際關係佳，多得貴助"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 128,
+          "end": 140,
+          "quote": "事業宮及財帛宮均受之沖擊"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "quote": "廉貞化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 60,
+          "end": 64,
+          "quote": "天機化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 142,
+          "end": 146,
+          "quote": "天同化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 197,
+          "end": 201,
+          "quote": "太陰化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 254,
+          "end": 258,
+          "quote": "貪狼化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 293,
+          "end": 297,
+          "quote": "武曲化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 48,
+          "quote": "命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 24,
+          "quote": "財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 128,
+          "end": 131,
+          "quote": "事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 530,
+          "end": 533,
+          "quote": "福德宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 31,
+          "end": 34,
+          "quote": "遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1.chart_type",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2.chart_type",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.source_palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.target_palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.3",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.3.chart_type",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.source_palace",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.target_palace",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.4",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.4.chart_type",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.source_palace",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.target_palace",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.5",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.5.chart_type",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.palace",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.source_palace",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.target_palace",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.6",
+      "scope": {
+        "scope_id": "jiawu_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.6.chart_type",
+      "scope": {
+        "scope_id": "jiawu_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "jiawu_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "jiawu_cycle_carrier",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.6",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.6.palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.6.source_palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.6.target_palace",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.7",
+      "scope": {
+        "scope_id": "bingshen_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.7.chart_type",
+      "scope": {
+        "scope_id": "bingshen_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "cycle_乙未",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "cycle_丁酉",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 249,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.10",
+      "scope": {
+        "scope_id": "cycle_戊戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 288,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.11",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.12",
+      "scope": {
+        "scope_id": "cycle_己亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 289,
+          "end": 326,
+          "quote": "己亥限，武曲化祿吉化先天命宮及財帛宮，而大限命宮亦為吉旺宮位，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.7",
+      "scope": {
+        "scope_id": "gui_birth_comparison",
+        "kind": "conditional",
+        "condition": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 470,
+          "quote": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.7.palace",
+      "scope": {
+        "scope_id": "gui_birth_comparison",
+        "kind": "conditional",
+        "condition": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 470,
+          "quote": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.7.source_palace",
+      "scope": {
+        "scope_id": "gui_birth_comparison",
+        "kind": "conditional",
+        "condition": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 470,
+          "quote": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.7.target_palace",
+      "scope": {
+        "scope_id": "gui_birth_comparison",
+        "kind": "conditional",
+        "condition": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 470,
+          "quote": "癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損，所以才會「富」多於「貴」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 85,
+          "end": 89,
+          "quote": "雙祿交馳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 353,
+          "end": 355,
+          "quote": "連祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.13",
+      "scope": {
+        "scope_id": "cycle_甲午",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 55,
+          "quote": "甲午限，廉貞化祿在先天財帛宮，正好也是大限遷移宮，且此化祿也來吉化先後天命宮，故此大限甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.14",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.15",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.16",
+      "scope": {
+        "scope_id": "cycle_丙申",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 192,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.17",
+      "scope": {
+        "scope_id": "v2_yi_placement",
+        "kind": "conditional",
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.18",
+      "scope": {
+        "scope_id": "v2_yi_命宫",
+        "kind": "conditional",
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.19",
+      "scope": {
+        "scope_id": "v2_yi_财帛宫",
+        "kind": "conditional",
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 105,
+          "quote": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.20",
+      "scope": {
+        "scope_id": "v2_place_太阴",
+        "kind": "conditional",
+        "condition": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 193,
+          "end": 250,
+          "quote": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.21",
+      "scope": {
+        "scope_id": "v2_place_贪狼",
+        "kind": "conditional",
+        "condition": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 250,
+          "end": 289,
+          "quote": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.22",
+      "scope": {
+        "scope_id": "v2_bingshen_tong",
+        "kind": "conditional",
+        "condition": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 193,
+          "quote": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.23",
+      "scope": {
+        "scope_id": "v2_gui_tan",
+        "kind": "conditional",
+        "condition": "綜合上述武曲在辰坐命的討論，可以得知，癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 405,
+          "end": 457,
+          "quote": "綜合上述武曲在辰坐命的討論，可以得知，癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "流年运程",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系",
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "jiawu_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "jiawu_cycle_carrier",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_甲午",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "affected_cycle_palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "cycle_乙未",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丁酉",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丁酉",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_戊戌",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_戊戌",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_己亥",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_己亥",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_甲午",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "cycle_丙申",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_yi_placement",
+        "negated": false,
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_yi_命宫",
+        "negated": false,
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "affected_cycle_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_yi_财帛宫",
+        "negated": false,
+        "condition": "乙未限，天機化祿自坐大限命宮，不但造成大限命宮與財帛宮的「雙祿交馳」，也吉化大限遷移丑宮，亦相當吉"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_place_太阴",
+        "negated": false,
+        "condition": "丁酉限，太陰化祿在大限命宮，不但是大限命宮及財帛宮互為「雙祿交馳」宮位，也使大限遷移宮成為「雙祿交馳」宮位，甚佳。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_place_贪狼",
+        "negated": false,
+        "condition": "戊戌限，貪狼化祿在大限命宮，不但吉化大限財帛宮也吉化大限遷移宮，故此大限亦佳。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_natal_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_bingshen_tong",
+        "negated": false,
+        "condition": "丙申限，廉貞再度化忌，使得先天及後天的命宮、事業宮及財帛宮均受之沖擊，但天同化祿也來引動先天命宮的吉象，加上大限命宮相當強旺，而下一個大限又吉，故此大限會極端辛勞，但應無妨。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_natal_palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "v2_gui_tan",
+        "negated": false,
+        "condition": "綜合上述武曲在辰坐命的討論，可以得知，癸年生人雖是富貴兼備的命格，但因命宮有貪狼化忌來沖，對命格有所減損"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "雙祿交馳",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Shuang Lu Jiao Chi",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "連祿",
+        "proposed_category": "timing_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Lian Lu",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_甲午",
+        "subject": "甲午限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_乙未",
+        "subject": "乙未限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_丙申",
+        "subject": "丙申限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_丁酉",
+        "subject": "丁酉限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_戊戌",
+        "subject": "戊戌限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "cycle_己亥",
+        "subject": "己亥限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "jiawu_natal",
+        "subject": "先天財帛宮",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "bingshen_natal",
+        "subject": "先天命宮",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "廉贞",
+      "天机",
+      "天同",
+      "太阴",
+      "贪狼",
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫",
+      "官禄宫",
+      "福德宫",
+      "迁移宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化禄",
+        "tiangan": "甲",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_甲午"
+      },
+      {
+        "star": "天机",
+        "transformation": "化禄",
+        "tiangan": "乙",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_乙未"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_丙申"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化禄",
+        "tiangan": "丁",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_丁酉"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化禄",
+        "tiangan": "戊",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_戊戌"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": "己",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_己亥"
+      },
+      {
+        "star": "天同",
+        "transformation": "化禄",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "cycle_丙申"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "tiangan": "癸",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "gui_birth_comparison"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

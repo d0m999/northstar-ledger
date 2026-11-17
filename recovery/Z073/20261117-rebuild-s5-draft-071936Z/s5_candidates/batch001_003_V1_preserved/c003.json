@@ -1,0 +1,793 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c003",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    25,
+    26
+  ],
+  "chunk_text": "武曲五行屬金，金之物性「内聚」，因為「內聚」，所以就較「剛硬」。在談到一個人的個性時，此「剛硬」特質就被引伸為個性較為剛直、強硬，此即先賢認為武曲為「剛毅之宿」的說法來由。因此，武曲坐命者的個性，一般說來較為剛直、強硬，表現在言行上則較為直來直往。同時，也因為武曲的「剛硬」特質，就可據此來解釋古人將武曲視為「將星」的道理所在，因為對一個在戰場上能衝鋒陷陣的戰將，通常要性剛，然後才能勇猛。\n武曲之「將星」作用\n有關武曲為「將星」的說法，在《全集，諸星格局皆取貴論》中有所謂的「將星得地格」，不但有註解如下：「武曲臨旺宫守命是也」，並有詩曰：「將星入廟實為祥，位正官高到處強，掠地攻城多妙等，威風凛凛鎮邊。」但能否單憑武曲坐命的條件，就以「將星」視之？從《全集，諸星格局皆取貴論》的相關解說可以看出，必須是武曲「旺宮」坐命者，始能以「將星」視之。\n武曲在十二地支宮位無弱陷，僅寅申巳亥酉五宮為平宮，其餘皆為旺宮（盤一）。因此就如同紫微一樣，在論及武曲坐入宮位的旺弱時，必須以其三方四正會吉或會煞的多寡來定該宮位之旺弱。故就武曲而言，宮位會吉多而會煞少，較能凸顯其正面作用，反之若是會煞多且會吉少，甚或不會吉，縱使是在旺宮，其在命理的作用仍以負面者居多。\n必須注意的是，武曲在寅申雖為平宮，但和同宮的天相合論，則有武相在寅合為旺宮，而武相在申則合以平宮論。同樣的，武曲在巳亥雖為平宮，但和同宮的破軍合論，則有旺陷之分。即武破在巳合為旺宮，而武破在亥則合以弱陷論。因此，武破在亥坐守，雖然在會多吉星時，同樣會發揮其賦性的正面作用，但其作用就不如武破在巳時來得強，只因一為弱陷一為廟旺故。就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞。\n從上述武曲在十二地支宮位廟旺利陷的說明，可以得知，武曲坐命者，必須在旺宮且會",
+  "chunk_index": 3,
+  "school": "紫微",
+  "content_type": "实战断语",
+  "difficulty": "medium",
+  "summary": "武曲阴金的内聚、刚硬被解释为刚直性格和将星属性。将星得地格须旺宫坐命，不能仅凭坐命断。作者以寅申巳亥酉为平，其余为旺，仍须三方四正吉煞判断；多煞少吉可使旺宫负面。武相寅旺申平，武破巳旺亥陷；亥位多吉仍不如巳强，亥坐命多吉仍辛劳。末句缺后续条件，不用于断语。",
+  "summary_en": "Military Melody’s inward metal quality explains firmness and its general symbolism. Jiang Xing De Di Ge requires strong Life Palace placement, not merely occupying Life. The author treats Yin, Shen, Si, Hai and You as neutral for Military Melody alone, with other positions strong, but requires benefic versus malefic assessment through Three Directions and Four Correct Positions. Military Melody with Heavenly Minister is strong at Yin and neutral at Shen. With Army Breaker it is strong at Si but fallen at Hai. Even with many benefics, the Hai combination is weaker than Si; Hai Life Palace placement remains laborious. The final sentence lacks its remaining condition and is excluded from usable evidence.",
+  "keywords": [
+    "武曲",
+    "将星得地格",
+    "命宫",
+    "三方四正",
+    "武相",
+    "武破",
+    "寅申巳亥",
+    "旺陷",
+    "吉煞"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Jiang Xing De Di Ge",
+    "Life Palace",
+    "Three Directions and Four Correct Positions",
+    "Heavenly Minister",
+    "Army Breaker",
+    "Yin Shen Si Hai",
+    "strong and fallen placements",
+    "benefics and malefics"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 15,
+          "quote": "武曲五行屬金，金之物性「内聚」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 239,
+          "end": 244,
+          "quote": "將星得地格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 374,
+          "end": 405,
+          "quote": "武曲在十二地支宮位無弱陷，僅寅申巳亥酉五宮為平宮，其餘皆為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 556,
+          "end": 564,
+          "quote": "武相在寅合為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 434,
+          "end": 458,
+          "quote": "必須以其三方四正會吉或會煞的多寡來定該宮位之旺弱"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 716,
+          "end": 728,
+          "quote": "此人一輩子還是會較為辛勞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 280,
+          "end": 287,
+          "quote": "位正官高到處強"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "quote": "武曲五行屬金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 413,
+          "end": 419,
+          "quote": "如同紫微一樣"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 546,
+          "end": 551,
+          "quote": "同宮的天相"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 593,
+          "end": 598,
+          "quote": "同宮的破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 89,
+          "end": 97,
+          "quote": "武曲坐命者的個性"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 534,
+          "end": 553,
+          "quote": "武曲在寅申雖為平宮，但和同宮的天相合論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 581,
+          "end": 600,
+          "quote": "武曲在巳亥雖為平宮，但和同宮的破軍合論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "jiangxing",
+        "kind": "conditional",
+        "condition": "必須是武曲「旺宮」坐命者，始能以「將星」視之",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 239,
+          "end": 244,
+          "quote": "將星得地格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "jiangxing",
+        "kind": "conditional",
+        "condition": "必須是武曲「旺宮」坐命者，始能以「將星」視之",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 350,
+          "end": 372,
+          "quote": "必須是武曲「旺宮」坐命者，始能以「將星」視之"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "loc_寅",
+        "kind": "conditional",
+        "condition": "武相在寅合為旺宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 556,
+          "end": 564,
+          "quote": "武相在寅合為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "loc_申",
+        "kind": "conditional",
+        "condition": "武相在申則合以平宮論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 566,
+          "end": 576,
+          "quote": "武相在申則合以平宮論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "loc_巳",
+        "kind": "conditional",
+        "condition": "武破在巳合為旺宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 609,
+          "end": 617,
+          "quote": "武破在巳合為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "loc_亥",
+        "kind": "conditional",
+        "condition": "武破在亥則合以弱陷論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 619,
+          "end": 629,
+          "quote": "武破在亥則合以弱陷論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "hai_life_wu",
+        "kind": "conditional",
+        "condition": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 699,
+          "end": 728,
+          "quote": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "hai_life_po",
+        "kind": "conditional",
+        "condition": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 699,
+          "end": 728,
+          "quote": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "末句止于「必須在旺宮且會」，后续条件缺失；仅前面完整论述可用，非因模型表达难度降资格。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 730,
+        "quote": "武曲五行屬金，金之物性「内聚」，因為「內聚」，所以就較「剛硬」。在談到一個人的個性時，此「剛硬」特質就被引伸為個性較為剛直、強硬，此即先賢認為武曲為「剛毅之宿」的說法來由。因此，武曲坐命者的個性，一般說來較為剛直、強硬，表現在言行上則較為直來直往。同時，也因為武曲的「剛硬」特質，就可據此來解釋古人將武曲視為「將星」的道理所在，因為對一個在戰場上能衝鋒陷陣的戰將，通常要性剛，然後才能勇猛。\n武曲之「將星」作用\n有關武曲為「將星」的說法，在《全集，諸星格局皆取貴論》中有所謂的「將星得地格」，不但有註解如下：「武曲臨旺宫守命是也」，並有詩曰：「將星入廟實為祥，位正官高到處強，掠地攻城多妙等，威風凛凛鎮邊。」但能否單憑武曲坐命的條件，就以「將星」視之？從《全集，諸星格局皆取貴論》的相關解說可以看出，必須是武曲「旺宮」坐命者，始能以「將星」視之。\n武曲在十二地支宮位無弱陷，僅寅申巳亥酉五宮為平宮，其餘皆為旺宮（盤一）。因此就如同紫微一樣，在論及武曲坐入宮位的旺弱時，必須以其三方四正會吉或會煞的多寡來定該宮位之旺弱。故就武曲而言，宮位會吉多而會煞少，較能凸顯其正面作用，反之若是會煞多且會吉少，甚或不會吉，縱使是在旺宮，其在命理的作用仍以負面者居多。\n必須注意的是，武曲在寅申雖為平宮，但和同宮的天相合論，則有武相在寅合為旺宮，而武相在申則合以平宮論。同樣的，武曲在巳亥雖為平宮，但和同宮的破軍合論，則有旺陷之分。即武破在巳合為旺宮，而武破在亥則合以弱陷論。因此，武破在亥坐守，雖然在會多吉星時，同樣會發揮其賦性的正面作用，但其作用就不如武破在巳時來得強，只因一為弱陷一為廟旺故。就是因為弱陷，故武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析",
+      "宫位变化",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "命运总论",
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "三方四正"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "旺宮"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "jiangxing",
+        "negated": false,
+        "condition": "必須是武曲「旺宮」坐命者，始能以「將星」視之"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "寅"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "寅"
+          }
+        ],
+        "scope_id": "loc_寅",
+        "negated": false,
+        "condition": "武相在寅合為旺宮"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "申"
+          }
+        ],
+        "scope_id": "loc_申",
+        "negated": false,
+        "condition": "武相在申則合以平宮論"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "loc_巳",
+        "negated": false,
+        "condition": "武破在巳合為旺宮"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "loc_亥",
+        "negated": false,
+        "condition": "武破在亥則合以弱陷論"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_life_wu",
+        "negated": false,
+        "condition": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_life_po",
+        "negated": false,
+        "condition": "武破在亥坐命者，縱然在會多吉星時，此人一輩子還是會較為辛勞"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "將星得地格",
+        "proposed_category": "pattern",
+        "reason": "词表未注册；原文明确旺宫守命条件，不另造canonical",
+        "english_surface": "Jiang Xing De Di Ge",
+        "scope_id": "jiangxing"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "紫微",
+      "天相",
+      "破军"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": [
+      "武相同宫",
+      "武破同宫"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

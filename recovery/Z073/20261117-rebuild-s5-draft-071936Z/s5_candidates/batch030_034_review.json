@@ -1,0 +1,2759 @@
+{
+  "formal05_written": false,
+  "old05_read": false,
+  "quality_reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "candidate_sha256": "5c334656fcfcc516738e79f4ae639c46b5453ba456da66030aafb117b2bb0a35",
+      "retrieval_status": "limited",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "C033单一明确壬寅大限对象兼容标量同scope；其他多个案例或一般规则/大限语境，scalar null/multiple_values，不称未提及。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "癸酉讨论末句被混排命盘打断，不能完整判断条件结论；保留此前完整理论与两例。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 486,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。此時不論酉宮為財帛宮或福德宮或田宅宮，皆以不利於財論。若為遷移宮，則不但不利於外，亦不利於人際關係。若為事業宮，則以不利於事業論。若酉宮為六親宮位，則不利於親情。若為疾厄宮，則代表肺經方面的健康易有問題（請見後面武曲在疾病的相關解說）。若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康，更有甚者，因七殺在命理上有「主生死」作用，因此往往會造成健康上的嚴重疾病，或者是身體上的重大傷害，但是否會如先賢所說「有因財被劫之凶，煞多橫夭」的現象發生，則須視實際的星曜組合而定，不可遽而斷之。但必須注意的是，若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論（請參閱下節的說明）。\n當武殺在卯酉二宮與火星同度時，若是武曲化祿，則有火來「煉」金的作用，此時不論酉宮為任何事項宮位，皆以吉論。\n例如盤九，武殺在酉有火星同度，己年生人，武曲化祿，此時酉宮不但相當吉，且其吉化作用較之沒有火星同宮時來得更強，因武曲「寡宿」作用由「凶」格轉為「吉」格故。"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 20,
+              "end": 24,
+              "quote": "武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 197,
+              "end": 199,
+              "quote": "七殺"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 10,
+              "end": 12,
+              "quote": "火星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 39,
+              "end": 42,
+              "quote": "財帛宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 46,
+              "quote": "福德宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 47,
+              "end": 50,
+              "quote": "田宅宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.3",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 64,
+              "quote": "遷移宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.4",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 84,
+              "end": 87,
+              "quote": "事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.5",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 118,
+              "quote": "疾厄宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.6",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 152,
+              "end": 154,
+              "quote": "命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c30_chart8",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c30_chart8",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c30_chart8",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c30_chart9",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 409,
+              "end": 486,
+              "quote": "例如盤九，武殺在酉有火星同度，己年生人，武曲化祿，此時酉宮不但相當吉，且其吉化作用較之沒有火星同宮時來得更強，因武曲「寡宿」作用由「凶」格轉為「吉」格故。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c30_chart9",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 409,
+              "end": 486,
+              "quote": "例如盤九，武殺在酉有火星同度，己年生人，武曲化祿，此時酉宮不但相當吉，且其吉化作用較之沒有火星同宮時來得更強，因武曲「寡宿」作用由「凶」格轉為「吉」格故。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c30_chart9",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 409,
+              "end": 486,
+              "quote": "例如盤九，武殺在酉有火星同度，己年生人，武曲化祿，此時酉宮不但相當吉，且其吉化作用較之沒有火星同宮時來得更強，因武曲「寡宿」作用由「凶」格轉為「吉」格故。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c30_jiyou",
+            "kind": "conditional",
+            "condition": "若大限走到己酉限（盤八）",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 297,
+              "end": 343,
+              "quote": "若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c30_jiyou",
+            "kind": "conditional",
+            "condition": "若大限走到己酉限（盤八）",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 297,
+              "end": 343,
+              "quote": "若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 297,
+              "end": 343,
+              "quote": "若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 297,
+              "end": 343,
+              "quote": "若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 297,
+              "end": 343,
+              "quote": "若大限走到己酉限（盤八），武曲化祿，此時武曲由化忌轉為化祿，酉宮由凶格轉為吉格，此大限以吉論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 58,
+              "quote": "皆以不利於財論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 73,
+              "end": 81,
+              "quote": "亦不利於人際關係"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.2",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 89,
+              "end": 96,
+              "quote": "以不利於事業論"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.3",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 133,
+              "quote": "健康易有問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c30_chart9",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 409,
+              "end": 486,
+              "quote": "例如盤九，武殺在酉有火星同度，己年生人，武曲化祿，此時酉宮不但相當吉，且其吉化作用較之沒有火星同宮時來得更強，因武曲「寡宿」作用由「凶」格轉為「吉」格故。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c30_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c30_branch_迁移宫",
+            "kind": "conditional",
+            "condition": "若為遷移宮，則不但不利於外，亦不利於人際關係。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 59,
+              "end": 82,
+              "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c30_branch_迁移宫",
+            "kind": "conditional",
+            "condition": "若為遷移宮，則不但不利於外，亦不利於人際關係。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 59,
+              "end": 82,
+              "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.6",
+          "scope": {
+            "scope_id": "c30_branch_迁移宫",
+            "kind": "conditional",
+            "condition": "若為遷移宮，則不但不利於外，亦不利於人際關係。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 59,
+              "end": 82,
+              "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.7",
+          "scope": {
+            "scope_id": "c30_branch_迁移宫",
+            "kind": "conditional",
+            "condition": "若為遷移宮，則不但不利於外，亦不利於人際關係。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 59,
+              "end": 82,
+              "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.8",
+          "scope": {
+            "scope_id": "c30_branch_官禄宫",
+            "kind": "conditional",
+            "condition": "若為事業宮，則以不利於事業論。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 82,
+              "end": 97,
+              "quote": "若為事業宮，則以不利於事業論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.9",
+          "scope": {
+            "scope_id": "c30_branch_官禄宫",
+            "kind": "conditional",
+            "condition": "若為事業宮，則以不利於事業論。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 82,
+              "end": 97,
+              "quote": "若為事業宮，則以不利於事業論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.10",
+          "scope": {
+            "scope_id": "c30_branch_官禄宫",
+            "kind": "conditional",
+            "condition": "若為事業宮，則以不利於事業論。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 82,
+              "end": 97,
+              "quote": "若為事業宮，則以不利於事業論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.11",
+          "scope": {
+            "scope_id": "c30_branch_官禄宫",
+            "kind": "conditional",
+            "condition": "若為事業宮，則以不利於事業論。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 82,
+              "end": 97,
+              "quote": "若為事業宮，則以不利於事業論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.12",
+          "scope": {
+            "scope_id": "c30_branch_疾厄宫",
+            "kind": "conditional",
+            "condition": "若為疾厄宮，則代表肺經方面的健康易有問題",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 113,
+              "end": 133,
+              "quote": "若為疾厄宮，則代表肺經方面的健康易有問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.13",
+          "scope": {
+            "scope_id": "c30_branch_疾厄宫",
+            "kind": "conditional",
+            "condition": "若為疾厄宮，則代表肺經方面的健康易有問題",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 113,
+              "end": 133,
+              "quote": "若為疾厄宮，則代表肺經方面的健康易有問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.14",
+          "scope": {
+            "scope_id": "c30_branch_疾厄宫",
+            "kind": "conditional",
+            "condition": "若為疾厄宮，則代表肺經方面的健康易有問題",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 113,
+              "end": 133,
+              "quote": "若為疾厄宮，則代表肺經方面的健康易有問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.15",
+          "scope": {
+            "scope_id": "c30_branch_疾厄宫",
+            "kind": "conditional",
+            "condition": "若為疾厄宮，則代表肺經方面的健康易有問題",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 113,
+              "end": 133,
+              "quote": "若為疾厄宮，則代表肺經方面的健康易有問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.16",
+          "scope": {
+            "scope_id": "c30_branch_命宫",
+            "kind": "conditional",
+            "condition": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 150,
+              "end": 190,
+              "quote": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.17",
+          "scope": {
+            "scope_id": "c30_branch_命宫",
+            "kind": "conditional",
+            "condition": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 150,
+              "end": 190,
+              "quote": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.18",
+          "scope": {
+            "scope_id": "c30_branch_命宫",
+            "kind": "conditional",
+            "condition": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 150,
+              "end": 190,
+              "quote": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.19",
+          "scope": {
+            "scope_id": "c30_branch_命宫",
+            "kind": "conditional",
+            "condition": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 32,
+              "quote": "例如盤八，武殺在酉有火星同度，壬年生人，武曲化忌，酉宮就相當凶。"
+            },
+            {
+              "start": 150,
+              "end": 190,
+              "quote": "若為命宮，此時不獨不利於財及親情人際關係，且因酉宮為忌煞交沖宮位，也會不利於健康"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "具体事项宫是假设分支，不能将一个酉宫同时设为七种实际宫位；仅宫名提及，不造多重入宫关系。",
+        "武杀简称由本段武曲与七杀陈述联合确认；尾部破军/贪狼化不能截断后单独提事实。"
+      ],
+      "blocking_issues": [
+        "冻结结构备择不可扁平：盘八酉宫财帛 OR 福德 OR 田宅同一规则，独立若为迁移/事业/疾厄/命分支已补。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c031",
+      "candidate_sha256": "8574810a3f01be80d80474b91771d703ce44611d5e5f8bc01db3090e239e4b80",
+      "retrieval_status": "limited",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "C033单一明确壬寅大限对象兼容标量同scope；其他多个案例或一般规则/大限语境，scalar null/multiple_values，不称未提及。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "前部命盘混排及承前双禄句不能独立使用；保留完整另两宫互动论述。",
+          "usable_spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 216,
+              "end": 564,
+              "quote": "除上述武殺在卯酉二宮與火星同度的情形外，另外有一種狀況也不能忽略，即武曲七殺及火星三星曜分坐兩個不同宮位，但在論及此二宮位的互動時，因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。\n若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。由於命宮為命盤的總樞紐，在論及其他事項宮位的吉凶時，必須以命宮為基礎和該事項宮位合併析論。故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。至於其他事項宮位的用法，依此類推。又，賦文中的火星若改為鈴星，作用亦同。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 310,
+              "end": 342,
+              "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 310,
+              "end": 342,
+              "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 310,
+              "end": 342,
+              "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 310,
+              "end": 342,
+              "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 310,
+              "end": 342,
+              "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 387,
+              "end": 429,
+              "quote": "故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.6",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c31_chart11_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 429,
+              "end": 528,
+              "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮，在論及寅辰二宮的互動時，由於辰宮的武曲已經化忌，致使寅宮火星對武曲產生火剋金的剋害作用，故壬寅限的福德宮之武曲就會因大限寅宮有火星而變得非常凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 387,
+              "end": 429,
+              "quote": "故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c31_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c31_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 387,
+              "end": 429,
+              "quote": "故在論及盤十的田宅宮的吉凶時，此時田宅宮就有前述武曲（化忌）七殺加會火星的凶格作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "盘十七杀加会不证明七杀同命，未在巨门火星同宫记录里加七杀；寅宫没有已命名事项类别，不造入宫canonical。"
+      ],
+      "blocking_issues": [
+        {
+          "evidence": {
+            "start": 282,
+            "end": 309,
+            "quote": "因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。"
+          },
+          "issue": "一般论述化禄或化忌为备择，未将两种转化并发断言；具体两个化忌命例完整表达。",
+          "status": "representation_hold"
+        }
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c032",
+      "candidate_sha256": "189a33c615cd072328476743b668f890209812a5e738868da69759d059438cd0",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "仅该完整图说句可用，其他命盘跨栏混排且解释被图字打断。",
+          "usable_spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c32_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c32_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c32_chart10",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 87,
+              "end": 110,
+              "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c32_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "只有位置事实，不由田宅宫名推财运主题；同宫由并列同一坐命谓词明确，不读周围图栏。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c033",
+      "candidate_sha256": "e3b4616cf0c7469abf2455b490352d2b67bfc00dcc752f9557bbf74e99289391",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "C033单一明确壬寅大限对象兼容标量同scope；其他多个案例或一般规则/大限语境，scalar null/multiple_values，不称未提及。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "仅保留连续清晰图说事实；后续武曲七天梁破军杀混排不能可靠复原。",
+          "usable_spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c33_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c33_chart11",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c33_renyin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 106,
+              "quote": "廉相在子坐命，丁年生人。走到壬寅限，大限命宮有七殺火星坐守，而武曲化忌在大限福德辰宮，"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c33_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "可用跨度末逗号之前三条事实完整；不使用后面受混排破坏的效应句。",
+        "大限命宫地支未直接说寅，只写周期名，不靠周期反推位置。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c034",
+      "candidate_sha256": "bc77e0dbb38af34955fea9a2a74581234314c9d5f1faa0fae450575336a7db2a",
+      "retrieval_status": "eligible",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "C033单一明确壬寅大限对象兼容标量同scope；其他多个案例或一般规则/大限语境，scalar null/multiple_values，不称未提及。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "eligible",
+          "reason": null,
+          "usable_spans": []
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 5,
+              "end": 7,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 222,
+              "end": 224,
+              "quote": "巨門"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 265,
+              "end": 272,
+              "quote": "武曲化權坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c34_favorable",
+            "kind": "conditional",
+            "condition": "旺宮化權且有其他吉星坐會下",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 265,
+              "end": 272,
+              "quote": "武曲化權坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c34_favorable",
+            "kind": "conditional",
+            "condition": "旺宮化權且有其他吉星坐會下",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 93,
+              "end": 109,
+              "quote": "武曲坐命庚年生人，因武曲化權之故"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c34_generic_lu",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 181,
+              "quote": "四化中的化祿除帶有財利作用外，亦代表順暢"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.star",
+          "scope": {
+            "scope_id": "c34_generic_lu",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "c34_cycle",
+            "kind": "conditional",
+            "condition": "旺宮化權且有其他吉星坐會下",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 356,
+              "end": 385,
+              "quote": "上述的武曲化權作用，除武曲坐命外，大限逢之，亦有相同的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c34_cycle",
+            "kind": "conditional",
+            "condition": "旺宮化權且有其他吉星坐會下",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 356,
+              "end": 385,
+              "quote": "上述的武曲化權作用，除武曲坐命外，大限逢之，亦有相同的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 445,
+              "end": 473,
+              "quote": "上述武曲化權的作用必須是旺宮化權且有其他吉星坐會下，始是"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 445,
+              "end": 473,
+              "quote": "上述武曲化權的作用必須是旺宮化權且有其他吉星坐會下，始是"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 476,
+              "end": 563,
+              "quote": "若是武曲化權且無其他吉星，而且又會多煞星，此時命造不但會因化權而顯得過度自信，且自我意識過強，兼之企圖心又大，做起事來會剛愎自用，橫衝直撞，反會更加凸顯出武曲賦性的負面作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 329,
+              "end": 356,
+              "quote": "武曲化權後表現在求財方面，除企圖心較強外，也會較順利。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 15,
+              "end": 27,
+              "quote": "武曲為「將星」、「財星」"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c34_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 329,
+              "end": 356,
+              "quote": "武曲化權後表現在求財方面，除企圖心較強外，也會較順利。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "武曲或巨门的化权效应为可分配的一般规则对象，非同一盘互斥触发：各星化权仅条件提及，不填同宫；独立武曲事实有多处明确支持。",
+        "化禄顺畅是效果类比，未给武曲或巨门另造化禄对象；泛化禄星未知单列null。",
+        "不利化权条件在全文与摘要保留，不把旺宫多吉推为化权必然状态。"
+      ],
+      "blocking_issues": [
+        "冻结结构备择不可扁平：武曲 OR 巨门化权混合条件不得选巨门单条代替；删除不安全巨门四化对象，独立武曲事实保留。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

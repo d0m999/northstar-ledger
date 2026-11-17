@@ -1,0 +1,274 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c141",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    181,
+    182
+  ],
+  "chunk_text": "註五：有關「水星坐入沐浴地」的命理作用說明，皆取材自紫雲先生於一九九五年年底在「創見堂」開授「紫微斗數心法班」的上課內容。\n註六：有關太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，請參閲紫雲著《斗數論子女》（此書於一九九九年由時報出版社出版，後於二0一三年再由武陵出版社出版）書中「子女榮枯-如何分辨子女宮與個別子女的差異」一文，以及紫雲著《從斗數談父母情》（此書於二00一年由時報出版社出版，後於二0一四年再由武陵出版社出版）書中的「尋找劂於每個人唯一的斗數命盤-導讀」及書中相關文章。\n註七：有關命造在婚姻感情上的論斷，請參閲紫雲著《斗數論姻緣》（此書於一九九一年由時報出版社出版，後於二0一年再由武陵出版社出版）書中「寧為單身貴族-從命身格局，談不結婚的命理因素」一文。\n先賢曰：「再此星，不論男女得之，單守於卯，或酉宮，且是庚年干，年支為子午卯酉之生人，必是凶死，或早天，因庚年擎羊在酉，化忌入命之故也。」前已提及，天同在命理的作用會特別顯現在一個人的「壽命」與「健康」方面。凡是天同坐命會多吉星而不會煞星（或會少煞星）者，此人健康情形大概不錯。反之，若天同坐命會多煞星者，恐怕一輩子就易體弱多病。也就是說，天同雖為福星，但不論坐入那一個地支宮位，在會太多忌煞時，反而會特別不利於健康。",
+  "chunk_index": 141,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "书目注释交代沐浴说及太岁、婚姻论述来源，出版年份不作命盘时间。古引文把天同卯酉、庚年和特定年支连到夭亡，作者随后仅说明天同坐命多吉少煞相对有利健康，多忌煞不利；不把传统断语当现实诊断。",
+  "summary_en": "The notes identify teaching and publications behind bathing, Tai Sui and marriage interpretations; publication years are not chart periods. An ancient quotation links Tian Tong at Mao or You, Geng births and selected branches to early death. The author then gives a qualified health interpretation: many benefics with few or no malefics are comparatively favorable, whereas numerous adverse influences are unfavorable. These are traditional claims, not a medical diagnosis.",
+  "keywords": [
+    "太岁宫位",
+    "来源说明"
+  ],
+  "keywords_en": [
+    "Tai Sui position",
+    "source attribution"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c141_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c141_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c141_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 451,
+          "end": 459,
+          "quote": "天同坐命會多吉星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c141_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 398,
+          "end": 404,
+          "quote": "庚年擎羊在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c141_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 451,
+          "end": 459,
+          "quote": "天同坐命會多吉星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c141_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 515,
+          "end": 521,
+          "quote": "天同雖為福星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c141_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 500,
+          "end": 509,
+          "quote": "一輩子就易體弱多病"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c141_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 255,
+          "end": 268,
+          "quote": "有關命造在婚姻感情上的論斷"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c141_general_health",
+        "kind": "case",
+        "condition": "天同坐命會多吉星而不會煞星（或會少煞星）者",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 451,
+          "end": 472,
+          "quote": "天同坐命會多吉星而不會煞星（或會少煞星）者"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c141_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 6,
+          "end": 13,
+          "quote": "水星坐入沐浴地"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c141_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 67,
+          "end": 71,
+          "quote": "太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c141_general_health",
+        "condition": "天同坐命會多吉星而不會煞星（或會少煞星）者",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "水星坐入沐浴地",
+        "proposed_category": "source_teaching",
+        "reason": "来源课程注释不落实未名星曜",
+        "english_surface": "water stars in bathing",
+        "scope_id": "c141_term0"
+      },
+      {
+        "surface": "太歲宮位",
+        "proposed_category": "source_reference",
+        "reason": "文献回指，不推流年",
+        "english_surface": "Tai Sui reference",
+        "scope_id": "c141_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "天同",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "身体健康",
+      "感情姻缘"
+    ]
+  }
+}

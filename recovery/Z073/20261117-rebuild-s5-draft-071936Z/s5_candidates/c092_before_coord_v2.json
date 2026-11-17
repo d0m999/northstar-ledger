@@ -1,0 +1,487 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c092",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    119,
+    120
+  ],
+  "chunk_text": "當破軍文昌同宮時，因為文昌五行屬陰金，故破軍文昌的組合較破軍文曲就來得佳，因金水相生故。由於星曜五行屬金者，性較剛毅，再加上金水相生，故破軍得文昌同宮時，雖然想得多，但也做得多，此時若是有其他吉化，特別是坐會左輔右弼時，不但想得多做得多，且能持續做下去，因此就能做出成果。但若是破軍文昌同宮而無其他吉化，雖然想得多也做多，但因破軍五行屬水，水性波動，容易想到什麽就去做什麽，但卻無法持久，以致看起來非常忙碌，但卻不易做出成果，此即「破軍文昌主勞碌」的命理作用。至於破軍文昌主刑剋作用，請參閱「與破軍同度，破祖喪家」一節的相關解說。同樣的，上述「破軍文昌主勞碌刑剋」的作用，必須是此二星同宮時始是，若是此二星三合來會，就不做此論。\n至於先賢註解中的最後二句話，「若武曲與破軍分處於弱宮，有傾敗之危也」，是指當武曲與破軍分別坐入陷弱宮位，此時賦性作用呈現出來以負面者居多，則前述武破昌曲組合的負面作用會被凸顯出來，因此若不謹慎行事，恐有傾倒破敗的危險，即運好時則發，運不好時則敗，一生起伏大。\n",
+  "chunk_index": 92,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者以文昌阴金生破军阴水说明同宫时想得多也做得多；有吉化尤其左右支持可持久成事，无吉化则易忙而无果。劳碌刑克解释只限同宫，不适用于三合会照。武曲破军分居弱宫时负面作用加重，仍须谨慎行事并看运限，不作为必败断语。",
+  "summary_en": "Wen Chang’s Yin Metal generating Po Jun’s Yin Water is used to explain thought paired with action when the two share a palace. Benefic support, especially Zuo Fu and You Bi, can sustain results; without it, activity may be erratic and unproductive. The labor and affliction reading applies to colocation, not a trine meeting. Wu Qu and Po Jun occupying separate weak palaces accentuate adverse traits, with outcomes depending on care and favorable or unfavorable periods rather than certain failure.",
+  "keywords": [
+    "破军文昌",
+    "同宫",
+    "金水相生",
+    "左辅右弼",
+    "弱宫"
+  ],
+  "keywords_en": [
+    "Po Jun and Wen Chang",
+    "colocation",
+    "Metal generates Water",
+    "Zuo Fu and You Bi",
+    "weak palaces"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 1,
+          "end": 3,
+          "quote": "破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 3,
+          "end": 5,
+          "quote": "文昌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 32,
+          "quote": "文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 104,
+          "end": 106,
+          "quote": "左輔"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 108,
+          "quote": "右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 331,
+          "end": 333,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c92_same",
+        "kind": "conditional",
+        "condition": "當破軍文昌同宮時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "quote": "當破軍文昌同宮時"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c92_split",
+        "kind": "conditional",
+        "condition": "當武曲與破軍分別坐入陷弱宮位",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 352,
+          "end": 366,
+          "quote": "當武曲與破軍分別坐入陷弱宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 108,
+          "quote": "坐會左輔右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 37,
+          "end": 43,
+          "quote": "因金水相生故"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 11,
+          "end": 18,
+          "quote": "文昌五行屬陰金"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 298,
+          "end": 313,
+          "quote": "若是此二星三合來會，就不做此論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 127,
+          "end": 135,
+          "quote": "因此就能做出成果"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 438,
+          "end": 443,
+          "quote": "一生起伏大"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c92_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "命运总论"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c92_same",
+        "negated": false,
+        "condition": "當破軍文昌同宮時"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c92_split",
+        "negated": true,
+        "condition": "當武曲與破軍分別坐入陷弱宮位"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "金水相生",
+        "proposed_category": "source_mechanism",
+        "reason": "五行非四化，不虚构影响type。",
+        "english_surface": "Metal generates Water",
+        "scope_id": "c92_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "破军",
+      "文昌",
+      "文曲",
+      "左辅",
+      "右弼",
+      "武曲"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "左辅右弼"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

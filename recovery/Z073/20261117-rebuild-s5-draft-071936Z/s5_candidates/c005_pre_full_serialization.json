@@ -1,0 +1,244 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c005",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    28,
+    29,
+    30
+  ],
+  "chunk_text": "《全書，諸星入命身限吉凶訣》曰：「武曲性剛果決，心直無毒，形小聲高而量大。」有關武曲坐命者的個性及外貌的描述除上述賦文外，《全集，形性賦》亦有「武曲貪狼，形小聲高而量大」的說法，而先賢於此則有如下的敘述：「入命主為人少年面青白色，或青黑色，老年青黃色，體型中矮而壯碩，面方圓而聲量宏火，性剛心直，氣量寬宏。」根據作者論命觀察所得，不論是任何星曜坐命者，只要是在旺宮且會多吉星時，身材通常較為高大，但若是命宮星曜弱陷時，就會顯得較瘦弱。不僅如此，若是旺宮坐命但會多煞星時，身材也會顯得較瘦弱。\n因此，武曲坐命者，若是在旺宮且會吉多而會煞少（甚或不會煞）時，其人身材一樣會較高大。但若不是如此，則因武曲五行屬金，而金之物性「内聚」，故若據此來論武曲坐命者的體型時，通常會偏向中等身材或較矮小，但卻顯得較為結實、壯碩。但實際上是否如此？仍須視坐守宮位的旺弱吉凶而定。\n通常在談到一個人說話聲音宏亮與否，須視其肺活量大小而定。肺活量大者，說話聲音會較為宏亮，反之則顯得中氣不足，或是說話音量較小。\n京宏亮與否。武曲坐命若是旺宮且會多吉星者，其人說話聲音就較宏亮，若是旺宮不會吉或是陷宮者，其人說話音量就較小，若是會煞多且會吉少（甚或不會吉）者，往往說話會顯得中氣不足或是聲音反而較為沙啞。\n至於武曲坐命者的個性較為「性剛心直」之說，已如前述，就不再說明。另外，先賢認為武曲坐命者「氣量寬宏」之說，僅在坐守宮位旺且會多吉星的情形下始是，若是在會煞多且會吉少，甚或不會吉時，因金之物性「内聚」，反主其人氣量狹小。\n最後，再談到武曲坐命者的膚色及臉型。從金代表白色，也許可以對先賢為什麽會認為武曲坐命者「少年面青白色」部份做一說明。前已述及，從五行所屬顏色，來論斷一個人膚色的說法，只能做個參考，不可據以斷之，在此亦不例外。另外，據作者論命觀察所得，武曲坐命者的下額通常較為寬廣有稜角，但其臉型是否會如先賢所說的「面方圓」，則須視實際星曜組合而定。\n",
+  "chunk_index": 5,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者对古赋武曲坐命的体貌性格说法加以限定：旺宫多吉与弱陷、多煞的身材、音量和气量表现不同；金性内聚用于解释体型，肤色推断只能参考，脸型须看实际组合。保留「京宏亮與否」缺文及「宏火」疑字，不当作医学结论。",
+  "summary_en": "The author qualifies classical descriptions of Wu Qu (Military Melody) in the Life Palace, including a quotation mentioning Tan Lang (Greedy Wolf). Stature, voice and generosity depend on palace strength and auspicious or adverse stars. Metal inwardness is used to explain physique; element-based skin-color claims are only a reference, and facial shape depends on the actual configuration. Source OCR defects remain; these are astrological claims, not medical findings.",
+  "keywords": [
+    "武曲",
+    "星曜性质",
+    "贪狼",
+    "命宫",
+    "体貌",
+    "旺弱吉凶"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Military Melody",
+    "star characteristics",
+    "Tan Lang",
+    "Greedy Wolf",
+    "Life Palace",
+    "physique",
+    "palace strength"
+  ],
+  "topic": null,
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "knowledge_domain": "星曜性质",
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "time_context": null,
+    "time_mentions": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c5_author",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "五行",
+        "proposed_category": "analysis_method",
+        "reason": "本段明确以五行属性/生克解释星性；冻结紫微analysis_methods只有三方四正、四化分析、格局分析，不强塞近似方法。",
+        "english_surface": "five-element reasoning",
+        "scope_id": "c5_author"
+      }
+    ]
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 38,
+          "end": 54,
+          "quote": "有關武曲坐命者的個性及外貌的描述"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 38,
+          "end": 54,
+          "quote": "有關武曲坐命者的個性及外貌的描述"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 38,
+          "end": 54,
+          "quote": "有關武曲坐命者的個性及外貌的描述"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c5_classical",
+        "kind": "rule",
+        "attribution": "《全集，形性賦》"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 88,
+          "quote": "《全集，形性賦》亦有「武曲貪狼，形小聲高而量大」的說法"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 40,
+          "end": 45,
+          "quote": "武曲坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 40,
+          "end": 45,
+          "quote": "武曲坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c5_author",
+        "kind": "concept",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 296,
+          "end": 313,
+          "quote": "因武曲五行屬金，而金之物性「内聚」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used"
+    }
+  ],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "中段「京宏亮與否」为缺文残句；其他完整论述可用，「宏火」疑字原样保留并不据其单独推断。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 445,
+        "quote": "《全書，諸星入命身限吉凶訣》曰：「武曲性剛果決，心直無毒，形小聲高而量大。」有關武曲坐命者的個性及外貌的描述除上述賦文外，《全集，形性賦》亦有「武曲貪狼，形小聲高而量大」的說法，而先賢於此則有如下的敘述：「入命主為人少年面青白色，或青黑色，老年青黃色，體型中矮而壯碩，面方圓而聲量宏火，性剛心直，氣量寬宏。」根據作者論命觀察所得，不論是任何星曜坐命者，只要是在旺宮且會多吉星時，身材通常較為高大，但若是命宮星曜弱陷時，就會顯得較瘦弱。不僅如此，若是旺宮坐命但會多煞星時，身材也會顯得較瘦弱。\n因此，武曲坐命者，若是在旺宮且會吉多而會煞少（甚或不會煞）時，其人身材一樣會較高大。但若不是如此，則因武曲五行屬金，而金之物性「内聚」，故若據此來論武曲坐命者的體型時，通常會偏向中等身材或較矮小，但卻顯得較為結實、壯碩。但實際上是否如此？仍須視坐守宮位的旺弱吉凶而定。\n通常在談到一個人說話聲音宏亮與否，須視其肺活量大小而定。肺活量大者，說話聲音會較為宏亮，反之則顯得中氣不足，或是說話音量較小。\n"
+      },
+      {
+        "start": 451,
+        "end": 818,
+        "quote": "武曲坐命若是旺宮且會多吉星者，其人說話聲音就較宏亮，若是旺宮不會吉或是陷宮者，其人說話音量就較小，若是會煞多且會吉少（甚或不會吉）者，往往說話會顯得中氣不足或是聲音反而較為沙啞。\n至於武曲坐命者的個性較為「性剛心直」之說，已如前述，就不再說明。另外，先賢認為武曲坐命者「氣量寬宏」之說，僅在坐守宮位旺且會多吉星的情形下始是，若是在會煞多且會吉少，甚或不會吉時，因金之物性「内聚」，反主其人氣量狹小。\n最後，再談到武曲坐命者的膚色及臉型。從金代表白色，也許可以對先賢為什麽會認為武曲坐命者「少年面青白色」部份做一說明。前已述及，從五行所屬顏色，來論斷一個人膚色的說法，只能做個參考，不可據以斷之，在此亦不例外。另外，據作者論命觀察所得，武曲坐命者的下額通常較為寬廣有稜角，但其臉型是否會如先賢所說的「面方圓」，則須視實際星曜組合而定。\n"
+      }
+    ]
+  }
+}

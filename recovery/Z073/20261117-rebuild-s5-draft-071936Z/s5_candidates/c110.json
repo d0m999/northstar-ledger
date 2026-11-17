@@ -1,0 +1,1294 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c110",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    139
+  ],
+  "chunk_text": "曲和鈴星及文昌同宮，逢壬干大限，武曲化忌，此時只要流年的陀羅再進入戌宮的三方四正，即逢流年天干為乙、丙、戊、壬時，此一流年就構成「鈴昌陀武」凶格，故此流年以凶論。惟須注意的是，在上述天干為乙、丙、戊、壬的流年中，以丙年跟壬年較凶，除因流年陀羅分別坐入辰宮與戌宮引動流年的「鈴昌陀武」凶格外，丙干另有廉貞化忌並流年擎羊沖戌宮，而壬年則因流年導致武曲再度化忌，故此二流年皆相當凶。至於丙年與壬年何者較凶，須視實際星曜組合及所論事項而定，卻不能如賦文所言，只因戌宮為地網，逢壬流年，流陀在戌與三星同宮，就一定「更凶」，甚至是「必死無疑」。\n最後必須要注意的是，若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論。例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格，但因在論及流年的吉凶時須以大限為基礎，由於大限吉，故此一流年的凶象就較小。\n",
+  "chunk_index": 110,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者比较丙、壬流年，陀罗分入辰、戌引铃昌陀武，丙年廉贞忌加流羊冲戌，壬年武曲再忌；谁更凶仍须实际组合和事项，不能仅地网断必死。又论大限禄可减流年忌之凶：假设盘三十三为乙年女命，己丑限武曲禄，遇壬流年武曲忌成凶格，但大限吉，年凶较小。",
+  "summary_en": "The author compares Bing and Ren years: annual Tuo Luo at Chen and Xu respectively activates Ling Chang Tuo Wu, with Lian Zhen Hua Ji and Qing Yang in Bing, and renewed Wu Qu Hua Ji in Ren. Relative severity depends on actual combinations and the issue, not an inevitable death prediction based on Xu. A favorable grand cycle can reduce annual adversity. In the hypothetical female version of Chart Thirty-Three, a Yi-year birth proceeds to Ji Chou with Wu Qu Hua Lu; Ren-year Wu Qu Hua Ji forms the adverse pattern, but its severity is reduced by the favorable grand cycle.",
+  "keywords": [
+    "铃昌陀武",
+    "丙流年",
+    "壬流年",
+    "武曲化忌",
+    "廉贞化忌",
+    "己丑大限",
+    "武曲化禄"
+  ],
+  "keywords_en": [
+    "Ling Chang Tuo Wu",
+    "Bing annual",
+    "Ren annual",
+    "Wu Qu Hua Ji",
+    "Lian Zhen Hua Ji",
+    "Ji Chou grand cycle",
+    "Wu Qu Hua Lu"
+  ],
+  "topic": "命运总论",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 153,
+          "quote": "丙干另有廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 132,
+          "end": 143,
+          "quote": "流年的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 130,
+          "quote": "流年陀羅分別坐入辰宮與戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 153,
+          "quote": "丙干另有廉貞化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 154,
+          "end": 161,
+          "quote": "流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 446,
+          "end": 451,
+          "quote": "凶象就較小"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "bing_annual",
+        "kind": "conditional",
+        "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 161,
+          "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "bing_annual",
+        "kind": "conditional",
+        "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 161,
+          "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "bing_annual",
+        "kind": "conditional",
+        "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 161,
+          "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "bing_annual",
+        "kind": "conditional",
+        "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 161,
+          "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "bing_annual",
+        "kind": "conditional",
+        "condition": "丙干另有廉貞化忌並流年擎羊沖戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 161,
+          "quote": "丙干另有廉貞化忌並流年擎羊沖戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "ren_annual",
+        "kind": "conditional",
+        "condition": "壬年則因流年導致武曲再度化忌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "ren_annual",
+        "kind": "conditional",
+        "condition": "壬年則因流年導致武曲再度化忌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "ren_annual",
+        "kind": "conditional",
+        "condition": "壬年則因流年導致武曲再度化忌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "ren_annual",
+        "kind": "conditional",
+        "condition": "壬年則因流年導致武曲再度化忌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "ren_annual",
+        "kind": "conditional",
+        "condition": "壬年則因流年導致武曲再度化忌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 163,
+          "end": 177,
+          "quote": "壬年則因流年導致武曲再度化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.tiangan",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.palace",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.source_palace",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.target_palace",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.tiangan",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.palace",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.source_palace",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.target_palace",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "generic_grand",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.3",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "generic_annual",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "generic_trigger",
+        "kind": "conditional",
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 331,
+          "quote": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "female_jichou",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 376,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.palace",
+      "scope": {
+        "scope_id": "female_jichou",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 376,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.source_palace",
+      "scope": {
+        "scope_id": "female_jichou",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 376,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.target_palace",
+      "scope": {
+        "scope_id": "female_jichou",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 376,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.4",
+      "scope": {
+        "scope_id": "female_jichou",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 376,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.palace",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.source_palace",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.target_palace",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.5",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.1",
+      "scope": {
+        "scope_id": "female_ren",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "female_ren_trigger",
+        "kind": "conditional",
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 332,
+          "end": 414,
+          "quote": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 230,
+          "end": 232,
+          "quote": "地網"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 446,
+          "end": 451,
+          "quote": "凶象就較小"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "首句承上且起于曲，缺完整主语背景；以惟须注意起完整比较及后段女命假设为可用，不补盘三十四。",
+    "usable_spans": [
+      {
+        "start": 81,
+        "end": 453,
+        "quote": "惟須注意的是，在上述天干為乙、丙、戊、壬的流年中，以丙年跟壬年較凶，除因流年陀羅分別坐入辰宮與戌宮引動流年的「鈴昌陀武」凶格外，丙干另有廉貞化忌並流年擎羊沖戌宮，而壬年則因流年導致武曲再度化忌，故此二流年皆相當凶。至於丙年與壬年何者較凶，須視實際星曜組合及所論事項而定，卻不能如賦文所言，只因戌宮為地網，逢壬流年，流陀在戌與三星同宮，就一定「更凶」，甚至是「必死無疑」。\n最後必須要注意的是，若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論。例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格，但因在論及流年的吉凶時須以大限為基礎，由於大限吉，故此一流年的凶象就較小。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "pattern",
+            "name": "铃昌陀武",
+            "role": "affected",
+            "location": null
+          }
+        ],
+        "scope_id": "generic_trigger",
+        "negated": false,
+        "condition": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "pattern",
+            "name": "铃昌陀武",
+            "role": "affected",
+            "location": null
+          }
+        ],
+        "scope_id": "female_ren_trigger",
+        "negated": false,
+        "condition": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "地網",
+        "proposed_category": "branch_symbol",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Di Wang",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "流年",
+        "scope_id": "bing_annual",
+        "subject": "丙年",
+        "chart_type": null
+      },
+      {
+        "time_context": "流年",
+        "scope_id": "ren_annual",
+        "subject": "壬年",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "generic_grand",
+        "subject": "大限武曲化禄",
+        "chart_type": null
+      },
+      {
+        "time_context": "流年",
+        "scope_id": "generic_annual",
+        "subject": "某一流年武曲化忌",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "female_jichou",
+        "subject": "盘三十三假设乙年女命己丑限",
+        "chart_type": null
+      },
+      {
+        "time_context": "流年",
+        "scope_id": "female_ren",
+        "subject": "盘三十三假设女命壬年",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "陀罗",
+      "廉贞",
+      "擎羊",
+      "武曲"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "bing_annual"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "ren_annual"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "generic_grand"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "generic_annual"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": "己",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "female_jichou"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "female_ren"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": "成格",
+        "evidence": "若是大限已逢武曲化祿，而在某一流年因武曲化忌，形成流年的「鈴昌陀武」凶格，則此一流年雖不佳，卻不一定就以凶論"
+      },
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": "成格",
+        "evidence": "例如盤三十三的命造若為女命，則因乙年女命的限運為順行，走到己丑限，武曲化祿，此大限以吉論。此時若逢天干為壬的流年，武曲由化祿轉為化忌，造成此一流年為「鈴昌陀武」凶格"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

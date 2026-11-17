@@ -1,0 +1,271 @@
+{
+  "task": "Independent full-text and all-field six-axis review C055-C064 V1",
+  "snapshot_policy": "Candidates copied byte-for-byte before any review reading. Report hashes bind immutable snapshot, never active file rereads. Later author revisions require V2.",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c055",
+      "candidate_sha256": "92f960935e5ffe1c872b20799ca133d3ad34e73fdf05a3c24f81a86003e9fa44",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c055.json",
+      "decision": "return",
+      "required_findings": [
+        "可表达遗漏：原文明确左輔右弼，对星字段全空，应补合法左辅右弼提及证据，保持命或身会照条件、不转同宫。昌曲魁钺集合是否可规范单星须循显式词典，不能仅以未注册集合替代已明确左辅右弼。",
+        "贪狼化忌及亥命作用、三合不是同宫、癸出生不当流年、未指名化禄null星可接受；末段OR支持不强定宫位。英文保例外充分。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c056",
+      "candidate_sha256": "42fc66e14dcab72bee9c5154c318867bbb35f9fee4c17620c34a1651686b6e63",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c056.json",
+      "decision": "return",
+      "required_findings": [
+        "补实际格局分析方法，引用不同上格与旺宫条件正用于判格，不应仅四化分析。",
+        "relations.1对宫证据197–218省主语武曲，应扩大至170起同段，明确原武曲独坐条件。",
+        "魁钺夹命是明确夹辅结构；请核词典显式简称映射，若可规范则保辰癸完整条件及夹辅关系，不因没有左右具体位置而完全省关系；若无合法别名须明确具体表示缺口。",
+        "甲丑三合科权禄可保unknown星，来源年甲明确需补tiangan或说明为何ambiguous；辰甲科禄加会被遗漏，应另scope保泛四化，不补星。双禄不都强判化禄。",
+        "丑未、辰戌位置集合不应塞scalar，现null正确，但须登记位置集合hold；晚段丙辰残句排除合理。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c057",
+      "candidate_sha256": "450903f7009a599655258a96d53e42c9187a0e2cebf5a02e41a5bf35fbd73fa8",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c057.json",
+      "decision": "return",
+      "required_findings": [
+        "relations.3/4均给武曲location丑，但各自quote129–156和192–227无丑；加同scope86–129前提证据，不能仅condition字符串代替位置原句证据。",
+        "甲年三化、三奇成格、天魁丑坐命与天钺未不强填宫、残首排除及双语基本接受。概念演示结合盘十八可保概念解释。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c058",
+      "candidate_sha256": "01dcde45e11133249c7cd2ebe6bba89ce5924255b441d20562456ec45ffbfc83",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c058.json",
+      "decision": "return_expressible_fixes_hold_unchanged",
+      "required_findings": [
+        "保现多大限ORhold，但补丁丑至丁卯三限整体time对象，不拆每限配太阴/天同。先天命宫明确也应有本命时间对象，不与大限同scope广播。",
+        "戊辰明确当限贪狼化禄、天机化忌，庚午武曲权/太阳禄/天同忌可审补对应来源戊/庚；太阳忌不能因出现在庚午段强给庚。",
+        "羊陀夹忌用于强旺制凶分析，方法补格局分析；双禄交驰保未注册来源术语。",
+        "现吉辅未误作夹辅，只有明确天同太阳忌夹制用夹辅；本命/大限affected角色有区别，真实混排排除合理。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c059",
+      "candidate_sha256": "ee18cb1b4b8873739187c28f8e4eb3bf691b0479f9d56cd124739b3163ba8e89",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c059.json",
+      "decision": "return_expressible_fixes_hold_unchanged",
+      "required_findings": [
+        "补丁丑至丁卯三限整体time及先天田宅本命对象，保持OR化禄星与分配hold。",
+        "原文明确杀破狼组合且解释变动开创，却无注册杀破狼提及；可formation_status null（非据此断本例满足注册三方成格），usage讨论。日月照壁分析应补格局分析方法。",
+        "明确戊辰贪狼禄、己巳武曲禄来源可补戊/己；廉贞禄不能因与己巳同句就定己。",
+        "紫微章回指可mentioned，不宜推实际紫府夹命。夹辅与吉辅作用现区分正确，未宫借照未冒实体入住，申/未来源差异保留不修原文。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c060",
+      "candidate_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c060.json",
+      "decision": "return_expressible_fixes_hold_unchanged",
+      "required_findings": [
+        "原文泛化禄（五限）、泛化忌（女命）明确，不指定化星，应该可用star=null并独立not_mentioned证据保提及；OR阻塞在单/双数量、先后天及各限分配，不等于泛四化本身不可表达。",
+        "既以连珠/连忌格局机制分析财富与反例，应补格局分析方法；time已有整体五限/女命范围不强拆，可接受。原文先后天OR继续hold，不编本命确定实际对象。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c061",
+      "candidate_sha256": "2f347ecee9314edf7919d113338a4264ebc7f6538d4537a0ab2b5501f86f553d",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c061.json",
+      "decision": "return",
+      "required_findings": [
+        "日月反背是冻结注册格局，原文明确讨论却patterns空，应补该名称及原句usage讨论；不机械根据注册描述反推成格/破格（本段作者称虽反背亦无妨）。",
+        "其余四化来源庚、三星夹辅与作用、未宫与同宫证据、局部OCR、未完癸限不补结果均接受。英文若补关键词Ri Yue Fan Bei可保来源术语。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c062",
+      "candidate_sha256": "dce5b52e5f91237fc9f8ffbe5a1ff035de859290a78a15e6d98ca6a5e1494c73",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c062.json",
+      "decision": "return_expressible_fixes_hold_unchanged",
+      "required_findings": [
+        "同C059：补丁丑至丁卯三限整体time及先天田宅/先天命本命对象；保OR未指定分配hold。",
+        "杀破狼明确讨论需注册提及非强成格；日月照壁分析补格局方法。",
+        "同C058/059明确当限来源可补庚/戊/己到各真正当限四化，勿误将太阳忌或廉贞禄都套当前限干。",
+        "完整段四化作用角色区分先后天且吉辅不冒夹辅可接受；残首排除、借照不改实体星位、英文条件可接受。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c063",
+      "candidate_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c063.json",
+      "decision": "return_expressible_fixes_hold_unchanged",
+      "required_findings": [
+        "同C060但独立全文核对：补五限泛化禄及女命泛化忌的null星提及，未知化曜不同于OR已知星备择；不构造任一具体限与先后天分配。",
+        "补实际格局分析方法；整体时间范围与OR分配hold保留，双语主旨及女命反例完整。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c064",
+      "candidate_sha256": "bab345982679afeac7799c39c162f5c046e0b00f53010724f27b8c75d5c7d8ce",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V1/c064.json",
+      "decision": "return",
+      "required_findings": [
+        "同C061：日月反背是已注册名称，应补讨论级格局提及，不无据成/破格。",
+        "caption连珠可作为未注册术语保原证据，既纳入usable不应只摘要提及后完全漏来源术语。",
+        "首部未宫证据来自明确后句非应来猜字；caption武食不补贪狼、混排排除、未完癸限不补均接受。"
+      ],
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "全文及全部字段已逐文审读，具体遗漏见required_findings",
+        "binding": "所有关系参与者/位置/condition逐条核，57证据位置补强、56主语补强；OR不能平铺事实",
+        "time": "出生年不当流年；大限与先天对象分离、整体范围与分配区别见具体项",
+        "content_type": "55/58/61/64案例；56/57/59/60/62/63理论与演示主旨可接受",
+        "english": "已对照全文阅读，中英均保主要条件和未完片段限制；注册术语锚点可随补项补充",
+        "source_quality": "逐文核可读范围，未以ORhold降低资格，残首/断尾/混排确实存在"
+      },
+      "retrieval_eligibility": "limited"
+    }
+  ],
+  "human_acceptance": false,
+  "candidate_files_modified": false,
+  "old05_read": false,
+  "whole_source_S5_complete": false
+}

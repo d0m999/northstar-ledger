@@ -1,0 +1,20 @@
+[
+  {
+    "chunk": 39,
+    "old_sha256": "75a44a21ce203c72b5c481768ff28f5ad03b86cb126b60258538466abd256455",
+    "new_sha256": "71725726e79695972dc32541dacc69d4123726b63d15d0d97a850bc2219e1ce6",
+    "validation": "passed"
+  },
+  {
+    "chunk": 40,
+    "old_sha256": "5e188befe082a375cfa7086cb28c199f6e48e6aec5b0469edd7dca3849cb3914",
+    "new_sha256": "adddfb754ac5c402427515f2b2e3dae0c95ae20b7deeb08a4431dc189eec0a08",
+    "validation": "passed"
+  },
+  {
+    "chunk": 43,
+    "old_sha256": "6968f5d722c84803c692ba051f25ffa7a19119cd689c61f6995cd30c8887913d",
+    "new_sha256": "3587990616f56a46ff6159e173f36efdfe751d2c22611f43c06daac7cdc24acc",
+    "validation": "passed"
+  }
+]

@@ -1,0 +1,605 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c010",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    33,
+    34
+  ],
+  "chunk_text": "武曲火星為寡宿凶格\n前已一再提及，星曜居旺宮時，較能凸顯其賦性的正面作用，此時若再會多吉星，更加能發揮此正面作用，不僅如此，若是星曜五行又是相生，則就更能充份發揮其正面作用。也就是說，星曜只有在旺宮會吉且又相生時，始能完全彰顯出其賦性的正面作用。反之，若是星曜在陷宮相剋且又會多煞星時，最會凸顯出其賦性的負面作用。\n當武曲會合火星時，除因火星的煞星作用，會凸顯出武曲賦性的負面作用外，更因火星五行屬火，火來剋（武曲）金，會更加重武曲一星不利於婚姻感情及親情人際關係的作用，此時若再會少吉星（甚或不會吉星），則恐易如先賢所說的「女命不喜，加火星，金被火破，多婚姻不美滿」，但是否會「早則生離，遲至中年，多作寡婦論」，則須視實際星曜組合的吉凶旺弱及配偶的個別差異，始能論斷。另外，因鈴星和火星為成對的星曜，且鈴星五行亦屬火，故武曲會合鈴星時，亦有類似的作用。\n必須注意的是，武曲與火星本質上相剋，若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙，但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶，此時不僅不利於人際親情，且因武曲為財帛主，亦不利於求財。但若是武曲化祿，則武曲火星成為火「煉」金，不但無礙於人際親情，且亦利於求財。惟因武曲化祿加會火星仍嫌太過陽剛，因此在談及女命的婚姻和感情時，除非配偶的個性較為柔弱或對之能多所忍讓，否則終究是美中不足，此即《全書，女命各論》所說的「武曲之星為寡宿，宜男不宜女，若夫星荏弱，則婦奪夫權方免刑剋。若是夫婿乃為性剛之人，則兩剛相敵必主刑剋而生離」之所由來。賦文中的荏弱，意即軟弱、柔弱。\n",
+  "chunk_index": 10,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "hard",
+  "summary": "作者将武曲会火星或铃星的不利作用，与旺弱、吉煞和化忌引动区分；无化忌未必大碍，武曲化忌引动则凶，化禄则火炼金、有利求财，但女性婚姻仍须考虑配偶性格和忍让。早离或中年丧偶不能只凭组合径断。",
+  "summary_en": "The author distinguishes Wu Qu with Huo Xing or Ling Xing by palace strength, auspicious support and Hua Ji activation. Without Hua Ji, difficulty need not become severe; Wu Qu Hua Ji aggravates harm, while Wu Qu Hua Lu changes Fire overcoming Metal into refining Metal and can favor wealth. Female marriage claims still depend on spouse temperament and tolerance. Early separation or middle-age widowhood cannot be concluded from the combination alone.",
+  "keywords": [
+    "武曲",
+    "火星",
+    "铃星",
+    "化忌",
+    "化禄",
+    "婚姻",
+    "求财",
+    "寡宿"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Huo Xing",
+    "Ling Xing",
+    "Hua Ji",
+    "Hua Lu",
+    "marriage",
+    "wealth",
+    "Gua Su"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 2,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 2,
+          "end": 4,
+          "quote": "火星"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 339,
+          "end": 341,
+          "quote": "鈴星"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 421,
+          "end": 463,
+          "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 421,
+          "end": 463,
+          "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 421,
+          "end": 463,
+          "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 221,
+          "end": 225,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 471,
+          "end": 475,
+          "quote": "人際親情"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 489,
+          "end": 491,
+          "quote": "求財"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 396,
+          "end": 463,
+          "quote": "若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙，但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c10_ji",
+        "kind": "conditional",
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 421,
+          "end": 463,
+          "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c10_ji",
+        "kind": "conditional",
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c10_ji",
+        "kind": "conditional",
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 421,
+          "end": 463,
+          "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c10_lu",
+        "kind": "conditional",
+        "condition": "若是武曲化祿",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 492,
+          "end": 530,
+          "quote": "但若是武曲化祿，則武曲火星成為火「煉」金，不但無礙於人際親情，且亦利於求財。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c10_lu",
+        "kind": "conditional",
+        "condition": "若是武曲化祿",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 492,
+          "end": 530,
+          "quote": "但若是武曲化祿，則武曲火星成為火「煉」金，不但無礙於人際親情，且亦利於求財。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c10_ji",
+        "kind": "conditional",
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 378,
+          "end": 463,
+          "quote": "必須注意的是，武曲與火星本質上相剋，若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙，但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c10_ji",
+        "kind": "conditional",
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 446,
+          "end": 458,
+          "quote": "則成為正格的「寡宿」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 87,
+          "quote": "若是星曜五行又是相生，則就更能充份發揮其正面作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c10_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "人际关系",
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "affected_counterpart",
+            "location": null
+          }
+        ],
+        "scope_id": "c10_lu",
+        "negated": false,
+        "condition": "若是武曲化祿"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "interacting_star",
+            "location": null
+          }
+        ],
+        "scope_id": "c10_ji",
+        "negated": false,
+        "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern",
+        "reason": "本段对武曲火星的凶格命名，非小星寡宿，未等同孤寡格。",
+        "english_surface": "Gua Su adverse configuration",
+        "scope_id": "c10_ji"
+      },
+      {
+        "surface": "五行",
+        "proposed_category": "analysis_method",
+        "reason": "五行相生相克推理，未强塞其他已注册方法。",
+        "english_surface": "five-element reasoning",
+        "scope_id": "c10_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "火星",
+      "铃星"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c10_ji"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c10_ji"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c10_lu"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

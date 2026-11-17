@@ -1,0 +1,189 @@
+{
+  "task": "New293 C035–039 S5 author batch",
+  "old_labels_read": false,
+  "schema_modified": false,
+  "formal_05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c035",
+      "candidate_sha256": "0b32929e540dd296e85681e75a24cf8b00139916e11afc1da1cd61b7da6bd6c0",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "正偏格与廉贞囚星条件、通用正邪三化/忌定义已写；廉贞或武曲任一化忌分支仍结构hold。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "明确财帛廉贞与命武曲、廉贞化忌克武曲关系有scope；不将身宫OR组合判同时成立。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "只显式对象记录周期时间，生年不推流年，未明盘类为空。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C035概念定义，其余案例分析；不因单词混合改变主类。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语保留核心星曜/四化/宫位/条件与否定，英文未恢复缺字。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "源质量eligible；合同对象OR难点单列不降低资格。"
+        }
+      },
+      "remaining_questions": [
+        "独审重点核四化对象scope、武杀合法缩称展开和所有已注册作用关系覆盖；作者候选非人工验收。"
+      ],
+      "revision_note": "普通返修V2详batch035_039_revision_v2；C035 OR hold不变，C036/037/039补明确关系/location与时间绑定。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "只完整盘十二分析可用，辛劳不等于贫贱限制完整。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "命宫辰武曲陀罗地劫、财帛子廉贞天相明确；化忌承载财帛，影响命宫不当飞入。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "只显式对象记录周期时间，生年不推流年，未明盘类为空。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C035概念定义，其余案例分析；不因单词混合改变主类。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语保留核心星曜/四化/宫位/条件与否定，英文未恢复缺字。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅因原文残句或命盘混排，完整可用段精确定位，非合同阻塞降级。"
+        }
+      },
+      "remaining_questions": [
+        "独审重点核四化对象scope、武杀合法缩称展开和所有已注册作用关系覆盖；作者候选非人工验收。"
+      ],
+      "revision_note": "普通返修V2详batch035_039_revision_v2；C035 OR hold不变，C036/037/039补明确关系/location与时间绑定。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c037",
+      "candidate_sha256": "60596daba28416aab4874e94d30ec9dc9f13be96a5c0af7566ba49b010edea86",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "技术雇员/生意人条件、己亥与庚子吉凶反转完整。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武杀依冻结star_interactions abbreviations解析而非猜测；天同先天禄与大限忌分scope，廉贞忌被武曲禄制用有证据。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "只显式对象记录周期时间，生年不推流年，未明盘类为空。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C035概念定义，其余案例分析；不因单词混合改变主类。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语保留核心星曜/四化/宫位/条件与否定，英文未恢复缺字。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅因原文残句或命盘混排，完整可用段精确定位，非合同阻塞降级。"
+        }
+      },
+      "remaining_questions": [
+        "独审重点核四化对象scope、武杀合法缩称展开和所有已注册作用关系覆盖；作者候选非人工验收。"
+      ],
+      "revision_note": "普通返修V2详batch035_039_revision_v2；C035 OR hold不变，C036/037/039补明确关系/location与时间绑定。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c038",
+      "candidate_sha256": "9df1929efab7255fdae2813b8e661ed0ee98a62b142299c655562bd88541bcf1",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "完整盘十三caption，其他混排不推星位。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武杀按冻结缩称规范；天钺禄存来吉化不擅定同宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "只显式对象记录周期时间，生年不推流年，未明盘类为空。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C035概念定义，其余案例分析；不因单词混合改变主类。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语保留核心星曜/四化/宫位/条件与否定，英文未恢复缺字。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅因原文残句或命盘混排，完整可用段精确定位，非合同阻塞降级。"
+        }
+      },
+      "remaining_questions": [
+        "独审重点核四化对象scope、武杀合法缩称展开和所有已注册作用关系覆盖；作者候选非人工验收。"
+      ],
+      "revision_note": "普通返修V2详batch035_039_revision_v2；C035 OR hold不变，C036/037/039补明确关系/location与时间绑定。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c039",
+      "candidate_sha256": "b6e6bf3dcfcd854f27ba96e4264716a2c821da649b088b0c82e06565de9a0ced",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "王永庆命身格局和癸巳到己亥九个化禄提及覆盖，未补最后甚字结论。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "亥财帛/身廉贞，空宫同梁照入不当实际同宫；各限分scope，化禄影响不填飞入。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "只显式对象记录周期时间，生年不推流年，未明盘类为空。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C035概念定义，其余案例分析；不因单词混合改变主类。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "双语保留核心星曜/四化/宫位/条件与否定，英文未恢复缺字。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅因原文残句或命盘混排，完整可用段精确定位，非合同阻塞降级。"
+        }
+      },
+      "remaining_questions": [
+        "独审重点核四化对象scope、武杀合法缩称展开和所有已注册作用关系覆盖；作者候选非人工验收。"
+      ],
+      "revision_note": "普通返修V2详batch035_039_revision_v2；C035 OR hold不变，C036/037/039补明确关系/location与时间绑定。"
+    }
+  ],
+  "validation_log": "batch035_039_validation_attempt1.json"
+}

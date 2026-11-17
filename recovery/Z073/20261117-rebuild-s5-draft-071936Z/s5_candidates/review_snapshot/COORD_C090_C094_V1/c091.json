@@ -1,0 +1,487 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c091",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    118,
+    119
+  ],
+  "chunk_text": "以下僅針對先賢註解中的「因文曲遇破軍，主貧，文昌逢破軍，主刑剋勞碌，若武曲與破軍分處於弱宮，有傾敗之危也」，做補充說明。\n前曾提及，破軍五行屬水，屬性為陰，又名耗星，在會多吉星時，有「先破後立」的開創作用，反之若不會吉且會多煞（忌）星時，恐怕就只有破壞而無建設。又，在斗數命盤，殺破狼永遠在三合方，因此當破軍坐會昌曲時，三合一定會合而成「昌（曲）貪」，而「昌（曲）貪」的「離正位而顛倒」作用，代表此人聰明才智不錯，點子多，若在會多吉星時，則行事靈活善變以吉論，反之若會多煞星而會少吉星，則是餿主意多而以不好論。\n破軍五行屬陰水，而文曲五行亦屬陰水，當二者會合在一起而無其他吉化時，會因水太旺，造成命造者心思極多（此時若再會有煞或忌星，則以負面想法居多），卻無法定下心去做，以致於想得多做得少，或是光說不做，就算做事也不持久。當一個人只會空想而無法定下心來做事，自然就不易有成果。而在現今工商社會，做事老是沒有成果的人，恐怕就無法累積財富，雖不能說此人會一輩子貧窮，但大概也不可能成富，此即「破軍文曲主貧」的命理作用。但破軍文曲在有其他吉化時，其賦性的正面作用就會顯現出來，特別是在會有左輔右弼時，不但點子多，且能劍及履及，甚佳，此時就不能以「主貧」來論。在此要特別注意的是，上述「破軍文曲主貧」的作用必須是此二星同宮時始是，若是此二星三合來會，就不做此論。\n",
+  "chunk_index": 91,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "破军坐会昌曲三合成昌曲贪，吉多可灵活，少吉多煞则偏负面。作者以破军文曲同属阴水解释无吉化时多想少做、难积财富；有吉化尤其左辅右弼则能落实，不能断贫。主贫论限破军文曲同宫，三合会照不按此断。",
+  "summary_en": "Po Jun meeting Wen Chang or Wen Qu can form the source’s Chang/Qu–Tan influence through the trine: benefics favor flexibility, while many malefics with few benefics favor poor ideas. The author uses the shared Yin Water nature of Po Jun and Wen Qu to explain excessive thought without sustained action when unsupported. Benefic support, especially Zuo Fu and You Bi, can enable execution, so poverty is not inevitable. This adverse reading requires Po Jun and Wen Qu in the same palace; a trine meeting is excluded.",
+  "keywords": [
+    "破军",
+    "文曲",
+    "昌曲贪",
+    "阴水",
+    "左辅右弼",
+    "同宫限制"
+  ],
+  "keywords_en": [
+    "Po Jun",
+    "Wen Qu",
+    "Chang/Qu Tan",
+    "Yin Water",
+    "Zuo Fu and You Bi",
+    "colocation requirement"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 18,
+          "quote": "破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 22,
+          "end": 24,
+          "quote": "文昌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 13,
+          "end": 15,
+          "quote": "文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 492,
+          "end": 494,
+          "quote": "左輔"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 494,
+          "end": 496,
+          "quote": "右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 152,
+          "end": 158,
+          "quote": "破軍坐會昌曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 490,
+          "end": 496,
+          "quote": "會有左輔右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c91_same",
+        "kind": "conditional",
+        "condition": "上述「破軍文曲主貧」的作用必須是此二星同宮時始是",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 537,
+          "end": 561,
+          "quote": "上述「破軍文曲主貧」的作用必須是此二星同宮時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 139,
+          "end": 148,
+          "quote": "殺破狼永遠在三合方"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 151,
+          "end": 175,
+          "quote": "當破軍坐會昌曲時，三合一定會合而成「昌（曲）貪」"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 256,
+          "end": 273,
+          "quote": "破軍五行屬陰水，而文曲五行亦屬陰水"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 256,
+          "end": 273,
+          "quote": "破軍五行屬陰水，而文曲五行亦屬陰水"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 562,
+          "end": 577,
+          "quote": "若是此二星三合來會，就不做此論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 411,
+          "end": 418,
+          "quote": "就無法累積財富"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c91_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 411,
+          "end": 418,
+          "quote": "就無法累積財富"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "文曲",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c91_same",
+        "negated": false,
+        "condition": "上述「破軍文曲主貧」的作用必須是此二星同宮時始是"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "昌（曲）貪",
+        "proposed_category": "source_combination",
+        "reason": "保留三合组合及吉煞条件，不猜具体昌/曲与贪狼同宫。",
+        "english_surface": "Chang/Qu Tan",
+        "scope_id": "c91_author"
+      },
+      {
+        "surface": "陰水",
+        "proposed_category": "source_mechanism",
+        "reason": "五行解释非四化，不发明作用关系。",
+        "english_surface": "Yin Water",
+        "scope_id": "c91_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "破军",
+      "文昌",
+      "文曲",
+      "左辅",
+      "右弼"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "杀破狼",
+        "formation_status": null,
+        "evidence": "殺破狼永遠在三合方"
+      }
+    ],
+    "star_pairs_mentioned": [
+      "文昌文曲",
+      "左辅右弼"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

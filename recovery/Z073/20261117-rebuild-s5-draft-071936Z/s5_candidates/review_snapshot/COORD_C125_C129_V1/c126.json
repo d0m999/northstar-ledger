@@ -1,0 +1,387 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c126",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    165
+  ],
+  "chunk_text": "蔭福聚不怕凶危\n秘經有云：「蔭福聚不怕凶危」，同樣的話也出現在《全集，註解太微賦》，類似的賦文亦散見其他地方，例如《全集，斗數穀率》的「蔭福臨不怕凶沖」、《全集，太微妙論》的「福蔭聚會，那怕凶危」。基本上，這些賦文主要是在強調天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守，就不怕凶惡危險的事發生。但是否只要蔭福聚，就不怕凶危呢？卻也未必，如前所述，仍須視會吉會煞的多寡而定。",
+  "chunk_index": 126,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "蔭福聚不怕凶危等古赋将天梁蔭、天同福与同宫避凶相联。作者否定无条件安全的解读，强调仍须结合会吉会煞的多寡。",
+  "summary_en": "Verses such as Yin Fu Ju Bu Pa Xiong Wei associate Tian Liang’s protection and Tian Tong’s fortune in the same palace with safety. The author rejects unconditional immunity from danger: the amount of favorable and malefic support remains decisive.",
+  "keywords": [
+    "天同",
+    "天梁",
+    "蔭福聚",
+    "同宫",
+    "吉煞条件"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Tian Liang",
+    "Yin Fu Ju",
+    "same-palace placement",
+    "benefic and malefic support"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 121,
+          "end": 130,
+          "quote": "一為蔭星，一為福星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 191,
+          "quote": "仍須視會吉會煞的多寡而定"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 113,
+          "end": 120,
+          "quote": "天梁及天同二星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 113,
+          "end": 120,
+          "quote": "天梁及天同二星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "quoted_samepalace",
+        "kind": "conditional",
+        "condition": "天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守",
+        "attribution": "作者解释古赋，后文限定吉煞条件"
+      },
+      "spans": [
+        {
+          "start": 113,
+          "end": 140,
+          "quote": "天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 191,
+          "quote": "仍須視會吉會煞的多寡而定"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "quote": "蔭福聚不怕凶危"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 68,
+          "end": 75,
+          "quote": "蔭福臨不怕凶沖"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 88,
+          "end": 97,
+          "quote": "福蔭聚會，那怕凶危"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_samepalace",
+        "negated": false,
+        "condition": "天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "蔭福聚不怕凶危",
+        "proposed_category": "source_verse",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Yin Fu Ju Bu Pa Xiong Wei",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "蔭福臨不怕凶沖",
+        "proposed_category": "source_verse",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Yin Fu Lin Bu Pa Xiong Chong",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "福蔭聚會，那怕凶危",
+        "proposed_category": "source_verse",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Fu Yin Ju Hui",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天梁",
+      "天同"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

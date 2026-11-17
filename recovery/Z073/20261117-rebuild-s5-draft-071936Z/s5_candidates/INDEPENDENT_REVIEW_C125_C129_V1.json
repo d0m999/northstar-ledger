@@ -1,0 +1,93 @@
+{
+  "reviewer": "coordinator_not_candidate_author",
+  "created_utc": "2026-11-17T07:01:44.344531+00:00",
+  "method": "Read full source and every domain/evidence field from immutable pre-review byte snapshots; frozen validator + five-field/evidence/serialization checks. No historical05 consulted.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c125",
+      "candidate_sha256": "6a0d9bcb61f9e984666e8d6c9e4740e8020c63b224937860f1e5f6a5f16f36a9",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C125_C129_V1/c125.json",
+      "decision": "returned_for_revision",
+      "coverage": "年龄与事业心态差异、多吉少煞及救应限制保留；开头残书目排除合理。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations, classical claims distinct from author commentary",
+      "english": "complete source and summaries compared, qualifications and historical quotation provenance preserved",
+      "source_quality": "C125 limited excluding initial fragment; others eligible, no lowering to bypass typed holds",
+      "ordinary_revision_requests": [
+        "独立天同入事业宫分支可表达；一般天同大限论不能只有幼年第一大限time对象。"
+      ],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c126",
+      "candidate_sha256": "e75fdfcdfc790b05ce404ee18093432a786fc0b2b10981af5891b8e0280612f1",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C125_C129_V1/c126.json",
+      "decision": "accept_for_S5_candidate_not_whole_source_S6",
+      "coverage": "古赋蔭福同宫与作者否定无条件安全明确分开，无虚构命宫。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations, classical claims distinct from author commentary",
+      "english": "complete source and summaries compared, qualifications and historical quotation provenance preserved",
+      "source_quality": "C125 limited excluding initial fragment; others eligible, no lowering to bypass typed holds",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": []
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c127",
+      "candidate_sha256": "537bff593aba7e7a80902bdb170a14946713cff556a5322239e6f54ddbaf31a2",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C125_C129_V1/c127.json",
+      "decision": "returned_for_revision",
+      "coverage": "寅申独立同宫配置与一般组位置分开，不猜三合目标；作者批评旧女性限制归属正确。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations, classical claims distinct from author commentary",
+      "english": "complete source and summaries compared, qualifications and historical quotation provenance preserved",
+      "source_quality": "C125 limited excluding initial fragment; others eligible, no lowering to bypass typed holds",
+      "ordinary_revision_requests": [
+        "富贵/多吉少煞财运论topic漏。"
+      ],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c128",
+      "candidate_sha256": "1c7293353f68be6cdbd5ece0fc4422f5be8a4bb00a380b2daea0180a826ba31f",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C125_C129_V1/c128.json",
+      "decision": "returned_for_revision",
+      "coverage": "女性品行旧说明确引文，天同太阴同宫与作者有利配置分开，不把位置组硬分配。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations, classical claims distinct from author commentary",
+      "english": "complete source and summaries compared, qualifications and historical quotation provenance preserved",
+      "source_quality": "C125 limited excluding initial fragment; others eligible, no lowering to bypass typed holds",
+      "ordinary_revision_requests": [
+        "梁月引文天梁提及漏；只补mentioned不推关系。"
+      ],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c129",
+      "candidate_sha256": "0098f7d8d9a7b7121d685332523f0d1c315c558b7fec74f99025e44d16ca9109",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C125_C129_V1/c129.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "有利旺命、无吉陷命、无吉旺命分别有原条件；星曜外貌主张归于作者，无新增性道德断定。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations, classical claims distinct from author commentary",
+      "english": "complete source and summaries compared, qualifications and historical quotation provenance preserved",
+      "source_quality": "C125 limited excluding initial fragment; others eligible, no lowering to bypass typed holds",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    }
+  ],
+  "human_acceptance": false,
+  "whole_source_S5_or_S6_passed": false
+}

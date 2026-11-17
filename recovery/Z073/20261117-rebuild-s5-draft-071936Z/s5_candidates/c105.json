@@ -1,0 +1,1050 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c105",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    132,
+    133
+  ],
+  "chunk_text": "白虎的命理作用\n白虎與喪門為成對的小星，在命理的作用均主「官非」、「喪服」，兩者永遠在對宮相望。白虎在命盤的排法，永遠坐入在太歲宮位的財帛宮。例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮。同樣的，流年白虎就一定在流年宮位的財帛宮。例如戊寅流年，流年白虎就在戌宮。\n假如某一事項宮位很凶時，若再有（先天或流年）白虎進入，就有加重其凶的作用。例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。",
+  "chunk_index": 105,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "白虎与丧门对宫，作者称皆主官非丧服。先天白虎按出生太岁宫的财帛宫安置，流年白虎按流年宫位之财帛宫。盘三十二丁未男命武杀卯命受未羊冲，白虎入命；壬子限武曲化忌引动因财持刀，白虎加重已有凶象，但单见白虎不必刑伤。",
+  "summary_en": "Bai Hu and Sang Men stand opposite each other and are associated by the author with litigation and mourning. Natal Bai Hu is placed in the Wealth sector relative to the birth-year Tai Sui palace; annual Bai Hu uses the annual reference. Chart Thirty-Two has a Ding Wei male with Wu Qu and Qi Sha in Mao Life, attacked by Qing Yang from Wei, and Bai Hu in Life. Ren Zi brings Wu Qu Hua Ji, activating Yin Cai Chi Dao. Bai Hu intensifies an existing adverse configuration; its presence alone does not guarantee injury.",
+  "keywords": [
+    "白虎",
+    "丧门",
+    "命宫",
+    "相对财帛宫",
+    "先天",
+    "流年",
+    "武曲化忌",
+    "因财持刀"
+  ],
+  "keywords_en": [
+    "Bai Hu",
+    "Sang Men",
+    "Life Palace",
+    "relative Wealth sector",
+    "natal",
+    "annual",
+    "Wu Qu Hua Ji",
+    "Yin Cai Chi Dao"
+  ],
+  "topic": "命运总论",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 8,
+          "end": 19,
+          "quote": "白虎與喪門為成對的小星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 57,
+          "end": 70,
+          "quote": "永遠坐入在太歲宮位的財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 246,
+          "quote": "壬子限，武曲化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 213,
+          "end": 224,
+          "quote": "隱藏的「因財持刀」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 8,
+          "end": 13,
+          "quote": "白虎與喪門"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 8,
+          "end": 13,
+          "quote": "白虎與喪門"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 242,
+          "end": 246,
+          "quote": "武曲化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 188,
+          "end": 194,
+          "quote": "武殺在卯坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 201,
+          "end": 207,
+          "quote": "擎羊在未來沖"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 70,
+          "quote": "太歲宮位的財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 225,
+          "end": 234,
+          "quote": "同時白虎也進入命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 279,
+          "end": 289,
+          "quote": "卯宮在此大限就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "bai_sang",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 8,
+          "end": 47,
+          "quote": "白虎與喪門為成對的小星，在命理的作用均主「官非」、「喪服」，兩者永遠在對宮相望"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 70,
+          "quote": "太歲宮位的財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 115,
+          "end": 123,
+          "quote": "流年宮位的財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 217,
+          "end": 221,
+          "quote": "因財持刀"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "birth_bingzi",
+        "kind": "conditional",
+        "condition": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 71,
+          "end": 102,
+          "quote": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "birth_bingzi",
+        "kind": "conditional",
+        "condition": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 71,
+          "end": 102,
+          "quote": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "annual_wuyin",
+        "kind": "conditional",
+        "condition": "例如戊寅流年，流年白虎就在戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 124,
+          "end": 139,
+          "quote": "例如戊寅流年，流年白虎就在戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1.chart_type",
+      "scope": {
+        "scope_id": "annual_wuyin",
+        "kind": "conditional",
+        "condition": "例如戊寅流年，流年白虎就在戌宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 124,
+          "end": 139,
+          "quote": "例如戊寅流年，流年白虎就在戌宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "chart32_武曲",
+        "kind": "conditional",
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 234,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "chart32_七杀",
+        "kind": "conditional",
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 234,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "chart32_白虎",
+        "kind": "conditional",
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 234,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "chart32_colocation",
+        "kind": "conditional",
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 234,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2.chart_type",
+      "scope": {
+        "scope_id": "chart32_renzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 277,
+          "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "chart32_effect",
+        "kind": "conditional",
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 316,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 316,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 178,
+          "end": 316,
+          "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 279,
+          "end": 289,
+          "quote": "卯宮在此大限就相當凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化",
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "白虎",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "丧门",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "bai_sang",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "chart32_武曲",
+        "negated": false,
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "chart32_七杀",
+        "negated": false,
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "白虎",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "chart32_白虎",
+        "negated": false,
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "star",
+            "name": "白虎",
+            "role": "star",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "chart32_colocation",
+        "negated": false,
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "chart32_effect",
+        "negated": false,
+        "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲宮位的財帛宮",
+        "proposed_category": "relative_palace_reference",
+        "reason": "相对参照宫非无条件本命财帛宫，不强塞普通宫位关系",
+        "english_surface": "Wealth sector relative to Tai Sui",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "流年宮位的財帛宮",
+        "proposed_category": "relative_palace_reference",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wealth sector relative to annual palace",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "因財持刀",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Yin Cai Chi Dao",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "birth_bingzi",
+        "subject": "丙子年生人生年白虎",
+        "chart_type": null
+      },
+      {
+        "time_context": "流年",
+        "scope_id": "annual_wuyin",
+        "subject": "戊寅流年白虎",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "chart32_renzi",
+        "subject": "盘三十二男命壬子限",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "白虎",
+      "丧门",
+      "武曲",
+      "七杀",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "财帛宫",
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart32_renzi"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

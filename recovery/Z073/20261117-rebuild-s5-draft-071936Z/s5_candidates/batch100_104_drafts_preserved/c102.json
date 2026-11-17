@@ -1,0 +1,417 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c102",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    128
+  ],
+  "chunk_text": "星曜在和煞星同宮時，不但會受到煞星的煞害作用，且會因此煞星而呈現出其賦性的負面作用。擎羊是六煞星之一，在命理上有主「凶危」作用，即註解中所說的「擎羊乃刑殺之宿」，再加上五行屬金屬性為陽，故所呈現出的凶性不但剛強而且明顯，甚至被形容為具有刀劍般的殺傷力，藉之來說明其凶性的強烈。故任一星曜在和擎羊同踞而無其他吉化時，不但會受到擎羊的煞害作用，同時其賦性的負面作用也會被引發出來。\n武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。\n至於先賢所說的會「因財務糾紛，而有持刀凶殺之後果」，主要是肇因於擎羊的凶性太過強烈，常被比喻像把刀一樣，而武曲為財星，故當武曲化忌加會擎羊時，就有「因財持刀」的說法，但是否會如此，則須視實際上的星曜組合才能推斷。在此必須注意的是，武曲化忌加擎羊也構成「因財持刀」凶格，只是其凶性不如武曲（化忌）七殺會擎羊來得凶。",
+  "chunk_index": 102,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者把擎羊凶危比作刀剑，说明无其他吉化时会引出负性。武曲七杀无吉化易被论为刚强寡合，武曲化忌又引动七杀及擎羊作用，可见财务争执甚至诉讼，但是否持刀须看实际组合。武曲忌会羊亦可构成原称凶格，程度较三者组合弱。",
+  "summary_en": "The author uses knife imagery for Qing Yang’s intensity, especially without other favorable influences. Wu Qu and Qi Sha are described as rigid and socially difficult under such conditions. Wu Qu Hua Ji activates adverse Qi Sha and Qing Yang effects, which the author associates with disputes and possible litigation. Whether actual weapon violence occurs still depends on the configuration. Wu Qu Hua Ji meeting Qing Yang alone is also given the source label Yin Cai Chi Dao, but is described as less severe than the three-star combination.",
+  "keywords": [
+    "武曲",
+    "七杀",
+    "擎羊",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Qi Sha",
+    "Qing Yang",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c102_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c102_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c102_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 42,
+          "end": 50,
+          "quote": "擎羊是六煞星之一"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c102_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 189,
+          "end": 196,
+          "quote": "武曲七殺二星曜"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c102_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 189,
+          "end": 196,
+          "quote": "武曲七殺二星曜"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c102_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 328,
+          "end": 335,
+          "quote": "擎羊主「凶危」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c102_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 286,
+          "end": 291,
+          "quote": "武曲一化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c102_knowledge_domains2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 529,
+          "end": 539,
+          "quote": "構成「因財持刀」凶格"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c102_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 286,
+          "end": 291,
+          "quote": "武曲一化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c102_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 521,
+          "end": 539,
+          "quote": "武曲化忌加擎羊也構成「因財持刀」凶格"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c102_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 369,
+          "end": 374,
+          "quote": "因財起糾紛"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c102_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 352,
+          "end": 365,
+          "quote": "與人相處不但寡合且易起爭執"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c102_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 480,
+          "end": 484,
+          "quote": "因財持刀"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c102_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 198,
+          "end": 200,
+          "quote": "將星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c102_no_other_benefic",
+        "kind": "conditional",
+        "condition": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 189,
+          "end": 405,
+          "quote": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c102_no_other_benefic",
+        "kind": "conditional",
+        "condition": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 189,
+          "end": 405,
+          "quote": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c102_no_other_benefic",
+        "kind": "conditional",
+        "condition": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 189,
+          "end": 405,
+          "quote": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star"
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c102_no_other_benefic",
+        "condition": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。",
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c102_no_other_benefic",
+        "condition": "武曲七殺二星曜均為將星，且分別是北斗與南斗的剛星，五行又均屬金，此時若無其他吉化，會因金太旺，造成命造的自我意識太強，做起事來會剛愎自用，能攻不能守，不但與人相處易有寡合現象，也不利於求財。等到武曲一化忌，不但會將賦性的負面作用顯現出來，也會將七殺主「刑殺」的作用激發出來，此時擎羊主「凶危」的煞害作用也會跟著來逞凶，造成命造與人相處不但寡合且易起爭執，特別是因財起糾紛，在爭執得太過厲害時，就不排除發生互相傷害，或是打官司的情形。",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c102_no_other_benefic"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "因財持刀",
+        "proposed_category": "source_pattern",
+        "reason": "未注册格局；是否现实持刀仍须看组合",
+        "english_surface": "Yin Cai Chi Dao",
+        "scope_id": "c102_term0"
+      },
+      {
+        "surface": "將星",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲七杀性质称谓，不增同名小星",
+        "english_surface": "Jiang Xing epithet",
+        "scope_id": "c102_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "擎羊",
+      "武曲",
+      "七杀"
+    ],
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "格局解析"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系"
+    ]
+  }
+}

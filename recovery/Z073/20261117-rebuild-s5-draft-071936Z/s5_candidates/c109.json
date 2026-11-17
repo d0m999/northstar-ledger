@@ -1,0 +1,799 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c109",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    137
+  ],
+  "chunk_text": "地地巨門空劫天廉相貞天梁權天鉞七殺辛巳疾厄55-64壬午財帛45-54癸未子女35-44甲申夫妻25-34擎鈴文合羊星昌狼庚辰 遷移65-74祿存太陰忌己卯僕役75-84男命乙酉年月日午時土\n\n火星天同乙酉 兄弟15-24文曲武曲丙局戌命宮5-14身陀天紫羅府微科天機祿天魁破軍太陽戊寅事業己丑田宅戊子福德丁亥父母盤三十三先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格，此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象，即此十年中有一半以上的流年皆相當凶，故命造在壬午限恐難順利度過。",
+  "chunk_index": 109,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘三十三图说称先天戌命三方四正隐藏铃昌陀武，壬午限武曲化忌使其成为正格。流年武曲、廉贞、贪狼或文昌任一忌，或流羊流陀入戌三合，皆可能引动；作者因多数流年不利而忧壬午难顺。混排及「成宫」疑字保留，不补实际星位或指定OR对象。",
+  "summary_en": "The Chart Thirty-Three caption describes hidden Ling Chang Tuo Wu around natal Xu Life, activated by Wu Qu Hua Ji during Ren Wu. An annual Hua Ji of Wu Qu, Lian Zhen, Tan Lang or Wen Chang, or annual Qing Yang or Tuo Luo in Xu’s trines, may trigger it. The author expects difficulty because many years are unfavorable. Interleaved chart text and the unclear Cheng Gong expression are preserved; actual star placements and alternative transformation objects are not invented.",
+  "keywords": [
+    "铃昌陀武",
+    "壬午大限",
+    "武曲化忌",
+    "先天戌命",
+    "流年",
+    "成宫疑字"
+  ],
+  "keywords_en": [
+    "Ling Chang Tuo Wu",
+    "Ren Wu grand cycle",
+    "Wu Qu Hua Ji",
+    "natal Xu Life",
+    "annual triggers",
+    "uncertain Cheng Gong"
+  ],
+  "topic": "命运总论",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 196,
+          "quote": "走到壬午限，武曲化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 167,
+          "quote": "先天命宫在戌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 196,
+          "quote": "走到壬午限，武曲化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 222,
+          "end": 239,
+          "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 222,
+          "end": 239,
+          "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 222,
+          "end": 239,
+          "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 295,
+          "end": 307,
+          "quote": "命造在壬午限恐難順利度過"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "caption_natal",
+        "kind": "conditional",
+        "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "caption_natal",
+        "kind": "conditional",
+        "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "caption_natal",
+        "kind": "conditional",
+        "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.formation_status",
+      "scope": {
+        "scope_id": "caption_natal",
+        "kind": "conditional",
+        "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.evidence",
+      "scope": {
+        "scope_id": "caption_natal",
+        "kind": "conditional",
+        "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1.chart_type",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.1",
+      "scope": {
+        "scope_id": "caption_renwu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 197,
+          "end": 199,
+          "quote": "成宫"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 248,
+          "quote": "流羊、流陀"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "caption_annual_or",
+        "kind": "conditional",
+        "condition": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 214,
+          "end": 275,
+          "quote": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2.chart_type",
+      "scope": {
+        "scope_id": "caption_annual_or",
+        "kind": "conditional",
+        "condition": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 214,
+          "end": 275,
+          "quote": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 213,
+          "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 295,
+          "end": 307,
+          "quote": "命造在壬午限恐難順利度過"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅盘三十三连续caption可读，前部混排不恢复星位；caption成宫疑字不校为戌宫。",
+    "usable_spans": [
+      {
+        "start": 157,
+        "end": 308,
+        "quote": "盤三十三先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格。走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格，此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象，即此十年中有一半以上的流年皆相當凶，故命造在壬午限恐難順利度過。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析",
+      "三方四正"
+    ],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "成宫",
+        "proposed_category": "ocr_uncertain",
+        "reason": "caption疑字，不将成改戌填作用目标",
+        "english_surface": "Cheng Gong",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "流羊、流陀",
+        "proposed_category": "annual_star_abbreviation",
+        "reason": "保来源简称；不据混排补位置",
+        "english_surface": "Liu Yang Liu Tuo",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "caption_natal",
+        "subject": "盘三十三先天戌命",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "caption_renwu",
+        "subject": "盘三十三壬午限",
+        "chart_type": null
+      },
+      {
+        "time_context": "流年",
+        "scope_id": "caption_annual_or",
+        "subject": "盘三十三年度备择触发",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "廉贞",
+      "贪狼",
+      "文昌"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "caption_renwu"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": null,
+        "evidence": null
+      },
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": "成格",
+        "evidence": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "chunk": 35,
+      "old_author_preserved_sha256": "0e865c0586d9e57933d9a696228c54d9a00cfff4661167c8e79b6720867b6ee5",
+      "v1_reported_sha256": "16a8fe24490f072b28edee6c6924237bf5b4a5cf3a8913ca24a6aeb93ea995dc",
+      "disposition": "V1 opinions were composed before preliminary fixes; binding potentially contaminated by same write-time current-file read. Do not treat V1 as immutable review of stated hash; use V2/V3 re-read conclusions and retain typed hold.",
+      "typed_hold_scope": "Only C035 retains its already documented OR/body-location typed hold.",
+      "binding_certainty": "Potential V1 binding contamination established from shared script design and differing author backups, NOT proof of exact originally read bytes. Mapping is not fully reconstructed for this record."
+    },
+    {
+      "chunk": 37,
+      "old_author_preserved_sha256": "7bed6464067bc558af657a4281de5f46544d79d3c52298b32bb20a1a8b0eaed9",
+      "v1_reported_sha256": "9fb24aca5faf6a3fe219f1e62bcc3b3e5794248497b56317d6b82c9dbe27388e",
+      "disposition": "V1 opinions were composed before preliminary fixes; binding potentially contaminated by same write-time current-file read. Do not treat V1 as immutable review of stated hash; use V2/V3 re-read conclusions and retain typed hold.",
+      "typed_hold_scope": "C037/C039 have no new typed hold from this erratum. Their V3 semantic acceptance remains the later-review conclusion.",
+      "binding_certainty": "Potential V1 binding contamination established from shared script design and differing author backups, NOT proof of exact originally read bytes. Mapping is not fully reconstructed for this record."
+    },
+    {
+      "chunk": 39,
+      "old_author_preserved_sha256": "c0072c4eb4da1dc33746cbc34bbdb0f5268de5fba5db343474509bc2f2720037",
+      "v1_reported_sha256": "75a44a21ce203c72b5c481768ff28f5ad03b86cb126b60258538466abd256455",
+      "disposition": "V1 opinions were composed before preliminary fixes; binding potentially contaminated by same write-time current-file read. Do not treat V1 as immutable review of stated hash; use V2/V3 re-read conclusions and retain typed hold.",
+      "typed_hold_scope": "C037/C039 have no new typed hold from this erratum. Their V3 semantic acceptance remains the later-review conclusion.",
+      "binding_certainty": "Potential V1 binding contamination established from shared script design and differing author backups, NOT proof of exact originally read bytes. Mapping is not fully reconstructed for this record."
+    }
+  ],
+  "cause": "Same report-script race as C036; contemporaneous snapshots absent, no fabricated exact read timestamp.",
+  "prior_reports_preserved": true,
+  "v1_retained": true
+}

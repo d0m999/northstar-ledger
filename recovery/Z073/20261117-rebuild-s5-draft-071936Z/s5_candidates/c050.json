@@ -1,0 +1,293 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c050",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    78
+  ],
+  "chunk_text": "天孤天梁刑辰\n\n辛台已僕役76-85官符七殺天天龍壬貴福池午遷移66-75陀羅天绒天喜癸未疾厄 56-65天虚祿存廉貞■天甲閣馬申財帛46-55身天喪天紫哭門相微恩台庚光輔辰事業咸池巨天門機己卯 田宅女命\n\n庚寅\n\n八年年\n\n大運庚月申\n\n年\n\n日火戌\n\n丙戌時歲局擎地天大羊劫姚耗乙八座酉 子女36-45白華陰破軍虎蓋煞丙戌 夫妻26-35右文食弼曲狼戊寅福德鈴地寡天魁太太星空宿陰陽科祿紅己燃丑 父母左文天武輔昌府曲權封戊誥子命宮6-15火星天同忌天丁官亥兄弟16-25盤十六先賢每喜以田宅宮坐守星曜來推斷一個人的住家環境。而此女在丙戌限時，其住家為一棟七層樓高的樓房，就當地而言，此房子不是棟低矮的建築物。那麽是否能只憑此女在丙戌限的先後天田宅宮，就作出此一判断呢？如果不是，那應該如何來推断？",
+  "chunk_index": 50,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘十六图说：此女在丙戌限时住七层楼房，在当地并非低矮建筑。作者质疑能否只凭此限先后天田宅宫判断住家环境，提出应如何推断的问题，未在本块提供答案。前部混排命盘不用于恢复星位或运限。",
+  "summary_en": "The readable Chart Sixteen caption describes a woman living in a seven-story building during the Bing Xu period; it was not low by local standards. The author asks whether this can be inferred solely from the natal and later Property Palaces and how residential surroundings should instead be assessed. This chunk poses the question without supplying the answer. The preceding OCR-mixed chart is not reconstructed into star positions or timing assignments.",
+  "keywords": [
+    "盘十六",
+    "田宅宫",
+    "丙戌限",
+    "七层楼房",
+    "住家环境"
+  ],
+  "keywords_en": [
+    "Chart Sixteen",
+    "Property Palace",
+    "Bing Xu period",
+    "seven-story building",
+    "residential surroundings"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 320,
+          "end": 326,
+          "quote": "先後天田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 341,
+          "end": 349,
+          "quote": "那應該如何來推断"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 245,
+          "end": 252,
+          "quote": "田宅宮坐守星曜"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 271,
+          "quote": "丙戌限"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "natal_property",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 313,
+          "end": 326,
+          "quote": "此女在丙戌限的先後天田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "natal_property",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "ambiguous",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "只用盘十六后完整可读caption；前部图文混排不能可靠绑定星位、年龄或大运。",
+    "usable_spans": [
+      {
+        "start": 237,
+        "end": 350,
+        "quote": "盤十六先賢每喜以田宅宮坐守星曜來推斷一個人的住家環境。而此女在丙戌限時，其住家為一棟七層樓高的樓房，就當地而言，此房子不是棟低矮的建築物。那麽是否能只憑此女在丙戌限的先後天田宅宮，就作出此一判断呢？如果不是，那應該如何來推断？"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化",
+      "推测技法"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "丙戌限",
+        "proposed_category": "time_context",
+        "reason": "可读caption只写限，不据前方混排大运恢复确定运限类型",
+        "english_surface": "Bing Xu Xian",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "natal_property",
+        "subject": "田宅宮",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [],
+    "palaces_mentioned": [
+      "田宅宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

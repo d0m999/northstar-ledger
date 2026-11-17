@@ -1,0 +1,352 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c099",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    126
+  ],
+  "chunk_text": "若從上述王董事長的命身宮特質來看，他只要有機會自行開創事業，將因個性作風使然，在事業經營上，衝勁有餘，而謹慎不足。除非是在行運很好的情形下，事業才能有所成，否則將會因其命身格局的特質，導致所經營的事業陷入難以收拾的困境。反之，若王董事長只是位為人作嫁的上班族，在命理上的吉祥現象，可能會使他在工作表現上相當優異。箇中道理主要在於，身為董事長必須肩負著決策的重大責任，而一家公司經營的良窳，最重要的乃在經營策略是否正確。但對一位為人作嫁的上班族，他的職位自然只在執行公司經營政策的職務範圍内，而業務執行的良劣，固然也會影響公司經營的成果，但應該沒有像事業決策一旦發生錯誤時，所產生的不良後果那麽嚴重。\n王董事長的家族是享有盛名的台灣家電業佼佼者，他在大學畢業後，就投入家族事業工作。但到四十而不惑的年齡時，毅然走出家族企業，出來開創屬於自己的事業，但因行限不佳，再加上在事業上所扮演的色與職責，正好去合了命身格局中不好的一面，在事業經營上自然就無所成就。（註十六）武破在巳坐命如王董事長者，命身宮雖然強旺，但因行限不佳，再加上在事業上所扮演的角色及職責均不符命理上好的一面，也就去應了先賢所說的「武曲破軍，破祖、破家又勞碌。」",
+  "chunk_index": 99,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "作者用王董事长命例区分决策者与执行者：开创冲劲有余但谨慎不足，须好行运支持；受雇执行可能表现更佳，不能与董事长决策风险等同。其离开家族企业创业遭不利限运与角色相应，武破巳命虽强仍无成就，结论限于此命例及职业条件。",
+  "summary_en": "Chairman Wang’s case contrasts entrepreneurial decision-making with employed execution. The author describes strong initiative but insufficient caution, requiring favorable timing for independent business. An employee carrying out policy might perform well without bearing the same strategic risk. Wang left an established family appliance business around forty but encountered unfavorable cycles and a role matching the adverse side of his configuration. Strong Wu Qu and Po Jun in the Life Palace at Si did not ensure success. These claims remain case- and occupation-dependent.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "命身",
+    "行业",
+    "行限"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Po Jun",
+    "Life Palace",
+    "Body Palace",
+    "occupation",
+    "timing"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c099_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c099_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c099_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 443,
+          "quote": "武破在巳坐命如王董事長者"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c099_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 443,
+          "quote": "武破在巳坐命如王董事長者"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c099_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 443,
+          "quote": "武破在巳坐命如王董事長者"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c099_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 444,
+          "end": 451,
+          "quote": "命身宮雖然強旺"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c099_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 16,
+          "quote": "若從上述王董事長的命身宮特質來看"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c099_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 84,
+          "end": 91,
+          "quote": "命身格局的特質"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c099_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 40,
+          "end": 56,
+          "quote": "事業經營上，衝勁有餘，而謹慎不足"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c099_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 375,
+          "end": 377,
+          "quote": "行限"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c099_wang",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 485,
+          "quote": "武破在巳坐命如王董事長者，命身宮雖然強旺，但因行限不佳，再加上在事業上所扮演的角色及職責均不符命理上好的一面"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c099_wang",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 485,
+          "quote": "武破在巳坐命如王董事長者，命身宮雖然強旺，但因行限不佳，再加上在事業上所扮演的角色及職責均不符命理上好的一面"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c099_wang",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 431,
+          "end": 485,
+          "quote": "武破在巳坐命如王董事長者，命身宮雖然強旺，但因行限不佳，再加上在事業上所扮演的角色及職責均不符命理上好的一面"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c099_wang",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c099_wang",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c099_wang",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "行限",
+        "proposed_category": "time_context",
+        "reason": "泛行运未明确类别，不将四十岁推大限",
+        "english_surface": "unspecified timing",
+        "scope_id": "c099_term0"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "破军"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "knowledge_domains": [
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ]
+  }
+}

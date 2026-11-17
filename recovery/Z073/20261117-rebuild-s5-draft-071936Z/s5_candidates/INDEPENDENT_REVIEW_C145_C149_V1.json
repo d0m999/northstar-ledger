@@ -1,0 +1,1976 @@
+{
+  "task": "Full six-axis independent C145–149 review",
+  "created_utc": "2026-11-17T07:13:13.479581+00:00",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c145",
+      "candidate_sha256": "427764f24c6949a061c8cdcc3c36899eef54884195e51b4fde48efce327a6566",
+      "snapshot_path": "preparation/independent_145_149_snapshot/c145.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Independent You placement missing; Mao and Illness placements present."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Exact Mao condition supports HuaJi carrying Life, not fly-in target. Opposition and negative conjunction scoped."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Birth-year stem is source-supported, no inferred annual/daxian context."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation with comparative example appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Explicit HuaJi needs restoration; source medical attribution retained."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Limited starts211, excludes tangled caption; exact evidence inside complete span."
+        }
+      },
+      "findings": [
+        "Add source-independent You Life placement from final comparative clause; Mao/You OR need not block separately explicit You branch.",
+        "Bilingual summary must preserve TianTong HuaJi rather than only general adverse influences.",
+        "Mao QingYang opposition and negative conjunction valid; no invented QingYang branch. Limited mixed chart prefix excluded, continuous 再者 onward complete."
+      ],
+      "field_evidence": [
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 742,
+              "end": 749,
+              "quote": "相應的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 576,
+              "end": 591,
+              "quote": "疾厄宮在命盤上所代表的主要功能"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 227,
+              "end": 237,
+              "quote": "擎羊不與天同化忌同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 391,
+              "end": 395,
+              "quote": "天同於病"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 220,
+              "quote": "再者，天同在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 226,
+              "end": 237,
+              "quote": "其擎羊不與天同化忌同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 340,
+              "end": 351,
+              "quote": "命宮與遷移宮成忌煞交沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 340,
+              "end": 351,
+              "quote": "命宮與遷移宮成忌煞交沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 433,
+              "end": 440,
+              "quote": "天同坐入疾厄宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 742,
+              "end": 749,
+              "quote": "相應的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "geng_mao",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "geng_mao_transform",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "geng_mao_transform",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "geng_mao_transform",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "mao_opposition",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "mao_not_colocation",
+            "kind": "conditional",
+            "condition": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 245,
+              "quote": "再者，天同在卯坐命，庚年生人，其擎羊不與天同化忌同宮，而是從對宮來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "quoted_illness",
+            "kind": "conditional",
+            "condition": "天同坐入疾厄宮時說道：「入廟災少，陷地逢吉平利，加諸惡主氣疾、寒熱及風邪之症。",
+            "attribution": "《全书，诸星自兄弟宫至父母宫吉凶论》引文"
+          },
+          "spans": [
+            {
+              "start": 433,
+              "end": 472,
+              "quote": "天同坐入疾厄宮時說道：「入廟災少，陷地逢吉平利，加諸惡主氣疾、寒熱及風邪之症。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 359,
+              "end": 384,
+              "quote": "天同在酉坐命者的命理凶象就遠較天同在卯坐命者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 227,
+              "end": 237,
+              "quote": "擎羊不與天同化忌同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validation": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "usable_spans_checked": true
+      },
+      "new_typed_hold": false,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c146",
+      "candidate_sha256": "1c7746ab2481308d5ef67a75f603a4b6ca9c866702bc0cec10747654ea37cb57",
+      "snapshot_path": "preparation/independent_145_149_snapshot/c146.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Individual Fire/Bell mentions to add; framework intact."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "No invented functional palace or certain disease caused by a star."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Middle-aged women is human age description, no divination cycle inferred."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation correct."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main TianTong/Fire/Bell conditions and alternative causes retained."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Continuous complete eligible prose."
+        }
+      },
+      "findings": [
+        "Core Fire/Bell pair present but individual named stars absent from stars_mentioned; add evidenced names, not fabricated conjunction.",
+        "Generic unnamed palace is not a registered functional Life/Illness palace; no placement invented. Medical/elemental theory can remain attributed prose/terms, not every causal statement needs a new typed relation."
+      ],
+      "field_evidence": [
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 10,
+              "end": 12,
+              "quote": "健康"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 251,
+              "end": 257,
+              "quote": "天同五行屬水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 7,
+              "end": 22,
+              "quote": "斗數論健康，須以中醫理論為基準"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 251,
+              "end": 257,
+              "quote": "天同五行屬水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 293,
+              "end": 298,
+              "quote": "並會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 227,
+              "end": 235,
+              "quote": "腎臟或膀胱的功能"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 282,
+              "end": 299,
+              "quote": "當天同坐入宮位忌煞交沖並會沖火鈴時"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 33,
+              "quote": "腎主水"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 382,
+              "end": 385,
+              "quote": "腎主骨"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 270,
+              "end": 277,
+              "quote": "膀胱與腎相表裡"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validation": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "usable_spans_checked": true
+      },
+      "new_typed_hold": false,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c147",
+      "candidate_sha256": "a72a4eec2c9ff0e6bc38c6fda1dece5d3218f64d30f6d92d842998c1895370cc",
+      "snapshot_path": "preparation/independent_145_149_snapshot/c147.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Core individual Fire/Bell mentions missing; water-star examples present."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "No astrology-to-medical proof asserted; no fabricated relation from generic class."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Season and menstrual periods are not annual cycle scopes."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation correct."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Final absent-Fire/Bell milder-condition exception preserved."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Complete eligible prose."
+        }
+      },
+      "findings": [
+        "Add individual HuoXing/LingXing mentions already identified by core registered pair; preserve full adverse/negative-absence conditions in interpretation.",
+        "水星 means water-element stars, not Western Mercury; no generic star-class participant substituted as a registered named star. Final no-Fire/Bell qualification survives bilingual summary."
+      ],
+      "field_evidence": [
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 354,
+              "end": 356,
+              "quote": "健康"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 369,
+              "end": 375,
+              "quote": "其他屬水星曜"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 228,
+              "end": 234,
+              "quote": "根據中醫論說"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 360,
+              "end": 367,
+              "quote": "不限於天同一星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 377,
+              "end": 388,
+              "quote": "巨門、太陰、破軍、天相"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 377,
+              "end": 388,
+              "quote": "巨門、太陰、破軍、天相"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 377,
+              "end": 388,
+              "quote": "巨門、太陰、破軍、天相"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 377,
+              "end": 388,
+              "quote": "巨門、太陰、破軍、天相"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 49,
+              "end": 58,
+              "quote": "忌煞交沖並會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 354,
+              "end": 358,
+              "quote": "健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 417,
+              "end": 437,
+              "quote": "若水星坐入宮位雖忌煞交沖，但並不會沖火鈴"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 96,
+              "end": 100,
+              "quote": "下焦虛寒"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 236,
+              "end": 240,
+              "quote": "腎虛頭痛"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 288,
+              "end": 292,
+              "quote": "開竅於耳"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 43,
+              "end": 45,
+              "quote": "水星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validation": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "usable_spans_checked": true
+      },
+      "new_typed_hold": false,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c148",
+      "candidate_sha256": "5f0292c9efd97ac552f8cb5f62ad53abdad57c9c7808dda6009de650d954535e",
+      "snapshot_path": "preparation/independent_145_149_snapshot/c148.json",
+      "decision": "return_ordinary_repairs",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Source explicitly calls for chart structure/star combinations; methods empty returned for review."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "No concrete person/chart inferred from co-chart concept."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Two-hour birth bin does not create time_mentions cycle."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept transition appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main whole-chart and individual differences retained; recap names are mentions not main argument."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Damaged heading locally uncertain but continuous body fully usable."
+        }
+      },
+      "findings": [
+        "Evaluate/add 格局分析 with explicit 命盤結構及屬水星曜的組合 source; empty methods should not follow merely from TaiSui method not registered.",
+        "Mentioned chapter-recap stars correctly differ from actively discussed TianTong. Damaged heading retained, not repaired. Shared two-hour charts do not instantiate actual patients or annual timing."
+      ],
+      "field_evidence": [
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 18,
+              "quote": "健康"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 211,
+              "end": 223,
+              "quote": "命盤結構及屬水星曜的組合"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 354,
+              "end": 374,
+              "quote": "疾厄宮乃是顯現一個人對疾病抵抗力強弱程度"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 354,
+              "end": 359,
+              "quote": "疾厄宮乃是"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 255,
+              "end": 267,
+              "quote": "關於天同所引發疾病的記載"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 154,
+              "quote": "健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 293,
+              "end": 298,
+              "quote": "紫微（土）"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 299,
+              "end": 304,
+              "quote": "天機（木）"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 310,
+              "quote": "太陽（火）"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 311,
+              "end": 316,
+              "quote": "武曲（金）"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 490,
+              "end": 492,
+              "quote": "共盤"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 544,
+              "end": 548,
+              "quote": "個別差異"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 63,
+              "end": 71,
+              "quote": "諸般水液皆屬於腎"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 276,
+              "end": 290,
+              "quote": "太歲入宫法及其应疾病推論的應"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validation": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "usable_spans_checked": true
+      },
+      "new_typed_hold": false,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c149",
+      "candidate_sha256": "390e07e7b43332ae15eb3cb5bb579631a999cf60d8435dc13328c705a9812600",
+      "snapshot_path": "preparation/independent_145_149_snapshot/c149.json",
+      "decision": "accepted_independent_six_axis",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Method intent, parent data, extension domains and preview retained."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Birth-year reference not actual annual star placement; cross-reference stars mentioned only."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No calendar/cycle assumed from birth-year method."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation, not case analysis."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Method objects and relational scope correctly translated; no established medical prediction."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Complete eligible prose."
+        }
+      },
+      "findings": [
+        "No ordinary correction required. Method explanation is substantive, final two cases only preview; do not classify as actual case analysis.",
+        "Birth-year TaiSui of related person is not automatically annual cycle, actual named star placement or specific relationship chart. Unregistered method preserved rather than substituting 太岁入命宫."
+      ],
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 407,
+              "end": 417,
+              "quote": "太歲入宮法之原理運用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 114,
+              "quote": "重大疾病問題"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 287,
+              "end": 292,
+              "quote": "婚姻的推論"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 306,
+              "end": 312,
+              "quote": "各式人際關係"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 205,
+              "end": 215,
+              "quote": "請參閱天機星與武曲星"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 205,
+              "end": 215,
+              "quote": "請參閱天機星與武曲星"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 334,
+              "end": 339,
+              "quote": "太歲入宮法"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 142,
+              "end": 146,
+              "quote": "個別差異"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 313,
+              "end": 320,
+              "quote": "建築物方位吉凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 407,
+              "end": 417,
+              "quote": "太歲入宮法之原理運用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validation": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "usable_spans_checked": true
+      },
+      "new_typed_hold": false,
+      "human_acceptance": false
+    }
+  ],
+  "method": "All source/candidate fields/evidence read on stable immutable bytes. Source validation supplements semantic assessment, not substitute. Rules only frozen rules paths, no old05.",
+  "old05_read": false,
+  "whole_source_S5_S6_passed": false,
+  "candidates_modified": false,
+  "schema_modified": false
+}

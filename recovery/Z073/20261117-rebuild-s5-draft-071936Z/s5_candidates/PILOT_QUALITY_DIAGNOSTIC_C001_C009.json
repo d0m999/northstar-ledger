@@ -1,0 +1,185 @@
+{
+  "semantic_acceptance": false,
+  "findings_are_review_signals": true,
+  "findings": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "source_term_uncovered",
+      "term": "寡宿",
+      "surfaces": [
+        "寡宿"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "source_term_uncovered",
+      "term": "将星",
+      "surfaces": [
+        "將星"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "english_anchor_review",
+      "term": "命宫",
+      "expected": [
+        "Life Palace",
+        "Ming Gong",
+        "MingGong",
+        "Destiny Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "english_anchor_review",
+      "term": "财帛宫",
+      "expected": [
+        "Wealth Palace",
+        "Cai Bo Gong",
+        "Finance Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "english_anchor_review",
+      "term": "田宅宫",
+      "expected": [
+        "Property Palace",
+        "Tian Zhai Gong",
+        "Real Estate Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "code": "english_anchor_review",
+      "term": "身宫",
+      "expected": [
+        "Body Palace",
+        "Shen Gong"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "code": "english_anchor_review",
+      "term": "紫微",
+      "expected": [
+        "Purple Star",
+        "Zi Wei",
+        "ZiWei",
+        "Emperor Star",
+        "Emperor"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "code": "english_anchor_review",
+      "term": "将星",
+      "expected": [
+        "Jiang Xing"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "code": "english_anchor_review",
+      "term": "福德宫",
+      "expected": [
+        "Fortune Palace",
+        "Fu De Gong",
+        "Happiness Palace",
+        "Blessings Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "code": "english_anchor_review",
+      "term": "紫微",
+      "expected": [
+        "Purple Star",
+        "Zi Wei",
+        "ZiWei",
+        "Emperor Star",
+        "Emperor"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "code": "source_term_uncovered",
+      "term": "将星",
+      "surfaces": [
+        "將星"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "code": "source_term_uncovered",
+      "term": "将星",
+      "surfaces": [
+        "將星"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "code": "source_term_uncovered",
+      "term": "将星",
+      "surfaces": [
+        "將星"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "code": "english_anchor_review",
+      "term": "命宫",
+      "expected": [
+        "Life Palace",
+        "Ming Gong",
+        "MingGong",
+        "Destiny Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "code": "english_anchor_review",
+      "term": "命宫",
+      "expected": [
+        "Life Palace",
+        "Ming Gong",
+        "MingGong",
+        "Destiny Palace"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "code": "english_anchor_review",
+      "term": "身宫",
+      "expected": [
+        "Body Palace",
+        "Shen Gong"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "code": "english_anchor_review",
+      "term": "命宫",
+      "expected": [
+        "Life Palace",
+        "Ming Gong",
+        "MingGong",
+        "Destiny Palace"
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "source_file": "紫云论斗数曜赋性第二册  390页",
+      "school": "紫微",
+      "first_id": "dots_all_20261013_ziwei_073_c001",
+      "last_id": "dots_all_20261013_ziwei_073_c009",
+      "count": 9,
+      "content_types": {
+        "概念解释": 7,
+        "实战断语": 2
+      },
+      "methods_nonempty": 1
+    }
+  ]
+}

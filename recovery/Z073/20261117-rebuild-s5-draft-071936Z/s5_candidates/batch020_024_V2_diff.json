@@ -1,0 +1,50 @@
+[
+  {
+    "file": "c020.json",
+    "before_sha256": "9aaa6bad0f5c2ae04db5082f087122e301d31c9bbbe4a443bafa4282222d0aa3",
+    "after_sha256": "205fef6b8c723af7b181141c3685d5aa6e011529b10248cf1c2be44c5e9a709a",
+    "changed_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ]
+  },
+  {
+    "file": "c021.json",
+    "before_sha256": "aab9f2e7cf1a879e13e9e9cbb9ad2ae0c8cc1d9946ca18f0f130197e0a965f03",
+    "after_sha256": "bfa60985ad4779a5bb8c6861bd77d8a2c8dde72cf07be9d63604e2ff92b6e927",
+    "changed_fields": [
+      "content_type",
+      "summary_en",
+      "keywords_en",
+      "annotation_evidence",
+      "ziwei"
+    ]
+  },
+  {
+    "file": "c022.json",
+    "before_sha256": "2e90e1bf70aa39acb41fc27030afe3f6927339a8d49c07aa3b929a713f20bc3c",
+    "after_sha256": "ec10b26da58e3c8e41bdccb05de9522492182d47e8c54c4a29d3ca46ca16cde0",
+    "changed_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ]
+  },
+  {
+    "file": "c023.json",
+    "before_sha256": "02ac7bd2ba67829b5cbf10ba0893f318ec91cd19f8dd8787ce091b229bf32df8",
+    "after_sha256": "988d2bc77f0b17a6bab3ed52d69286e0ef1b767e89bd59ef2efb3f489a28a49c",
+    "changed_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ]
+  },
+  {
+    "file": "c024.json",
+    "before_sha256": "79653a5be1069e73dc82c84fbbf340fca80bfb434cea3339ed7d99962dfdcf50",
+    "after_sha256": "e6b80526e024ed31e857345fad5542783d25e42aecbf799d5fcafeb29428450b",
+    "changed_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c093",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    120
+  ],
+  "chunk_text": "先賢曰：「財與囚仇，一生貧賤。」先賢對之有註解如下：「囚指廉貞，因其陰火剋武曲之陰金，財遛傷，主貧賤，此二星不能同度，僅可分處於身命二地，然亦有得意之人，因在廟旺之地，且有吉多來扶，但結果不佳。」賦文中的財是指武曲，囚則是指廉貞。有關武曲坐命逢廉貞的命理作用，在前面章節已有非常詳細的說明，就不再解釋。",
+  "chunk_index": 93,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "此段转引财与囚仇古注，以廉贞阴火克武曲阴金解释财受伤，明说两星不同行而分处命身；庙旺多吉仍可能得意，古注仍称结果不佳。作者仅解释财指武曲、囚指廉贞并回指前章，未新增命例或明确化忌。",
+  "summary_en": "This passage quotes the classical Cai Yu Qiu Chou explanation: Lian Zhen’s Yin Fire harms Wu Qu’s Yin Metal, interpreted as harm to wealth. The two stars are said not to occupy the same palace but to be divided between Life and Body. Strong placements and many benefics may still bring success, though the quoted commentator maintains an unfavorable ending. The author identifies Wealth as Wu Qu and Prison as Lian Zhen and refers back to earlier discussion; no new case or explicit Hua Ji is supplied.",
+  "keywords": [
+    "武曲",
+    "廉贞",
+    "财与囚仇",
+    "命身分处",
+    "阴火阴金"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Lian Zhen",
+    "Cai Yu Qiu Chou",
+    "separate Life and Body",
+    "Yin Fire and Yin Metal"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c93_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c93_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c93_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 37,
+          "end": 39,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c93_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 29,
+          "end": 31,
+          "quote": "廉貞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 59,
+          "end": 68,
+          "quote": "僅可分處於身命二地"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 59,
+          "end": 68,
+          "quote": "僅可分處於身命二地"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 27,
+          "end": 58,
+          "quote": "囚指廉貞，因其陰火剋武曲之陰金，財遛傷，主貧賤，此二星不能同度"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 9,
+          "quote": "財與囚仇"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 46,
+          "quote": "財遛傷"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 42,
+          "quote": "因其陰火剋武曲之陰金"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 47,
+          "end": 50,
+          "quote": "主貧賤"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 32,
+          "end": 42,
+          "quote": "因其陰火剋武曲之陰金"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c93_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 47,
+          "end": 50,
+          "quote": "主貧賤"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c93_crossref",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 115,
+          "end": 129,
+          "quote": "有關武曲坐命逢廉貞的命理作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c93_classic",
+        "negated": true,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c93_crossref",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "来源未注册格局，本文没有明示化忌，不能从其他章补。",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c93_classic"
+      },
+      {
+        "surface": "財遛傷",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原字疑损保留，不修正文。",
+        "english_surface": "unclear wealth injury wording",
+        "scope_id": "c93_classic"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "星曜性质",
+    "stars_mentioned": [
+      "武曲",
+      "廉贞"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

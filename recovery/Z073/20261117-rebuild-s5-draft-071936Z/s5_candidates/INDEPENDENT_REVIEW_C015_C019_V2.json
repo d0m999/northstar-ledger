@@ -1,0 +1,190 @@
+{
+  "stage": "S5 independent subset review",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "counts": {
+    "accept": 4,
+    "return": 0,
+    "blocked": 1
+  },
+  "old05_read": false,
+  "candidates_modified": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "candidate_sha256": "18f580fe0b829924e5bd57891dc088c6d851eb950a122530b7419fedc84a5a28",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "复核V1返修及全量变更字段，15/17/18遗漏补齐；19仍仅结构草稿，不称全语义通过。",
+        "binding": "查所有字段/范围/归属；不存在把目标宫误作承载宫；15两两同宫未知可不强配；17位置子可以合法location表达。",
+        "time": "15三对象大限/先天分scope，1949/1975不推流年；16年龄阈值非周期；17/18出生年不造盘类；19单大限提及保留OR条件不推大限盘。",
+        "content_type": "15具体林太太案例，其余理论、注释或理论例为概念解释，合理。",
+        "english": "已逐句比对，主要星曜/条件/年龄、限制与19OR保留；16太阳仅书内交叉引用，不要求扩成主旨。",
+        "source_quality": "17 limited仅排混排盘，完整正文与图说保留、全部证据落usable_spans内；其他eligible真实完整。19不得用资格降低规避结构问题。"
+      },
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "full_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_check": true
+      },
+      "unresolved": [],
+      "human_acceptance": false,
+      "resolved_issues": [
+        {
+          "issue_id": "C015-REL-01",
+          "evidence": {
+            "start": 322,
+            "end": 338,
+            "quote": "廉貞化忌在大限夫妻申宮沖先天命宮"
+          },
+          "finding": "已记录化忌及廉贞入夫妻宫，但缺明示化忌冲先天命宫的已注册四化作用；入宫参与者location也漏申。",
+          "action": "补廉贞化忌作用于先天命宫的四化作用，沿丙戌case scope及其原证据；夫妻宫参与者location保留申，勿把作用目标误填sihua.palace或飞入。"
+        },
+        {
+          "issue_id": "C015-REL-02",
+          "evidence": {
+            "start": 470,
+            "end": 492,
+            "quote": "等到乙酉限，太陰化忌，子宮為雙忌與火鈴夾制後"
+          },
+          "finding": "乙酉限明示火铃夹子（本段先天命宫）未在relations表达。",
+          "action": "在乙酉scope新增火星/铃星夹制命宫关系，目标location子；不补未知左右对应，也不把天同太阳并列句强配成两对同宫。"
+        }
+      ],
+      "revision_review": "新增廉贞四化冲命/乙酉火铃夹命，证据已含子、申；沿丙戌/乙酉时间scope，不猜具体火铃太阳天同配对。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c016",
+      "candidate_sha256": "2abcea272f1c9a2f0cafd6e458e6cf863ea2a22ca4354fc918f639e222850995",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "复核V1返修及全量变更字段，15/17/18遗漏补齐；19仍仅结构草稿，不称全语义通过。",
+        "binding": "查所有字段/范围/归属；不存在把目标宫误作承载宫；15两两同宫未知可不强配；17位置子可以合法location表达。",
+        "time": "15三对象大限/先天分scope，1949/1975不推流年；16年龄阈值非周期；17/18出生年不造盘类；19单大限提及保留OR条件不推大限盘。",
+        "content_type": "15具体林太太案例，其余理论、注释或理论例为概念解释，合理。",
+        "english": "已逐句比对，主要星曜/条件/年龄、限制与19OR保留；16太阳仅书内交叉引用，不要求扩成主旨。",
+        "source_quality": "17 limited仅排混排盘，完整正文与图说保留、全部证据落usable_spans内；其他eligible真实完整。19不得用资格降低规避结构问题。"
+      },
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "full_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_check": true
+      },
+      "unresolved": [],
+      "human_acceptance": false,
+      "resolved_issues": [],
+      "revision_review": "无更改，承接V1完整逐文复核。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c017",
+      "candidate_sha256": "2961342db556f0e769b33981e4217d4b619f299e98e0e32939c4b914dedcc29d",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "复核V1返修及全量变更字段，15/17/18遗漏补齐；19仍仅结构草稿，不称全语义通过。",
+        "binding": "查所有字段/范围/归属；不存在把目标宫误作承载宫；15两两同宫未知可不强配；17位置子可以合法location表达。",
+        "time": "15三对象大限/先天分scope，1949/1975不推流年；16年龄阈值非周期；17/18出生年不造盘类；19单大限提及保留OR条件不推大限盘。",
+        "content_type": "15具体林太太案例，其余理论、注释或理论例为概念解释，合理。",
+        "english": "已逐句比对，主要星曜/条件/年龄、限制与19OR保留；16太阳仅书内交叉引用，不要求扩成主旨。",
+        "source_quality": "17 limited仅排混排盘，完整正文与图说保留、全部证据落usable_spans内；其他eligible真实完整。19不得用资格降低规避结构问题。"
+      },
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "full_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_check": true
+      },
+      "unresolved": [],
+      "human_acceptance": false,
+      "resolved_issues": [
+        {
+          "issue_id": "C017-LOC-01",
+          "evidence": {
+            "start": 416,
+            "end": 443,
+            "quote": "癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後"
+          },
+          "finding": "癸年case的同宫及三个入宫记录均location=null，遗漏可明确保留的子；不是地支宫实体缺口。",
+          "action": "在case关系参与者location保留子（宫实体仍命宫），其余子午一般规则保持完整原条件，不拆成同时两宫。"
+        }
+      ],
+      "revision_review": "癸年case关系location子补足，条件子午一般规则未改。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c018",
+      "candidate_sha256": "e0188ef129380fc6689d2570df6646cc54348c587487ae059d6a0536ba15d0ae",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "复核V1返修及全量变更字段，15/17/18遗漏补齐；19仍仅结构草稿，不称全语义通过。",
+        "binding": "查所有字段/范围/归属；不存在把目标宫误作承载宫；15两两同宫未知可不强配；17位置子可以合法location表达。",
+        "time": "15三对象大限/先天分scope，1949/1975不推流年；16年龄阈值非周期；17/18出生年不造盘类；19单大限提及保留OR条件不推大限盘。",
+        "content_type": "15具体林太太案例，其余理论、注释或理论例为概念解释，合理。",
+        "english": "已逐句比对，主要星曜/条件/年龄、限制与19OR保留；16太阳仅书内交叉引用，不要求扩成主旨。",
+        "source_quality": "17 limited仅排混排盘，完整正文与图说保留、全部证据落usable_spans内；其他eligible真实完整。19不得用资格降低规避结构问题。"
+      },
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "full_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_check": true
+      },
+      "unresolved": [],
+      "human_acceptance": false,
+      "resolved_issues": [
+        {
+          "issue_id": "C018-REL-01",
+          "evidence": {
+            "start": 69,
+            "end": 91,
+            "quote": "此時不但天府土無法來生武曲金（因武曲化忌故）"
+          },
+          "finding": "这是明确武曲化忌改变天府与武曲作用，不只是无名五行相生；当前只有同宫/入宫缺已注册四化作用。",
+          "action": "新增壬年条件下武曲化忌与天府的四化作用，角色及完整证据保留「无法来生」；不能以negated=true误说四化作用不存在。"
+        }
+      ],
+      "revision_review": "补武曲化忌与天府的四化作用；完整无法生金原句、壬年条件及非negated均正确。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c019",
+      "candidate_sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "decision": "blocked",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "复核V1返修及全量变更字段，15/17/18遗漏补齐；19仍仅结构草稿，不称全语义通过。",
+        "binding": "查所有字段/范围/归属；不存在把目标宫误作承载宫；15两两同宫未知可不强配；17位置子可以合法location表达。",
+        "time": "15三对象大限/先天分scope，1949/1975不推流年；16年龄阈值非周期；17/18出生年不造盘类；19单大限提及保留OR条件不推大限盘。",
+        "content_type": "15具体林太太案例，其余理论、注释或理论例为概念解释，合理。",
+        "english": "已逐句比对，主要星曜/条件/年龄、限制与19OR保留；16太阳仅书内交叉引用，不要求扩成主旨。",
+        "source_quality": "17 limited仅排混排盘，完整正文与图说保留、全部证据落usable_spans内；其他eligible真实完整。19不得用资格降低规避结构问题。"
+      },
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "full_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_check": true
+      },
+      "unresolved": [
+        "C019地支宫缺合法实体及OR备择组合结构，正文摘要可保留但已注册位置规则未能结构化；接受作者BLOCKED判断而非通过。"
+      ],
+      "human_acceptance": false,
+      "resolved_issues": [
+        {
+          "issue_id": "C019-ATTR-01",
+          "evidence": {
+            "start": 0,
+            "end": 29,
+            "quote": "先賢曰：「如會祿馬於旺地之身命或大限，主異鄉得意，富有。」"
+          },
+          "finding": "time_mentions/time_context和禄马候选证据均归本书作者，未保留原句先贤引文归属。",
+          "action": "把涉及引文的scope attribution改为先贤引文（本书转引）；维持同scope一致。地支宫目的地及OR真正阻塞继续保留，不发明canonical。"
+        }
+      ],
+      "revision_review": "先贤引文大限/禄马归属修正，天机回指usage=mentioned；地支宫目的地及OR仍真实blocked。"
+    }
+  ],
+  "revision_method": "完整重读改动证据及上下文，逐字段差异检查，承接V1全正文/六维，所有五块再次冻结验证；不修改候选。"
+}

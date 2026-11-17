@@ -1,0 +1,6 @@
+{
+  "attempt1": "patterns_mentioned wrongly string array; repaired to PatternMention dictionary with source evidence.",
+  "attempt2": "事业宫 not canonical; explicit alias standardized 官禄宫 without semantic change.",
+  "self_review": "Removed mistaken 吉辅=>夹辅; per-star 四化作用 already retained.",
+  "final": "validate→model_dump→validate all five passed"
+}

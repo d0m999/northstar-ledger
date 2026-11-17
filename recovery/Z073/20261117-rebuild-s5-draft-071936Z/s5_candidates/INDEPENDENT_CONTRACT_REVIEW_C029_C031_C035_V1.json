@@ -1,0 +1,264 @@
+{
+  "review": "Independent frozen-contract review C029/C031/C035 and targeted earlier fixes",
+  "created_utc": "2026-11-17T06:28:59.317975+00:00",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c014",
+      "sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "limited"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c019",
+      "sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c022",
+      "sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c029",
+      "sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c031",
+      "sha256": "4785b60ec211dbd291827b91503acf25736e5e62b42e2fad4deb06205b6a94cb",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "limited"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c035",
+      "sha256": "0e865c0586d9e57933d9a696228c54d9a00cfff4661167c8e79b6720867b6ee5",
+      "strict_validation": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible"
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C029",
+      "evidence": [
+        {
+          "start": 199,
+          "end": 221,
+          "quote": "此時若有化忌或化祿（如武曲化忌或化祿）來引動"
+        },
+        {
+          "start": 307,
+          "end": 327,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌"
+        }
+      ],
+      "decision": "retain_specific_general_activation_alternative_hold",
+      "reason": "The later paragraph supplies a complete independent Hua Ji branch and it is already encoded under c29_ji/c29_ji_detail. It does not supply an independent Hua Lu branch with the same full premises. Therefore existing Ji facts are accepted as expressible coverage, but do not resolve the earlier general OR activation binding. No cross-chunk Lu condition may be imported.",
+      "expressible": "Wu Qu/Qi Sha same-palace rule, triple conjunction under full Ji premises, Wu Qu Hua Ji and its interaction are represented. Fire/Metal causality and qualified adverse outcome remain in source and bilingual summaries without inventing a relation type.",
+      "scope_boundary": "Do not shorten condition to 化祿 alone or duplicate the full OR condition into two asserted transformations. Mao/You as retained source condition is not a typed alternative location solution.",
+      "quality": "eligible appropriate; source is not downgraded for representability."
+    },
+    {
+      "chunk": "C031",
+      "evidence": [
+        {
+          "start": 282,
+          "end": 309,
+          "quote": "因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。"
+        },
+        {
+          "start": 310,
+          "end": 342,
+          "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+        },
+        {
+          "start": 429,
+          "end": 455,
+          "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮"
+        }
+      ],
+      "decision": "retain_specific_general_two_palace_activation_hold",
+      "reason": "Two complete examples support separately scoped Hua Ji facts: chart10 natal Ren-year Property and chart11 RenYin grand-cycle Fortune. Neither is the absent complete general Hua Lu branch. The corrupted opening mentioning Lu is outside usable spans and cannot supply a reliable replacement.",
+      "expressible": "Seven current relations plus two Sihua records preserve explicit chart10/chart11 placements/interactions and cycle time. No assertion that Qi Sha shares Ju Men/Huo Xing Life Palace; no invented functional palace at Yin. Ling substitution is a conditional prose rule, not an asserted actual placement.",
+      "quality": "limited because mixed chart text and dependent fragment; usable span keeps the full OR rule and both examples. Hold is separate from source-quality restriction.",
+      "ordinary_fix": "Bilingual summaries accurately cover cases but omit the explicit general Hua Lu OR Hua Ji activation prerequisite. Add it in both summaries rather than letting the general interaction sound unconditional."
+    },
+    {
+      "chunk": "C035",
+      "evidence": [
+        {
+          "start": 510,
+          "end": 523,
+          "quote": "且廉貞化忌或武曲化忌時始是"
+        },
+        {
+          "start": 524,
+          "end": 564,
+          "quote": "若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之。"
+        },
+        {
+          "start": 386,
+          "end": 409,
+          "quote": "當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金"
+        }
+      ],
+      "decision": "retain_specific_pattern_bearer_choice_hold; ordinary_fixes_required",
+      "reason": "Primary and secondary Body-Palace configurations have independently stated premises and may be separated in evidence/prose. EACH still requires Lian Zhen OR Wu Qu Hua Ji. No independent Wu Qu-only primary/secondary branch is stated. Earlier independent Lian Zhen Hua Ji supports evil-fire interaction, not the entire choice-conditioned pattern.",
+      "expressible": "Wu Qu Life -> Lian Zhen Wealth placement rule and explicit Lian Zhen evil-fire interaction are already represented. Lian Zhen Hua Lu with benefics has full independent source condition. Generic Lu/Quan/Ke positive versus Ji negative definitions are taxonomy mentions, not simultaneous transformations of a named bearer, so no blanket OR block is assigned to these generic definitions.",
+      "ordinary_fixes": [
+        {
+          "field": "ziwei.sihua_mentioned.0",
+          "finding": "Currently scoped to mixed 廉貞化忌或會多煞星... antecedent. A complete independent source condition 當廉貞化忌 exists in the next paragraph; bind the singular Lian Zhen Hua Ji record to c035_evil_fire and its complete source sentence instead of claiming mixed antecedent guarantees Ji. This is a frozen-contract repair, not a schema change."
+        },
+        {
+          "field": "summary_en",
+          "finding": "otherwise the stated configuration is secondary is too broad: secondary requires Body Palace NOT at Lian Zhen AND either named star Hua Ji. State both explicitly. Absence of Hua Ji alone does not produce the secondary pattern."
+        }
+      ],
+      "quality": "eligible remains appropriate; preserve caution against automatic poverty diagnosis and do not alter source text."
+    }
+  ],
+  "targeted_fix_reviews": [
+    {
+      "chunk": "C014",
+      "candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "targeted_fix_accepted": true,
+      "evidence": [
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.7",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "prior_representation_hold_unchanged": true
+    },
+    {
+      "chunk": "C019",
+      "candidate_sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "targeted_fix_accepted": true,
+      "evidence": [
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c019_stars_mentioned1",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 33,
+              "quote": "天機星"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "prior_representation_hold_unchanged": true
+    },
+    {
+      "chunk": "C022",
+      "candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "targeted_fix_accepted": true,
+      "evidence": [
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 610,
+              "end": 615,
+              "quote": "天機星部份"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "prior_representation_hold_unchanged": true
+    }
+  ],
+  "consulted_hashes": {
+    "preparation/s5_candidates/batch025_029_review.json": "c39e0037bfc62a1a5124a70c9f374f97e762e0d955b503fac55a814ac9a16f68",
+    "preparation/s5_candidates/batch030_034_review.json": "9a962a3c274d0e99cfc2291db34576a9519682dc8f6ef7538f4e21ed15879415",
+    "preparation/s5_candidates/batch035_039_review.json": "a6f92479ea8dbf66f124e56c32ef1193ea0bfb3d77313e044f3fe8be8324bbe6",
+    "preparation/s5_candidates/c035_BLOCKED.json": "1a024b4fa92414ac5422cc293afcc314e3c2fc15d809d6ee6c7d5768c4a1b715",
+    "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C014_C019_C022_V1.json": "ed250696c56c3bacf9e7636be4b861a19d13ee540a94be0342605b2a777b838a"
+  },
+  "rules_reference": {
+    "SihuaMention": "schemas.py 382–399: star is one registered star or null for unexpressed/unknown source star; no alternatives list/group.",
+    "RelationParticipant": "semantic_models.py 46–59: one entity_type/name/role/location; RelationMention has no OR operator/choice group.",
+    "placement_contract": "ziwei_vocabulary.yaml 2123–2126: star+palace roles; relation_entities palace registry does not register earthly-branch destinations as functional palaces.",
+    "source_conditions": "semantic_validation.py 227–228 requires original verbatim conditional string; 291–294 binds relation condition to evidence scope.",
+    "semantic_constraints": "CONTRACT domain object/condition binding; PENDING_DECISIONS D12/D13 do not combine unrelated records to establish a relation; QUALITY_REVISION_4 demands coverage/binding and source qualification independent of representability."
+  },
+  "decision_boundary": "OR is not automatically blocked. Source-authored complete independent branches may be represented separately when premises and effects stay bound. Category definitions are not realized conjunctive chart claims. Mixed-alternative antecedents cannot be copied to two positive objects and counted as solved typed binding. Existing independent cases do not exhaust a wider disjunctive rule.",
+  "candidate_schema_or_production_modified": false,
+  "old_original_05_read": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

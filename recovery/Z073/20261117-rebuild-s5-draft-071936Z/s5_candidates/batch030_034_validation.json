@@ -1,0 +1,35 @@
+{
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "bc8bb702f466ac77381b3aa6cb5ae600acc67f67f93fe408cd555f8f7ebbe4c2"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c031",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "e2d4464f0bc6fc367f5e2a5982337f55b3284f683c7bfa550287def6159c33f1"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c032",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "189a33c615cd072328476743b668f890209812a5e738868da69759d059438cd0"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c033",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "1e776315d4b09b497fe8649ca138e65dc0c3099f47669cbccba98f57efc3974c"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c034",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "8200d7331a8befcf10da4819af38ad7ccc5d86962ae4450be638f6b0cf03d9c5"
+    }
+  ]
+}

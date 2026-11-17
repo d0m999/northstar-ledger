@@ -1,0 +1,20 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c022",
+  "candidate_sha256": "2e90e1bf70aa39acb41fc27030afe3f6927339a8d49c07aa3b929a713f20bc3c",
+  "status": "BLOCKED_EXPRESSIBLE_DRAFT",
+  "issue": "four_transformation_object_alternatives_not_relation_only",
+  "source_quotes": [
+    "武曲或貪狼任一星曜的化祿或化忌",
+    "若是武曲或貪狼任一星曜化祿時",
+    "若是武曲或貪狼任一星曜化忌時"
+  ],
+  "reason": "BLOCKED：武曲或贪狼任一星曜化禄/化忌，SihuaMention.star只能单星/null；不能拆为两星同时化，也不能null/not_mentioned抹去明确备选对象。草稿未生成这些四化对象，正文/双语摘要保留完整；未宣称覆盖完整。",
+  "source_quality": "eligible",
+  "prohibited_workarounds": [
+    "two simultaneous four-transformation claims",
+    "star=null/not_mentioned despite named alternatives",
+    "qualification downgrade",
+    "schema change"
+  ],
+  "old_id_not_used_to_decide": true
+}

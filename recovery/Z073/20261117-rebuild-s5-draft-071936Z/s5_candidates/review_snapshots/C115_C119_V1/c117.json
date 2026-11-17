@@ -1,0 +1,423 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c117",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    150,
+    151
+  ],
+  "chunk_text": "先賢曰：「性溫和慈善，有機樞，無激亢，精通文墨。」上述賦文中的「機樞」，原意為比喻事物的關鍵部分，在此則是指機智（聰明）、變化，「激亢」係指激動、衝動。\n《全書，諸星在命身宮吉凶所主》亦有與本賦文類似的敘述，即天同「於人之身命，主為人謙遜，禀性温和，心慈耿直，文墨精通，有奇智，無亢激。」除上述賦文外，《全書，諸星入命身限吉凶訣》在談到天同入男命或女命時，分別有「天同若與吉星逢，性格聰明百事通」或「天同守命婦人身，性格聰明伶俐人」的說法。而《全集，論身命十二宮吉凶星訣便覽》在談到天同坐命者，則有如下的敘述：「天同廟旺聰明，文藝精通，博學多能，機巧，富貴高番，不貴亦主火富。陷地詭譎多慾，口談仁義，平常。」又，機巧即機敏靈巧，詭譎即奇特、怪誕。\n天同五行屬水，正好和金是兩個極端的對照。金因內聚之特性，不但剛硬，而且也具備某種特定的形狀。而水本身不但沒有特定的外形，且會不斷由高向下並往四周擴散，直到受到阻礙為止。也就是說，水會根據所處的環境來調整其形狀，直到它和環境達到平衡狀態時，此時只要不再受到外力的作用，就會繼續維持在此平衡狀態，此時所呈現出的是水性「溫和」及「適應環境」的一面，即水性呈「靜」的一面。由上述水的特質，就可衍伸出命宮星曜五行屬水者，個性會顯得較溫和，且能隨遇而安，較不會堅持己見，因此往往會予人一種隨和、謙遜的感覺。對一個性情溫和又能隨遇而安的人，就較不會激動。若從養生觀點來看，一個遇事較不會激動的人，往往也可能會較長壽，此即前述天同主壽命的賦性作用之所由來。\n",
+  "chunk_index": 117,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "先贤描写天同温和、机智、文墨精通，同时另有庙旺与陷地不同的描述。作者以水随环境调整并达平衡的静态特质解释随和、谦逊及少激动，进而提出长寿的命理解释；这不是确证的健康结论，原文高番、火富等疑字保留。",
+  "summary_en": "Classical accounts describe Tian Tong as gentle, resourceful and literate, while distinguishing favorable and weak placements. The author compares Water’s capacity to adjust to its surroundings and settle into equilibrium with an accommodating, modest and less excitable temperament. A proposed connection with longevity remains the author’s astrological explanation, not an established health conclusion. Uncertain characters in the quoted accounts of status and wealth are retained.",
+  "keywords": [
+    "天同",
+    "水性",
+    "性情温和",
+    "机枢",
+    "古赋引文"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Water nature",
+    "gentle temperament",
+    "Ji Shu",
+    "classical quotations"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 107,
+          "quote": "天同"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 241,
+          "end": 245,
+          "quote": "天同坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 108,
+          "end": 113,
+          "quote": "於人之身命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c117_female_quote",
+        "kind": "conditional",
+        "condition": "天同守命婦人身，性格聰明伶俐人",
+        "attribution": "《全書，諸星入命身限吉凶訣》"
+      },
+      "spans": [
+        {
+          "start": 200,
+          "end": 215,
+          "quote": "天同守命婦人身，性格聰明伶俐人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c117_tong_rule",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 241,
+          "end": 246,
+          "quote": "天同坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 31,
+          "end": 63,
+          "quote": "「機樞」，原意為比喻事物的關鍵部分，在此則是指機智（聰明）、變化"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 278,
+          "end": 280,
+          "quote": "高番"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 287,
+          "quote": "火富"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 324,
+          "end": 330,
+          "quote": "天同五行屬水"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 618,
+          "end": 624,
+          "quote": "可能會較長壽"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 324,
+          "end": 330,
+          "quote": "天同五行屬水"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c117_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 618,
+          "end": 624,
+          "quote": "可能會較長壽"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c117_female_quote",
+        "negated": false,
+        "condition": "天同守命婦人身，性格聰明伶俐人"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c117_tong_rule",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "機樞",
+        "proposed_category": "source_term",
+        "reason": "作者释机智变化，不造格局。",
+        "english_surface": "Ji Shu",
+        "scope_id": "c117_author"
+      },
+      {
+        "surface": "高番",
+        "proposed_category": "ocr_uncertain",
+        "reason": "保引文不补官位或高官。",
+        "english_surface": "Gao Fan uncertain OCR",
+        "scope_id": "c117_author"
+      },
+      {
+        "surface": "火富",
+        "proposed_category": "ocr_uncertain",
+        "reason": "不静默改为大富。",
+        "english_surface": "Huo Fu uncertain OCR",
+        "scope_id": "c117_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "星曜性质",
+    "stars_mentioned": [
+      "天同"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,257 @@
+{
+  "task": "Independent S5 C075–084 V1",
+  "reviewer_is_author": false,
+  "old_05_read": false,
+  "immutable_input_snapshot": "preparation/s5_candidates/review_snapshot_C075_C084_V1",
+  "hash_method": "Bytes copied before first reading; each result hash computed only from immutable snapshot bytes, never active candidate after review.",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "counts": {
+    "accept": 2,
+    "return": 7,
+    "blocked": 1
+  },
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c075",
+      "candidate_sha256": "b778d3a34124fc730197b9938732a4a19832a392f2d9ac745cc6957540148196",
+      "reviewed_input_bytes_sha256": "b778d3a34124fc730197b9938732a4a19832a392f2d9ac745cc6957540148196",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c075.json",
+      "decision": "return",
+      "typed_hold": false,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "补乙未天机/丁酉太阴/戊戌贪狼入大限命宫；乙未天机禄对命财的双禄作用与迁移丑位置；丙申天同禄作用先天命宫；末段癸年贪狼忌作用命宫。",
+        "甲午先后天命、丙申先后天命事业财帛作用、己亥先天命财不能用只绑定cycle的generic目标丢时层；独立role/scope/time区分，既有入宫双承载也需对应time。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c076",
+      "candidate_sha256": "47f2b0f95484d5190f21680155e933ca3965a159db5dab7331f1c9b03499116c",
+      "reviewed_input_bytes_sha256": "47f2b0f95484d5190f21680155e933ca3965a159db5dab7331f1c9b03499116c",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c076.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "首段廉贞禄作用武曲/命宫、廉贞禄与武曲科作用官禄/紫府，及廉贞入财帛均可表达，应补。武曲化科的甲年本例干可配完整intro证据。",
+        "紫府同宫禄存/入事业的寅位置可由同例禄存寅且明确事业+同坐支撑，补上下文而非借排盘。",
+        "丙子/丙午先后天命作用须区分时层，丁卯太阴入大限命宫可表达。",
+        "末述财帛连忌匿名化曜应合法null-star化忌；不是先天就是大限目标保持OR typed hold，不任意分配。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c077",
+      "candidate_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "reviewed_input_bytes_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c077.json",
+      "decision": "blocked",
+      "typed_hold": true,
+      "expressible_draft_accepted": true,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c078",
+      "candidate_sha256": "1e5d31dbd69fd0b72a7376638c502c8ba9710a91e1489fac2f92b0501b474e70",
+      "reviewed_input_bytes_sha256": "1e5d31dbd69fd0b72a7376638c502c8ba9710a91e1489fac2f92b0501b474e70",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c078.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "同宫分支证据只禄马字面，补前文祿存馬同處限定本段禄马对象，不扩大到别章。",
+        "独立迁移来合分支的禄存/天马入迁移与古引文此局如有贪狼同度条件同宫可表达，财官不明分配仍hold。古引文事实scope归属应保先贤转引。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c079",
+      "candidate_sha256": "26025b54b8200c54ed3c7eb00a4483f2470c9a2482656b46b1e126509ff69469",
+      "reviewed_input_bytes_sha256": "26025b54b8200c54ed3c7eb00a4483f2470c9a2482656b46b1e126509ff69469",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c079.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "一般论武曲火星辰戌同宫、对宫贪狼可分别条件关系；丑未武贪火星分支同宫也可表达。位置组hold不妨碍已注册关系。",
+        "火贪忌支明确不能成格不得误填破格；保负成格来源说明或明确枚举不足hold，并让成格/恶化分支保文末其他吉化/多吉缓解条件。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c080",
+      "candidate_sha256": "90c912585aa0bbe330c918c656b2a3aaab3aae12cc1917ac95002c8491ba1842",
+      "reviewed_input_bytes_sha256": "90c912585aa0bbe330c918c656b2a3aaab3aae12cc1917ac95002c8491ba1842",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c080.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "《全集，星垣论》独立官禄宫遇吉昭引文有武曲主语上下文，可补有归属武曲入官禄，不是从OR句强拆。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c081",
+      "candidate_sha256": "2010949d59058aa073801da4b643365e1f7bad1dee72656c8f5986be7159862d",
+      "reviewed_input_bytes_sha256": "2010949d59058aa073801da4b643365e1f7bad1dee72656c8f5986be7159862d",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c081.json",
+      "decision": "accept",
+      "typed_hold": false,
+      "expressible_draft_accepted": true,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c082",
+      "candidate_sha256": "0b0b3aa76200fbb97b09aea389f2c6a3cd248ce4521271c704afc1f77b7488eb",
+      "reviewed_input_bytes_sha256": "0b0b3aa76200fbb97b09aea389f2c6a3cd248ce4521271c704afc1f77b7488eb",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c082.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "文昌化忌作用命宫的辰location可用盘25辰命上下文补证；其导致铃昌陀武形成的已注册四化作用可增加明确pattern对象，不以sihua/成格字段替代机制关系。",
+        "一般武贪丑未同坐可保同宫且location null/branch hold；独立当武曲入迁移多吉通则可保入宫，与盘25分开，不能推命一定强。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c083",
+      "candidate_sha256": "24efc145eed0e6e5a9b9b952557cb9c23675d104ef710cde30e0da9b4a0c5169",
+      "reviewed_input_bytes_sha256": "24efc145eed0e6e5a9b9b952557cb9c23675d104ef710cde30e0da9b4a0c5169",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c083.json",
+      "decision": "accept",
+      "typed_hold": false,
+      "expressible_draft_accepted": true,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c084",
+      "candidate_sha256": "f3db9bbe24c0100c3df4ead76d54d1082051809906c59fa91387885a085ecd16",
+      "reviewed_input_bytes_sha256": "f3db9bbe24c0100c3df4ead76d54d1082051809906c59fa91387885a085ecd16",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C075_C084_V1/c084.json",
+      "decision": "return",
+      "typed_hold": true,
+      "expressible_draft_accepted": false,
+      "source_fields": "all five exact",
+      "structural_validation": "passed complete serialization and frozen validator",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文与全部领域对象/原文evidence已实读；缺少可表达关系列于required_changes，typed hold不能掩盖普通遗漏。",
+        "binding": "本例关系不借混排图；075/076先后天同名目标需时层区分；078独立分支/079 OR/080/082/084备选规则不得同时化。",
+        "time": "75/76明确大限与本命对象不应混；79泛出生年不当流年，戊己/壬癸周期备选保留；84中晚年不推大限；缺项列返修。",
+        "content_type": "75/76/79/82案例，77定义，78/80/81/84概念规则，83caption命例；主体归类合理。",
+        "english": "所有中英摘要实读，职业倾向不等必然，限运/多吉条件和混排限制保留。英文未额外配OR天干/星体或补命盘。",
+        "source_quality": "76/79/83确有排盘混排取可读范围，其余eligible；原OCR疑字未校复；方法缺口不以降级绕过。"
+      },
+      "required_changes": [
+        "《全书》独立與貪狼同值財鄉分句可补武曲/贪狼各入财帛，完整主语上下文及原引文attribution；不将末段财帛或田宅OR同时化。"
+      ],
+      "human_acceptance": false
+    }
+  ],
+  "formal_outputs_modified": false
+}

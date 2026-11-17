@@ -1,0 +1,25 @@
+{
+  "reviewer": "coordinator_not_candidate_author",
+  "created_utc": "2026-11-17T06:59:13.726087+00:00",
+  "correction": "V2 accepted expressible part before detecting omitted source-supported negative colocation. Preserve V2 but this precise same-hash decision retracts its acceptance pending repair; not a hash-binding error.",
+  "supersedes_report_sha256": "835f5132c0fee098b0c275b7a01ec958949aac2b505884f0ac6d2b7588a95b68",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "candidate_sha256": "de33f85ab39d0be50c8c58a493470e5b144f3478370bf394ad1bb53df8b4880e",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c091.json",
+      "decision": "returned_for_revision",
+      "coverage": "破曲同宫与三合适用范围区分，五行说明不造四化；有吉尤其左右例外保留。 V2补齐武曲及组合星mentioned、讨论状态，未推具体实际宫位。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [
+        "引文若武曲與破軍分處於弱宮可表达负同宫，V2误只补mentioned漏关系。按先贤引文scope+完整条件补，不改成实际案例。"
+      ],
+      "remaining_blocking_issues": []
+    }
+  ],
+  "whole_source_S5_or_S6_passed": false
+}

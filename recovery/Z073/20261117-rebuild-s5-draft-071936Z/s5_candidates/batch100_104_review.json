@@ -1,0 +1,183 @@
+{
+  "task": "Z073 S5 C100–104",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c100",
+      "candidate_sha256": "1e2f0e8585458ea1858b3b31e2d478100a7bd346adee6d47ade491fecdcd6db8",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "全5块原文逐文读；100文献年份，101古引及作者解释，102明确四化激发七杀羊，103两生年规则及女命限运，104一般与两caption/续文分开。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "101已撤借102才有的激发对象；抽象财/人际/健康目标无合法entity需hold。103匿名忌不填定星；104不从图推功能宫或修面宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "101单个明确流年标量与scope一致；103本命与大限分对象；104大限+流年两层同条件，出版年份/泛行限不作流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "100文献注释及101/102/104概念/规则为主，103命例分析。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "保暴力/刑伤属于古说与作者条件性命理，不是现实必然或诊断；103不宜概凶，104须按宫位事项保留。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "104混排剔除至旁路可用span，仅取原完整规则/可读caption/续文，其他正文eligible；不以质量等级绕过hold。"
+        }
+      },
+      "remaining_questions": [
+        "独审103两年条件对象完整性及104事项宫匿名/branch-only缺口。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c101",
+      "candidate_sha256": "6283bcb1c6f8934d5500e33936a11254f0534eafdc0c1171b8975331bf115435",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "blocked_expressible_draft",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "全5块原文逐文读；100文献年份，101古引及作者解释，102明确四化激发七杀羊，103两生年规则及女命限运，104一般与两caption/续文分开。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "101已撤借102才有的激发对象；抽象财/人际/健康目标无合法entity需hold。103匿名忌不填定星；104不从图推功能宫或修面宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "101单个明确流年标量与scope一致；103本命与大限分对象；104大限+流年两层同条件，出版年份/泛行限不作流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "100文献注释及101/102/104概念/规则为主，103命例分析。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "保暴力/刑伤属于古说与作者条件性命理，不是现实必然或诊断；103不宜概凶，104须按宫位事项保留。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "104混排剔除至旁路可用span，仅取原完整规则/可读caption/续文，其他正文eligible；不以质量等级绕过hold。"
+        }
+      },
+      "remaining_questions": [
+        "独审103两年条件对象完整性及104事项宫匿名/branch-only缺口。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c102",
+      "candidate_sha256": "882b57ae3ab5abe2c849aef3f2ba663c5dd646997d9a3784099cb03aca18d2aa",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "全5块原文逐文读；100文献年份，101古引及作者解释，102明确四化激发七杀羊，103两生年规则及女命限运，104一般与两caption/续文分开。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "101已撤借102才有的激发对象；抽象财/人际/健康目标无合法entity需hold。103匿名忌不填定星；104不从图推功能宫或修面宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "101单个明确流年标量与scope一致；103本命与大限分对象；104大限+流年两层同条件，出版年份/泛行限不作流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "100文献注释及101/102/104概念/规则为主，103命例分析。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "保暴力/刑伤属于古说与作者条件性命理，不是现实必然或诊断；103不宜概凶，104须按宫位事项保留。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "104混排剔除至旁路可用span，仅取原完整规则/可读caption/续文，其他正文eligible；不以质量等级绕过hold。"
+        }
+      },
+      "remaining_questions": [
+        "独审103两年条件对象完整性及104事项宫匿名/branch-only缺口。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c103",
+      "candidate_sha256": "0dbac5a6585ba3639496f156952b0ecc761f46bbda44078a7adc749daf91ce6d",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "blocked_expressible_draft",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "全5块原文逐文读；100文献年份，101古引及作者解释，102明确四化激发七杀羊，103两生年规则及女命限运，104一般与两caption/续文分开。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "101已撤借102才有的激发对象；抽象财/人际/健康目标无合法entity需hold。103匿名忌不填定星；104不从图推功能宫或修面宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "101单个明确流年标量与scope一致；103本命与大限分对象；104大限+流年两层同条件，出版年份/泛行限不作流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "100文献注释及101/102/104概念/规则为主，103命例分析。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "保暴力/刑伤属于古说与作者条件性命理，不是现实必然或诊断；103不宜概凶，104须按宫位事项保留。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "104混排剔除至旁路可用span，仅取原完整规则/可读caption/续文，其他正文eligible；不以质量等级绕过hold。"
+        }
+      },
+      "remaining_questions": [
+        "独审103两年条件对象完整性及104事项宫匿名/branch-only缺口。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c104",
+      "candidate_sha256": "fa1ede3a126021ffc02cf549af8b387a0b750a1128addaba0e210294e31709c8",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "blocked_expressible_draft",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "全5块原文逐文读；100文献年份，101古引及作者解释，102明确四化激发七杀羊，103两生年规则及女命限运，104一般与两caption/续文分开。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "101已撤借102才有的激发对象；抽象财/人际/健康目标无合法entity需hold。103匿名忌不填定星；104不从图推功能宫或修面宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "101单个明确流年标量与scope一致；103本命与大限分对象；104大限+流年两层同条件，出版年份/泛行限不作流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "100文献注释及101/102/104概念/规则为主，103命例分析。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "保暴力/刑伤属于古说与作者条件性命理，不是现实必然或诊断；103不宜概凶，104须按宫位事项保留。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "104混排剔除至旁路可用span，仅取原完整规则/可读caption/续文，其他正文eligible；不以质量等级绕过hold。"
+        }
+      },
+      "remaining_questions": [
+        "独审103两年条件对象完整性及104事项宫匿名/branch-only缺口。"
+      ]
+    }
+  ],
+  "old_labels_read": false,
+  "formal_05_written": false,
+  "schema_modified": false
+}

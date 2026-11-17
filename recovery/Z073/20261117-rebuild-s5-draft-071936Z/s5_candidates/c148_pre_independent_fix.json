@@ -1,0 +1,471 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c148",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    189,
+    190
+  ],
+  "chunk_text": "前曾提及，整張命盤就代表一個人的健康，因此只要任一宮位或某一項五行出現較大的凶象時，就有可能會出現相對應的毛病。再據中醫理論「諸般水液皆屬於腎」的論說，即諸凡體液皆和腎水有關，因此當一張命盤裡某一屬水宮位呈現較嚴重的剋害時，往往也會連帶使具有凶煞的其他屬水宮位受到不利影響。因此若把所有屬水衍生出來的健康問題，全都認為是來自某一宮位的水星所引起，顯然不很合理。至於該如何區分不同的水星所衍生出來屬水的毛病的差異，則必須根據命盤結構及屬水星曜的組合，再配合相關的中醫理論，才能作出詳細的推斷（註八）。至於古傳賦文關於天同所引發疾病的記載，在此僅供參考。\n太歲入宫法及其应疾病推論的應本書從紫微（土）、天機（木）、太陽（火）、武曲（金）到本章的天同（水），根據中醫理論已將星曜所屬五行的疾病都概略談過，同時也指出疾厄宮乃是顯現一個人對疾病抵抗力強弱程度的宮位，只要命盤上任一宮位（包含疾厄宮）受到剋害後，視此宮位星曜組合所受煞害程度，此人就有可能會有相應的健康問題。然而斗數命盤是根據一個人出生的年月日時所得出，一個時辰有兩個小時，只要是同樣這兩個小時內出生的人，命盤是一樣的（稱之為共盤），是否同命盤（共盤）者皆會生同樣的病，若否，在實務上究竟該如何做，才能做出正確的推論？這就要談到所謂的個別差異。",
+  "chunk_index": 148,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者认为健康须全盘五行结构结合中医辨析，不宜把所有水相关毛病归一宫水星。随后重述疾厄宫抵抗力说，提出同两小时出生可共盘却未必同病，需个别差异以衔接太岁入宫法。标题疑损保留，不补病人或具体盘。",
+  "summary_en": "The author advocates examining the whole chart, elemental structure and traditional medical framework rather than assigning every water-related condition to a single star or palace. The Illness Palace is again interpreted as resistance to illness. Shared charts for births within the same two-hour period need not imply identical disease, motivating individual-difference analysis and Tai Sui Ru Gong Fa. The damaged heading is retained; no specific patient or chart is reconstructed.",
+  "keywords": [
+    "全盘健康",
+    "水星",
+    "疾厄宫",
+    "共盘",
+    "个别差异",
+    "太岁入宫法"
+  ],
+  "keywords_en": [
+    "whole-chart health interpretation",
+    "water-element stars",
+    "Illness Palace",
+    "shared birth charts",
+    "individual differences",
+    "Tai Sui Ru Gong Fa"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 18,
+          "quote": "健康"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 223,
+          "quote": "命盤結構及屬水星曜的組合"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 354,
+          "end": 374,
+          "quote": "疾厄宮乃是顯現一個人對疾病抵抗力強弱程度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 354,
+          "end": 359,
+          "quote": "疾厄宮乃是"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 255,
+          "end": 267,
+          "quote": "關於天同所引發疾病的記載"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 154,
+          "quote": "健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 293,
+          "end": 298,
+          "quote": "紫微（土）"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 299,
+          "end": 304,
+          "quote": "天機（木）"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 310,
+          "quote": "太陽（火）"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 311,
+          "end": 316,
+          "quote": "武曲（金）"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 490,
+          "end": 492,
+          "quote": "共盤"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 544,
+          "end": 548,
+          "quote": "個別差異"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 63,
+          "end": 71,
+          "quote": "諸般水液皆屬於腎"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 276,
+          "end": 290,
+          "quote": "太歲入宫法及其应疾病推論的應"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "共盤",
+        "proposed_category": "source_method_concept",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "shared chart",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "個別差異",
+        "proposed_category": "source_method_concept",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "individual differences",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "諸般水液皆屬於腎",
+        "proposed_category": "source_medical_framework",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "all fluids attributed to kidney",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "太歲入宫法及其应疾病推論的應",
+        "proposed_category": "ocr_uncertain_heading",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Tai Sui method damaged heading",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "紫微",
+      "天机",
+      "太阳",
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "疾厄宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

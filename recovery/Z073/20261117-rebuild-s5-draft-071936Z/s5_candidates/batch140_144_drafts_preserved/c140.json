@@ -1,0 +1,220 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c140",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    180,
+    181
+  ],
+  "chunk_text": "太歲宮位的意義及作用\n由於太歲宮位在斗數論命扮演非常重要的角色，而古傳賦文於此幾無著墨。為增進讀者對太歲宮位的了解，並方便後續賦文的闡釋，在此特將太歲宮位的意義及作用，做一解說。\n傳統斗數論命，基本上是以命身格局為主，認為只要透過命盤的命身格局，就可了解命造的性格特質及聰明オ智等與生俱來的稟賦。至於太歲宮位的作用，古傳賦文僅有「命宮與太歲宮位同宮者，吉者更吉，凶者更凶」的類似說法（請參閱武曲星的相關解說），遑論其它，以致今人根本不知道太歲宮位的意義及作用，更不知道該如何用。\n根據紫雲先生的研究與論命實務顯示，太歲宮位不只限於對坐入宮位吉凶的加重作用，對於一個人與生俱來的稟賦，如性格特質及聰明才智，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。（註六）既然命宮、身宮及太歲宮位都與一個人與生俱來的稟賦有關，那該如何區分？若以表裡做區分，相較於命身宮的作用為「表」，太歲宮位的作用則為「裡」。「表」的作用較外顯，讓人看得到，容易理解，「裡」的作用較深沉、內斂，不容易讓人看得到，也不容易理解。因此，命身宮的性格特質，通常會在日常的言行舉止間表現出來。而太歲宮位的性格特質，卻在日常生活中隱而不顯，但在某些特殊情境下，就會顯現出來，展現出平常所不曾有的行為。又，太歲宮位如果既旺又強時，一個人的命理特質，往往會出現在太歲宮位的作用上。（註六）註四：一個人不論其財富是否能達到社會上所認定的富裕標準，但只要他能知足常樂，某種程度上也可以說他是個富裕之人。\n",
+  "chunk_index": 140,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者引紫云研究区分命身宫外显特质与太岁宫位较深隐的先天特质，认为太岁旺强时尤其重要，非仅加重原宫吉凶。武曲只章节回指；末注以知足说明富裕，不把太岁当流年。",
+  "summary_en": "Citing Zi Yun, the author distinguishes outward Life and Body traits from deeper, less visible natal Tai Sui traits. A strong Tai Sui position can dominate interpretation rather than merely intensify its palace. Wu Qu is only a chapter cross-reference. The appended note treats contentment as one sense of wealth; Tai Sui here is not annual timing.",
+  "keywords": [
+    "太岁宫位",
+    "来源说明"
+  ],
+  "keywords_en": [
+    "Tai Sui position",
+    "source attribution"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c140_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c140_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c140_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 192,
+          "end": 203,
+          "quote": "請參閱武曲星的相關解說"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c140_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 332,
+          "end": 342,
+          "quote": "命宮、身宮及太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c140_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 332,
+          "end": 342,
+          "quote": "命宮、身宮及太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c140_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "quote": "太歲宮位的意義及作用"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c140_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "quote": "太歲宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c140_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 375,
+          "end": 385,
+          "quote": "命身宮的作用為「表」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c140_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 386,
+          "end": 398,
+          "quote": "太歲宮位的作用則為「裡」"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "太歲宮位",
+        "proposed_category": "source_position",
+        "reason": "作者引紫云先天人格位置，不推年运或注册功能宫",
+        "english_surface": "natal Tai Sui position",
+        "scope_id": "c140_term0"
+      },
+      {
+        "surface": "表",
+        "proposed_category": "source_theory",
+        "reason": "命身外显与太岁内隐的来源区分",
+        "english_surface": "outward traits",
+        "scope_id": "c140_term1"
+      },
+      {
+        "surface": "裡",
+        "proposed_category": "source_theory",
+        "reason": "内隐特质，非新宫位",
+        "english_surface": "inner traits",
+        "scope_id": "c140_term2"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "knowledge_domains": [
+      "宫位变化"
+    ]
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c084",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    110,
+    111,
+    112
+  ],
+  "chunk_text": "先賢曰：「武曲貪狼財宅位，橫發資財。」先賢對之有註解如下：「二星同處僅丑未二宮方可，且皆旺地，主吉，又主晚發，多不依祖業，故有横發之意，財帛進之財旺，若入田宅，因田宅乃藏財之所，得財星，自然富足矣。若人命財宮雖佳，而田宅有煞無吉，多旺而不聚，結果虚花。」另外，在《全書，諸星在命身宮吉凶所主》中亦有類似的說法如下：「與貪狼同值財鄉，横發資財」，在《全書，諸星在命身及十二宮吉凶要訣》則有更進一步的說明，即「武曲與貪狼同值財帛或田宅宫，得化吉守照，而命身眾吉聚湊，則可以横發資財」。\n賦文中的「橫發」係指無中生有，有辛苦得來之意，而「資財」在此則是指金錢財物。\n如前所述，武曲與貪狼僅在丑未二宮同度，但因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌。再者，武貪在丑未二宮均為「雙星殺破狼」的組合，而「雙星殺破狼」主動、主開創，故武貪在丑未坐命者，較不喜墨守傳統、依附祖業，在事業上傾向於自行創業，縱使在會多吉星及所行限運順暢的情形下，往往也是早年歷盡艱辛，到了中晚年才能有所大成就，且其財富也多半是辛苦得來。至於武貪坐入財帛宮或田宅宮，只要會多吉星，財星入財宮，自然以吉論，此時若命身又吉旺，相形之下，更能凸顯出武貪的正面作用，均有助於求財，就能「橫發資財」。\n",
+  "chunk_index": 84,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "解释武贪财宅位横发资财：横发为辛苦得来而非保证突发。武曲贪狼丑未同度本质相克，化禄仍须多吉才免长期劳碌；好动开创使其倾向创业，不依祖业，多早辛苦而中晚有成。财帛或田宅多吉且命身吉旺利求财，田宅有煞无吉可能财旺而不聚；备选位置不扁平化。",
+  "summary_en": "The passage interprets Wu Tan wealth and property claims as hard-earned gains, not guaranteed sudden riches. Military Melody and Greedy Wolf share Chou or Wei but inherently conflict; even Prosperity requires many benefics to avoid prolonged toil. Their active, pioneering character favors independent enterprise rather than inherited business, often with early hardship and later achievement. Favorable Wealth or Property placements, supported by strong Life and Body, aid accumulation; adverse unsupported Property can prevent retention. Alternative locations are not flattened into simultaneous placements.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "财帛宫",
+    "田宅宫",
+    "命宫",
+    "身宫",
+    "化禄",
+    "横发资财",
+    "创业"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Greedy Wolf",
+    "Wealth Palace",
+    "Property Palace",
+    "Life Palace",
+    "Body Palace",
+    "Prosperity Transformation",
+    "hard-earned gains",
+    "entrepreneurship"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 298,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 17,
+          "quote": "武曲貪狼財宅位，橫發資財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 381,
+          "end": 393,
+          "quote": "雙星殺破狼」主動、主開創"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 487,
+          "end": 498,
+          "quote": "武貪坐入財帛宮或田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 274,
+          "end": 278,
+          "quote": "金錢財物"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 428,
+          "quote": "自行創業"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "quote": "武曲貪狼財宅位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "quote": "武曲貪狼財宅位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 491,
+          "end": 494,
+          "quote": "財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 495,
+          "end": 498,
+          "quote": "田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 138,
+          "end": 140,
+          "quote": "命身"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 138,
+          "end": 140,
+          "quote": "命身"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 298,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "wu_tan_group",
+        "kind": "conditional",
+        "condition": "武曲與貪狼僅在丑未二宮同度",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 298,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "prosperity_generic",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 487,
+          "end": 560,
+          "quote": "武貪坐入財帛宮或田宅宮，只要會多吉星，財星入財宮，自然以吉論，此時若命身又吉旺，相形之下，更能凸顯出武貪的正面作用，均有助於求財，就能「橫發資財」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 17,
+          "quote": "武曲貪狼財宅位，橫發資財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 369,
+          "end": 374,
+          "quote": "雙星殺破狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "life_武曲",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "life_贪狼",
+        "kind": "conditional",
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 316,
+          "end": 355,
+          "quote": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "quoted_property_武曲",
+        "kind": "conditional",
+        "condition": "若入田宅，因田宅乃藏財之所，得財星，自然富足矣",
+        "attribution": "先贤所引武曲贪狼赋文注解"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 127,
+          "quote": "先賢曰：「武曲貪狼財宅位，橫發資財。」先賢對之有註解如下：「二星同處僅丑未二宮方可，且皆旺地，主吉，又主晚發，多不依祖業，故有横發之意，財帛進之財旺，若入田宅，因田宅乃藏財之所，得財星，自然富足矣。若人命財宮雖佳，而田宅有煞無吉，多旺而不聚，結果虚花。」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "quoted_property_贪狼",
+        "kind": "conditional",
+        "condition": "若入田宅，因田宅乃藏財之所，得財星，自然富足矣",
+        "attribution": "先贤所引武曲贪狼赋文注解"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 127,
+          "quote": "先賢曰：「武曲貪狼財宅位，橫發資財。」先賢對之有註解如下：「二星同處僅丑未二宮方可，且皆旺地，主吉，又主晚發，多不依祖業，故有横發之意，財帛進之財旺，若入田宅，因田宅乃藏財之所，得財星，自然富足矣。若人命財宮雖佳，而田宅有煞無吉，多旺而不聚，結果虚花。」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "v2_quoted_wealth_武曲",
+        "kind": "conditional",
+        "condition": "與貪狼同值財鄉，横發資財",
+        "attribution": "《全书，诸星在命身宫吉凶所主》引文"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 172,
+          "quote": "先賢曰：「武曲貪狼財宅位，橫發資財。」先賢對之有註解如下：「二星同處僅丑未二宮方可，且皆旺地，主吉，又主晚發，多不依祖業，故有横發之意，財帛進之財旺，若入田宅，因田宅乃藏財之所，得財星，自然富足矣。若人命財宮雖佳，而田宅有煞無吉，多旺而不聚，結果虚花。」另外，在《全書，諸星在命身宮吉凶所主》中亦有類似的說法如下：「與貪狼同值財鄉，横發資財」，"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "v2_quoted_wealth_贪狼",
+        "kind": "conditional",
+        "condition": "與貪狼同值財鄉，横發資財",
+        "attribution": "《全书，诸星在命身宫吉凶所主》引文"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 172,
+          "quote": "先賢曰：「武曲貪狼財宅位，橫發資財。」先賢對之有註解如下：「二星同處僅丑未二宮方可，且皆旺地，主吉，又主晚發，多不依祖業，故有横發之意，財帛進之財旺，若入田宅，因田宅乃藏財之所，得財星，自然富足矣。若人命財宮雖佳，而田宅有煞無吉，多旺而不聚，結果虚花。」另外，在《全書，諸星在命身宮吉凶所主》中亦有類似的說法如下：「與貪狼同值財鄉，横發資財」，"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "对星组合",
+      "格局解析",
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "wu_tan_group",
+        "negated": false,
+        "condition": "武曲與貪狼僅在丑未二宮同度"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_武曲",
+        "negated": false,
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_贪狼",
+        "negated": false,
+        "condition": "除非是在會多吉星下，否則縱然是有化祿來，武貪在丑未坐命者，一輩子仍然是較為勞碌"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "田宅宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_property_武曲",
+        "negated": false,
+        "condition": "若入田宅，因田宅乃藏財之所，得財星，自然富足矣"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "田宅宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_property_贪狼",
+        "negated": false,
+        "condition": "若入田宅，因田宅乃藏財之所，得財星，自然富足矣"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_quoted_wealth_武曲",
+        "negated": false,
+        "condition": "與貪狼同值財鄉，横發資財"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "v2_quoted_wealth_贪狼",
+        "negated": false,
+        "condition": "與貪狼同值財鄉，横發資財"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "武曲貪狼財宅位，橫發資財",
+        "proposed_category": "source_verse",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Tan Lang Cai Zhai Wei Heng Fa Zi Cai",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "雙星殺破狼",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Shuang Xing Sha Po Lang",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "财帛宫",
+      "田宅宫",
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "prosperity_generic"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": [
+      "贪武同行"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

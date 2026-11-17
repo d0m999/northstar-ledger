@@ -1,0 +1,213 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "formal05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c080",
+      "candidate_sha256": "413f9daa900077e259e2475ef6915fa228fb45db152ed78e3f26af44a15de6de",
+      "candidate_file": "c080.json",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "BLOCKED alternative_functional_palace_placement：事业或财帛或迁移备选配置不能合成一盘；独立武曲命与古赋财帛句入宫可表达已保。",
+        "职业倾向不等必然职业，多吉/主星强弱限制保留；魁钺二星对星称谓不推同宫。",
+        "太阳/天机仅章节交叉引用usage mentioned；命恒疑字不补。",
+        "独立审查可表达关系遗漏已修，详batch075_084_V2_repair_draft_log；typedhold未解除。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c081",
+      "candidate_sha256": "2010949d59058aa073801da4b643365e1f7bad1dee72656c8f5986be7159862d",
+      "candidate_file": "c081.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "明确武曲旺宫、多吉、从商三个条件同scope；迁移宫不保证财富或必经商。",
+        "祿權中的禄/权复合简称有具体四化解释不充分，留原词而非强造化禄对象；化吉也不当化禄。",
+        "紫微仅章节回指；违移宫疑字保留，不从该字生成新宫位。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c082",
+      "candidate_sha256": "52a8108f1c340e2f5407227f0a023298eb055d41f1a0f8d1bbfc62138bfff482",
+      "candidate_file": "c082.json",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "BLOCKED opposing_configuration_alternatives_and_branch_group：一般武曲对宫若非杀破狼则天府或天相，无法任择；丑未组亦未定单支。真实盘二十五的辰/戌关系独立明确可表达，不受此阻塞。",
+        "两命格名称区别：府相朝垣按本作者一般条件记成格，不依据外部规则改文；紫府相朝垣未注册不删相。",
+        "盘二十五文昌化忌影响命宫不代表承载或飞入命宫；四化palace/source/target未误填。",
+        "命宫与迁移一般对宫、贪狼辰命/武曲擎羊戌迁移、辛年化忌和铃昌陀武均已对象绑定。",
+        "独立审查可表达关系遗漏已修，详batch075_084_V2_repair_draft_log；typedhold未解除。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c083",
+      "candidate_sha256": "24efc145eed0e6e5a9b9b952557cb9c23675d104ef710cde30e0da9b4a0c5169",
+      "candidate_file": "c083.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "仅可读caption；逐移/成/佳会/富賣疑字保留，未把成猜戌。",
+        "武曲迁移依据后部明确原句而非猜前部；命宫铃昌陀武来自可读文字，不从图恢复成员星位。",
+        "紫府相朝垣保原名称，未映射其他canonical；格局分析已据命迁条件使用。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c084",
+      "candidate_sha256": "9a510478472e49f940bd83655aac263fa404f931b6f670a215c0df9816c75132",
+      "candidate_file": "c084.json",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "BLOCKED alternative_palace_and_branch_group：丑未同度与财帛或田宅备选未按单location或同时两宫处理。",
+        "明确独立若入田宅分句可表达两星田宅，条件/古赋归属与前句主语同证据；武贪坐命关系亦独立保留。",
+        "化禄未明对象，star=null/not_mentioned，不把两星都化禄；晚发/中晚年是人生阶段不是大限。",
+        "创业倾向、辛苦得财、需多吉命身强与田宅不聚财风险双语保留。",
+        "独立审查可表达关系遗漏已修，详batch075_084_V2_repair_draft_log；typedhold未解除。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

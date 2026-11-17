@@ -1,0 +1,317 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c027",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    52
+  ],
+  "chunk_text": "「寡宿」凶格的凶象就會被激發出來，此時不但不能有「大富貴」，恐怕前述「寡宿」凶格的負面作用都會出現。\n註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n",
+  "chunk_index": 27,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "注八转述紫云研究：太岁宫位不只加重所在宫位吉凶，也影响命理特质，尤其性格，重要性可比命身宫；提及太岁入宫或入卦法，并指向天同章节。首段寡宿凶象缺触发前文，不独立引用为无条件凶断。",
+  "summary_en": "Note 8 attributes to Zi Yun the view that a Tai Sui palace does more than intensify local auspicious or adverse signs: it shapes personal characteristics, sometimes as strongly as the Life and Body Palaces. It mentions Tai Sui Ru Gong or Ru Gua methods and refers readers to the Tian Tong section. The opening Gua Su fragment lacks its triggering context and is not used as an unconditional adverse rule.",
+  "keywords": [
+    "太岁宫位",
+    "太岁入宫",
+    "入卦",
+    "紫云",
+    "天同"
+  ],
+  "keywords_en": [
+    "Tai Sui palace",
+    "Tai Sui Ru Gong",
+    "Ru Gua",
+    "Zi Yun",
+    "Tian Tong"
+  ],
+  "topic": "命运总论",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c27_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c27_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 232,
+          "end": 243,
+          "quote": "將於天同星部分再做解說"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 136,
+          "end": 139,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 136,
+          "end": 139,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 51,
+          "end": 245,
+          "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 155,
+          "quote": "對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 185,
+          "end": 195,
+          "quote": "太歲入宮（或入卦）法"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 185,
+          "end": 195,
+          "quote": "太歲入宮（或入卦）法"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 51,
+          "end": 245,
+          "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c27_ziyun",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注八转述紫雲先生研究与经验"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 155,
+          "quote": "對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "首段凶格作用承前缺触发条件；仅完整注八可用。",
+    "usable_spans": [
+      {
+        "start": 51,
+        "end": 245,
+        "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮",
+        "proposed_category": "analysis_method",
+        "reason": "未注册方法；不是把太岁当星曜入固定宫的具体命例。",
+        "english_surface": "Tai Sui Ru Gong",
+        "scope_id": "c27_ziyun"
+      },
+      {
+        "surface": "入卦",
+        "proposed_category": "analysis_method",
+        "reason": "原文备择方法简称，不跨派填六爻对象。",
+        "english_surface": "Ru Gua",
+        "scope_id": "c27_ziyun"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "推测技法",
+    "stars_mentioned": [
+      "天同"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

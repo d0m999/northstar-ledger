@@ -1,0 +1,174 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c100",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    127
+  ],
+  "chunk_text": "註十五：有關林老板的事業經營狀況及相閱的命理解析，係取材自紫雲著《從斗數看人生》（此書由時報出版社於一九九三年出版）書中「宮祿宮-一個中小企業的佼佼者」乙文。\n註十六：有關王董事長的事業經營狀況及相關的命理解説，係取材自紫雲著《斗數論事業》（此書由時報出版社於一九九二年出版，後於二0一一年再由武陵出版社出版）書中「家電大亨-論事業開創的吉凶分辨之道」乙文。\n",
+  "chunk_index": 100,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "两条文献注释说明林老板经营与命理分析取材紫云《从斗数看人生》相关篇，王董事长取材《斗数论事业》相关篇；1993、1992及2011是出版年份，不是命例行运。相阅、宫禄宫等源字不静默改写。",
+  "summary_en": "Two bibliographic notes attribute Mr. Lin’s business case to Zi Yun’s Cong Dou Shu Kan Ren Sheng and Chairman Wang’s case to Dou Shu Lun Shi Ye. The years 1993, 1992 and 2011 are publication dates, not chart events or fortune cycles. Unclear source characters are retained rather than silently corrected.",
+  "keywords": [
+    "文献注释",
+    "紫云",
+    "出版年份"
+  ],
+  "keywords_en": [
+    "bibliographic notes",
+    "Zi Yun",
+    "publication dates"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c100_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c100_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c100_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 16,
+          "quote": "事業經營狀況"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c100_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 64,
+          "quote": "宮祿宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c100_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 19,
+          "quote": "相閱"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "宮祿宮",
+        "proposed_category": "ocr_uncertain_title",
+        "reason": "书目篇名宫禄宫原样，不造宫名",
+        "english_surface": "Gong Lu Gong uncertain title",
+        "scope_id": "c100_term0"
+      },
+      {
+        "surface": "相閱",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原文相阅不改相关",
+        "english_surface": "Xiang Yue uncertain OCR",
+        "scope_id": "c100_term1"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

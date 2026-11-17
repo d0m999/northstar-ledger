@@ -1,0 +1,608 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c159",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    207,
+    208,
+    209,
+    210
+  ],
+  "chunk_text": "綜合上述討論，可以得知，同陰在午坐命，不論是丙或戊年生人，若不會沖火鈴，再會多吉星，因具「馬頭帶劍」格局作用，均利於從事對外開拓的工作，並能有好成果，但一輩子都相當辛勞。\n在結束本賦文前，必須加以說明的是，「馬頭帶劍」格並不限於同陰在午坐命且為丙戊生人者。例如《全書，註解太微賦》在談到「馬頭帶劍，鎮禦邊」時，有如下註解：「假如午宮安命，遇有天同、貪狼或擎羊，丙、戊人逢之化吉。雖以羊刄在命以為美論，富貴皆可許也，只是不耐久。」意即貪狼在午坐命，丙或戊年生人，亦為「馬頭帶劍」格。又，羊刃在此指擎羊。廣義而言，只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格，此即《全書，定貴局》對「馬頭帶劍」格局的看法，即「午宫為馬，安命於此與擎羊同守，須有吉星同恒及三方吉拱方論。」關於貪狼在午的「馬頭帶劍」格局作用，將於貪狼星部分再做解說。\n註十四：在天機星部份論及「機梁會合善談兵，居戌亦為美論」時，曾採用十二地支所屬的陰陽五行說明賦文的作用。然十二地支除有其所屬的陰陽五行外，亦有其相應的十二生肖，即子鼠、丑牛、寅虎、卯兔、辰龍、巳蛇、午馬、未羊、申猴、酉雞、戌狗、亥豬。\n註十五：關於「日月反背」坐命者的命理現象，請參閱太陽星部份的相關解說。\n",
+  "chunk_index": 159,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "同阴午命丙或戊生人不冲火铃且多吉时马头带剑利开拓但辛劳。作者指出格局也可见于贪狼午命，并以午命羊守、吉星同会及三方吉拱为广义条件，不把多个星曜备择并成同宫。十二生肖为旁注，日月反背与机梁为章节回指。",
+  "summary_en": "For Bing or Wu births with Tian Tong–Tai Yin in Wu Life, Ma Tou Dai Jian favors outward expansion only with many benefics and no Huo Ling confrontation, while retaining toil. The author extends the configuration to Tan Lang at Wu and more broadly to Qing Yang in Wu Life with supporting stars and favorable trine aspects. Alternative stars in the quotation are not made simultaneous co-occupants. The zodiac list is explanatory; Ri Yue Fan Bei and Ji Liang passages are cross-references.",
+  "keywords": [
+    "马头带剑",
+    "广义条件",
+    "贪狼午命",
+    "火铃限制",
+    "来源回指"
+  ],
+  "keywords_en": [
+    "Ma Tou Dai Jian",
+    "broad conditions",
+    "Tan Lang in Wu Life",
+    "Huo Ling limitation",
+    "source cross-references"
+  ],
+  "topic": "事业运势",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "stars_mentioned": [
+      "天同",
+      "太阴",
+      "火星",
+      "铃星",
+      "贪狼",
+      "擎羊",
+      "天机",
+      "天梁",
+      "太阳"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "member",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c159_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c159_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c159_tongyin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c159_broad",
+        "condition": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c159_tan_rule",
+        "condition": "貪狼在午坐命，丙或戊年生人，亦為「馬頭帶劍」格",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "马头带剑",
+        "formation_status": null,
+        "evidence": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格"
+      },
+      {
+        "pattern_name": "日月反背",
+        "formation_status": null,
+        "evidence": "關於「日月反背」坐命者的命理現象，請參閱太陽星部份的相關解說"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "羊刃",
+        "proposed_category": "source_epithet",
+        "reason": "本块明确指擎羊，不生新星。",
+        "english_surface": "Yang Ren",
+        "scope_id": "c159_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [
+      "火星铃星"
+    ],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": "格局解析"
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "quote": "不會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "quote": "不會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 216,
+          "end": 222,
+          "quote": "貪狼在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 257,
+          "end": 263,
+          "quote": "擎羊在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 395,
+          "end": 400,
+          "quote": "天機星部份"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 403,
+          "end": 410,
+          "quote": "機梁會合善談兵"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.8",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 532,
+          "end": 537,
+          "quote": "太陽星部份"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "quote": "不會沖火鈴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c159_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c159_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c159_tongyin",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "同陰在午坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c159_broad",
+        "kind": "conditional",
+        "condition": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 255,
+          "end": 303,
+          "quote": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "c159_broad",
+        "kind": "conditional",
+        "condition": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 255,
+          "end": 303,
+          "quote": "只要擎羊在午坐命，不論是何星曜坐守於此，只要午宮吉旺，能將擎羊制煞為用，皆可稱之為「馬頭帶劍」格"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c159_tan_rule",
+        "kind": "conditional",
+        "condition": "貪狼在午坐命，丙或戊年生人，亦為「馬頭帶劍」格",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 216,
+          "end": 239,
+          "quote": "貪狼在午坐命，丙或戊年生人，亦為「馬頭帶劍」格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.1",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 512,
+          "end": 542,
+          "quote": "關於「日月反背」坐命者的命理現象，請參閱太陽星部份的相關解說"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 242,
+          "end": 249,
+          "quote": "羊刃在此指擎羊"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 275,
+          "end": 290,
+          "quote": "只要午宮吉旺，能將擎羊制煞為用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 275,
+          "end": 290,
+          "quote": "只要午宮吉旺，能將擎羊制煞為用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 275,
+          "end": 290,
+          "quote": "只要午宮吉旺，能將擎羊制煞為用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 275,
+          "end": 290,
+          "quote": "只要午宮吉旺，能將擎羊制煞為用"
+        }
+      ]
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c159_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 275,
+          "end": 290,
+          "quote": "只要午宮吉旺，能將擎羊制煞為用"
+        }
+      ]
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

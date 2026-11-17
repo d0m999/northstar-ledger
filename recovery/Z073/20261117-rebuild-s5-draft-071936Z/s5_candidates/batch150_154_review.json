@@ -1,0 +1,198 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "formal05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c150",
+      "candidate_sha256": "73f6e0705e00fdc6c453e635641ba8c358637f76b491b078b4b6b0ec0c3758cf",
+      "candidate_file": "c150.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "全文包括混排与图说已读；正文酉与图说寅冲突原样保留，不以caption更改正文位置。母亲庚戌是关系人出生资料，不当命造流年。疾病来源解释非医学事实。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c151",
+      "candidate_sha256": "8bda302072eaf25ebb2d322e4e2c84ce1525671e1dce6c70e8aaaa7515135ac8",
+      "candidate_file": "c151.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "全文及图说已读；酉支位已知但功能宫未明，保术语与四化作用于天同，不造仆役宫。坐会辅弼魁钺不强断同宫。父亲出生非命造流年；乙丑限明确。单支入宫无功能宫的结构限制交专项审查，不误称OR。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c152",
+      "candidate_sha256": "69a51aeef2af52bfe77c8a43261905f83a87d0cc035c9447d7219096fcc8d8da",
+      "candidate_file": "c152.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "只来源书目与延伸阅读，出版年不是行运，不据注十一残句补病例；二0一年原字保留；无实际分析因此methods空。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c153",
+      "candidate_sha256": "3f09fe247b62098b4252673dd293a7c1978c60a309b972a74cb835a7f31dc2a0",
+      "candidate_file": "c153.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "古说田宅与作者房屋实际方位分开，酉太岁宫不是酉田宅宫；巨门禄天干未知不借下一块辛补入。主体财/住房环境以合法命运总论+财运分析表示，未注册房产田宅标签已撤且失败诊断保留。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c154",
+      "candidate_sha256": "904f5a09b74cfd79b9ba80ed76c24a6d131703d69b4b7b09b40253b4dc5a461b",
+      "candidate_file": "c154.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：实战断语"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "全块混排已读，保庚年天同忌同羊由平转弱连续自足分句，不跨图拼句，也不借上一块酉或房屋高低。limited而非archive_only。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

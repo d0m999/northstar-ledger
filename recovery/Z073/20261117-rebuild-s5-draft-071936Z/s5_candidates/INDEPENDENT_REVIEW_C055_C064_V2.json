@@ -1,0 +1,201 @@
+{
+  "task": "C055-C064 V2 independent repair review",
+  "supersedes_review": "INDEPENDENT_REVIEW_C055_C064_V1.json",
+  "snapshot_policy": "Pre-review byte copies; exact reviewed bytes bound by hash. V1 retained separately.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c055",
+      "candidate_sha256": "65d2c1b10dd892930bc96ee4f080afe466bf1a53245a6dafa2bc7f2ea53c7969",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c055.json",
+      "decision": "accepted",
+      "findings": [
+        "明确左辅右弼pair已补且只讨论，不捏造命身位置分配。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c056",
+      "candidate_sha256": "4d6a7de7199bf16a8aacdc3273fa89ad05a4ddfdea647e91af3f006929dc8eaa",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c056.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "格局方法、对宫武曲主语证据、甲来源和辰甲泛科禄已补。魁鉞词典缺显式alias确实无法按自动规范合法确定canonical，保原完整条件及规范缺口；位置集合hold不消除。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c057",
+      "candidate_sha256": "6c1ade3e5a3cd615510b7ec1c2122d1d3fdb0839c7b5e13118b581c972196940",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c057.json",
+      "decision": "accepted",
+      "findings": [
+        "两条四化作用均增加丑命同scope前提span，位置证据完整。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c058",
+      "candidate_sha256": "78b5eaac104d87a9f6241c84880cf753981b17824b374c981cec99e54f73a1ca",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c058.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "三限整体time及本命命宫已补；戊/庚来源限定真实当限，太阳忌仍null；格局方法/双禄交驰来源项补齐，OR分配hold维持。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c059",
+      "candidate_sha256": "c306df2f0860df92ec190964143d0f67a9181a1f762b7bb655b389c393ae27f6",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c059.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "三限整体与本命田宅time补齐；杀破狼讨论而不强成格、格局方法、紫微回指mentioned及当限戊己限定均正确。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c060",
+      "candidate_sha256": "5dadc655b76b69fc950a10ab787d964865f2d72734f60715bfcd6bd8be640cab",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c060.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "泛化禄/泛化忌null星有独立not_mentioned；保完整条件不推数量/时间分配；格局方法补齐。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c061",
+      "candidate_sha256": "0ba58be9727ba7d8c3430c98d0e6e9f7661f7f55b16f2343a259edb1d17931e4",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c061.json",
+      "decision": "accepted",
+      "findings": [
+        "日月反背作为注册讨论且formation null，不反用外部规则校改作者。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c062",
+      "candidate_sha256": "83a61f02a8eb79187333a2975fe43709e71f023924868eee97be9475394111c6",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c062.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "三限整体、本命命宫及田宅分别记录；当限戊己庚不传播太阳忌/廉贞禄，杀破狼讨论与格局方法补齐。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c063",
+      "candidate_sha256": "cccbb08166691f687061362289485ff72c58d39efbd83ef4a51eca566037b81f",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c063.json",
+      "decision": "expressible_accepted_hold_retained",
+      "findings": [
+        "独立核与60同正文的修订：泛禄忌null星及完整条件接受，不强分OR；格局方法补齐。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c064",
+      "candidate_sha256": "8993f93a59a1db0ab315894b6f74ff5b55f180b15dc83148d01effc366520c2f",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C055_C064_V2/c064.json",
+      "decision": "accepted",
+      "findings": [
+        "注册日月反背讨论与caption连珠来源术语补齐，未从混排恢复额外事实。"
+      ],
+      "six_axis_review": {
+        "coverage": "V1全文与所有字段审查+V2全部变化逐项实读",
+        "binding": "变化项条件/对象/位置/归属对照原句，无新增跨scope绑定",
+        "time": "整体限范围不拆OR，当限干只绑定明确来源，兼容标量null",
+        "content_type": "保V1已接受主旨分类",
+        "english": "原摘要未改；复核新增标签未与双语条件相抵触，回指无需提升主旨",
+        "source_quality": "资格与可用范围未改，ORhold独立于源质量"
+      },
+      "frozen_validator_passed": true,
+      "human_acceptance": false
+    }
+  ],
+  "ordinary_repairs_remaining": 0,
+  "representation_holds_not_cleared": true,
+  "human_acceptance": false,
+  "formal05_modified": false
+}

@@ -1,0 +1,613 @@
+{
+  "stage": "S5 small-batch candidate review only",
+  "formal05_written": false,
+  "old05_labels_read": false,
+  "quality_reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "candidate_sha256": "4ee42449dea5c0f5a63301f43db0ff2188ba712d0063a19a445e32221ba6a1b2",
+      "retrieval_status": "limited",
+      "status": "candidate_validated_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "主要星曜、宫位、条件与否定在标签/双语摘要/正文及来源事实证据中保留；不强造格局、四化。",
+        "binding": "只记录武曲；不注册比喻将星为另一实体，不从求财反推财帛宫。",
+        "time": "没有明确盘类或限运；chart_type/time_context=null，不补本命；少年/老年并非限运术语。",
+        "content_type": "古引文后作者持续解释限定，整体为概念解释而非单一古籍原文/案例。",
+        "english": "主要星曜、条件、否定和源缺损双语对应；C006保留OR。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "首句承前且缺主语；完整后段独立可用，保留阴性与会多吉条件。",
+          "usable_spans": [
+            {
+              "start": 16,
+              "end": 123,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。\n"
+            }
+          ]
+        }
+      },
+      "source_fact_refs": [
+        {
+          "evidence": {
+            "start": 62,
+            "end": 122,
+            "quote": "但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+          },
+          "scope": {
+            "kind": "conditional",
+            "condition": "在會多吉星時",
+            "attribution": "本段作者"
+          },
+          "note": "武曲将星是功能比喻，不映射另一个将前星「将星」；求财效果和限制保留同句。"
+        }
+      ],
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 122,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 122,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 122,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 122,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+            }
+          ]
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c4_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 16,
+              "end": 122,
+              "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+            }
+          ]
+        }
+      ],
+      "unresolved": [
+        "首句缺承前主语，不独立用作格局判断。"
+      ],
+      "blocking_issues": [],
+      "modeling_gaps_not_contract_failures": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "candidate_sha256": "63009e90a2ecf3edd0480c171ff0a01725c1a4127fde66e024dc52a78f8d3888",
+      "retrieval_status": "limited",
+      "status": "candidate_validated_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "主要星曜、宫位、条件与否定在标签/双语摘要/正文及来源事实证据中保留；不强造格局、四化。",
+        "binding": "入宫仅武曲->命宫；无名吉煞不造具体星曜，不将将星比喻变实体。",
+        "time": "没有明确盘类或限运；chart_type/time_context=null，不补本命；少年/老年并非限运术语。",
+        "content_type": "古引文后作者持续解释限定，整体为概念解释而非单一古籍原文/案例。",
+        "english": "主要星曜、条件、否定和源缺损双语对应；C006保留OR。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "中段「京宏亮與否」为缺文残句；其他完整论述可用，「宏火」疑字原样保留并不据其单独推断。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 445,
+              "quote": "《全書，諸星入命身限吉凶訣》曰：「武曲性剛果決，心直無毒，形小聲高而量大。」有關武曲坐命者的個性及外貌的描述除上述賦文外，《全集，形性賦》亦有「武曲貪狼，形小聲高而量大」的說法，而先賢於此則有如下的敘述：「入命主為人少年面青白色，或青黑色，老年青黃色，體型中矮而壯碩，面方圓而聲量宏火，性剛心直，氣量寬宏。」根據作者論命觀察所得，不論是任何星曜坐命者，只要是在旺宮且會多吉星時，身材通常較為高大，但若是命宮星曜弱陷時，就會顯得較瘦弱。不僅如此，若是旺宮坐命但會多煞星時，身材也會顯得較瘦弱。\n因此，武曲坐命者，若是在旺宮且會吉多而會煞少（甚或不會煞）時，其人身材一樣會較高大。但若不是如此，則因武曲五行屬金，而金之物性「内聚」，故若據此來論武曲坐命者的體型時，通常會偏向中等身材或較矮小，但卻顯得較為結實、壯碩。但實際上是否如此？仍須視坐守宮位的旺弱吉凶而定。\n通常在談到一個人說話聲音宏亮與否，須視其肺活量大小而定。肺活量大者，說話聲音會較為宏亮，反之則顯得中氣不足，或是說話音量較小。\n"
+            },
+            {
+              "start": 451,
+              "end": 818,
+              "quote": "武曲坐命若是旺宮且會多吉星者，其人說話聲音就較宏亮，若是旺宮不會吉或是陷宮者，其人說話音量就較小，若是會煞多且會吉少（甚或不會吉）者，往往說話會顯得中氣不足或是聲音反而較為沙啞。\n至於武曲坐命者的個性較為「性剛心直」之說，已如前述，就不再說明。另外，先賢認為武曲坐命者「氣量寬宏」之說，僅在坐守宮位旺且會多吉星的情形下始是，若是在會煞多且會吉少，甚或不會吉時，因金之物性「内聚」，反主其人氣量狹小。\n最後，再談到武曲坐命者的膚色及臉型。從金代表白色，也許可以對先賢為什麽會認為武曲坐命者「少年面青白色」部份做一說明。前已述及，從五行所屬顏色，來論斷一個人膚色的說法，只能做個參考，不可據以斷之，在此亦不例外。另外，據作者論命觀察所得，武曲坐命者的下額通常較為寬廣有稜角，但其臉型是否會如先賢所說的「面方圓」，則須視實際星曜組合而定。\n"
+            }
+          ]
+        }
+      },
+      "source_fact_refs": [
+        {
+          "evidence": {
+            "start": 255,
+            "end": 288,
+            "quote": "若是在旺宮且會吉多而會煞少（甚或不會煞）時，其人身材一樣會較高大。"
+          },
+          "scope": {
+            "kind": "conditional",
+            "condition": "若是在旺宮且會吉多而會煞少（甚或不會煞）時",
+            "attribution": "本段作者"
+          },
+          "note": "旺+多吉+少煞/无煞是原条件，不展平为无条件体貌。"
+        },
+        {
+          "evidence": {
+            "start": 451,
+            "end": 540,
+            "quote": "武曲坐命若是旺宮且會多吉星者，其人說話聲音就較宏亮，若是旺宮不會吉或是陷宮者，其人說話音量就較小，若是會煞多且會吉少（甚或不會吉）者，往往說話會顯得中氣不足或是聲音反而較為沙啞。"
+          },
+          "scope": {
+            "kind": "rule",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "note": "三个条件分支与或关系不构造成多条确定案例事实。"
+        },
+        {
+          "evidence": {
+            "start": 714,
+            "end": 747,
+            "quote": "從五行所屬顏色，來論斷一個人膚色的說法，只能做個參考，不可據以斷之"
+          },
+          "scope": {
+            "kind": "rule",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "note": "否定确定肤色推断保留；不得医学化或按颜色标签断人。"
+        }
+      ],
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 54,
+              "quote": "有關武曲坐命者的個性及外貌的描述"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 54,
+              "quote": "有關武曲坐命者的個性及外貌的描述"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 38,
+              "end": 54,
+              "quote": "有關武曲坐命者的個性及外貌的描述"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c5_classical",
+            "kind": "rule",
+            "attribution": "《全集，形性賦》"
+          },
+          "spans": [
+            {
+              "start": 61,
+              "end": 88,
+              "quote": "《全集，形性賦》亦有「武曲貪狼，形小聲高而量大」的說法"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 40,
+              "end": 45,
+              "quote": "武曲坐命者"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 40,
+              "end": 45,
+              "quote": "武曲坐命者"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c5_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 296,
+              "end": 313,
+              "quote": "因武曲五行屬金，而金之物性「内聚」"
+            }
+          ],
+          "basis": "source",
+          "usage": "used"
+        }
+      ],
+      "unresolved": [
+        "「京宏亮與否」残句不在usable_spans内；「宏火」保留OCR疑字，不据疑字产生断语。",
+        "古引文/作者观察分开；贪狼仅引文提及，未推断与武曲同宫。"
+      ],
+      "blocking_issues": [],
+      "modeling_gaps_not_contract_failures": [
+        "五行推理方法不在已注册三类中，保留unregistered_terms，不伪标格局分析。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "candidate_sha256": "bc222e678474e6dae8f65c74d2b6fa98d3f5e0bddfe2971282785ef132df3b44",
+      "retrieval_status": "eligible",
+      "status": "candidate_validated_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "主要星曜、宫位、条件与否定在标签/双语摘要/正文及来源事实证据中保留；不强造格局、四化。",
+        "binding": "入宫仅武曲->命宫；无名吉煞不造具体星曜，不将将星比喻变实体。",
+        "time": "没有明确盘类或限运；chart_type/time_context=null，不补本命；少年/老年并非限运术语。",
+        "content_type": "古引文后作者持续解释限定，整体为概念解释而非单一古籍原文/案例。",
+        "english": "主要星曜、条件、否定和源缺损双语对应；C006保留OR。",
+        "source_quality": {
+          "status": "eligible"
+        }
+      },
+      "source_fact_refs": [
+        {
+          "evidence": {
+            "start": 67,
+            "end": 88,
+            "quote": "就五行來講，土旺能生金，故西北方較利於金。"
+          },
+          "scope": {
+            "kind": "rule",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "note": "自然语言五行因果非现有紫微星曜关系，不发明relation_type；保留原文/双语摘要/方法候选。"
+        },
+        {
+          "evidence": {
+            "start": 88,
+            "end": 160,
+            "quote": "至於大陸的東南方因多水且較炎熱，就五行而言，金能生水，故不利於金，且因為炎熱，而炎熱為火之象徵，就可引伸為易有火剋金的現象，故東南方較不利於金。"
+          },
+          "scope": {
+            "kind": "rule",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "note": "金生水、火克金作用及地域条件完整保存，不当作四化作用。"
+        },
+        {
+          "evidence": {
+            "start": 391,
+            "end": 416,
+            "quote": "故若是東南方生人，則要不是富貴不久，就是富而不貴。"
+          },
+          "scope": {
+            "kind": "conditional",
+            "condition": "若是東南方生人",
+            "attribution": "本段作者"
+          },
+          "note": "原文两个备择结果，不断言同时成立；无相关必填领域效果字段，正文摘要足以保留。"
+        }
+      ],
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 160,
+              "end": 216,
+              "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 160,
+              "end": 216,
+              "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 160,
+              "end": 216,
+              "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "not_applicable"
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 309,
+              "end": 467,
+              "quote": "由於武曲為「財星」就可以談到「富」，加上武曲的「將星」作用，因此還可以談到「貴」，但基於上述西北方較東南方利於金之故，武曲坐命者較喜西北方生人，而較不喜東南方生人，故若是東南方生人，則要不是富貴不久，就是富而不貴。《全書，諸星在命身及十二宮吉凶要訣》於此亦有類似的說法如下：「武曲守命，西北生人福厚，東南生人平常。」"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 180,
+              "end": 185,
+              "quote": "武曲坐命者"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 180,
+              "end": 185,
+              "quote": "武曲坐命者"
+            }
+          ]
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 217,
+              "end": 264,
+              "quote": "傳統論命在談到一個人的命格時，最好是富貴兼備，但若不能兩全時，比較之下，「貴」較「富」不易得。"
+            }
+          ]
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "null_reason": "multiple_values"
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c6_author",
+            "kind": "concept",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 67,
+              "end": 88,
+              "quote": "就五行來講，土旺能生金，故西北方較利於金。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used"
+        }
+      ],
+      "unresolved": [
+        "五行因果、地域与富贵OR效果未有独立结构字段，不等于合同违例；来源/摘要/逐事实证据保留。",
+        "将星为武曲功能，非将前星对象；富贵并列与或分支未混淆。"
+      ],
+      "blocking_issues": [],
+      "modeling_gaps_not_contract_failures": [
+        "五行推理方法不在已注册三类中，保留unregistered_terms，不伪标格局分析。"
+      ],
+      "human_acceptance": false
+    }
+  ],
+  "decision": "all_three_structurally_valid; independent_semantic_review_pending",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a"
+}

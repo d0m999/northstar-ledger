@@ -1,0 +1,258 @@
+{
+  "task": "Independent full-text all-evidence six-axis review C025-C034",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "method": "实际逐文与全部evidence阅读；机械脚本仅核exact/hash/schema",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "candidate_sha256": "36286f6bd7ed93a7e32f6e075f2ae0ded85cab0d47b704cb159f8b67400c8dcd",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "补真实使用的四化分析方法：caption用武曲化忌解释不利，不应方法全空；不据损字补具体五行作用对象。",
+        "癸年生人与武曲化忌同句为来源明确关联，而tiangan=null未说明。须保留来源癸或明确ambiguous理由及冲突证据，不以外部四化表默默丢弃；绝不改癸为壬。",
+        "接受混排隔离、武食/想食狼不补贪狼、同宫对象无位置推测。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "candidate_sha256": "1d6d79fb8ec2db07f415b4ab2df9c5c5cfa8935df5e774600ffbe8ae82fcbdb8",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "补格局分析：明确以寡宿凶格且多吉/行限佳的限制判吉，是实际格局条件分析，不应方法全空。",
+        "可读caption范围与武曲火星入辰命、同宫正确，寡宿不是小星；不从食狼猜星。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "candidate_sha256": "b2ba8d8f8451c78eb8fe784c168eb88a9c9030a71be71d044ccaf87578234b01",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "天同仅章节交叉引用，stars_mentioned.0 evidence usage应明确mentioned（现None），不是本块解释天同。",
+        "其他接受：仅完整注八；太岁入宫/入卦保留来源方法，不当实际星位或流年。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "candidate_sha256": "e79a66002185a59698a25ebbee2921ca4478abf71dfa5a84f288a40723b03a30",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "现c28_same condition仅“武曲必須是旺宮坐守時”，不足以触发昌曲入命/同宫，原文还允许不同宫三方照会。须把同宫假设本身纳入condition，例如可采用明确引文“武曲入廟與昌曲同宮守命”并保其归属/作者限定，不使旺宫自动推出昌曲同宫。",
+        "原文明确“若昌曲不與武曲同宮”另一支，可用negated同宫及原条件表达；不把三方照会误作三方四正方法。",
+        "双语保留双方旺宫及非必然高官条件正确。"
+      ],
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "decision": "blocked_OR_retained",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "确认化忌或化禄备择不是同时事实，现只写独立明确化忌段合理，OR完整表示hold不解除。",
+        "同宫/四化作用范围与两处条件逐条核一致；没有硬填人事宫；英文完整保留OR。"
+      ],
+      "retrieval_eligibility": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "candidate_sha256": "9b358678b5a84d19833399f6bb015e957a69d869510d715ebfc66f702ca1b1c2",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "主段以盘八/盘九两案例及其运限对照展开，content_type建议案例分析；如保概念解释需说明该主体判定。",
+        "可表达缺项：己酉大限武曲化禄转吉有明确来源，却tiangan=null，可从明确己酉限保己并证据绑定，不要漏case不同于盘九生年己。",
+        "财帛或福德或田宅备选宫位的完整关系当前仅标签/摘要，不可称全关系覆盖；需具体列待表达缺口，不能把三宫变成同一真实盘同时占位。",
+        "源质量limited截到癸酉条件开始前合理，两个case与条件大限分开正确。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c031",
+      "candidate_sha256": "2e2427625a4402643617386f9ad0e3f1a10224498b02ddb0ca71f4985053a543",
+      "decision": "blocked_OR_retained",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "最终中英文摘要已明确一般条件武曲化禄或化忌，检查当前hash；原OR四化类型hold维持。",
+        "两例及大限福德/寅宫火星跨宫作用绑定正确，不从普通共现做同宫。",
+        "内容类型建议案例分析（完整部分两命例为主体），属可复核分类问题；大限不强推大限盘。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c032",
+      "candidate_sha256": "189a33c615cd072328476743b668f890209812a5e738868da69759d059438cd0",
+      "decision": "accepted",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "仅23字完整caption足以支持三个实体和入宫/巨门火星同宫；未用后续断句添七杀位置。",
+        "本可用句只列事实，无展开四化机制，analysis_methods空可接受；不因上一块有分析机械继承。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c033",
+      "candidate_sha256": "7bc1eac72b6fad764461f9ede64de9c96e2b98babc9f0158d51d552a9053c9ce",
+      "decision": "return",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "summary/summary_en及time_mentions.subject称女命，但当前usable span只“廉相在子坐命，丁年生人...”没有性别，女命来自排除的混排。删性别或另提供独立可读且不依混排的合格证据，不能用排除区信息装作caption事实。",
+        "星位、武曲化忌福德辰及大限本身证据完整；不据插入天梁破军复原句子。",
+        "廉相是词表廉相同宫缩称，可独立审是否提及级映射；不要求由此猜额外星位。"
+      ],
+      "retrieval_eligibility": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c034",
+      "candidate_sha256": "936838a00195121fd4b47c6d7730bec2ec193b11ffe71d40c29af504224eafda",
+      "decision": "return_new_OR_hold_required",
+      "mechanical_checks": {
+        "frozen_validator_passed": true,
+        "source_five_fields_exact": true,
+        "full_model_serialization": true,
+        "all_evidence_spans_exact": true
+      },
+      "quality_review": {
+        "coverage": "逐句全文与全部字段核对，需修具体项见required_findings",
+        "binding": "逐条对象/位置/condition/scope审读，非机械扫描替代；28/34条件范围、33资格内对象需修",
+        "time": "出生天干不当流年；明确大限保独立对象；25/30天干遗漏及33对象性别见具体项",
+        "content_type": "25/26/32/33案例与27/28/29/34理论可接受，30/31按主体建议案例分析",
+        "english": "逐句双语核对，31已补OR前提；33不可由排除混排携带性别",
+        "source_quality": "可读caption/完整段边界实核；OR表达不通过降资格解决"
+      },
+      "required_findings": [
+        "新增明确表示问题：sihua_mentioned.1 star巨门化权却condition为“武曲或巨門化權時”，此OR条件成立可能仅武曲化权，不足以断巨门化权。不能只挑巨门作为整个OR的对象；按现冻结备择对象规则隔离该对象记录/保可表达草稿，登记具体hold，非改schema。",
+        "武曲化权具体庚年命宫与大限有独立明确句可保；化禄只是一般作用类比，未知星处理正确，不给武曲巨门加化禄。",
+        "旺宫有吉与无吉多煞两面约束双语正确。"
+      ],
+      "retrieval_eligibility": "eligible"
+    }
+  ],
+  "human_acceptance": false,
+  "old05_read": false,
+  "candidate_files_modified": false,
+  "whole_source_S5_complete": false
+}

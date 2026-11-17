@@ -1,0 +1,289 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c152",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    196
+  ],
+  "chunk_text": "就不再對之多加說明，但並不表示太歲入宮法的推論法則僅止於此。對太歲入宮法有興趣的讀者，請參閱紫雲先生的著作（註十），就不再贅述。\n註八：本段內容取材自紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一年再由武陵出版社出版）書中「導論」一文。\n註九：本節中有關因水星忌煞交沖所產生的健康問題的中醫論說，皆取材自紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「卷五：腎經水」裡頭的相關文章。\n註十：關於太歲入宮（卦）法在斗數推論的應用，首見於紫雲著《斗數論姻緣》（由時報出版社於一九九一年出版，後於二0二一年再由武陵出版社出版）及其後的諸多著作，在此就不一一列舉。\n註十一：有關盤十一命例在健康上的論斷，請參閲紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出註十二：有關盤十二命例在健康上的論斷，請參閲紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「從腎功能談起-兼論五行屬水的病理作用」一文。",
+  "chunk_index": 152,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "本块为来源与延伸阅读说明：水星健康中医论说取自紫云疾病著作，太岁入宫法见姻缘著作及后续作品；注十二列肾功能文章。出版年份不是行运，注十一书目截断、二0一年疑年均保留，不据残文增加病例结论。",
+  "summary_en": "This passage documents sources and further reading. The water-star health discussion is attributed to Zi Yun’s disease writings, while Tai Sui Ru Gong Fa is traced to a marriage-related book and later works. Note Twelve names an article on kidney function. Publication years are bibliographic, not fortune periods. The truncated Note Eleven and uncertain printed year are retained without supplying missing case conclusions.",
+  "keywords": [
+    "来源注释",
+    "太岁入宫法",
+    "中医水星",
+    "疾病著作",
+    "书目残损"
+  ],
+  "keywords_en": [
+    "source notes",
+    "Tai Sui Ru Gong Fa",
+    "water-star medical framework",
+    "disease writings",
+    "damaged bibliography"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 148,
+          "end": 152,
+          "quote": "健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 231,
+          "end": 247,
+          "quote": "太歲入宮（卦）法在斗數推論的應用"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 254,
+          "end": 261,
+          "quote": "《斗數論姻緣》"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 231,
+          "end": 239,
+          "quote": "太歲入宮（卦）法"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 109,
+          "quote": "二0一年"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 231,
+          "end": 247,
+          "quote": "太歲入宮（卦）法在斗數推論的應用"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "承前残首与注十一被截断书目排除；注八九十及注十二完整书目可用，二0一年疑年不改。",
+    "usable_spans": [
+      {
+        "start": 65,
+        "end": 313,
+        "quote": "註八：本段內容取材自紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一年再由武陵出版社出版）書中「導論」一文。\n註九：本節中有關因水星忌煞交沖所產生的健康問題的中醫論說，皆取材自紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「卷五：腎經水」裡頭的相關文章。\n註十：關於太歲入宮（卦）法在斗數推論的應用，首見於紫雲著《斗數論姻緣》（由時報出版社於一九九一年出版，後於二0二一年再由武陵出版社出版）及其後的諸多著作，在此就不一一列舉。\n"
+      },
+      {
+        "start": 361,
+        "end": 453,
+        "quote": "註十二：有關盤十二命例在健康上的論斷，請參閲紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「從腎功能談起-兼論五行屬水的病理作用」一文。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "感情姻缘"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮（卦）法",
+        "proposed_category": "source_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Tai Sui Ru Gong Fa",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "二0一年",
+        "proposed_category": "uncertain_publication_year",
+        "reason": "原字疑年不补2011，非行运",
+        "english_surface": "uncertain publication year",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "推测技法",
+    "stars_mentioned": [],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c106",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    134,
+    135
+  ],
+  "chunk_text": "太陰祿天府狼貞贪廉天魁天鉞僕役74-83亥財帛44-53戌疾厄54-63酉遷移64-73辛庚己戊申忌巨門破紫軍微年未月日時丁男命子子女34-43壬擎羊丁未引動卯宮「因財持刀」凶格的凶性，更因先天白虎也坐入卯宮會更加重武殺在卯坐命，丁未年生人，擎羊在未三合來沖。壬子限，武曲化忌天相天機科祿存丑夫妻24-33癸金\n\n局丙午權太陽梁同天天殺曲七武卯宮的凶象，命宮 4-13盤三十二寅兄弟14-23白虎癸卯壬甲辰陀羅乙巳\n\n",
+  "chunk_index": 106,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘三十二命盘与说明严重混排，句序断裂；不从相邻文字恢复星位、化忌对象或凶格因果，仅归档原文供核原图。",
+  "summary_en": "Chart Thirty-Two is interleaved with its caption, leaving broken sentence order. No star placements, transformation objects or pattern effects are reconstructed from adjacency. The original is retained for checking against the page image.",
+  "keywords": [
+    "盘三十二",
+    "混排",
+    "原图待核"
+  ],
+  "keywords_en": [
+    "Chart Thirty-Two",
+    "interleaved OCR",
+    "page-image verification"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "archive_only",
+    "reason": "命盘字段穿插说明且说明顺序倒置，无可稳定独立解读的完整连续句；不从相邻碎片恢复事实。",
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [],
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

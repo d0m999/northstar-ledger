@@ -1,0 +1,155 @@
+[
+  {
+    "attempt": 1,
+    "results": [
+      {
+        "status": "failed",
+        "error": "same scope_id has conflicting contexts",
+        "file": "c105.json",
+        "sha256": "5bfa59842d7deb029efe19de8acaed84be23b32609198f23a8e50c39d40cddd9"
+      },
+      {
+        "status": "passed",
+        "file": "c106.json",
+        "sha256": "712f444e20a9f84e170aa8218a8439fd811a3983ae8b13fed061097a2ea88b24"
+      },
+      {
+        "status": "passed",
+        "file": "c107.json",
+        "sha256": "a671b0aa42b2b9fd66d4440179c39eea10e9081d78c0705effdbc14116e03024"
+      },
+      {
+        "status": "failed",
+        "error": "same scope_id has conflicting contexts",
+        "file": "c108.json",
+        "sha256": "6dbaa26a2be67c8a49e9b7616ad08d2da268ea89f4174241cd4a0a83e00156be"
+      },
+      {
+        "status": "failed",
+        "error": "same scope_id has conflicting contexts",
+        "file": "c109.json",
+        "sha256": "4abb5eaa93be604afffd0bb8286d4c64cf0b41cf2af7ac2671664f9c2ff687be"
+      }
+    ]
+  },
+  {
+    "attempt": 2,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c105.json",
+        "sha256": "d50eb3d64cf93c7eb1a2484b1196ffa776570a1e4220d89e6c6ceff7c463a9ca"
+      },
+      {
+        "status": "passed",
+        "file": "c106.json",
+        "sha256": "712f444e20a9f84e170aa8218a8439fd811a3983ae8b13fed061097a2ea88b24"
+      },
+      {
+        "status": "passed",
+        "file": "c107.json",
+        "sha256": "a671b0aa42b2b9fd66d4440179c39eea10e9081d78c0705effdbc14116e03024"
+      },
+      {
+        "status": "passed",
+        "file": "c108.json",
+        "sha256": "bf05bfb4638ebb4d74331e18826a28c34fecfea017be424c15ebf8bf0a746ab1"
+      },
+      {
+        "status": "passed",
+        "file": "c109.json",
+        "sha256": "368dc75398c6f9f72abbfedecd7daadf67d226ef79c9f3f19afc7ba4dd187021"
+      }
+    ]
+  },
+  {
+    "attempt": 3,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c105.json",
+        "sha256": "fb1056cbacc60023715d11ff074c3161db76b52481ab56324bf0f37af8952447"
+      },
+      {
+        "status": "passed",
+        "file": "c106.json",
+        "sha256": "73ad76b4b17fd2d3e57708554565b856b4bc811acf67cfbb96174183dc211f51"
+      },
+      {
+        "status": "passed",
+        "file": "c107.json",
+        "sha256": "0de30bdc89d6a478967ef4f1913f9aee6d950f671791449c37eb883e4b36fc84"
+      },
+      {
+        "status": "passed",
+        "file": "c108.json",
+        "sha256": "20130680dcfab8d0456fa2cb9e01903a9919f4f89acf339938caed3a089d1291"
+      },
+      {
+        "status": "passed",
+        "file": "c109.json",
+        "sha256": "7e1436e99a6947d34bb7de8df1b663b6b48de93a9ca8989ba6a2c8d1f6468f82"
+      }
+    ]
+  },
+  {
+    "attempt": 4,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c105.json",
+        "sha256": "fb1056cbacc60023715d11ff074c3161db76b52481ab56324bf0f37af8952447"
+      },
+      {
+        "status": "passed",
+        "file": "c106.json",
+        "sha256": "73ad76b4b17fd2d3e57708554565b856b4bc811acf67cfbb96174183dc211f51"
+      },
+      {
+        "status": "passed",
+        "file": "c107.json",
+        "sha256": "6d685c1fc76bac6211ad3ac575059e779b7431ecde07057e113d7f2abb11592a"
+      },
+      {
+        "status": "passed",
+        "file": "c108.json",
+        "sha256": "20130680dcfab8d0456fa2cb9e01903a9919f4f89acf339938caed3a089d1291"
+      },
+      {
+        "status": "passed",
+        "file": "c109.json",
+        "sha256": "7e1436e99a6947d34bb7de8df1b663b6b48de93a9ca8989ba6a2c8d1f6468f82"
+      }
+    ]
+  },
+  {
+    "attempt": 5,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c105.json",
+        "sha256": "3ac5ffb9509e0eb7e924b9be1953f1d3c45345e4f208889cf032324d6422cd39"
+      },
+      {
+        "status": "passed",
+        "file": "c106.json",
+        "sha256": "e70394e47c68a63691f264eaf3f7e1dd80aa8f25f353e1507f1f14c8af733f65"
+      },
+      {
+        "status": "passed",
+        "file": "c107.json",
+        "sha256": "ec061a658c7eb462e8f4ee1bde76d0d126227aee1ca7bd3d9a910f1e1e0b8643"
+      },
+      {
+        "status": "passed",
+        "file": "c108.json",
+        "sha256": "0469f46b086a9a50db99efbf012e8e7c9047a94e5b60f645bb1ca4eb1b92f2d9"
+      },
+      {
+        "status": "passed",
+        "file": "c109.json",
+        "sha256": "e2f59d4fdaf8f10ee787b42ae9eef236335d73587572eb70fde5358b98716c94"
+      }
+    ]
+  }
+]

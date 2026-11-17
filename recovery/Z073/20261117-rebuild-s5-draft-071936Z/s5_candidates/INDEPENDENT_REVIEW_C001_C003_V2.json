@@ -1,0 +1,42 @@
+{
+  "created_utc": "2026-11-17T06:22:18.688594+00:00",
+  "reviewer": "coordinator_not_candidate_author",
+  "method": "Read full source chunks, complete metadata and every field evidence/condition; checked vocabulary pair definition, returned two overinferences, then reread repaired values and reran strict validation. V2 additionally verifies Life/Body/Wealth/Property Palace English anchors against the explicitly mentioned source verses; no factual labels added.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "candidate_sha256": "ae18518d906432b7a0475bdce10a366a10482750503794da53ade666fa38bdab",
+      "decision": "accept_for_S5_pilot_not_whole_source_S6",
+      "six_dimensions": {
+        "coverage": "independently_reviewed",
+        "binding": "independently_reviewed",
+        "time": "independently_reviewed",
+        "content_type": "independently_reviewed",
+        "english": "independently_reviewed",
+        "source_quality": "independently_reviewed"
+      },
+      "rationale": "C001 is introductory mentions, no future case details or pattern formation inferred; scope/registered terms/unregistered verses checked. C003 distinguishes single-star palace strength from paired configurations, uses exact branch conditions, and excludes incomplete final condition from evidence.",
+      "repair_verified": "Removed unsupported Lu Cun/Tian Ma pair inferred from Lu Ma wording; verse preserved.",
+      "remaining_blocking_issues": []
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "candidate_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+      "decision": "accept_for_S5_pilot_not_whole_source_S6",
+      "six_dimensions": {
+        "coverage": "independently_reviewed",
+        "binding": "independently_reviewed",
+        "time": "independently_reviewed",
+        "content_type": "independently_reviewed",
+        "english": "independently_reviewed",
+        "source_quality": "independently_reviewed"
+      },
+      "rationale": "C001 is introductory mentions, no future case details or pattern formation inferred; scope/registered terms/unregistered verses checked. C003 distinguishes single-star palace strength from paired configurations, uses exact branch conditions, and excludes incomplete final condition from evidence.",
+      "repair_verified": "Removed yin from Chinese summary because this chunk states only Metal; broader chapter fact not silently imported.",
+      "remaining_blocking_issues": []
+    }
+  ],
+  "C002_status": "Separate explicit alternative-location representation question remains with independent contract reviewer; this report does not accept C002.",
+  "human_acceptance": false,
+  "whole_source_S5_or_S6_passed": false
+}

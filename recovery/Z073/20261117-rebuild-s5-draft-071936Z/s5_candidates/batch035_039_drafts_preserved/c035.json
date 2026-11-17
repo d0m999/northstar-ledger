@@ -1,0 +1,725 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c035",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    61,
+    62,
+    63
+  ],
+  "chunk_text": "先賢曰：「若人命得之，而身宮逢廉貞囚星，乃財與囚仇，因武曲之陰金，被廉貞之陰火相剋傷，陷地則一生貧賤，如旺地有吉扶，亦有富貴之人，但結局仍是不利也。」在太陽星部份曾提及，廉貞屬陰火，但因火性主揮發、急燥，而陰主內斂，兩相衝突的結果，形成廉貞坐命者性格上，容易有情緒不穩與極端化潛在性格。不僅如此，廉貞在命理上主「品秩」，故當廉貞化忌或會多煞星且又會少吉星，甚至不會吉星時，會將上述不利於性格的負面作用激發出來，造成想法偏激且易鑽牛角尖，甚至會做出「失序」的行為，而導致與他人有爭執糾紛，嚴重時，甚至會因此要吃官司坐牢，故古人將廉貞一星稱為「囚星」，因「囚」者拘繫、禁錮是也。惟須注意的是，當廉貞化祿又會吉時，則無上述「囚星」的作用。\n就斗數排盤的規則來看，凡武曲坐命者，財帛宮必有廉貞坐守。當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」。由於廉貞五行屬火，故當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金，因此不但不利於財，也會激發出廉貞「囚星」的不利作用，使得命造容易因財與人起糾紛，嚴重時，甚至會有官司訴訟等事發生，此即所謂的「財與囚仇」。\n正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是。若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之。\n因武曲在十二地支宮位無弱陷，故賦文中所說「陷地則一生貧賤」的「陷地」，是指武曲坐守宮位會煞多時而言，但是否會如此，仍須視實際星曜組合，及所從事行業與工作的特質，再配合行限變化而定，不可遽而論之。\n",
+  "chunk_index": 35,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "hard",
+  "summary": "作者解释财与囚仇及廉贞囚星称谓，区分化忌或多煞少吉与化禄会吉。正格要求武曲命宫、廉贞所在宫为身宫且廉贞或武曲化忌；身宫不在廉贞处则为偏格。陷地贫贱不能径断，须合星曜、职业工作及行限。",
+  "summary_en": "The author explains Cai Yu Qiu Chou and Lian Zhen as the Prison Star: Hua Ji or many malefics with little auspicious support differs from Hua Lu with benefics. The primary form requires Wu Qu in the Life Palace and the Body Palace at Lian Zhen, with either Lian Zhen or Wu Qu undergoing Hua Ji; otherwise the stated configuration is secondary. Poverty is not automatic: companions, occupation and fortune cycles matter.",
+  "keywords": [
+    "财与囚仇",
+    "武曲",
+    "廉贞",
+    "四化",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Cai Yu Qiu Chou",
+    "Wu Qu",
+    "Lian Zhen",
+    "four transformations",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c035_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c035_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c035_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 27,
+          "end": 29,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c035_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 15,
+          "end": 17,
+          "quote": "廉貞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c035_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 76,
+          "end": 79,
+          "quote": "太陽星"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c035_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 492,
+          "end": 494,
+          "quote": "命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c035_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 12,
+          "end": 14,
+          "quote": "身宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c035_palaces_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 335,
+          "end": 338,
+          "quote": "財帛宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c035_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 85,
+          "end": 90,
+          "quote": "廉貞屬陰火"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c035_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 162,
+          "end": 171,
+          "quote": "廉貞化忌或會多煞星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c035_knowledge_domains2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 480,
+          "end": 489,
+          "quote": "正格的「財與囚仇」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c035_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 414,
+          "end": 418,
+          "quote": "不利於財"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c035_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 234,
+          "end": 242,
+          "quote": "與他人有爭執糾紛"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c035_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 294,
+          "end": 315,
+          "quote": "當廉貞化祿又會吉時，則無上述「囚星」的作用"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c035_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 480,
+          "end": 489,
+          "quote": "正格的「財與囚仇」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c035_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 21,
+          "end": 25,
+          "quote": "財與囚仇"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c035_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 17,
+          "end": 19,
+          "quote": "囚星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c035_lian_ji",
+        "kind": "conditional",
+        "condition": "當廉貞化忌或會多煞星且又會少吉星，甚至不會吉星時",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 161,
+          "end": 185,
+          "quote": "當廉貞化忌或會多煞星且又會少吉星，甚至不會吉星時"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c035_lian_lu",
+        "kind": "conditional",
+        "condition": "當廉貞化祿又會吉時",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 294,
+          "end": 315,
+          "quote": "當廉貞化祿又會吉時，則無上述「囚星」的作用"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c035_placement_rule",
+        "kind": "conditional",
+        "condition": "凡武曲坐命者",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 328,
+          "end": 344,
+          "quote": "凡武曲坐命者，財帛宮必有廉貞坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c035_placement_rule",
+        "kind": "conditional",
+        "condition": "凡武曲坐命者",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 328,
+          "end": 344,
+          "quote": "凡武曲坐命者，財帛宮必有廉貞坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c035_evil_fire",
+        "kind": "conditional",
+        "condition": "當廉貞化忌",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 386,
+          "end": 409,
+          "quote": "當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c035_generic_2",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.star",
+      "scope": {
+        "scope_id": "c035_generic_2",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c035_generic_3",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3.star",
+      "scope": {
+        "scope_id": "c035_generic_3",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "c035_generic_4",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4.star",
+      "scope": {
+        "scope_id": "c035_generic_4",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5",
+      "scope": {
+        "scope_id": "c035_generic_5",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5.star",
+      "scope": {
+        "scope_id": "c035_generic_5",
+        "kind": "conditional",
+        "condition": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 345,
+          "end": 375,
+          "quote": "當星曜化祿或化權或化科時稱之為「正」，而化忌時則稱之為「邪」"
+        }
+      ],
+      "usage": "discussed",
+      "null_reason": "not_mentioned"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c035_placement_rule",
+        "condition": "凡武曲坐命者",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c035_placement_rule",
+        "condition": "凡武曲坐命者",
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star"
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "affected"
+          }
+        ],
+        "scope_id": "c035_evil_fire",
+        "condition": "當廉貞化忌",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_lian_ji"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_lian_lu"
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_generic_2"
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_generic_3"
+      },
+      {
+        "star": null,
+        "transformation": "化科",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_generic_4"
+      },
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c035_generic_5"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "冻结词表未注册，保留正偏格定义及作者条件",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c035_term0"
+      },
+      {
+        "surface": "囚星",
+        "proposed_category": "source_star_epithet",
+        "reason": "廉贞称谓，不是另一颗实体星",
+        "english_surface": "Qiu Xing epithet for Lian Zhen",
+        "scope_id": "c035_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "廉贞",
+      "太阳"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫",
+      "财帛宫"
+    ],
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ]
+  }
+}

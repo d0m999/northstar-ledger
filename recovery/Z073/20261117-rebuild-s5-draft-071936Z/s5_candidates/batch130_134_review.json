@@ -1,0 +1,198 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "formal05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c130",
+      "candidate_sha256": "b81a7adcddefa688c9f875618a2c796c3af3313c02bd5575dfd6f19ed3a26449",
+      "candidate_file": "c130.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "正文理论与完整caption可用，半句及盘图排除；独立巳亥互换对宫关系有据，具体亥命可标。巨机借照不作为入住夫妻。巳亥/卯酉泛组及借照类型保明确表示缺口。只水不跨块补阴阳。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c131",
+      "candidate_sha256": "301e58cfbda012950882ac86dfd40843d9a91d7ffd67fa5674894ce57d7891fb",
+      "candidate_file": "c131.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "从明确天同巳亥句起limited；桃花会照不等同同宫，借巨机非实体入住。不得将引文淫荡当确定现实判断，作者否定与吉煞条件保留。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c132",
+      "candidate_sha256": "fe577ac93ba0fd27637e3262cc145a116c91f69ed2dd685ae5ad40cf97bbe08a",
+      "candidate_file": "c132.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "独立禄存同坐命的例外可表达，不因其他备择把它漏掉；天梁命或夫妻、会魁钺/空劫等不硬定位置。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c133",
+      "candidate_sha256": "0be378377630c5ff5ed0c2330b14cf2e951b6d22f80ef29504ea1ec06eab730e",
+      "candidate_file": "c133.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "泛水星化忌未命名，null星真实not_mentioned，且不可忌煞交冲前提保留。先后天命或夫妻/四沐浴地分配hold，非后天自动当流年或大限。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c134",
+      "candidate_sha256": "50176cdd2f5a6b2e578e18bdbac21bc17361b2a360284f14757de939ff1d4ba8",
+      "candidate_file": "c134.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "天同酉命与天梁夫妻两独立事实有原句，天梁不填未知支；水土机制非凭空创建关系。传统婚姻社会观点非建议，吉煞例外明确。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

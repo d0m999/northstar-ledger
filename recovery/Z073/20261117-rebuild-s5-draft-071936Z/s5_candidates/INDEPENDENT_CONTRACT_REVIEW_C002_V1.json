@@ -1,0 +1,174 @@
+{
+  "review": "Independent current-run C002 frozen-contract/semantic assessment only",
+  "created_utc": "2026-11-17T06:20:50.915606+00:00",
+  "candidate_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+  "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c002.json",
+  "old_baseline_labels_read": false,
+  "candidate_or_schema_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "rules_consulted": [
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/CONTRACT.md",
+      "sha256": "f2e54fe3d6dc501b9ea937993f9db0f4fa81a797fa7ed15f8ac4b8c52dc57080",
+      "lines": "普通标注的执行规则",
+      "operative_requirement": "领域值绑定原句、scope、条件/归属；关系对象位置条件不可丢失，Schema通过不替代语义复核。"
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/PENDING_DECISIONS.md",
+      "sha256": "074a5437fc734cfcf5feed801b4a6d05d7ea5004905be76fd5426f39aa3af552",
+      "lines": "共用语义；D12；D13",
+      "operative_requirement": "一般规则不伪造真实命盘；同一结构记录绑定对象与条件；不从不同记录各取一项拼成立关系。"
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/QUALITY_REVISION_4.md",
+      "sha256": "9091c8f3e63c5a516ac9d14f2f1039801a155c6d4a32078fc4e52d5eab1377c2",
+      "lines": "每块如何标注3/7及交付验收",
+      "operative_requirement": "星曜入宫恰好star+palace两角色；逐块覆盖/绑定/英文/源质量检查。"
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/runtime/astrology_corpus/annotation/semantic_models.py",
+      "sha256": "70918976fed476f469875f1ae3c491c359371f073ece064a52573785e2355d3c",
+      "lines": [
+        10,
+        59
+      ],
+      "operative_requirement": "AnnotationScope和RelationMention只有scope_id/kind/原文condition等字段，无choice-group、OR分支或替代参与者的类型。"
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/runtime/astrology_corpus/annotation/semantic_validation.py",
+      "sha256": "1f12a189d463950974c557d38f14601ba5dd886dad353c50025757da43cbfcd3",
+      "lines": [
+        227,
+        228,
+        291,
+        294
+      ],
+      "operative_requirement": "conditional scope的condition须在本chunk逐字出现，relation.condition须等于该scope的condition。"
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml",
+      "sha256": "c6c1fb12c960cc0b0c1aa84bf98d23e006df9ae2be864a00c26ca6ed3d99c699",
+      "lines": [
+        2118,
+        2126
+      ],
+      "operative_requirement": "同宫至少两不同星；星曜入宫只star+palace各一，palace实体须注册名称。"
+    }
+  ],
+  "mechanical_checks": {
+    "frozen_validator_passed": true,
+    "source_five_fields_exact": true,
+    "all_evidence_spans_exact": true,
+    "full_model_serialization": true
+  },
+  "existing_expressible_facts": [
+    {
+      "paths": [
+        "ziwei.relations.0",
+        "ziwei.relations.1"
+      ],
+      "decision": "supported",
+      "reason": "两条入宫关系分别有前文独立的當武曲坐入財帛宮時/但若是武曲坐命者条件句，不是从同一OR句强拆，也不指同一具体命盘同时占两宫。不得把数组中出现二者等同于同时入宫。"
+    },
+    {
+      "paths": [
+        "ziwei.relations.2",
+        "ziwei.relations.3",
+        "ziwei.relations.4"
+      ],
+      "decision": "supported",
+      "reason": "旺宫同禄存且多吉、陷宫财宫同禄存多吉少煞、同一弱陷条件下化忌或多煞少吉均有各自完整条件原句。"
+    },
+    {
+      "paths": [
+        "ziwei.sihua_mentioned"
+      ],
+      "decision": "conservative_supported_mentions",
+      "reason": "化禄未说明星，化忌主星保留ambiguous；不补禄星为武曲化禄或把禄存误当化禄。"
+    },
+    {
+      "paths": [
+        "ziwei.stars_mentioned",
+        "ziwei.palaces_mentioned",
+        "summary",
+        "summary_en"
+      ],
+      "decision": "preserves_mentions_and_prose_alternatives",
+      "reason": "实体提及和双语保留命/财择一及旺弱吉煞限定；不等于完成机器可检索OR绑定。"
+    }
+  ],
+  "remaining_representation_limits": [
+    {
+      "issue_id": "new_c002_or_placement_rule",
+      "source": {
+        "start": 292,
+        "end": 316,
+        "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈"
+      },
+      "classification": "rule_level_alternative_binding_not_a_new_entity_omission",
+      "finding": "命宫与财帛宫实体和各自入宫条件已由别句覆盖；不可说整段完全缺入宫关系。尚不能在当前结构中显式标注该总括规则的两个备择参与者属于同一OR规则。",
+      "disposition": "retain_specific_hold; do_not_duplicate_two_positive_relations_under_the_same_OR_condition"
+    },
+    {
+      "issue_id": "new_c002_alternative_conjunction_location",
+      "source": {
+        "start": 452,
+        "end": 470,
+        "quote": "最喜與祿存同度於田財之宮，必發財鉅萬"
+      },
+      "classification": "alternative_location_binding",
+      "finding": "同宫本身可表达，后文旺宫/财宫条件已有表示；田财候选承载范围没有typed alternatives字段。原文、双语与精确证据保存该信息，但不能把田宅和财帛变成同一实际命盘的两个同时位置。",
+      "disposition": "retain_specific_hold; no_schema_change_or_unproved_resolution"
+    }
+  ],
+  "alternative_demonstrations": [
+    {
+      "proposal": "合成「若武曲坐入命宮」作为新分支condition",
+      "test": {
+        "validator_passed": false,
+        "error": "conditional scope must retain a verbatim condition from this chunk"
+      },
+      "semantic_decision": "reject",
+      "reason": "本句没有该逐字条件；另造条件不能伪称source。"
+    },
+    {
+      "proposal": "为命宫与财帛宫各新增一个关系，二者使用同一整句OR condition",
+      "test": {
+        "validator_passed": true
+      },
+      "semantic_decision": "not_approved_as_OR_resolution",
+      "reason": "validator只检查字段和逐字条件，不校验谓词逻辑。A或B不蕴含A与B；scope编号不同也不自动建立替代组。作为纯提及可读，但无法证明严格关系检索不会把每个分支当完整条件下成立。"
+    },
+    {
+      "proposal": "同宫participants.location保存原始「田財之宮」字符串",
+      "test": "not_written_or_claimed_validated",
+      "semantic_decision": "at_most_raw_surface_retention_not_typed_OR_resolution",
+      "reason": "location是自由字符串，存原词不一定丢字，但字符串并不提供可检索备择结构。不能据此宣布旧缺口已解决或把它当已注册单一宫名。"
+    }
+  ],
+  "six_axis_review": {
+    "coverage": "可表达事实基本覆盖；上列二项总括/位置OR绑定保留明确限制，不移入可用片段排除区。",
+    "binding": "已有五个关系分属原文独立条件，未视为同一实际个案。",
+    "time": "未反推本命/大限，time_context=null合理。",
+    "content_type": "实战断语适用于本段一般条件规则而非真实个案。",
+    "english": "基本保留阴金、命/财择一、福德田宅、旺弱/吉煞、化禄或禄存及不能径断巨富。建议将In a fallen Wealth Palace改为When Wu Qu is weak/fallen in the Wealth Palace，避免把弱陷直接修饰抽象宫名。",
+    "source_quality": "eligible可保留，原段完整可读；表示限制不是缺文，不应降limited或archive_only。"
+  },
+  "ordinary_fix_required": [
+    {
+      "field_path": "annotation_evidence for ziwei.stars_mentioned.1",
+      "current_usage": "discussed",
+      "recommended_usage": "mentioned",
+      "source": {
+        "start": 277,
+        "end": 282,
+        "quote": "紫微星部份"
+      },
+      "reason": "此处仅让读者参见紫微星章节，不在本chunk讨论紫微星本身；D12提及/讨论/使用须区分。"
+    }
+  ],
+  "decision": "retain_specific_representation_hold_and_return_small_usage_fix; preserve_expressible_draft",
+  "parent_action": "可继续其他块。修正紫微提及usage后，当前可表达部分可计作候选审查完成，但不得把C002标为已解决全部表示限制；也不应把旧27数量或编号迁入新run。",
+  "caution": "本结论只评价冻结模型和当前C002。没有更改合同，也没有新建全局规则；若将来批准版本化OR语义，另作新版本审查。"
+}

@@ -1,0 +1,17 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c002",
+  "status": "BLOCKED_EXPRESSIBLE_DRAFT",
+  "candidate_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+  "source_quality": "eligible",
+  "issues": [
+    "BLOCKED:「武曲財星坐入命宮或財帛宮」明确备选宫位；relation_type星曜入宫只能二参与者，无OR分支联结。草稿仅记录前文独立明确的命宫/财帛宫条件规则，不伪造本句两宫同占。",
+    "BLOCKED:「最喜與祿存同度於田財之宮」田财为宫位集合/候选，不擅自拆为两处同时同宫；当前同宫结构无法说明同一规则的可选承载宫。后文独立明确的财宫同坐规则可表达，已记录。"
+  ],
+  "not_blocked_by": [
+    "five-element explanation without dedicated relation type",
+    "source readability",
+    "unknown transformation star kept null"
+  ],
+  "allowed_next_step": "independent frozen-contract review of whether explicit scoped alternatives can be represented without changing semantics; no schema modification authorized",
+  "formal_output_written": false
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "attempt": 1,
+    "results": [
+      {
+        "status": "failed",
+        "error": "same scope_id has conflicting contexts",
+        "file": "c150.json",
+        "sha256": "476fbfe7de6022a5153a74e8df6d38ccb24f31ffe7a615a39288a2a429fe7262"
+      },
+      {
+        "status": "failed",
+        "error": "same scope_id has conflicting contexts",
+        "file": "c151.json",
+        "sha256": "ed5ed38756988429ae2f67eafa8974b1a09d1d57279c98f602d3c018dca25369"
+      },
+      {
+        "status": "passed",
+        "file": "c152.json",
+        "sha256": "6afa3a4299164f3fb5e6a3aa60b98e6d20cbab322d47835a2bf477035f0294ac"
+      },
+      {
+        "status": "failed",
+        "error": "ziwei.topics_mentioned[0]: '房产田宅' 不在词表 canonical 集合中",
+        "file": "c153.json",
+        "sha256": "9071e550e491309b06380da0e0697119a7b0202568589a8ccdf9b0a1b47196a8"
+      },
+      {
+        "status": "passed",
+        "file": "c154.json",
+        "sha256": "2da801c11945aea25543447d21b7dabaab5eaa8d16e1a5d124180916a5fee986"
+      }
+    ]
+  },
+  {
+    "attempt": 2,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c150.json",
+        "sha256": "fc360c14891183a9403fe1a71cdc6aacf68647182badeac3397e9a373f873669"
+      },
+      {
+        "status": "passed",
+        "file": "c151.json",
+        "sha256": "414af0eb4b3a4ba3b5696d664fbf77060545923e031bce22baa82e6f590d2a04"
+      },
+      {
+        "status": "passed",
+        "file": "c152.json",
+        "sha256": "6afa3a4299164f3fb5e6a3aa60b98e6d20cbab322d47835a2bf477035f0294ac"
+      },
+      {
+        "status": "passed",
+        "file": "c153.json",
+        "sha256": "a0ed816a439f72d59a97adf21f7d679ac1ec4e3a1a1f989e614720a458d43f48"
+      },
+      {
+        "status": "passed",
+        "file": "c154.json",
+        "sha256": "2da801c11945aea25543447d21b7dabaab5eaa8d16e1a5d124180916a5fee986"
+      }
+    ]
+  },
+  {
+    "attempt": 3,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c150.json",
+        "sha256": "73f6e0705e00fdc6c453e635641ba8c358637f76b491b078b4b6b0ec0c3758cf"
+      },
+      {
+        "status": "passed",
+        "file": "c151.json",
+        "sha256": "8bda302072eaf25ebb2d322e4e2c84ce1525671e1dce6c70e8aaaa7515135ac8"
+      },
+      {
+        "status": "passed",
+        "file": "c152.json",
+        "sha256": "69a51aeef2af52bfe77c8a43261905f83a87d0cc035c9447d7219096fcc8d8da"
+      },
+      {
+        "status": "passed",
+        "file": "c153.json",
+        "sha256": "3f09fe247b62098b4252673dd293a7c1978c60a309b972a74cb835a7f31dc2a0"
+      },
+      {
+        "status": "passed",
+        "file": "c154.json",
+        "sha256": "904f5a09b74cfd79b9ba80ed76c24a6d131703d69b4b7b09b40253b4dc5a461b"
+      }
+    ]
+  }
+]

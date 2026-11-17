@@ -1,0 +1,253 @@
+{
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c065",
+      "candidate_sha256": "0a4543605b90d44b94d53ea9acb5e02840a91f75826abe828f977676c9595f62",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c065_0a4543605b90d44b94d53ea9acb5e02840a91f75826abe828f977676c9595f62.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c066",
+      "candidate_sha256": "e232fc8f16b1ae639ab9f14456241658437628e6b4cdb4fb7d64917ef252494a",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c066_e232fc8f16b1ae639ab9f14456241658437628e6b4cdb4fb7d64917ef252494a.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c067",
+      "candidate_sha256": "1c0a2b10f8a0d1aedd47b7f0a1ab6f413c67e128897fd6b0c53e855ced65d32e",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c067_1c0a2b10f8a0d1aedd47b7f0a1ab6f413c67e128897fd6b0c53e855ced65d32e.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c068",
+      "candidate_sha256": "7a483d4a26e0845d1d038591f027aaf20cd5a95f019dc68dfd649861fc7f1c1a",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c068_7a483d4a26e0845d1d038591f027aaf20cd5a95f019dc68dfd649861fc7f1c1a.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c069",
+      "candidate_sha256": "66e0c96af2782a9c08f5519ddb53a70488e1194f1706cccb6225aaf015c3ab2e",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c069_66e0c96af2782a9c08f5519ddb53a70488e1194f1706cccb6225aaf015c3ab2e.json",
+      "current_file_matches_snapshot": true,
+      "decision": "blocked_expressible_draft_accepted",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": "魁钺星与卯巳分配未定",
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c070",
+      "candidate_sha256": "c5a18a87f7473cb3f1c3a2cedfc37977af97614756c2525952652bafc59f1efe",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c070_c5a18a87f7473cb3f1c3a2cedfc37977af97614756c2525952652bafc59f1efe.json",
+      "current_file_matches_snapshot": true,
+      "decision": "blocked_expressible_draft_accepted",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": "禄存仅寅地支无事项宫",
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c071",
+      "candidate_sha256": "a73baeb02839f72ed0d5f36d976af97f5e115a19535a80068f40a679d315943b",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c071_a73baeb02839f72ed0d5f36d976af97f5e115a19535a80068f40a679d315943b.json",
+      "current_file_matches_snapshot": true,
+      "decision": "blocked_expressible_draft_accepted",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": "匿名大限化权作用关系",
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c072",
+      "candidate_sha256": "1e083fbcdb166c7d5f9fecba6723a5029d4fae4702455d4d06ccaecfdcb06b1a",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c072_1e083fbcdb166c7d5f9fecba6723a5029d4fae4702455d4d06ccaecfdcb06b1a.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c073",
+      "candidate_sha256": "a725b3d2e638e1c220781a56d889eac1eadf8186f3551af74546937abeece478",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c073_a725b3d2e638e1c220781a56d889eac1eadf8186f3551af74546937abeece478.json",
+      "current_file_matches_snapshot": true,
+      "decision": "blocked_expressible_draft_accepted",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "案例分析与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": "禄存仅巳地支无事项宫",
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c074",
+      "candidate_sha256": "b62e29ffbec744f4273e3c2daf6499f5395778a345bde08471eedc5678c921c6",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c065_c074_v2/c074_b62e29ffbec744f4273e3c2daf6499f5395778a345bde08471eedc5678c921c6.json",
+      "current_file_matches_snapshot": true,
+      "decision": "accept",
+      "issues": [],
+      "quality_reviews": {
+        "coverage": "实际完整读新正文、全部领域字段/关系/四化/术语；可表达遗漏见issues。066/068完整部分主要五行/禄存性质，列四化本身不强补四化分析。",
+        "binding": "原文span、scope/condition/attribution逐项审读；065/067先天与大限目标分开，吉辅未误作夹宫。069魁钺具体地支对应不猜；073左右邻宫足以支持夹辅。",
+        "time": "多周期scope逐项核；天干和标量问题见issues。精确重复time_mentions可规范去重但不改变语义。",
+        "content_type": "概念解释与正文主体相符。",
+        "english": "双语原文否定/条件与主要实体均核；没有将命理观点作为现实定论，源疑字未暗改。",
+        "source_quality": "usable边界与前后残文实读；旧图表不用于性别或位置推断。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "all_spans_exact": true
+      },
+      "human_acceptance": false,
+      "remaining_typed_hold": null,
+      "revision_verification": "V1完整审读后，V2独立快照差异逐字段复审：成格/时间去重、破军禄双宫作用、甲丙天干证据、贪狼禄对武曲、子辰巳位置与天相入宫、标量投影均核原文；无以当前hash替换旧审对象。"
+    }
+  ],
+  "snapshot_policy": "Hashes are from frozen bytes read before review, never from current candidate at report time.",
+  "old05_read": false,
+  "candidates_modified": false,
+  "whole_source_complete": false,
+  "counts": {
+    "accept": 6,
+    "blocked_expressible_draft_accepted": 4,
+    "return": 0
+  }
+}

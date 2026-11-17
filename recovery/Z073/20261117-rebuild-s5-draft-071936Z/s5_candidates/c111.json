@@ -1,0 +1,718 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c111",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    139,
+    140
+  ],
+  "chunk_text": "先賢曰：「武曲貪狼加煞忌，技藝之人。」先賢對之有註解如下：「身命武貪，不見言扶，不能富貴。加煞及化忌來沖，多是百工技藝之人，勞碌飄泊，為福不全，不然灭折。」本賦文主要是在說明，武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言。\n反之，若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作，一輩子勞碌飄泊，縱能享福亦有所不全，否則就會夭折。又，百工技藝在此係泛指各種工匠及工藝。\n實則任一星曜入命若無吉化，又見多煞星及有化忌來沖，其賦性作用所呈現出來者以負面居多，因此與人相處就易有寡合現象，故較不適合從事須人際往來頻繁的工作，而較適合去學技藝，以求得一技之長，好賴以謀生，並不限於武貪入身命者。此即《全集，註解骨髓賦》會有「武曲閒宮多手藝」的說法由來，並對之有註解如下：「武曲巳亥守命，加煞者手藝安身」，而《全書，諸星在命身及十二宮吉凶要訣》亦有「武曲平閒宮守命，斯人多係手藝精」的類似敘述，並有註解如下：「此云即乃武曲在巳亥宫守命而加煞或與刑囚諸惡同值，多主手藝安身之人」。\n有關武貪組合的命理現象，在前面已有詳盡的解說，就不再贅敘。",
+  "chunk_index": 111,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "古赋把武贪无吉而煞忌冲与百工技艺、劳碌相联。作者解释为负面星性导致人际寡合，故较适合靠技能谋生，而非仅武贪如此；引巳亥武曲加煞或刑囚守命为例。原文夭折断语仅作来源观点，不能据星曜诊断寿命；身命与巳亥不强定单宫单支。",
+  "summary_en": "The quoted verse links unsupported Wu Qu–Tan Lang under malefics and Hua Ji with crafts and toil. The author interprets this as difficult social interaction favoring skilled work over frequent interpersonal dealings, extending it beyond this pair. Other verses discuss Wu Qu in Si or Hai Life with malefics or Xing Qiu. These are attributed interpretive claims, not medical predictions of lifespan. Life versus Body and Si versus Hai alternatives are not flattened into a single placement.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "化忌",
+    "百工技艺",
+    "身命",
+    "巳亥",
+    "吉煞条件"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tan Lang",
+    "Hua Ji",
+    "crafts and skills",
+    "Life and Body",
+    "Si Hai",
+    "conditional malefic support"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 218,
+          "end": 234,
+          "quote": "其賦性作用所呈現出來者以負面居多"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 17,
+          "quote": "武曲貪狼加煞忌，技藝之人"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 127,
+          "end": 132,
+          "quote": "有化忌來沖"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "quote": "武曲貪狼加煞忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "quote": "武曲貪狼加煞忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 346,
+          "quote": "武曲巳亥守命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 34,
+          "quote": "身命武貪"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 275,
+          "quote": "較適合去學技藝"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 237,
+          "end": 248,
+          "quote": "與人相處就易有寡合現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "malefic_trade",
+        "kind": "conditional",
+        "condition": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 147,
+          "quote": "若是見多煞星及有化忌來沖，就較適合從事與技藝相關的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "quoted_sihai",
+        "kind": "conditional",
+        "condition": "武曲巳亥守命，加煞者手藝安身",
+        "attribution": "《全集，注解骨髓赋》引文"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 354,
+          "quote": "武曲巳亥守命，加煞者手藝安身"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 88,
+          "end": 115,
+          "quote": "武貪的組合若無吉化，即不見六吉星及祿權科，就無富貴可言"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 122,
+          "end": 132,
+          "quote": "見多煞星及有化忌來沖"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 108,
+          "quote": "祿權科"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 34,
+          "quote": "身命武貪"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 425,
+          "end": 429,
+          "quote": "刑囚諸惡"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 74,
+          "end": 76,
+          "quote": "灭折"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 342,
+          "end": 344,
+          "quote": "巳亥"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "人际关系"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_sihai",
+        "negated": false,
+        "condition": "武曲巳亥守命，加煞者手藝安身"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "祿權科",
+        "proposed_category": "negative_transformation_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Lu Quan Ke absent",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "身命武貪",
+        "proposed_category": "alternative_palace_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Shen Ming Wu Tan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "刑囚諸惡",
+        "proposed_category": "source_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Xing Qiu Zhu E",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "灭折",
+        "proposed_category": "ocr_uncertain",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Mie Zhe",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "巳亥",
+        "proposed_category": "branch_alternatives",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Si Hai",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "malefic_trade"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

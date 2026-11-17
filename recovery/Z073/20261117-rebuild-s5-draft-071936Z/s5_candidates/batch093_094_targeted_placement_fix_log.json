@@ -1,0 +1,16 @@
+[
+  {
+    "chunk": 93,
+    "old_sha256": "ccf3afa0133db53a9d8c57d0e7a2badf91ba0ac5ee3c852bf0f08598d40ba96b",
+    "new_sha256": "95630a01510b4f3fcb897e0c61594531485fc87d322f8f9f1d035f945f2f6748",
+    "double_validation": "pass",
+    "hold": "unchanged"
+  },
+  {
+    "chunk": 94,
+    "old_sha256": "e2057d3a361e76e34403e4a393e415bf5e3ce588e39e91ec5b503f73bb031d80",
+    "new_sha256": "6cb7c9b1faa3dce326c57793d85df3b62fee0b449076c703d5e1b42c85f7b226",
+    "double_validation": "pass",
+    "hold": "unchanged"
+  }
+]

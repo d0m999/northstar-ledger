@@ -1,0 +1,125 @@
+{
+  "scope": "C120-C124 full six-axis independent review",
+  "snapshot_policy": "Exact bytes copied before reading; hashes bind immutable snapshots, not active candidates",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c120",
+      "candidate_sha256": "77515dc1c828b6c076850277e6fe2a8c3cdb702a8c1c42c7d9415c5378326455",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C120_C124_V1/c120.json",
+      "decision": "return",
+      "findings": [
+        "财逢巨机为注册机巨同宫缩称，应补interaction及引文财帛条件下两星同宫/入宫，不把借照混为入命。",
+        "太阴提及仅凭曰月疑字，与hold声明不确定冲突；撤不确定实体并摘要保疑点，或提供本块确据，不静默正字。古注实体evidence归属应为先贤注解而非统一作者。",
+        "明确若人本命有格局应保本命对象time_mentions；另作者天同坐命会多吉有独立入命条件，不能因career主旨遗漏。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文全字段逐项阅读；需修明确组合与时间覆盖及源质量可用片段问题见findings。",
+        "binding": "逐span核原文、主语、条件、归属；124位置证据需扩，120疑字确定化需修。",
+        "time": "124先天子命与癸卯限同scope对象已分、出版年不当行运正确；120/122本命及123入宫对象待补。",
+        "content_type": "五块均实际命例分析为主，case类型恰当。",
+        "english": "全量对读，核心强命前提与不必然条件保留；120Sun Moon疑字确定化需同步。",
+        "source_quality": "实际limited均有残首/混排/残尾，不因hold降资格；121内嵌连续片段需再核。"
+      },
+      "preserved_nonblocking_or_typed_findings": [
+        "120匿名星与OCR疑点、121五限匿名禄作用具体hold继续；不把unknown星替换为猜测星。"
+      ],
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c121",
+      "candidate_sha256": "cc5ff0b4e983382bdd778052771ab12b294bb1632de412f340ace43e88738d4a",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C120_C124_V1/c121.json",
+      "decision": "return",
+      "findings": [
+        "混排内部连续巨門在亥坐命，事業宮在卯有天同坐守，丙年生人，天同化祿为自足可读案例片段，须核可安全保留的连续范围与所属盘二，不拼接中间天梁破军等。若认为未完句不能独立取用，明确理由供复核，不只全段混排概括。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文全字段逐项阅读；需修明确组合与时间覆盖及源质量可用片段问题见findings。",
+        "binding": "逐span核原文、主语、条件、归属；124位置证据需扩，120疑字确定化需修。",
+        "time": "124先天子命与癸卯限同scope对象已分、出版年不当行运正确；120/122本命及123入宫对象待补。",
+        "content_type": "五块均实际命例分析为主，case类型恰当。",
+        "english": "全量对读，核心强命前提与不必然条件保留；120Sun Moon疑字确定化需同步。",
+        "source_quality": "实际limited均有残首/混排/残尾，不因hold降资格；121内嵌连续片段需再核。"
+      },
+      "preserved_nonblocking_or_typed_findings": [
+        "120匿名星与OCR疑点、121五限匿名禄作用具体hold继续；不把unknown星替换为猜测星。"
+      ],
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c122",
+      "candidate_sha256": "c061abee421f201ef2a9f2f69b59020f319657d962a12e06e6aed55187b55a0d",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C120_C124_V1/c122.json",
+      "decision": "return",
+      "findings": [
+        "财逢巨机与对宫日月同守已有明确组合，补合法机巨同宫/日月同宫interaction；前者财帛关系保古注若本命有格局完整条件。",
+        "古注若人本命有格局明示本命对象，time全not_mentioned不准确。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文全字段逐项阅读；需修明确组合与时间覆盖及源质量可用片段问题见findings。",
+        "binding": "逐span核原文、主语、条件、归属；124位置证据需扩，120疑字确定化需修。",
+        "time": "124先天子命与癸卯限同scope对象已分、出版年不当行运正确；120/122本命及123入宫对象待补。",
+        "content_type": "五块均实际命例分析为主，case类型恰当。",
+        "english": "全量对读，核心强命前提与不必然条件保留；120Sun Moon疑字确定化需同步。",
+        "source_quality": "实际limited均有残首/混排/残尾，不因hold降资格；121内嵌连续片段需再核。"
+      },
+      "preserved_nonblocking_or_typed_findings": [
+        "原残损保留，不补盘面；122未推对宫丑，123未用外部四化表，124未把吉辅等同夹辅。"
+      ],
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c123",
+      "candidate_sha256": "4dd7947ba84814bd5b3ec14ca9b3bf955a9a8c2c4efb24bd6b695ca0c456348c",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C120_C124_V1/c123.json",
+      "decision": "return",
+      "findings": [
+        "注册同阴同宫interaction及擎羊陀罗pair未覆盖，补原句证据，不由三合扩大夹辅。",
+        "事业topic和格局method当前仅凸显安享作用短span，扩实际事业/星曜组合完整上下文。",
+        "time_mentions只cycle标签，补辛卯天同大限命宫对象，使已写入宫role区分大限而非先天；不据此把原有天同禄套辛干。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文全字段逐项阅读；需修明确组合与时间覆盖及源质量可用片段问题见findings。",
+        "binding": "逐span核原文、主语、条件、归属；124位置证据需扩，120疑字确定化需修。",
+        "time": "124先天子命与癸卯限同scope对象已分、出版年不当行运正确；120/122本命及123入宫对象待补。",
+        "content_type": "五块均实际命例分析为主，case类型恰当。",
+        "english": "全量对读，核心强命前提与不必然条件保留；120Sun Moon疑字确定化需同步。",
+        "source_quality": "实际limited均有残首/混排/残尾，不因hold降资格；121内嵌连续片段需再核。"
+      },
+      "preserved_nonblocking_or_typed_findings": [
+        "原残损保留，不补盘面；122未推对宫丑，123未用外部四化表，124未把吉辅等同夹辅。"
+      ],
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c124",
+      "candidate_sha256": "70c9daea64bb0c01359bfb462a9a897b99998389f5aed617e783516832f09bb3",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C120_C124_V1/c124.json",
+      "decision": "return",
+      "findings": [
+        "palaces_mentioned官禄宫只有不利于事业活动证据，本块未明确事业宫，不能活动主题自动实体宫。",
+        "火铃夹辅target卯quote未含卯，加入同scope癸卯限天同坐守前文；不把禄存吉辅当夹辅。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文全字段逐项阅读；需修明确组合与时间覆盖及源质量可用片段问题见findings。",
+        "binding": "逐span核原文、主语、条件、归属；124位置证据需扩，120疑字确定化需修。",
+        "time": "124先天子命与癸卯限同scope对象已分、出版年不当行运正确；120/122本命及123入宫对象待补。",
+        "content_type": "五块均实际命例分析为主，case类型恰当。",
+        "english": "全量对读，核心强命前提与不必然条件保留；120Sun Moon疑字确定化需同步。",
+        "source_quality": "实际limited均有残首/混排/残尾，不因hold降资格；121内嵌连续片段需再核。"
+      },
+      "preserved_nonblocking_or_typed_findings": [
+        "原残损保留，不补盘面；122未推对宫丑，123未用外部四化表，124未把吉辅等同夹辅。"
+      ],
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    }
+  ],
+  "human_acceptance": false,
+  "old05_read": false,
+  "candidate_files_modified": false
+}

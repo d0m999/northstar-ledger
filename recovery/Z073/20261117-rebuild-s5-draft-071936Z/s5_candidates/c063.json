@@ -1,0 +1,714 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c063",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    90,
+    91
+  ],
+  "chunk_text": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。不但如此，先天或後天的田宅宮在此五大限亦有類似的作用，即田宅宮也是連珠。\n綜合上述武貪在丑坐命甲年生人的討論，可以得知，除因本身命格相當吉旺外，再加上命宮及田宅宮的連珠作用，此命格之人，不但是個名利雙收的富貴命格，且會是個鉅富人家。惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。\n",
+  "chunk_index": 63,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者总结甲年武贪丑命，丁丑至己巳五大限命宫及田宅宫连珠，称可名利双收、积累巨富；女命逆行则不同，丙子至壬申诸限命宫有化忌冲或双忌夹制而成连忌。先后天、单化禄与双化禄及忌的备择分布未明确，不能补成各限统一事实。",
+  "summary_en": "For Jia-year Wu Qu and Tan Lang in the Chou Life Palace, the author describes five grand cycles from Ding Chou through Ji Si as a favorable sequence for Life and Property Palaces, supporting fame and substantial wealth. Female charts run in reverse: from Bing Zi through Ren Shen, Hua Ji attacks or double Hua Ji flanks the Life Palace, forming an adverse sequence. The text does not assign each alternative to an exact cycle or distinguish every natal and cycle target.",
+  "keywords": [
+    "武贪",
+    "丑命",
+    "甲年",
+    "大限",
+    "连珠",
+    "连忌",
+    "田宅宫"
+  ],
+  "keywords_en": [
+    "Wu Qu and Tan Lang",
+    "Chou Life Palace",
+    "Jia year",
+    "grand cycles",
+    "favorable sequence",
+    "adverse sequence",
+    "Property Palace"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c63_jia_chou",
+        "kind": "conditional",
+        "condition": "武貪在丑坐命甲年生人",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 115,
+          "quote": "武貪在丑坐命甲年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c63_jia_chou",
+        "kind": "conditional",
+        "condition": "武貪在丑坐命甲年生人",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 115,
+          "quote": "武貪在丑坐命甲年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c63_jia_chou",
+        "kind": "conditional",
+        "condition": "武貪在丑坐命甲年生人",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 115,
+          "quote": "武貪在丑坐命甲年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c63_jia_chou",
+        "kind": "conditional",
+        "condition": "武貪在丑坐命甲年生人",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 115,
+          "quote": "武貪在丑坐命甲年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c63_jia_chou",
+        "kind": "conditional",
+        "condition": "武貪在丑坐命甲年生人",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 105,
+          "end": 115,
+          "quote": "武貪在丑坐命甲年生人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 32,
+          "quote": "命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 75,
+          "end": 78,
+          "quote": "田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c63_five",
+        "kind": "conditional",
+        "condition": "自丁丑限到己巳限",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 9,
+          "end": 24,
+          "quote": "自丁丑限到己巳限，連著五個大限"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c63_female",
+        "kind": "conditional",
+        "condition": "若為女命，因限運逆行",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 187,
+          "end": 230,
+          "quote": "若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c63_female",
+        "kind": "conditional",
+        "condition": "若為女命，因限運逆行",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 187,
+          "end": 206,
+          "quote": "若為女命，因限運逆行，雖間有化祿來吉化"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c63_female",
+        "kind": "conditional",
+        "condition": "若為女命，因限運逆行",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 101,
+          "quote": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。不但如此，先天或後天的田宅宮在此五大限亦有類似的作用，即田宅宮也是連珠。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 101,
+          "quote": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。不但如此，先天或後天的田宅宮在此五大限亦有類似的作用，即田宅宮也是連珠。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 101,
+          "quote": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。不但如此，先天或後天的田宅宮在此五大限亦有類似的作用，即田宅宮也是連珠。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 179,
+          "quote": "名利雙收的富貴命格，且會是個鉅富人家"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 58,
+          "end": 60,
+          "quote": "連珠"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 270,
+          "quote": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 179,
+          "quote": "名利雙收的富貴命格，且會是個鉅富人家"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c63_male_lu",
+        "kind": "conditional",
+        "condition": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 64,
+          "quote": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "c63_male_lu",
+        "kind": "conditional",
+        "condition": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c63_female_ji",
+        "kind": "conditional",
+        "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。\n",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 270,
+          "quote": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.star",
+      "scope": {
+        "scope_id": "c63_female_ji",
+        "kind": "conditional",
+        "condition": "惟須注意的是，若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限，先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制，造成命宮的連忌，以不佳論。\n",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c63_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 101,
+          "quote": "故就整個行限來看，自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化，造成命宮的連珠，甚吉。不但如此，先天或後天的田宅宮在此五大限亦有類似的作用，即田宅宮也是連珠。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "c63_jia_chou",
+        "negated": false,
+        "condition": "武貪在丑坐命甲年生人"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "c63_jia_chou",
+        "negated": false,
+        "condition": "武貪在丑坐命甲年生人"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "member",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "c63_jia_chou",
+        "negated": false,
+        "condition": "武貪在丑坐命甲年生人"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "連珠",
+        "proposed_category": "source_rule",
+        "reason": "保留来源连续吉化称谓，不映射未注册固定格局。",
+        "english_surface": "Lian Zhu favorable sequence",
+        "scope_id": "c63_author"
+      },
+      {
+        "surface": "連忌",
+        "proposed_category": "source_rule",
+        "reason": "保留连续忌作用及女性逆行前提，不推各限的具体化曜。",
+        "english_surface": "Lian Ji adverse sequence",
+        "scope_id": "c63_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "c63_five",
+        "subject": "自丁丑限到己巳限，連著五個大限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "c63_female",
+        "subject": "若為女命，因限運逆行，雖間有化祿來吉化，但卻無法造成命宮的連珠，反而是自丙子限到壬申限",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "田宅宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c63_female"
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c63_male_lu"
+      },
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c63_female_ji"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

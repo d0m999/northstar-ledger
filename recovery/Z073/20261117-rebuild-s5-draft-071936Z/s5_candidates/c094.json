@@ -1,0 +1,484 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c094",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    121
+  ],
+  "chunk_text": "先賢曰：「武曲破軍，破祖、破家又勞碌。」先賢對之有註解如下：「破軍又名耗星，財逢之不利，此二星廟旺仍有富貴，若陷弱在亥，或分處二地之身命，無吉加煞，破祖業，飄泊勞碌。」註解中的「財逢之不利」係指武破組合在會煞多且會吉少時，會不利於財，而不是單指破軍一星就不利於財。有關此賦文的命理作用，在前面章節已有詳盡的解說，就不再說明。但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之。\n",
+  "chunk_index": 94,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者解释武曲破军破家劳碌的古赋，强调财逢破军不利须限定武破会煞多、会吉少，不能归咎破军单星。庙旺仍可能富贵，古注的亥弱与身命分处等条件不可混为一个实际盘；末句只是引出下文两个命例，当前未提供命例事实。",
+  "summary_en": "The author qualifies a verse about Wu Qu and Po Jun causing loss of inherited property and toil. Financial adversity concerns the combination with many malefics and few benefics, not Po Jun alone. The quoted commentary allows wealth and status in strong placements and lists weak Hai placement or separation across Life and Body under adverse support conditions. These alternatives must not be merged into one chart. The closing sentence only introduces two forthcoming examples; no case facts are yet provided.",
+  "keywords": [
+    "武曲破军",
+    "耗星",
+    "会煞少吉",
+    "条件解释"
+  ],
+  "keywords_en": [
+    "Wu Qu and Po Jun",
+    "consuming star",
+    "malefic and benefic balance",
+    "conditional interpretation"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 7,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 9,
+          "quote": "破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c94_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 68,
+          "quote": "分處二地之身命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c94_classic",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 68,
+          "quote": "分處二地之身命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c94_classic_split",
+        "kind": "conditional",
+        "condition": "或分處二地之身命",
+        "attribution": "先贤注解（本书转引）"
+      },
+      "spans": [
+        {
+          "start": 44,
+          "end": 73,
+          "quote": "此二星廟旺仍有富貴，若陷弱在亥，或分處二地之身命，無吉加煞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 31,
+          "end": 37,
+          "quote": "破軍又名耗星"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 131,
+          "quote": "而不是單指破軍一星就不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 97,
+          "end": 110,
+          "quote": "武破組合在會煞多且會吉少時"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 111,
+          "end": 116,
+          "quote": "會不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c94_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 111,
+          "end": 116,
+          "quote": "會不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c94_case_intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 198,
+          "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c94_case_intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 198,
+          "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c94_case_intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 198,
+          "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c94_classic_split",
+        "negated": true,
+        "condition": "或分處二地之身命"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c94_case_intro",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c94_case_intro",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c94_case_intro",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "耗星",
+        "proposed_category": "source_star_epithet",
+        "reason": "破军性质称谓不标另一个小星。",
+        "english_surface": "consuming star",
+        "scope_id": "c94_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "破军"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

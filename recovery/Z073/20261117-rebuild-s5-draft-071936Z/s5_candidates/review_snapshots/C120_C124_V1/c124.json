@@ -1,0 +1,1142 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c124",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    162
+  ],
+  "chunk_text": "相反的，同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺。此時天同被火鈴夾制後，雖因天同屬水且火鈴屬火而有水火相剋作用，但因本命格強旺，此時天同因水火相剋的沖動激發作用而有作為，就不以安享論（註三）。\n從盤五及盤六的命例顯示，走到天同坐守的大限，天同究竟是以「安享」或是「有作為」論，主要在於命宮的吉旺，其次則是天同的會吉會煞，來做决定。若是命宮強旺者，走到天同坐守的大限，雖會因天同會吉或會煞而有所影響，但因本命強旺，此影響較不大。若是命宮弱陷，走到天同坐守的大限，此時天同若會吉，則會凸顯出其懶洋洋的心態，反不利於事業。\n註一：有關斗數在事業方面的說明，請參閲紫雲著《斗數論事業》（此書於一九九二年由時報出版社出版，後於二0一一年再由武陵出版社出版）書中「導論」一文。\n註二：有關盤三的命例在健康上的論斷，請參閲紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「十二指腸潰瘍-談心火的另一類病變」一文。\n註三：有關命造在癸卯限的作為及其命理解說，請參閲紫雲著《從斗數看人生》（此書於一九九三年由時報出第五章 天同",
+  "chunk_index": 124,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘六壬年廉相子宫同羊，虽武曲忌来冲，天梁禄与禄存吉辅使其强旺；癸卯天同限又得破军禄吉命，火铃夹制反被作者解释为激发作为。天同限安享或有为须先看本命强弱再看吉煞，文献出版年份不作行运，末注残缺保留。",
+  "summary_en": "In Chart Six, a Ren birth has Lian Zhen and Tian Xiang with Qing Yang at Zi. Despite Wu Qu Hua Ji, Tian Liang Hua Lu and Lu Cun support are said to strengthen the configuration. In Gui Mao, Tian Tong occupies the cycle palace while Po Jun Hua Lu strengthens natal Life; flanking Huo Xing and Ling Xing are then interpreted as stimulating action. The author makes natal strength primary and other support secondary when contrasting initiative with passivity. Bibliographic publication years are not fortune cycles, and the unfinished final note remains incomplete.",
+  "keywords": [
+    "廉相子命",
+    "癸卯限",
+    "破军化禄",
+    "火铃夹制",
+    "强弱条件"
+  ],
+  "keywords_en": [
+    "Lian Zhen Tian Xiang in Zi Life",
+    "Gui Mao cycle",
+    "Po Jun Hua Lu",
+    "Huo Ling flanking",
+    "strength conditions"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 13,
+          "quote": "廉相在子坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 13,
+          "quote": "廉相在子坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 19,
+          "end": 25,
+          "quote": "擎羊在子同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 34,
+          "quote": "武曲化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 41,
+          "end": 45,
+          "quote": "天梁化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 50,
+          "quote": "祿存吉輔"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 68,
+          "end": 72,
+          "quote": "天同坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 84,
+          "end": 88,
+          "quote": "破軍化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.8",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 99,
+          "end": 106,
+          "quote": "天同被火鈴夾制"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.9",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 99,
+          "end": 106,
+          "quote": "天同被火鈴夾制"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 99,
+          "end": 106,
+          "quote": "天同被火鈴夾制"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 83,
+          "quote": "先天命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 324,
+          "end": 329,
+          "quote": "不利於事業"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 57,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 57,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 57,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c124_case6_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 96,
+          "quote": "走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 96,
+          "quote": "走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 96,
+          "quote": "走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 96,
+          "quote": "走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 96,
+          "quote": "同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c124_guimao",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 97,
+          "end": 156,
+          "quote": "此時天同被火鈴夾制後，雖因天同屬水且火鈴屬火而有水火相剋作用，但因本命格強旺，此時天同因水火相剋的沖動激發作用而有作為"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 210,
+          "end": 231,
+          "quote": "主要在於命宮的吉旺，其次則是天同的會吉會煞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 210,
+          "end": 231,
+          "quote": "主要在於命宮的吉旺，其次則是天同的會吉會煞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 210,
+          "end": 231,
+          "quote": "主要在於命宮的吉旺，其次則是天同的會吉會煞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 91,
+          "quote": "先天命宮得破軍化祿吉化後"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 91,
+          "quote": "先天命宮得破軍化祿吉化後"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 474,
+          "end": 490,
+          "quote": "十二指腸潰瘍-談心火的另一類病變"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 121,
+          "end": 127,
+          "quote": "水火相剋作用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c124_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "完整案例/规则及注一二可用；注三书目末断不补。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 495,
+        "quote": "相反的，同樣是廉相在子坐守，壬年生人，擎羊在子同踞，三合亦有武曲化忌來沖，但子宮得天梁化祿及祿存吉輔後，反以強旺論（盤六）。走到癸卯限，天同坐守且有吉化，加上先天命宮得破軍化祿吉化後，更顯強旺。此時天同被火鈴夾制後，雖因天同屬水且火鈴屬火而有水火相剋作用，但因本命格強旺，此時天同因水火相剋的沖動激發作用而有作為，就不以安享論（註三）。\n從盤五及盤六的命例顯示，走到天同坐守的大限，天同究竟是以「安享」或是「有作為」論，主要在於命宮的吉旺，其次則是天同的會吉會煞，來做决定。若是命宮強旺者，走到天同坐守的大限，雖會因天同會吉或會煞而有所影響，但因本命強旺，此影響較不大。若是命宮弱陷，走到天同坐守的大限，此時天同若會吉，則會凸顯出其懶洋洋的心態，反不利於事業。\n註一：有關斗數在事業方面的說明，請參閲紫雲著《斗數論事業》（此書於一九九二年由時報出版社出版，後於二0一一年再由武陵出版社出版）書中「導論」一文。\n註二：有關盤三的命例在健康上的論斷，請參閲紫雲著《斗數論疾病》（此書於一九九六年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「十二指腸潰瘍-談心火的另一類病變」一文。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "member",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_case6_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c124_guimao",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c124_guimao",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "flanking_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "铃星",
+            "role": "flanking_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "target",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c124_guimao",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "水火相剋",
+        "proposed_category": "source_mechanism",
+        "reason": "非四化自然机制保正文，不发明四化作用。",
+        "english_surface": "Water Fire conflict",
+        "scope_id": "c124_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "c124_case6_natal",
+        "subject": "盘六先天命宫",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "c124_guimao",
+        "subject": "癸卯限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "c124_guimao",
+        "subject": "先天命宫",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "廉贞",
+      "天相",
+      "擎羊",
+      "武曲",
+      "天梁",
+      "禄存",
+      "天同",
+      "破军",
+      "火星",
+      "铃星"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c124_case6_natal"
+      },
+      {
+        "star": "天梁",
+        "transformation": "化禄",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c124_case6_natal"
+      },
+      {
+        "star": "破军",
+        "transformation": "化禄",
+        "tiangan": "癸",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c124_guimao"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "火星铃星"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

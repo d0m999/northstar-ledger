@@ -1,0 +1,23 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "created_at": "2026-11-17T05:34:28.035674+00:00",
+  "is_template": false,
+  "package_commit": "90721d39225ef89e8a929955a55f295f38318182",
+  "frozen_rule_version": "dots-all-sources-2026-10-13-v4",
+  "input_sha256": "6c3a346e3966c62df4f00552a58e6af9911d1eda442de338ed31744affc1d2f4",
+  "history_preserved": true,
+  "scope": "single_source_independent_rebuild",
+  "old_original_labels_exposed": true,
+  "prior_dot_decisions_exposed": true,
+  "no_blind_annotation_claim": true,
+  "authorization": "Owner explicitly authorized future rebuilding after cloud workspace loss on existing foundations; no frozen contract changes.",
+  "exposure_declaration": {
+    "record": "z073_rebuild_20261117/preparation/COORDINATOR_REFERENCE_EXPOSURE_20261117_V1.json",
+    "affected_role": "coordinator",
+    "phase": "S5 after C125-C129 V1, before V2",
+    "scope": "Accidental search output, not deliberate label reuse; independent unexposed re-review125-129 assigned and performed",
+    "updated_at": "2026-11-17T07:14:00.426009+00:00",
+    "prior_manifest_sha256": "4f46e509ecf320b6428600e825767a70d4f37e20bd48831fe8fa117e499847ec"
+  }
+}

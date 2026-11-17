@@ -1,0 +1,1521 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c142",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    183
+  ],
+  "chunk_text": "例如盤九的男命，命宮在酉，天同坐守。庚年生人，天同不但化忌，並有擎羊同踞，使命宮成為忌煞交沖宮位，就可能會不利於健康與壽命。再者，遷移宮在卯，太陰陷宮坐守，三合有天同化忌與羊陀來逞凶，雖也有太陽化祿自亥宮來吉化，但因亥宮的太陽為弱陷，吉化的作用不強，而卯宮卻因此而成為忌祿沖宮位。遷移宮凶弱，除不利於人際關係外，也不利於對外，當此宮位再會沖火鈴時，出門在外易發生嚴重的意外事故。\n第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大，但卻使命宮成為忌祿沖宮位，不利於健康。此時除非命宮坐會諸多吉星且不會沖火鈴，並且在輸入父母的生年資料後，對命宮有所吉化，不然輕者體弱多病，嚴重的話，恐易有較重大的疾病，甚至危害到生命。更有甚者，太陰化忌也來引動上述遷移宮的凶象，此時若遷移宮再會沖火鈴，就很有可能會發生嚴重的意外事故，危害到身體健康或生命。\n若再細查行限，丙戌限，廉貞化忌沖大限命宮。丁亥限，巨門化忌沖先天及大限命宮。\n戊子限，天機化忌沖先天命宮。己丑限，先天的天同化忌沖大限命宮。戊寅限，天機化忌沖先天命宮。己卯限，先天的天同化忌沖大限命宮。庚辰限，天同化忌再度沖先天命宮。自行限觀之，此人自出生到老，先後天命宮輪著有化忌來沖，一輩子恐難平順度過。",
+  "chunk_index": 142,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘九男命酉命天同化忌与擎羊同坐，卯迁移太阴弱陷会忌煞，太阳化禄吉化有限。乙酉限太阴忌引动命迁凶象，天机禄吉化有限；原文另列丙戌至庚辰多限化忌冲先后天命。事故与健康说须保留火铃、吉星及父母资料条件，不视为现实必然。",
+  "summary_en": "Chart Nine places Tian Tong Hua Ji with Qing Yang in the male native’s You Life Palace. Weak Tai Yin in Mao Travel meets adverse influences; Sun Hua Lu from Hai offers limited support. In Yi You, Tai Yin Hua Ji activates Life and Travel difficulties while Tian Ji Hua Lu offers limited help. Subsequent named cycles alternate adverse transformations affecting natal and major-cycle Life. Health and accident claims retain conditions involving Huo Ling, benefics and parental birth inputs rather than asserting inevitable real events.",
+  "keywords": [
+    "天同",
+    "命宫",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Life Palace",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c142_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c142_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c142_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 13,
+          "end": 17,
+          "quote": "天同坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c142_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 32,
+          "end": 36,
+          "quote": "擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c142_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 71,
+          "end": 77,
+          "quote": "太陰陷宮坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c142_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 95,
+          "end": 99,
+          "quote": "太陽化祿"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c142_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 225,
+          "end": 229,
+          "quote": "天機化祿"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c142_stars_mentioned5",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 415,
+          "end": 419,
+          "quote": "廉貞化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c142_stars_mentioned6",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 429,
+          "end": 433,
+          "quote": "巨門化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c142_star_pairs_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 91,
+          "quote": "羊陀來逞凶"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "c142_star_pairs_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 168,
+          "end": 172,
+          "quote": "會沖火鈴"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c142_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 8,
+          "end": 12,
+          "quote": "命宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c142_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 65,
+          "end": 70,
+          "quote": "遷移宮在卯"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c142_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 200,
+          "end": 218,
+          "quote": "太陰化忌來引動命宮原有忌煞交沖的凶象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c142_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 38,
+          "end": 48,
+          "quote": "命宮成為忌煞交沖宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c142_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 225,
+          "end": 234,
+          "quote": "天機化祿雖吉化命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c142_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 140,
+          "end": 145,
+          "quote": "遷移宮凶弱"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c142_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 53,
+          "end": 61,
+          "quote": "不利於健康與壽命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c142_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 181,
+          "end": 188,
+          "quote": "嚴重的意外事故"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c142_natal_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 62,
+          "quote": "例如盤九的男命，命宮在酉，天同坐守。庚年生人，天同不但化忌，並有擎羊同踞，使命宮成為忌煞交沖宮位，就可能會不利於健康與壽命。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c142_natal_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 62,
+          "quote": "例如盤九的男命，命宮在酉，天同坐守。庚年生人，天同不但化忌，並有擎羊同踞，使命宮成為忌煞交沖宮位，就可能會不利於健康與壽命。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c142_natal_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 62,
+          "quote": "例如盤九的男命，命宮在酉，天同坐守。庚年生人，天同不但化忌，並有擎羊同踞，使命宮成為忌煞交沖宮位，就可能會不利於健康與壽命。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c142_natal_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 62,
+          "quote": "例如盤九的男命，命宮在酉，天同坐守。庚年生人，天同不但化忌，並有擎羊同踞，使命宮成為忌煞交沖宮位，就可能會不利於健康與壽命。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c142_travel",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 65,
+          "end": 77,
+          "quote": "遷移宮在卯，太陰陷宮坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c142_travel_support",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 92,
+          "end": 139,
+          "quote": "雖也有太陽化祿自亥宮來吉化，但因亥宮的太陽為弱陷，吉化的作用不強，而卯宮卻因此而成為忌祿沖宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c142_travel_support",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 92,
+          "end": 139,
+          "quote": "雖也有太陽化祿自亥宮來吉化，但因亥宮的太陽為弱陷，吉化的作用不強，而卯宮卻因此而成為忌祿沖宮位"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 190,
+          "end": 249,
+          "quote": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 190,
+          "end": 249,
+          "quote": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 190,
+          "end": 249,
+          "quote": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 190,
+          "end": 249,
+          "quote": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 190,
+          "end": 249,
+          "quote": "第一個大限為乙酉限，太陰化忌來引動命宮原有忌煞交沖的凶象，就非常凶，而天機化祿雖吉化命宮，惟因命宮凶弱，吉化的作用不大"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c142_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 347,
+          "end": 363,
+          "quote": "太陰化忌也來引動上述遷移宮的凶象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "c142_cycle_丙戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 411,
+          "end": 425,
+          "quote": "丙戌限，廉貞化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c142_cycle_丙戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 411,
+          "end": 425,
+          "quote": "丙戌限，廉貞化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c142_cycle_丙戌",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 411,
+          "end": 425,
+          "quote": "丙戌限，廉貞化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5",
+      "scope": {
+        "scope_id": "c142_cycle_丁亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 425,
+          "end": 442,
+          "quote": "丁亥限，巨門化忌沖先天及大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "c142_cycle_丁亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 425,
+          "end": 442,
+          "quote": "丁亥限，巨門化忌沖先天及大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "c142_cycle_丁亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 425,
+          "end": 442,
+          "quote": "丁亥限，巨門化忌沖先天及大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.3",
+      "scope": {
+        "scope_id": "c142_cycle_丁亥",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 425,
+          "end": 442,
+          "quote": "丁亥限，巨門化忌沖先天及大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.6",
+      "scope": {
+        "scope_id": "c142_cycle_戊子",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 443,
+          "end": 457,
+          "quote": "戊子限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.10",
+      "scope": {
+        "scope_id": "c142_cycle_戊子",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 443,
+          "end": 457,
+          "quote": "戊子限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.4",
+      "scope": {
+        "scope_id": "c142_cycle_戊子",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 443,
+          "end": 457,
+          "quote": "戊子限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.7",
+      "scope": {
+        "scope_id": "c142_cycle_己丑",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 457,
+          "end": 474,
+          "quote": "己丑限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.11",
+      "scope": {
+        "scope_id": "c142_cycle_己丑",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 457,
+          "end": 474,
+          "quote": "己丑限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.5",
+      "scope": {
+        "scope_id": "c142_cycle_己丑",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 457,
+          "end": 474,
+          "quote": "己丑限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.6",
+      "scope": {
+        "scope_id": "c142_cycle_己丑",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 457,
+          "end": 474,
+          "quote": "己丑限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.8",
+      "scope": {
+        "scope_id": "c142_cycle_戊寅",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 474,
+          "end": 488,
+          "quote": "戊寅限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.12",
+      "scope": {
+        "scope_id": "c142_cycle_戊寅",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 474,
+          "end": 488,
+          "quote": "戊寅限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.7",
+      "scope": {
+        "scope_id": "c142_cycle_戊寅",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 474,
+          "end": 488,
+          "quote": "戊寅限，天機化忌沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.9",
+      "scope": {
+        "scope_id": "c142_cycle_己卯",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 488,
+          "end": 505,
+          "quote": "己卯限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.13",
+      "scope": {
+        "scope_id": "c142_cycle_己卯",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 488,
+          "end": 505,
+          "quote": "己卯限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.8",
+      "scope": {
+        "scope_id": "c142_cycle_己卯",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 488,
+          "end": 505,
+          "quote": "己卯限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.9",
+      "scope": {
+        "scope_id": "c142_cycle_己卯",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 488,
+          "end": 505,
+          "quote": "己卯限，先天的天同化忌沖大限命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.10",
+      "scope": {
+        "scope_id": "c142_cycle_庚辰",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 505,
+          "end": 521,
+          "quote": "庚辰限，天同化忌再度沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.14",
+      "scope": {
+        "scope_id": "c142_cycle_庚辰",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 505,
+          "end": 521,
+          "quote": "庚辰限，天同化忌再度沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.10",
+      "scope": {
+        "scope_id": "c142_cycle_庚辰",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 505,
+          "end": 521,
+          "quote": "庚辰限，天同化忌再度沖先天命宮。"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c142_natal_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c142_natal_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c142_natal_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": "卯"
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c142_travel",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "target",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c142_travel_support",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c142_yiyou",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c142_yiyou",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "target",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c142_yiyou",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_丙戌",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_丁亥",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_戊子",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_己丑",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_戊寅",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_己卯",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "source"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c142_cycle_庚辰",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": "庚",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_natal_life"
+      },
+      {
+        "star": "太阳",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_travel_support"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化忌",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_yiyou"
+      },
+      {
+        "star": "天机",
+        "transformation": "化禄",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_yiyou"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_丙戌"
+      },
+      {
+        "star": "巨门",
+        "transformation": "化忌",
+        "tiangan": "丁",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_丁亥"
+      },
+      {
+        "star": "天机",
+        "transformation": "化忌",
+        "tiangan": "戊",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_戊子"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_己丑"
+      },
+      {
+        "star": "天机",
+        "transformation": "化忌",
+        "tiangan": "戊",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_戊寅"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_己卯"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": "庚",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c142_cycle_庚辰"
+      }
+    ],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "subject": "盘九男命乙酉限",
+        "scope_id": "c142_yiyou",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "subject": "盘九丙戌限所论大限命宫",
+        "scope_id": "c142_cycle_丙戌",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九丁亥限所论本命命宫",
+        "scope_id": "c142_cycle_丁亥",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "subject": "盘九丁亥限所论大限命宫",
+        "scope_id": "c142_cycle_丁亥",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九戊子限所论本命命宫",
+        "scope_id": "c142_cycle_戊子",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九己丑限所论本命命宫",
+        "scope_id": "c142_cycle_己丑",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "subject": "盘九己丑限所论大限命宫",
+        "scope_id": "c142_cycle_己丑",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九戊寅限所论本命命宫",
+        "scope_id": "c142_cycle_戊寅",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九己卯限所论本命命宫",
+        "scope_id": "c142_cycle_己卯",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "subject": "盘九己卯限所论大限命宫",
+        "scope_id": "c142_cycle_己卯",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "盘九庚辰限所论本命命宫",
+        "scope_id": "c142_cycle_庚辰",
+        "chart_type": null
+      }
+    ],
+    "unregistered_terms": [],
+    "stars_mentioned": [
+      "天同",
+      "擎羊",
+      "太阴",
+      "太阳",
+      "天机",
+      "廉贞",
+      "巨门"
+    ],
+    "star_pairs_mentioned": [
+      "擎羊陀罗",
+      "火星铃星"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "迁移宫"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "knowledge_domains": [
+      "四化规则",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "出行迁移"
+    ]
+  }
+}

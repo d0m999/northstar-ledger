@@ -1,0 +1,378 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c041",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    67,
+    68,
+    69,
+    70
+  ],
+  "chunk_text": "有情剋與無情剋\n在武曲火星為「寡宿」凶格部份曾提及，星曜相生能彰顯其賦性正面作用，反之若星曜相剋，則較易凸顯出其賦性的負面作用。故星曜最好是相生而不要是相剋，尤其是陷宮相剋又會多煞星時最糟。\n基本上，星曜相剋又不會吉時，以不好論，但其中卻還有所謂「有情剋」與「無情剋」的輕重之分。\n由於星曜除有五行之分外，屬性又分陰陽，因此在談到星曜相生相剋之關係時，便有同性相生、異性相生、同性相剋及異性相剋四種關係。\n明代嘉靖進士萬育吾在其所著的《三命通會》一書中，則透過十天干的陰陽五行（附錄），對異性或同性的相生相剋有所解釋。例如，他對「乙庚合金」做如下說明：「東方甲乙木，畏西方庚辛金剋。甲屬陽為兄，乙屬陰為妹。甲兄遂將乙妹嫁金家與庚為妻，庶得陰陽和合，兩不相傷。所以，乙與庚合」。萬氏的意思是認為「合」乃「和諧」之意，乙為陰木，而庚為陽金。就五行而言，金原本是剋木的，然而陽金剋陰木乃異性之剋，一陰一陽，不但不相剋，而且還相合而和諧（註十）。\n因此，若將上述萬氏對十天干的陰陽五行生剋的看法，引伸到斗數星曜的陰陽五行生剋上，就可有如下的看法，即從「異性相吸，同性相斥」的角度觀之，陰陽相剋則因異性之剋，就較同性之剋（如陰陰相剋或陽陽相剋）來得比較不凶，因此陰陽相剋稱之為「有情剋」，而陰陰（或陽陽）相剋則稱之為「無情剋」。\n一般而言，星曜相剋時，最好不要同為陰或同為陽，此乃因陰陰（或陽陽）相剋較之陰陽相剋來得較凶。這就是先賢在談及「財與囚仇」凶格時，要刻意點出「因武曲之『陰金』被廉貞之『陰火』相剋傷」的道理所在。\n既然星曜相剋時，因陰陽屬性不同而其凶性有輕重之分。同理，當星曜相生時，陰陽相生自然就較陰陰（或陽陽）相生來得略佳。\n",
+  "chunk_index": 41,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者借《三命通会》乙庚阴阳金木婚配比喻解释有情克与无情克，再引申到斗数：阴阳异性相克相对较轻，同阴或同阳相克较凶，阴阳相生也相对较佳。财与囚仇以廉贞阴火克武曲阴金为例；所有推论保留作者引申及会吉会煞条件。",
+  "summary_en": "Using the Yi-Geng Wood-Metal marriage analogy from San Ming Tong Hui, the author distinguishes You Qing Ke from Wu Qing Ke, then extends it to Zi Wei stars. Opposite-polarity overcoming is described as less severe than same-polarity overcoming, and opposite-polarity generation as relatively preferable. Lian Zhen yin Fire overcoming Wu Qu yin Metal illustrates Cai Yu Qiu Chou. These are attributed analogical claims, with auspicious and harmful companions still relevant, not universal findings.",
+  "keywords": [
+    "阴阳",
+    "五行",
+    "作者观点"
+  ],
+  "keywords_en": [
+    "Yin Yang",
+    "Five Elements",
+    "attributed explanation"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c041_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c041_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c041_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 9,
+          "end": 11,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c041_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 11,
+          "end": 13,
+          "quote": "火星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c041_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 639,
+          "end": 641,
+          "quote": "廉貞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c041_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 143,
+          "end": 159,
+          "quote": "星曜除有五行之分外，屬性又分陰陽"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c041_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 423,
+          "end": 459,
+          "quote": "若將上述萬氏對十天干的陰陽五行生剋的看法，引伸到斗數星曜的陰陽五行生剋上"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c041_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 3,
+          "quote": "有情剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c041_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 7,
+          "quote": "無情剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c041_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "万育吾《三命通会》引文，经本书作者引申"
+      },
+      "spans": [
+        {
+          "start": 265,
+          "end": 269,
+          "quote": "乙庚合金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c041_term3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 615,
+          "end": 619,
+          "quote": "財與囚仇"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "c041_term4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 15,
+          "end": 17,
+          "quote": "寡宿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.5",
+      "scope": {
+        "scope_id": "c041_method_source",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 434,
+          "end": 440,
+          "quote": "陰陽五行生剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "有情剋",
+        "proposed_category": "source_mechanism",
+        "reason": "异性相克相对较轻之作者概念",
+        "english_surface": "You Qing Ke",
+        "scope_id": "c041_term0"
+      },
+      {
+        "surface": "無情剋",
+        "proposed_category": "source_mechanism",
+        "reason": "同性相克较凶之作者概念",
+        "english_surface": "Wu Qing Ke",
+        "scope_id": "c041_term1"
+      },
+      {
+        "surface": "乙庚合金",
+        "proposed_category": "quoted_analogy",
+        "reason": "三命通会天干类比，不是紫微星曜同宫",
+        "english_surface": "Yi Geng He Jin",
+        "scope_id": "c041_term2"
+      },
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "未注册格局，本文仅作五行阴阳例",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c041_term3"
+      },
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲火星凶格名称，不补同名小星",
+        "english_surface": "Gua Su epithet",
+        "scope_id": "c041_term4"
+      },
+      {
+        "surface": "陰陽五行生剋",
+        "proposed_category": "analysis_method",
+        "reason": "本文实际类比分析方法，冻结方法不含此项，保留来源原词而不泛化为四化",
+        "english_surface": "Yin Yang Wu Xing Sheng Ke",
+        "scope_id": "c041_method_source"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "火星",
+      "廉贞"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

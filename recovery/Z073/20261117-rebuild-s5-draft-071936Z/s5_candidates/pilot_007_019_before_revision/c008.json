@@ -1,0 +1,496 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c008",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    31,
+    32
+  ],
+  "chunk_text": "《全集，女命賦》云：「武曲之宿為寡宿。」古傳賦文在談到女命武曲坐守時，雖然也有如《全書，女命各論》中所說的「守於身命入廟，三方吉拱無煞沖破，多為貴婦」的佳語，但更多的則是負面的評語。例如，同樣是《全書，女命各論》就有「身命守武曲而入陷地，遇空劫加四煞，多主貧孤及刑夫剋子且不正」的敘述，而《全書，諸星問答論》亦有類似的說法如下：「女人吉多為貴婦，加煞沖破，孤剋，有刑夫之惡」，至於先賢除有「女命加吉雖佳，但多早寡」的描述外，並對武曲與火星的組合有「武曲火星為寡宿」之說，並有註解如下：「武曲財星帶孤剋，故女命不喜，加火星，金被火破，多婚姻不美滿，早則生離，遲至中年，多作寡婦論。」前已提及，武曲因五行屬金之故，致使武曲坐命者的個性較為剛直、強硬，言行亦較為直來直往，再加上「將星」的作用，做起事來不但勇於任事，且衝勁十足。因此，當武曲旺宮坐命且會多吉星時，不但能充份發揮上述利於行事的正面作用，且因會多吉星，故此人的自我意識雖然很強，但行事之際仍會考慮到別人的立場或感受，而不會我行我素，同時做事會謀定而後動，就不會橫衝直撞，再加上個性開朗，反而利於與人相處。但若是武曲坐命不會吉，甚至會煞多時，則會有和上述相反的一面，即不利於人際關係的負面部份就會凸顯出來，造成與人相處有寡合的現象。\n",
+  "chunk_index": 8,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "古赋以寡宿比喻武曲的孤克倾向，提及女命、火星和婚姻不利；作者区分旺宫会吉与不见吉、多煞的情形，认为前者可表现为负责、谋定而动、顾及他人，后者较易寡合。寡宿与将星在此是武曲性质的称谓，不另指同名小星。",
+  "summary_en": "Classical texts describe Wu Qu metaphorically as a solitary star and discuss female natives, Huo Xing, and marital difficulties. The author contrasts strong-palace placement with many auspicious stars against no auspicious support or many harmful stars: responsibility, planning and consideration versus interpersonal isolation. Gua Su and Jiang Xing here describe Wu Qu, not separate minor stars. Classical adverse conditions mention Kong Jie and Si Sha; the Huo Xing passage claims early separation or middle-age widowhood, not an established case or timing chart. Another quoted favorable condition requires strong placement, auspicious support from three directions and no harmful clash.",
+  "keywords": [
+    "武曲",
+    "婚姻",
+    "人际关系",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "marriage",
+    "interpersonal relationships",
+    "conditional interpretation",
+    "Huo Xing",
+    "Kong Jie",
+    "Si Sha",
+    "Gua Su epithet",
+    "Jiang Xing epithet"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 544,
+          "quote": "《全集，女命賦》云：「武曲之宿為寡宿。」古傳賦文在談到女命武曲坐守時，雖然也有如《全書，女命各論》中所說的「守於身命入廟，三方吉拱無煞沖破，多為貴婦」的佳語，但更多的則是負面的評語。例如，同樣是《全書，女命各論》就有「身命守武曲而入陷地，遇空劫加四煞，多主貧孤及刑夫剋子且不正」的敘述，而《全書，諸星問答論》亦有類似的說法如下：「女人吉多為貴婦，加煞沖破，孤剋，有刑夫之惡」，至於先賢除有「女命加吉雖佳，但多早寡」的描述外，並對武曲與火星的組合有「武曲火星為寡宿」之說，並有註解如下：「武曲財星帶孤剋，故女命不喜，加火星，金被火破，多婚姻不美滿，早則生離，遲至中年，多作寡婦論。」前已提及，武曲因五行屬金之故，致使武曲坐命者的個性較為剛直、強硬，言行亦較為直來直往，再加上「將星」的作用，做起事來不但勇於任事，且衝勁十足。因此，當武曲旺宮坐命且會多吉星時，不但能充份發揮上述利於行事的正面作用，且因會多吉星，故此人的自我意識雖然很強，但行事之際仍會考慮到別人的立場或感受，而不會我行我素，同時做事會謀定而後動，就不會橫衝直撞，再加上個性開朗，反而利於與人相處。但若是武曲坐命不會吉，甚至會煞多時，則會有和上述相反的一面，即不利於人際關係的負面部份就會凸顯出來，造成與人相處有寡合的現象。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned",
+      "scope": {
+        "scope_id": "c008_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 544,
+          "quote": "《全集，女命賦》云：「武曲之宿為寡宿。」古傳賦文在談到女命武曲坐守時，雖然也有如《全書，女命各論》中所說的「守於身命入廟，三方吉拱無煞沖破，多為貴婦」的佳語，但更多的則是負面的評語。例如，同樣是《全書，女命各論》就有「身命守武曲而入陷地，遇空劫加四煞，多主貧孤及刑夫剋子且不正」的敘述，而《全書，諸星問答論》亦有類似的說法如下：「女人吉多為貴婦，加煞沖破，孤剋，有刑夫之惡」，至於先賢除有「女命加吉雖佳，但多早寡」的描述外，並對武曲與火星的組合有「武曲火星為寡宿」之說，並有註解如下：「武曲財星帶孤剋，故女命不喜，加火星，金被火破，多婚姻不美滿，早則生離，遲至中年，多作寡婦論。」前已提及，武曲因五行屬金之故，致使武曲坐命者的個性較為剛直、強硬，言行亦較為直來直往，再加上「將星」的作用，做起事來不但勇於任事，且衝勁十足。因此，當武曲旺宮坐命且會多吉星時，不但能充份發揮上述利於行事的正面作用，且因會多吉星，故此人的自我意識雖然很強，但行事之際仍會考慮到別人的立場或感受，而不會我行我素，同時做事會謀定而後動，就不會橫衝直撞，再加上個性開朗，反而利於與人相處。但若是武曲坐命不會吉，甚至會煞多時，則會有和上述相反的一面，即不利於人際關係的負面部份就會凸顯出來，造成與人相處有寡合的現象。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c008_mention_0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 11,
+          "end": 13,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c008_mention_1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 217,
+          "end": 219,
+          "quote": "火星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c008_palace_0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 309,
+          "end": 311,
+          "quote": "坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c008_palace_1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 54,
+          "end": 60,
+          "quote": "守於身命入廟"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c008_term_0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "古赋引文及本书作者解释"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 18,
+          "quote": "寡宿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c008_term_1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "古赋引文及本书作者解释"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 339,
+          "quote": "將星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c008_term_2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "古赋引文及本书作者解释"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 231,
+          "quote": "武曲火星為寡宿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c008_group_3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "《全書，女命各論》引文"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 122,
+          "quote": "空劫"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "c008_group_4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "《全書，女命各論》引文"
+      },
+      "spans": [
+        {
+          "start": 123,
+          "end": 125,
+          "quote": "四煞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c008_placement",
+        "kind": "conditional",
+        "condition": "當武曲旺宮坐命且會多吉星時",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 364,
+          "end": 377,
+          "quote": "當武曲旺宮坐命且會多吉星時"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.5",
+      "scope": {
+        "scope_id": "c008_source_method",
+        "kind": "conditional",
+        "condition": "守於身命入廟，三方吉拱無煞沖破，多為貴婦",
+        "attribution": "《全書，女命各論》引文"
+      },
+      "spans": [
+        {
+          "start": 54,
+          "end": 74,
+          "quote": "守於身命入廟，三方吉拱無煞沖破，多為貴婦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "人际关系"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c008_placement",
+        "negated": false,
+        "condition": "當武曲旺宮坐命且會多吉星時"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_star_epithet",
+        "reason": "此处称武曲性质，不将其错误规范为同名寡宿小星",
+        "english_surface": "Gua Su epithet for Wu Qu",
+        "scope_id": "c008_term_0"
+      },
+      {
+        "surface": "將星",
+        "proposed_category": "source_star_epithet",
+        "reason": "此处武曲性质称谓，不是将前小星将星",
+        "english_surface": "Jiang Xing epithet for Wu Qu",
+        "scope_id": "c008_term_1"
+      },
+      {
+        "surface": "武曲火星為寡宿",
+        "proposed_category": "source_combination",
+        "reason": "原文有称谓，但词表未注册此组合，不能推定两星同宫",
+        "english_surface": "Wu Qu and Huo Xing solitary-marriage description",
+        "scope_id": "c008_term_2"
+      },
+      {
+        "surface": "空劫",
+        "proposed_category": "star_group",
+        "reason": "成组简称，词表对星地空地劫无显式空劫别名，不未经授权扩写为具体星位",
+        "english_surface": "Kong Jie group",
+        "scope_id": "c008_group_3"
+      },
+      {
+        "surface": "四煞",
+        "proposed_category": "star_group",
+        "reason": "集体术语，此块未逐一列举，不能推定每颗星已独立坐守同一位置",
+        "english_surface": "Si Sha group",
+        "scope_id": "c008_group_4"
+      },
+      {
+        "surface": "三方吉拱",
+        "proposed_category": "analysis_method",
+        "reason": "原文只称三方吉拱，不能自动扩为冻结方法三方四正；保留作者引文原术语待注册审查。",
+        "english_surface": "San Fang Ji Gong",
+        "scope_id": "c008_source_method"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "火星"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

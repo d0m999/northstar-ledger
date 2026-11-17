@@ -1,0 +1,226 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c007",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    31
+  ],
+  "chunk_text": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。（註一）註一：古傳斗數賦文根據星曜五行屬性對不同地域出生者所得出吉凶的描述，不論徵驗結果是否屬實，然因受限於斗數是中國傳統術數的一種，恐怕只能做為出生於中國大陸者的參考，而無法適用於其他地方出生者。否則類如本賦文所敘述若是武曲坐命而出生於印度或南美洲者，豈不是就富貴不久或富而不貴乎？\n",
+  "chunk_index": 7,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者反对仅凭西北或东南出生判断武曲坐命者的富贵，强调宫位旺弱吉凶。注一认为地域五行说至多供中国大陆出生者参考，不能直接推广至印度、南美洲等地。",
+  "summary_en": "The author rejects judging Wu Qu natives solely by northwestern or southeastern birthplace, requiring palace strength and auspiciousness instead. Note 1 limits traditional regional Five Elements claims, at most, to people born in mainland China, rather than extending them directly to India or South America.",
+  "keywords": [
+    "武曲",
+    "地域限制",
+    "宫位旺弱"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "regional limitations",
+    "palace strength"
+  ],
+  "content_language": "zh",
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "ziwei": {
+    "chart_type": null,
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "time_context": null,
+    "school_variant": null,
+    "knowledge_domain": "推测技法",
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c007_placement_rule",
+        "condition": "武曲坐命者",
+        "negated": false
+      }
+    ],
+    "unregistered_terms": []
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c007_discussion",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c007_discussion",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "c007_discussion",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains",
+      "scope": {
+        "scope_id": "c007_discussion",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 199,
+          "quote": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。（註一）註一：古傳斗數賦文根據星曜五行屬性對不同地域出生者所得出吉凶的描述，不論徵驗結果是否屬實，然因受限於斗數是中國傳統術數的一種，恐怕只能做為出生於中國大陸者的參考，而無法適用於其他地方出生者。否則類如本賦文所敘述若是武曲坐命而出生於印度或南美洲者，豈不是就富貴不久或富而不貴乎？\n"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned",
+      "scope": {
+        "scope_id": "c007_discussion",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 199,
+          "quote": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。（註一）註一：古傳斗數賦文根據星曜五行屬性對不同地域出生者所得出吉凶的描述，不論徵驗結果是否屬實，然因受限於斗數是中國傳統術數的一種，恐怕只能做為出生於中國大陸者的參考，而無法適用於其他地方出生者。否則類如本賦文所敘述若是武曲坐命而出生於印度或南美洲者，豈不是就富貴不久或富而不貴乎？\n"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c007_mention_0",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 22,
+          "end": 24,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c007_palace_0",
+        "kind": "concept",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 24,
+          "end": 26,
+          "quote": "坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c007_placement_rule",
+        "kind": "conditional",
+        "attribution": "本书作者",
+        "condition": "武曲坐命者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 56,
+          "quote": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c007_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 199,
+          "quote": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。（註一）註一：古傳斗數賦文根據星曜五行屬性對不同地域出生者所得出吉凶的描述，不論徵驗結果是否屬實，然因受限於斗數是中國傳統術數的一種，恐怕只能做為出生於中國大陸者的參考，而無法適用於其他地方出生者。否則類如本賦文所敘述若是武曲坐命而出生於印度或南美洲者，豈不是就富貴不久或富而不貴乎？\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c007_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 199,
+          "quote": "但實際上卻不能只憑西北方或東南方生人，就斷定武曲坐命者何者孰優孰劣或是能不能富貴，仍須以坐守宮位的旺弱吉凶來論。（註一）註一：古傳斗數賦文根據星曜五行屬性對不同地域出生者所得出吉凶的描述，不論徵驗結果是否屬實，然因受限於斗數是中國傳統術數的一種，恐怕只能做為出生於中國大陸者的參考，而無法適用於其他地方出生者。否則類如本賦文所敘述若是武曲坐命而出生於印度或南美洲者，豈不是就富貴不久或富而不貴乎？\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed"
+    }
+  ],
+  "topic": "命运总论"
+}

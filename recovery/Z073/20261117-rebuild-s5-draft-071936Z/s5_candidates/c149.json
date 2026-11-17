@@ -1,0 +1,377 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c149",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    191
+  ],
+  "chunk_text": "一個人會否生病或生什麽病，除了罹患傳染病外，往往跟個人體質有關。而一個人的體質，相當程度是受到父母遺傳的影響。即兒女得自父母的遺傳，不只是外貌及性格，與健康有關的體質及疾病方面，也受到遺傳上的影響。因此在推論一個人的重大疾病問題時，輸入父母的資料，用以推論可能發生的吉凶狀況，這不但是個別差異的結果，而且也符合現代遺傳學的基本邏輯。（註八）惜古傳斗數賦文皆是基於共盤的結論，偶而有因不同地域生人而有不同的記載（請參閱天機星與武曲星的相關解說），嚴格說來，根本就無真正個別差異的觀念，更遑論如何將個別差異應用到實際的論斷上。\n紫雲先生首先提出太歲入宮（卦）法，將個別差異應用到婚姻的推論，而後又將之廣泛運用到疾病及各式人際關係與建築物方位吉凶的推論（註十）。\n廣義言之，太歲入宮法為探討某特定個人與命造者於存有某一種特定利害關係時，運用此特定個人的生年太歲於命造者之命盤上，就某一特定相關事項推演其可能發生之吉凶。而太歲入宮法之原理運用，來自「個別差異」理論之應用，即某一命造者之各種人際關係將因相對關係人之個別不同，所發生之互動關係（吉凶）也因之有所差異。\n茲舉二個與健康問題有關的命例如下，說明太歲入宮法如何應用到疾病的推論。",
+  "chunk_index": 149,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者以父母遗传及体质差异说明疾病推论需引父母资料，并述紫云太岁入宫法由婚姻扩及疾病、人际与建筑方位。方法将特定关系人的生年太岁引入命造盘，按关系事项分析个别差异，末预告两个健康例；非本块已验证医学预测。",
+  "summary_en": "The author motivates using parental data in disease interpretation through inherited constitution and individual differences. Zi Yun’s Tai Sui Ru Gong Fa is described as extending from marriage to health, interpersonal relations and building orientation. It uses a relevant person’s birth-year Tai Sui in the subject’s chart for the particular relationship at issue. Two health examples are announced, not analyzed here; the passage does not establish validated medical prediction.",
+  "keywords": [
+    "太岁入宫法",
+    "个别差异",
+    "父母生年",
+    "健康",
+    "婚姻",
+    "人际关系",
+    "命例预告"
+  ],
+  "keywords_en": [
+    "Tai Sui Ru Gong Fa",
+    "individual differences",
+    "parental birth years",
+    "health",
+    "marriage",
+    "relationships",
+    "example preview"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 417,
+          "quote": "太歲入宮法之原理運用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 108,
+          "end": 114,
+          "quote": "重大疾病問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 287,
+          "end": 292,
+          "quote": "婚姻的推論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 306,
+          "end": 312,
+          "quote": "各式人際關係"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 205,
+          "end": 215,
+          "quote": "請參閱天機星與武曲星"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 205,
+          "end": 215,
+          "quote": "請參閱天機星與武曲星"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 334,
+          "end": 339,
+          "quote": "太歲入宮法"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 142,
+          "end": 146,
+          "quote": "個別差異"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 313,
+          "end": 320,
+          "quote": "建築物方位吉凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 417,
+          "quote": "太歲入宮法之原理運用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "感情姻缘",
+      "人际关系"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮法",
+        "proposed_category": "source_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Tai Sui Ru Gong Fa",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "個別差異",
+        "proposed_category": "source_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "individual differences",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "建築物方位吉凶",
+        "proposed_category": "source_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "building orientation interpretation",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "推测技法",
+    "stars_mentioned": [
+      "天机",
+      "武曲"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

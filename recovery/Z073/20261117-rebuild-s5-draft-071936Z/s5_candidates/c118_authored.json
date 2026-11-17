@@ -1,0 +1,365 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c118",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    151,
+    152
+  ],
+  "chunk_text": "然在此亦須指出，相較於水性溫和及適應環境的一面，水也有水勢洶湧及驚濤駭浪的另一面，即水性里「動」的一面。當水星坐命且會吉多而不會煞（或會煞少）者，其人個性就會顯現出前述的溫和及隨遇而安的特質。反之，當水星坐命且會煞多而不會吉（或會吉少）者，其人個性反而會顯得很不穩定，容易激動，情緒起伏大，無法隨遇而安，對環境的適應力差。\n水還有一個特質，即當受到外力的作用，不論此作用力大小，它都會立刻有所反應，意即命宮星曜五行屬水的人，因其「易動」的本質，對外在環境變化的感覺相當敏銳。但同樣是對外在環境變化的感覺很敏銳，命宮星曜五行屬水的人表現在處理事情方面，卻和命宮星曜五行屬木或火的人有所不同。\n在太陽星中曾提及，木性的機智與靈活是較按步就班，有跡可尋，故天機或貪狼坐命者在處理事情時，往往會依循某種模式來進行。而火性的急智會造成遇事能快速的臨機應變，故太陽坐命者一有事就按耐不住，會急著去做，而且處事方式，往往就比較沒有一定的模式。但天同坐命者在受到外來刺激時，他會順著當時環境的狀況來回應，而且處理的方式也會隨環境的變化而改變，故遇事能隨機應變、知所變通。\n惟須注意的是，上述天同坐命者遇事能隨機應變、知所變通，是指天同在會多吉星且會少煞星（或不會煞星）時，始是。反之，若天同坐命者在會多煞星且會少吉星（或不會吉星）時，遇事反而會不知變通，不懂得隨機應變，造成與人相處易有寡合現象。\n",
+  "chunk_index": 118,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者区分水性动静：多吉少煞时温和适应，多煞少吉时易激动难适应。天机或贪狼的木性机智较依模式，太阳火性急智较立即行动；天同顺环境变化应对的灵活也以多吉少煞为前提，反之可能不知变通。",
+  "summary_en": "The author distinguishes Water’s quiet and turbulent aspects: many benefics and few malefics favor adaptability, while the opposite favors volatility. Tian Ji or Tan Lang represents a more patterned Wood-like resourcefulness, whereas Tai Yang represents rapid Fire-like response. Tian Tong is said to adjust its response to changing circumstances, but that flexibility requires many benefics with few or no malefics; the opposite configuration may instead be inflexible.",
+  "keywords": [
+    "天同",
+    "水性动静",
+    "天机贪狼",
+    "太阳",
+    "吉煞前提"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "quiet and turbulent Water",
+    "Tian Ji and Tan Lang",
+    "Tai Yang",
+    "benefic and malefic prerequisites"
+  ],
+  "topic": "人际关系",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "人际关系"
+    ],
+    "analysis_methods": [],
+    "stars_mentioned": [
+      "天机",
+      "贪狼",
+      "太阳",
+      "天同"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c118_sun",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c118_tong_good",
+        "condition": "上述天同坐命者遇事能隨機應變、知所變通，是指天同在會多吉星且會少煞星（或不會煞星）時，始是",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c118_tong_bad",
+        "condition": "若天同坐命者在會多煞星且會少吉星（或不會吉星）時",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "水星",
+        "proposed_category": "elemental_class",
+        "reason": "这里指五行属水星曜类别，非西占水星。",
+        "english_surface": "Water-element stars",
+        "scope_id": "c118_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": "星曜性质"
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 325,
+          "end": 332,
+          "quote": "天機或貪狼坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 325,
+          "end": 332,
+          "quote": "天機或貪狼坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 374,
+          "end": 379,
+          "quote": "太陽坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 415,
+          "end": 420,
+          "quote": "天同坐命者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 201,
+          "end": 205,
+          "quote": "命宮星曜"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c118_sun",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 374,
+          "end": 387,
+          "quote": "太陽坐命者一有事就按耐不住"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c118_tong_good",
+        "kind": "conditional",
+        "condition": "上述天同坐命者遇事能隨機應變、知所變通，是指天同在會多吉星且會少煞星（或不會煞星）時，始是",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 485,
+          "end": 530,
+          "quote": "上述天同坐命者遇事能隨機應變、知所變通，是指天同在會多吉星且會少煞星（或不會煞星）時，始是"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c118_tong_bad",
+        "kind": "conditional",
+        "condition": "若天同坐命者在會多煞星且會少吉星（或不會吉星）時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 534,
+          "end": 558,
+          "quote": "若天同坐命者在會多煞星且會少吉星（或不會吉星）時"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 52,
+          "end": 65,
+          "quote": "當水星坐命且會吉多而不會煞"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 201,
+          "end": 209,
+          "quote": "命宮星曜五行屬水"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 587,
+          "quote": "與人相處易有寡合"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 201,
+          "end": 209,
+          "quote": "命宮星曜五行屬水"
+        }
+      ]
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c118_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 587,
+          "quote": "與人相處易有寡合"
+        }
+      ]
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

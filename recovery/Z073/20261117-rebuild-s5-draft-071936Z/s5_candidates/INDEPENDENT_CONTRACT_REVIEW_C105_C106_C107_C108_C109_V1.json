@@ -1,0 +1,134 @@
+{
+  "created_utc": "2026-11-17T06:53:28.081657+00:00",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c105",
+      "reviewed_input_bytes_sha256": "fb1056cbacc60023715d11ff074c3161db76b52481ab56324bf0f37af8952447",
+      "source_five_fields_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c106",
+      "reviewed_input_bytes_sha256": "189b78ec5633ff48902c586150c0f3b9206ad5dfe446dd117f41ea1b6a49c963",
+      "source_five_fields_exact": true,
+      "validator_passed": true,
+      "eligibility": "archive_only"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c107",
+      "reviewed_input_bytes_sha256": "0de30bdc89d6a478967ef4f1913f9aee6d950f671791449c37eb883e4b36fc84",
+      "source_five_fields_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c108",
+      "reviewed_input_bytes_sha256": "20130680dcfab8d0456fa2cb9e01903a9919f4f89acf339938caed3a089d1291",
+      "source_five_fields_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c109",
+      "reviewed_input_bytes_sha256": "7e1436e99a6947d34bb7de8df1b663b6b48de93a9ca8989ba6a2c8d1f6468f82",
+      "source_five_fields_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C105",
+      "decision": "no_new_blanket_OR_hold; ordinary_relative_reference_review",
+      "evidence": [
+        {
+          "start": 48,
+          "end": 70,
+          "quote": "白虎在命盤的排法，永遠坐入在太歲宮位的財帛宮"
+        }
+      ],
+      "assessment": "Actual Chart32 placements/conjunction and RenZi WuQu Ji effects are explicit. General natal/year BaiHu statements have separate example clauses; not automatically a named-bearer OR problem. Relative Wealth of TaiSui/annual reference is not unqualified natal Wealth. Specific Shen/Xu branch examples have no registered functional palace asserted; do not infer one. Preserve source qualification that BaiHu alone never guarantees injury. No new formal hold entry created here without an author scoped relative-reference assessment."
+    },
+    {
+      "chunk": "C106",
+      "decision": "return_archive_only_source_quality_error",
+      "evidence": [
+        {
+          "start": 108,
+          "end": 130,
+          "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+        }
+      ],
+      "assessment": "The exact continuous complete sentence is readable without reordering or borrowing adjacent text. archive_only reason saying no independent complete sentence is false. Change to limited with at least this exact usable span; WuQu/QiSha Life at Mao and a named QingYang Wei influence are supported in that limited caption. Do not concatenate earlier 引動... fragment with later 壬子限... fragment; their broken order remains excluded. This is a source-quality ordinary correction, not a typed hold or permission to repair raw text."
+    },
+    {
+      "chunk": "C107",
+      "decision": "narrow_configuration_hold; independent_conjunction_and_transformation_branches_are_expressible",
+      "issue_families": [
+        "alternative_configuration_binding",
+        "unregistered_three_directions_meeting_relation"
+      ],
+      "evidence": [
+        {
+          "start": 136,
+          "end": 164,
+          "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時"
+        }
+      ],
+      "assessment": "Explicit first branch 當武曲、陀羅、鈴星及文昌同守命宮 is a complete subject/predicate configuration and permits separate conditional same-palace and four Life placements. The alternative 三方四正 meeting does not imply same palace; no generic meeting relation is registered. Current independent quoted Ren-year Xu conjunction and WuQu-Life/LianZhen-Wealth rule remain valid. Source separately gives WuQu HuaJi and WenChang HuaJi triggers, so do not hold those as a single unresolved bearer OR. Generic mechanism prose need not be recast into invented relations. Entire-rule configuration selection remains a typed gap, not grounds to omit the fully stated first branch."
+    },
+    {
+      "chunk": "C108",
+      "decision": "retain_named_bearer_and_annual_malefic_alternative_hold; preserve_independent_last_rule",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "alternative_trigger_entity",
+        "unregistered_three_directions_meeting_relation"
+      ],
+      "evidence": [
+        {
+          "start": 192,
+          "end": 213,
+          "quote": "流年再有武曲、廉貞、貪狼或文昌任一星曜化忌"
+        },
+        {
+          "start": 231,
+          "end": 250,
+          "quote": "只要是流年的擎羊或陀羅進入戌宮的三合方"
+        },
+        {
+          "start": 305,
+          "end": 343,
+          "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正"
+        }
+      ],
+      "assessment": "Four named HuaJi bearers and QingYang-or-TuoLuo trigger are genuine alternatives; do not emit all as actual transformations or both malefics in one placement. Independently authored final rule specifically names annual TuoLuo and cycle WuQu HuaJi; preserve its separate time/effect/pattern evidence even though no generic trine-meeting relation exists. Chart33 RenWu effects on cycle Career Xu and natal Life Xu are simultaneously stated same-location roles, not an OR, and remain supported. limited excludes only unfinished Chart34 ending; intact rule stays usable."
+    },
+    {
+      "chunk": "C109",
+      "decision": "retain_named_bearer_and_annual_malefic_alternative_hold; preserve_local_caption_facts",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "alternative_trigger_entity"
+      ],
+      "evidence": [
+        {
+          "start": 218,
+          "end": 239,
+          "quote": "流年再使武曲、廉貞、貪狼或文昌任一星曜化忌"
+        },
+        {
+          "start": 240,
+          "end": 256,
+          "quote": "或者是流羊、流陀進入戌宫的三合方"
+        }
+      ],
+      "assessment": "Continuous Chart33 caption supports Life Xu, RenWu WuQu HuaJi and scoped pattern activation. Four named alternative bearers remain unresolved; neither external tables nor C108 may disambiguate them. 成宫 is uncertain local text, not permission to assert exact affected career/natal target from adjacent chunk. No physical placement follows from an effect. limited caption boundary is justified, unlike C106 whole archive."
+    }
+  ],
+  "candidate_or_schema_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

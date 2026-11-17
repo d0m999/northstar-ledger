@@ -1,0 +1,247 @@
+{
+  "scope": "S5 independent subset review, not whole source acceptance",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c035",
+      "candidate_sha256": "0b32929e540dd296e85681e75a24cf8b00139916e11afc1da1cd61b7da6bd6c0",
+      "decision": "blocked",
+      "issues": [
+        {
+          "finding_and_action": "普通双语条件问题已修；正偏身宫/化曜OR typedhold保留，可表达草稿接受不等于完整完成。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V3实读中文偏格任一忌前提，以及037/039逐星四化作用、cycle原句与目标，不再将吉辅当夹宫；原V1/V2留存。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c037",
+      "candidate_sha256": "60596daba28416aab4874e94d30ec9dc9f13be96a5c0af7566ba49b010edea86",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V3实读中文偏格任一忌前提，以及037/039逐星四化作用、cycle原句与目标，不再将吉辅当夹宫；原V1/V2留存。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c038",
+      "candidate_sha256": "9df1929efab7255fdae2813b8e661ed0ee98a62b142299c655562bd88541bcf1",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c039",
+      "candidate_sha256": "b6e6bf3dcfcd854f27ba96e4264716a2c821da649b088b0c82e06565de9a0ced",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V3实读中文偏格任一忌前提，以及037/039逐星四化作用、cycle原句与目标，不再将吉辅当夹宫；原V1/V2留存。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c040",
+      "candidate_sha256": "adddfb754ac5c402427515f2b2e3dae0c95ae20b7deeb08a4431dc189eec0a08",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c041",
+      "candidate_sha256": "48ba8994bb281ed51988d344138ddfd7fa13878c03eceb0d34f1db1510c531a6",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c042",
+      "candidate_sha256": "0ecf4b15de80cac558b669d5748e225bdd1f65187d305bc8a163a244f3c1ea13",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c043",
+      "candidate_sha256": "3587990616f56a46ff6159e173f36efdfe751d2c22611f43c06daac7cdc24acc",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c044",
+      "candidate_sha256": "4a03b6a1b475a24e0f47aec7ce4a93e7bca5bca6d5999e3106eaa4c80dc1e9c4",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false,
+      "revision_verification": "V1全量阅读基础上，对返修全文/对应关系与全部修订evidence逐项重读核验；未改作者候选。"
+    }
+  ],
+  "counts": {
+    "accept": 9,
+    "return": 0,
+    "blocked": 1
+  },
+  "candidates_modified": false,
+  "old05_read": false,
+  "reading_note": "V3已核ordinary返修，035保持typedhold。"
+}

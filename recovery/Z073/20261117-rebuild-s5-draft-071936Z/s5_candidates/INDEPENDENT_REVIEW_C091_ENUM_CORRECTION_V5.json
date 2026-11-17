@@ -1,0 +1,13 @@
+{
+  "created_utc": "2026-11-17T07:07:27.838627+00:00",
+  "correction": "Coordinator retracts C091 V4 acceptance because prior coordinator request conflated usage=discussed with formation_status=Debated. This is a frozen-enum correctness issue, not schema evolution; new review delegated to independent unexposed reviewer.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "candidate_sha256": "2e0ffb1062470bfb87ef71861a3aec2586a461fd44d56d0f851df5778bbf37ed",
+      "decision": "returned_for_revision",
+      "reason": "formation_status讨论 lacks substantiated inter-school controversy; author to preserve version and revise, independent reviewer to confirm."
+    }
+  ],
+  "whole_source_S5_or_S6_passed": false
+}

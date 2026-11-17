@@ -1,0 +1,570 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c046",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    73,
+    74
+  ],
+  "chunk_text": "先賢曰：「此星於病，主肺經咳嗽、咯血、勞傷之症，鼻塞、肝旺、大腸密結等。」根據中醫理論，肺經五行屬「金」。而肺臟的生理功能主「呼吸」，因此就生理功能而言，凡屬於有關的器道皆列入肺經的範圍內。\n武曲五行屬金，當武曲坐守的宮位受到剋害時，往往會出現和肺經相關的病變。例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位。火星五行屬火，當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶，此時不論子宮為任何事項宮位，此命造皆可能有呼吸或肺經相關方面的病變。\n\n天同廉貞破軍祿存辛亥陀羅庚戌戊申己酉忌府曲天武時壬年日命月擎火羊星壬子丁未，但依作者多年的探討與實證經驗認為，一張命盤十二個宮位，都代表關的疾病。例如此命盤的子宮，因武曲受到火星的剋害後，此時不論子傳統上認為，疾厄宮是表現一個人會生病，或是顯示會生什麽病的宫位一個人的健康，命盤上任何一個宮位只要受到嚴重的想害，就會出現相七殺太太陰陽宮為任何事項宮位，皆代表此命造可能有金方面的病變。\n局癸丑丙午貪狼梁天機天微權紫祿天相巨門天魁天鉞盤十五癸卯壬寅乙巳甲辰\n\n武曲第四章",
+  "chunk_index": 46,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "作者以武曲属金解释肺经及呼吸系统的疾病象征，并举盘十五：武曲天府在子，火星擎羊同踞，壬年武曲化忌使火克金而忌煞交冲。作者称不论子宫是哪一事项宫均可能有关病变；这是来源命理观点而非医学诊断。后半排盘与正文乱序保留，不重构。",
+  "summary_en": "The author associates Military Melody metal with lung-meridian and respiratory illness. In Chart Fifteen, Military Melody and Heavenly Treasury occupy Zi with Fire Star and Ram Blade. For a Ren-year birth, Military Melody’s Obstruction Transformation is said to activate fire overcoming metal and malefic affliction. The author claims possible respiratory or lung-meridian problems regardless of Zi’s functional palace. These are attributed astrological claims, not medical diagnoses. The following disordered chart and prose are excluded from usable evidence.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "火星",
+    "擎羊",
+    "化忌",
+    "壬年",
+    "肺经",
+    "盘十五"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Heavenly Treasury",
+    "Fire Star",
+    "Ram Blade",
+    "Obstruction Transformation",
+    "Ren-year birth",
+    "lung meridian",
+    "Chart Fifteen"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 240,
+          "end": 252,
+          "quote": "呼吸或肺經相關方面的病變"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 96,
+          "end": 102,
+          "quote": "武曲五行屬金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 178,
+          "quote": "武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 240,
+          "end": 252,
+          "quote": "呼吸或肺經相關方面的病變"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 96,
+          "end": 102,
+          "quote": "武曲五行屬金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 140,
+          "end": 148,
+          "quote": "武曲天府在子坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 156,
+          "quote": "火星擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 156,
+          "quote": "火星擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart15",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 178,
+          "quote": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "chart15",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 178,
+          "quote": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart15",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 178,
+          "quote": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart15",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 178,
+          "quote": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "chart15_colocation",
+        "kind": "conditional",
+        "condition": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 178,
+          "quote": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 218,
+          "quote": "火星五行屬火，當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "illness_activation",
+        "kind": "conditional",
+        "condition": "當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 218,
+          "quote": "當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 39,
+          "end": 43,
+          "quote": "中醫理論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅前两段完整引文及盘十五说明可用；后半命盘与正文乱序混排不重构，不据混排疾病/星位造事实。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 253,
+        "quote": "先賢曰：「此星於病，主肺經咳嗽、咯血、勞傷之症，鼻塞、肝旺、大腸密結等。」根據中醫理論，肺經五行屬「金」。而肺臟的生理功能主「呼吸」，因此就生理功能而言，凡屬於有關的器道皆列入肺經的範圍內。\n武曲五行屬金，當武曲坐守的宮位受到剋害時，往往會出現和肺經相關的病變。例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位。火星五行屬火，當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶，此時不論子宮為任何事項宮位，此命造皆可能有呼吸或肺經相關方面的病變。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart15_colocation",
+        "negated": false,
+        "condition": "例如盤十五的命例，武曲天府在子坐守，有火星擎羊同踞，壬年生人，武曲化忌致使子宮成為忌煞交沖宮位"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "interacting_star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "interacting_star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "illness_activation",
+        "negated": false,
+        "condition": "當武曲化忌後，武曲「金」就受到火星「火」的剋害，擎羊也跟著來逞凶"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "中醫理論",
+        "proposed_category": "analysis_method",
+        "reason": "来源用于命理推论的医理框架，不当现代医学验证",
+        "english_surface": "Zhong Yi Li Lun",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "火星",
+      "擎羊"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart15"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

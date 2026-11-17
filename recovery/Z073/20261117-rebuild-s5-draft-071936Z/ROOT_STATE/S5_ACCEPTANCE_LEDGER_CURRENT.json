@@ -1,0 +1,2756 @@
+{
+  "created_utc": "2026-11-17T07:19:12.853026+00:00",
+  "run_id": "run-20261117-z073-rebuild-001",
+  "materialized_candidates": 159,
+  "total_expected": 293,
+  "counts": {
+    "pending_current_hash_independent_review": 39,
+    "explicit_hold": 49,
+    "accepted_for_S5_candidate_not_whole_source_S6": 71
+  },
+  "scope": "Conservative filename/schema-specific index. Unindexed review formats remain pending, not rejected. No S5/S6 whole-source acceptance.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c001.json",
+      "candidate_sha256": "ee08f11a036746b09bf0158c43ab88a6ffb28b35c5016c7257957ed03c46ff09",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c002.json",
+      "candidate_sha256": "bd9e7a1028a4e7443f016ef61403d62239fec971c9b6b57591b5751d9478b14a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c002_BLOCKED.json",
+          "review_sha256": "2f7eb14a2ed70fe0cc8e48cafcc7c39d3c15a28fca931e1fcd08adba85d6ed5b",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c003.json",
+      "candidate_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C001_C003_V1.json",
+          "review_sha256": "19f2a18d2ae914ceed426636640158fec3bf0587fa829a116d97b2856e96ce57",
+          "decision": "accept_for_S5_pilot_not_whole_source_S6"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C001_C003_V2.json",
+          "review_sha256": "487e82e2492fd5d7c51fad4b20bd51e14e0764d768cc3a30ba7d56af65d98c96",
+          "decision": "accept_for_S5_pilot_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c004.json",
+      "candidate_sha256": "922b6470c8626a54a5166554f319d4301c3f958a51fcd6634dbe77d185f43643",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C004_C006_V1.json",
+          "review_sha256": "426f90e84fd1948eff97b02a16597fcd17bb978f07741231935b8ca0f08936e6",
+          "decision": "accept_for_S5_pilot_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c005.json",
+      "candidate_sha256": "50ece37ea914b9406edb3c6ea7e76b28c3fa89ccee9988690f2009f69ffb7efc",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C004_C006_V1.json",
+          "review_sha256": "426f90e84fd1948eff97b02a16597fcd17bb978f07741231935b8ca0f08936e6",
+          "decision": "accept_for_S5_pilot_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c006.json",
+      "candidate_sha256": "c5b714eb2dd0fea7485e1b96e98a1ff1d6a3cf52e19f3cc5d06861574c7fe584",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C004_C006_V1.json",
+          "review_sha256": "426f90e84fd1948eff97b02a16597fcd17bb978f07741231935b8ca0f08936e6",
+          "decision": "accept_for_S5_pilot_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c007.json",
+      "candidate_sha256": "b8c247723129c29614e78bafac322c9087396ecf13e9684c65ffd87fd30ce51c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C007_C009_V3.json",
+          "review_sha256": "c52e17916a55600eff79b69d695b91f48d2b95a0faba291bdbadad50d6bd9157",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c008.json",
+      "candidate_sha256": "357c714445ae304f47a468abf7b81899f230c55550283d9b6e281a0919886655",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C007_C009_V3.json",
+          "review_sha256": "c52e17916a55600eff79b69d695b91f48d2b95a0faba291bdbadad50d6bd9157",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c009.json",
+      "candidate_sha256": "08d79e05887c41b096cb99861a5cbe491a83e334bce88fbc4486ea350b40b04d",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C007_C009_V3.json",
+          "review_sha256": "c52e17916a55600eff79b69d695b91f48d2b95a0faba291bdbadad50d6bd9157",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c010.json",
+      "candidate_sha256": "f720cb052c9848803585575fc97f71ca1a123d2e22c95b77245b92ca6bf34b46",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V1.json",
+          "review_sha256": "5ec57855be2ca9c309f87fe52070acd237edc4ebbc73d97b584e34d1db3aa202",
+          "decision": "accepted"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V2.json",
+          "review_sha256": "8d9ad67d455c3597cdcecece22f5e12d5db314c29e781d7b3290302c3b8d5b51",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c011.json",
+      "candidate_sha256": "4f070d4c0acda3b653f8c268a4e4c44feef52a0158c9da229cf0465eea5bf06c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V1.json",
+          "review_sha256": "5ec57855be2ca9c309f87fe52070acd237edc4ebbc73d97b584e34d1db3aa202",
+          "decision": "accepted"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V2.json",
+          "review_sha256": "8d9ad67d455c3597cdcecece22f5e12d5db314c29e781d7b3290302c3b8d5b51",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c012.json",
+      "candidate_sha256": "98de08b7b4e62188c42675df7d3e3715145084653a0924f618604e8f002755dc",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V2.json",
+          "review_sha256": "8d9ad67d455c3597cdcecece22f5e12d5db314c29e781d7b3290302c3b8d5b51",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c013.json",
+      "candidate_sha256": "c16d131c12d9b468a64eb761be681a4af5b25ebbe733ef35a06ed62659601444",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V1.json",
+          "review_sha256": "5ec57855be2ca9c309f87fe52070acd237edc4ebbc73d97b584e34d1db3aa202",
+          "decision": "accepted"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V2.json",
+          "review_sha256": "8d9ad67d455c3597cdcecece22f5e12d5db314c29e781d7b3290302c3b8d5b51",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c014.json",
+      "candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C010_C014_V2.json",
+          "review_sha256": "8d9ad67d455c3597cdcecece22f5e12d5db314c29e781d7b3290302c3b8d5b51",
+          "decision": "expressible_part_accepted_OR_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c015.json",
+      "candidate_sha256": "18f580fe0b829924e5bd57891dc088c6d851eb950a122530b7419fedc84a5a28",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V2.json",
+          "review_sha256": "6a7edb81cd8cbc6d92720e92b90ed623123b8c956a51e6b28b4e9829ab190de2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c016",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c016.json",
+      "candidate_sha256": "2abcea272f1c9a2f0cafd6e458e6cf863ea2a22ca4354fc918f639e222850995",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V1.json",
+          "review_sha256": "e84da42baec2352ee9ec28673aebd214d2caec799533f51090169f9506caf8e5",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V2.json",
+          "review_sha256": "6a7edb81cd8cbc6d92720e92b90ed623123b8c956a51e6b28b4e9829ab190de2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c017",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c017.json",
+      "candidate_sha256": "2961342db556f0e769b33981e4217d4b619f299e98e0e32939c4b914dedcc29d",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V2.json",
+          "review_sha256": "6a7edb81cd8cbc6d92720e92b90ed623123b8c956a51e6b28b4e9829ab190de2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c018",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c018.json",
+      "candidate_sha256": "e0188ef129380fc6689d2570df6646cc54348c587487ae059d6a0536ba15d0ae",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V2.json",
+          "review_sha256": "6a7edb81cd8cbc6d92720e92b90ed623123b8c956a51e6b28b4e9829ab190de2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c019",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c019.json",
+      "candidate_sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C015_C019_V2.json",
+          "review_sha256": "6a7edb81cd8cbc6d92720e92b90ed623123b8c956a51e6b28b4e9829ab190de2",
+          "decision": "blocked"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c020",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c020.json",
+      "candidate_sha256": "205fef6b8c723af7b181141c3685d5aa6e011529b10248cf1c2be44c5e9a709a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C020_C024_V2.json",
+          "review_sha256": "c365be04cc99d856bdcfb07e2f40f84d56a57f03e2ceb2ffd027696e3d538a64",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c021.json",
+      "candidate_sha256": "bfa60985ad4779a5bb8c6861bd77d8a2c8dde72cf07be9d63604e2ff92b6e927",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C020_C024_V2.json",
+          "review_sha256": "c365be04cc99d856bdcfb07e2f40f84d56a57f03e2ceb2ffd027696e3d538a64",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c022.json",
+      "candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C020_C024_V2.json",
+          "review_sha256": "c365be04cc99d856bdcfb07e2f40f84d56a57f03e2ceb2ffd027696e3d538a64",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c022_BLOCKED.json",
+          "review_sha256": "a006ea8e59e658b94379af804b8e8a2041debcb2c640fa0389270ff15efe12fc",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c023.json",
+      "candidate_sha256": "6b7383338d54e2418480388924613400b1c8af33c54e5c3e588f86e763e62053",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C020_C024_V2.json",
+          "review_sha256": "c365be04cc99d856bdcfb07e2f40f84d56a57f03e2ceb2ffd027696e3d538a64",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c024.json",
+      "candidate_sha256": "e6b80526e024ed31e857345fad5542783d25e42aecbf799d5fcafeb29428450b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C020_C024_V2.json",
+          "review_sha256": "c365be04cc99d856bdcfb07e2f40f84d56a57f03e2ceb2ffd027696e3d538a64",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c025.json",
+      "candidate_sha256": "885e98e5d2eee7b5aa9db2b55f691d5e4745bc8d90812c81def0cd9186ceb63c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c026.json",
+      "candidate_sha256": "67beb9b763d97d3bdb79a40889b9fb3c21c1c91106b863104884911bf0766300",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c027.json",
+      "candidate_sha256": "6a1b5ff43fb7ce4332da83934c0f9732083ad624bb75df0e76547739f9607f73",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c028.json",
+      "candidate_sha256": "b7634b4c56c551419c9da5ffe2c1a753a3735fab767abb95992c893d478f05c7",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c029.json",
+      "candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V1.json",
+          "review_sha256": "874cd497bf728b2b27c057c90bb5f7ae5c001d2864f02f1691ed2287cebd5141",
+          "decision": "blocked_OR_retained"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "expressible_part_accepted_typed_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c030.json",
+      "candidate_sha256": "5c334656fcfcc516738e79f4ae639c46b5453ba456da66030aafb117b2bb0a35",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "expressible_part_accepted_typed_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c031",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c031.json",
+      "candidate_sha256": "8574810a3f01be80d80474b91771d703ce44611d5e5f8bc01db3090e239e4b80",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "expressible_part_accepted_typed_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c032",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c032.json",
+      "candidate_sha256": "189a33c615cd072328476743b668f890209812a5e738868da69759d059438cd0",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V1.json",
+          "review_sha256": "874cd497bf728b2b27c057c90bb5f7ae5c001d2864f02f1691ed2287cebd5141",
+          "decision": "accepted"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c033",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c033.json",
+      "candidate_sha256": "e3b4616cf0c7469abf2455b490352d2b67bfc00dcc752f9557bbf74e99289391",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c034",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c034.json",
+      "candidate_sha256": "bc77e0dbb38af34955fea9a2a74581234314c9d5f1faa0fae450575336a7db2a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V2.json",
+          "review_sha256": "04e87e0a4a4a5b7f605211d4272729e572b17e0b8eadcd956c5575f9bd2cf895",
+          "decision": "expressible_part_accepted_typed_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c035",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c035.json",
+      "candidate_sha256": "0b32929e540dd296e85681e75a24cf8b00139916e11afc1da1cd61b7da6bd6c0",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "blocked"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c036.json",
+      "candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V1.json",
+          "decision": "invalid_prior_version_binding_not_applied",
+          "verified_erratum": {
+            "chunk_id": "dots_all_20261013_ziwei_073_c036",
+            "report_basename": "INDEPENDENT_REVIEW_C035_C044_V1.json",
+            "invalid_reported_candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+            "retrospectively_applicable_old_candidate_sha256": "4f87bd9a33729f68c84e2d31eb4ecb4c6acd5bfba9614676888814f7e9e084be",
+            "erratum_path": "z073_rebuild_20261117/preparation/s5_candidates/ERRATUM_C036_REVIEW_HASH_BINDING_V1.json",
+            "erratum_sha256": "b24bbc0e4661def00c80e9ff574201785592f34f3278f3089cfc0652f4d235c3"
+          }
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c037",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c037.json",
+      "candidate_sha256": "60596daba28416aab4874e94d30ec9dc9f13be96a5c0af7566ba49b010edea86",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c038",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c038.json",
+      "candidate_sha256": "9df1929efab7255fdae2813b8e661ed0ee98a62b142299c655562bd88541bcf1",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V1.json",
+          "review_sha256": "fc31b0f48bcf41d9b4f9a8ead292d148ac4524c9d7ddb723099eb4dcab9c078e",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c039",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c039.json",
+      "candidate_sha256": "b6e6bf3dcfcd854f27ba96e4264716a2c821da649b088b0c82e06565de9a0ced",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c040",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c040.json",
+      "candidate_sha256": "adddfb754ac5c402427515f2b2e3dae0c95ae20b7deeb08a4431dc189eec0a08",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c041",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c041.json",
+      "candidate_sha256": "48ba8994bb281ed51988d344138ddfd7fa13878c03eceb0d34f1db1510c531a6",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V1.json",
+          "review_sha256": "fc31b0f48bcf41d9b4f9a8ead292d148ac4524c9d7ddb723099eb4dcab9c078e",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c042",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c042.json",
+      "candidate_sha256": "0ecf4b15de80cac558b669d5748e225bdd1f65187d305bc8a163a244f3c1ea13",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V1.json",
+          "review_sha256": "fc31b0f48bcf41d9b4f9a8ead292d148ac4524c9d7ddb723099eb4dcab9c078e",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c043",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c043.json",
+      "candidate_sha256": "3587990616f56a46ff6159e173f36efdfe751d2c22611f43c06daac7cdc24acc",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c044",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c044.json",
+      "candidate_sha256": "4a03b6a1b475a24e0f47aec7ce4a93e7bca5bca6d5999e3106eaa4c80dc1e9c4",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V1.json",
+          "review_sha256": "fc31b0f48bcf41d9b4f9a8ead292d148ac4524c9d7ddb723099eb4dcab9c078e",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V2.json",
+          "review_sha256": "755334d4ca67bfa0a682aafff57444f6cf7d7ead9d55c13267de4cfa11843b3b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C035_C044_V3.json",
+          "review_sha256": "81888dea605c31c11f3abd1418c903d342cd3a8a1f89c97c112964a1e5ef22b7",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c045",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c045.json",
+      "candidate_sha256": "166226c81e6fe12a8bde269a8068e00e66f19a1c9ba78f79448c21d47bbdb791",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c045_BLOCKED.json",
+          "review_sha256": "ad7e393c71b158494f63c75dee9f762b9dfe95bc1e27c8a34c184cd189b4d2c3",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c046",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c046.json",
+      "candidate_sha256": "465ae47985f0b05a56dfe22846833a010ca6b572013ab0cc4fdb231755f95eac",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c047",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c047.json",
+      "candidate_sha256": "1c369948173a0c5a4a05c5760e72547157bba9c06564f4ec60485520828fdd33",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json",
+          "review_sha256": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c048",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c048.json",
+      "candidate_sha256": "954b205fe56d30822731608021d6b391f859e29ce8b0a785bc3b5546e88c70d9",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json",
+          "review_sha256": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c049",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c049.json",
+      "candidate_sha256": "cc1061f77af39389fa12e7cdc90695b23eda0f7c5f99c510f96b9d587fe67efc",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c050",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c050.json",
+      "candidate_sha256": "7ae983f57c5e281645f4158ad68fedab5473ebd5e7322b633b6c82204effb96c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json",
+          "review_sha256": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c051",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c051.json",
+      "candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json",
+          "review_sha256": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c051_BLOCKED.json",
+          "review_sha256": "f211606bc615ffddfe988e3dd305d7e99ba2aaea1aeffb78a9a737f05799df6d",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c052",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c052.json",
+      "candidate_sha256": "93c1674f797733f7156c1bac5e034f15d706b3e6baf1d103a796b5aa008b87dd",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json",
+          "review_sha256": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c053",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c053.json",
+      "candidate_sha256": "39bb0b9fc4bee51005246897214f0a02b0af4b47186aeaab892fdd0c5dcb53cb",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c053_BLOCKED.json",
+          "review_sha256": "f276b7eebecebfceffdbc74c1e85c087fc3e7e64e1b9b8263f90271975099a77",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c054",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c054.json",
+      "candidate_sha256": "f1e55c512cadf3b324f669b76b2066a5cb39d7ca9e7ded455967163cc13c973b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V2.json",
+          "review_sha256": "a0dc2c3524ac9a92050e1480b80d6634ebdc7ce7568f2884fc67415d6f0e73ed",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c055",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c055.json",
+      "candidate_sha256": "65d2c1b10dd892930bc96ee4f080afe466bf1a53245a6dafa2bc7f2ea53c7969",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c056",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c056.json",
+      "candidate_sha256": "4d6a7de7199bf16a8aacdc3273fa89ad05a4ddfdea647e91af3f006929dc8eaa",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c057",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c057.json",
+      "candidate_sha256": "6c1ade3e5a3cd615510b7ec1c2122d1d3fdb0839c7b5e13118b581c972196940",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c058",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c058.json",
+      "candidate_sha256": "c23b4a5469fb77e76634a76a3091d4b30acace046134c2c6bbd5a442a1501d32",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c059",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c059.json",
+      "candidate_sha256": "c306df2f0860df92ec190964143d0f67a9181a1f762b7bb655b389c393ae27f6",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c060",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c060.json",
+      "candidate_sha256": "5dadc655b76b69fc950a10ab787d964865f2d72734f60715bfcd6bd8be640cab",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c061",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c061.json",
+      "candidate_sha256": "0ba58be9727ba7d8c3430c98d0e6e9f7661f7f55b16f2343a259edb1d17931e4",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c062",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c062.json",
+      "candidate_sha256": "83a61f02a8eb79187333a2975fe43709e71f023924868eee97be9475394111c6",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c063",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c063.json",
+      "candidate_sha256": "cccbb08166691f687061362289485ff72c58d39efbd83ef4a51eca566037b81f",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c064",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c064.json",
+      "candidate_sha256": "8993f93a59a1db0ab315894b6f74ff5b55f180b15dc83148d01effc366520c2f",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C055_C064_V2.json",
+          "review_sha256": "ded56a90a4c431d8824731764b90e2917a9446148c8b174d028e0524b2faeeab",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c065",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c065.json",
+      "candidate_sha256": "0a4543605b90d44b94d53ea9acb5e02840a91f75826abe828f977676c9595f62",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c066",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c066.json",
+      "candidate_sha256": "e232fc8f16b1ae639ab9f14456241658437628e6b4cdb4fb7d64917ef252494a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V1.json",
+          "review_sha256": "9eeb70436e60e79854dd5da24fa02204b357422dcb3500603079da7d583c086b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c067",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c067.json",
+      "candidate_sha256": "1c0a2b10f8a0d1aedd47b7f0a1ab6f413c67e128897fd6b0c53e855ced65d32e",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c068",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c068.json",
+      "candidate_sha256": "7a483d4a26e0845d1d038591f027aaf20cd5a95f019dc68dfd649861fc7f1c1a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V1.json",
+          "review_sha256": "9eeb70436e60e79854dd5da24fa02204b357422dcb3500603079da7d583c086b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c069",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c069.json",
+      "candidate_sha256": "66e0c96af2782a9c08f5519ddb53a70488e1194f1706cccb6225aaf015c3ab2e",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "blocked_expressible_draft_accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c070",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c070.json",
+      "candidate_sha256": "c5a18a87f7473cb3f1c3a2cedfc37977af97614756c2525952652bafc59f1efe",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "blocked_expressible_draft_accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c071",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c071.json",
+      "candidate_sha256": "a73baeb02839f72ed0d5f36d976af97f5e115a19535a80068f40a679d315943b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V1.json",
+          "review_sha256": "9eeb70436e60e79854dd5da24fa02204b357422dcb3500603079da7d583c086b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V1_HOLD_CLARIFICATION.json",
+          "review_sha256": "ec0a2d9753d9bf0b143d60b0331c2bebfd8ddb900193533ab0db3c0421d2abbd",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "blocked_expressible_draft_accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c072",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c072.json",
+      "candidate_sha256": "1e083fbcdb166c7d5f9fecba6723a5029d4fae4702455d4d06ccaecfdcb06b1a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c073",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c073.json",
+      "candidate_sha256": "a725b3d2e638e1c220781a56d889eac1eadf8186f3551af74546937abeece478",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "blocked_expressible_draft_accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c074",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c074.json",
+      "candidate_sha256": "b62e29ffbec744f4273e3c2daf6499f5395778a345bde08471eedc5678c921c6",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C065_C074_V2.json",
+          "review_sha256": "9a7163178484d8c3b4a66d2c351ecbcb4ae3c6e7e3d198671a0cdd6a8bc564be",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c075",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c075.json",
+      "candidate_sha256": "3cb3b1193ba36b8788281b04cf0a21ee5d251d6fa24bfbfc0a8c7774badc83e7",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c076",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c076.json",
+      "candidate_sha256": "9305d398136c22951cf1a761b9da1a3b9794f9342b98cec67f15a2388419e651",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c076_BLOCKED.json",
+          "review_sha256": "be0e756fe7aef3a0fed49aef56cf1840fa5cce497c0297347b32807e7efaec6f",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c077",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c077.json",
+      "candidate_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V1.json",
+          "review_sha256": "f077971cd127644ce0858826ad0a19bec753497bd912f18d682252d04361c47b",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c077_BLOCKED.json",
+          "review_sha256": "691aca2906f9e615b0bfec42472710827e81d549305f694e6f467d40ca569166",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c078",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c078.json",
+      "candidate_sha256": "68f9c48d61f5909b9b90b27113f4ce458419c7e10934730183933feff822d188",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c078_BLOCKED.json",
+          "review_sha256": "c4ac0efc499fa2555451641758a164db3b8d9d8dbbc41f651098d243fd7e4455",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c079",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c079.json",
+      "candidate_sha256": "c5915c559bb92a21f46037c9f1f38069d4b8c3f9def48802c17bc72cac36668c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c079_BLOCKED.json",
+          "review_sha256": "29c92650bff0bb3cf7182bd7b8878fdaf8894595f6fa409168232e895e230914",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c080",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c080.json",
+      "candidate_sha256": "413f9daa900077e259e2475ef6915fa228fb45db152ed78e3f26af44a15de6de",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c080_BLOCKED.json",
+          "review_sha256": "0629240577256e32f7532a64caa06f7c7de431b7c1dc9df19d38d2138e5ce643",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c081",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c081.json",
+      "candidate_sha256": "2010949d59058aa073801da4b643365e1f7bad1dee72656c8f5986be7159862d",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V1.json",
+          "review_sha256": "f077971cd127644ce0858826ad0a19bec753497bd912f18d682252d04361c47b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c082",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c082.json",
+      "candidate_sha256": "52a8108f1c340e2f5407227f0a023298eb055d41f1a0f8d1bbfc62138bfff482",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c082_BLOCKED.json",
+          "review_sha256": "75c469271053fa6d3eeee0534792cc590f80ad35658e47b51895632c8d0c1557",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c083",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c083.json",
+      "candidate_sha256": "24efc145eed0e6e5a9b9b952557cb9c23675d104ef710cde30e0da9b4a0c5169",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V1.json",
+          "review_sha256": "f077971cd127644ce0858826ad0a19bec753497bd912f18d682252d04361c47b",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c084",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c084.json",
+      "candidate_sha256": "9a510478472e49f940bd83655aac263fa404f931b6f670a215c0df9816c75132",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V2.json",
+          "review_sha256": "3fbaaf0d6ed70add1ec4607ad9b0af0aeb465e2043962f5d6c19d0e4a1a2c0e6",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C075_C084_V3.json",
+          "review_sha256": "51c0d53c753b40bc9334863e1084e22bc95a41a740c39336387a680dd378e8d2",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c084_BLOCKED.json",
+          "review_sha256": "d5d5e806ab8034377ed6f64baec4502dcb77b5ffbd7264774225da5ea967ea9f",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c085",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c085.json",
+      "candidate_sha256": "7361dd2850712a3f372d72f83fe2631ee50041149e150b5e27dbd3e4899cd571",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C085_C089_V1.json",
+          "review_sha256": "b812b513fb292150a21511a3eada6be3845ea3ef90241c504a83f984756c0580",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C085_C089_V2.json",
+          "review_sha256": "573149183df4c0159f43899e551d72c2260ce57df10158afb52e1da5ad4a7368",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c086",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c086.json",
+      "candidate_sha256": "8e608669262c548bb9b1e6a0719cb359a21e2daa02a3450ad831d0e2680fbf94",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C085_C089_V2.json",
+          "review_sha256": "573149183df4c0159f43899e551d72c2260ce57df10158afb52e1da5ad4a7368",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c087",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c087.json",
+      "candidate_sha256": "33199cd4450bdfddb5b31362222188a6117bf55558b27b4067b33bb3fe21290b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C087_C091_FORMATION_ERRATUM_V1.json",
+          "review_sha256": "8efdbf02afe8a9554b10a7abfe89f26cf985903683fc50f6bdcd20b1ae01c680",
+          "decision": "accept_erratum_and_expressible_draft"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c088",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c088.json",
+      "candidate_sha256": "147826f4c5b2783651900db8753f91363f3d83363d440a83cc2ae9084546b4a4",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C085_C089_V2.json",
+          "review_sha256": "573149183df4c0159f43899e551d72c2260ce57df10158afb52e1da5ad4a7368",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c089",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c089.json",
+      "candidate_sha256": "f39d23abc843ee8161bc98d162f2d5a952f2fe286c88c92175458ffc311299d0",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C085_C089_V2.json",
+          "review_sha256": "573149183df4c0159f43899e551d72c2260ce57df10158afb52e1da5ad4a7368",
+          "decision": "accept_for_S5_candidate_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c090",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c090.json",
+      "candidate_sha256": "0d71ac62f396973844435916cb210ad6ed0945e93fad2dcfa5d4a4fb6aa0f77b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C090_C094_V1.json",
+          "review_sha256": "3d672f1b9a534221a4299253aae28383fd06fee8f4959c41acefe8fdadf1e208",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C090_C094_V2.json",
+          "review_sha256": "835f5132c0fee098b0c275b7a01ec958949aac2b505884f0ac6d2b7588a95b68",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c091.json",
+      "candidate_sha256": "5fa549c5b79754e76a8bfd8374eb30af9f0abf0473bffbd11c625f65d1bdf8b8",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C087_C091_FORMATION_ERRATUM_V1.json",
+          "review_sha256": "8efdbf02afe8a9554b10a7abfe89f26cf985903683fc50f6bdcd20b1ae01c680",
+          "decision": "accept_erratum_and_expressible_draft"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c092",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c092.json",
+      "candidate_sha256": "9dd9834a6274fc95f1cd98afe44372b8a15ba810fedef81ad69e885beaf23ce9",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C090_C094_V2.json",
+          "review_sha256": "835f5132c0fee098b0c275b7a01ec958949aac2b505884f0ac6d2b7588a95b68",
+          "decision": "accept_for_S5_candidate_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c093",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c093.json",
+      "candidate_sha256": "95630a01510b4f3fcb897e0c61594531485fc87d322f8f9f1d035f945f2f6748",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c094",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c094.json",
+      "candidate_sha256": "6cb7c9b1faa3dce326c57793d85df3b62fee0b449076c703d5e1b42c85f7b226",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c095",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c095.json",
+      "candidate_sha256": "8ea2ad60836e4d8fe57dc0ea897fda2ebcb9203109faa5f7e7a99f6035879d7b",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c096",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c096.json",
+      "candidate_sha256": "8780fbb2a541bd48d37f6403fd0d026e313d8ed8f99692e4b11ce89e17981828",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c097",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c097.json",
+      "candidate_sha256": "acf1e11215450c4ffb4844cc2ba33f38d18e2a64ec7973556a315baeebdd3d6e",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c098",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c098.json",
+      "candidate_sha256": "bc4fb2fbaea16963dde1b5b6818bde304dd4238dec144007f30e19085efa80f6",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c099",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c099.json",
+      "candidate_sha256": "cb0a25d8f2753a198814cea9b8d4d4c8140c05243b33962ac024367faf19f7d3",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c100",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c100.json",
+      "candidate_sha256": "1e2f0e8585458ea1858b3b31e2d478100a7bd346adee6d47ade491fecdcd6db8",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c101",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c101.json",
+      "candidate_sha256": "6283bcb1c6f8934d5500e33936a11254f0534eafdc0c1171b8975331bf115435",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c102",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c102.json",
+      "candidate_sha256": "882b57ae3ab5abe2c849aef3f2ba663c5dd646997d9a3784099cb03aca18d2aa",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c103",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c103.json",
+      "candidate_sha256": "0dbac5a6585ba3639496f156952b0ecc761f46bbda44078a7adc749daf91ce6d",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c104",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c104.json",
+      "candidate_sha256": "fa1ede3a126021ffc02cf549af8b387a0b750a1128addaba0e210294e31709c8",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c105",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c105.json",
+      "candidate_sha256": "3ac5ffb9509e0eb7e924b9be1953f1d3c45345e4f208889cf032324d6422cd39",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V2.json",
+          "review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c105_BLOCKED.json",
+          "review_sha256": "932b6cc4fc9149508e446c6742b11d0dd98d93ddf5963db5f6613bb195bcbabd",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c106",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c106.json",
+      "candidate_sha256": "e70394e47c68a63691f264eaf3f7e1dd80aa8f25f353e1507f1f14c8af733f65",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V2.json",
+          "review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c107",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c107.json",
+      "candidate_sha256": "ec061a658c7eb462e8f4ee1bde76d0d126227aee1ca7bd3d9a910f1e1e0b8643",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V2.json",
+          "review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c107_BLOCKED.json",
+          "review_sha256": "16cd0d52cc5a603fbd9d030cd104f7f97d0e286c339eb624d7e3696a5786f141",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c108",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c108.json",
+      "candidate_sha256": "0469f46b086a9a50db99efbf012e8e7c9047a94e5b60f645bb1ca4eb1b92f2d9",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V2.json",
+          "review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c108_BLOCKED.json",
+          "review_sha256": "dc7d11861c42cacff50b75c1d65713b474d91c9abd6c0f572ac2cd4312e95fa0",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c109",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c109.json",
+      "candidate_sha256": "e2f59d4fdaf8f10ee787b42ae9eef236335d73587572eb70fde5358b98716c94",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V2.json",
+          "review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C105_C109_V3.json",
+          "review_sha256": "51909e0f96a064dd36aab8616fa6dc0bd12385197d3a8696d7ca5ff53c17e5f2",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c109_BLOCKED.json",
+          "review_sha256": "467b9e5a1a53ac1b8b74be995852105eca489c613c91d1a283e34f9feac51257",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c110",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c110.json",
+      "candidate_sha256": "ada225f9a779657ee46c3187726d46a823f13382641429c3a5cc5562a46aacd3",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V2.json",
+          "review_sha256": "b980fadf05ee9c1adf7a3a66c42bfe7859577b085bb8079cd4d0525fb9bd9c32",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c111",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c111.json",
+      "candidate_sha256": "0f40cf55fcfae62fcacebd1d773353b78415ea98c6de14b007a8a260dbfb2f0c",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V1.json",
+          "review_sha256": "0b587ff1898d3c3e21d00dc0b9367e4f0919fbf7a1560899f46fd52b0230f525",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V2.json",
+          "review_sha256": "b980fadf05ee9c1adf7a3a66c42bfe7859577b085bb8079cd4d0525fb9bd9c32",
+          "decision": "blocked_typed_hold_only"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c111_BLOCKED.json",
+          "review_sha256": "9d8b946eadc0a53861ad25c0f7e0905c89b5f179d47912b4feab1a6e2282fcc5",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c112",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c112.json",
+      "candidate_sha256": "3486f8e9cfc7cf163398649f232caacbbdca56ab1ce2d5aa65d176961f856f71",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V2.json",
+          "review_sha256": "b980fadf05ee9c1adf7a3a66c42bfe7859577b085bb8079cd4d0525fb9bd9c32",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c113",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c113.json",
+      "candidate_sha256": "9386cb583b7b52daa019f4338611da2c6e74b1ad0157329c7c8981b5cc70c784",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V1.json",
+          "review_sha256": "0b587ff1898d3c3e21d00dc0b9367e4f0919fbf7a1560899f46fd52b0230f525",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V2.json",
+          "review_sha256": "b980fadf05ee9c1adf7a3a66c42bfe7859577b085bb8079cd4d0525fb9bd9c32",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c114",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c114.json",
+      "candidate_sha256": "c5501600c84c369ac5778ed21e6323b28f8df9eeb723ca283c8b93748fa54172",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C110_C114_V2.json",
+          "review_sha256": "b980fadf05ee9c1adf7a3a66c42bfe7859577b085bb8079cd4d0525fb9bd9c32",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c115",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c115.json",
+      "candidate_sha256": "69224fd7f5511996b5d4db5f5ab5fd636aab4bd3e5535f0cac420f93aa6f5ac7",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V2.json",
+          "review_sha256": "59db5109f438952e4b496ed68f36f684817676812e12c7a8787d733168b8592b",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c116",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c116.json",
+      "candidate_sha256": "1a298024045b78c9f6d31567efa6cf9e1d93480fdb84c4e64a1cfb5b8c3a466b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V2.json",
+          "review_sha256": "59db5109f438952e4b496ed68f36f684817676812e12c7a8787d733168b8592b",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c117",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c117.json",
+      "candidate_sha256": "09bd2e79e3358fa2ef6ee07279224e5b53b69e011aefb0c26a984dff70eb41a1",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V1.json",
+          "review_sha256": "a1e660c869cc5e274f0158c3fd30eede5a93cf6f33be564c98fb925e29cd7ddb",
+          "decision": "accepted"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V2.json",
+          "review_sha256": "59db5109f438952e4b496ed68f36f684817676812e12c7a8787d733168b8592b",
+          "decision": "accepted"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c118",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c118.json",
+      "candidate_sha256": "01ff974e1491b2b50cd82c462c31d58f2471eaa7ea988d6fdcbe7d19864a8ab8",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V2.json",
+          "review_sha256": "59db5109f438952e4b496ed68f36f684817676812e12c7a8787d733168b8592b",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c119",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c119.json",
+      "candidate_sha256": "83de6c2929c16fea5e706c459c50ca9803c321cb277036431810b0d6a883fc22",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C115_C119_V2.json",
+          "review_sha256": "59db5109f438952e4b496ed68f36f684817676812e12c7a8787d733168b8592b",
+          "decision": "expressible_accepted_hold_retained"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c120",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c120.json",
+      "candidate_sha256": "d3b37649dc714afeb9fa49f1063578a2e95351c646ac240f810e0181d409a4e1",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c121",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c121.json",
+      "candidate_sha256": "24e2b70a9ca52a93ec0b8b735b31917b084d2ea01a0f1bea0db12ad5f33ccd05",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c122",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c122.json",
+      "candidate_sha256": "8f2274e6e950c78cde608e3c6264ee965642c5c1248effc81c9c7353133fea4e",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c123",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c123.json",
+      "candidate_sha256": "bcff341d7563053b8d9a88df04e79257590365b42ce5f1150bc2eede7120b4ad",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c124",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c124.json",
+      "candidate_sha256": "20c956ef24740829d97a2ee9ed7eb801beeb91422e748eb4c1703811c6ddd329",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c125",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c125.json",
+      "candidate_sha256": "1c4703e2ab3f60f4c99e34210ea38bcf51bad6762dc3e06de94b2a16480c51cc",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c125_BLOCKED.json",
+          "review_sha256": "9e4957de24394c60f7a348d7e28cc85ac2e4fc8bf28237ec2be049c3c6b7daf2",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c126",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c126.json",
+      "candidate_sha256": "e75fdfcdfc790b05ce404ee18093432a786fc0b2b10981af5891b8e0280612f1",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "60c931ee3a166ed032de0f3430c753a96f781287a7bfec4ee9b15e8c80caafc5",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "b81cf8811638128fa17e0341ff9aac54e430099e359b7d6ded29c7cefa628d0e",
+          "decision": "accept_for_S5_candidate_not_whole_source_S6"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c127",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c127.json",
+      "candidate_sha256": "0c743a11245629c5c19d80d502e61e732fe3b84f695093abbd8446e944e5f164",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "60c931ee3a166ed032de0f3430c753a96f781287a7bfec4ee9b15e8c80caafc5",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c127_BLOCKED.json",
+          "review_sha256": "0ad07e29bbd3f1593e92a7244c6ee646eb46b32cce73e5dc71c81c92bcf9ae9a",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c128",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c128.json",
+      "candidate_sha256": "2a92beae64d8954eb0ed452a47dd70ac3062947fc208d15e176013e1d853e0f9",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "60c931ee3a166ed032de0f3430c753a96f781287a7bfec4ee9b15e8c80caafc5",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c128_BLOCKED.json",
+          "review_sha256": "e3fff7d62104e219b305643e9adb09efa7c74ef238496b95827b5c96fea1cc9a",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c129",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c129.json",
+      "candidate_sha256": "0098f7d8d9a7b7121d685332523f0d1c315c558b7fec74f99025e44d16ca9109",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "60c931ee3a166ed032de0f3430c753a96f781287a7bfec4ee9b15e8c80caafc5",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/CLEAN_INDEPENDENT_REVIEW_C125_C129_V2.json",
+          "review_sha256": "4d4d685bb16bc3ab2a327734241c09b1d30edcdfd16340ee83e43b78e2d8c8d8",
+          "decision": ""
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C125_C129_V1.json",
+          "review_sha256": "b81cf8811638128fa17e0341ff9aac54e430099e359b7d6ded29c7cefa628d0e",
+          "decision": "expressible_parts_accepted_but_typed_hold"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c129_BLOCKED.json",
+          "review_sha256": "6b93d529c82be01e1404f8d446a32a3830447307d49cf47690fad97bf714f3bd",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c130",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c130.json",
+      "candidate_sha256": "b81a7adcddefa688c9f875618a2c796c3af3313c02bd5575dfd6f19ed3a26449",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V2.json",
+          "review_sha256": "85e2c2f10b3f5dc4fed738a1aa0e59c262bf427813ab5555ce86f9a01e2b4dcd",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c130_BLOCKED.json",
+          "review_sha256": "80790e68c07e54310cf3e7d81a13552e0e873e2d7731771b7362c53d4fd79bde",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c131",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c131.json",
+      "candidate_sha256": "301e58cfbda012950882ac86dfd40843d9a91d7ffd67fa5674894ce57d7891fb",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V2.json",
+          "review_sha256": "85e2c2f10b3f5dc4fed738a1aa0e59c262bf427813ab5555ce86f9a01e2b4dcd",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c131_BLOCKED.json",
+          "review_sha256": "488773f5b09de758d6770d163235ffbe88a22b37b3ee58f7a3c3bcbd50950ca2",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c132",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c132.json",
+      "candidate_sha256": "fe577ac93ba0fd27637e3262cc145a116c91f69ed2dd685ae5ad40cf97bbe08a",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V2.json",
+          "review_sha256": "85e2c2f10b3f5dc4fed738a1aa0e59c262bf427813ab5555ce86f9a01e2b4dcd",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c132_BLOCKED.json",
+          "review_sha256": "5251da2fbafb9a3728e88a60e4b8b0c26964053470e2c82a1b225cb70564e8fc",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c133",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c133.json",
+      "candidate_sha256": "0be378377630c5ff5ed0c2330b14cf2e951b6d22f80ef29504ea1ec06eab730e",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V2.json",
+          "review_sha256": "85e2c2f10b3f5dc4fed738a1aa0e59c262bf427813ab5555ce86f9a01e2b4dcd",
+          "decision": "blocked"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c133_BLOCKED.json",
+          "review_sha256": "6ed191dbe408c10c2f0731047f3112cb3b40c2250f283380d47667428940d8c4",
+          "decision": "author_declared_explicit_hold_pending_or_after_independent_review"
+        }
+      ],
+      "has_current_hash_hold_signal": true,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "explicit_hold"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c134",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c134.json",
+      "candidate_sha256": "50176cdd2f5a6b2e578e18bdbac21bc17361b2a360284f14757de939ff1d4ba8",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V1.json",
+          "review_sha256": "1fbd7faa746fd9f962c5cef1f5835470f4619bd447590ba85e145ce46ae469b6",
+          "decision": "accept"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C130_C134_V2.json",
+          "review_sha256": "85e2c2f10b3f5dc4fed738a1aa0e59c262bf427813ab5555ce86f9a01e2b4dcd",
+          "decision": "accept"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c135",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c135.json",
+      "candidate_sha256": "fb30d34dd77f9f8329aed17f723940e19888a615831879169fb77ee8870886a1",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c136",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c136.json",
+      "candidate_sha256": "ab69b34d28a6c260265829029cb6a69fffc2aed71e4929b1a940e47fdca61ee5",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c137",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c137.json",
+      "candidate_sha256": "933efc070456fb2e71b382220f0bdc0026f01bf0291cc6248f997611452235f0",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c138",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c138.json",
+      "candidate_sha256": "fb90143b66a25b9feb1c1d4ca6341880ddb0af8c288b3cb65b5632377a79da49",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c139",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c139.json",
+      "candidate_sha256": "7f291e469e1dc428ecdc4ed0b9545b66f60f51097b745179491a830ae8a820da",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c140",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c140.json",
+      "candidate_sha256": "0987a112c96be5f4109fc332872203677e236a593f34d3f44907850ac5d09247",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c141",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c141.json",
+      "candidate_sha256": "95e4ff3847765974ad740c631c5d20bbfa567d27e575802e22203a66d463cb18",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c142",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c142.json",
+      "candidate_sha256": "eeb4ddca1660a858828eae72c8f705da09565c929dfd70e32fa5398eb1456986",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c143",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c143.json",
+      "candidate_sha256": "e9afcefbe0f0c9d8ad813e916f944cbb3b95e89c18ac10b5e15fb4ed33ad7b34",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c144",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c144.json",
+      "candidate_sha256": "556959281c814e28f178f0ab53e554855365cdf306cf46606452b1abf65c7c90",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c145",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c145.json",
+      "candidate_sha256": "d7583e2916968a1a53b2e10140097c0e28dcd9d04e68c0892dfaa5d6a48470e2",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V2.json",
+          "review_sha256": "2e26779317abaf02b99fc8c76d4f7ebded08beadd9b2f502f5ef6038ec69a211",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c146",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c146.json",
+      "candidate_sha256": "9786fe03b1216a2bf4285b972092f7a5bfc780e531f737fa22a50337f593046b",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V2.json",
+          "review_sha256": "2e26779317abaf02b99fc8c76d4f7ebded08beadd9b2f502f5ef6038ec69a211",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c147",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c147.json",
+      "candidate_sha256": "d0f04c9eb9e0519851cc46b46d2a113c90d55ac0c5b6e0f23accdefcf39d3465",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V2.json",
+          "review_sha256": "2e26779317abaf02b99fc8c76d4f7ebded08beadd9b2f502f5ef6038ec69a211",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c148",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c148.json",
+      "candidate_sha256": "73e601d5d06735fbea8454c1cc0716fab1c56a9e206a42126824cc503b9f65f2",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V2.json",
+          "review_sha256": "2e26779317abaf02b99fc8c76d4f7ebded08beadd9b2f502f5ef6038ec69a211",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c149",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c149.json",
+      "candidate_sha256": "390e07e7b43332ae15eb3cb5bb579631a999cf60d8435dc13328c705a9812600",
+      "evidence": [
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V1.json",
+          "review_sha256": "4dec8796de5d25cab5ed57fde8cb74aa72ac860bd95b179c86bde917a87ea319",
+          "decision": "accepted_independent_six_axis"
+        },
+        {
+          "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/INDEPENDENT_REVIEW_C145_C149_V2.json",
+          "review_sha256": "2e26779317abaf02b99fc8c76d4f7ebded08beadd9b2f502f5ef6038ec69a211",
+          "decision": "accepted_independent_six_axis"
+        }
+      ],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": true,
+      "status": "accepted_for_S5_candidate_not_whole_source_S6"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c150",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c150.json",
+      "candidate_sha256": "fc360c14891183a9403fe1a71cdc6aacf68647182badeac3397e9a373f873669",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c151",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c151.json",
+      "candidate_sha256": "414af0eb4b3a4ba3b5696d664fbf77060545923e031bce22baa82e6f590d2a04",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c152",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c152.json",
+      "candidate_sha256": "6afa3a4299164f3fb5e6a3aa60b98e6d20cbab322d47835a2bf477035f0294ac",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c153",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c153.json",
+      "candidate_sha256": "a0ed816a439f72d59a97adf21f7d679ac1ec4e3a1a1f989e614720a458d43f48",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c154",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c154.json",
+      "candidate_sha256": "2da801c11945aea25543447d21b7dabaab5eaa8d16e1a5d124180916a5fee986",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c155",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c155.json",
+      "candidate_sha256": "b138e35eb818cf14308020251ba8cb2e15e9d11efe3e961af8853558b766ace7",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c156",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c156.json",
+      "candidate_sha256": "663e2d3e883859004ceb563ae88e5a08a6ea7f6e144e8e6c3f0f429eb492b2e4",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c157",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c157.json",
+      "candidate_sha256": "a52fbcfa1c49f9b11b87c302098a7d81f7692a3c4c8ec35b0710e4f0d9afcfd5",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c158",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c158.json",
+      "candidate_sha256": "f42fe5dd36326738015538dce2a14db6c758853e64139d2d9b22d74910471615",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c159",
+      "candidate_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c159.json",
+      "candidate_sha256": "de14a950620a0ba7c32a1fd25aa8f2e04f10f9c67cf5b71ddcc9f383c5f42853",
+      "evidence": [],
+      "has_current_hash_hold_signal": false,
+      "has_current_hash_ordinary_return_signal": false,
+      "has_current_hash_acceptance_signal": false,
+      "status": "pending_current_hash_independent_review"
+    }
+  ]
+}

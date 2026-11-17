@@ -1,0 +1,57 @@
+{
+  "reviewer": "coordinator_not_candidate_author",
+  "method": "Independently read complete current chunks and every annotation/evidence field; then rerun strict frozen validation and exact five-field/serialization checks.",
+  "created_utc": "2026-11-17T06:13:45.778679+00:00",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "candidate_sha256": "922b6470c8626a54a5166554f319d4301c3f958a51fcd6634dbe77d185f43643",
+      "decision": "accept_for_S5_pilot_not_whole_source_S6",
+      "coverage": "reviewed",
+      "binding": "reviewed",
+      "time": "reviewed; no natal/time inferred",
+      "content_type": "reviewed; concept explanations rather than case facts",
+      "english": "reviewed; entities, alternatives and qualifications retained; no CJK",
+      "source_quality": "reviewed with limited spans or eligible status grounded in source",
+      "source_based_rationale": "完整後段有明示武曲/陰性/會多吉條件；首句殘片排除在usable_spans之外。將星為功能非同名小星；無虛構入宮。",
+      "remaining_blocking_issues": [],
+      "nonblocking_notes": [
+        "Astrological claims remain attributed to the source; no real-world efficacy or medical fact verification is implied."
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "candidate_sha256": "50ece37ea914b9406edb3c6ea7e76b28c3fa89ccee9988690f2009f69ffb7efc",
+      "decision": "accept_for_S5_pilot_not_whole_source_S6",
+      "coverage": "reviewed",
+      "binding": "reviewed",
+      "time": "reviewed; no natal/time inferred",
+      "content_type": "reviewed; concept explanations rather than case facts",
+      "english": "reviewed; entities, alternatives and qualifications retained; no CJK",
+      "source_quality": "reviewed with limited spans or eligible status grounded in source",
+      "source_based_rationale": "逐句核作者對旺弱吉煞/體貌音量氣量的條件，貪狼僅古引文提及不推同宮，唯一入宮關係有武曲坐命原句；壞句排除而宏火疑字保留不作推論。",
+      "remaining_blocking_issues": [],
+      "nonblocking_notes": [
+        "Astrological claims remain attributed to the source; no real-world efficacy or medical fact verification is implied."
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "candidate_sha256": "c5b714eb2dd0fea7485e1b96e98a1ff1d6a3cf52e19f3cc5d06861574c7fe584",
+      "decision": "accept_for_S5_pilot_not_whole_source_S6",
+      "coverage": "reviewed",
+      "binding": "reviewed",
+      "time": "reviewed; no natal/time inferred",
+      "content_type": "reviewed; concept explanations rather than case facts",
+      "english": "reviewed; entities, alternatives and qualifications retained; no CJK",
+      "source_quality": "reviewed with limited spans or eligible status grounded in source",
+      "source_based_rationale": "出生方位、五行機制、富與貴及東南兩種擇一結果在雙語中忠實保存；只標武曲入命，未把出生方位當宮位，未把富貴二擇一構造成同時結論；五行未註冊方法誠實保留。",
+      "remaining_blocking_issues": [],
+      "nonblocking_notes": [
+        "Astrological claims remain attributed to the source; no real-world efficacy or medical fact verification is implied."
+      ]
+    }
+  ],
+  "human_acceptance": false,
+  "whole_source_S5_or_S6_passed": false
+}

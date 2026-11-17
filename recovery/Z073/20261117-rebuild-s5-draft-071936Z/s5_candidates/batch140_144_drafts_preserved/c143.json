@@ -1,0 +1,316 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c143",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    184
+  ],
+  "chunk_text": "武太陽祿曲權忌同七殺天祿存亥福德22-31戌 父母12-21酉 命宮2-11兄弟丙丁甲申擎羊乙破軍天梁時庚年月日男命天鉞子田宅32-41戊陀羅，太陰陷宮坐守，三合有天同化忌與羊陀來逞凶，雖也有太陽自亥宫來為忌祿沖宫位。遂移宮凶弱，不利於對外，若太凶時，出門在外易發生吉化，但因亥宮的太陽為落陷，故吉化的作用不強，而卯宮卻因此而成宮成為忌煞交沖宮位，就可能會不利於健康與委命。再者，逐移宮在卯命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞，使命天機相貞天魁丑事業42-51午子女己水\n\n局壬陰太科巨門贪狼府微天紫嚴重的意外事故。\n寅僕役52-61卯 遷移 62-71辰疾厄72-81盤九已財帛戊己庚辛",
+  "chunk_index": 143,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "混排盘九仅取连续可读句：酉命天同坐守，庚年天同化忌并与擎羊同踞。其余图表与倒序断裂说明不作新关系或行限证据，不借前块补齐。",
+  "summary_en": "Only a continuous readable clause is used from the interleaved Chart Nine: Tian Tong occupies You Life, transforms to Ji for a Geng birth and shares the palace with Qing Yang. The remaining diagram and disordered caption are not used to infer placements or timing, and neighboring text is not imported.",
+  "keywords": [
+    "天同",
+    "命宫",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Life Palace",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "图表与caption倒序混排，只保此完整连续可读星位句，不补残缺使命句。",
+    "usable_spans": [
+      {
+        "start": 195,
+        "end": 223,
+        "quote": "命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c143_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c143_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c143_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 200,
+          "end": 204,
+          "quote": "天同坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c143_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 219,
+          "end": 223,
+          "quote": "擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c143_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 199,
+          "quote": "命宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c143_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 210,
+          "end": 216,
+          "quote": "天同不但化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c143_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 199,
+          "quote": "命宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c143_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 223,
+          "quote": "命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c143_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 223,
+          "quote": "命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c143_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 223,
+          "quote": "命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c143_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 195,
+          "end": 223,
+          "quote": "命宮在酉，天同坐守，庚年生人，天同不但化忌，並有擎羊同踞"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c143_natal",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c143_natal",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c143_natal",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": "庚",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c143_natal"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [],
+    "stars_mentioned": [
+      "天同",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "knowledge_domains": [
+      "四化星",
+      "宫位变化"
+    ],
+    "topics_mentioned": []
+  }
+}

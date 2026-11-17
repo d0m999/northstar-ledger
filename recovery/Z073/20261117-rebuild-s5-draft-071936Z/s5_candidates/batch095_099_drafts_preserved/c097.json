@@ -1,0 +1,1168 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c097",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    124
+  ],
+  "chunk_text": "武破在亥坐命如林老板者，因命宮會多吉星，行限又佳，再加上選對行業，雖然奔波勞碌，但也有相當成就，就不一定會如古傳賦文所認定的，即武破坐命者大概皆以不佳論。\n命例-家電火亨\n王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）。身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會，另有火星陀羅及地空來沖。命身可謂是合會有左右及魁鉞的雙星殺破狼組合，甚為強旺。不僅如此，命身宮所會照的巳酉丑三方宮位形成「紫殺帶威權」格局，因此雙星殺破狼的「開創」性不但強烈，且帶有一種強而銳不可擋的「權威」心態。這種心態，一旦讓他決意要去開創事業時，他會竭盡手段的全力以赴。再者，武破及紫貪都是屬「剛」性的北斗星曜，因此在處事心態上會相當「果斷」外，臨復因火星陀羅的煞星作用，甚至也有強烈、剛愎自用的偏執個性。\n前面曾提及，不論是單星或雙星殺破狼坐命者，最好要坐會有左右或祿存來增穩，做事才能穩紮穩打，而不會衝過頭。王董事長的命身宮雖見有左輔右弼，但因左右只是會照而非坐守命身宮，因此對主「開創」而引發波動不穩的扶持力量，會比較微弱，再加上左右兩星曜坐守的卯亥二宮，並有空劫沖擊，因此也會降低左右對波動穩定的扶持功能。",
+  "chunk_index": 97,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "先述林老板武破亥命多吉、行限及行业配合可有成，再分析王董事长武破巳命与酉身紫贪天钺，主开创且强硬，左右仅会照而不坐命身，扶持较弱并受空劫影响。命例分开；左右卯亥逐星位置未明，不借排盘补齐。",
+  "summary_en": "Mr. Lin’s Hai Life example is kept separate from Chairman Wang. Wang has Wu Qu, Po Jun, Huo Xing and Tuo Luo in the Life Palace at Si, and Zi Wei, Tan Lang and Tian Yue in the Body Palace at You. The author connects these strong pioneering configurations with determination and rigidity. Zuo Fu and You Bi only aspect Life and Body rather than occupying them, and adverse empty-star influences weaken their stabilizing support. Their individual assignment to Mao and Hai is not inferred.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "命身",
+    "行业",
+    "行限"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Po Jun",
+    "Life Palace",
+    "Body Palace",
+    "occupation",
+    "timing"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c097_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c097_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c097_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 96,
+          "quote": "王董事長命宮武破在巳"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c097_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 96,
+          "quote": "王董事長命宮武破在巳"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c097_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 97,
+          "end": 103,
+          "quote": "火星陀羅同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c097_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 97,
+          "end": 103,
+          "quote": "火星陀羅同踞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c097_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 136,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c097_stars_mentioned5",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 136,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c097_stars_mentioned6",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 136,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c097_stars_mentioned7",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 139,
+          "end": 144,
+          "quote": "左輔自對宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.8",
+      "scope": {
+        "scope_id": "c097_stars_mentioned8",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 111,
+          "end": 116,
+          "quote": "右弼來會照"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.9",
+      "scope": {
+        "scope_id": "c097_stars_mentioned9",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 155,
+          "end": 159,
+          "quote": "地空來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c097_star_pairs_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 104,
+          "end": 110,
+          "quote": "三合另有魁鉞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c097_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 92,
+          "quote": "王董事長命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c097_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 127,
+          "quote": "身宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c097_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 192,
+          "end": 217,
+          "quote": "命身宮所會照的巳酉丑三方宮位形成「紫殺帶威權」格局"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c097_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 209,
+          "end": 214,
+          "quote": "紫殺帶威權"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c097_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 174,
+          "end": 179,
+          "quote": "雙星殺破狼"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c097_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 268,
+          "end": 272,
+          "quote": "開創事業"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c097_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 209,
+          "end": 214,
+          "quote": "紫殺帶威權"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c097_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 174,
+          "end": 179,
+          "quote": "雙星殺破狼"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c097_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 81,
+          "end": 85,
+          "quote": "家電火亨"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c097_term3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 484,
+          "end": 486,
+          "quote": "空劫"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c097_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 77,
+          "quote": "武破在亥坐命如林老板者，因命宮會多吉星，行限又佳，再加上選對行業，雖然奔波勞碌，但也有相當成就，就不一定會如古傳賦文所認定的，即武破坐命者大概皆以不佳論。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c097_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 77,
+          "quote": "武破在亥坐命如林老板者，因命宮會多吉星，行限又佳，再加上選對行業，雖然奔波勞碌，但也有相當成就，就不一定會如古傳賦文所認定的，即武破坐命者大概皆以不佳論。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c097_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 77,
+          "quote": "武破在亥坐命如林老板者，因命宮會多吉星，行限又佳，再加上選對行業，雖然奔波勞碌，但也有相當成就，就不一定會如古傳賦文所認定的，即武破坐命者大概皆以不佳論。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c097_wang_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 122,
+          "quote": "王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c097_wang_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 122,
+          "quote": "王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c097_wang_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 122,
+          "quote": "王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c097_wang_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 122,
+          "quote": "王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c097_wang_life",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 86,
+          "end": 122,
+          "quote": "王董事長命宮武破在巳並火星陀羅同踞，三合另有魁鉞及右弼來會照（盤二十八）"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c097_wang_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 147,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "c097_wang_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 147,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.10",
+      "scope": {
+        "scope_id": "c097_wang_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 147,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.11",
+      "scope": {
+        "scope_id": "c097_wang_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 147,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.12",
+      "scope": {
+        "scope_id": "c097_wang_body",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 147,
+          "quote": "身宮在酉紫貪及天鉞同宮坐守，且有左輔自對宮來照會"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.13",
+      "scope": {
+        "scope_id": "c097_wang_assistants",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 407,
+          "end": 438,
+          "quote": "王董事長的命身宮雖見有左輔右弼，但因左右只是會照而非坐守命身宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.14",
+      "scope": {
+        "scope_id": "c097_wang_assistants",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 407,
+          "end": 438,
+          "quote": "王董事長的命身宮雖見有左輔右弼，但因左右只是會照而非坐守命身宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.15",
+      "scope": {
+        "scope_id": "c097_wang_assistants",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 407,
+          "end": 438,
+          "quote": "王董事長的命身宮雖見有左輔右弼，但因左右只是會照而非坐守命身宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.16",
+      "scope": {
+        "scope_id": "c097_wang_assistants",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 407,
+          "end": 438,
+          "quote": "王董事長的命身宮雖見有左輔右弼，但因左右只是會照而非坐守命身宮"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c097_lin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c097_lin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c097_lin",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c097_wang_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c097_wang_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c097_wang_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c097_wang_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c097_wang_life",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "紫微",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c097_wang_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "紫微",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c097_wang_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c097_wang_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c097_wang_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "opposing_star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c097_wang_body",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c097_wang_assistants",
+        "condition": null,
+        "negated": true
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c097_wang_assistants",
+        "condition": null,
+        "negated": true
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "右弼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c097_wang_assistants",
+        "condition": null,
+        "negated": true
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "右弼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c097_wang_assistants",
+        "condition": null,
+        "negated": true
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "紫殺帶威權",
+        "proposed_category": "source_pattern",
+        "reason": "来源格局未注册，不猜成另一canonical",
+        "english_surface": "Zi Sha Dai Wei Quan",
+        "scope_id": "c097_term0"
+      },
+      {
+        "surface": "雙星殺破狼",
+        "proposed_category": "source_star_group",
+        "reason": "原组合描述，不把所有成员同宫",
+        "english_surface": "double-star Sha Po Lang",
+        "scope_id": "c097_term1"
+      },
+      {
+        "surface": "家電火亨",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原标题火字保留，不改为大或巨",
+        "english_surface": "appliance case title OCR",
+        "scope_id": "c097_term2"
+      },
+      {
+        "surface": "空劫",
+        "proposed_category": "source_star_group",
+        "reason": "共同冲击用语，不擅定两星具体位置",
+        "english_surface": "Kong Jie",
+        "scope_id": "c097_term3"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "火星",
+      "陀罗",
+      "紫微",
+      "贪狼",
+      "天钺",
+      "左辅",
+      "右弼",
+      "地空"
+    ],
+    "star_pairs_mentioned": [
+      "天魁天钺"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "knowledge_domains": [
+      "格局解析",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ]
+  }
+}

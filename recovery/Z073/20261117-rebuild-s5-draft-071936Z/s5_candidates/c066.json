@@ -1,0 +1,480 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c066",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    92
+  ],
+  "chunk_text": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。武曲五行屬金，而辰宮為墓庫，五行則屬土，故武曲坐入辰宮，因宮星相生而有土生金作用，會凸顯出金的「内聚」特性，再加上三合的祿存除能強化武曲的財星作用外，對武曲亦有增旺及增穩作用，此時若無煞星或忌星來沖，反而會造成武曲坐命在辰宮者的行事太過穩健、保守，就較不利於開創。因此，癸年生人的貪狼化忌，對武曲因有沖動作用，反",
+  "chunk_index": 66,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "癸年武曲辰宫坐命，破军化禄、贪狼化忌，禄存入财帛子宫。作者以辰土生武曲金及三合禄存说明财利、稳定性增强，并指出无煞忌冲动时可能过度保守，不利开创。末尾贪狼化忌作用句残缺，不补其结论。",
+  "summary_en": "For a Gui-year birth, Wu Qu occupies the Life Palace at Chen, Po Jun transforms to Lu, Tan Lang to Ji, and Lu Cun occupies the Wealth Palace at Zi. The author attributes strengthened financial capacity and stability to Chen Earth generating Wu Qu Metal and Lu Cun in trine. Without malefic or adverse-transforming stars to stimulate it, this stability can become excessive conservatism and hinder initiative. The final sentence about Tan Lang Hua Ji is incomplete and its missing conclusion is not reconstructed.",
+  "keywords": [
+    "武曲",
+    "辰宫",
+    "禄存",
+    "稳定",
+    "保守"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Life Palace",
+    "Chen",
+    "Lu Cun",
+    "Wealth Palace",
+    "conservatism"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c066_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c066_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c066_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "quote": "武曲在辰坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c066_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "quote": "破軍化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c066_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 21,
+          "quote": "貪狼化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c066_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 24,
+          "end": 32,
+          "quote": "祿存坐入財帛子宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c066_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "quote": "武曲在辰坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c066_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 28,
+          "end": 32,
+          "quote": "財帛子宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c066_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 38,
+          "end": 44,
+          "quote": "武曲五行屬金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c066_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 21,
+          "quote": "破軍化祿，貪狼化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c066_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 111,
+          "quote": "強化武曲的財星作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c066_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 73,
+          "end": 76,
+          "quote": "土生金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c066_gui",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 38,
+          "quote": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c066_gui",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 38,
+          "quote": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c066_gui",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 38,
+          "quote": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c066_gui",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 38,
+          "quote": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "末句止于反，结论未完；仅此前完整命例及五行稳定性讨论可用，不借相邻块补字。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 170,
+        "quote": "武曲在辰坐命，癸年生人，破軍化祿，貪狼化忌，並有祿存坐入財帛子宮（盤二十）。武曲五行屬金，而辰宮為墓庫，五行則屬土，故武曲坐入辰宮，因宮星相生而有土生金作用，會凸顯出金的「内聚」特性，再加上三合的祿存除能強化武曲的財星作用外，對武曲亦有增旺及增穩作用，此時若無煞星或忌星來沖，反而會造成武曲坐命在辰宮者的行事太過穩健、保守，就較不利於開創。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c066_gui",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c066_gui",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "土生金",
+        "proposed_category": "source_mechanism",
+        "reason": "五行生克论述，不伪造未注册关系",
+        "english_surface": "Earth generates Metal",
+        "scope_id": "c066_term0"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "贪狼",
+      "禄存"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "破军",
+        "transformation": "化禄",
+        "tiangan": "癸",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c066_gui"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "tiangan": "癸",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c066_gui"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

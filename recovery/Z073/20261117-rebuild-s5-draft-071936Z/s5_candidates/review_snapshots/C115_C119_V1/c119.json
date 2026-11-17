@@ -1,0 +1,660 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c119",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    152,
+    153
+  ],
+  "chunk_text": "又，水的這種受外力就「易動」的本質，加上前述水性呈「靜」與呈「動」的特性，會造成天同坐命者在個性上的多變化。其實不只天同如此，凡是屬水星曜坐命者，大致都有這種特質。即屬水星曜坐命宮的人，個性都有難以捉摸的一面，即使是關係密切的親人和他相處一輩子，也不一定能了解。例如破軍在古傳賦文有「破軍一曜性難明」的說法，為何性難明，因為破軍五行屬水，性格上「波動」的很厲害，加上破軍另主「變動」的賦性作用，故破軍坐命宮的人，外人根本很難抓住他的個性。但同樣是性格令人難以捉摸，天同屬性為陽而陽主外顯，破軍屬性為陰而陰主內斂，故破軍坐命者的個性就較天同坐命者更難以掌握。\n就斗數甲級星曜在命盤的排列組合而言，天同坐守宮位的三方四正的星曜為天機、天梁、太陰及巨門四種，除巨門外，均為南斗柔星。再者，天同坐命者其事業宮必定有天機坐入，此時再坐會天梁的比例也很高。即天同坐命者的星曜組合是以天同、天機二星曜為主，其次再加上天梁等其他的星曜。由於天機屬木為善星，得天同水來相生後，更能發揮其善星的本質，而天梁為蔭星亦帶有善星的作用，故天同坐命者只要會少煞星，其人心地大概都還不差，若再加會吉星，就更能凸顯其善良仁慈的正面作用。\n在天機星部份曾提及，任一星曜只要是旺宮坐命者，不論是否會有吉星，就可以推斷此人的聰明才智應不會太差，若再坐會昌曲魁鉞及化科等吉星，就會更加聰明，天機星如此，天同星也是如此。\n若再細察甲級星曜在命盤的排列組合，可以觀察到，除巨門天同在丑未二宮坐命者外，天同在其他宮位坐命者，若不是本身坐會機梁，就是事業宮坐會機梁。在天機星部份曾指出，機梁組合的人的學習能力強，因此可以推斷天同坐命者的學習能力也強，此時若再加會昌曲，並有適當的學習環境，不但會造就此人學識好，且在文字的表達能力亦佳，此即賦文所說「有機樞」及「精通文墨」的來由。",
+  "chunk_index": 119,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者以天同阳水与破军阴水解释性格难测程度差异。天同坐命时事业宫有天机，少煞及吉星支持强化善性；旺宫会昌曲魁钺、化科可增聪明，学习与文墨还须环境支持。巨门天同丑未及本身或事业宫会机梁的备择均不定成单一实盘。",
+  "summary_en": "The author contrasts Tian Tong’s Yang Water with Po Jun’s Yin Water to explain differing degrees of unpredictability. With Tian Tong in Life, Tian Ji occupies Career; few malefics and benefic support are said to favor kindness. Strong Life placements meeting Wen Chang–Wen Qu, Tian Kui–Tian Yue and Hua Ke are associated with intelligence, while learning and writing also require an appropriate environment. The Chou/Wei Ju Men–Tian Tong case and the alternative Life-or-Career Ji Liang configurations are not collapsed into one actual chart.",
+  "keywords": [
+    "天同",
+    "破军",
+    "天机事业宫",
+    "学习能力",
+    "机梁备择"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Po Jun",
+    "Tian Ji in Career",
+    "learning aptitude",
+    "alternative Ji Liang configurations"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 40,
+          "end": 44,
+          "quote": "天同坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 133,
+          "end": 140,
+          "quote": "破軍在古傳賦文"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 312,
+          "end": 317,
+          "quote": "天機、天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 312,
+          "end": 317,
+          "quote": "天機、天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 318,
+          "end": 323,
+          "quote": "太陰及巨門"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 318,
+          "end": 323,
+          "quote": "太陰及巨門"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 555,
+          "end": 561,
+          "quote": "坐會昌曲魁鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 555,
+          "end": 561,
+          "quote": "坐會昌曲魁鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 40,
+          "end": 44,
+          "quote": "天同坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 347,
+          "end": 357,
+          "quote": "事業宮必定有天機坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c119_pojun",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 198,
+          "end": 205,
+          "quote": "破軍坐命宮的人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c119_tong_career",
+        "kind": "conditional",
+        "condition": "天同坐命者其事業宮必定有天機坐入",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 341,
+          "end": 357,
+          "quote": "天同坐命者其事業宮必定有天機坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c119_tong_career",
+        "kind": "conditional",
+        "condition": "天同坐命者其事業宮必定有天機坐入",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 341,
+          "end": 357,
+          "quote": "天同坐命者其事業宮必定有天機坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c119_excluded_chouwei",
+        "kind": "conditional",
+        "condition": "除巨門天同在丑未二宮坐命者外",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 613,
+          "end": 627,
+          "quote": "除巨門天同在丑未二宮坐命者外"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c119_intellect",
+        "kind": "conditional",
+        "condition": "任一星曜只要是旺宮坐命者，不論是否會有吉星，就可以推斷此人的聰明才智應不會太差，若再坐會昌曲魁鉞及化科等吉星，就會更加聰明",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 513,
+          "end": 574,
+          "quote": "任一星曜只要是旺宮坐命者，不論是否會有吉星，就可以推斷此人的聰明才智應不會太差，若再坐會昌曲魁鉞及化科等吉星，就會更加聰明"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c119_intellect",
+        "kind": "conditional",
+        "condition": "任一星曜只要是旺宮坐命者，不論是否會有吉星，就可以推斷此人的聰明才智應不會太差，若再坐會昌曲魁鉞及化科等吉星，就會更加聰明",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 639,
+          "end": 658,
+          "quote": "若不是本身坐會機梁，就是事業宮坐會機梁"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 232,
+          "end": 255,
+          "quote": "天同屬性為陽而陽主外顯，破軍屬性為陰而陰主內斂"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 304,
+          "end": 308,
+          "quote": "三方四正"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 297,
+          "end": 325,
+          "quote": "天同坐守宮位的三方四正的星曜為天機、天梁、太陰及巨門四種"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c119_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [
+      "三方四正"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c119_pojun",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c119_tong_career",
+        "negated": false,
+        "condition": "天同坐命者其事業宮必定有天機坐入"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c119_tong_career",
+        "negated": false,
+        "condition": "天同坐命者其事業宮必定有天機坐入"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c119_excluded_chouwei",
+        "negated": false,
+        "condition": "除巨門天同在丑未二宮坐命者外"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "機梁",
+        "proposed_category": "source_combination",
+        "reason": "本身或事业宫备择不可改为两宫都同宫。",
+        "english_surface": "Ji Liang",
+        "scope_id": "c119_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "破军",
+      "天机",
+      "天梁",
+      "太阴",
+      "巨门"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化科",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c119_intellect"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "文昌文曲",
+      "天魁天钺"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

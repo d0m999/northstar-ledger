@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c115",
+      "candidate_sha256": "69224fd7f5511996b5d4db5f5ab5fd636aab4bd3e5535f0cac420f93aa6f5ac7",
+      "decision": "expressible_accepted_hold_retained",
+      "repair_findings": "两同宫证据加完整天同主语、方法补齐。",
+      "six_axis": "V1全文全字段六轴+V2所有差异上下文实读；源正文/双语/资格未改变",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c116",
+      "candidate_sha256": "1a298024045b78c9f6d31567efa6cf9e1d93480fdb84c4e64a1cfb5b8c3a466b",
+      "decision": "expressible_accepted_hold_retained",
+      "repair_findings": "吉煞组合方法补齐，OR及未明禄星hold继续。",
+      "six_axis": "V1全文全字段六轴+V2所有差异上下文实读；源正文/双语/资格未改变",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c117",
+      "candidate_sha256": "09bd2e79e3358fa2ef6ee07279224e5b53b69e011aefb0c26a984dff70eb41a1",
+      "decision": "accepted",
+      "repair_findings": "未改，与V1全文审查一致。",
+      "six_axis": "V1全文全字段六轴+V2所有差异上下文实读；源正文/双语/资格未改变",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c118",
+      "candidate_sha256": "01ff974e1491b2b50cd82c462c31d58f2471eaa7ea988d6fdcbe7d19864a8ab8",
+      "decision": "expressible_accepted_hold_retained",
+      "repair_findings": "格局方法补齐，天机或贪狼OR不强配。",
+      "six_axis": "V1全文全字段六轴+V2所有差异上下文实读；源正文/双语/资格未改变",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c119",
+      "candidate_sha256": "83de6c2929c16fea5e706c459c50ca9803c321cb277036431810b0d6a883fc22",
+      "decision": "expressible_accepted_hold_retained",
+      "repair_findings": "被排除子群本身的正向条件修正，完整排除句证据仍保，化科方法补齐。",
+      "six_axis": "V1全文全字段六轴+V2所有差异上下文实读；源正文/双语/资格未改变",
+      "human_acceptance": false
+    }
+  ],
+  "snapshot_policy": "pre-review immutable bytes",
+  "human_acceptance": false,
+  "ordinary_returns": 0,
+  "120_124_reviewed": false
+}

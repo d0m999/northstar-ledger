@@ -1,0 +1,11 @@
+{
+  "event": "Accidental search output included historical repository original05 annotation snippets",
+  "phase": "S5 independent review of C125-C129, after V1 before V2",
+  "cause": "Coordinator searched whole frozen_package for time_context rules instead of restricting rules directory; rg followed input JSONL within package.",
+  "visible_old_ids": ["ziyun_fuxing_v2_c016", "ziyun_fuxing_v2_c076"],
+  "exposure_extent": "Result was truncated; displayed output included historical annotation fields and other matching original05 rows may be in returned result. No exhaustive exposure count claimed.",
+  "effect_on_claims": "No blind annotation claim. Historical reports before this event are retained as time-bounded claims; future coordinator reports must not claim original05 never read.",
+  "not_used_as_evidence": true,
+  "current_rule_basis": "rules/QUALITY_REVISION_4.md line7 explicitly requires scalar time_context null when multiple objects/contexts; no historical label used for this conclusion.",
+  "containment": "Future rule searches restricted to frozen_package/rules and explicit docs, never whole package or inputs. Do not transmit old labels to authors or copy to candidates. Root informed."
+}

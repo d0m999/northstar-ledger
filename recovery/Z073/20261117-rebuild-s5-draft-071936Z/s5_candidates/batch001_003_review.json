@@ -1,0 +1,153 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "scope": "current 293-chunk run C001-C003 only; not historical 483",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "schema_validation": "all three frozen validate_annotation_output passed; not semantic acceptance",
+  "old_05_labels_read": false,
+  "formal_05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "candidate_file": "c001.json",
+      "candidate_sha256": "ae18518d906432b7a0475bdce10a366a10482750503794da53ade666fa38bdab",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句比对本块正文；领域/星曜/宫位/来源术语及主论点保留。剩余细节判断列入疑点供独立审查。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "每非空领域字段附精确Unicode原文span、scope、attribution；关系对象及条件同记录，不跨块继承。 独审返修：删除不成立的禄存天马pair及证据，重排后续索引。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "没有明确可注册时间对象；不把泛称限运当大限，不默填本命；time_context=null/not_mentioned。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C001章节导言为概念解释；C002/C003主要给出带条件的判读规则，归实战断语；均非实际命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "摘要与关键词非空且无CJK；逐项核主要星曜、宫位、条件、否定和来源术语；未注册用语罗马化，不造canonical。 依已标身命财宅补英文宫位关键词。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "正文/source字段保持04。完整可读，eligible；不以模型未表达事实降资格。"
+        }
+      },
+      "remaining_questions": [
+        "章节导言不是完整案例：女命与王永庆仅预告，不输出案例、盘类或时间对象。",
+        "「寡宿」「將星」是武曲属性，不当成独立同名小星。武貪/武殺/武破只名称提及，未自动造同宫关系。",
+        "修订：删除禄存天马pair，祿馬交馳非该pair显式alias且未明确禄存；原赋文未注册项与原意双语保留。魁鉞仍须按提及级语义复核。",
+        "六则赋文目前保留未注册来源格局名称和提及级宫位/星对，未将名称内规则自动扩充成已成格；独审须判断是否还需引用级入宫关系。",
+        "原文「加以述」疑似残字；不补正文、不影响可读章节导言。"
+      ],
+      "source_fields_exact": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "candidate_file": "c002.json",
+      "candidate_sha256": "bd9e7a1028a4e7443f016ef61403d62239fec971c9b6b57591b5751d9478b14a",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "blocked",
+          "notes": "逐句比对本块正文；领域/星曜/宫位/来源术语及主论点保留。备选宫位关系保留阻塞，不称完整表达。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "blocked",
+          "notes": "每非空领域字段附精确Unicode原文span、scope、attribution；关系对象及条件同记录，不跨块继承。 紫微仅回指证据usage改mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "没有明确可注册时间对象；不把泛称限运当大限，不默填本命；time_context=null/not_mentioned。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C001章节导言为概念解释；C002/C003主要给出带条件的判读规则，归实战断语；均非实际命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "摘要与关键词非空且无CJK；逐项核主要星曜、宫位、条件、否定和来源术语；未注册用语罗马化，不造canonical。 福德宫规范为词典Fortune Palace；紫微仅回指，未增为摘要主旨。 专项独审修正：fallen指武曲在财帛宫陷，不指财帛宫本体。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "正文/source字段保持04。完整可读，eligible；不以模型未表达事实降资格。"
+        }
+      },
+      "remaining_questions": [
+        "BLOCKED:「武曲財星坐入命宮或財帛宮」明确备选宫位；relation_type星曜入宫只能二参与者，无OR分支联结。草稿仅记录前文独立明确的命宫/财帛宫条件规则，不伪造本句两宫同占。",
+        "BLOCKED:「最喜與祿存同度於田財之宮」田财为宫位集合/候选，不擅自拆为两处同时同宫；当前同宫结构无法说明同一规则的可选承载宫。后文独立明确的财宫同坐规则可表达，已记录。",
+        "化祿或祿存保留原文OR条件；化禄只标明确提及、star=null/not_mentioned，未凭邻近武曲绑定。化忌对象受上下文提示但非明确归属，star=null/ambiguous，不强绑武曲或禄存。",
+        "源质量eligible与表达阻塞独立，不以limited绕过缺口。完整中文/英文摘要仍保留原文全部主要约束。"
+      ],
+      "source_fields_exact": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "candidate_file": "c003.json",
+      "candidate_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句比对本块正文；领域/星曜/宫位/来源术语及主论点保留。剩余细节判断列入疑点供独立审查。 独审返修：中文摘要仅述本块金性，删除本块未出现的阴字。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "每非空领域字段附精确Unicode原文span、scope、attribution；关系对象及条件同记录，不跨块继承。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "没有明确可注册时间对象；不把泛称限运当大限，不默填本命；time_context=null/not_mentioned。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C001章节导言为概念解释；C002/C003主要给出带条件的判读规则，归实战断语；均非实际命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "摘要与关键词非空且无CJK；逐项核主要星曜、宫位、条件、否定和来源术语；未注册用语罗马化，不造canonical。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "正文/source字段保持04。C003仅完整前730字可用，后38字不作结论。"
+        }
+      },
+      "remaining_questions": [
+        "原文末尾38字断于「必須在旺宮且會」；limited usable_span=[0,730]，所有证据与条件在完整部分内。",
+        "寅/申/巳/亥保留为同宫关系participant.location，未冒充十二人事宫canonical。各位置旺陷区别放原文证据及双语摘要，不发明状态schema。",
+        "将星得地格未注册；保留来源名与旺宫守命条件，不假用其他pattern canonical。",
+        "武曲单星无弱陷与武破亥陷不同对象，不判来源自相矛盾。宫位旺陷与吉煞效应不是现有命名relation类型，无独立效应字段；忠实证据/摘要保留，待独审判断覆盖充分性。"
+      ],
+      "source_fields_exact": true,
+      "human_acceptance": false
+    }
+  ],
+  "revision": "V3 English-anchor microrevision; no domain facts changed"
+}

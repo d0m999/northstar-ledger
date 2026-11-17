@@ -1,0 +1,152 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c042",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    70
+  ],
+  "chunk_text": "註九：有關王永慶先生的命理解析，請參閲紫雲著《斗數論田宅》（此書於一九九三年由時報出版社出版，後於二O一二年再由武陵出版社出版）書中「從田宅宮談家產-析論家產自創與繼承之別」乙文。\n註十：有關十天干的陰陽相生相剋解說部份，係取材自芷人著《陰陽五行及其體系》一書中第八章第三節「五運的原理」的部份內容，此書係由文津出版社於一九九二年出版。\n",
+  "chunk_index": 42,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "两条文献注释分别指向紫云《斗数论田宅》中王永庆家产自创与继承分析，以及芷人《阴阳五行及其体系》关于十天干阴阳生克的章节。出版年份仅属书目信息，不作为命例时间或行运。",
+  "summary_en": "Two bibliographic notes identify Zi Yun’s Dou Shu Lun Tian Zhai, discussing Wang Yung-ching and inherited versus self-created property, and Zhi Ren’s Yin Yang Wu Xing Ji Qi Ti Xi, explaining heavenly-stem generation and overcoming. Publication years are bibliographic dates, not chart events or fortune-cycle evidence.",
+  "keywords": [
+    "阴阳",
+    "五行",
+    "作者观点"
+  ],
+  "keywords_en": [
+    "Yin Yang",
+    "Five Elements",
+    "attributed explanation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c042_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c042_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c042_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释（紫云及芷人著作引文题旨）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 68,
+          "end": 71,
+          "quote": "田宅宮"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c042_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释（紫云及芷人著作引文题旨）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 77,
+          "end": 86,
+          "quote": "家產自創與繼承之別"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c042_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释（紫云及芷人著作引文题旨）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 96,
+          "end": 108,
+          "quote": "十天干的陰陽相生相剋解說"
+        }
+      ],
+      "usage": "mentioned"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c042_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书文献注释（紫云及芷人著作引文题旨）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 100,
+          "end": 106,
+          "quote": "陰陽相生相剋"
+        }
+      ],
+      "usage": "mentioned"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "陰陽相生相剋",
+        "proposed_category": "bibliographic_subject",
+        "reason": "这里只是引用文献题旨，不表明本块使用了某受控分析方法",
+        "english_surface": "Yin Yang generation and overcoming",
+        "scope_id": "c042_term0"
+      }
+    ],
+    "palaces_mentioned": [
+      "田宅宫"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "knowledge_domains": [
+      "推测技法"
+    ]
+  }
+}

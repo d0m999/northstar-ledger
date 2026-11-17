@@ -1,0 +1,113 @@
+{
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c093",
+      "candidate_sha256": "95630a01510b4f3fcb897e0c61594531485fc87d322f8f9f1d035f945f2f6748",
+      "ordinary_fix_accepted": true,
+      "typed_hold_retained": true,
+      "full_six_axis_review": false,
+      "exact_added_evidence": [
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c93_crossref",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 129,
+              "quote": "有關武曲坐命逢廉貞的命理作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reason": "Source crossreference WuQu-Life only, not LianZhen-Life",
+      "mechanical_validation": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c094",
+      "candidate_sha256": "6cb7c9b1faa3dce326c57793d85df3b62fee0b449076c703d5e1b42c85f7b226",
+      "ordinary_fix_accepted": true,
+      "typed_hold_retained": true,
+      "full_six_axis_review": false,
+      "exact_added_evidence": [
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c94_case_intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 162,
+              "end": 198,
+              "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c94_case_intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 162,
+              "end": 198,
+              "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c94_case_intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 162,
+              "end": 198,
+              "quote": "但為增進讀者對武破坐命者的命理現象，有深一層的了解，茲舉下列二命例說明之"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reason": "Author preview WuQu/PoJun-Life and same palace, not assignment of the old quoted split-body-Life case",
+      "mechanical_validation": true
+    }
+  ],
+  "old05_read": false,
+  "schema_modified": false,
+  "whole_source_S5_S6_passed": false
+}

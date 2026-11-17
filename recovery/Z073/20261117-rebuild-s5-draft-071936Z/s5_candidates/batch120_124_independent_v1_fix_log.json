@@ -1,0 +1,32 @@
+[
+  {
+    "chunk": 120,
+    "old_sha256": "77515dc1c828b6c076850277e6fe2a8c3cdb702a8c1c42c7d9415c5378326455",
+    "new_sha256": "32a49206dd6dc2b03f9fe8fca48dd53bc77fdce94a4cc4aa13fdec60b471e4d8",
+    "double_validation": "passed"
+  },
+  {
+    "chunk": 121,
+    "old_sha256": "cc5ff0b4e983382bdd778052771ab12b294bb1632de412f340ace43e88738d4a",
+    "new_sha256": "24e2b70a9ca52a93ec0b8b735b31917b084d2ea01a0f1bea0db12ad5f33ccd05",
+    "double_validation": "passed"
+  },
+  {
+    "chunk": 122,
+    "old_sha256": "c061abee421f201ef2a9f2f69b59020f319657d962a12e06e6aed55187b55a0d",
+    "new_sha256": "0d77d2f119caba0c42bcb4e9a1eab00f31406c8fd2cfd306bb1e0cfc3932282b",
+    "double_validation": "passed"
+  },
+  {
+    "chunk": 123,
+    "old_sha256": "4dd7947ba84814bd5b3ec14ca9b3bf955a9a8c2c4efb24bd6b695ca0c456348c",
+    "new_sha256": "29e82e40d37020fd0971b544abb1206cd8fdb6c0b4badf3ef9152047701db504",
+    "double_validation": "passed"
+  },
+  {
+    "chunk": 124,
+    "old_sha256": "70c9daea64bb0c01359bfb462a9a897b99998389f5aed617e783516832f09bb3",
+    "new_sha256": "20c956ef24740829d97a2ee9ed7eb801beeb91422e748eb4c1703811c6ddd329",
+    "double_validation": "passed"
+  }
+]

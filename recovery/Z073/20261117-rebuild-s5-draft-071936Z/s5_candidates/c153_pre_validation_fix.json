@@ -1,0 +1,877 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c153",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    197,
+    198
+  ],
+  "chunk_text": "先賢曰：「入田宅可積蓄，近有水道，水溝，井泉，水坑，或低淫之地，皆以吉論之。」古傳論命把田宅宮視為一個人的住家宅位，並認為可由田宅宮來論其住家環境。由於天同五行屬水，而在風水上認為水能聚財，當天同坐守田宅宮，除能聚財外，亦代表居家附近有河流或與水有關的地形，且皆以吉論，這就是上述賦文的依據所在。\n有關田宅宮的命理作用，在太陽星中已有過解說，即田宅宮的作用僅代表一個命造者在這宮位方面的一種「意識型態」，會顯現出此人對有關田宅宮方面的觀念、想法與做法。但命理上論及住家環境時，應依實際住家方位，來論吉凶及可能發生的遭遇，不可僅憑田宅宮的星曜組合就遽而論之。\n因此有關一個人的住家環境，必須根據房子的方位對應到命造者命盤的宮位，才能作出正確的推斷，而此宮位即為房子在命造者命盤的太歲宮位，此亦為太歲入宮法的應用。（註十三）一般說來，凡是房子坐入的宮位，不論星曜為何，若為旺宮，代表房子所處的地勢較飽滿，反之則較為低窪。\n\n若以盤十三的例子而言，假設命造買了一間坐西朝東的房子，即房子坐入酉宮，則代表房子的地勢可能較高，此乃因酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故。\n同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位，此時同樣是坐西朝東的房子，不但房子的地勢可能較低，而且各種與水有關的問題都較會出現，如房子漏水等。\n註十三：關於建築物方位問題，請參見紫雲著《斗数論田宅》（此書於一九九三年由時報出版社出版，後於二0一二年再由武陵出版社出版）書中「導論」一文中的方位篇及書中的相關文章。",
+  "chunk_index": 153,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_language": "zh",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "古说以天同田宅聚财邻水，作者则强调宫位意识型态不能代替实际房屋方位。盘十三坐西朝东对应酉，天同得禄存和巨门禄转旺，地势可能高；盘十四庚天同忌同羊转弱，同向房屋可能低洼漏水。属来源方位推断，不以古引文直接保证环境。",
+  "summary_en": "The classical verse associates Tian Tong in Property with savings and nearby water. The author instead distinguishes palace attitudes from actual house orientation. In Chart Thirteen, a west-seated, east-facing house corresponds to You; Lu Cun and Ju Men Hua Lu strengthen Tian Tong, suggesting higher ground. In Chart Fourteen, Geng Tian Tong Hua Ji with Qing Yang weakens the placement, suggesting lower terrain and possible water problems for the same orientation. These are qualified source interpretations, not guaranteed environmental findings.",
+  "keywords": [
+    "天同",
+    "田宅宫",
+    "太岁入宫法",
+    "房屋方位",
+    "巨门化禄",
+    "庚年化忌"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Property Palace",
+    "Tai Sui Ru Gong Fa",
+    "house orientation",
+    "Ju Men Hua Lu",
+    "Geng Hua Ji"
+  ],
+  "topic": "房产田宅",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 73,
+          "quote": "住家環境"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 73,
+          "quote": "住家環境"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 94,
+          "quote": "水能聚財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 172,
+          "end": 178,
+          "quote": "田宅宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 471,
+          "end": 475,
+          "quote": "巨門化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 346,
+          "end": 354,
+          "quote": "太歲入宮法的應用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 518,
+          "end": 528,
+          "quote": "天同化忌並有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 482,
+          "end": 489,
+          "quote": "由平宮轉為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 44,
+          "end": 47,
+          "quote": "田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 82,
+          "quote": "天同五行屬水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 170,
+          "quote": "太陽星中已有過解說"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 468,
+          "end": 475,
+          "quote": "祿存及巨門化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 468,
+          "end": 475,
+          "quote": "祿存及巨門化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 518,
+          "end": 528,
+          "quote": "天同化忌並有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "classical_property",
+        "kind": "conditional",
+        "condition": "當天同坐守田宅宮，除能聚財外，亦代表居家附近有河流或與水有關的地形，且皆以吉論",
+        "attribution": "作者对古传田宅说的解释"
+      },
+      "spans": [
+        {
+          "start": 95,
+          "end": 134,
+          "quote": "當天同坐守田宅宮，除能聚財外，亦代表居家附近有河流或與水有關的地形，且皆以吉論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "chart13",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 491,
+          "quote": "酉宮的天同得到祿存及巨門化祿的雙重吉化後，由平宮轉為旺宮之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "chart14",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "chart14",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "chart14",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "chart14",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "chart14_colocation",
+        "kind": "conditional",
+        "condition": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "chart14",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 493,
+          "end": 542,
+          "quote": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 346,
+          "end": 351,
+          "quote": "太歲入宮法"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 429,
+          "end": 433,
+          "quote": "坐西朝東"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化",
+      "四化星",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "房产田宅",
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "田宅宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "classical_property",
+        "negated": false,
+        "condition": "當天同坐守田宅宮，除能聚財外，亦代表居家附近有河流或與水有關的地形，且皆以吉論"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "affected_star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "chart13",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "chart14_colocation",
+        "negated": false,
+        "condition": "同樣是天同在酉的命盤（盤十四），因命造為庚年生人，天同化忌並有擎羊同踞，使得天同由平宮變成弱陷宮位"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "affected_star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "chart14",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮法",
+        "proposed_category": "source_method",
+        "english_surface": "Tai Sui Ru Gong Fa",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "坐西朝東",
+        "proposed_category": "house_orientation",
+        "english_surface": "west-seated east-facing",
+        "reason": "房屋方位对酉太岁宫，不等于酉田宅宫",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "stars_mentioned": [
+      "天同",
+      "太阳",
+      "禄存",
+      "巨门",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "田宅宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "巨门",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart13"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": "庚",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart14"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "star_interactions_mentioned": [],
+    "chart_type": null,
+    "knowledge_domain": null,
+    "school_variant": null,
+    "time_context": null
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

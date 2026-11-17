@@ -1,0 +1,383 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c098",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    125
+  ],
+  "chunk_text": "陀火天破武羅星虚軍曲乙天馬已 命宮6-15鈴星祿存太陽丙天貴午父母擎華羊地天白天府劫哭虎蓋丁未福德天刑太天陰機祿科恩光戊申田宅大陰天耗煞同權八紅甲座鸞辰兄弟16-25地官左空符輔男命天鉞食紫狼微己酉事業身寡宿巨門忌\n\n年大運辛未年丁亥\n\n年\n\n月\n\n癸龍池卯 夫妻26-35火壬寅5歲\n\n局\n\n日中三封天庚台誥喜戌僕役76-85時孤文昌辰天台壬官輔喪七廉門殺貞癸天咸文天姚池曲梁壬天右天相魁弼天鳳辛福閣寅子女36-45丑財帛46-55子疾厄56-65亥遷移66-75盤二十八武破在已旺宮坐命，身宮在酉亦強旺，但因行限不佳，再加上在事業上所扮演的角色及職骨均不符命理上好的一面，因此反倒去應了先賢所說的「武曲破軍，破祖、破家又勞碌」，",
+  "chunk_index": 98,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘二十八可读图说称武破在已旺宫坐命、身宫酉亦强，但行限和事业角色职责不利，反应武曲破军破祖破家劳碌的古说。已与职骨等疑字不改，不从混排复原巳宫或具体行限。",
+  "summary_en": "The readable Chart Twenty-Eight caption describes Wu Qu and Po Jun in a strong Life Palace and the Body Palace at You as strong. Unfavorable cycles and an unsuitable occupational role nevertheless fulfill the quoted adverse interpretation. The source character Yi, where a branch would be expected, and the damaged occupational wording are preserved; Si and particular cycles are not reconstructed from the mixed chart.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "命身",
+    "行业",
+    "行限"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Po Jun",
+    "Life Palace",
+    "Body Palace",
+    "occupation",
+    "timing"
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅末尾图说可用；已、职骨及结尾逗号保持，不从混排猜支位/时限。",
+    "usable_spans": [
+      {
+        "start": 233,
+        "end": 316,
+        "quote": "盤二十八武破在已旺宮坐命，身宮在酉亦強旺，但因行限不佳，再加上在事業上所扮演的角色及職骨均不符命理上好的一面，因此反倒去應了先賢所說的「武曲破軍，破祖、破家又勞碌」，"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c098_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c098_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c098_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 301,
+          "end": 305,
+          "quote": "武曲破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c098_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 301,
+          "end": 305,
+          "quote": "武曲破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c098_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 241,
+          "end": 245,
+          "quote": "旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c098_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 246,
+          "end": 250,
+          "quote": "身宮在酉"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c098_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 246,
+          "end": 260,
+          "quote": "身宮在酉亦強旺，但因行限不佳"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c098_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 246,
+          "end": 253,
+          "quote": "身宮在酉亦強旺"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c098_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 264,
+          "end": 274,
+          "quote": "在事業上所扮演的角色"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c098_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 239,
+          "end": 241,
+          "quote": "在已"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c098_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 275,
+          "end": 277,
+          "quote": "職骨"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c098_wang_caption",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 233,
+          "end": 316,
+          "quote": "盤二十八武破在已旺宮坐命，身宮在酉亦強旺，但因行限不佳，再加上在事業上所扮演的角色及職骨均不符命理上好的一面，因此反倒去應了先賢所說的「武曲破軍，破祖、破家又勞碌」，"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c098_wang_caption",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 233,
+          "end": 316,
+          "quote": "盤二十八武破在已旺宮坐命，身宮在酉亦強旺，但因行限不佳，再加上在事業上所扮演的角色及職骨均不符命理上好的一面，因此反倒去應了先賢所說的「武曲破軍，破祖、破家又勞碌」，"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c098_wang_caption",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 233,
+          "end": 316,
+          "quote": "盤二十八武破在已旺宮坐命，身宮在酉亦強旺，但因行限不佳，再加上在事業上所扮演的角色及職骨均不符命理上好的一面，因此反倒去應了先賢所說的「武曲破軍，破祖、破家又勞碌」，"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c098_wang_caption",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c098_wang_caption",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c098_wang_caption",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "在已",
+        "proposed_category": "ocr_uncertain",
+        "reason": "不把已自动修巳；正文保持原字",
+        "english_surface": "Zai Yi uncertain branch",
+        "scope_id": "c098_term0"
+      },
+      {
+        "surface": "職骨",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说字损不自动补职责",
+        "english_surface": "damaged occupational wording",
+        "scope_id": "c098_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "破军"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "knowledge_domains": [
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ]
+  }
+}

@@ -1,0 +1,2278 @@
+{
+  "task": "Clean full independent six-axis review C125–C129",
+  "created_utc": "2026-11-17T07:09:31.631323+00:00",
+  "method": "Read all source texts and all candidate top-level/domain/evidence fields before report. Independently assessed semantics, then validated against frozen runtime and exact new04. No coordinator prior review conclusions read or inherited.",
+  "exposure_boundary": {
+    "old05_read": false,
+    "coordinator_exposed_output_read": false,
+    "rules_search_restricted_to": "frozen_package/rules; explicit named review script only to reuse mechanical harness, not substantive decisions",
+    "candidate_provenance_limit": "Current candidate files reviewed as requested; this does not assert their authors or coordinator had no exposure. This reviewer received no old05 content."
+  },
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "immutable_manifest_sha256": "17b3c2653c25ed169cf2c66b4d3f0421e0d52912bb2f3eaed2a0935e0b2dbff4",
+  "rules_hashes": {
+    "CONTRACT.md": "f2e54fe3d6dc501b9ea937993f9db0f4fa81a797fa7ed15f8ac4b8c52dc57080",
+    "QUALITY_REVISION_4.md": "9091c8f3e63c5a516ac9d14f2f1039801a155c6d4a32078fc4e52d5eab1377c2",
+    "runtime/astrology_corpus/annotation/semantic_models.py": "70918976fed476f469875f1ae3c491c359371f073ece064a52573785e2355d3c",
+    "runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml": "c6c1fb12c960cc0b0c1aa84bf98d23e006df9ae2be864a00c26ca6ed3d99c699"
+  },
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c125",
+      "candidate_sha256": "1c4703e2ab3f60f4c99e34210ea38bcf51bad6762dc3e06de94b2a16480c51cc",
+      "snapshot_path": "preparation/clean_independent_125_repaired_snapshot/c125.json",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "c13f78168e41f63569859678034e02275d2bf2ede6f344b3d022bc1995a12a23",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "findings": [
+        "Career alternative is independently quoted as its own antecedent and correctly encoded; childhood first grand cycle and general TianTong cycle are separate subjects, so scalar null multiple_values is supported under QUALITY_REVISION_4 §1 even though both values are 大限.",
+        "General Yin/Shen co-location group not a single location. Existing adverse same-Life branch proves a separate valid conjunction and two Life placements, not the quoted branch-restricted rule. Meeting TianLiang/assistants does not imply all four co-located.",
+        "Ordinary bilingual coverage repair required: quoted Yin/Shen co-location and Yin preference absent from both summaries.",
+        "limited span 26:757 appropriately excludes orphan book reference, not representation difficulty."
+      ],
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Expressible facts and bilingual main locations complete; typed limitations retained, not full structural acceptance."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Canonical pair 左辅右弼 and stars supported; no meeting-to-conjunction conflation."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Two genuinely different time subjects, correct scalar null."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation, no actual chart invented."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main quoted branch locations/preference restored with attribution; all other prior bilingual facts preserved."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Valid limited orphan-prefix exclusion; all evidence inside usable span."
+        }
+      },
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 375,
+              "end": 382,
+              "quote": "天梁為「蔭」星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 672,
+              "quote": "同梁坐命者在會多煞星及忌星時"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 112,
+              "quote": "天同坐入事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 375,
+              "end": 382,
+              "quote": "天梁為「蔭」星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 439,
+              "end": 445,
+              "quote": "左輔右弼二星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 439,
+              "end": 445,
+              "quote": "左輔右弼二星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 439,
+              "end": 445,
+              "quote": "左輔右弼二星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 663,
+              "quote": "同梁坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 112,
+              "quote": "天同坐入事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 155,
+              "end": 160,
+              "quote": "不利於事業"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 66,
+              "quote": "蔭福聚不怕凶危"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 71,
+              "end": 73,
+              "quote": "寅申"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "tong_liang_life",
+            "kind": "conditional",
+            "condition": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 695,
+              "quote": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "life_天同",
+            "kind": "conditional",
+            "condition": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 695,
+              "quote": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "life_天梁",
+            "kind": "conditional",
+            "condition": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 695,
+              "quote": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 658,
+              "end": 695,
+              "quote": "同梁坐命者在會多煞星及忌星時，除非是會多吉星，否則不論年齡為何，皆以不好論"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "child_cycle",
+            "kind": "conditional",
+            "condition": "幼年在此是指第一大限",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 304,
+              "end": 314,
+              "quote": "幼年在此是指第一大限"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0.chart_type",
+          "scope": {
+            "scope_id": "child_cycle",
+            "kind": "conditional",
+            "condition": "幼年在此是指第一大限",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 304,
+              "end": 314,
+              "quote": "幼年在此是指第一大限"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 155,
+              "end": 160,
+              "quote": "不利於事業"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "independent_career_branch",
+            "kind": "conditional",
+            "condition": "上一賦文提到天同坐入事業宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 99,
+              "end": 112,
+              "quote": "上一賦文提到天同坐入事業宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "general_tong_cycle",
+            "kind": "conditional",
+            "condition": "上一賦文提到天同坐入事業宮或大限逢天同坐守時，不論男女，若天同會吉不會煞，會造成此人在事業上的心態傾向於安逸",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 99,
+              "end": 153,
+              "quote": "上一賦文提到天同坐入事業宮或大限逢天同坐守時，不論男女，若天同會吉不會煞，會造成此人在事業上的心態傾向於安逸"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true,
+        "limited_spans_checked": true
+      },
+      "current_hash_at_report": "1c4703e2ab3f60f4c99e34210ea38bcf51bad6762dc3e06de94b2a16480c51cc",
+      "human_acceptance": false,
+      "original_review_candidate_sha256": "a2a7768fc86be7117d720585fd8a7953d2829833c8c9cfcd89e3c0f923ef6f73",
+      "ordinary_fix_resolved": "Both summaries now explicitly attribute only Yin/Shen conjunction and Yin preference to the quotation. No other candidate fields changed.",
+      "reviewed_precise_hold_sidecar": {
+        "chunk_id": "dots_all_20261013_ziwei_073_c125",
+        "candidate_sha256": "1c4703e2ab3f60f4c99e34210ea38bcf51bad6762dc3e06de94b2a16480c51cc",
+        "status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+        "hold_type": "branch_location_group_or_context_alternatives",
+        "reason": "泛寅申二宫同处的仅集合限制未直接表示；引述天同事业宫或大限为不同场景，独立事业宫关系和一般大限对象已经补齐，不称这些仍漏。",
+        "schema_modified": false
+      },
+      "hold_sidecar_sha256": "9e4957de24394c60f7a348d7e28cc85ac2e4fc8bf28237ec2be049c3c6b7daf2"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c126",
+      "candidate_sha256": "e75fdfcdfc790b05ce404ee18093432a786fc0b2b10981af5891b8e0280612f1",
+      "snapshot_path": "preparation/clean_independent_125_129_snapshot/c126.json",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "8ee017cafd69d292240c6c9936c41643092a6e0bb18dbfc032a1a7c11ef12197",
+      "decision": "accepted_independent_six_axis",
+      "findings": [
+        "No typed location gap: actual two-star conjunction has conditional scope and attribution to author explanation of prior verses. No unregistered pattern promoted.",
+        "Source-author denial of automatic safety retained in both languages; not converted to negated conjunction."
+      ],
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Verse variants and conditional conjunction covered."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Conditional positive relation does not assert immunity."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No time object present."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main stars, conditional safety denial retained."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Complete eligible prose."
+        }
+      },
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 121,
+              "end": 130,
+              "quote": "一為蔭星，一為福星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 191,
+              "quote": "仍須視會吉會煞的多寡而定"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 113,
+              "end": 120,
+              "quote": "天梁及天同二星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 113,
+              "end": 120,
+              "quote": "天梁及天同二星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "quoted_samepalace",
+            "kind": "conditional",
+            "condition": "天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守",
+            "attribution": "作者解释古赋，后文限定吉煞条件"
+          },
+          "spans": [
+            {
+              "start": 113,
+              "end": 140,
+              "quote": "天梁及天同二星，一為蔭星，一為福星，只要此二星同宮坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 191,
+              "quote": "仍須視會吉會煞的多寡而定"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 7,
+              "quote": "蔭福聚不怕凶危"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 68,
+              "end": 75,
+              "quote": "蔭福臨不怕凶沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 88,
+              "end": 97,
+              "quote": "福蔭聚會，那怕凶危"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true,
+        "limited_spans_checked": true
+      },
+      "current_hash_at_report": "e75fdfcdfc790b05ce404ee18093432a786fc0b2b10981af5891b8e0280612f1",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c127",
+      "candidate_sha256": "0c743a11245629c5c19d80d502e61e732fe3b84f695093abbd8446e944e5f164",
+      "snapshot_path": "preparation/clean_independent_125_129_snapshot/c127.json",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "681058336033f1f82a613138fa4663a07f32c257ecb95f6ca34fd4821d080f41",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "findings": [
+        "The independent original Yin and Shen clauses support exact per-branch conjunction participants. Group location ambiguity is therefore not grounds to discard/hold these positive branch facts.",
+        "Remaining narrower gap: no trine/meeting relation exists for TianJi/TaiYin; prose and keywords retain strength comparison. General only-Yin-or-Shen restriction cannot be represented as typed exhaustive location-set constraint, unlike two independently supported positive branch conjunctions.",
+        "No borrowed location for TianJi/TaiYin; quoted LianZhen Life and gender-neutral conditional TianTong Life retained without endorsing gendered morality."
+      ],
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Positive Yin/Shen branches covered; typed trine/exhaustive-set gap distinct."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Exact individual locations from separate clauses, no OR copied to both objects."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No age/year object assumed."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Strength comparison and gender critique retained."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Complete eligible prose."
+        }
+      },
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 325,
+              "end": 336,
+              "quote": "其為人行事較能隨遇而安"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 67,
+              "end": 79,
+              "quote": "同梁在寅就比在申來得旺些"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 242,
+              "end": 246,
+              "quote": "天同坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 2,
+              "end": 12,
+              "quote": "同梁僅在寅申二宮同度"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 35,
+              "quote": "天機及太陰"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 30,
+              "end": 35,
+              "quote": "天機及太陰"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 212,
+              "end": 219,
+              "quote": "廉貞坐命的女人"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 242,
+              "end": 246,
+              "quote": "天同坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 363,
+              "end": 370,
+              "quote": "謹守本分不踰矩"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "branch_group",
+            "kind": "conditional",
+            "condition": "同梁僅在寅申二宮同度，且皆為旺宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 2,
+              "end": 18,
+              "quote": "同梁僅在寅申二宮同度，且皆為旺宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "yin_colocation",
+            "kind": "conditional",
+            "condition": "同梁在寅其三方分別有天機及太陰旺宮來合",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 20,
+              "end": 39,
+              "quote": "同梁在寅其三方分別有天機及太陰旺宮來合"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "shen_colocation",
+            "kind": "conditional",
+            "condition": "同梁在申其三方的天機為旺宮但太陰則為弱陷",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 41,
+              "end": 61,
+              "quote": "同梁在申其三方的天機為旺宮但太陰則為弱陷"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "gender_neutral_life",
+            "kind": "conditional",
+            "condition": "不論男女，只要是天同坐命會多吉星而會少煞星者",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 302,
+              "end": 324,
+              "quote": "不論男女，只要是天同坐命會多吉星而會少煞星者"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "quoted_lian_life",
+            "kind": "conditional",
+            "condition": "不僅是廉貞坐命的女人能守婦道",
+            "attribution": "古赋解说，后文批评性别局限"
+          },
+          "spans": [
+            {
+              "start": 209,
+              "end": 223,
+              "quote": "不僅是廉貞坐命的女人能守婦道"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 133,
+              "end": 158,
+              "quote": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 6,
+              "end": 8,
+              "quote": "寅申"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "wealth_conditions",
+            "kind": "conditional",
+            "condition": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 133,
+              "end": 158,
+              "quote": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true,
+        "limited_spans_checked": true
+      },
+      "current_hash_at_report": "0c743a11245629c5c19d80d502e61e732fe3b84f695093abbd8446e944e5f164",
+      "human_acceptance": false,
+      "reviewed_precise_hold_sidecar": {
+        "chunk_id": "dots_all_20261013_ziwei_073_c127",
+        "candidate_sha256": "0c743a11245629c5c19d80d502e61e732fe3b84f695093abbd8446e944e5f164",
+        "status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+        "hold_type": "branch_location_group_or_context_alternatives",
+        "reason": "已分别表达寅同宫及申同宫两个确定分支；剩余是仅寅申允许集合限制及三方会合强弱关系未注册，非位置分配未知。",
+        "schema_modified": false
+      },
+      "hold_sidecar_sha256": "0ad07e29bbd3f1593e92a7244c6ee646eb46b32cce73e5dc71c81c92bcf9ae9a"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c128",
+      "candidate_sha256": "2a92beae64d8954eb0ed452a47dd70ac3062947fc208d15e176013e1d853e0f9",
+      "snapshot_path": "preparation/clean_independent_125_129_snapshot/c128.json",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "ae3f2606ac6003e8153c1ac317857cb4054bf33af231c8dee1ebda8035ce08f3",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "findings": [
+        "Quoted TianTong/TaiYin conjunction and author favorable TianTong Life branch are valid, separately attributed. 梁月 is mention only, not proof of conjunction.",
+        "Si/Hai and Chou/Wei are grouped alternatives. You is an actual single branch but the quoted clause does not explicitly supply a registered functional palace; do not fabricate Life placement to satisfy required_roles. No eligible relation permits an isolated one-star branch-only placement.",
+        "Whole text eligible; harmful historical claims explicitly attributed and distinguished from supported facts about actual people."
+      ],
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Expressible conjunction and Life facts complete; grouped and branch-only locations unresolved."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Historical and author scopes separate; TianLiang mention not relationship."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No time object inferred from life-long enjoyment."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Historical claims attributed, conditional favorable explanation preserved."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Complete eligible prose; no downgrade for typed limits."
+        }
+      },
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 264,
+              "quote": "天同旺宮坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 265,
+              "end": 275,
+              "quote": "在會多吉星且會少煞星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 46,
+              "end": 53,
+              "quote": "天同若與太陰同"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 46,
+              "end": 53,
+              "quote": "天同若與太陰同"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 264,
+              "quote": "天同旺宮坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 194,
+              "end": 198,
+              "quote": "女多再嫁"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 392,
+              "end": 404,
+              "quote": "家庭及其他人際關係的和諧"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "quoted_tong_yue",
+            "kind": "conditional",
+            "condition": "天同若與太陰同，女命逢之淫巧容",
+            "attribution": "《全书，诸星入命身限吉凶诀》历史引文"
+          },
+          "spans": [
+            {
+              "start": 46,
+              "end": 61,
+              "quote": "天同若與太陰同，女命逢之淫巧容"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "author_favorable_life",
+            "kind": "conditional",
+            "condition": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 286,
+              "quote": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 257,
+              "end": 286,
+              "quote": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "quoted_terms",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 111,
+              "end": 115,
+              "quote": "梁月沖破"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "quoted_terms",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 165,
+              "end": 169,
+              "quote": "巳亥二宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "quoted_terms",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 215,
+              "end": 220,
+              "quote": "丑未宮落陷"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "quoted_terms",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 191,
+              "end": 193,
+              "quote": "酉宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "quoted_liang_mention",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "《全书，诸星问答论》引文，保来源名不判关系"
+          },
+          "spans": [
+            {
+              "start": 99,
+              "end": 119,
+              "quote": "女人逢煞沖破，刑夫剋子，梁月沖破宜作偏房"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true,
+        "limited_spans_checked": true
+      },
+      "current_hash_at_report": "2a92beae64d8954eb0ed452a47dd70ac3062947fc208d15e176013e1d853e0f9",
+      "human_acceptance": false,
+      "reviewed_precise_hold_sidecar": {
+        "chunk_id": "dots_all_20261013_ziwei_073_c128",
+        "candidate_sha256": "2a92beae64d8954eb0ed452a47dd70ac3062947fc208d15e176013e1d853e0f9",
+        "status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+        "hold_type": "branch_location_group_or_context_alternatives",
+        "reason": "旧引巳亥/丑未组保持原条件。单一酉宫是确定地支，但没有足够明确功能宫来合法构建星曜入宫，不擅补命宫；不称酉为OR。",
+        "schema_modified": false
+      },
+      "hold_sidecar_sha256": "e3fff7d62104e219b305643e9adb09efa7c74ef238496b95827b5c96fea1cc9a"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c129",
+      "candidate_sha256": "0098f7d8d9a7b7121d685332523f0d1c315c558b7fec74f99025e44d16ca9109",
+      "snapshot_path": "preparation/clean_independent_125_129_snapshot/c129.json",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "6714ee62bac13a947b0fdc7fa6cf9d43d71dab7933cb4d0b940acf9f1b6a7377",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "findings": [
+        "Fallen and strong unfavorable Life conditions are separately authored complete clauses and correctly separately encoded. No reason to hold these relations merely because they are joined by 或者.",
+        "Quoted Si/Hai placement remains an alternative location group. General 坐會桃花星 cannot become all-five same-palace conjunction. Do not import the coming explanation or infer actual character.",
+        "One knowledge_domain supports primary scalar; two topics justify no chosen primary. No time context invented from general life discussion."
+      ],
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Three independent Life conditions covered; group and generic meeting retained not fabricated."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "No all-five conjunction or missing subsequent author position invented."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "No time objects evidenced."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation appropriate."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main entities, alternative unfavorable conditions and limited prior claim preserved."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Eligible complete lead-in prose despite explanation continuing later."
+        }
+      },
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 233,
+              "quote": "原有溫和、仁慈的特質也不見了"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 26,
+              "end": 35,
+              "quote": "女命天同旺宮坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 70,
+              "quote": "紅鸞、天喜、天姚、咸池"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 70,
+              "quote": "紅鸞、天喜、天姚、咸池"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 70,
+              "quote": "紅鸞、天喜、天姚、咸池"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 70,
+              "quote": "紅鸞、天喜、天姚、咸池"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 26,
+              "end": 35,
+              "quote": "女命天同旺宮坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 282,
+              "quote": "與人不易融洽相處"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 289,
+              "end": 293,
+              "quote": "助夫益子"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "favorable_female_life",
+            "kind": "conditional",
+            "condition": "女命天同旺宮坐命者，只要會少煞星",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 26,
+              "end": 42,
+              "quote": "女命天同旺宮坐命者，只要會少煞星"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "fallen_unfavorable",
+            "kind": "conditional",
+            "condition": "天同在陷宮坐命不會吉且會煞時",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 139,
+              "end": 153,
+              "quote": "天同在陷宮坐命不會吉且會煞時"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "strong_unfavorable",
+            "kind": "conditional",
+            "condition": "天同雖在旺宮坐命但不會吉且會多煞星時",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 157,
+              "end": 175,
+              "quote": "天同雖在旺宮坐命但不會吉且會多煞星時"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 138,
+              "end": 175,
+              "quote": "當天同在陷宮坐命不會吉且會煞時，或者是天同雖在旺宮坐命但不會吉且會多煞星時"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 323,
+              "end": 327,
+              "quote": "巳亥二宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 219,
+              "end": 233,
+              "quote": "原有溫和、仁慈的特質也不見了"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_serialization": true,
+        "source_five_fields_exact": true,
+        "all_spans_exact": true,
+        "limited_spans_checked": true
+      },
+      "current_hash_at_report": "0098f7d8d9a7b7121d685332523f0d1c315c558b7fec74f99025e44d16ca9109",
+      "human_acceptance": false,
+      "reviewed_precise_hold_sidecar": {
+        "chunk_id": "dots_all_20261013_ziwei_073_c129",
+        "candidate_sha256": "0098f7d8d9a7b7121d685332523f0d1c315c558b7fec74f99025e44d16ca9109",
+        "status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+        "hold_type": "branch_location_group_or_context_alternatives",
+        "reason": "旧引天同巳亥位置组与泛桃花坐会不强定单支/同宫；独立旺命/陷命/旺无吉多煞命三分支已表达，非这些关系被阻。",
+        "schema_modified": false
+      },
+      "hold_sidecar_sha256": "6b93d529c82be01e1404f8d446a32a3830447307d49cf47690fad97bf714f3bd"
+    }
+  ],
+  "candidate_files_modified": false,
+  "schema_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "previous_review_sha256": "60c931ee3a166ed032de0f3430c753a96f781287a7bfec4ee9b15e8c80caafc5",
+  "review_version": 2,
+  "revision_method": "Full clean V1 read plus exact repaired snapshot diff: only C125 bilingual summaries changed, independently reread. Other candidate hashes verified unchanged; source/rules unchanged."
+}

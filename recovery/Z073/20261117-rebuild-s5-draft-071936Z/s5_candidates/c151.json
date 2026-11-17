@@ -1,0 +1,891 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c151",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    194,
+    195
+  ],
+  "chunk_text": "命例-痛風\n例如盤十二的命例，同樣是天同坐入酉宮，三方雖有擎羊及鈴星沖入，但酉宮也坐會左輔、右弼、天魁、天鉞諸多吉星，與盤十一的命例相較，盤十二的天同就較不凶。\n根據命例十一所採用的太歲入宮法，命造父親為庚申年（一九二0年）生人，即父親之生年太歲為庚申，故申宮即為父親坐入命造命盤的太歲宮位。因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象，但因酉宮原有的凶象較輕，此時所引發的健康問題也就較輕。\n命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦。（註十二）盤十一及盤十二的命例顯示，在輸入母或父之生年太歲（同樣是庚年生人）資料後，造成天同坐入宮位忌煞交沖，但因天同宮位的星曜組合不同，所引發的凶象不同，致造成的健康問題也就不同。\n又，在上二例中所採用的太歲入宮法，雖僅採用最基本的推論法則，然即足敷所用，故\n\n天右巨钺弼門權天封鳳丁福誥閣已 父母火天咸天廉星姚池相貞戊天官午福德喪門文曲文昌天梁己未田宅地孤七殺空辰庚申事業寡陰贪宿煞狼忌天丙喜辰命宮 5-14天魁太陰乙卯 兄弟15-24男命官符左輔天同台龍辛輔池酉僕役75-84大耗武曲天恩紅壬貴光鸞戌遷移65-74身土\n\n局\n\n癸巳\n\n年年\n\n月\n\n日卯時大運乙亥年乙丑地天天紫劫刑府微甲寅夫妻25-34擎鈴天白華天機羊星哭虎蓋\n\n乙座台丑子女35-44祿存破軍祿甲子財帛45-54陀天太羅虚陽科天癸馬亥疾厄 55-64盤十二天同坐入酉宮，三方雖有擎羊及鈴星沖入，但酉宮也坐會左輔、右弼、天魁、天鉞諸多吉星，與盤十一的命例相較，盤十二的天同就較不凶。\n命造父親為庚申年生人，庚干天同化忌及擎羊對酉宫水星的凶象有加重現象，但因酉宮原有的凶象較輕，此時所引發的健康問題也就較輕。\n命造走進乙丑大限後，因太陰化忌引動酉宮的前述的凶象，致使命造在此大限飽受痛風之苦。",
+  "chunk_index": 151,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘十二天同酉宫虽见羊铃但亦坐会辅弼魁钺，作者认为较盘十一轻。父亲庚申资料令天同忌及酉擎羊加重，乙丑大限太阴忌引动而记痛风。所述差异依原有组合，不将三方会照误作同宫，也不由混排补酉宫宫职；非医学诊断。",
+  "summary_en": "Chart Twelve places Tian Tong at You, meeting Qing Yang and Ling Xing but also Zuo Fu, You Bi, Tian Kui and Tian Yue. The author judges its affliction milder than Chart Eleven. The father’s Geng Shen data introduce Tian Tong Hua Ji and Qing Yang at You; Tai Yin Hua Ji in the Yi Chou major cycle activates the pattern associated with reported gout. Meeting stars are not asserted to share a palace, nor is a functional palace inferred from the mixed chart. This is not a medical diagnosis.",
+  "keywords": [
+    "天同酉宫",
+    "庚申父亲",
+    "太阴化忌",
+    "乙丑大限",
+    "痛风",
+    "辅弼魁钺"
+  ],
+  "keywords_en": [
+    "Tian Tong You",
+    "father Geng Shen",
+    "Tai Yin Hua Ji",
+    "Yi Chou major cycle",
+    "gout",
+    "Fu Bi Kui Yue"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 91,
+          "end": 96,
+          "quote": "太歲入宮法"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 244,
+          "quote": "太陰化忌引動酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 244,
+          "quote": "太陰化忌引動酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 196,
+          "end": 206,
+          "quote": "因酉宮原有的凶象較輕"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 15,
+          "end": 24,
+          "quote": "同樣是天同坐入酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 29,
+          "end": 36,
+          "quote": "擎羊及鈴星沖入"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 29,
+          "end": 36,
+          "quote": "擎羊及鈴星沖入"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 240,
+          "quote": "太陰化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 43,
+          "end": 54,
+          "quote": "左輔、右弼、天魁、天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 258,
+          "end": 264,
+          "quote": "飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "father_geng",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 146,
+          "end": 194,
+          "quote": "因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "father_geng",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 146,
+          "end": 194,
+          "quote": "因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "father_geng",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 146,
+          "end": 194,
+          "quote": "因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "father_geng",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 146,
+          "end": 194,
+          "quote": "因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "father_geng",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 146,
+          "end": 194,
+          "quote": "因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 265,
+          "quote": "命例-痛風\n例如盤十二的命例，同樣是天同坐入酉宮，三方雖有擎羊及鈴星沖入，但酉宮也坐會左輔、右弼、天魁、天鉞諸多吉星，與盤十一的命例相較，盤十二的天同就較不凶。\n根據命例十一所採用的太歲入宮法，命造父親為庚申年（一九二0年）生人，即父親之生年太歲為庚申，故申宮即為父親坐入命造命盤的太歲宮位。因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象，但因酉宮原有的凶象較輕，此時所引發的健康問題也就較輕。\n命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 91,
+          "end": 96,
+          "quote": "太歲入宮法"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 116,
+          "end": 123,
+          "quote": "父親之生年太歲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 18,
+          "end": 24,
+          "quote": "天同坐入酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 258,
+          "end": 264,
+          "quote": "飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "yichou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 264,
+          "quote": "命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "完整首段案例与盘十二图说可用，承前残句及混排不推宫职；酉宫功能未明不据排盘猜仆役。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 357,
+        "quote": "命例-痛風\n例如盤十二的命例，同樣是天同坐入酉宮，三方雖有擎羊及鈴星沖入，但酉宮也坐會左輔、右弼、天魁、天鉞諸多吉星，與盤十一的命例相較，盤十二的天同就較不凶。\n根據命例十一所採用的太歲入宮法，命造父親為庚申年（一九二0年）生人，即父親之生年太歲為庚申，故申宮即為父親坐入命造命盤的太歲宮位。因父親生年天干為庚，庚干天同化忌且庚干的擎羊在酉，故輸入父親之生年太歲對酉宮水星的凶象有加重現象，但因酉宮原有的凶象較輕，此時所引發的健康問題也就較輕。\n命造走進乙丑大限後，乙干的太陰化忌引動酉宮的前述凶象，致使命造在此大限飽受痛風之苦。（註十二）盤十一及盤十二的命例顯示，在輸入母或父之生年太歲（同樣是庚年生人）資料後，造成天同坐入宮位忌煞交沖，但因天同宮位的星曜組合不同，所引發的凶象不同，致造成的健康問題也就不同。\n"
+      },
+      {
+        "start": 628,
+        "end": 797,
+        "quote": "盤十二天同坐入酉宮，三方雖有擎羊及鈴星沖入，但酉宮也坐會左輔、右弼、天魁、天鉞諸多吉星，與盤十一的命例相較，盤十二的天同就較不凶。\n命造父親為庚申年生人，庚干天同化忌及擎羊對酉宫水星的凶象有加重現象，但因酉宮原有的凶象較輕，此時所引發的健康問題也就較輕。\n命造走進乙丑大限後，因太陰化忌引動酉宮的前述的凶象，致使命造在此大限飽受痛風之苦。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "affected_star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "father_geng",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "affected_star",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "yichou",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮法",
+        "proposed_category": "source_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Tai Sui Ru Gong Fa",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "父親之生年太歲",
+        "proposed_category": "related_person_birth_data",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "father birth-year Tai Sui",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "天同坐入酉宮",
+        "proposed_category": "single_branch_without_functional_palace",
+        "reason": "支位已知，功能宫未明，不能造星曜入宫所必需的功能宫参与者",
+        "english_surface": "Tian Tong at You",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "yichou",
+        "subject": "乙丑大限太阴忌引动酉天同",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "擎羊",
+      "铃星",
+      "左辅",
+      "右弼",
+      "天魁",
+      "天钺",
+      "太阴"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": "庚",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "father_geng"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化忌",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "yichou"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "左辅右弼",
+      "天魁天钺"
+    ],
+    "school_variant": null,
+    "time_context": "大限",
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

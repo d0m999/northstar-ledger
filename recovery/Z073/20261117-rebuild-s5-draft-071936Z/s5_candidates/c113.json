@@ -1,0 +1,383 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c113",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    144,
+    145
+  ],
+  "chunk_text": "基本賦性\n先賢曰：「天同陽水，南斗第四星，可延壽，為福德之主，化氣曰福。天同福星，乃益壽保生之宿。」天同五行屬水，屬性為陽，為南斗第四星，其在命理的作用會特別顯現在「福德」方面。由於天同呈現在命理方面為「福」，因此古傳賦文在提到天同時，常以「福星」稱之。天同除有增長壽命的作用外，也會呈現在保持或維護生命方面，即天同在命理的作用會特別顯現在一個人的「壽命」與「健康」方面。\n在此必須要加以說明的是，賦文中說天同是「福德之主」的「福德」，指的是一個人在享受或享樂方面的福澤福份而言，並非指命盤上的「福德宮」，惟因福德宮的作用在某種程度上與此有關，因之一般人常不去細察其中分別，而將之混著使用。例如，天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享），此時天同的作用就與福德宮類似。然而，福德宮除與一個人能否勞逸有關外，尚有其他作用。例如，福德宮的吉凶，與一個人聚財的多寡難易有關，此時就無法僅憑天同坐命而做出相關的推論，故此時天同的作用就與福德宮不同。\n",
+  "chunk_index": 113,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "天同为阳水福星，作者将其福解释为享受安享，并联系寿命健康。福德之主不等于福德宫：天同命会多吉能享福、多煞则难享福；福德宫另关聚财，不能仅凭天同命推断财富积聚。",
+  "summary_en": "Tian Tong is described as a yang-water fortune star associated by the author with longevity and health. Fortune here means enjoyment and ease, not identity with the Fortune Palace. Tian Tong in Life with many benefics favors enjoyment, while many malefics oppose it. The Fortune Palace also concerns wealth accumulation, which cannot be inferred from Tian Tong in Life alone.",
+  "keywords": [
+    "天同",
+    "阳水",
+    "福德之主",
+    "福德宫",
+    "命宫",
+    "享福",
+    "健康",
+    "聚财"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "yang water",
+    "fortune ruler",
+    "Fortune Palace",
+    "Life Palace",
+    "enjoyment",
+    "health",
+    "wealth accumulation"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 50,
+          "end": 61,
+          "quote": "天同五行屬水，屬性為陽"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 240,
+          "end": 252,
+          "quote": "並非指命盤上的「福德宮」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 14,
+          "quote": "天同陽水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 298,
+          "end": 303,
+          "quote": "天同坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 248,
+          "end": 251,
+          "quote": "福德宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 174,
+          "end": 183,
+          "quote": "「壽命」與「健康」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 400,
+          "end": 407,
+          "quote": "聚財的多寡難易"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "life_support_conditions",
+        "kind": "conditional",
+        "condition": "天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享）",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 298,
+          "end": 344,
+          "quote": "天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享）"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 26,
+          "end": 30,
+          "quote": "福德之主"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_support_conditions",
+        "negated": false,
+        "condition": "天同坐命者在會多吉星時，代表此人能享福（或安享），但在會多煞星時，反主此人無法享福（或安享）"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "福德之主",
+        "proposed_category": "source_epithet",
+        "reason": "享受之福不等于福德宫实际入住",
+        "english_surface": "ruler of fortune",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "福德宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

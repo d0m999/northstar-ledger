@@ -1,0 +1,807 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c014",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    37
+  ],
+  "chunk_text": "諧，要和諧必須要夫妻間的互動關係能協調良好，若有一方太過剛強，總是不利於婚姻。從經驗的累積得知，命格太強的女命，在一個家庭裡，往往就因「坤」強「乾」弱，「乾坤」顛倒，而有牝雞司晨現象，此時除非其配偶能對之多所包容與退讓，否則恐不易維持婚姻的和諧。\n若就命身格局而言，林太太應該屬於女強人的類型。另外，林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。但因先天命宮及夫妻宮的星曜組合太過陽剛，因此就得留意上述婚姻和諧的問題。\n若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n",
+  "chunk_index": 14,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "hard",
+  "summary": "林太太先天夫妻宫在戌；作者以三方四正无煞、命宫左辅及夫妻宫右弼，限定紫破辰戌君臣不义之说。命宫子受邻宫铃火夹，火星同宫有天同化忌；行限太阴或太阳化忌使双忌夹时，作者认为火铃克害武曲，婚姻还须看配偶太岁宫位。保留或条件，不作同时化忌。",
+  "summary_en": "For Mrs. Lin, the natal Spouse Palace is at Xu. The author qualifies the Zi Po Chen Xu claim using no harmful stars in the Three Directions and Four Cardinal Palaces, Zuo Fu in the Life Palace and You Bi in the Spouse Palace. The Life Palace at Zi is flanked by Ling Xing and Huo Xing; Tian Tong Hua Ji shares Huo Xing's palace. If timing brings Tai Yin OR Tai Yang Hua Ji, double-Hua-Ji flanking is said to activate harmful Fire against Wu Qu. Marriage also depends on the spouse's Tai Sui palace. The alternatives are not simultaneous facts.",
+  "keywords": [
+    "武曲",
+    "天同化忌",
+    "太阴",
+    "太阳",
+    "火铃",
+    "夹忌",
+    "夫妻宫",
+    "三方四正",
+    "寡宿",
+    "配偶"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tian Tong Hua Ji",
+    "Tai Yin",
+    "Tai Yang",
+    "Huo Ling",
+    "Hua Ji flanking",
+    "Spouse Palace",
+    "Three Directions and Four Cardinal Palaces",
+    "Gua Su",
+    "spouse"
+  ],
+  "topic": "感情姻缘",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c14_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c14_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 384,
+          "end": 386,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 207,
+          "end": 209,
+          "quote": "左輔"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 210,
+          "end": 212,
+          "quote": "右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 304,
+          "end": 306,
+          "quote": "鈴星"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 309,
+          "quote": "火星"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 323,
+          "end": 325,
+          "quote": "天同"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 328,
+          "end": 399,
+          "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 328,
+          "end": 399,
+          "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 274,
+          "end": 327,
+          "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 274,
+          "end": 327,
+          "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 274,
+          "end": 327,
+          "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 328,
+          "end": 399,
+          "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 328,
+          "end": 399,
+          "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c14_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 448,
+          "end": 461,
+          "quote": "恐怕就不易維持婚姻的和諧。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c14_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 150,
+          "end": 237,
+          "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 399,
+          "end": 428,
+          "quote": "武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c14_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c14_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 448,
+          "end": 461,
+          "quote": "恐怕就不易維持婚姻的和諧。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c14_or_timing",
+        "kind": "conditional",
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 317,
+          "end": 399,
+          "quote": "且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "首句从諧断词开始，未跨缺页补接；從經驗起完整论述可用，表示缺口单列而非降资格隐藏。",
+    "usable_spans": [
+      {
+        "start": 39,
+        "end": 462,
+        "quote": "從經驗的累積得知，命格太強的女命，在一個家庭裡，往往就因「坤」強「乾」弱，「乾坤」顛倒，而有牝雞司晨現象，此時除非其配偶能對之多所包容與退讓，否則恐不易維持婚姻的和諧。\n若就命身格局而言，林太太應該屬於女強人的類型。另外，林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。但因先天命宮及夫妻宮的星曜組合太過陽剛，因此就得留意上述婚姻和諧的問題。\n若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "感情姻缘"
+    ],
+    "analysis_methods": [
+      "三方四正",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c14_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "右弼",
+            "role": "star",
+            "location": "戌"
+          },
+          {
+            "entity_type": "palace",
+            "name": "夫妻宫",
+            "role": "palace",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "c14_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "铃星",
+            "role": "left_flanking_star",
+            "location": "左鄰宮"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "right_flanking_star",
+            "location": "右鄰宮"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c14_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "member",
+            "location": "命宮右鄰宮"
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "member",
+            "location": "命宮右鄰宮"
+          }
+        ],
+        "scope_id": "c14_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "affected_star",
+            "location": null
+          }
+        ],
+        "scope_id": "c14_or_timing",
+        "negated": false,
+        "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "紫破辰戌，君臣不義",
+        "proposed_category": "source_rule",
+        "reason": "来源条件称谓，不强映射固定格局。",
+        "english_surface": "Zi Po Chen Xu Jun Chen Bu Yi",
+        "scope_id": "c14_lin"
+      },
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern",
+        "reason": "武曲受克凶格名，不当小星。",
+        "english_surface": "Gua Su adverse configuration",
+        "scope_id": "c14_or_timing"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "左辅",
+      "右弼",
+      "铃星",
+      "火星",
+      "天同",
+      "太阴",
+      "太阳"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "夫妻宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c14_lin"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

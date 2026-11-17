@@ -1,0 +1,533 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c090",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    116,
+    117,
+    118
+  ],
+  "chunk_text": "先賢曰：「武破相遇昌曲逢，聰明巧藝定無窮。」先賢對之有註解如下：「武曲文昌陰金，破軍文曲陰水，四星會合，身命二地，金水相生，聰明而有巧藝，必廟旺，可富，陷地一生不遂，但不論廟陷，均是一生多奔波辛勞，亦有成敗起伏，因文曲遇破軍，主貧，文昌逢破軍，主刑剋勞碌，若武曲與破軍分處於弱宫，有傾敗之危也。」本賦文主要是說明，當一個人的命身宮合會有武曲、破軍、文昌、文曲四星曜時，此人的聰明才智不錯，同時學習技藝的能力強，若是旺宮坐命，則可成為大富人家，反之若是陷宮坐命，就一輩子不順遂。但不論是旺宮或陷宮坐命，其人一輩子多半是奔波勞碌，運好則發，運不好則敗，一生起伏大。\n前面一再強調，武曲在十二地支宮位無弱陷，僅在亥宮和破軍合為弱陷，故武曲在任一宮位坐守時，必須要會多吉星，才能發揮賦性的正面作用，若是會少吉星（甚或不會吉星），且又會多煞星，縱使是坐入旺宮，仍以弱陷論，此時其賦性作用以負面者居多。因此，武破昌曲組合入命之人，若是會多吉星，縱使是在陷宮坐守（如武破在亥坐命），也不一定會如賦文所說「陷地一生不遂」，反之若是會多煞星，即使是在旺宮守命，也不見得就富得起來。\n由於武破昌曲組合坐命者，本質上仍為武曲坐會昌曲的一種組合，而有關武曲坐會昌曲的命理作用，在「武曲入廟與昌曲同宮，出將入相」及「武曲文星於身命，文武兼備」二賦文中，已有詳盡的解說，故從其中也有助於認識武破昌曲組合的命理作用。另外，武破組合的負面命理作用，在武曲「與破軍同度，破祖喪家，終身勞碌，必定無成」賦文中，也做過深入闡述。故從上述三賦文的說明及前面一段的解說，就能了解武破昌曲組合的命理作用。\n",
+  "chunk_index": 90,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者释武破昌曲合会命身带来才智技艺及奔波起伏，同时修正古赋单凭庙陷断富贫的说法：须合会吉会煞与行限，武破亥命会多吉也未必不遂，旺宫会多煞也未必富。四星合会命身不等于全部同宫，相关赋文为章节回指而非新增命例。",
+  "summary_en": "The author reads Wu Qu, Po Jun, Wen Chang and Wen Qu meeting Life and Body as intelligence, technical aptitude and an unsettled life, but rejects judging wealth or failure by brightness alone. Benefic and malefic support and timing matter: even Wu Qu–Po Jun at Hai may fare well with benefics, while a strong palace with many malefics may not bring wealth. Meeting across Life and Body does not mean all four stars are co-located. The quoted related verses are cross-references, not new case placements.",
+  "keywords": [
+    "武破昌曲",
+    "庙旺",
+    "吉煞条件",
+    "聪明巧艺"
+  ],
+  "keywords_en": [
+    "Wu Po Chang Qu",
+    "palace strength",
+    "benefic and malefic conditions",
+    "intelligence and skill"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 35,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 40,
+          "end": 42,
+          "quote": "破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 35,
+          "end": 37,
+          "quote": "文昌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 42,
+          "end": 44,
+          "quote": "文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 165,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 165,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c90_hai",
+        "kind": "conditional",
+        "condition": "如武破在亥坐命",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 425,
+          "end": 432,
+          "quote": "如武破在亥坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c90_hai",
+        "kind": "conditional",
+        "condition": "如武破在亥坐命",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 425,
+          "end": 432,
+          "quote": "如武破在亥坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c90_hai",
+        "kind": "conditional",
+        "condition": "如武破在亥坐命",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 425,
+          "end": 432,
+          "quote": "如武破在亥坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 168,
+          "end": 182,
+          "quote": "武曲、破軍、文昌、文曲四星曜"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 182,
+          "quote": "命身宮合會有武曲、破軍、文昌、文曲四星曜"
+        },
+        {
+          "start": 398,
+          "end": 408,
+          "quote": "武破昌曲組合入命之人"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 187,
+          "end": 204,
+          "quote": "聰明才智不錯，同時學習技藝的能力強"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 409,
+          "end": 424,
+          "quote": "若是會多吉星，縱使是在陷宮坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 274,
+          "end": 279,
+          "quote": "一生起伏大"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 471,
+          "end": 480,
+          "quote": "也不見得就富得起來"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c90_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "命运总论",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c90_hai",
+        "negated": false,
+        "condition": "如武破在亥坐命"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c90_hai",
+        "negated": false,
+        "condition": "如武破在亥坐命"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "member",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c90_hai",
+        "negated": false,
+        "condition": "如武破在亥坐命"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "武破昌曲",
+        "proposed_category": "source_star_group",
+        "reason": "四星合会不等于四星同宫；分布与主次宫未知。",
+        "english_surface": "Wu Po Chang Qu",
+        "scope_id": "c90_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "文昌",
+      "文曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "文昌文曲"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,962 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c122",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    158,
+    159
+  ],
+  "chunk_text": "，利於事業的開創。但若命宮不強旺者，則不作此論。\n在此必須指出的是，雖然先賢在註解中特別舉例提到「巨在亥宮之命，太陽在巳對照，大吉。事業之天同，不作無用論之也」，但從上述對盤二及盤三的解說顯示，卻不能只因巨門在亥宮坐命，對宮有太陽會照，就說事業宮之天同一定能發揮在事業上的正面作用，仍須視會吉會煞及是否能制煞為用而定。\n至於先賢註解中所說的「若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論」，此亦說明在推論一個人的事業事項時，不能只考慮事業宮的吉凶，必須以命身格局為基礎一併考量。\n例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守，此即《全集，註解骨髓賦》裡的「日月同臨，官居侯伯」格局。丁年生人，命宮成為「三奇嘉會」，能發揮格局的正面作用，此時天同雖為忌煞交沖，但因命宮強旺就被制煞為用，此時事業宮的天同，就不作無用之論。有關「日月同臨，官居侯伯」格局的作用，請參閱太陽星的相關解說。\n最後還有一種情形，即天同坐入事業宮，另有甲級星曜同宮，此時天同就不一定以「無用」論之，此即先賢在註解中所說的「再若另有正星同度之事業，亦不作此論」。例如天同\n\n廉貞天破軍同權天鉞天魁父母福德戌田宅亥事業戊申己酉庚辛府曲天武男命T年日時月子僕役72-81未 命宮 2-11擎羊丁壬本命為「日月同臨，官居候伯」格局，丁年生人，使命宮成為「三奇嘉會」，更能發揮命宮格局的正面作用，此時事業宮的天同就不作無用之七殺身陰陽太太祿祿存兄弟12-21丑遷移62-71午\n\n水局丙癸天梁貪狼相微忌科門機天紫巨天辰 子女32-41巳夫妻22-31卯財帛 42-51寅 疾厄52-61盤四論。\n陀羅甲乙癸壬",
+  "chunk_index": 122,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "作者强调巨门亥命太阳对照并不保证天同事业有利，须看吉煞与制煞。盘四丁年空未命擎羊守命，对宫日月同守，三奇成格使事业天同负性受制。古说日月同临保留名称不任意映射；后接未完举例和混排不据以补事实。",
+  "summary_en": "Ju Men in Hai Life opposed by Tai Yang does not by itself make Tian Tong in Career favorable; the author requires considering benefics, malefics and their control. In Chart Four, a Ding birth has an otherwise empty Wei Life Palace guarded by Qing Yang, with Sun and Moon together opposite. San Qi Jia Hui is said to strengthen Life and redirect adverse Tian Tong effects in Career. The source’s Ri Yue Tong Lin label is retained without mapping it to a different configuration; the unfinished example and mixed chart are excluded.",
+  "keywords": [
+    "天同事业",
+    "日月同临",
+    "未命擎羊",
+    "三奇嘉会",
+    "制煞条件"
+  ],
+  "keywords_en": [
+    "Tian Tong in Career",
+    "Ri Yue Tong Lin",
+    "Qing Yang in Wei Life",
+    "San Qi Jia Hui",
+    "malefic-control conditions"
+  ],
+  "topic": "事业运势",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 109,
+          "quote": "巨門在亥宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 62,
+          "quote": "太陽在巳對照"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 126,
+          "quote": "事業宮之天同"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 282,
+          "end": 289,
+          "quote": "擎羊在命宮單守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 297,
+          "quote": "對宮有日月坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 196,
+          "end": 200,
+          "quote": "財逢巨機"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 272,
+          "end": 276,
+          "quote": "命宮在未"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 123,
+          "quote": "事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 246,
+          "end": 250,
+          "quote": "命身格局"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.3",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 196,
+          "end": 200,
+          "quote": "財逢巨機"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c122_classic",
+        "kind": "conditional",
+        "condition": "巨在亥宮之命，太陽在巳對照",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 62,
+          "quote": "巨在亥宮之命，太陽在巳對照"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c122_classic",
+        "kind": "conditional",
+        "condition": "巨在亥宮之命，太陽在巳對照",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 62,
+          "quote": "巨在亥宮之命，太陽在巳對照"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 259,
+          "end": 297,
+          "quote": "例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 259,
+          "end": 297,
+          "quote": "例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 259,
+          "end": 297,
+          "quote": "例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 259,
+          "end": 297,
+          "quote": "例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 326,
+          "end": 352,
+          "quote": "丁年生人，命宮成為「三奇嘉會」，能發揮格局的正面作用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 377,
+          "end": 393,
+          "quote": "此時事業宮的天同，就不作無用之論"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c122_case4",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 312,
+          "end": 325,
+          "quote": "「日月同臨，官居侯伯」格局"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 257,
+          "quote": "必須以命身格局為基礎一併考量"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 257,
+          "quote": "必須以命身格局為基礎一併考量"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 257,
+          "quote": "必須以命身格局為基礎一併考量"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 257,
+          "quote": "必須以命身格局為基礎一併考量"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c122_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 257,
+          "quote": "必須以命身格局為基礎一併考量"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c122_classic_wealth",
+        "kind": "conditional",
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論",
+        "attribution": "先贤注解"
+      },
+      "spans": [
+        {
+          "start": 171,
+          "end": 212,
+          "quote": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "开头承前半句、尾部未完举例及混排不用于标注，保完整论述。",
+    "usable_spans": [
+      {
+        "start": 25,
+        "end": 500,
+        "quote": "在此必須指出的是，雖然先賢在註解中特別舉例提到「巨在亥宮之命，太陽在巳對照，大吉。事業之天同，不作無用論之也」，但從上述對盤二及盤三的解說顯示，卻不能只因巨門在亥宮坐命，對宮有太陽會照，就說事業宮之天同一定能發揮在事業上的正面作用，仍須視會吉會煞及是否能制煞為用而定。\n至於先賢註解中所說的「若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論」，此亦說明在推論一個人的事業事項時，不能只考慮事業宮的吉凶，必須以命身格局為基礎一併考量。\n例如盤四的命例，丁年生人，命宮在未無甲級星曜，擎羊在命宮單守，對宮有日月坐守，此即《全集，註解骨髓賦》裡的「日月同臨，官居侯伯」格局。丁年生人，命宮成為「三奇嘉會」，能發揮格局的正面作用，此時天同雖為忌煞交沖，但因命宮強旺就被制煞為用，此時事業宮的天同，就不作無用之論。有關「日月同臨，官居侯伯」格局的作用，請參閱太陽星的相關解說。\n最後還有一種情形，即天同坐入事業宮，另有甲級星曜同宮，此時天同就不一定以「無用」論之，此即先賢在註解中所說的「再若另有正星同度之事業，亦不作此論」。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c122_classic",
+        "negated": false,
+        "condition": "巨在亥宮之命，太陽在巳對照"
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "opposing_star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "c122_classic",
+        "negated": false,
+        "condition": "巨在亥宮之命，太陽在巳對照"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "未"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c122_case4",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c122_case4",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "opposing_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c122_case4",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "opposing_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c122_case4",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c122_case4",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c122_classic_wealth",
+        "negated": false,
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c122_classic_wealth",
+        "negated": false,
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c122_classic_wealth",
+        "negated": false,
+        "condition": "若人本命有格局，如立命未宮而無正星，日月對照加吉，財逢巨機，事業得福星，當不作此論"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "日月同臨",
+        "proposed_category": "source_pattern",
+        "reason": "未注册原名，不等同别的日月格。",
+        "english_surface": "Ri Yue Tong Lin",
+        "scope_id": "c122_case4"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "本命",
+        "scope_id": "c122_classic_wealth",
+        "subject": "古注本命格局例外",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "推测技法",
+    "stars_mentioned": [
+      "巨门",
+      "太阳",
+      "天同",
+      "擎羊",
+      "太阴",
+      "天机"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫",
+      "身宫",
+      "财帛宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "三奇嘉会",
+        "formation_status": "成格",
+        "evidence": "丁年生人，命宮成為「三奇嘉會」，能發揮格局的正面作用"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": "本命",
+    "star_interactions_mentioned": [
+      "机巨同宫"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

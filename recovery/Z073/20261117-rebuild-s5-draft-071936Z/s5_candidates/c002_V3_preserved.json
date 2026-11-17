@@ -1,0 +1,966 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c002",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    24,
+    25
+  ],
+  "chunk_text": "基本賦性\n先賢曰：「武曲陰金，北斗第六星，司財帛之主，又名將星。武曲陰金，專主財帛之司，為剛毅之宿。」武曲五行屬金，屬性為陰，為北斗第六星，其在命理的作用會特別彰顯在「財帛」方面，又稱為將星，是一顆剛強堅毅的星曜。\n武曲既為「財帛」之主，因此在談到一個人的財利時，就會扮演一個非常重要的角色。\n當武曲坐入財帛宮時，因其為財星，坐入財帛宮，對命造者財利的影響作用自然很大。但若是武曲坐命者，在論其財利吉凶時，則不能單以財帛宮來析論，此時必須兼視命宮所坐武曲星對財利發生的影響作用來併論。\n在談到一個人的財利時，除財帛宮外，福德宮及田宅宮亦和財利有關（請參見紫微星部份的相關解說）。因此，武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈，但若是坐入福德宮及田宅宮，在財利方面的作用亦強，此即《全書，諸星問答論》所說的武曲以「田宅、財帛為司之所，可主巨富」之所由來。惟須注意的是，財星坐入財宮，固為得地，但仍須會多吉星，特別是坐會祿星（化祿或祿存）於旺地，才能充份發揮其在財利的正面作用。例如，先賢於此有武曲「最喜與祿存同度於田財之宮，必發財鉅萬」的敘述，但必須是武曲旺宮得祿存同坐並會多吉星，始能做如是推論。若是武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時，則尚能凸顯出武曲的財星作用，惟仍是辛苦得財，但就可能談不上「發財鉅萬」。同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財。另外，《全集，太微賦》亦有所謂「財居財位，遇者富奢」的說法，有關此賦文的命理作用，在紫微星部份已有過解說，就不再說明。\n",
+  "chunk_index": 2,
+  "school": "紫微",
+  "content_type": "实战断语",
+  "difficulty": "medium",
+  "summary": "武曲属阴金，为财帛主与将星。论财须兼看其所坐命宫，不能只看财帛宫；命宫或财帛宫作用最强，福德及田宅亦强。财星入财宫仍须旺地、多吉及禄星（化禄或禄存）。武曲旺宫与禄存同坐且多吉才可推巨富；陷宫同坐财宫而多吉少煞仅辛苦得财，化忌或多煞少吉则不利财。",
+  "summary_en": "Military Melody is yin metal, a wealth ruler and a general. Wealth assessment must include its Life Palace placement rather than the Wealth Palace alone. Its influence is strongest in Life or Wealth, and also strong in Fortune and Property. Favorable wealth outcomes require strong placement, benefics and a salary influence, either Prosperity Transformation or Salary Star. Military Melody sharing a strong palace with Salary Star and meeting many benefics can indicate great wealth. In a fallen Wealth Palace, their conjunction with many benefics and few malefics suggests hard-earned wealth, not necessarily riches. Obstruction Transformation or many malefics with few benefics reverses the benefit. The transformation-bearing star is not explicitly named.",
+  "keywords": [
+    "武曲",
+    "阴金",
+    "财帛宫",
+    "命宫",
+    "福德宫",
+    "田宅宫",
+    "禄存",
+    "化禄",
+    "化忌",
+    "吉煞条件"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "yin metal",
+    "Wealth Palace",
+    "Life Palace",
+    "Fortune Palace",
+    "Property Palace",
+    "Salary Star",
+    "Prosperity Transformation",
+    "Obstruction Transformation",
+    "conditional wealth assessment"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 121,
+          "end": 131,
+          "quote": "在談到一個人的財利時"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 51,
+          "end": 62,
+          "quote": "武曲五行屬金，屬性為陰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 292,
+          "end": 304,
+          "quote": "武曲財星坐入命宮或財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 479,
+          "end": 493,
+          "quote": "武曲旺宮得祿存同坐並會多吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 412,
+          "end": 421,
+          "quote": "祿星（化祿或祿存）"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 121,
+          "end": 131,
+          "quote": "在談到一個人的財利時"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 14,
+          "quote": "武曲陰金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 277,
+          "end": 282,
+          "quote": "紫微星部份"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 418,
+          "end": 420,
+          "quote": "祿存"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 221,
+          "end": 223,
+          "quote": "命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 152,
+          "end": 155,
+          "quote": "財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 260,
+          "end": 263,
+          "quote": "福德宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 264,
+          "end": 267,
+          "quote": "田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 29,
+          "end": 31,
+          "quote": "將星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 624,
+          "end": 633,
+          "quote": "財居財位，遇者富奢"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "prosperity_alternative",
+        "kind": "conditional",
+        "condition": "特別是坐會祿星（化祿或祿存）於旺地",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 424,
+          "quote": "特別是坐會祿星（化祿或祿存）於旺地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "ambiguous",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.tiangan",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "obstruction_alternative",
+        "kind": "conditional",
+        "condition": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 579,
+          "end": 607,
+          "quote": "若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "wealth_placement",
+        "kind": "conditional",
+        "condition": "當武曲坐入財帛宮時，因其為財星，坐入財帛宮，對命造者財利的影響作用自然很大",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 147,
+          "end": 184,
+          "quote": "當武曲坐入財帛宮時，因其為財星，坐入財帛宮，對命造者財利的影響作用自然很大"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "life_placement",
+        "kind": "conditional",
+        "condition": "但若是武曲坐命者，在論其財利吉凶時，則不能單以財帛宮來析論，此時必須兼視命宮所坐武曲星對財利發生的影響作用來併論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 185,
+          "end": 241,
+          "quote": "但若是武曲坐命者，在論其財利吉凶時，則不能單以財帛宮來析論，此時必須兼視命宮所坐武曲星對財利發生的影響作用來併論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "strong_conjunction",
+        "kind": "conditional",
+        "condition": "武曲旺宮得祿存同坐並會多吉星，始能做如是推論",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 479,
+          "end": 501,
+          "quote": "武曲旺宮得祿存同坐並會多吉星，始能做如是推論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "fallen_benefic",
+        "kind": "conditional",
+        "condition": "若是武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時，則尚能凸顯出武曲的財星作用，惟仍是辛苦得財，但就可能談不上「發財鉅萬」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 563,
+          "quote": "若是武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時，則尚能凸顯出武曲的財星作用，惟仍是辛苦得財，但就可能談不上「發財鉅萬」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "fallen_adverse",
+        "kind": "conditional",
+        "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 564,
+          "end": 607,
+          "quote": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化",
+      "对星组合",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "wealth_placement",
+        "negated": false,
+        "condition": "當武曲坐入財帛宮時，因其為財星，坐入財帛宮，對命造者財利的影響作用自然很大"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_placement",
+        "negated": false,
+        "condition": "但若是武曲坐命者，在論其財利吉凶時，則不能單以財帛宮來析論，此時必須兼視命宮所坐武曲星對財利發生的影響作用來併論"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "旺宮"
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "旺宮"
+          }
+        ],
+        "scope_id": "strong_conjunction",
+        "negated": false,
+        "condition": "武曲旺宮得祿存同坐並會多吉星，始能做如是推論"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "財宮"
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "財宮"
+          }
+        ],
+        "scope_id": "fallen_benefic",
+        "negated": false,
+        "condition": "若是武曲陷宮得祿存同坐財宮，在會多吉星且會少煞星時，則尚能凸顯出武曲的財星作用，惟仍是辛苦得財，但就可能談不上「發財鉅萬」"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "財宮"
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "財宮"
+          }
+        ],
+        "scope_id": "fallen_adverse",
+        "negated": false,
+        "condition": "同樣是武曲陷宮得祿存同坐財宮，若是化忌或會多煞星且會少吉星（甚至不會吉星），反不利於財"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "將星",
+        "proposed_category": "star_property",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Jiang Xing",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "財居財位，遇者富奢",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Cai Ju Cai Wei Yu Zhe Fu She",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "紫微",
+      "禄存"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫",
+      "福德宫",
+      "田宅宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "prosperity_alternative"
+      },
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "obstruction_alternative"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

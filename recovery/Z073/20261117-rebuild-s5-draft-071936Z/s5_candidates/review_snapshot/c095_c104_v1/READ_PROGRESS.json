@@ -1,0 +1,24 @@
+{
+  "fully_read": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102
+  ],
+  "not_yet_read": [
+    103,
+    104
+  ],
+  "note": "103 snapshot lacks explicit spans in some evidence; stop until author stable final snapshot; no acceptance claim",
+  "ordinary_return": [
+    95,
+    97,
+    98,
+    101
+  ],
+  "remaining_assignment": "finish independent095–104, then author115–124"
+}

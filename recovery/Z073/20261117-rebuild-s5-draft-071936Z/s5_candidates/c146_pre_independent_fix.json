@@ -1,0 +1,379 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c146",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    188
+  ],
+  "chunk_text": "前已一再提及，斗數論健康，須以中醫理論為基準。根據中醫論說，腎主水，是指腎臟有主持人體水液代謝的生理功能，即腎臟除能將飲食中化生的津液輸送到全身，以補充血液容量和滋養機體各臟腑、組織器官外，並將臟腑組織代謝後的水液及其代謝產物變為汗液和尿液排出體外。再者，膀胱在五行中亦屬水，且因膀胱之經脈與腎相連，故膀胱與腎為表裏關係，而膀胱的功能則是貯存和排泄尿液。也就是說，若腎臟的功能正常，就能使尿液下注膀胱貯存而不外流，等貯存到一定程度又能及時地排泄體外。如果腎臟或膀胱的功能失常，就可能會引起相關的疾病。\n天同五行屬水，若根據上述「腎主水」及「膀胱與腎相表裡」之說，則當天同坐入宮位忌煞交沖並會沖火鈴時，所發生的病變，往往與腎臟或膀胱的功能有關。而與腎臟或膀胱功能有關的毛病很多，糖尿病、痛風，頻尿、水腫等則是較常見的症狀。\n再據中醫論說，腎的生理功能除主水外，另有「腎主骨」之說，因此當腎水有問題時，也可能會產生如風濕性關節炎、痛風之類的毛病，這些毛病雖另有其他病理原因，但也常和腎臟功能有關。除此之外，有些人則會罹患骨質疏鬆症、骨刺等與骨骼有關的毛病，也有些人常會有「背與骨俱痛」的情況發生，但這種毛病一般都以中年以後的婦女較多。（註九）",
+  "chunk_index": 146,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者引用中医肾主水、膀胱肾表里及肾主骨理论，联系天同水性宫位忌煞且会冲火铃的条件，讨论泌尿代谢及骨关节问题。原文列糖尿病、痛风、水肿等并承认其他病理原因，不能将星象关联当医学因果或诊断。",
+  "summary_en": "The author draws on traditional Chinese medicine ideas about kidney water regulation, the kidney–bladder relationship and bone function. These are linked to a conditional astrological claim about Tian Tong in a palace under adverse influences and meeting Huo Xing–Ling Xing. Urinary, metabolic and skeletal conditions are discussed, while other pathological causes are acknowledged. The astrological associations are not established medical causation or diagnoses.",
+  "keywords": [
+    "天同",
+    "水性",
+    "火铃",
+    "肾主水",
+    "肾主骨",
+    "膀胱",
+    "来源医学观"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "water nature",
+    "Huo Xing Ling Xing",
+    "kidney and water",
+    "kidney and bones",
+    "bladder",
+    "attributed medical framework"
+  ],
+  "topic": "健康医疗",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 12,
+          "quote": "健康"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 251,
+          "end": 257,
+          "quote": "天同五行屬水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 22,
+          "quote": "斗數論健康，須以中醫理論為基準"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 251,
+          "end": 257,
+          "quote": "天同五行屬水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 293,
+          "end": 298,
+          "quote": "並會沖火鈴"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 227,
+          "end": 235,
+          "quote": "腎臟或膀胱的功能"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 282,
+          "end": 299,
+          "quote": "當天同坐入宮位忌煞交沖並會沖火鈴時"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 33,
+          "quote": "腎主水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 382,
+          "end": 385,
+          "quote": "腎主骨"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 270,
+          "end": 277,
+          "quote": "膀胱與腎相表裡"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "腎主水",
+        "proposed_category": "source_medical_framework",
+        "reason": "中医来源概念与命理联系保归属，不生成生物医学确证",
+        "english_surface": "Shen Zhu Shui",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "腎主骨",
+        "proposed_category": "source_medical_framework",
+        "reason": "中医来源概念与命理联系保归属，不生成生物医学确证",
+        "english_surface": "Shen Zhu Gu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "膀胱與腎相表裡",
+        "proposed_category": "source_medical_framework",
+        "reason": "中医来源概念与命理联系保归属，不生成生物医学确证",
+        "english_surface": "bladder-kidney interior-exterior relation",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "火星铃星"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

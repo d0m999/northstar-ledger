@@ -1,0 +1,128 @@
+{
+  "stage": "independent S5 candidate review, not whole-source S5/S6 acceptance",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "range": [
+    "C007",
+    "C009"
+  ],
+  "counts": {
+    "accept": 1,
+    "return": 2,
+    "blocked": 0
+  },
+  "method": "完整逐文阅读新04与候选，逐字段六维审查，核冻结词表与v4证据模型；再程序校验，非只依validator判定。",
+  "candidates_modified": false,
+  "old05_labels_read": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "candidate_path": "z073_rebuild_20261117/preparation/s5_candidates/c007.json",
+      "candidate_sha256": "db1a083da11d0302eb1497fe4e7083f550b69b3cc9659a8181e3986ec4b0bbf4",
+      "decision": "return",
+      "axes": {
+        "coverage": "完整阅读原文和全部候选字段。主要对象及条件限制保持；具体返修见issues。",
+        "binding": "分别核scope与实体角色；星曜入宫为一般规则/条件对象而非实盘。C009两个宫位关系分别来自两条原句，未把末尾OR转成同时入宫。C008未依据加火星推同宫；身命概括不强造同时入两宫。",
+        "time": "null reasons有效；不把中年/早年或婚姻论反推大限、本命盘或合盘。",
+        "content_type": "三块均是作者阐释、限定含古籍引文，概念解释正确，非实际案例。",
+        "english": "已逐句比较摘要/关键词与原文，C007核心财富地位锚点需补；C008保留古引文归属及早/中年而非确定事实；C009保留两宫择一与不能径断。",
+        "source_quality": "三块内容可读且本块限制足以独立理解，eligible合理，无usable_spans，也未靠降资格避开表达。"
+      },
+      "issues": [
+        {
+          "id": "C007-EN-01",
+          "axis": "english",
+          "severity": "revision",
+          "field": "summary_en",
+          "evidence": {
+            "start": 19,
+            "end": 40,
+            "quote": "就斷定武曲坐命者何者孰優孰劣或是能不能富貴"
+          },
+          "finding": "英文仅说judging Wu Qu natives，遗漏本段核心富贵判断对象；中文摘要有富贵但英文summary/keywords均无wealth/rank，英文检索锚点不完整。",
+          "action": "英文明确cannot determine wealth/rank from birthplace alone并保持宫位旺弱与中国大陆适用范围限制；不添新事实。"
+        }
+      ],
+      "all_fields_and_evidence_read": true,
+      "evidence_count": 10,
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "five_source_fields_exact": true,
+        "versions_exact": true,
+        "all_span_quotes_exact": true
+      },
+      "nonblocking_findings": [],
+      "modeling_gaps": "自然语言因果/价值判断无需强制编造relation；现有可表达入宫已保留。",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "candidate_path": "z073_rebuild_20261117/preparation/s5_candidates/c008.json",
+      "candidate_sha256": "0bd30c5710cf774b43b0a966424995baf1c646163c75a57b051a041f7b15d1b7",
+      "decision": "return",
+      "axes": {
+        "coverage": "完整阅读原文和全部候选字段。主要对象及条件限制保持；具体返修见issues。",
+        "binding": "分别核scope与实体角色；星曜入宫为一般规则/条件对象而非实盘。C009两个宫位关系分别来自两条原句，未把末尾OR转成同时入宫。C008未依据加火星推同宫；身命概括不强造同时入两宫。",
+        "time": "null reasons有效；不把中年/早年或婚姻论反推大限、本命盘或合盘。",
+        "content_type": "三块均是作者阐释、限定含古籍引文，概念解释正确，非实际案例。",
+        "english": "已逐句比较摘要/关键词与原文，C007核心财富地位锚点需补；C008保留古引文归属及早/中年而非确定事实；C009保留两宫择一与不能径断。",
+        "source_quality": "三块内容可读且本块限制足以独立理解，eligible合理，无usable_spans，也未靠降资格避开表达。"
+      },
+      "issues": [
+        {
+          "id": "C008-METHOD-01",
+          "axis": "binding",
+          "severity": "revision",
+          "field": "ziwei.analysis_methods.0",
+          "evidence": {
+            "start": 54,
+            "end": 74,
+            "quote": "守於身命入廟，三方吉拱無煞沖破，多為貴婦"
+          },
+          "finding": "候选三方四正比唯一原文三方吉拱宽；冻结词典分别注册三方/四正概念，方法三方四正无三方别名，不能只因三方出现而扩出四正方法。",
+          "action": "删除该未充分支持的方法标签及对应evidence，保留三方吉拱为有来源的unregistered_terms分析方法/规则候选，或给出冻结词典与本段明确证据证明等价；不得修改词典。"
+        }
+      ],
+      "all_fields_and_evidence_read": true,
+      "evidence_count": 18,
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "five_source_fields_exact": true,
+        "versions_exact": true,
+        "all_span_quotes_exact": true
+      },
+      "nonblocking_findings": [
+        "C008空劫/四煞集合未推出单星位置；寡宿/将星为性质称谓非小星，保守候选合法。"
+      ],
+      "modeling_gaps": "自然语言因果/价值判断无需强制编造relation；现有可表达入宫已保留。",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "candidate_path": "z073_rebuild_20261117/preparation/s5_candidates/c009.json",
+      "candidate_sha256": "26e41eb464189d557a9c3fc4be8d668617d2983c2509079da06f38741f1a6007",
+      "decision": "accept",
+      "axes": {
+        "coverage": "完整阅读原文和全部候选字段。主要对象及条件限制保持；具体返修见issues。",
+        "binding": "分别核scope与实体角色；星曜入宫为一般规则/条件对象而非实盘。C009两个宫位关系分别来自两条原句，未把末尾OR转成同时入宫。C008未依据加火星推同宫；身命概括不强造同时入两宫。",
+        "time": "null reasons有效；不把中年/早年或婚姻论反推大限、本命盘或合盘。",
+        "content_type": "三块均是作者阐释、限定含古籍引文，概念解释正确，非实际案例。",
+        "english": "已逐句比较摘要/关键词与原文，C007核心财富地位锚点需补；C008保留古引文归属及早/中年而非确定事实；C009保留两宫择一与不能径断。",
+        "source_quality": "三块内容可读且本块限制足以独立理解，eligible合理，无usable_spans，也未靠降资格避开表达。"
+      },
+      "issues": [],
+      "all_fields_and_evidence_read": true,
+      "evidence_count": 17,
+      "programmatic_checks": {
+        "frozen_validator": "passed",
+        "five_source_fields_exact": true,
+        "versions_exact": true,
+        "all_span_quotes_exact": true
+      },
+      "nonblocking_findings": [
+        "C009夫妻关系分析可由配偶个别差异句支持，不因此推合盘；原文会合四煞不是明确同宫，不能强记同宫。"
+      ],
+      "modeling_gaps": "自然语言因果/价值判断无需强制编造relation；现有可表达入宫已保留。",
+      "human_acceptance": false
+    }
+  ]
+}

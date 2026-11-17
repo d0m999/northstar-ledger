@@ -1,0 +1,4046 @@
+{
+  "task": "Full independent six-axis review C105–C109",
+  "created_utc": "2026-11-17T07:05:09.929164+00:00",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "immutable_snapshot_manifest_sha256": "597f71f12f3ea280afc7c6a48a89986592acd811a18d488052afe9043b4e3f87",
+  "method": "Read complete source, all top-level and domain fields, all evidence paths/scopes/quotes, bilingual text and eligibility; frozen validation is supplementary, specialist reports not substituted for full review.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c105",
+      "candidate_sha256": "3ac5ffb9509e0eb7e924b9be1953f1d3c45345e4f208889cf032324d6422cd39",
+      "snapshot_path": "preparation/independent_105_114_repaired_snapshot/c105.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Expressible chart facts retained; relative palace coordinate rule remains unexpressed in typed structure. Disclosure alone is not full coverage.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Conditional chart32 star/placement identity consistent, no effect-as-carrying-palace substitution.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Birth natal example, annual WuYin and RenZi grand cycle separately scoped.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanation with illustration justified.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Bilingual source attribution and not-inevitable injury maintained.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Full source eligible; no missing qualifier excluded.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        }
+      },
+      "findings": [
+        "Single topics_mentioned=[命运总论] but scalar topic null_reason=multiple_values is not supported; fill evidenced primary or accurate null rationale.",
+        "Relative Wealth reference not treated as actual natal Wealth; explicit chart32 Life placements and RenZi activation supported; no guaranteed injury."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 38,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 8,
+              "end": 19,
+              "quote": "白虎與喪門為成對的小星"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 57,
+              "end": 70,
+              "quote": "永遠坐入在太歲宮位的財帛宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 246,
+              "quote": "壬子限，武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 213,
+              "end": 224,
+              "quote": "隱藏的「因財持刀」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 8,
+              "end": 13,
+              "quote": "白虎與喪門"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 8,
+              "end": 13,
+              "quote": "白虎與喪門"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 242,
+              "end": 246,
+              "quote": "武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 194,
+              "quote": "武殺在卯坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 201,
+              "end": 207,
+              "quote": "擎羊在未來沖"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 62,
+              "end": 70,
+              "quote": "太歲宮位的財帛宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 225,
+              "end": 234,
+              "quote": "同時白虎也進入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 279,
+              "end": 289,
+              "quote": "卯宮在此大限就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "bai_sang",
+            "kind": "rule",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 8,
+              "end": 47,
+              "quote": "白虎與喪門為成對的小星，在命理的作用均主「官非」、「喪服」，兩者永遠在對宮相望"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 62,
+              "end": 70,
+              "quote": "太歲宮位的財帛宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 123,
+              "quote": "流年宮位的財帛宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 217,
+              "end": 221,
+              "quote": "因財持刀"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "birth_bingzi",
+            "kind": "conditional",
+            "condition": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 71,
+              "end": 102,
+              "quote": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0.chart_type",
+          "scope": {
+            "scope_id": "birth_bingzi",
+            "kind": "conditional",
+            "condition": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 71,
+              "end": 102,
+              "quote": "例如丙子年生人，因太歲宮位在子宮，故生年（或先天）白虎就在申宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "annual_wuyin",
+            "kind": "conditional",
+            "condition": "例如戊寅流年，流年白虎就在戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 124,
+              "end": 139,
+              "quote": "例如戊寅流年，流年白虎就在戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1.chart_type",
+          "scope": {
+            "scope_id": "annual_wuyin",
+            "kind": "conditional",
+            "condition": "例如戊寅流年，流年白虎就在戌宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 124,
+              "end": 139,
+              "quote": "例如戊寅流年，流年白虎就在戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "chart32_武曲",
+            "kind": "conditional",
+            "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 234,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "chart32_七杀",
+            "kind": "conditional",
+            "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 234,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "chart32_白虎",
+            "kind": "conditional",
+            "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 234,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "chart32_colocation",
+            "kind": "conditional",
+            "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 234,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2.chart_type",
+          "scope": {
+            "scope_id": "chart32_renzi",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 235,
+              "end": 277,
+              "quote": "等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "chart32_effect",
+            "kind": "conditional",
+            "condition": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 316,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 316,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 178,
+              "end": 316,
+              "quote": "例如盤三十二的男命，武殺在卯坐命，丁未年生人，擎羊在未來沖，使命宮成為隱藏的「因財持刀」凶格，同時白虎也進入命宮。等走到壬子限，武曲化忌，就來引動卯宮的凶格作用，此時白虎對卯宮的凶象才會有加重的作用，故卯宮在此大限就相當凶，但卻不能只因宮位有白虎進入，就一定會有「刑傷」發生。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 279,
+              "end": 289,
+              "quote": "卯宮在此大限就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false,
+      "ordinary_repairs_resolved": true,
+      "repair_check": {
+        "chunk": "C105",
+        "candidate_sha256": "3ac5ffb9509e0eb7e924b9be1953f1d3c45345e4f208889cf032324d6422cd39",
+        "old_snapshot_sha256": "fb1056cbacc60023715d11ff074c3161db76b52481ab56324bf0f37af8952447",
+        "changed_top_level_fields": [
+          "topic",
+          "annotation_evidence"
+        ],
+        "changed_evidence_paths": [
+          "topic"
+        ],
+        "fixes_verified": true
+      },
+      "findings_status": "V1 requested ordinary fixes resolved at this hash; original findings retained as audit history, typed limitations unchanged.",
+      "correction": "V2 accepted_independent_six_axis overstates completeness. Relative-reference Wealth sector is not a registered actual natal Wealth placement; unregistered_terms and prose preserve evidence but do not encode a typed coordinate-reference relation. Existing explicit chart facts are accepted, relative_palace_reference hold remains.",
+      "hold_sidecar": {
+        "chunk_id": "dots_all_20261013_ziwei_073_c105",
+        "candidate_sha256": "3ac5ffb9509e0eb7e924b9be1953f1d3c45345e4f208889cf032324d6422cd39",
+        "status": "BLOCKED_REPRESENTATION_WITH_EXPRESSIBLE_DRAFT",
+        "hold_type": "relative_palace_reference",
+        "reason": "白虎坐入太岁或流年参照宫的财帛扇区；通用palace不能直接表达相对坐标参照，不强当本命财帛宫。",
+        "schema_modified": false,
+        "retrieval_eligibility_not_lowered_for_hold": true,
+        "human_acceptance": false
+      }
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c106",
+      "candidate_sha256": "e70394e47c68a63691f264eaf3f7e1dd80aa8f25f353e1507f1f14c8af733f65",
+      "snapshot_path": "preparation/independent_105_114_repaired_snapshot/c106.json",
+      "decision": "accepted_independent_six_axis",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "One complete clause only; supported stars and placements covered.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "WuSha canonical expansion justified; QingYang Wei not mapped to invented functional palace.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "DingWei birth is not assumed annual/cycle.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Caption is case analysis.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Translation retains exact limited-clause facts and no restored trigger narrative.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Corrected limited usable span independently verified.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        }
+      },
+      "findings": [
+        "knowledge_domains has only 宫位变化 while scalar null_reason=multiple_values; topics empty while topic null_reason=multiple_values. Correct false null rationales or fill supported primary.",
+        "limited exact continuous 108:130 sentence is valid; no disordered caption reconstruction. Only this sentence supports placements/conjunction, no analysis method or transformation inferred."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 13,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "caption_武曲",
+            "kind": "conditional",
+            "condition": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "caption_七杀",
+            "kind": "conditional",
+            "condition": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "caption_colocation",
+            "kind": "conditional",
+            "condition": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 108,
+              "end": 130,
+              "quote": "武殺在卯坐命，丁未年生人，擎羊在未三合來沖。"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "limited",
+      "human_acceptance": false,
+      "ordinary_repairs_resolved": true,
+      "repair_check": {
+        "chunk": "C106",
+        "candidate_sha256": "e70394e47c68a63691f264eaf3f7e1dd80aa8f25f353e1507f1f14c8af733f65",
+        "old_snapshot_sha256": "73ad76b4b17fd2d3e57708554565b856b4bc811acf67cfbb96174183dc211f51",
+        "changed_top_level_fields": [
+          "annotation_evidence",
+          "ziwei"
+        ],
+        "changed_evidence_paths": [
+          "ziwei.knowledge_domain",
+          "topic"
+        ],
+        "fixes_verified": true
+      },
+      "findings_status": "V1 requested ordinary fixes resolved at this hash; original findings retained as audit history, typed limitations unchanged."
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c107",
+      "candidate_sha256": "ec061a658c7eb462e8f4ee1bde76d0d126227aee1ca7bd3d9a910f1e1e0b8643",
+      "snapshot_path": "preparation/independent_105_114_repaired_snapshot/c107.json",
+      "decision": "blocked_typed_hold_only",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "All expressible mechanisms read; independent Life branch added, typed meeting alternative not falsely resolved.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Quoted Xu conjunction source attribution differentiated from author explanation, except time evidence repair.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Ren annual quote and generic grand cycle distinct.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Concept explanatory discourse appropriate.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Gua Su typo repair; source metaphor and denial of inevitable self-harm preserved.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Intact source eligible.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        }
+      },
+      "findings": [
+        "Gu Su romanization for 寡宿 should be Gua Su in summary_en, keywords_en and unregistered term.",
+        "quoted_annual time evidence (and chart_type evidence) wrongly attributed 本书作者 though full quote belongs to prior quoted commentator. Align with quote attribution used for relation.",
+        "Single topic false multiple_values reason requires correction.",
+        "New independent same-Life branch valid; original alternative meeting structure remains specialist hold. Named WuQu and WenChang transformation branches independently supported."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 50,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 190,
+              "end": 198,
+              "quote": "「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 167,
+              "end": 172,
+              "quote": "武曲一化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 475,
+              "end": 487,
+              "quote": "武曲、陀羅及文昌均屬陰金"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 137,
+              "end": 148,
+              "quote": "武曲、陀羅、鈴星及文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 137,
+              "end": 148,
+              "quote": "武曲、陀羅、鈴星及文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 137,
+              "end": 148,
+              "quote": "武曲、陀羅、鈴星及文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 137,
+              "end": 148,
+              "quote": "武曲、陀羅、鈴星及文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 373,
+              "end": 383,
+              "quote": "財帛宮一定有廉貞坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 367,
+              "end": 372,
+              "quote": "武曲坐命者"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 373,
+              "end": 383,
+              "quote": "財帛宮一定有廉貞坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 311,
+              "quote": "終致潰敗"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.tiangan",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "activation_wu",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 178,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮，或分由三方四正來會合時，只要武曲一化忌，就非常凶險"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "activation_chang",
+            "kind": "conditional",
+            "condition": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 219,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.tiangan",
+          "scope": {
+            "scope_id": "activation_chang",
+            "kind": "conditional",
+            "condition": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 219,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.palace",
+          "scope": {
+            "scope_id": "activation_chang",
+            "kind": "conditional",
+            "condition": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 219,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.source_palace",
+          "scope": {
+            "scope_id": "activation_chang",
+            "kind": "conditional",
+            "condition": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 219,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.target_palace",
+          "scope": {
+            "scope_id": "activation_chang",
+            "kind": "conditional",
+            "condition": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 219,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格，其凶性亦強，惟不若由武曲化忌引動者來得凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "wu_life",
+            "kind": "conditional",
+            "condition": "首先，武曲坐命者，財帛宮一定有廉貞坐守",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 364,
+              "end": 383,
+              "quote": "首先，武曲坐命者，財帛宮一定有廉貞坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "lian_wealth",
+            "kind": "conditional",
+            "condition": "首先，武曲坐命者，財帛宮一定有廉貞坐守",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 364,
+              "end": 383,
+              "quote": "首先，武曲坐命者，財帛宮一定有廉貞坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "wu_ji_life",
+            "kind": "conditional",
+            "condition": "當武曲化忌時，因三方四正合會有陀羅及鈴星，使命宮不但成為忌煞交沖，且和廉貞合為正格的「財與囚仇」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 384,
+              "end": 434,
+              "quote": "當武曲化忌時，因三方四正合會有陀羅及鈴星，使命宮不但成為忌煞交沖，且和廉貞合為正格的「財與囚仇」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "wu_ji_lian",
+            "kind": "conditional",
+            "condition": "當武曲化忌時，因三方四正合會有陀羅及鈴星，使命宮不但成為忌煞交沖，且和廉貞合為正格的「財與囚仇」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 384,
+              "end": 434,
+              "quote": "當武曲化忌時，因三方四正合會有陀羅及鈴星，使命宮不但成為忌煞交沖，且和廉貞合為正格的「財與囚仇」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "wu_ji_bell",
+            "kind": "conditional",
+            "condition": "武曲化忌與鈴星也合為「寡宿」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 438,
+              "end": 454,
+              "quote": "武曲化忌與鈴星也合為「寡宿」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 427,
+              "end": 431,
+              "quote": "財與囚仇"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 449,
+              "end": 451,
+              "quote": "寡宿"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 549,
+              "end": 552,
+              "quote": "無情剋"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 117,
+              "quote": "地網"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 74,
+              "end": 76,
+              "quote": "祿馬"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "quoted_ren_xu",
+            "kind": "conditional",
+            "condition": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑",
+            "attribution": "先贤引文（作者后文否定必然投河解读）"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 125,
+              "quote": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "quoted_annual",
+            "kind": "conditional",
+            "condition": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑",
+            "attribution": "先贤引文（作者后文否定必然投河解读）"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 125,
+              "quote": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0.chart_type",
+          "scope": {
+            "scope_id": "quoted_annual",
+            "kind": "conditional",
+            "condition": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑",
+            "attribution": "先贤引文（作者后文否定必然投河解读）"
+          },
+          "spans": [
+            {
+              "start": 85,
+              "end": 125,
+              "quote": "再如文昌鈴星武曲三星之行限，逢壬流年，流陀在戌與三星同，戌為地網，更凶，必死無疑"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "grand_cycle",
+            "kind": "conditional",
+            "condition": "若是大限逢「鈴昌陀武」凶格，亦做同一論斷",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 220,
+              "end": 240,
+              "quote": "若是大限逢「鈴昌陀武」凶格，亦做同一論斷"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1.chart_type",
+          "scope": {
+            "scope_id": "grand_cycle",
+            "kind": "conditional",
+            "condition": "若是大限逢「鈴昌陀武」凶格，亦做同一論斷",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 220,
+              "end": 240,
+              "quote": "若是大限逢「鈴昌陀武」凶格，亦做同一論斷"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 198,
+              "quote": "若是由文昌化忌所引動的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 355,
+              "end": 363,
+              "quote": "可從四個方面來談"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 391,
+              "end": 404,
+              "quote": "因三方四正合會有陀羅及鈴星"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.6",
+          "scope": {
+            "scope_id": "independent_samepalace_branch",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 152,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.7",
+          "scope": {
+            "scope_id": "independent_life_武曲",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 152,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.8",
+          "scope": {
+            "scope_id": "independent_life_陀罗",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 152,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.9",
+          "scope": {
+            "scope_id": "independent_life_铃星",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 152,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.10",
+          "scope": {
+            "scope_id": "independent_life_文昌",
+            "kind": "conditional",
+            "condition": "當武曲、陀羅、鈴星及文昌同守命宮",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 152,
+              "quote": "當武曲、陀羅、鈴星及文昌同守命宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 311,
+              "quote": "終致潰敗"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "eligible",
+      "human_acceptance": false,
+      "ordinary_repairs_resolved": true,
+      "repair_check": {
+        "chunk": "C107",
+        "candidate_sha256": "ec061a658c7eb462e8f4ee1bde76d0d126227aee1ca7bd3d9a910f1e1e0b8643",
+        "old_snapshot_sha256": "6d685c1fc76bac6211ad3ac575059e779b7431ecde07057e113d7f2abb11592a",
+        "changed_top_level_fields": [
+          "summary_en",
+          "keywords_en",
+          "topic",
+          "annotation_evidence",
+          "ziwei"
+        ],
+        "changed_evidence_paths": [
+          "ziwei.time_mentions.0",
+          "topic",
+          "ziwei.time_mentions.0.chart_type"
+        ],
+        "fixes_verified": true
+      },
+      "findings_status": "V1 requested ordinary fixes resolved at this hash; original findings retained as audit history, typed limitations unchanged."
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c108",
+      "candidate_sha256": "0469f46b086a9a50db99efbf012e8e7c9047a94e5b60f645bb1ca4eb1b92f2d9",
+      "snapshot_path": "preparation/independent_105_114_repaired_snapshot/c108.json",
+      "decision": "blocked_typed_hold_only",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "General three-level theory and independent last rule plus chart33 covered.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Effects on career and natal Life same Xu have source support; not miscast physical placement.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Natal/cycle/annual scopes separately recorded; four-bearer alternative not assigned.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Case analysis acceptable given central worked chart33.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "HuaJi omission must be repaired; other conditions preserved.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited ends before broken chart34; all evidence inside usable span.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        }
+      },
+      "findings": [
+        "English any transformation of four stars omits explicit Hua Ji; specify Hua Ji.",
+        "Single topic false multiple_values reason requires correction.",
+        "Four named bearer/annual malefic alternative holds retained. Independent final WuQu Ji + annual TuoLuo rule and chart33 two-level Xu effects remain expressible; incomplete chart34 excluded."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 47,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 4,
+              "end": 12,
+              "quote": "「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 160,
+              "quote": "武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 45,
+              "end": 55,
+              "quote": "只要大限來引動此凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 160,
+              "quote": "武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 196,
+              "end": 213,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 196,
+              "end": 213,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 196,
+              "end": 213,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 242,
+              "quote": "擎羊或陀羅"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 242,
+              "quote": "擎羊或陀羅"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 318,
+              "end": 323,
+              "quote": "鈴星及文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 125,
+              "end": 131,
+              "quote": "先天命宮在戌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 163,
+              "end": 169,
+              "quote": "大限事業戌宮"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 271,
+              "end": 280,
+              "quote": "此大限恐難順利度過"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "chart33_natal",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 149,
+              "quote": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0.chart_type",
+          "scope": {
+            "scope_id": "chart33_natal",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 149,
+              "quote": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "chart33_natal",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 149,
+              "quote": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0.formation_status",
+          "scope": {
+            "scope_id": "chart33_natal",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 149,
+              "quote": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0.evidence",
+          "scope": {
+            "scope_id": "chart33_natal",
+            "kind": "conditional",
+            "condition": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 115,
+              "end": 149,
+              "quote": "例如盤三十三的男命，先天命宮在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1.chart_type",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.1",
+          "scope": {
+            "scope_id": "chart33_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "chart33_cycle_career",
+            "kind": "conditional",
+            "condition": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "chart33_natal_life",
+            "kind": "conditional",
+            "condition": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 187,
+              "quote": "走到壬午限，武曲化忌，致使大限事業戌宮（也是先天命宮）成為「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "chart33_annual_or",
+            "kind": "conditional",
+            "condition": "此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 269,
+              "quote": "此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2.chart_type",
+          "scope": {
+            "scope_id": "chart33_annual_or",
+            "kind": "conditional",
+            "condition": "此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 188,
+              "end": 269,
+              "quote": "此時只要流年再有武曲、廉貞、貪狼或文昌任一星曜化忌，甚至於不一定要上述四星曜任一化忌，只要是流年的擎羊或陀羅進入戌宮的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶性"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.tiangan",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.source_palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.target_palace",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.3",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.3.chart_type",
+          "scope": {
+            "scope_id": "generic_grand",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.4",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.4.chart_type",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.2",
+          "scope": {
+            "scope_id": "generic_annual",
+            "kind": "conditional",
+            "condition": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 305,
+              "end": 368,
+              "quote": "若是大限逢武曲化忌，並坐會鈴星及文昌，此時只要流年陀羅再進入此宮位的三方四正，即形成流年的「鈴昌陀武」凶格，故此一流年就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 271,
+              "end": 280,
+              "quote": "此大限恐難順利度過"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "limited",
+      "human_acceptance": false,
+      "ordinary_repairs_resolved": true,
+      "repair_check": {
+        "chunk": "C108",
+        "candidate_sha256": "0469f46b086a9a50db99efbf012e8e7c9047a94e5b60f645bb1ca4eb1b92f2d9",
+        "old_snapshot_sha256": "20130680dcfab8d0456fa2cb9e01903a9919f4f89acf339938caed3a089d1291",
+        "changed_top_level_fields": [
+          "summary_en",
+          "topic",
+          "annotation_evidence"
+        ],
+        "changed_evidence_paths": [
+          "topic"
+        ],
+        "fixes_verified": true
+      },
+      "findings_status": "V1 requested ordinary fixes resolved at this hash; original findings retained as audit history, typed limitations unchanged."
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c109",
+      "candidate_sha256": "e2f59d4fdaf8f10ee787b42ae9eef236335d73587572eb70fde5358b98716c94",
+      "snapshot_path": "preparation/independent_105_114_repaired_snapshot/c109.json",
+      "decision": "blocked_typed_hold_only",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "Readable caption retained independently, no borrowing preceding chart33 facts.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "Uncertain 成宫 and OR participants not guessed.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "Natal RenWu/annual mentions separately scoped; no actual annual star assignment.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "Case caption appropriate.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "Main bilingual facts intact; uncertain OCR explicitly retained.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "Continuous caption usable; interleaved chart excluded.",
+          "ordinary_fix_resolution": "Resolved by exact repair diff where requested; see repair_check."
+        }
+      },
+      "findings": [
+        "Single topic false multiple_values reason requires correction.",
+        "Caption scope supports local WuQu Ji and hidden/activated pattern; 成宫 not silently repaired to 戌宫, actual target and placements not borrowed from C108; alternatives retained."
+      ],
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "full_model_serialization": true,
+        "source_five_fields_exact": true,
+        "all_evidence_spans_exact": true,
+        "limited_evidence_inside_usable": true
+      },
+      "all_field_evidence_reviewed_count": 32,
+      "field_evidence": [
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 196,
+              "quote": "走到壬午限，武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 167,
+              "quote": "先天命宫在戌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 196,
+              "quote": "走到壬午限，武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 222,
+              "end": 239,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 222,
+              "end": 239,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 222,
+              "end": 239,
+              "quote": "武曲、廉貞、貪狼或文昌任一星曜化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 295,
+              "end": 307,
+              "quote": "命造在壬午限恐難順利度過"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0",
+          "scope": {
+            "scope_id": "caption_natal",
+            "kind": "conditional",
+            "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.0.chart_type",
+          "scope": {
+            "scope_id": "caption_natal",
+            "kind": "conditional",
+            "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0",
+          "scope": {
+            "scope_id": "caption_natal",
+            "kind": "conditional",
+            "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0.formation_status",
+          "scope": {
+            "scope_id": "caption_natal",
+            "kind": "conditional",
+            "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.0.evidence",
+          "scope": {
+            "scope_id": "caption_natal",
+            "kind": "conditional",
+            "condition": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.palace",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.source_palace",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.target_palace",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.1.chart_type",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.patterns_mentioned.1",
+          "scope": {
+            "scope_id": "caption_renwu",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 197,
+              "end": 199,
+              "quote": "成宫"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 243,
+              "end": 248,
+              "quote": "流羊、流陀"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2",
+          "scope": {
+            "scope_id": "caption_annual_or",
+            "kind": "conditional",
+            "condition": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 214,
+              "end": 275,
+              "quote": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_mentions.2.chart_type",
+          "scope": {
+            "scope_id": "caption_annual_or",
+            "kind": "conditional",
+            "condition": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象",
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 214,
+              "end": 275,
+              "quote": "此時只要流年再使武曲、廉貞、貪狼或文昌任一星曜化忌，或者是流羊、流陀進入戌宫的三合方，皆有可能會引爆「鈴昌陀武」凶格的凶象"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 186,
+              "end": 213,
+              "quote": "走到壬午限，武曲化忌，成宫就成為正格的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.2",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 161,
+              "end": 185,
+              "quote": "先天命宫在戌，三方四正合為隱藏的「鈴昌陀武」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": "used",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.school_variant",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "intro",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本书作者"
+          },
+          "spans": [
+            {
+              "start": 295,
+              "end": 307,
+              "quote": "命造在壬午限恐難順利度過"
+            }
+          ],
+          "basis": "source",
+          "usage": "discussed",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "retrieval_eligibility": "limited",
+      "human_acceptance": false,
+      "ordinary_repairs_resolved": true,
+      "repair_check": {
+        "chunk": "C109",
+        "candidate_sha256": "e2f59d4fdaf8f10ee787b42ae9eef236335d73587572eb70fde5358b98716c94",
+        "old_snapshot_sha256": "7e1436e99a6947d34bb7de8df1b663b6b48de93a9ca8989ba6a2c8d1f6468f82",
+        "changed_top_level_fields": [
+          "topic",
+          "annotation_evidence"
+        ],
+        "changed_evidence_paths": [
+          "topic"
+        ],
+        "fixes_verified": true
+      },
+      "findings_status": "V1 requested ordinary fixes resolved at this hash; original findings retained as audit history, typed limitations unchanged."
+    }
+  ],
+  "rules_consulted": {
+    "CONTRACT.md": "f2e54fe3d6dc501b9ea937993f9db0f4fa81a797fa7ed15f8ac4b8c52dc57080",
+    "QUALITY_REVISION_4.md": "9091c8f3e63c5a516ac9d14f2f1039801a155c6d4a32078fc4e52d5eab1377c2"
+  },
+  "old05_read": false,
+  "candidate_files_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "previous_review_sha256": "a6dba2899ef64270e9c5f8e58e43f72e62f1320c1804785e227befb929abef2e",
+  "review_version": 3,
+  "revision_method": "Explicit correction of C105 decision taxonomy; V2 preserved unchanged. No candidate/rule/schema changed."
+}

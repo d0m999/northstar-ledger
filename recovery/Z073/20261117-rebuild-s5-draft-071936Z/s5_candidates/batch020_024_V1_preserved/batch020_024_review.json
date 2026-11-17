@@ -1,0 +1,244 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "current_source_chunk_count": 293,
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old_05_read": false,
+  "formal_05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c020",
+      "candidate_file": "c020.json",
+      "candidate_sha256": "9aaa6bad0f5c2ae04db5082f087122e301d31c9bbbe4a443bafa4282222d0aa3",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句读正文与可用段。主要事实、条件与否定保留；待独立语义验收，剩余问题见findings。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "精确Unicode偏移、scope与来源归属；明确同宫/入命有对象绑定，命盘图混排不推位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "只C021/C024写明确大限，不据出生天干、太岁宫位或一般命宫补本命/流年；chart_type空附null原因。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020及C024按具体盘号比较为案例分析；C021至C023以规则与条件解释为实战断语，不因全批填同一类型。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐块完整英文摘要及关键词无CJK，保留星曜、四化、位置与条件/否定；不从上一块补事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020/C024因实际OCR混排和残句局部可用，其余eligible；不是因表达困难降资格。"
+        }
+      },
+      "findings": [
+        "只用盘四可读caption，排盘混排全部不提供实体或位置证据。",
+        "「高器」疑似OCR但不改，不补终句命理结论。",
+        "没有明写盘类或本命时间；壬年仅作为明确四化天干，不机械补本命盘。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "candidate_file": "c021.json",
+      "candidate_sha256": "aab9f2e7cf1a879e13e9e9cbb9ad2ae0c8cc1d9946ca18f0f130197e0a965f03",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句读正文与可用段。主要事实、条件与否定保留；待独立语义验收，剩余问题见findings。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "精确Unicode偏移、scope与来源归属；明确同宫/入命有对象绑定，命盘图混排不推位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "只C021/C024写明确大限，不据出生天干、太岁宫位或一般命宫补本命/流年；chart_type空附null原因。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020及C024按具体盘号比较为案例分析；C021至C023以规则与条件解释为实战断语，不因全批填同一类型。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐块完整英文摘要及关键词无CJK，保留星曜、四化、位置与条件/否定；不从上一块补事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020/C024因实际OCR混排和残句局部可用，其余eligible；不是因表达困难降资格。"
+        }
+      },
+      "findings": [
+        "祿馬交馳含化禄或禄存，并非禄存天马pair的无条件别名；未填该pair。化禄star未说明，null/not_mentioned。",
+        "武曲旺宫坐命（身）为两种位置条件，当前仅宫位提及，未强造二宫同占关系；独审需判断是否须像C002隔离位置备选表达。",
+        "大限对象武曲，未推大限盘；先天命宫不凭常识转本命时间。1995课程日期是来源书目，不是推运对象。",
+        "四马地支作用、天府巳酉/七杀寅戌比较各自留原条件与具体location；无实例排盘。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "candidate_file": "c022.json",
+      "candidate_sha256": "2e90e1bf70aa39acb41fc27030afe3f6927339a8d49c07aa3b929a713f20bc3c",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "BLOCKED_EXPRESSIBLE_DRAFT",
+      "source_fields_exact": true,
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "blocked",
+          "notes": "逐句读正文与可用段。备选四化对象无法无损写入，明确保留未覆盖项及BLOCKED。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "blocked",
+          "notes": "精确Unicode偏移、scope与来源归属；明确同宫/入命有对象绑定，命盘图混排不推位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "只C021/C024写明确大限，不据出生天干、太岁宫位或一般命宫补本命/流年；chart_type空附null原因。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020及C024按具体盘号比较为案例分析；C021至C023以规则与条件解释为实战断语，不因全批填同一类型。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐块完整英文摘要及关键词无CJK，保留星曜、四化、位置与条件/否定；不从上一块补事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020/C024因实际OCR混排和残句局部可用，其余eligible；不是因表达困难降资格。"
+        }
+      },
+      "findings": [
+        "BLOCKED：武曲或贪狼任一星曜化禄/化忌，SihuaMention.star只能单星/null；不能拆为两星同时化，也不能null/not_mentioned抹去明确备选对象。草稿未生成这些四化对象，正文/双语摘要保留完整；未宣称覆盖完整。",
+        "丑未位置是分支组，不从星曜同宫断唯一具体星位；当前同宫关系保留原句范围，位置待表达复核。",
+        "原引文「灭番」疑字，不能据此推定寿命；正文另明确不能断一定短命，摘要保留否定。",
+        "源质量完整可读eligible，表达阻塞独立，不降limited或archive_only。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "candidate_file": "c023.json",
+      "candidate_sha256": "02ac7bd2ba67829b5cbf10ba0893f318ec91cd19f8dd8787ce091b229bf32df8",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句读正文与可用段。主要事实、条件与否定保留；待独立语义验收，剩余问题见findings。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "精确Unicode偏移、scope与来源归属；明确同宫/入命有对象绑定，命盘图混排不推位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "只C021/C024写明确大限，不据出生天干、太岁宫位或一般命宫补本命/流年；chart_type空附null原因。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020及C024按具体盘号比较为案例分析；C021至C023以规则与条件解释为实战断语，不因全批填同一类型。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐块完整英文摘要及关键词无CJK，保留星曜、四化、位置与条件/否定；不从上一块补事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020/C024因实际OCR混排和残句局部可用，其余eligible；不是因表达困难降资格。"
+        }
+      },
+      "findings": [
+        "区分古赋「同度或对照」与作者火星贪狼同宫会吉条件；未把两个关系作同时成立。",
+        "火贪成格限定于作者条件，并非现存命例成格；铃贪仅替换机制讨论，formation_status=null。",
+        "武曲与贪狼同宫/对宫两规则scope分别保留丑未与辰戌分支原句；具体多选地支未伪造单位置。独审核此表达是否需进一步隔离。",
+        "五行墓库表及社会条件保留在全文/摘要，未发明新relation类型；不将一般机制未建模自动判合同阻塞。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "candidate_file": "c024.json",
+      "candidate_sha256": "79653a5be1069e73dc82c84fbbf340fca80bfb434cea3339ed7d99962dfdcf50",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐句读正文与可用段。主要事实、条件与否定保留；待独立语义验收，剩余问题见findings。"
+        },
+        "binding": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "精确Unicode偏移、scope与来源归属；明确同宫/入命有对象绑定，命盘图混排不推位置。"
+        },
+        "time": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "只C021/C024写明确大限，不据出生天干、太岁宫位或一般命宫补本命/流年；chart_type空附null原因。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020及C024按具体盘号比较为案例分析；C021至C023以规则与条件解释为实战断语，不因全批填同一类型。"
+        },
+        "english": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "逐块完整英文摘要及关键词无CJK，保留星曜、四化、位置与条件/否定；不从上一块补事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "result": "reviewed_with_findings",
+          "notes": "C020/C024因实际OCR混排和残句局部可用，其余eligible；不是因表达困难降资格。"
+        }
+      },
+      "findings": [
+        "仅前完整规则与两例、末尾盘五可读caption为usable；盘七未完成条件及中间OCR排盘排除，不能据片段补结果或四化。",
+        "己年两四化与癸年一四化独立case scope；不跨案例传播擎羊、吉凶或四化天干。",
+        "太岁宫位此处出生年位置，不按词表太岁别名误作流年时间或太岁星；用unregistered_terms保留。",
+        "盘五「武食」疑字原样；仅前文明确武曲贪狼提供标签，不从排盘图或疑字重建。",
+        "火贪讨论保留同宫条件但无当前成格判断；大限规则显式时间对象，不推大限盘。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

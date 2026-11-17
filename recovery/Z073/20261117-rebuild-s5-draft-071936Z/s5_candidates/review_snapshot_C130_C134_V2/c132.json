@@ -1,0 +1,786 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c132",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    172,
+    173
+  ],
+  "chunk_text": "在談及婚姻感情時，一般而言，若是正常的婚姻感情就不能以「意外」來論。當一個人結婚後，在婚姻感情上有所謂的「意外」發生時，往往代表此人在感情方面有出軌現象，即有婚外情，或是有外遇。\n天梁在賦性上有主「意外」的作用，故命宮或夫妻宮有天梁坐入者，而且此二宮位又會有諸多桃花星曜，在談及婚姻感情時，就得留意是否會有上述的「意外」現象發生。天同在巳亥坐命者，因對宮天梁的作用，就可能會有如上述在感情方面的「意外」現象。\n因此，天同在巳或亥坐命，只要命宮或夫妻宮會到桃花星，此時若命宮及夫妻宮會吉多且不會煞者，代表其人的「感情較豐富」或「較懂得享受男女之間的生活情趣」。反之，若是命宮及夫妻宮不會吉且會煞多或忌煞交沖者，不論男女，在感情方面就易放蕩不拘，若是女命，就易如先賢所說的「淫蕩不免」。\n惟須注意的是，天同在巳或亥坐命者，若是命宮有祿存同坐，或是坐會魁鉞，或是坐會空劫，則不可以「放蕩」論之，須視實際星曜組合來論。因為祿存坐命之人，個性較為保守、穩重，而命會魁鉞之人，為人較正直、正派，至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉，故上述三種命格之人，在感情方面就不一定會有問題。\n",
+  "chunk_index": 132,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者以天梁意外特质解释命或夫妻会桃花的婚姻风险，并论天同巳亥命：多吉无煞可表感情丰富，无吉多煞则可能不利，但祿存同坐、会魁钺或空劫为明确例外，须实际组合。均为来源命理判断，不据此指认现实出轨。",
+  "summary_en": "The author links Tian Liang’s accident symbolism with relationship risks when Life or Spouse meets peach-blossom stars. For Si–Hai Tian Tong Life, many benefics without malefics may signify emotional richness, whereas lack of benefics and many malefics may be unfavorable. Lu Cun sharing Life, or meetings with Kui Yue or Kong Jie, are explicit exceptions requiring actual combinations. These are attributed astrological claims, not evidence of real infidelity.",
+  "keywords": [
+    "天梁",
+    "天同",
+    "命宫",
+    "夫妻宫",
+    "桃花",
+    "禄存",
+    "魁钺",
+    "空劫",
+    "例外条件"
+  ],
+  "keywords_en": [
+    "Tian Liang",
+    "Tian Tong",
+    "Life Palace",
+    "Spouse Palace",
+    "peach blossoms",
+    "Lu Cun",
+    "Kui Yue",
+    "Kong Jie",
+    "explicit exceptions"
+  ],
+  "topic": "感情姻缘",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 105,
+          "quote": "天梁在賦性上有主「意外」的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 394,
+          "end": 404,
+          "quote": "須視實際星曜組合來論"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 96,
+          "quote": "天梁在賦性上"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 165,
+          "end": 173,
+          "quote": "天同在巳亥坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 407,
+          "end": 413,
+          "quote": "祿存坐命之人"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 107,
+          "end": 113,
+          "quote": "命宮或夫妻宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 107,
+          "end": 113,
+          "quote": "命宮或夫妻宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 3,
+          "end": 7,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "lucun_exception",
+        "kind": "conditional",
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 349,
+          "end": 368,
+          "quote": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "life_天同",
+        "kind": "conditional",
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 349,
+          "end": 368,
+          "quote": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "life_禄存",
+        "kind": "conditional",
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 349,
+          "end": 368,
+          "quote": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 234,
+          "end": 248,
+          "quote": "命宮及夫妻宮會吉多且不會煞者"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 371,
+          "end": 375,
+          "quote": "坐會魁鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 378,
+          "end": 382,
+          "quote": "坐會空劫"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 214,
+          "quote": "巳或亥"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 3,
+          "end": 7,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 373,
+          "end": 375,
+          "quote": "魁鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 380,
+          "end": 382,
+          "quote": "空劫"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 470,
+          "quote": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "kongjie_life_地空",
+        "kind": "conditional",
+        "condition": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 470,
+          "quote": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 470,
+          "quote": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "kongjie_life_地劫",
+        "kind": "conditional",
+        "condition": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 470,
+          "quote": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "tong_liang_opposition",
+        "kind": "conditional",
+        "condition": "天同在巳亥坐命者，因對宮天梁的作用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 165,
+          "end": 182,
+          "quote": "天同在巳亥坐命者，因對宮天梁的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "感情姻缘"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "lucun_exception",
+        "negated": false,
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_天同",
+        "negated": false,
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_禄存",
+        "negated": false,
+        "condition": "天同在巳或亥坐命者，若是命宮有祿存同坐"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "地空",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "kongjie_life_地空",
+        "negated": false,
+        "condition": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "地劫",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "kongjie_life_地劫",
+        "negated": false,
+        "condition": "至於空劫入命者，空劫會將前述同梁巳亥的放蕩作用沖淡或轉化掉"
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "reference_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "opposite_star",
+            "location": null
+          }
+        ],
+        "scope_id": "tong_liang_opposition",
+        "negated": false,
+        "condition": "天同在巳亥坐命者，因對宮天梁的作用"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "坐會魁鉞",
+        "proposed_category": "source_meeting_condition",
+        "reason": "对星已在合法pair字段登记；此项仅保来源会照条件，不推同宫或位置",
+        "english_surface": "Kui Yue meeting",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "坐會空劫",
+        "proposed_category": "source_meeting_condition",
+        "reason": "对星已在合法pair字段登记；此项仅保来源会照条件，不推同宫或位置",
+        "english_surface": "Kong Jie meeting",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "巳或亥",
+        "proposed_category": "source_condition_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Si or Hai",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天梁",
+      "天同",
+      "禄存",
+      "地空",
+      "地劫"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "夫妻宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "天魁天钺",
+      "地空地劫"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

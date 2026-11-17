@@ -1,0 +1,74 @@
+{
+  "task": "Independent specialist representation review C090/C093/C094",
+  "created_utc": "2026-11-17T07:08:20.832098+00:00",
+  "records": [
+    {
+      "new_chunk_number": "C090",
+      "candidate_sha256": "0d71ac62f396973844435916cb210ad6ed0945e93fad2dcfa5d4a4fb6aa0f77b",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "0df16b1b93594324687507a1b889848ec2a55c5e63c09eb3782c77ecbb0d9a79",
+      "source_evidence": [
+        {
+          "start": 162,
+          "end": 182,
+          "quote": "命身宮合會有武曲、破軍、文昌、文曲四星曜"
+        }
+      ],
+      "issue_family": "meeting_body_life_unassigned",
+      "typed_gap": "Hai WuQu/PoJun same palace and both Life placements are independently explicit and already encoded. General four-star meeting across Life/Body does not assign all four to one palace; no registered meeting relation or choice-mapping exists.",
+      "ordinary_repairs": [],
+      "decision": "expressible_parts_reviewed_typed_hold_remains",
+      "full_six_axis_review": false
+    },
+    {
+      "new_chunk_number": "C093",
+      "candidate_sha256": "ccf3afa0133db53a9d8c57d0e7a2badf91ba0ac5ee3c852bf0f08598d40ba96b",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "42abb7e3892f7a66f92ff6b57a18b3a8cbca5885bc9c386b423d1d86cfe4c80b",
+      "source_evidence": [
+        {
+          "start": 51,
+          "end": 68,
+          "quote": "此二星不能同度，僅可分處於身命二地"
+        }
+      ],
+      "issue_family": "unordered_two_star_body_life_mapping",
+      "typed_gap": "Negative conjunction supported. No source order-based mapping of WuQu vs LianZhen to Life/Body.",
+      "ordinary_repairs": [
+        "Explicit cross-reference 有關武曲坐命逢廉貞的命理作用 supports a WuQu-Life placement as mentioned with cross-reference scope; not LianZhen-Life. Current draft omits this expressible relation."
+      ],
+      "decision": "return_expressible_omission_with_typed_hold",
+      "full_six_axis_review": false
+    },
+    {
+      "new_chunk_number": "C094",
+      "candidate_sha256": "e2057d3a361e76e34403e4a393e415bf5e3ce588e39e91ec5b503f73bb031d80",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_text_sha256": "593f4dd55ed79c29176aa67eabf4d160b04ba757415693b0b925dc28aac5b651",
+      "source_evidence": [
+        {
+          "start": 54,
+          "end": 68,
+          "quote": "若陷弱在亥，或分處二地之身命"
+        }
+      ],
+      "issue_family": "alternative_branch_vs_split_body_life",
+      "typed_gap": "Explicit split-body-Life branch supports negative conjunction; hypothetical alternative Hai must not assert all source branches simultaneously or assign Body/Life.",
+      "ordinary_repairs": [
+        "Author phrase 為增進讀者對武破坐命者的命理現象 supports independent two Life placements and conjunction in introductory scope. Current draft only has negative conjunction; add supported positive branch without removing split-case hold."
+      ],
+      "decision": "return_expressible_omission_with_typed_hold",
+      "full_six_axis_review": false
+    }
+  ],
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "schema_modified": false,
+  "candidates_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "rule_basis": [
+    "RelationParticipant.location is scalar; no alternatives mapping",
+    "Registry only 同宫/星曜入宫/夹辅/对宫/四化作用; meeting is not conjunction",
+    "QUALITY_REVISION_4: exact source scope, condition, negation and source attribution retained"
+  ]
+}

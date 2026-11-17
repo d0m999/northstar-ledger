@@ -1,0 +1,212 @@
+{
+  "review": "Independent C070/C071/C073/C085-C088 exact type boundaries",
+  "created_utc": "2026-11-17T06:50:48.989936+00:00",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c070",
+      "reviewed_input_bytes_sha256": "c5a18a87f7473cb3f1c3a2cedfc37977af97614756c2525952652bafc59f1efe",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c071",
+      "reviewed_input_bytes_sha256": "a73baeb02839f72ed0d5f36d976af97f5e115a19535a80068f40a679d315943b",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c073",
+      "reviewed_input_bytes_sha256": "a725b3d2e638e1c220781a56d889eac1eadf8186f3551af74546937abeece478",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c085",
+      "reviewed_input_bytes_sha256": "aab63611fa3cea60ce6c321eac4de799020d8a8d2baa9d5ecb794edb433a796d",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c086",
+      "reviewed_input_bytes_sha256": "e08a11ff5910800dbb83bc997119d60a3a47a68327502632b0d9cb90ce3fa27e",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c087",
+      "reviewed_input_bytes_sha256": "100edc688255467299e60159cba63946d1f3c5579cb2772befaaa7fac131d2e2",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c088",
+      "reviewed_input_bytes_sha256": "ddd44abfbf87603473c652b491c39b0ce21721c26661561609810cce9b202c78",
+      "source_five_fields_exact": true,
+      "validator_passed": true
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C070",
+      "issue_family": "禄存寅宫独立地支入宫",
+      "evidence": [
+        {
+          "start": 12,
+          "end": 19,
+          "quote": "祿存在寅宮坐守"
+        }
+      ],
+      "assessment": "Confirmed standalone branch-only placement gap: registered 星曜入宫 requires registered functional palace. Source does not identify functional palace at Yin. Preserve LuCun mention, source location text and all independently explicit WuQu Life/LianZhen Wealth/transformation actions. Do not invent a second star or palace simply to carry location. No missing 同宫/夹辅 relation is asserted for LuCun here.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "limited",
+        "reason": "末句福德午宫作用尚未完成；不从下一块补字。开头应字疑点原样留存。",
+        "usable_spans": [
+          {
+            "start": 0,
+            "end": 142,
+            "quote": "武曲应辰坐命，甲年生人，祿存在寅宮坐守（盤二十一）。武曲為財星，化科之後，因化科的聰明才智及條理清晰作用，有助於求財，再加上廉貞化祿自財帛子宮來照，更能彰顯出武曲的財星作用。不僅如此，財帛子宮除得廉貞化祿坐入外，三合更有武曲化科及破軍化權來會照，使財帛子宮成為「三奇嘉會」宮位，甚吉。"
+          }
+        ]
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C071",
+      "issue_family": "匿名四化承载作用",
+      "evidence": [
+        {
+          "start": 419,
+          "end": 434,
+          "quote": "先後天命宮強旺，且均有化權坐入"
+        }
+      ],
+      "assessment": "Named natal WuQu Quan and generic cycle Quan can be separately retained, the latter star=null genuinely unnamed. SihuaMention can hold unnamed Quan and Life carrying palace with cycle evidence; only representing its participant-level anonymous effect in 四化作用 is missing. Do not claim all placement information unexpressible or copy natal WuQu into cycle. Distinct named later cycles/actions continue.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "limited",
+        "reason": "图表与图说交错且后字续句主语不全；仅觀諸行限起连续完整正文。",
+        "usable_spans": [
+          {
+            "start": 276,
+            "end": 629,
+            "quote": "觀諸行限，男命順行。戊辰限，貪狼化祿吉化命宮，使命宮成為雙祿會照的宮位，甚吉。己巳限，武曲化祿自坐先天命宮，使得先天命宮成為「雙祿交馳」的吉旺宮位，故大限命宮的太陽化忌，僅主辛勞。庚午限，先天命宮雖因天同化忌而成為雙忌夾制宮位，但也得武曲化權來吉化，而且大限命宮也有先天雙祿來會照，由於先後天命宮強旺，且均有化權坐入，會更加凸顯出命造做事的強烈企圖心，因此先天命宮雙化忌的夾制，只代表過程的辛勞，此大限仍以吉論。辛未限，巨門化祿吉化大限命宮，吉。壬申限，大限命宮得先天雙祿吉化後，非常強旺，此時雖有武曲化忌來沖，僅主辛勞。癸酉限，大限命宮忌煞交沖，且先天命宮亦有貪狼化忌來沖，此皆不利，但因大限事業宮尚有先天雙祿來吉輔，而破軍化祿也來吉化先天遷移宮，因此只要能小心行事，則此大限雖會極端勞碌，然應無大礙。\n"
+          }
+        ]
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C073",
+      "issue_family": "独立地支入宫与邻宫分配边界",
+      "evidence": [
+        {
+          "start": 12,
+          "end": 18,
+          "quote": "祿存坐入巳宫"
+        }
+      ],
+      "assessment": "Narrow author hold: existing explicit 夹辅 already has LuCun participant; its location scalar can legally be 巳 from first source sentence, with both spans and common natal case. Thus known LuCun branch location need not remain omitted. Standalone 星曜入宫 to branch 巳 remains unavailable, but do not call actual LuCun location totally unrepresentable. Unknown TianTong neighbor branch/orientation must not be inferred from WuQu Chen and LuCun Si using external chart knowledge. Named flanking, transformation and other functional placements remain valid.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "limited",
+        "reason": "只取完整论述，后续排盘与图说混排不据以补落宫或行运。",
+        "usable_spans": [
+          {
+            "start": 0,
+            "end": 350,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用，此時陀羅被制煞為用，對武曲的權柄也有助強作用。由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之（請參閱前面武曲在辰坐命癸年生人的相關說明）。惟須注意的是，財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位，因此命造一生在求財方面，會比較勞碌，即辛苦得財。至於賦文中的「財逢廉貞平和之地化忌」只是說明，廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之。另外，賦文中的「主為人親友關係極佳，多貴人」，「親友」在此實指「人際」，此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助。"
+          }
+        ]
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C085",
+      "issue_family": "地支组及空宫借照",
+      "evidence": [
+        {
+          "start": 259,
+          "end": 284,
+          "quote": "命宮在辰或戌宮為空宮而以對宮天機天梁的作用照入來論"
+        }
+      ],
+      "assessment": "Independent Wealth vs Property conditions are complete and already separately expressed. ZiWei/QiSha Life conjunction is shared across Si/Hai options; keep it with location null. Chen/Xu empty Life is a set without selected branch. Do not place TianJi/TianLiang into empty Life. Explicit 对宫 relation between named source stars and Life target can preserve opposition using registered star/palace entities, but does not itself encode generic borrowed influence or emptiness. No 全块 hold.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "eligible",
+        "reason": null,
+        "usable_spans": []
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C086",
+      "issue_family": "星曜/命身/辰戌未分配映射",
+      "evidence": [
+        {
+          "start": 576,
+          "end": 599,
+          "quote": "若是武貪分坐辰戌二宮，而命身宮也分坐此二宮位者"
+        }
+      ],
+      "assessment": "Confirmed two-star, two-palace, two-branch mapping is unspecified. Keep independent Chou/Wei Life conjunction with unresolved branch. Ordinary available addition: negative 同宫 between WuQu/TanLang under the complete separated-ChenXu clause; unlike C051 literary bearer ambiguity, BOTH stars here are explicit. This does not resolve assignment. Do not mechanically convert age thirty into exact fortune-cycle date.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "eligible",
+        "reason": null,
+        "usable_spans": []
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C087",
+      "issue_family": "命身迁移耦合支位",
+      "evidence": [
+        {
+          "start": 280,
+          "end": 309,
+          "quote": "命宮在丑或未為空宮，而身宮（也是遷移宮）在未或丑有武貪坐守"
+        }
+      ],
+      "assessment": "Confirmed coupled alternatives: Life Chou with Body/Travel Wei or reverse, no selected branch. Shared both-star Body/Travel placements, conjunction and Life/Travel opposition are legitimate and already encoded, not simultaneous duplicate locations. Empty Life must not become WuQu/TanLang occupancy. Generic unnamed opposing support is not missing actual case location to infer.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "eligible",
+        "reason": null,
+        "usable_spans": []
+      },
+      "full_candidate_accepted": false
+    },
+    {
+      "chunk": "C088",
+      "issue_family": "非四化借照作用",
+      "evidence": [
+        {
+          "start": 315,
+          "end": 341,
+          "quote": "于先生命身在未空宮坐守，以對宮丑宮的武貪作用照入來論"
+        }
+      ],
+      "assessment": "Narrow hold to borrowed-influence semantics, NOT location or opposition: Wei empty Life/Body and Chou WuQu/TanLang are exact, no OR. Registered 对宫 can express star-vs-Life and star-vs-Body opposition with concrete Chou/Wei location and source evidence. Do not put stars into Wei. No generic borrowed-influence relation is registered; 四化作用 would be wrong for untransformed borrowed WuQu/TanLang. Explicit natal conjunctions and GuiSi Career placement/transformation effects continue.",
+      "decision": "specific_hold_only; authoring_of_expressible_facts_continues",
+      "source_quality": {
+        "status": "limited",
+        "reason": "末尾行业条件未完，不补结论；此前叙事和命例完整可用。",
+        "usable_spans": [
+          {
+            "start": 0,
+            "end": 597,
+            "quote": "命例-武貪不發少年人？\n為增進讀者對武貪丑未坐命者的命理現象，有進一步的認認，茲舉下列命例說明之。\n于先生大學外文系畢業，二十七歲時進入台北的一家日本大商社台北支店上班，由於他精通英日語，人也很能幹，因此很被頂頭上司重用。打從進入這家公司，就在台灣推銷日本產製的重工業機械類產品，諸如船艦、工廠機械設備，甚至整廠輸入台灣的大金額之類生意。當時正是台灣工業剛起步階段，因此市場對此類機械需求特別殷切。那時也是日本大商社積極進入台灣市場的初階段時期，公司因需仰賴本地員工來爭取生意，因此他一直被歷任日人支店長，視為最得意的左右手，他也在任職的十五六年前後，發了不少財。他從二十七歲到職不幾年，以一個上班族所得財利之豐，堪稱少年得志。\n于先生命身在未空宮坐守，以對宮丑宮的武貪作用照入來論（盤二十六）。武貪在丑三合有左輔右弼並祿存來合，同時酉宮的火星得同宮的祿存及左輔吉化後，和丑宮的貪狼合為「火貪」吉格，故武貪在丑非常吉旺，作用照射到未宮時，仍以吉論。\n二十七歲時，大限行入癸巳限。大限本宮為坐會左右並祿存的「紫殺帶威權」吉旺宮位，大限事業宮有廉破與祿存同宮，另外，大限癸干的破軍化祿，不但使大限事業酉宮再見化祿，使得原本就相當吉旺的大限本宮及事業宮更加強旺，此時火星及因癸干而來的貪狼化忌均被制煞為用，故此忌煞交沖只意味著他工作的忙碌，以及他之所以會經辦重機械業務，而非一般商品生意的命理表徵。\n"
+          }
+        ]
+      },
+      "full_candidate_accepted": false
+    }
+  ],
+  "registry": "Relation types: 同宫,星曜入宫,夹辅,对宫,四化作用; entities: star,palace,pattern. Scalar participant location can retain a KNOWN branch in an independently supported relation, but cannot create standalone placement or OR/mapping semantics. No generic borrowed-influence relation or anonymous transformation participant.",
+  "candidate_or_schema_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

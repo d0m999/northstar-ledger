@@ -1,0 +1,100 @@
+{
+  "updated_at": "2026-11-17T06:24:33.329937+00:00",
+  "run_id": "run-20261117-z073-rebuild-001",
+  "stages": {
+    "S0": "passed",
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "passed",
+    "S4": "passed",
+    "S5": "in_progress",
+    "S6": "not_started",
+    "S7": "not_started"
+  },
+  "total_frozen_chunks": 293,
+  "materialized_candidate_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "materialized_count": 29,
+  "materialized_is_not_accepted": true,
+  "candidate_dir": "z073_rebuild_20261117/preparation/s5_candidates",
+  "formal05_written": false,
+  "active_authoring_ranges": [
+    [
+      30,
+      34
+    ],
+    [
+      35,
+      44
+    ],
+    [
+      45,
+      54
+    ]
+  ],
+  "ordinary_revisions_in_progress": [
+    [
+      12,
+      14
+    ],
+    [
+      15,
+      19
+    ],
+    [
+      20,
+      24
+    ]
+  ],
+  "known_representation_review_numbers": [
+    2,
+    14,
+    19,
+    22,
+    29
+  ],
+  "old_27_holds_transferred_or_resolved": false,
+  "next_range_after_assignments": 55,
+  "contract_version": "dots-all-sources-2026-10-13-v4",
+  "contract_modified": false,
+  "source_label_exposure": {
+    "original_repository05_labels_read": false,
+    "prior_partial_dot_decisions_seen_by_coordinator": true,
+    "blind_claim": false
+  },
+  "notes": [
+    "Freeze S4 artifacts; only S5 candidates/reviews are mutable.",
+    "Use matching candidate hashes in independent reviews; stale-hash acceptance does not accept later revisions.",
+    "Continue expressible work; preserve typed-representation issues separately, never lower retrieval quality merely to bypass structure.",
+    "No final delivery or S5/S6 whole-source acceptance claimed."
+  ]
+}

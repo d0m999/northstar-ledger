@@ -1,0 +1,529 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c128",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    167,
+    168
+  ],
+  "chunk_text": "除上述對女命天同的正面說法外，同樣在《全書，諸星入命身限吉凶訣》裡卻另有截然不同的敘述，即「天同若與太陰同，女命逢之淫巧容，衣祿雖豐終不美，偏房侍人與人通」。《全書，諸星問答論》在論及天同時，亦有「女人逢煞沖破，刑夫剋子，梁月沖破宜作偏房」，而先賢對此亦多所著墨如下：「女命廟旺得之，一生安享，富裕，助夫益子，亦是相貌端莊秀麗，但巳亥二宮，女命雖美貌，加吉亦有富贵，而淫蕩不免，如在酉宮，女多再嫁，或是妾侍，因酉，乃水之沐浴地也，丑未宮落陷，加煞多是風塵中之女，若有吉扶，亦是先賤後富裕，不做全美論之。」如上所述，天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下，就能彰顯出其為人溫和、善良及仁慈的一面，加上凡事能隨遇而安、謹守本分的個性，多半就能與人和諧相處。\n從前的社會，生活型態以大家庭為主，女人在操持家務時，須以和為貴，才能促進家庭的和樂。現今社會雖以小家庭為主，但家庭及其他人際關係的和諧，仍是家庭和樂不可或缺的因素。當一個女人能使家庭成員和樂相處及維持對外人際關係的和諧，就已達到如傳統所謂的「助夫益子」的功能，又能知足常樂，加上天同的「安享」作用，也就可能達到如先賢所言的「一生安享，富裕」（註四）。\n",
+  "chunk_index": 128,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "本段引用女命天同同太阴、陷宫和煞冲的贬抑古说，随后作者以旺宫多吉少煞下的温和知足解释家庭与人际和谐、安享。相关旧时性道德与婚姻断语为引文，不是可据此判定实际女性品行；支位条件保留，不把巳亥、丑未合成单位置。",
+  "summary_en": "The passage quotes disparaging traditional claims about female Tian Tong charts, Tai Yin conjunction, fallen placements and malefic attack. The author then explains favorable strong placement with many benefics and few malefics through gentleness, contentment and harmonious family and social relationships. Quoted sexual-morality and marriage judgments are historical claims, not evidence about real women’s conduct. Branch conditions are retained without treating Si–Hai or Chou–Wei as a single location.",
+  "keywords": [
+    "天同",
+    "太阴",
+    "女命",
+    "旺陷",
+    "吉煞",
+    "家庭和谐",
+    "古赋引述"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Tai Yin",
+    "female-chart claims",
+    "strong and fallen placement",
+    "benefic and malefic support",
+    "family harmony",
+    "historical quotations"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 257,
+          "end": 264,
+          "quote": "天同旺宮坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 265,
+          "end": 275,
+          "quote": "在會多吉星且會少煞星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 53,
+          "quote": "天同若與太陰同"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 53,
+          "quote": "天同若與太陰同"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 257,
+          "end": 264,
+          "quote": "天同旺宮坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 194,
+          "end": 198,
+          "quote": "女多再嫁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 392,
+          "end": 404,
+          "quote": "家庭及其他人際關係的和諧"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "quoted_tong_yue",
+        "kind": "conditional",
+        "condition": "天同若與太陰同，女命逢之淫巧容",
+        "attribution": "《全书，诸星入命身限吉凶诀》历史引文"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 61,
+          "quote": "天同若與太陰同，女命逢之淫巧容"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "author_favorable_life",
+        "kind": "conditional",
+        "condition": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 257,
+          "end": 286,
+          "quote": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 257,
+          "end": 286,
+          "quote": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "quoted_terms",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 111,
+          "end": 115,
+          "quote": "梁月沖破"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "quoted_terms",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 165,
+          "end": 169,
+          "quote": "巳亥二宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "quoted_terms",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 215,
+          "end": 220,
+          "quote": "丑未宮落陷"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "quoted_terms",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 191,
+          "end": 193,
+          "quote": "酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "人际关系"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_tong_yue",
+        "negated": false,
+        "condition": "天同若與太陰同，女命逢之淫巧容"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "author_favorable_life",
+        "negated": false,
+        "condition": "天同旺宮坐命者，在會多吉星且會少煞星，甚或不會煞星的情況下"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "梁月沖破",
+        "proposed_category": "source_conditional_location",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Liang Yue Chong Po",
+        "scope_id": "quoted_terms"
+      },
+      {
+        "surface": "巳亥二宮",
+        "proposed_category": "source_conditional_location",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Si Hai",
+        "scope_id": "quoted_terms"
+      },
+      {
+        "surface": "丑未宮落陷",
+        "proposed_category": "source_conditional_location",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Chou Wei fallen",
+        "scope_id": "quoted_terms"
+      },
+      {
+        "surface": "酉宮",
+        "proposed_category": "source_conditional_location",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "You palace",
+        "scope_id": "quoted_terms"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "太阴"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

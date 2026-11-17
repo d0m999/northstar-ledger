@@ -1,0 +1,546 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c114",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    145
+  ],
+  "chunk_text": "在斗數的甲級星曜中和壽命有關者，有天機、貪狼、天同及天梁四顆星曜。就斗數命盤的組合而言，貪狼永遠不會在天同的三合方宮位，但天同坐命者，必有天機坐入三合方的事業宮。因天同與天機均為「益壽」之宿，且在彼此的三合方宮位，故在談到壽命方面，彼此就有互為引動加強的作用。再者，就甲級星曜在命盤的十二種組合來看，天同守命再坐會天梁者，更高達八種，由於天梁亦為與壽命有關的星曜，此時就會益加彰顯天同在壽命的作用。\n因天同在壽命的作用，《全書，諸星入命身限吉凶訣》在談到天同入男命時，就有「天同坐命性温良，福祿悠悠番更長」的說法，而《全書，諸星在命身及十二宮吉凶要訣》也有「天同守命三方吉會，縱本宫值煞相守，亦主番考之福」的敘述。但斗數星曜在其賦性所主或專司方面，視其星曜組合之吉凶，反而會凸顯出在此方面的特別好或特別不好。\n就「壽命」一事，天同旺宮（盤一）坐命且會吉多而不會煞（或會煞少）者，會彰顯出其在「壽命」的正面作用，即此人會較長壽。反之，若是天同在陷宮坐命且會煞多者，呈現在「壽命」方面則以負面作用較強，雖不能據此論斷此人一定會早天，但大概也不會很長壽。故天同坐命者未必就會如上二賦文所言，一定會長壽。",
+  "chunk_index": 114,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者列天机、贪狼、天同、天梁关寿命；天同命必有天机三合事业，天梁会照可强化此作用，贪狼不在天同三合。吉凶仍须条件：天同旺命多吉少煞利寿，陷命多煞较不利，但不能断必早夭，也不能以福星保证长寿。古引「番」疑字不修。",
+  "summary_en": "The author associates Tian Ji, Tan Lang, Tian Tong and Tian Liang with longevity. Tian Tong in Life is accompanied by Tian Ji in trine Career; Tian Liang’s participation may reinforce the claimed effect, while Tan Lang is not in Tian Tong’s trines. Favorability remains conditional: strong Tian Tong in Life with many benefics and few malefics favors longevity, while fallen placement with many malefics is less favorable. Neither certain early death nor guaranteed long life follows. Unclear Fan characters in the quoted verses are preserved.",
+  "keywords": [
+    "天同",
+    "天机",
+    "贪狼",
+    "天梁",
+    "命宫",
+    "事业宫",
+    "寿命",
+    "旺陷吉煞"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Tian Ji",
+    "Tan Lang",
+    "Tian Liang",
+    "Life Palace",
+    "Career Palace",
+    "longevity",
+    "strength and support"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 9,
+          "end": 15,
+          "quote": "和壽命有關者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 80,
+          "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 28,
+          "quote": "天機、貪狼、天同及天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 28,
+          "quote": "天機、貪狼、天同及天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 28,
+          "quote": "天機、貪狼、天同及天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 28,
+          "quote": "天機、貪狼、天同及天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 66,
+          "quote": "天同坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 77,
+          "end": 80,
+          "quote": "事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 355,
+          "end": 362,
+          "quote": "就「壽命」一事"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "tong_life",
+        "kind": "conditional",
+        "condition": "天同坐命者，必有天機坐入三合方的事業宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 80,
+          "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "ji_career",
+        "kind": "conditional",
+        "condition": "天同坐命者，必有天機坐入三合方的事業宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 61,
+          "end": 80,
+          "quote": "天同坐命者，必有天機坐入三合方的事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 363,
+          "end": 388,
+          "quote": "天同旺宮（盤一）坐命且會吉多而不會煞（或會煞少）者"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 249,
+          "end": 252,
+          "quote": "番更長"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 298,
+          "end": 302,
+          "quote": "番考之福"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 463,
+          "quote": "早天"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "tong_life",
+        "negated": false,
+        "condition": "天同坐命者，必有天機坐入三合方的事業宮"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天机",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "ji_career",
+        "negated": false,
+        "condition": "天同坐命者，必有天機坐入三合方的事業宮"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "番更長",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原文疑字不更改，不据此推具体寿数",
+        "english_surface": "Fan Geng Chang",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "番考之福",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原文疑字不更改，不据此推具体寿数",
+        "english_surface": "Fan Kao Zhi Fu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "早天",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原文疑字不更改，不据此推具体寿数",
+        "english_surface": "Zao Tian",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天机",
+      "贪狼",
+      "天同",
+      "天梁"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

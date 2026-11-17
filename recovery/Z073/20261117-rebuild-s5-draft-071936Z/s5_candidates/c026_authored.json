@@ -1,0 +1,378 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c026",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    50,
+    51
+  ],
+  "chunk_text": "太陽已 父母火星武曲辰 命宮天同卯 兄弟破軍午福德天機未田宅天紫府微申事業合太陰年酉僕役局月日贪狼時戌遷移七殺寅夫妻天梁丑子女天廉相貞子財帛巨門亥 疾厄盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。",
+  "chunk_index": 26,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘七图说武曲在辰坐命、火星同宫；作者称武曲火星寡宿凶格，须会多吉星且行限佳才可论吉。原文武曲食狼疑名不强改，前部命盘混排不用作星位依据；大富贵不能脱离限制。",
+  "summary_en": "Chart 7 states Wu Qu in the Life Palace at Chen with Huo Xing sharing the palace. The author describes a Gua Su adverse configuration and allows a favorable reading only with many auspicious stars AND favorable timing. The corrupted Wu Qu Shi Lang wording is not repaired, and the mixed chart is not used for placements. Great wealth and rank cannot be detached from these restrictions.",
+  "keywords": [
+    "武曲",
+    "火星",
+    "命宫",
+    "辰",
+    "寡宿",
+    "吉星",
+    "行限"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Huo Xing",
+    "Life Palace",
+    "Chen",
+    "Gua Su",
+    "auspicious stars",
+    "timing"
+  ],
+  "topic": null,
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "stars_mentioned": [
+      "武曲",
+      "火星"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c26_chart7",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c26_chart7",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "辰"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "member",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c26_chart7",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern",
+        "reason": "来源凶格名称，非小星寡宿或泛化孤寡格。",
+        "english_surface": "Gua Su adverse configuration",
+        "scope_id": "c26_chart7"
+      },
+      {
+        "surface": "食狼",
+        "proposed_category": "ocr_uncertain",
+        "reason": "未确认贪狼，不依原图补字。",
+        "english_surface": "Shi Lang uncertain OCR",
+        "scope_id": "c26_chart7"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": "格局解析"
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c26_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c26_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 84,
+          "quote": "武曲在辰坐命"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 89,
+          "quote": "武曲在辰坐命有火星同踞"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c26_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 127,
+          "end": 151,
+          "quote": "除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c26_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 103,
+          "end": 109,
+          "quote": "主「大富貴」"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c26_chart7",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 151,
+          "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+        }
+      ]
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c26_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅可读盘七图说；前部跨宫混排不解读，食狼疑名保留。",
+    "usable_spans": [
+      {
+        "start": 76,
+        "end": 151,
+        "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

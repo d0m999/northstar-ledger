@@ -1,0 +1,636 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c127",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    166,
+    167
+  ],
+  "chunk_text": "由於同梁僅在寅申二宮同度，且皆為旺宮，但同梁在寅其三方分別有天機及太陰旺宮來合，而同梁在申其三方的天機為旺宮但太陰則為弱陷，故相較之下同梁在寅就比在申來得旺些，此即賦文中所說的「二星僅寅申二宮同處，以寅較申為佳」的原因。\n至於賦文中所說「加吉扶，都是富貴雙全之人」，任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人，並不限於同梁在寅申二宮坐命者。\n《全集，女命賦》曰：「廉貞清白能相守，更有天同理亦然。」本賦文提到，不僅是廉貞坐命的女人能守婦道（有關廉貞星的賦性作用將於後再解說），天同坐命的女人也是如此。在《全書，諸星入命身限吉凶訣》裡也有類似的說法，即「同守命婦人貞，性格聰明伶俐人」。\n一般說來，不論男女，只要是天同坐命會多吉星而會少煞星者，其為人行事較能隨遇而安，不會有非份之想，加上個性溫和、善良，因此做起事來就能謹守本分不踰矩。古傳賦文卻將此一特質，強調在女人能守婦道一事上，只是在男尊女卑的社會下的產物。又，前面提及，只要天同坐命且會多吉星者，不論男女，聰明才智都不錯，因此賦文中的「性格聰明伶俐人」只是說明，對一個性情溫和又具聰明機巧的女人，自然會予人以「伶俐」（黠慧靈巧）的感覺。\n",
+  "chunk_index": 127,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "同梁寅申皆旺，寅三方天机太阴皆旺，申方太阴弱，故寅较强；富贵仍须旺宫多吉少煞。作者将女命天同守妇道旧说解释为温和守分、随遇而安及聪明，强调男女皆适用，旧赋的性别强调来自男尊女卑社会。",
+  "summary_en": "Tian Tong and Tian Liang are strong at both Yin and Shen. Yin has strong Tian Ji and Tai Yin in its trines, whereas Tai Yin is weaker around Shen, so Yin is described as stronger. Wealth and status still require strong placement, many benefics and few malefics. The author interprets traditional female chastity claims as gentleness, contentment, restraint and intelligence applicable to all genders, attributing the gendered emphasis to a patriarchal society.",
+  "keywords": [
+    "天同",
+    "天梁",
+    "天机",
+    "太阴",
+    "寅申",
+    "吉煞",
+    "女命赋",
+    "性别限制批评"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "Tian Liang",
+    "Tian Ji",
+    "Tai Yin",
+    "Yin Shen",
+    "conditional support",
+    "female-chart verses",
+    "critique of gendered claims"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 325,
+          "end": 336,
+          "quote": "其為人行事較能隨遇而安"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 79,
+          "quote": "同梁在寅就比在申來得旺些"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 242,
+          "end": 246,
+          "quote": "天同坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 2,
+          "end": 12,
+          "quote": "同梁僅在寅申二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "quote": "天機及太陰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "quote": "天機及太陰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 212,
+          "end": 219,
+          "quote": "廉貞坐命的女人"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 242,
+          "end": 246,
+          "quote": "天同坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 363,
+          "end": 370,
+          "quote": "謹守本分不踰矩"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "branch_group",
+        "kind": "conditional",
+        "condition": "同梁僅在寅申二宮同度，且皆為旺宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 2,
+          "end": 18,
+          "quote": "同梁僅在寅申二宮同度，且皆為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "yin_colocation",
+        "kind": "conditional",
+        "condition": "同梁在寅其三方分別有天機及太陰旺宮來合",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 39,
+          "quote": "同梁在寅其三方分別有天機及太陰旺宮來合"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "shen_colocation",
+        "kind": "conditional",
+        "condition": "同梁在申其三方的天機為旺宮但太陰則為弱陷",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 41,
+          "end": 61,
+          "quote": "同梁在申其三方的天機為旺宮但太陰則為弱陷"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "gender_neutral_life",
+        "kind": "conditional",
+        "condition": "不論男女，只要是天同坐命會多吉星而會少煞星者",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 302,
+          "end": 324,
+          "quote": "不論男女，只要是天同坐命會多吉星而會少煞星者"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "quoted_lian_life",
+        "kind": "conditional",
+        "condition": "不僅是廉貞坐命的女人能守婦道",
+        "attribution": "古赋解说，后文批评性别局限"
+      },
+      "spans": [
+        {
+          "start": 209,
+          "end": 223,
+          "quote": "不僅是廉貞坐命的女人能守婦道"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 133,
+          "end": 158,
+          "quote": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 6,
+          "end": 8,
+          "quote": "寅申"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "wealth_conditions",
+        "kind": "conditional",
+        "condition": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 133,
+          "end": 158,
+          "quote": "任何星曜只要是旺宮會多吉星且會少煞星，都是富貴之人"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "人际关系",
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "branch_group",
+        "negated": false,
+        "condition": "同梁僅在寅申二宮同度，且皆為旺宮"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "寅"
+          },
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": "寅"
+          }
+        ],
+        "scope_id": "yin_colocation",
+        "negated": false,
+        "condition": "同梁在寅其三方分別有天機及太陰旺宮來合"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": "申"
+          }
+        ],
+        "scope_id": "shen_colocation",
+        "negated": false,
+        "condition": "同梁在申其三方的天機為旺宮但太陰則為弱陷"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "gender_neutral_life",
+        "negated": false,
+        "condition": "不論男女，只要是天同坐命會多吉星而會少煞星者"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "quoted_lian_life",
+        "negated": false,
+        "condition": "不僅是廉貞坐命的女人能守婦道"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "寅申",
+        "proposed_category": "branch_alternatives",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Yin Shen",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "天梁",
+      "天机",
+      "太阴",
+      "廉贞"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

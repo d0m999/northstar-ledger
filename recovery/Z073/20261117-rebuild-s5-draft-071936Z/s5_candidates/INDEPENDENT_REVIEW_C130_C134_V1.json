@@ -1,0 +1,132 @@
+{
+  "task": "Independent S5 C130–134 V1",
+  "reviewer_is_author": false,
+  "old_05_read": false,
+  "hash_method": "All raw bytes frozen before first read; hashes calculated from immutable snapshot only.",
+  "counts": {
+    "accept": 1,
+    "return": 4,
+    "blocked": 0
+  },
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c130",
+      "candidate_sha256": "fe0710ae5deb381450caa5c7d3ac76ead4326fb08e9fd5ebf1b1fbc709518df1",
+      "reviewed_input_bytes_sha256": "fe0710ae5deb381450caa5c7d3ac76ead4326fb08e9fd5ebf1b1fbc709518df1",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C130_C134_V1/c130.json",
+      "decision": "return",
+      "typed_hold": true,
+      "structural_validation": "passed complete model and validator",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "逐块全文及所有ziwei字段、证据scope/condition/attribution核查；已注册巨机/对星和独立入命漏项见返修。",
+        "binding": "借对宫作用非实体入住；巳亥/卯酉泛位置和任意水星不得定配；明确独立关系仍须输出。",
+        "time": "130–132/134无明确运期不推；133先后天已说而后天类型未知，应保明确本命部分与对象OR缺口。",
+        "content_type": "五块概念规则/婚姻论述和130caption，未把作者假设当真实个人指认。",
+        "english": "全部摘要实读，保多吉少煞、例外与作者不等于必然淫荡/现实出轨的限制；134传统续弦侍妾说法非建议。",
+        "source_quality": "130理论与caption可读、半句与排盘排除合理；131起始边界过度排除完整句需修；132–134eligible合理；未读旧05。"
+      },
+      "required_changes": [
+        "巨机在冻结词典star_interactions为机巨同宫明确缩称，补天机/巨门提及和合法同宫关系/interaction，不能只称未注册。",
+        "对宫巨机与夫妻宫的对宫关系可表达；具体亥命例夫妻酉目标有明文，只记录对宫影响对象，不把巨机坐入夫妻。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c131",
+      "candidate_sha256": "904a730c9894666c5c24d18652d58ac543dfaa8e459e4b960268f99271e29e19",
+      "reviewed_input_bytes_sha256": "904a730c9894666c5c24d18652d58ac543dfaa8e459e4b960268f99271e29e19",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C130_C134_V1/c131.json",
+      "decision": "return",
+      "typed_hold": true,
+      "structural_validation": "passed complete model and validator",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "逐块全文及所有ziwei字段、证据scope/condition/attribution核查；已注册巨机/对星和独立入命漏项见返修。",
+        "binding": "借对宫作用非实体入住；巳亥/卯酉泛位置和任意水星不得定配；明确独立关系仍须输出。",
+        "time": "130–132/134无明确运期不推；133先后天已说而后天类型未知，应保明确本命部分与对象OR缺口。",
+        "content_type": "五块概念规则/婚姻论述和130caption，未把作者假设当真实个人指认。",
+        "english": "全部摘要实读，保多吉少煞、例外与作者不等于必然淫荡/现实出轨的限制；134传统续弦侍妾说法非建议。",
+        "source_quality": "130理论与caption可读、半句与排盘排除合理；131起始边界过度排除完整句需修；132–134eligible合理；未读旧05。"
+      },
+      "required_changes": [
+        "巨机同样已注册，补天机及机巨同宫/夫妻对宫关系，原卯酉位置OR与借照表达hold继续。",
+        "可用span当前从90开始丢掉完整独立句“星曜居弱陷宮位，又與三方的主要星曜相剋，除非是會吉多且不會煞，否則會更凸顯出賦性的負面作用。”应从该完整句起保留可用，不补开头残句。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c132",
+      "candidate_sha256": "8aef5fefd0d385476a2c4795e1aa7d06bc6c4da22185ebbd0407565fe6846a3c",
+      "reviewed_input_bytes_sha256": "8aef5fefd0d385476a2c4795e1aa7d06bc6c4da22185ebbd0407565fe6846a3c",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C130_C134_V1/c132.json",
+      "decision": "return",
+      "typed_hold": true,
+      "structural_validation": "passed complete model and validator",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文及所有ziwei字段、证据scope/condition/attribution核查；已注册巨机/对星和独立入命漏项见返修。",
+        "binding": "借对宫作用非实体入住；巳亥/卯酉泛位置和任意水星不得定配；明确独立关系仍须输出。",
+        "time": "130–132/134无明确运期不推；133先后天已说而后天类型未知，应保明确本命部分与对象OR缺口。",
+        "content_type": "五块概念规则/婚姻论述和130caption，未把作者假设当真实个人指认。",
+        "english": "全部摘要实读，保多吉少煞、例外与作者不等于必然淫荡/现实出轨的限制；134传统续弦侍妾说法非建议。",
+        "source_quality": "130理论与caption可读、半句与排盘排除合理；131起始边界过度排除完整句需修；132–134eligible合理；未读旧05。"
+      },
+      "required_changes": [
+        "魁钺与空劫已有canonical对星天魁天钺、地空地劫，补合法提及，不只列未注册。",
+        "末段独立“至於空劫入命者”支持地空/地劫各入命，勿误推两星实际同宫；天同巳亥因对宫天梁作用支持对宫关系，位置组仍hold。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c133",
+      "candidate_sha256": "39ecfe0d9a1f9bc4a7530f72afba5d8add1009868cdb7c676f437b7d2233f525",
+      "reviewed_input_bytes_sha256": "39ecfe0d9a1f9bc4a7530f72afba5d8add1009868cdb7c676f437b7d2233f525",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C130_C134_V1/c133.json",
+      "decision": "return",
+      "typed_hold": true,
+      "structural_validation": "passed complete model and validator",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文及所有ziwei字段、证据scope/condition/attribution核查；已注册巨机/对星和独立入命漏项见返修。",
+        "binding": "借对宫作用非实体入住；巳亥/卯酉泛位置和任意水星不得定配；明确独立关系仍须输出。",
+        "time": "130–132/134无明确运期不推；133先后天已说而后天类型未知，应保明确本命部分与对象OR缺口。",
+        "content_type": "五块概念规则/婚姻论述和130caption，未把作者假设当真实个人指认。",
+        "english": "全部摘要实读，保多吉少煞、例外与作者不等于必然淫荡/现实出轨的限制；134传统续弦侍妾说法非建议。",
+        "source_quality": "130理论与caption可读、半句与排盘排除合理；131起始边界过度排除完整句需修；132–134eligible合理；未读旧05。"
+      },
+      "required_changes": [
+        "魁钺/空劫已注册对星须保合法提及。",
+        "水星化忌且非忌煞交冲作为例外为实际四化分析，补方法证据，仍不猜具体化曜星。",
+        "明确先后天命或夫妻语境不能时间全空且not_mentioned；至少先天本命可按原集合subject记录，后天类型未明不推大限/流年，保持对象OR hold。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c134",
+      "candidate_sha256": "50176cdd2f5a6b2e578e18bdbac21bc17361b2a360284f14757de939ff1d4ba8",
+      "reviewed_input_bytes_sha256": "50176cdd2f5a6b2e578e18bdbac21bc17361b2a360284f14757de939ff1d4ba8",
+      "snapshot_file": "preparation/s5_candidates/review_snapshot_C130_C134_V1/c134.json",
+      "decision": "accept",
+      "typed_hold": false,
+      "structural_validation": "passed complete model and validator",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "逐块全文及所有ziwei字段、证据scope/condition/attribution核查；已注册巨机/对星和独立入命漏项见返修。",
+        "binding": "借对宫作用非实体入住；巳亥/卯酉泛位置和任意水星不得定配；明确独立关系仍须输出。",
+        "time": "130–132/134无明确运期不推；133先后天已说而后天类型未知，应保明确本命部分与对象OR缺口。",
+        "content_type": "五块概念规则/婚姻论述和130caption，未把作者假设当真实个人指认。",
+        "english": "全部摘要实读，保多吉少煞、例外与作者不等于必然淫荡/现实出轨的限制；134传统续弦侍妾说法非建议。",
+        "source_quality": "130理论与caption可读、半句与排盘排除合理；131起始边界过度排除完整句需修；132–134eligible合理；未读旧05。"
+      },
+      "required_changes": [],
+      "human_acceptance": false
+    }
+  ],
+  "formal_outputs_modified": false
+}

@@ -1,0 +1,181 @@
+{
+  "created_utc": "2026-11-17T06:39:29.335219+00:00",
+  "review": "Independent frozen registry and typed-binding review",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c058",
+      "candidate_sha256": "01dcde45e11133249c7cd2ebe6bba89ce5924255b441d20562456ec45ffbfc83",
+      "source_exact": true,
+      "evidence_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c059",
+      "candidate_sha256": "ee18cb1b4b8873739187c28f8e4eb3bf691b0479f9d56cd124739b3163ba8e89",
+      "source_exact": true,
+      "evidence_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c077",
+      "candidate_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "source_exact": true,
+      "evidence_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c078",
+      "candidate_sha256": "1e5d31dbd69fd0b72a7376638c502c8ba9710a91e1489fac2f92b0501b474e70",
+      "source_exact": true,
+      "evidence_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c079",
+      "candidate_sha256": "26025b54b8200c54ed3c7eb00a4483f2470c9a2482656b46b1e126509ff69469",
+      "source_exact": true,
+      "evidence_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C058",
+      "decision": "retain_precise_temporal_bearer_assignment_hold",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unresolved_multi_cycle_assignment"
+      ],
+      "evidence": [
+        {
+          "start": 10,
+          "end": 54,
+          "quote": "自丁丑限到丁卯限，連著三個大限，不是太陰化祿，就是天同化祿，和寅宮的祿存吉輔命宮，甚佳。"
+        }
+      ],
+      "gap": "Three-cycle span names Tai Yin or Tian Tong Hua Lu supporting Life, but does not assign a unique bearer to each cycle. Single star and tiangan fields plus one scope_id cannot encode the unassigned bearer-per-cycle mapping. Neither known four-transformation tables nor guessed intermediate cycles are source evidence.",
+      "expressible": "Exact multi-cycle span may be retained as one time mention with original subject text and explicit aggregate scope, not three invented cycle objects. Later individually named cycles and their concrete transformations/target relations remain expressible. Existing missing aggregate time mention is ordinary coverage work, not a reason to stop all later facts.",
+      "ordinary_review": "Do not use null/not_mentioned for named alternatives. For named later cycles, review explicit source-linked stem fields separately rather than fill every co-scoped transformation from the cycle stem; prior natal transformations can coexist with cycle transformations.",
+      "qualification": "limited",
+      "additional_binding_check": "C058 GengWu has TaiYang HuaJi and TaiYang HuaLu in the same broad scope. Existing bare-star 夹辅 plus role hua_ji_flanker retains a human-readable qualifier, but must not be claimed to be a typed reference to a specific Sihua object. Keep exact evidence distinguishing flanking Ji from supporting Lu; this is not permission to relabel every bare-star relation as full transformed-entity binding. Review any demand for exact transformed-instance retrieval separately."
+    },
+    {
+      "chunk": "C059",
+      "decision": "retain_precise_temporal_bearer_assignment_hold",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unresolved_multi_cycle_assignment"
+      ],
+      "evidence": [
+        {
+          "start": 286,
+          "end": 323,
+          "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+        }
+      ],
+      "gap": "Three-cycle span names Tai Yin or Tian Tong Hua Lu supporting natal Property, but does not assign a unique bearer to each cycle. Single star and tiangan fields plus one scope_id cannot encode the unassigned bearer-per-cycle mapping. Neither known four-transformation tables nor guessed intermediate cycles are source evidence.",
+      "expressible": "Exact multi-cycle span may be retained as one time mention with original subject text and explicit aggregate scope, not three invented cycle objects. Later individually named cycles and their concrete transformations/target relations remain expressible. Existing missing aggregate time mention is ordinary coverage work, not a reason to stop all later facts.",
+      "ordinary_review": "Do not use null/not_mentioned for named alternatives. For named later cycles, review explicit source-linked stem fields separately rather than fill every co-scoped transformation from the cycle stem; prior natal transformations can coexist with cycle transformations.",
+      "qualification": "eligible",
+      "expressible_details": "WuQu/TanLang Chou Life conjunction, Sun/Moon flanking, WuChen TanLang Lu and JiSi WuQu/LianZhen Lu supports are independently stated. Empty Wei borrowing opposite WuQu does not make WuQu physically in Wei or Shen; current affected Property Shen is not a carrying palace."
+    },
+    {
+      "chunk": "C077",
+      "decision": "confirmed_missing_transformation_entity_and_generic_target_structure",
+      "issue_families": [
+        "transformation_relation_participant",
+        "generic_palace_variable"
+      ],
+      "evidence": [
+        {
+          "start": 4,
+          "end": 42,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。"
+        }
+      ],
+      "actual_registry": "ziwei_vocabulary.yaml relation_entities contains ONLY star:[stars], palace:[twelve_palaces,special_palaces], pattern:[patterns]. relation_types includes 夹辅 and 星曜入宫, so missing RELATION TYPE is not the problem. No transformation participant or anonymous any-palace variable is registered.",
+      "gap": "HuaLu/HuaKe flank HuaQuan as transformed entities with unnamed carriers and generic target palace. Sihua mentions can retain types with genuinely unnamed star=null, but cannot be linked as relation participants. Cannot invent 化禄星/任意宫 or use registered unrelated star/palace/pattern as a surrogate.",
+      "expressible": "Three generic transformation mentions with correct null reasons, source names for three patterns, and comparison-only 三奇嘉会. No actual formed 三奇嘉会 should be asserted.",
+      "qualification": "eligible unchanged"
+    },
+    {
+      "chunk": "C078",
+      "decision": "narrow_author_hold; additional_independent_branch_is_expressible",
+      "issue_families": [
+        "unordered_star_palace_assignment_in_wealth_career_branch"
+      ],
+      "evidence": [
+        {
+          "start": 219,
+          "end": 232,
+          "quote": "有可能是祿馬和武曲同宮坐守"
+        },
+        {
+          "start": 233,
+          "end": 244,
+          "quote": "或者是祿馬從遷移宮來合"
+        },
+        {
+          "start": 245,
+          "end": 263,
+          "quote": "或者是祿馬分別從財帛宮及事業宮來會照"
+        }
+      ],
+      "author_claim_correction": "Only the same-palace branch is expressible is too broad. Migration branch is a complete independent alternative clause with a named functional palace and plural Lu/Ma subject; it can have its own source-verbatim conditional scope. It does NOT assert simultaneous same-palace arrangement with WuQu.",
+      "expressible": "Keep current WuQu strong-Life requirement and same-palace branch. In separately conditioned Migration branch, LuCun and TianMa placements in Migration are expressible from 從遷移宮來合, with source context/abbreviation evidence. Do not invent a registered 会照 relation (absent from registry); any 对宫 must have independent evidence, not just generic 来合. Preserve industry/strong-placement qualifications for effects.",
+      "gap": "Wealth/Career branch assigns Lu and Ma separately to two palaces without selecting which star to which palace; unordered one-to-one assignment remains missing. Separate alternative-clause scopes prevent accidental conjunction; no new global OR hold is needed merely because all three configurations are described.",
+      "unsafe": "Do not choose LuCun Wealth and TianMa Career from word order; do not label both stars as occupying both palaces. Raw location=财官 or OR string is not a typed assignment.",
+      "qualification": "eligible unchanged"
+    },
+    {
+      "chunk": "C079",
+      "decision": "retain_stem_bearer_alternative_binding_hold; independent_configuration_facts_continue",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "stem_bearer_mapping",
+        "branch_location_group"
+      ],
+      "evidence": [
+        {
+          "start": 214,
+          "end": 246,
+          "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故"
+        },
+        {
+          "start": 303,
+          "end": 335,
+          "quote": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故"
+        }
+      ],
+      "gap": "Source gives Wu/Ji and TanLang/WuQu Lu alternatives, and Ren/Gui and WuQu/TanLang Ji alternatives; no explicit one-to-one stem/star mapping. Frozen Sihua scalar star/tiangan fields cannot encode paired unassigned sets. Do not infer mapping from outside tables or give all named stars both transformations.",
+      "expressible": "Current concrete Chart24 Chou Life triple conjunction and three Life placements are supported. Positive Lu-condition and adverse Ji-condition are source-authored separate effect rules. Conditional 火贪格 formation with full Lu premises is valid although bearer alternatives remain unresolved: every stated Lu alternative entails this outcome, unlike claiming a particular bearer.",
+      "additional_coverage": "Opening has independently stated configurations: 武貪在丑未二宮同度又得火星坐入 versus 武曲在辰戌獨坐有火星同踞而對宮貪狼. Triple conjunction in first, WuQu/Huo conjunction and opposite TanLang in second can be represented separately with exact conditions and no compound scalar location. Each branch still has a two-location group needing typed set representation. Do not misconstrue 獨坐 as excluding Huo when source explicitly includes Huo.",
+      "time_boundary": "Current 大限 subjects retain Wu/Ji or Ren/Gui alternatives as mention-level text. They are not a typed stem selection or proof of an actually occurring cycle. Birth-year alternative must not become a grand-cycle fact.",
+      "qualification": "limited for mixed chart text only; intact premises stay usable"
+    }
+  ],
+  "transformation_entity_in_memory_probe": {
+    "passed": false,
+    "error": "relation participant name/entity_type is not registered for this school"
+  },
+  "consulted_hashes": {
+    "preparation/s5_candidates/batch055_059_review.json": "f67b7aa986f89120f81ce01dda961db0ebcdfb9a30b817c03097ff60cd9d5c5d",
+    "preparation/s5_candidates/batch075_079_review.json": "356be487e76576251372bd67cb2e690ca5f77eceda1c6a1c32ffb9e6d9777632",
+    "preparation/s5_candidates/c077_BLOCKED.json": "691aca2906f9e615b0bfec42472710827e81d549305f694e6f467d40ca569166",
+    "preparation/s5_candidates/c078_BLOCKED.json": "58938065affcd88c3929882a4a87c48bcb19c79adf16776df7d8f4a019a35821",
+    "preparation/s5_candidates/c079_BLOCKED.json": "4cb826485f0acdcc101217b37df912a4e45c847981d3250693b207cf7a5e6c8e",
+    "frozen_package/rules/runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml": "c6c1fb12c960cc0b0c1aa84bf98d23e006df9ae2be864a00c26ca6ed3d99c699",
+    "frozen_package/rules/runtime/astrology_corpus/annotation/semantic_models.py": "70918976fed476f469875f1ae3c491c359371f073ece064a52573785e2355d3c",
+    "frozen_package/rules/runtime/astrology_corpus/annotation/schemas.py": "1947095f69881ae76190430d401c01e5f242350f707a7b39bd2bf0da7187aade"
+  },
+  "candidate_schema_register_modified": false,
+  "old05_read": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "register_update": "Await stable revisions for V2; V1 unchanged."
+}

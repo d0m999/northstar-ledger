@@ -1,0 +1,223 @@
+{
+  "task": "Independent S5 C045–C054 review",
+  "reviewer_is_author": false,
+  "old_05_read": false,
+  "method": "逐文读新04、全部candidate领域字段与每条证据scope/condition/quote；冻结validator只作辅助。",
+  "counts": {
+    "accept": 4,
+    "return": 3,
+    "blocked": 3
+  },
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c045",
+      "candidate_sha256": "283b7c732ece07b8d2fb4760f6232912f3abc1e4e193a09d00c66b2d26e3a9e3",
+      "decision": "blocked",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "巳同宫关系证据仅「在巳則合為旺宮」，请扩至含武曲破军/武破主语的完整相邻句，保留巳分支condition。",
+        "命身分坐两星的具体分配不明确，现negative同宫合法但不足记录原文分配集合；请明确typed mapping hold与可表达草稿边界，不宣称完整结构通过。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c046",
+      "candidate_sha256": "6eb17e127e89f07f149622b8cf22f9f7bc57608b0eb5e7616e9c8ca46a8f96b7",
+      "decision": "return",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "四化作用的三个参与者location=子，但自身evidence仅「當武曲化忌後…擎羊也跟著來逞凶」无子，需补盘十五子宫原句，最好沿chart15同case scope，保留作用原句。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c047",
+      "candidate_sha256": "1c369948173a0c5a4a05c5760e72547157bba9c06564f4ec60485520828fdd33",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [],
+      "nonblocking_notes": [
+        "肺主皮毛为作者转引《医宗金鉴》，可进一步明确转引attribution，不是现代医学认可。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c048",
+      "candidate_sha256": "954b205fe56d30822731608021d6b391f859e29ce8b0a785bc3b5546e88c70d9",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c049",
+      "candidate_sha256": "7bdd457ef023ee76fb6b7f3e6dc7e5a5e35a675ff5fa452d644b02e624bbe9bd",
+      "decision": "return",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "见祿權不能仅凭祿字断为化禄；删除无充分依据的sihua.1化禄对象及其证据，保留祿为歧义源词候选，不能用star=null/not_mentioned掩盖transformation本身不明。",
+        "财运分析topic证据仅住家环境，未论财务/财富，建议删除或给本块确切财运证据。",
+        "核太阳/天同章节回指usage确为mentioned，太岁入宫法不是流年对象，现时间处理可接受。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c050",
+      "candidate_sha256": "7ae983f57c5e281645f4158ad68fedab5473ebd5e7322b633b6c82204effb96c",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c051",
+      "candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "decision": "blocked",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "命身各得其一/武曲与昌曲分坐有明确非同宫及分配集合，但不能推固定哪星哪宫；请将未表达分配typed hold单列，保留已支持武曲旺宫入命关系和正文，勿伪造同宫。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c052",
+      "candidate_sha256": "93c1674f797733f7156c1bac5e034f15d706b3e6baf1d103a796b5aa008b87dd",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c053",
+      "candidate_sha256": "d3804f178d18210ca5c6b5f9a25061b6dbfc30851312544a46eb2f5f1f77ed29",
+      "decision": "blocked",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "卯酉/丑未/巳亥/寅申/子午/辰戌为地支组，当前location单字符串隐含组合位置，未表达择一/成对规则；撤销复合scalar并明确typed group-location hold，不以注释替代结构。",
+        "仍需补可表达星曜入命关系：武府子午坐命以及武曲辰戌守命等原文已明；位置hold不能省略功能宫命宫关系。",
+        "若拆分支必须有明确规则scope，不能创造同一人同时在两支。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c054",
+      "candidate_sha256": "39c66f3066031b8c8881bbc4b2e410d1e18ca895c28c6272d4dcba8b650a79b1",
+      "decision": "return",
+      "structural_validation": "passed",
+      "source_fields": "all five exact",
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": "已全文逐块复核，所有需补可表达/隔离项列于required_changes",
+        "binding": "45/51不同宫未误作同宫；53复合位置须typed处理；46/54位置证据不足待补",
+        "time": "49太岁方位未误推流年；50先天对象可本命而丙戌限原词未从混排推大限；出生年/出版年未误作行运",
+        "content_type": "与本块主体相符，48古赋引用、50案例疑问、其余规则/概念或案例可接受",
+        "english": "全部英文实读，主要星曜/宫位/条件/否定均保留；049待去不确定化禄后同步摘要关键词",
+        "source_quality": "46/50/54只用完整可读正文或caption，未从混排补排盘；其余eligible合理，hold不降级"
+      },
+      "required_changes": [
+        "未时文曲入命关系设置亥location，但关系evidence仅「若是未時生人…」无亥，补前句亥命及癸年case证据，保留未时条件，不从图表补。"
+      ],
+      "nonblocking_notes": [],
+      "human_acceptance": false
+    }
+  ],
+  "formal_outputs_modified": false
+}

@@ -1,0 +1,9 @@
+{
+  "candidate_sha256": "c23b4a5469fb77e76634a76a3091d4b30acace046134c2c6bbd5a442a1501d32",
+  "snapshot": "preparation/s5_candidates/review_snapshots/C058_FORMATION_ERRATUM_V1",
+  "source_quote": "至於丙寅限，因為先天命宮已得雙祿吉輔而成為非常吉旺宮位，此時大限命宮的「羊陀夾忌」僅主勞碌。",
+  "decision": "accepted_correction_hold_retained",
+  "reason": "原句为命例效果讨论，无流派争议；formation_status null而usage discussed正确，不能用Debated枚举代替普通discussion。",
+  "human_acceptance": false,
+  "validator_passed": true
+}

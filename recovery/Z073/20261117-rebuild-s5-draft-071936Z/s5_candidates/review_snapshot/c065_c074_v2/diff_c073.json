@@ -1,0 +1,1890 @@
+[
+  {
+    "path": ".annotation_evidence",
+    "old": [
+      {
+        "field_path": "ziwei.chart_type",
+        "scope": {
+          "scope_id": "c073_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_context",
+        "scope": {
+          "scope_id": "c073_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.0",
+        "scope": {
+          "scope_id": "c073_stars_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 30,
+            "quote": "武曲為財星"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.1",
+        "scope": {
+          "scope_id": "c073_stars_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 12,
+            "end": 18,
+            "quote": "祿存坐入巳宫"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.2",
+        "scope": {
+          "scope_id": "c073_stars_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 35,
+            "end": 47,
+            "quote": "天同化祿自左右鄰宮來吉輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.3",
+        "scope": {
+          "scope_id": "c073_stars_mentioned3",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 74,
+            "end": 81,
+            "quote": "陀羅被制煞為用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.4",
+        "scope": {
+          "scope_id": "c073_stars_mentioned4",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 104,
+            "end": 113,
+            "quote": "廉貞化忌自子宮來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.5",
+        "scope": {
+          "scope_id": "c073_stars_mentioned5",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 176,
+            "end": 183,
+            "quote": "擎羊及陀羅來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.6",
+        "scope": {
+          "scope_id": "c073_stars_mentioned6",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 252,
+            "end": 260,
+            "quote": "但和天相合為廟旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.7",
+        "scope": {
+          "scope_id": "c073_stars_mentioned7",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.8",
+        "scope": {
+          "scope_id": "c073_stars_mentioned8",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.0",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.1",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 162,
+            "quote": "財帛子宮"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.2",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.0",
+        "scope": {
+          "scope_id": "c073_analysis_methods0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 102,
+            "end": 113,
+            "quote": "此時廉貞化忌自子宮來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.1",
+        "scope": {
+          "scope_id": "c073_analysis_methods1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.0",
+        "scope": {
+          "scope_id": "c073_knowledge_domains0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 104,
+            "end": 108,
+            "quote": "廉貞化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.1",
+        "scope": {
+          "scope_id": "c073_knowledge_domains1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.0",
+        "scope": {
+          "scope_id": "c073_topics_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 213,
+            "end": 217,
+            "quote": "辛苦得財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.1",
+        "scope": {
+          "scope_id": "c073_topics_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 314,
+            "end": 316,
+            "quote": "人際"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.0",
+        "scope": {
+          "scope_id": "c073_term0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 2,
+            "end": 4,
+            "quote": "应辰"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.1",
+        "scope": {
+          "scope_id": "c073_term1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 77,
+            "end": 81,
+            "quote": "制煞為用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.0",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.1",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.0",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.2",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.1",
+        "scope": {
+          "scope_id": "c073_strong_natal",
+          "kind": "case",
+          "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 128,
+            "quote": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.3",
+        "scope": {
+          "scope_id": "c073_strong_natal",
+          "kind": "case",
+          "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 128,
+            "quote": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.4",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.2",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.5",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.6",
+        "scope": {
+          "scope_id": "c073_bing_colocation",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 241,
+            "end": 281,
+            "quote": "廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.7",
+        "scope": {
+          "scope_id": "c073_bing_colocation",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 241,
+            "end": 281,
+            "quote": "廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.8",
+        "scope": {
+          "scope_id": "c073_bing_travel",
+          "kind": "case",
+          "condition": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 318,
+            "end": 349,
+            "quote": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      }
+    ],
+    "new": [
+      {
+        "field_path": "ziwei.chart_type",
+        "scope": {
+          "scope_id": "c073_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_context",
+        "scope": {
+          "scope_id": "c073_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.0",
+        "scope": {
+          "scope_id": "c073_stars_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 30,
+            "quote": "武曲為財星"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.1",
+        "scope": {
+          "scope_id": "c073_stars_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 12,
+            "end": 18,
+            "quote": "祿存坐入巳宫"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.2",
+        "scope": {
+          "scope_id": "c073_stars_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 35,
+            "end": 47,
+            "quote": "天同化祿自左右鄰宮來吉輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.3",
+        "scope": {
+          "scope_id": "c073_stars_mentioned3",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 74,
+            "end": 81,
+            "quote": "陀羅被制煞為用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.4",
+        "scope": {
+          "scope_id": "c073_stars_mentioned4",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 104,
+            "end": 113,
+            "quote": "廉貞化忌自子宮來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.5",
+        "scope": {
+          "scope_id": "c073_stars_mentioned5",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 176,
+            "end": 183,
+            "quote": "擎羊及陀羅來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.6",
+        "scope": {
+          "scope_id": "c073_stars_mentioned6",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 252,
+            "end": 260,
+            "quote": "但和天相合為廟旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.7",
+        "scope": {
+          "scope_id": "c073_stars_mentioned7",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.8",
+        "scope": {
+          "scope_id": "c073_stars_mentioned8",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.0",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.1",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 162,
+            "quote": "財帛子宮"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.2",
+        "scope": {
+          "scope_id": "c073_palaces_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 321,
+            "end": 330,
+            "quote": "遷移宮有魁鉞來夾輔"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.0",
+        "scope": {
+          "scope_id": "c073_analysis_methods0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 102,
+            "end": 113,
+            "quote": "此時廉貞化忌自子宮來沖"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.1",
+        "scope": {
+          "scope_id": "c073_analysis_methods1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.0",
+        "scope": {
+          "scope_id": "c073_knowledge_domains0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 104,
+            "end": 108,
+            "quote": "廉貞化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.1",
+        "scope": {
+          "scope_id": "c073_knowledge_domains1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 101,
+            "quote": "由於命宮強旺"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.0",
+        "scope": {
+          "scope_id": "c073_topics_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 213,
+            "end": 217,
+            "quote": "辛苦得財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.1",
+        "scope": {
+          "scope_id": "c073_topics_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 314,
+            "end": 316,
+            "quote": "人際"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.0",
+        "scope": {
+          "scope_id": "c073_term0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 2,
+            "end": 4,
+            "quote": "应辰"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.1",
+        "scope": {
+          "scope_id": "c073_term1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 77,
+            "end": 81,
+            "quote": "制煞為用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.0",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.1",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          },
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.0",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          },
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.2",
+        "scope": {
+          "scope_id": "c073_bing_natal",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 25,
+            "end": 71,
+            "quote": "武曲為財星，得祿存及天同化祿自左右鄰宮來吉輔後，除能凸顯武曲的財星作用外，並對武曲有增旺作用"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.1",
+        "scope": {
+          "scope_id": "c073_strong_natal",
+          "kind": "case",
+          "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 128,
+            "quote": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+          },
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.3",
+        "scope": {
+          "scope_id": "c073_strong_natal",
+          "kind": "case",
+          "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 95,
+            "end": 128,
+            "quote": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+          },
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.4",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.2",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          },
+          {
+            "start": 0,
+            "end": 25,
+            "quote": "武曲应辰坐命，丙年生人，祿存坐入巳宫（盤二十二）。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.5",
+        "scope": {
+          "scope_id": "c073_bing_wealth",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.6",
+        "scope": {
+          "scope_id": "c073_bing_colocation",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 241,
+            "end": 281,
+            "quote": "廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.7",
+        "scope": {
+          "scope_id": "c073_bing_colocation",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 241,
+            "end": 281,
+            "quote": "廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.8",
+        "scope": {
+          "scope_id": "c073_bing_travel",
+          "kind": "case",
+          "condition": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 318,
+            "end": 349,
+            "quote": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.9",
+        "scope": {
+          "scope_id": "c073_bing_colocation",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 158,
+            "end": 193,
+            "quote": "財帛子宮除有廉貞化忌坐入外，三合並有擎羊及陀羅來沖，成為一忌煞交沖宮位"
+          },
+          {
+            "start": 241,
+            "end": 281,
+            "quote": "廉貞在子宮原本為弱陷，但和天相合為廟旺，但因化忌，就不能以廟旺論，只能以平宮論之"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      }
+    ]
+  },
+  {
+    "path": ".ziwei.relations",
+    "old": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_strong_natal",
+        "negated": false,
+        "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_wealth",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_wealth",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_colocation",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "interacting_star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_colocation",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天魁",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_bing_travel",
+        "negated": false,
+        "condition": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助"
+      }
+    ],
+    "new": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "supporting_star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_bing_natal",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c073_strong_natal",
+        "negated": false,
+        "condition": "由於命宮強旺，此時廉貞化忌自子宮來沖，對命格反有沖動作用，以吉論之"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_wealth",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_wealth",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_colocation",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "interacting_star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_colocation",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天魁",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "supporting_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c073_bing_travel",
+        "negated": false,
+        "condition": "此乃因遷移宮有魁鉞來夾輔，且命宮強旺，故易得貴人提攜，或得貴助"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c073_bing_colocation",
+        "negated": false,
+        "condition": null
+      }
+    ]
+  },
+  {
+    "path": ".ziwei.sihua_mentioned.0.tiangan",
+    "old": null,
+    "new": "丙"
+  },
+  {
+    "path": ".ziwei.sihua_mentioned.1.tiangan",
+    "old": null,
+    "new": "丙"
+  },
+  {
+    "path": ".ziwei.sihua_mentioned.2.tiangan",
+    "old": null,
+    "new": "丙"
+  }
+]

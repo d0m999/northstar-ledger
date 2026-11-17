@@ -1,0 +1,518 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c134",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    174
+  ],
+  "chunk_text": "女命天同在酉的命理現象\n天同在酉為平宮，但三方的巨門與太陰俱為弱陷，僅天機為平宮，故酉宮的天同就弱，而酉宮又為水之沐浴地（水長生在申宮），更助長前述水星坐入沐浴地的桃花作用。再者，命宮的天同屬水，而夫妻宮的天梁屬土，在論及命宮與夫妻宮的互動時，除非此二宮位會多吉星且不會煞星，否則因此二星曜水土相剋，再加上天梁前述主意外的作用，易造成不利於婚姻感情的情況發生。故天同在酉坐命會桃花星者，除非是會多吉星且不見煞星，否則其人在感情上會較隨便，我行我素，造成在婚姻感情方面恐難有好結局。\n傳統論命在談到女命婚姻一事，因所處社會環境之故，認為一個女人的命格若好，理應經過明媒正娶，嫁人做元配。反之，若女命在命理上呈現出不利於婚姻感情的一面，最好是嫁人做續絃或是侍妾或者是離婚再嫁，如此就會應了命理上不好的一面，婚後反而不會有問題發生。",
+  "chunk_index": 134,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "天同酉命虽平，三方巨门太阴弱使其减力，酉沐浴又助桃花；夫妻天梁土与命宫天同水相克，须多吉无煞才缓解作者所述婚姻不利。后段说明传统将续弦、侍妾或再婚视为应凶的社会观念，非现代婚姻建议或必然结果。",
+  "summary_en": "Tian Tong at You Life is neutral but weakened by Ju Men and Tai Yin in its trines, while You’s bathing symbolism amplifies attraction. Tian Liang earth in Spouse conflicts with Tian Tong water in Life; many benefics and no malefics are required to mitigate the author’s claimed relationship difficulties. The closing paragraph explains a traditional social belief that subsequent marriage or concubinage could fulfill an unfavorable prediction. It is not a modern marital recommendation or guaranteed outcome.",
+  "keywords": [
+    "天同",
+    "酉命",
+    "天梁",
+    "夫妻宫",
+    "巨门",
+    "太阴",
+    "水土相克",
+    "吉煞条件"
+  ],
+  "keywords_en": [
+    "Tian Tong",
+    "You Life",
+    "Tian Liang",
+    "Spouse Palace",
+    "Ju Men",
+    "Tai Yin",
+    "water-earth conflict",
+    "conditional support"
+  ],
+  "topic": "感情姻缘",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 107,
+          "quote": "命宮的天同屬水，而夫妻宮的天梁屬土"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 19,
+          "quote": "天同在酉為平宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 19,
+          "quote": "天同在酉為平宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 24,
+          "end": 29,
+          "quote": "巨門與太陰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 24,
+          "end": 29,
+          "quote": "巨門與太陰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 35,
+          "end": 40,
+          "quote": "天機為平宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 99,
+          "end": 107,
+          "quote": "夫妻宮的天梁屬土"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 95,
+          "quote": "命宮的天同"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 99,
+          "end": 105,
+          "quote": "夫妻宮的天梁"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 170,
+          "end": 174,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "liang_spouse",
+        "kind": "conditional",
+        "condition": "命宮的天同屬水，而夫妻宮的天梁屬土",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 107,
+          "quote": "命宮的天同屬水，而夫妻宮的天梁屬土"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "tong_you",
+        "kind": "conditional",
+        "condition": "天同在酉坐命會桃花星者，除非是會多吉星且不見煞星",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 181,
+          "end": 205,
+          "quote": "天同在酉坐命會桃花星者，除非是會多吉星且不見煞星"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 122,
+          "end": 137,
+          "quote": "除非此二宮位會多吉星且不會煞星"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 149,
+          "quote": "水土相剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 170,
+          "end": 174,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "感情姻缘"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天梁",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "夫妻宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "liang_spouse",
+        "negated": false,
+        "condition": "命宮的天同屬水，而夫妻宮的天梁屬土"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "tong_you",
+        "negated": false,
+        "condition": "天同在酉坐命會桃花星者，除非是會多吉星且不見煞星"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "水土相剋",
+        "proposed_category": "five_element_mechanism",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "water-earth conflict",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天同",
+      "巨门",
+      "太阴",
+      "天机",
+      "天梁"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "夫妻宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

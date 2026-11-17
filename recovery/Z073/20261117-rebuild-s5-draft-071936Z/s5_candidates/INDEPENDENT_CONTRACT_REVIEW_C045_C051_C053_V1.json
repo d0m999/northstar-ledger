@@ -1,0 +1,130 @@
+{
+  "review": "Independent C045/C051/C053 mapping and location-group contract review",
+  "created_utc": "2026-11-17T06:37:02.620762+00:00",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c045",
+      "candidate_sha256": "283b7c732ece07b8d2fb4760f6232912f3abc1e4e193a09d00c66b2d26e3a9e3",
+      "frozen_validation_passed": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible",
+      "status": "pre-repair snapshot; not complete typed acceptance"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c051",
+      "candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "frozen_validation_passed": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible",
+      "status": "pre-repair snapshot; not complete typed acceptance"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c053",
+      "candidate_sha256": "d3804f178d18210ca5c6b5f9a25061b6dbfc30851312544a46eb2f5f1f77ed29",
+      "frozen_validation_passed": true,
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "eligibility": "eligible",
+      "status": "pre-repair snapshot; not complete typed acceptance"
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C045",
+      "issue_families": [
+        "unordered_one_to_one_star_palace_assignment"
+      ],
+      "decision": "retain_specific_mapping_hold; retain_supported_relations",
+      "evidence": [
+        {
+          "start": 135,
+          "end": 179,
+          "quote": "若是武曲與破軍不同宮，而命宮與身宮分別有此二星曜坐入，則前述武破同宮的命理作用，仍然適用"
+        }
+      ],
+      "expressible_completed": "Negative 同宫 with Wu Qu and Po Jun, complete separate-palaces antecedent and no invented location is valid. Earlier Hai Life placements for BOTH stars have a different explicit conjunction premise and are valid, not contradicted by the later separated scenario. Hai/Si conjunction branches are independently stated, not an OR expansion.",
+      "ordinary_fix": "relations.1 has evidence only 在巳則合為旺宮; expand evidence to the adjacent full sentence containing 武曲與破軍 / 武破, while preserving the original Si branch condition. This is evidence completeness, not a contract gap.",
+      "typed_gap": "Two stars occupy Life and Body separately, but the text does not determine which star occupies which palace. A negative conjunction only says not co-located; it does not encode the one-to-one assignment set {(WuQu Life,PoJun Body),(PoJun Life,WuQu Body)}. No independent full branch picks either permutation.",
+      "unsafe": "Do not choose order from prose order, emit both assignments as unconditional, or create four placements that imply each star occupies both palaces.",
+      "qualification": "eligible unchanged"
+    },
+    {
+      "chunk": "C051",
+      "issue_families": [
+        "unordered_star_palace_assignment",
+        "literary_star_alternative_or_collective_bearer"
+      ],
+      "decision": "retain_specific_mapping_and_bearer_hold; keep_explicit_WuQu_Life",
+      "evidence": [
+        {
+          "start": 66,
+          "end": 80,
+          "quote": "故武曲及文星，若身命各得其一"
+        },
+        {
+          "start": 198,
+          "end": 217,
+          "quote": "若是武曲與昌曲分坐命身宮，其作用亦同。"
+        },
+        {
+          "start": 154,
+          "end": 166,
+          "quote": "武曲在旺宮坐命並坐會昌曲"
+        }
+      ],
+      "expressible_completed": "Existing Wu Qu in Life under full strong-Life/meeting-ChangQu premise is supported. Wen Chang and Wen Qu individually have explicit conceptual discussion, so their mentions and registered pair mention are supported; this does not force their actual co-location.",
+      "negative_relation_boundary": "The separated Life/Body scenario entails that Wu Qu is not in the same palace as the literary-star side of that scenario. It does not independently select Wen Chang versus Wen Qu or prove both named stars simultaneously occupy the opposite palace. Under current star-only relation representation, do not emit two unqualified negated binary objects from the ambiguous literary-side reference. A negative relation may be encoded only when its actual participants and source scope are resolved without adding a bearer assumption; until then preserve this negative fact in exact source/evidence and the mapping hold.",
+      "typed_gap": "Neither fixed WuQu-Life/literary-Body versus the reverse assignment, nor a unique individual bearer for 文星, is selected by a complete independent source clause. 昌曲 can refer collectively, while ancient quotation discusses WenChang and WenQu alternatives. Do not silently resolve this into both individual occupants or into one selected star.",
+      "independent_branches": "武曲逢文昌 and 逢文曲 are separate source statements about meeting and five-element effects, NOT explicit same-palace or Life/Body assignments. They cannot repair mapping by being relabelled 同宫.",
+      "qualification": "eligible unchanged; whole chunk remains usable except unresolved typed binding, not a source-quality failure"
+    },
+    {
+      "chunk": "C053",
+      "issue_families": [
+        "typed_earthly_branch_location_group"
+      ],
+      "decision": "remove_compound_scalar_claim; retain_location_independent_relations_and_complete_functional_palace_coverage",
+      "evidence": [
+        {
+          "start": 32,
+          "end": 91,
+          "quote": "例如武曲在卯酉二宮和七殺同坐，在丑未二宮和貪狼同坐，在巳亥二宮和破軍同坐，在寅申二宮和天相同坐，在子午二宮和天府同坐。"
+        },
+        {
+          "start": 206,
+          "end": 216,
+          "quote": "武府在子午二宮坐命時"
+        },
+        {
+          "start": 343,
+          "end": 354,
+          "quote": "武曲在辰戌二墓庫守命時"
+        }
+      ],
+      "ordinary_error": "relations.0–6 store 卯酉/丑未/巳亥/寅申/子午/辰戌 as location scalar. Validator accepts free strings but they are not single actual placements or explicit typed alternatives. Isolate/clear these compound location assertions and retain full original source condition; do not count prose retention as solved group mapping.",
+      "expressible_completed": "Five distinct star-pair conjunction statements and two opposing-star relations are explicit. Their participant relations remain expressible without claiming a resolved single branch. Preserve every original full condition, source attribution and malefic qualification when retaining these records.",
+      "expressible_not_yet_completed": "Named functional Life Palace does not depend on selecting an earthly branch. Add conditional 星曜入宫 for Wu Qu/Tian Fu under explicit 武府在子午二宮坐命時 and Wu Qu under 武曲在辰戌二墓庫守命時, with location unresolved rather than compound scalar. WuQu/TianXiang under 武相在寅申二宮坐命者 is another explicit Life branch. Retain source-evidence context for registered abbreviations. These are authoring/review tasks, not claims that new records already exist.",
+      "typed_gap": "Each individual conjunction rule refers to a two-branch group, not a source-authored independent branch for each member. Five pair rules can be separated because their companions and source clauses differ, but each retains internal branch-set semantics. No arbitrary branch splitting or external opposite-branch table may fill the missing typed mapping.",
+      "not_blanket_hold": "Branch-set representation does not block functional Life-Palace facts, pair co-location, opposing-star relations, or the prose distinction between activity and extroversion. Stable personality claims remain qualified by malefics and Migration Palace condition.",
+      "qualification": "eligible unchanged"
+    }
+  ],
+  "consulted_reports": {
+    "preparation/s5_candidates/INDEPENDENT_REVIEW_C045_C054_V1.json": "c8ad6ad19713c9a089e7ad8191bca0dc088c5018ce22f44b42b5ff46006bd1eb",
+    "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C030_C034_V1.json": "2d56bd0573cad5c3dd233502cebcf82f04f4428cee8481a920f18aa1fbde83eb"
+  },
+  "rules_reference": {
+    "SihuaMention": "schemas.py 382–399: star is one registered star or null for unexpressed/unknown source star; no alternatives list/group.",
+    "RelationParticipant": "semantic_models.py 46–59: one entity_type/name/role/location; RelationMention has no OR operator/choice group.",
+    "placement_contract": "ziwei_vocabulary.yaml 2123–2126: star+palace roles; relation_entities palace registry does not register earthly-branch destinations as functional palaces.",
+    "source_conditions": "semantic_validation.py 227–228 requires original verbatim conditional string; 291–294 binds relation condition to evidence scope.",
+    "semantic_constraints": "CONTRACT domain object/condition binding; PENDING_DECISIONS D12/D13 do not combine unrelated records to establish a relation; QUALITY_REVISION_4 demands coverage/binding and source qualification independent of representability."
+  },
+  "candidate_or_schema_modified": false,
+  "source_05_read": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "register_status": "Keep V1 unchanged; append these independently reviewed issue families only in future V2 with stable candidate hashes and repair-review status. This report is tied to pre-repair hashes."
+}

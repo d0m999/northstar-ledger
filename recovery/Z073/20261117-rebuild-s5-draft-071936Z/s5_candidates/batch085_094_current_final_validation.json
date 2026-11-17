@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "chunk": 85,
+      "sha256": "7361dd2850712a3f372d72f83fe2631ee50041149e150b5e27dbd3e4899cd571",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 86,
+      "sha256": "8e608669262c548bb9b1e6a0719cb359a21e2daa02a3450ad831d0e2680fbf94",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 87,
+      "sha256": "100edc688255467299e60159cba63946d1f3c5579cb2772befaaa7fac131d2e2",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 88,
+      "sha256": "147826f4c5b2783651900db8753f91363f3d83363d440a83cc2ae9084546b4a4",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 89,
+      "sha256": "f39d23abc843ee8161bc98d162f2d5a952f2fe286c88c92175458ffc311299d0",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 90,
+      "sha256": "0d71ac62f396973844435916cb210ad6ed0945e93fad2dcfa5d4a4fb6aa0f77b",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 91,
+      "sha256": "825a257c20f9f490cf68dbd159be78efd6bf9a82271d8b0a30b15ff026871475",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 92,
+      "sha256": "cb669ef075cae590c1da41f488cf198b410ab28edbbd345785739b95bded09d7",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 93,
+      "sha256": "ccf3afa0133db53a9d8c57d0e7a2badf91ba0ac5ee3c852bf0f08598d40ba96b",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    },
+    {
+      "chunk": 94,
+      "sha256": "e2057d3a361e76e34403e4a393e415bf5e3ce588e39e91ec5b503f73bb031d80",
+      "source_five_fields_exact": true,
+      "complete_model_dump": true,
+      "frozen_validation": true
+    }
+  ],
+  "independent_acceptance": false,
+  "formal05_written": false
+}

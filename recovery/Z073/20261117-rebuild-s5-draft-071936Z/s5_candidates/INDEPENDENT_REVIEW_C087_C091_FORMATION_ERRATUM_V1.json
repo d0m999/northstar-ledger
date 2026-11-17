@@ -1,0 +1,51 @@
+{
+  "task": "Independent formation status erratum C087 C091",
+  "reviewer_is_author": false,
+  "old_05_read": false,
+  "frozen_vocabulary_basis": "rules/runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml formation_status fs_taolun: 讨论 / Debated / 不同流派存在争议",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c087",
+      "candidate_sha256": "33199cd4450bdfddb5b31362222188a6117bf55558b27b4067b33bb3fe21290b",
+      "reviewed_input_bytes_sha256": "33199cd4450bdfddb5b31362222188a6117bf55558b27b4067b33bb3fe21290b",
+      "decision": "accept_erratum_and_expressible_draft",
+      "source_five_fields_exact": true,
+      "complete_model_and_frozen_validation": "passed",
+      "review_method": "审前固定bytes；未接触旧05；独立全文重读、中英/全部领域结构及scope证据检查，不沿用协调者旧V4判决。",
+      "formation_status_reason": "冻结formation_status讨论=Debated/不同流派存在争议，不能将一般讨论等同该成格状态。本段无争议叙述也无此pattern明确已成格断言，null与usage discussed更忠实。",
+      "pattern_scope": "贪武同行古引为名称讨论；府相朝垣明确为该宫位的成格仍保留独立条件。",
+      "quality_reviews": {
+        "coverage": "全文重读，古引及作者限定保留；此次纠正不增加或删除源事实。",
+        "binding": "087命身/迁移双功能与丑未备择不配单支；091破军文曲同宫要求与三合排除、武破分弱宫否定关系区分。",
+        "time": "泛行限/少年中年未明周期，不推大限或流年。",
+        "content_type": "概念规则和古赋讨论，不伪造成具体个案。",
+        "english": "原文多吉/行限及否定条件中英保留。",
+        "source_quality": "两块正文可读eligible，未借降级解决结构困难。"
+      },
+      "existing_representation_holds": "仍由原具体hold管理，本反纠不解除丑未映射/昌曲备选等合同缺口。",
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "candidate_sha256": "5fa549c5b79754e76a8bfd8374eb30af9f0abf0473bffbd11c625f65d1bdf8b8",
+      "reviewed_input_bytes_sha256": "5fa549c5b79754e76a8bfd8374eb30af9f0abf0473bffbd11c625f65d1bdf8b8",
+      "decision": "accept_erratum_and_expressible_draft",
+      "source_five_fields_exact": true,
+      "complete_model_and_frozen_validation": "passed",
+      "review_method": "审前固定bytes；未接触旧05；独立全文重读、中英/全部领域结构及scope证据检查，不沿用协调者旧V4判决。",
+      "formation_status_reason": "冻结formation_status讨论=Debated/不同流派存在争议，不能将一般讨论等同该成格状态。本段无争议叙述也无此pattern明确已成格断言，null与usage discussed更忠实。",
+      "pattern_scope": "杀破狼永远在三合方为一般星组说明；未断特定命例成格，不能硬填争议/成格。",
+      "quality_reviews": {
+        "coverage": "全文重读，古引及作者限定保留；此次纠正不增加或删除源事实。",
+        "binding": "087命身/迁移双功能与丑未备择不配单支；091破军文曲同宫要求与三合排除、武破分弱宫否定关系区分。",
+        "time": "泛行限/少年中年未明周期，不推大限或流年。",
+        "content_type": "概念规则和古赋讨论，不伪造成具体个案。",
+        "english": "原文多吉/行限及否定条件中英保留。",
+        "source_quality": "两块正文可读eligible，未借降级解决结构困难。"
+      },
+      "existing_representation_holds": "仍由原具体hold管理，本反纠不解除丑未映射/昌曲备选等合同缺口。",
+      "human_acceptance": false
+    }
+  ],
+  "formal_outputs_modified": false
+}

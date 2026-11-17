@@ -1,0 +1,111 @@
+{
+  "scope": "115-119 only;120-124 not yet available",
+  "snapshot_policy": "Before reading copied exact bytes; review binds snapshots only",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c115",
+      "candidate_sha256": "ff8683544d13fa745ac098e82c14d406a78739298a770c4e61030cbfc07158c1",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C115_C119_V1/c115.json",
+      "decision": "return",
+      "findings": [
+        "同宫2/3天同主体不在quote，须加相同引文完整主语上下文，保持引文归属及身命条件。",
+        "本段实际据吉煞组合分支判断正负，补有据格局分析方法或说明为何仅星性不属于该方法。",
+        "福星非免灾、医学/族群来源观点非事实、天机crossrefmentioned、同陀忌不擅断化曜均正确。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文与全部领域/关系/证据逐项阅读；具体可表达遗漏见findings",
+        "binding": "条件/否定/主语及来源已逐条核；115主体span与119排除范围需修",
+        "time": "115/117/118/119无确定推运；116单大限对象恰当，出生资料不当流年",
+        "content_type": "均以通则/机制解释为主，概念解释可接受",
+        "english": "逐句对照，无跨块阴阳补入；吉煞例外和作者归属保留",
+        "source_quality": "五块完整可读eligible，来源古说不当医学事实；未靠降资格逃OR"
+      },
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c116",
+      "candidate_sha256": "33b6b42dccfecd1d152a1c0f5c5fbbb2b4d011440642b0dae0337accac3af977",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C115_C119_V1/c116.json",
+      "decision": "return",
+      "findings": [
+        "吉煞/同巨门/禄星条件用于规则判断，补有据格局分析方法。",
+        "羊或陀、火或铃、丑未位置组及未明禄星仍保具体hold；不把OR改同时事实。",
+        "单大限对象兼容标量及父母生年不误当流年正确。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文与全部领域/关系/证据逐项阅读；具体可表达遗漏见findings",
+        "binding": "条件/否定/主语及来源已逐条核；115主体span与119排除范围需修",
+        "time": "115/117/118/119无确定推运；116单大限对象恰当，出生资料不当流年",
+        "content_type": "均以通则/机制解释为主，概念解释可接受",
+        "english": "逐句对照，无跨块阴阳补入；吉煞例外和作者归属保留",
+        "source_quality": "五块完整可读eligible，来源古说不当医学事实；未靠降资格逃OR"
+      },
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c117",
+      "candidate_sha256": "09bd2e79e3358fa2ef6ee07279224e5b53b69e011aefb0c26a984dff70eb41a1",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C115_C119_V1/c117.json",
+      "decision": "accepted",
+      "findings": [
+        "静水机制及天同本块仅水、阳未出现不补，双语正确；主旨星性解释，可无方法。引文女性守命与通则分开，身命未强推双宫。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文与全部领域/关系/证据逐项阅读；具体可表达遗漏见findings",
+        "binding": "条件/否定/主语及来源已逐条核；115主体span与119排除范围需修",
+        "time": "115/117/118/119无确定推运；116单大限对象恰当，出生资料不当流年",
+        "content_type": "均以通则/机制解释为主，概念解释可接受",
+        "english": "逐句对照，无跨块阴阳补入；吉煞例外和作者归属保留",
+        "source_quality": "五块完整可读eligible，来源古说不当医学事实；未靠降资格逃OR"
+      },
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c118",
+      "candidate_sha256": "8b2c0aac581b9ae168ae3b6dc7ac1fa487911e96ac65f9a70b32275f59a4889d",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C115_C119_V1/c118.json",
+      "decision": "return",
+      "findings": [
+        "有明确天同多吉少煞/多煞少吉的组合分支分析，补格局分析方法。",
+        "天机或贪狼命为OR保持具体缺口，不同时断两星同命；太阳独立规则与天同两条件位置关系正确。水星仅五行类非西占Mercury。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文与全部领域/关系/证据逐项阅读；具体可表达遗漏见findings",
+        "binding": "条件/否定/主语及来源已逐条核；115主体span与119排除范围需修",
+        "time": "115/117/118/119无确定推运；116单大限对象恰当，出生资料不当流年",
+        "content_type": "均以通则/机制解释为主，概念解释可接受",
+        "english": "逐句对照，无跨块阴阳补入；吉煞例外和作者归属保留",
+        "source_quality": "五块完整可读eligible，来源古说不当医学事实；未靠降资格逃OR"
+      },
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c119",
+      "candidate_sha256": "c7ad0916c083ffe59fa46820ed4dce0b2f46afa71dce184dd9ee244edca656a6",
+      "snapshot_file": "preparation/s5_candidates/review_snapshots/C115_C119_V1/c119.json",
+      "decision": "return",
+      "findings": [
+        "relation3同宫被挂在除巨门天同丑未命者外的条件下，范围相反。应表示明确被排除子群本身（原文内连续巨門天同在丑未二宮坐命者），保整句证据说明后续机梁规则不适用该子群。",
+        "化科已实际用于增强聪明的分析，应补四化分析方法；null星正确。",
+        "阴阳本块明确可用；三方四正实际排列分析可保；本身或事业机梁位置hold继续，不猜同宫。"
+      ],
+      "six_axis_review": {
+        "coverage": "全文与全部领域/关系/证据逐项阅读；具体可表达遗漏见findings",
+        "binding": "条件/否定/主语及来源已逐条核；115主体span与119排除范围需修",
+        "time": "115/117/118/119无确定推运；116单大限对象恰当，出生资料不当流年",
+        "content_type": "均以通则/机制解释为主，概念解释可接受",
+        "english": "逐句对照，无跨块阴阳补入；吉煞例外和作者归属保留",
+        "source_quality": "五块完整可读eligible，来源古说不当医学事实；未靠降资格逃OR"
+      },
+      "frozen_validator_passed": true,
+      "source_five_fields_exact": true
+    }
+  ],
+  "human_acceptance": false,
+  "old05_read": false,
+  "candidate_files_modified": false
+}

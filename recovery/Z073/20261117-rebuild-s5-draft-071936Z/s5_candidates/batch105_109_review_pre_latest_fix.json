@@ -1,0 +1,198 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "formal05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c105",
+      "candidate_sha256": "fb1056cbacc60023715d11ff074c3161db76b52481ab56324bf0f37af8952447",
+      "candidate_file": "c105.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "白虎/丧门是真小星；相对太岁/流年财帛扇区不是普通本命财帛宫，具体表示缺口保hold。出生与流年安星例分开；盘32作用有条件，非见白虎必伤。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c106",
+      "candidate_sha256": "189b78ec5633ff48902c586150c0f3b9206ad5dfe446dd117f41ea1b6a49c963",
+      "candidate_file": "c106.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "archive_only",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "全文实际读后判严重盘文混排，无稳定完整连续说明句；archive_only不恢复倒置句序，不从前后块补事实。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c107",
+      "candidate_sha256": "0de30bdc89d6a478967ef4f1913f9aee6d950f671791449c37eb883e4b36fc84",
+      "candidate_file": "c107.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "同命或三方四正备择无法在现关系模型完整表达，保hold，不同时列四星入命。古贤引文死亡说法与作者投河比喻明确区别。五行机制保来源术语，不假注册；四化/格局/三方四正均实际使用。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c108",
+      "candidate_sha256": "20130680dcfab8d0456fa2cb9e01903a9919f4f89acf339938caed3a089d1291",
+      "candidate_file": "c108.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "四星任一化忌及年度羊或陀触发是备择，保hold；明确壬午武曲忌可表达，先天命与大限官禄同戌分别role。末盘34半句排除。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c109",
+      "candidate_sha256": "7e1436e99a6947d34bb7de8df1b663b6b48de93a9ca8989ba6a2c8d1f6468f82",
+      "candidate_file": "c109.json",
+      "annotation_status": "EXPRESSIBLE_DRAFT_REPRESENTATION_HOLD",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "仅连续caption，成宫疑字不补戌。四星任一忌或流羊流陀入戌三合保hold；不从图猜具体星位。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

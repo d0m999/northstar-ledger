@@ -1,0 +1,105 @@
+{
+  "non_human_acceptance_notice": "AI independent review, not human acceptance or S5 full-source completion",
+  "snapshot_method": "bytes copied and hashed before semantic reading; reports bind snapshot not mutable candidate",
+  "records": [
+    {
+      "ordinal": 95,
+      "candidate_sha256": "de4ab1280cba1bf649c211a4f0dae714d1af9782ccb1df70d23976dd0d2464be",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v1/c095_de4ab1280cba1bf649c211a4f0dae714d1af9782ccb1df70d23976dd0d2464be.json",
+      "status": "return",
+      "ordinary_issues": [
+        "戊午先天事业同scope同subject time_mentions.7/.9及.8/.10重复，请去重并修索引。",
+        "庚申太阳禄、己未武曲禄、戊午贪狼禄/太阴权明确同句干，可保对应tiangan；庚申大限本宫目标申可保，不影响先天亥巳冲突。",
+        "贪狼化忌会冲地空为明确四化作用，请补，不由hold省略。"
+      ],
+      "retained_findings": [
+        "先天亥/巳位置矛盾保持；双权夹禄载体及先后天或分配hold不视为验收。"
+      ],
+      "quality_reviews": {
+        "coverage": "全文及全部领域字段逐项审读；普通遗漏列于ordinary_issues。",
+        "binding": "逐项scope/condition/attribution与全部span已读；案例不混；未注册位置缺口不脑补。",
+        "time": "逐对象/标量核查；95重复须修；其余未明类别不补。",
+        "content_type": "五块均案例分析符合当前可用文字。",
+        "english": "已对照全文与中文；98中文损字解释须修；其他主要案例/限制无发现偷换。",
+        "source_quality": "96/98仅精确图说limited；95/97/99连续正文eligible不以降资格规避hold。"
+      }
+    },
+    {
+      "ordinal": 96,
+      "candidate_sha256": "8780fbb2a541bd48d37f6403fd0d026e313d8ed8f99692e4b11ce89e17981828",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v1/c096_8780fbb2a541bd48d37f6403fd0d026e313d8ed8f99692e4b11ce89e17981828.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "retained_findings": [
+        "只读图说，排盘混排不取性别/出生年。"
+      ],
+      "quality_reviews": {
+        "coverage": "全文及全部领域字段逐项审读；普通遗漏列于ordinary_issues。",
+        "binding": "逐项scope/condition/attribution与全部span已读；案例不混；未注册位置缺口不脑补。",
+        "time": "逐对象/标量核查；95重复须修；其余未明类别不补。",
+        "content_type": "五块均案例分析符合当前可用文字。",
+        "english": "已对照全文与中文；98中文损字解释须修；其他主要案例/限制无发现偷换。",
+        "source_quality": "96/98仅精确图说limited；95/97/99连续正文eligible不以降资格规避hold。"
+      }
+    },
+    {
+      "ordinal": 97,
+      "candidate_sha256": "1ed91d544211b96cc3a383e0e610baa6a9c171fc31731b8ea920f0dc36b4d9e1",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v1/c097_1ed91d544211b96cc3a383e0e610baa6a9c171fc31731b8ea920f0dc36b4d9e1.json",
+      "status": "return",
+      "ordinary_issues": [
+        "左辅右弼明确成对漏star_pairs；一般规则禄存漏mentioned。",
+        "杀破狼为已注册组合讨论，不能仅以未注册双星杀破狼替代；应记录pattern讨论及七杀组合提及，不推新实际星位。"
+      ],
+      "retained_findings": [
+        "左右卯亥无序分配hold；对酉身宫可保但不推卯。"
+      ],
+      "quality_reviews": {
+        "coverage": "全文及全部领域字段逐项审读；普通遗漏列于ordinary_issues。",
+        "binding": "逐项scope/condition/attribution与全部span已读；案例不混；未注册位置缺口不脑补。",
+        "time": "逐对象/标量核查；95重复须修；其余未明类别不补。",
+        "content_type": "五块均案例分析符合当前可用文字。",
+        "english": "已对照全文与中文；98中文损字解释须修；其他主要案例/限制无发现偷换。",
+        "source_quality": "96/98仅精确图说limited；95/97/99连续正文eligible不以降资格规避hold。"
+      }
+    },
+    {
+      "ordinal": 98,
+      "candidate_sha256": "ae9b56e423d8fc6c50d231a627a7eb0d2b755f9ca55cc9bd5b78b25d01eb7727",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v1/c098_ae9b56e423d8fc6c50d231a627a7eb0d2b755f9ca55cc9bd5b78b25d01eb7727.json",
+      "status": "return",
+      "ordinary_issues": [
+        "中文summary以职责解释職骨，与原字疑点声明冲突；请改事业角色与原损字，不静默复原。"
+      ],
+      "retained_findings": [
+        "已不改巳、職骨不补，结尾逗号残缺保留。"
+      ],
+      "quality_reviews": {
+        "coverage": "全文及全部领域字段逐项审读；普通遗漏列于ordinary_issues。",
+        "binding": "逐项scope/condition/attribution与全部span已读；案例不混；未注册位置缺口不脑补。",
+        "time": "逐对象/标量核查；95重复须修；其余未明类别不补。",
+        "content_type": "五块均案例分析符合当前可用文字。",
+        "english": "已对照全文与中文；98中文损字解释须修；其他主要案例/限制无发现偷换。",
+        "source_quality": "96/98仅精确图说limited；95/97/99连续正文eligible不以降资格规避hold。"
+      }
+    },
+    {
+      "ordinal": 99,
+      "candidate_sha256": "cb0a25d8f2753a198814cea9b8d4d4c8140c05243b33962ac024367faf19f7d3",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v1/c099_cb0a25d8f2753a198814cea9b8d4d4c8140c05243b33962ac024367faf19f7d3.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "retained_findings": [
+        "行限泛称不自动写大限；角色与行运条件保持。"
+      ],
+      "quality_reviews": {
+        "coverage": "全文及全部领域字段逐项审读；普通遗漏列于ordinary_issues。",
+        "binding": "逐项scope/condition/attribution与全部span已读；案例不混；未注册位置缺口不脑补。",
+        "time": "逐对象/标量核查；95重复须修；其余未明类别不补。",
+        "content_type": "五块均案例分析符合当前可用文字。",
+        "english": "已对照全文与中文；98中文损字解释须修；其他主要案例/限制无发现偷换。",
+        "source_quality": "96/98仅精确图说limited；95/97/99连续正文eligible不以降资格规避hold。"
+      }
+    }
+  ]
+}

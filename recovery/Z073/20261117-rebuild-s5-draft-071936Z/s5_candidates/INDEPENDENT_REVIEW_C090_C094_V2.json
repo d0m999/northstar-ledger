@@ -1,0 +1,85 @@
+{
+  "reviewer": "coordinator_not_candidate_author",
+  "created_utc": "2026-11-17T06:58:46.398049+00:00",
+  "method": "Read full source and every domain/evidence field from immutable pre-review byte snapshots; frozen validator + five-field/evidence/serialization checks. No historical05 consulted.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c090",
+      "candidate_sha256": "0d71ac62f396973844435916cb210ad6ed0945e93fad2dcfa5d4a4fb6aa0f77b",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c090.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "四星合会命身不造四星同宫，独立亥命武破入宫/同宫有字面条件，吉煞限制忠实。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "candidate_sha256": "de33f85ab39d0be50c8c58a493470e5b144f3478370bf394ad1bb53df8b4880e",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c091.json",
+      "decision": "accept_for_S5_candidate_not_whole_source_S6",
+      "coverage": "破曲同宫与三合适用范围区分，五行说明不造四化；有吉尤其左右例外保留。 V2补齐武曲及组合星mentioned、讨论状态，未推具体实际宫位。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": []
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c092",
+      "candidate_sha256": "9dd9834a6274fc95f1cd98afe44372b8a15ba810fedef81ad69e885beaf23ce9",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c092.json",
+      "decision": "accept_for_S5_candidate_not_whole_source_S6",
+      "coverage": "破昌同宫与武破分处的负同宫分别举证，三合不适用原凶断保留。 V2删除摘要借前块阴性。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": []
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c093",
+      "candidate_sha256": "ccf3afa0133db53a9d8c57d0e7a2badf91ba0ac5ee3c852bf0f08598d40ba96b",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c093.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "财囚原注与作者回指分开，负同宫合法，未无据造化忌或命身分配。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c094",
+      "candidate_sha256": "e2057d3a361e76e34403e4a393e415bf5e3ce588e39e91ec5b503f73bb031d80",
+      "review_snapshot": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/COORD_C090_C094_V2/c094.json",
+      "decision": "expressible_parts_accepted_but_typed_hold",
+      "coverage": "未将下文两案例预告当案例事实；弱亥或分命身不混为实际盘；少吉多煞限制和单星不论有保留。",
+      "binding": "full relation/scopes/evidence read; issues separately recorded",
+      "time": "no fixed age or publication year turned into transit; case cycle preserved",
+      "content_type": "all concept explanations; introductions are not case analyses",
+      "english": "complete source and summaries compared; C092 unsupported polarity removed and verified",
+      "source_quality": "eligible: complete readable conceptual text, no lowering due to representation gaps",
+      "ordinary_revision_requests": [],
+      "remaining_blocking_issues": [
+        "Known typed representation gap remains; targeted review is separate"
+      ]
+    }
+  ],
+  "human_acceptance": false,
+  "whole_source_S5_or_S6_passed": false
+}

@@ -1,0 +1,188 @@
+{
+  "review_version": 2,
+  "non_human_acceptance_notice": "AI independent semantic review, not human acceptance, formal05 or full-source S5 approval",
+  "review_scope": "C095–C104 all actual source and metadata; v1 plus fixed v2/v3 snapshots; final hashes from v3 snapshot",
+  "formation_status_erratum": "Initial reviewer requested C097 general discussion->讨论. Withdrawn after frozen vocabulary verification: 讨论 specifically means Debated/不同流派存在争议; null is not formed/disputed assertion. This does not change frozen rules.",
+  "records": [
+    {
+      "ordinal": 95,
+      "candidate_sha256": "8ea2ad60836e4d8fe57dc0ea897fda2ebcb9203109faa5f7e7a99f6035879d7b",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c095_8ea2ad60836e4d8fe57dc0ea897fda2ebcb9203109faa5f7e7a99f6035879d7b.json",
+      "status": "blocked_expressible_draft_accepted",
+      "ordinary_issues": [],
+      "finding": "同scope重复时间去重、庚己戊干明确绑定、申大限命target、贪狼忌会冲地空已补；先天亥巳冲突和未定双权/先后天OR保留。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": true
+    },
+    {
+      "ordinal": 96,
+      "candidate_sha256": "8780fbb2a541bd48d37f6403fd0d026e313d8ed8f99692e4b11ce89e17981828",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c096_8780fbb2a541bd48d37f6403fd0d026e313d8ed8f99692e4b11ce89e17981828.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "finding": "仅盘27清晰图说，混排不抽取性别与年月；武破亥命及有吉行运行业条件对应。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": false
+    },
+    {
+      "ordinal": 97,
+      "candidate_sha256": "acf1e11215450c4ffb4844cc2ba33f38d18e2a64ec7973556a315baeebdd3d6e",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c097_acf1e11215450c4ffb4844cc2ba33f38d18e2a64ec7973556a315baeebdd3d6e.json",
+      "status": "blocked_expressible_draft_accepted",
+      "ordinary_issues": [],
+      "finding": "补左右pair、一般禄存及七杀组合提及、杀破狼pattern。撤一般讨论必填讨论的退回要求：冻结讨论=Debated流派争议，不等于一般谈论，null是未明确成格状态，保留左右卯亥无序位置hold。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": true
+    },
+    {
+      "ordinal": 98,
+      "candidate_sha256": "bc4fb2fbaea16963dde1b5b6818bde304dd4238dec144007f30e19085efa80f6",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c098_bc4fb2fbaea16963dde1b5b6818bde304dd4238dec144007f30e19085efa80f6.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "finding": "中文职责已改原职骨损字所述因素，不再静默复原；已/职骨及结尾残缺保留。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": false
+    },
+    {
+      "ordinal": 99,
+      "candidate_sha256": "cb0a25d8f2753a198814cea9b8d4d4c8140c05243b33962ac024367faf19f7d3",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c099_cb0a25d8f2753a198814cea9b8d4d4c8140c05243b33962ac024367faf19f7d3.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "finding": "案例角色风险及行运条件完整，巳命武破只绑定王例。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": false
+    },
+    {
+      "ordinal": 100,
+      "candidate_sha256": "1e2f0e8585458ea1858b3b31e2d478100a7bd346adee6d47ade491fecdcd6db8",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c100_1e2f0e8585458ea1858b3b31e2d478100a7bd346adee6d47ade491fecdcd6db8.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "finding": "文献注释出版年份不记行运，宫禄宫/相阅不强改，书名保罗马化。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": false
+    },
+    {
+      "ordinal": 101,
+      "candidate_sha256": "6283bcb1c6f8934d5500e33936a11254f0534eafdc0c1171b8975331bf115435",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c101_6283bcb1c6f8934d5500e33936a11254f0534eafdc0c1171b8975331bf115435.json",
+      "status": "blocked_expressible_draft_accepted",
+      "ordinary_issues": [],
+      "finding": "撤无源支持的武曲忌→七杀/火星逐星target；财/亲情/健康真实抽象作用缺注册实体，及卯酉位置hold保留。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": true
+    },
+    {
+      "ordinal": 102,
+      "candidate_sha256": "882b57ae3ab5abe2c849aef3f2ba663c5dd646997d9a3784099cb03aca18d2aa",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c102_882b57ae3ab5abe2c849aef3f2ba663c5dd646997d9a3784099cb03aca18d2aa.json",
+      "status": "accept",
+      "ordinary_issues": [],
+      "finding": "本块明言激发七杀与擎羊，四化作用有直接依据；无其他吉化完整条件、非必然伤害限制保留。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": false
+    },
+    {
+      "ordinal": 103,
+      "candidate_sha256": "0dbac5a6585ba3639496f156952b0ecc761f46bbda44078a7adc749daf91ce6d",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c103_0dbac5a6585ba3639496f156952b0ecc761f46bbda44078a7adc749daf91ce6d.json",
+      "status": "blocked_expressible_draft_accepted",
+      "ordinary_issues": [],
+      "finding": "甲三奇及庚吉化本命time已补到各自scope；壬午先天酉命target有同块完整前文；匿名忌作用hold保持。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": true
+    },
+    {
+      "ordinal": 104,
+      "candidate_sha256": "fa1ede3a126021ffc02cf549af8b387a0b750a1128addaba0e210294e31709c8",
+      "review_snapshot": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c095_c104_v3/c104_fa1ede3a126021ffc02cf549af8b387a0b750a1128addaba0e210294e31709c8.json",
+      "status": "blocked_expressible_draft_accepted",
+      "ordinary_issues": [],
+      "finding": "撤与101同类臆定逐星target，酉宫真实作用目标缺功能名保hold；先天/大限/流年分别绑定，混排排除，三段可用正文未截条件。",
+      "quality_reviews": {
+        "coverage": "全文全字段逐项独立审读，修复差异逐项复核；非仅validator。",
+        "binding": "全部证据span/scope/condition/attribution已读核；不借邻块成立事实；逐星target不可从合并配置臆定。",
+        "time": "完整逐对象时间与兼容标量及来源年份核对。",
+        "content_type": "文献/规则/命例按当前正文；混排块仅用明确可读段。",
+        "english": "双语主要实体、原条件及缺口对照，无普通修复残留。",
+        "source_quality": "95冲突保持不择字；96/98/104 limited可用span真实，其他连续正文eligible；hold不通过降资格隐藏。"
+      },
+      "validation": "validate->model_dump equals snapshot->validate; source5 exact",
+      "retained_typed_hold": true
+    }
+  ]
+}

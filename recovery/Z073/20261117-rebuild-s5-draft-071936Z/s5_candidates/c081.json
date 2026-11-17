@@ -1,0 +1,576 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c081",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    107,
+    108
+  ],
+  "chunk_text": "《全書，諸星在命身及十二宮吉凶要訣》云：「武曲加吉坐遷移，巨商高賈。」有關武曲坐入遷移宮的命理作用，《全書，諸星在命身宮吉凶所主》另有武曲「在遠移若無沖破並會祿權，多為巨商高賈之人」之說，至於先賢不但有「武曲吉聚於遷移，巨商富賈」的類似說法，更進一步對之註解如下：「身命強宮，會武曲財星廟旺於遷移，來合，主巨富，經商之人。違移宮，主人一生之遭遇，及外出吉凶，遇吉則吉，逢凶多凶，財星而附有化吉，或有昌曲魁鉞左右祿馬等吉，無煞沖，自然大富。」在前一個賦文中提及，因武曲為財星，只要命宮或其三合宮位有武曲旺宮坐守則利於財，因此若有機會經商或從事和金融財賦有關的行業，較易有成果，但卻不能就此推斷此人一定會從事這方面的行業。故當武曲旺宮坐入遷移宮，並會多吉星時，就能充份發揮武曲的財星作用，此時若從商，自然就有機會成為大富人家。\n在紫微星部份曾對遷移宮的命理作用，有過詳盡的解說。簡單來說，遷移宮不但是作為一個人一輩子經歷的縮影寫照，更是論斷一個人「向外」一切吉凶的重點宮位。因此，當遷移宮吉旺時，命造不但一生的遭遇較為平順，且其向外的一切活動往往也較順暢。反之，若遷移宮弱且凶時，命造不但是一輩子的遭遇較為坎坷，特別是對外的活動，更是不易順利。\n經商本就是一種「向外」的活動，故武曲坐入遷移宮且會多吉星時，做起生意就很順暢，成為「巨商高賈」的機會就更大。\n",
+  "chunk_index": 81,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "古赋武曲加吉坐迁移称巨商高贾，作者限定武曲旺宫、多吉且从商才有致富机会，不能由命格断必经商。迁移宫象征对外活动与遭遇，旺吉较顺、弱凶较坎坷。祿權、吉星组等原称保留，不把不明禄断为化禄或禄存。",
+  "summary_en": "The verse links Military Melody with favorable support in Travel to prosperous commerce. The author qualifies this: strong placement, many benefics and actual commercial work provide an opportunity, not certainty of wealth or a guaranteed business career. Travel symbolizes outward activity and life experiences; strong favorable conditions support smoother dealings, whereas weak adverse conditions suggest difficulty. Lu Quan and abbreviated benefic groups remain source expressions; ambiguous Lu is not forced into Prosperity Transformation or Salary Star.",
+  "keywords": [
+    "武曲",
+    "迁移宫",
+    "命宫",
+    "巨商高贾",
+    "多吉",
+    "向外",
+    "行业条件"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Travel Palace",
+    "Life Palace",
+    "prosperous commerce",
+    "benefic support",
+    "outward activity",
+    "occupational conditions"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 231,
+          "end": 236,
+          "quote": "武曲為財星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 392,
+          "end": 413,
+          "quote": "遷移宮不但是作為一個人一輩子經歷的縮影寫照"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 33,
+          "quote": "武曲加吉坐遷移，巨商高賈"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 356,
+          "end": 360,
+          "quote": "大富人家"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 280,
+          "quote": "從事和金融財賦有關的行業"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 422,
+          "end": 424,
+          "quote": "向外"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 28,
+          "quote": "武曲加吉坐遷移"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 41,
+          "end": 44,
+          "quote": "遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 239,
+          "end": 241,
+          "quote": "命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 133,
+          "end": 137,
+          "quote": "身命強宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 362,
+          "end": 373,
+          "quote": "在紫微星部份曾對遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "strong_travel",
+        "kind": "conditional",
+        "condition": "當武曲旺宮坐入遷移宮，並會多吉星時，就能充份發揮武曲的財星作用，此時若從商，自然就有機會成為大富人家",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 310,
+          "end": 360,
+          "quote": "當武曲旺宮坐入遷移宮，並會多吉星時，就能充份發揮武曲的財星作用，此時若從商，自然就有機會成為大富人家"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 310,
+          "end": 360,
+          "quote": "當武曲旺宮坐入遷移宮，並會多吉星時，就能充份發揮武曲的財星作用，此時若從商，自然就有機會成為大富人家"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 81,
+          "quote": "祿權"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 207,
+          "quote": "昌曲魁鉞左右祿馬"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 33,
+          "quote": "武曲加吉坐遷移，巨商高賈"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 164,
+          "quote": "違移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "事业运势",
+      "出行迁移"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "strong_travel",
+        "negated": false,
+        "condition": "當武曲旺宮坐入遷移宮，並會多吉星時，就能充份發揮武曲的財星作用，此時若從商，自然就有機會成為大富人家"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "祿權",
+        "proposed_category": "ambiguous_transformation_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Lu Quan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "昌曲魁鉞左右祿馬",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Chang Qu Kui Yue Zuo You Lu Ma",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲加吉坐遷移，巨商高賈",
+        "proposed_category": "source_verse",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Jia Ji Zuo Qian Yi Ju Shang Gao Gu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "違移宮",
+        "proposed_category": "ocr_uncertain",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wei Yi Gong",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "紫微"
+    ],
+    "palaces_mentioned": [
+      "迁移宫",
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

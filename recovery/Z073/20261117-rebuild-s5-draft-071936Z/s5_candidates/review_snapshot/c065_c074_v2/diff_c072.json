@@ -1,0 +1,3071 @@
+[
+  {
+    "path": ".annotation_evidence",
+    "old": [
+      {
+        "field_path": "ziwei.chart_type",
+        "scope": {
+          "scope_id": "c072_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_context",
+        "scope": {
+          "scope_id": "c072_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "multiple_values",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.0",
+        "scope": {
+          "scope_id": "c072_stars_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 21,
+            "end": 25,
+            "quote": "廉貞化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.1",
+        "scope": {
+          "scope_id": "c072_stars_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 34,
+            "end": 41,
+            "quote": "武曲得貪狼化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.2",
+        "scope": {
+          "scope_id": "c072_stars_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 37,
+            "end": 41,
+            "quote": "貪狼化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.3",
+        "scope": {
+          "scope_id": "c072_stars_mentioned3",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 113,
+            "end": 119,
+            "quote": "先天祿存坐入"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.4",
+        "scope": {
+          "scope_id": "c072_stars_mentioned4",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 126,
+            "end": 130,
+            "quote": "巨門化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.5",
+        "scope": {
+          "scope_id": "c072_stars_mentioned5",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 175,
+            "end": 182,
+            "quote": "天府得先天雙祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.6",
+        "scope": {
+          "scope_id": "c072_stars_mentioned6",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 222,
+            "end": 226,
+            "quote": "破軍化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.7",
+        "scope": {
+          "scope_id": "c072_stars_mentioned7",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 260,
+            "end": 264,
+            "quote": "太陽化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.0",
+        "scope": {
+          "scope_id": "c072_palaces_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 11,
+            "end": 17,
+            "quote": "大限財帛子宮"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.1",
+        "scope": {
+          "scope_id": "c072_palaces_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 29,
+            "end": 36,
+            "quote": "大限命宮的武曲"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.0",
+        "scope": {
+          "scope_id": "c072_analysis_methods0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 153,
+            "end": 162,
+            "quote": "武曲化忌而不利於財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.1",
+        "scope": {
+          "scope_id": "c072_analysis_methods1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 310,
+            "end": 325,
+            "quote": "引動先天財帛子宮的「三奇嘉會」"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.0",
+        "scope": {
+          "scope_id": "c072_knowledge_domains0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 153,
+            "end": 157,
+            "quote": "武曲化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.1",
+        "scope": {
+          "scope_id": "c072_knowledge_domains1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 342,
+            "end": 353,
+            "quote": "故從上述行限的變化來看"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.0",
+        "scope": {
+          "scope_id": "c072_topics_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 356,
+            "end": 370,
+            "quote": "一輩子的限運幾乎都是利於求財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.0",
+        "scope": {
+          "scope_id": "c072_term0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 76,
+            "end": 80,
+            "quote": "雙祿交馳"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.1",
+        "scope": {
+          "scope_id": "c072_term1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 193,
+            "end": 195,
+            "quote": "財宅"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.3",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.4",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.3",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.3",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.5",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.6",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.4",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.4",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.7",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.5",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.5",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.8",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.9",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.6",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.6",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.10",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.7",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.7",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.11",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.12",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.8",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.8",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.13",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.9",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.9",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.10",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.11",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.12",
+        "scope": {
+          "scope_id": "c072_庚午_大限财帛宫",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 101,
+            "end": 122,
+            "quote": "庚午限，大限財帛寅宮也有先天祿存坐入，吉。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.14",
+        "scope": {
+          "scope_id": "c072_庚午_大限财帛宫",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 101,
+            "end": 122,
+            "quote": "庚午限，大限財帛寅宮也有先天祿存坐入，吉。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.13",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.patterns_mentioned.0",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      }
+    ],
+    "new": [
+      {
+        "field_path": "ziwei.chart_type",
+        "scope": {
+          "scope_id": "c072_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "not_mentioned",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_context",
+        "scope": {
+          "scope_id": "c072_discussion",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [],
+        "basis": "source",
+        "usage": null,
+        "null_reason": "multiple_values",
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.0",
+        "scope": {
+          "scope_id": "c072_stars_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 21,
+            "end": 25,
+            "quote": "廉貞化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.1",
+        "scope": {
+          "scope_id": "c072_stars_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 34,
+            "end": 41,
+            "quote": "武曲得貪狼化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.2",
+        "scope": {
+          "scope_id": "c072_stars_mentioned2",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 37,
+            "end": 41,
+            "quote": "貪狼化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.3",
+        "scope": {
+          "scope_id": "c072_stars_mentioned3",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 113,
+            "end": 119,
+            "quote": "先天祿存坐入"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.4",
+        "scope": {
+          "scope_id": "c072_stars_mentioned4",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 126,
+            "end": 130,
+            "quote": "巨門化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.5",
+        "scope": {
+          "scope_id": "c072_stars_mentioned5",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 175,
+            "end": 182,
+            "quote": "天府得先天雙祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.6",
+        "scope": {
+          "scope_id": "c072_stars_mentioned6",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 222,
+            "end": 226,
+            "quote": "破軍化祿"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.stars_mentioned.7",
+        "scope": {
+          "scope_id": "c072_stars_mentioned7",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 260,
+            "end": 264,
+            "quote": "太陽化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.0",
+        "scope": {
+          "scope_id": "c072_palaces_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 11,
+            "end": 17,
+            "quote": "大限財帛子宮"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.palaces_mentioned.1",
+        "scope": {
+          "scope_id": "c072_palaces_mentioned1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 29,
+            "end": 36,
+            "quote": "大限命宮的武曲"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.0",
+        "scope": {
+          "scope_id": "c072_analysis_methods0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 153,
+            "end": 162,
+            "quote": "武曲化忌而不利於財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.analysis_methods.1",
+        "scope": {
+          "scope_id": "c072_analysis_methods1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 310,
+            "end": 325,
+            "quote": "引動先天財帛子宮的「三奇嘉會」"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.0",
+        "scope": {
+          "scope_id": "c072_knowledge_domains0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 153,
+            "end": 157,
+            "quote": "武曲化忌"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.knowledge_domains.1",
+        "scope": {
+          "scope_id": "c072_knowledge_domains1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 342,
+            "end": 353,
+            "quote": "故從上述行限的變化來看"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.topics_mentioned.0",
+        "scope": {
+          "scope_id": "c072_topics_mentioned0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 356,
+            "end": 370,
+            "quote": "一輩子的限運幾乎都是利於求財"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.0",
+        "scope": {
+          "scope_id": "c072_term0",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 76,
+            "end": 80,
+            "quote": "雙祿交馳"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.unregistered_terms.1",
+        "scope": {
+          "scope_id": "c072_term1",
+          "kind": "concept",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 193,
+            "end": 195,
+            "quote": "財宅"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.0",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.1",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.3",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.2",
+        "scope": {
+          "scope_id": "c072_己巳_先天财帛宫",
+          "kind": "case",
+          "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 58,
+            "end": 101,
+            "quote": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.4",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.3",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.3",
+        "scope": {
+          "scope_id": "c072_辛未_大限财帛宫",
+          "kind": "case",
+          "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 122,
+            "end": 141,
+            "quote": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.5",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.6",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.4",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.4",
+        "scope": {
+          "scope_id": "c072_壬申_先天财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.7",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.5",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.5",
+        "scope": {
+          "scope_id": "c072_壬申_大限财帛宫",
+          "kind": "case",
+          "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 141,
+            "end": 218,
+            "quote": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.8",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.9",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.6",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.6",
+        "scope": {
+          "scope_id": "c072_癸酉_先天财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.10",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.7",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.7",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.11",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.12",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.8",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.8",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.13",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.sihua_mentioned.9",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.9",
+        "scope": {
+          "scope_id": "c072_甲戌_大限财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.10",
+        "scope": {
+          "scope_id": "c072_戊辰_大限财帛宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.11",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.12",
+        "scope": {
+          "scope_id": "c072_庚午_大限财帛宫",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 101,
+            "end": 122,
+            "quote": "庚午限，大限財帛寅宮也有先天祿存坐入，吉。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.time_mentions.14",
+        "scope": {
+          "scope_id": "c072_庚午_大限财帛宫",
+          "kind": "case",
+          "condition": null,
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 101,
+            "end": 122,
+            "quote": "庚午限，大限財帛寅宮也有先天祿存坐入，吉。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.13",
+        "scope": {
+          "scope_id": "c072_癸酉_大限财帛宫",
+          "kind": "case",
+          "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 218,
+            "end": 298,
+            "quote": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.patterns_mentioned.0",
+        "scope": {
+          "scope_id": "c072_甲戌_先天财帛宫",
+          "kind": "case",
+          "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 298,
+            "end": 372,
+            "quote": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      },
+      {
+        "field_path": "ziwei.relations.14",
+        "scope": {
+          "scope_id": "c072_戊辰_大限命宫",
+          "kind": "case",
+          "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。",
+          "attribution": "本书作者"
+        },
+        "spans": [
+          {
+            "start": 7,
+            "end": 58,
+            "quote": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+          }
+        ],
+        "basis": "source",
+        "usage": "discussed",
+        "null_reason": null,
+        "derivation_rule": null,
+        "input_paths": []
+      }
+    ]
+  },
+  {
+    "path": ".ziwei.relations",
+    "old": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_戊辰_大限财帛宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "大限命宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_戊辰_大限命宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_己巳_先天财帛宫",
+        "negated": false,
+        "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c072_辛未_大限财帛宫",
+        "negated": false,
+        "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_壬申_先天财帛宫",
+        "negated": false,
+        "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_壬申_大限财帛宫",
+        "negated": false,
+        "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_癸酉_先天财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c072_癸酉_大限财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_甲戌_先天财帛宫",
+        "negated": false,
+        "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c072_甲戌_大限财帛宫",
+        "negated": false,
+        "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_戊辰_大限财帛宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_戊辰_大限命宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "寅"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "寅"
+          }
+        ],
+        "scope_id": "c072_庚午_大限财帛宫",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c072_癸酉_大限财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      }
+    ],
+    "new": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_戊辰_大限财帛宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "大限命宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_戊辰_大限命宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_己巳_先天财帛宫",
+        "negated": false,
+        "condition": "己巳限，武曲化祿造成先天財帛子宮為「雙祿交馳」宮位，而大限財帛丑宮亦有先天雙祿來吉輔。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "卯"
+          }
+        ],
+        "scope_id": "c072_辛未_大限财帛宫",
+        "negated": false,
+        "condition": "辛未限，巨門化祿吉化大限財帛卯宮，佳。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_壬申_先天财帛宫",
+        "negated": false,
+        "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_壬申_大限财帛宫",
+        "negated": false,
+        "condition": "壬申限，先後天財帛宮雖因武曲化忌而不利於財，但大限命宮非常強旺，而且天府得先天雙祿的吉化後，更能發揮其「財宅」的作用，故武曲化忌在此僅代表求財過程的辛勞。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_癸酉_先天财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c072_癸酉_大限财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "先天财帛宫",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_甲戌_先天财帛宫",
+        "negated": false,
+        "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "大限财帛宫",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c072_甲戌_大限财帛宫",
+        "negated": false,
+        "condition": "甲戌限，廉貞化祿不但再度引動先天財帛子宮的「三奇嘉會」，同時也來吉化大限財帛午宮，甚吉。故從上述行限的變化來看，此人一輩子的限運幾乎都是利於求財。\n"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c072_戊辰_大限财帛宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_戊辰_大限命宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "寅"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "寅"
+          }
+        ],
+        "scope_id": "c072_庚午_大限财帛宫",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "c072_癸酉_大限财帛宫",
+        "negated": false,
+        "condition": "癸酉限，破軍化祿吉化先天財帛子宮，使子宮成為「雙祿交馳」宮位，甚吉，故大限財帛巳宮的太陽化忌，亦僅主辛勞，惟此大限本宮亦不甚理想，最好還是要小心行事，守成為宜。"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": null
+          }
+        ],
+        "scope_id": "c072_戊辰_大限命宫",
+        "negated": false,
+        "condition": "戊辰限，大限財帛子宮有先天的廉貞化祿坐入，而大限命宮的武曲得貪狼化祿會照後，會凸顯出其財星的正面作用。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "chunk": 91,
+    "old_sha256": "825a257c20f9f490cf68dbd159be78efd6bf9a82271d8b0a30b15ff026871475",
+    "new_sha256": "de33f85ab39d0be50c8c58a493470e5b144f3478370bf394ad1bb53df8b4880e",
+    "changed_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ],
+    "validation_before_after": "pass"
+  },
+  {
+    "chunk": 92,
+    "old_sha256": "cb669ef075cae590c1da41f488cf198b410ab28edbbd345785739b95bded09d7",
+    "new_sha256": "9dd9834a6274fc95f1cd98afe44372b8a15ba810fedef81ad69e885beaf23ce9",
+    "changed_fields": [
+      "summary",
+      "summary_en"
+    ],
+    "validation_before_after": "pass"
+  }
+]

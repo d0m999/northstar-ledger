@@ -1,0 +1,1120 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c053",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    82,
+    83,
+    84
+  ],
+  "chunk_text": "武曲除在辰戌二宮獨坐外，在其他地支宮位均有甲級星曜同坐（盤一）。例如武曲在卯酉二宮和七殺同坐，在丑未二宮和貪狼同坐，在巳亥二宮和破軍同坐，在寅申二宮和天相同坐，在子午二宮和天府同坐。\n因為武殺、武破及武貪均為雙星殺破狼的組合，而殺破狼主「動」，故上述組合坐命者，個性會比較好動。武相雖非殺破狼組合，但因寅申二宮為四馬之地，而前曾提及任何星曜坐入四馬之地，往往也會動起來，故武相在寅申二宮坐命者，個性也會較為好動。武府在子午二宮坐命時，因天府五行屬土，土性「穩定」，一般說來武府坐命者的個性較為穩重，但當會多煞星時，因受到煞星的沖擊作用後，個性就會顯得較浮動，再加上對宮七殺主動的影響，因此武府在子午二宮陷宮（即會多煞星）坐守時，其人個性會比較浮躁好動，只是不如其他組合之人動得厲害。至於武曲在辰戌二墓庫守命時，其人個性應較為穩重，但當受到煞星的沖擊，以及對宮貪狼主動的影響，就會像武府一樣，個性也會顯得比較好動。\n通常個性比較好動的人，往往會比較「外向」，但並不必然如此。嚴格說來，一個人的個性會比較外向，除了個性比較好動外，必須再考慮遷移宮的旺弱吉凶，若遷移宮旺且吉，則可斷言此人比較外向，否則就不一定是如此。因此，女命武曲陷宮守命會昌曲者，是否會如先賢所言的「外向」，也就不能一概而論。又，上述有關「外向」的解說，亦適用於男命。\n",
+  "chunk_index": 53,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "武曲辰戌独坐，其余依地支与七杀、贪狼、破军、天相、天府同坐。作者比较组合动静及煞曜影响：武府较稳但多煞、对宫七杀会使其浮动，辰戌独坐受煞与对宫贪狼亦会动。好动不必外向，还须迁移宫旺吉，男女皆适用；不能一概断女命武曲陷宫会昌曲外向。",
+  "summary_en": "Military Melody stands alone at Chen and Xu and otherwise pairs with Seven Killings, Greedy Wolf, Army Breaker, Heavenly Minister or Heavenly Treasury according to branch position. The author compares movement and stability: Treasury favors steadiness, but malefics and opposing Seven Killings can increase restlessness. Chen–Xu solitary placements may likewise become active under malefics and opposing Greedy Wolf. Activity does not necessarily mean extroversion; a strong, favorable Travel Palace must also be considered. This qualification applies to men and women, so fallen Military Melody with Chang Qu does not automatically imply an outgoing woman.",
+  "keywords": [
+    "武曲",
+    "七杀",
+    "贪狼",
+    "破军",
+    "天相",
+    "天府",
+    "迁移宫",
+    "动静",
+    "外向"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Seven Killings",
+    "Greedy Wolf",
+    "Army Breaker",
+    "Heavenly Minister",
+    "Heavenly Treasury",
+    "Travel Palace",
+    "activity and stability",
+    "extroversion"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 46,
+          "quote": "武曲在卯酉二宮和七殺同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 218,
+          "end": 231,
+          "quote": "天府五行屬土，土性「穩定」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 463,
+          "end": 476,
+          "quote": "必須再考慮遷移宮的旺弱吉凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 452,
+          "quote": "一個人的個性會比較外向"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "quote": "武曲除在辰戌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 42,
+          "end": 46,
+          "quote": "七殺同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 53,
+          "end": 57,
+          "quote": "貪狼同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 64,
+          "end": 68,
+          "quote": "破軍同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 75,
+          "end": 79,
+          "quote": "天相同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 86,
+          "end": 90,
+          "quote": "天府同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 125,
+          "end": 130,
+          "quote": "組合坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 468,
+          "end": 471,
+          "quote": "遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 156,
+          "end": 160,
+          "quote": "四馬之地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 109,
+          "quote": "殺破狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 518,
+          "end": 520,
+          "quote": "昌曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "pair_卯酉",
+        "kind": "conditional",
+        "condition": "武曲在卯酉二宮和七殺同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 46,
+          "quote": "武曲在卯酉二宮和七殺同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 46,
+          "quote": "武曲在卯酉二宮和七殺同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "pair_丑未",
+        "kind": "conditional",
+        "condition": "在丑未二宮和貪狼同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 47,
+          "end": 57,
+          "quote": "在丑未二宮和貪狼同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 47,
+          "end": 57,
+          "quote": "在丑未二宮和貪狼同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "pair_巳亥",
+        "kind": "conditional",
+        "condition": "在巳亥二宮和破軍同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 58,
+          "end": 68,
+          "quote": "在巳亥二宮和破軍同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 58,
+          "end": 68,
+          "quote": "在巳亥二宮和破軍同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "pair_寅申",
+        "kind": "conditional",
+        "condition": "在寅申二宮和天相同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 79,
+          "quote": "在寅申二宮和天相同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 79,
+          "quote": "在寅申二宮和天相同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "pair_子午",
+        "kind": "conditional",
+        "condition": "在子午二宮和天府同坐",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 80,
+          "end": 90,
+          "quote": "在子午二宮和天府同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 80,
+          "end": 90,
+          "quote": "在子午二宮和天府同坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "wu_fu_opposed",
+        "kind": "conditional",
+        "condition": "武府在子午二宮坐命時，因天府五行屬土，土性「穩定」，一般說來武府坐命者的個性較為穩重，但當會多煞星時，因受到煞星的沖擊作用後，個性就會顯得較浮動，再加上對宮七殺主動的影響",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 206,
+          "end": 291,
+          "quote": "武府在子午二宮坐命時，因天府五行屬土，土性「穩定」，一般說來武府坐命者的個性較為穩重，但當會多煞星時，因受到煞星的沖擊作用後，個性就會顯得較浮動，再加上對宮七殺主動的影響"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "wu_opposed",
+        "kind": "conditional",
+        "condition": "武曲在辰戌二墓庫守命時，其人個性應較為穩重，但當受到煞星的沖擊，以及對宮貪狼主動的影響，就會像武府一樣，個性也會顯得比較好動",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 343,
+          "end": 405,
+          "quote": "武曲在辰戌二墓庫守命時，其人個性應較為穩重，但當受到煞星的沖擊，以及對宮貪狼主動的影響，就會像武府一樣，個性也會顯得比較好動"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "wufu_life_wu",
+        "kind": "conditional",
+        "condition": "武府在子午二宮坐命時",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 206,
+          "end": 216,
+          "quote": "武府在子午二宮坐命時"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "wufu_life_fu",
+        "kind": "conditional",
+        "condition": "武府在子午二宮坐命時",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 206,
+          "end": 216,
+          "quote": "武府在子午二宮坐命時"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "chenxu_life",
+        "kind": "conditional",
+        "condition": "武曲在辰戌二墓庫守命時",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 343,
+          "end": 354,
+          "quote": "武曲在辰戌二墓庫守命時"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.10",
+      "scope": {
+        "scope_id": "wuxiang_life_wu",
+        "kind": "conditional",
+        "condition": "武相在寅申二宮坐命者",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 196,
+          "quote": "武相在寅申二宮坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.11",
+      "scope": {
+        "scope_id": "wuxiang_life_xiang",
+        "kind": "conditional",
+        "condition": "武相在寅申二宮坐命者",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 186,
+          "end": 196,
+          "quote": "武相在寅申二宮坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "对星组合",
+      "星曜性质",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "pair_卯酉",
+        "negated": false,
+        "condition": "武曲在卯酉二宮和七殺同坐"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "pair_丑未",
+        "negated": false,
+        "condition": "在丑未二宮和貪狼同坐"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "pair_巳亥",
+        "negated": false,
+        "condition": "在巳亥二宮和破軍同坐"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "pair_寅申",
+        "negated": false,
+        "condition": "在寅申二宮和天相同坐"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "pair_子午",
+        "negated": false,
+        "condition": "在子午二宮和天府同坐"
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "opposing_star",
+            "location": null
+          }
+        ],
+        "scope_id": "wu_fu_opposed",
+        "negated": false,
+        "condition": "武府在子午二宮坐命時，因天府五行屬土，土性「穩定」，一般說來武府坐命者的個性較為穩重，但當會多煞星時，因受到煞星的沖擊作用後，個性就會顯得較浮動，再加上對宮七殺主動的影響"
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "opposing_star",
+            "location": null
+          }
+        ],
+        "scope_id": "wu_opposed",
+        "negated": false,
+        "condition": "武曲在辰戌二墓庫守命時，其人個性應較為穩重，但當受到煞星的沖擊，以及對宮貪狼主動的影響，就會像武府一樣，個性也會顯得比較好動"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "wufu_life_wu",
+        "negated": false,
+        "condition": "武府在子午二宮坐命時"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "wufu_life_fu",
+        "negated": false,
+        "condition": "武府在子午二宮坐命時"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "chenxu_life",
+        "negated": false,
+        "condition": "武曲在辰戌二墓庫守命時"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "wuxiang_life_wu",
+        "negated": false,
+        "condition": "武相在寅申二宮坐命者"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "wuxiang_life_xiang",
+        "negated": false,
+        "condition": "武相在寅申二宮坐命者"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "四馬之地",
+        "proposed_category": "branch_location_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Si Ma Zhi Di",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "殺破狼",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Sha Po Lang",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "昌曲",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Chang Qu",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "七杀",
+      "贪狼",
+      "破军",
+      "天相",
+      "天府"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "迁移宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": [
+      "武杀同宫",
+      "贪武同行",
+      "武破同宫",
+      "武相同宫",
+      "武府同宫"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

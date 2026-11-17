@@ -1,0 +1,5 @@
+{
+  "attempt1": "construction failed before any candidate writes: original OCR 将質 differs from assumed 將質; exact source lookup failed",
+  "repair": "preserved source 将質 and used exact span; no body edit",
+  "subsequent_validation": "all5 full serialization/re-read passed"
+}

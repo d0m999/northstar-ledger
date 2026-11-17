@@ -1,0 +1,38 @@
+[
+  {
+    "path": ".annotation_evidence.1.null_reason",
+    "old": "not_mentioned",
+    "new": null
+  },
+  {
+    "path": ".annotation_evidence.1.scope.kind",
+    "old": "concept",
+    "new": "case"
+  },
+  {
+    "path": ".annotation_evidence.1.scope.scope_id",
+    "old": "c074_discussion",
+    "new": "c074_bing_case"
+  },
+  {
+    "path": ".annotation_evidence.1.spans",
+    "old": [],
+    "new": [
+      {
+        "start": 260,
+        "end": 291,
+        "quote": "武曲在辰坐命丙年生人，福德午宮因擎羊及廉貞化忌而成忌煞交沖宮位"
+      }
+    ]
+  },
+  {
+    "path": ".annotation_evidence.1.usage",
+    "old": null,
+    "new": "discussed"
+  },
+  {
+    "path": ".ziwei.time_context",
+    "old": null,
+    "new": "本命"
+  }
+]

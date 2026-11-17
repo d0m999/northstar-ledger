@@ -1,0 +1,1160 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c082",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    108,
+    109
+  ],
+  "chunk_text": "斗數論命須以命宮為基準，因此在論及遷移宮的吉凶時，必須和命宮一併析論。由於遷移宮是命宮的對照宮位，因此若遷移宮會多吉星時，往往命宮也是如此。就斗數排盤來看，武曲坐守宮位（除武貪在丑未外）的對照宮位，若不是殺破狼組合，就是有天府或天相坐入，且不是旺宮就是平宮。至於武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝，為「府相朝垣」宮位，此時雖不一定能以旺宮論之，卻也不能只以弱陷視之（有關「府相朝垣」的命理作用，將於天府星部份再詳加說明）。故當武曲坐入遷移宮且會多吉星時，命宮成為吉旺宮位的可能性就很高，此時若命宮強旺且遷移宮又吉旺，兩者相得益彰，自然就能凸顯出前述武曲加吉坐入遷移宮的吉象。\n但必須注意的是，當遷移宮會多吉星時，不代表命宮就一定會是個吉旺宮位。例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞，但也是個坐會輔弼、魁鉞及文曲五個吉星的「紫府相朝垣」大格局，由於戌宮相當吉旺，故擎羊在此被制煞為用，反有利於對外事業或人際關係的開創或拓展。命宮的貪狼雖得左輔及右弼來增旺，但因也有羊陀、鈴星及文昌化忌來沖，而成為一個忌煞交沖宮位。更有甚者，命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格，就相當凶（有關「鈴昌陀武」凶格的作用，將隨後再詳細解說）。由於命格凶且弱，此時前述武曲在戌的吉象就必須大打折扣。像這種命宮凶弱而遷移宮吉旺者，往往一輩子起伏大，行運好時則發，不好時則敗。",
+  "chunk_index": 82,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "迁移吉旺不保证命宫吉。盘二十五贪狼辰命，对宫戌迁移武曲擎羊坐守，会五吉而成作者所称紫府相朝垣；命宫虽有辅弼却受羊陀铃星及辛年文昌化忌冲，三合形成铃昌陀武凶格，削弱外向吉象，人生起伏随行运。府相朝垣一般论与该命例不混，武曲对宫备选组合不硬配。",
+  "summary_en": "A favorable Travel Palace does not guarantee a favorable Life Palace. In Chart Twenty-Five, Greedy Wolf occupies Chen Life; Military Melody and Ram Blade occupy opposite Xu Travel with five benefics, termed Zi Fu Xiang Chao Yuan by the author. Despite assistant-star support, Life receives malefics and Wen Chang Obstruction from a Xin-year birth; its trines form Ling Chang Tuo Wu. This weakens the outward promise and produces fluctuations with timing. The preceding general Fu Xiang Chao Yuan discussion is separate; alternative opposing configurations are not assigned arbitrarily.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "擎羊",
+    "文昌化忌",
+    "辛年",
+    "命宫",
+    "迁移宫",
+    "铃昌陀武",
+    "府相朝垣"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Greedy Wolf",
+    "Ram Blade",
+    "Literary Star Obstruction",
+    "Xin-year birth",
+    "Life Palace",
+    "Travel Palace",
+    "Ling Chang Tuo Wu",
+    "Fu Xiang Chao Yuan"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 37,
+          "end": 48,
+          "quote": "遷移宮是命宮的對照宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 537,
+          "end": 541,
+          "quote": "鈴昌陀武"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 519,
+          "end": 527,
+          "quote": "辛年生人文昌化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 436,
+          "end": 440,
+          "quote": "對外事業"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 441,
+          "end": 451,
+          "quote": "人際關係的開創或拓展"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 618,
+          "end": 624,
+          "quote": "一輩子起伏大"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 231,
+          "end": 238,
+          "quote": "武曲坐入遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 350,
+          "end": 356,
+          "quote": "貪狼坐命在辰"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 157,
+          "end": 166,
+          "quote": "天府及天相分別來朝"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 157,
+          "end": 166,
+          "quote": "天府及天相分別來朝"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 377,
+          "end": 381,
+          "quote": "擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 394,
+          "end": 400,
+          "quote": "文曲五個吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 459,
+          "end": 464,
+          "quote": "左輔及右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 459,
+          "end": 464,
+          "quote": "左輔及右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.8",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 475,
+          "end": 482,
+          "quote": "鈴星及文昌化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.9",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 478,
+          "end": 482,
+          "quote": "文昌化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.10",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 510,
+          "end": 518,
+          "quote": "文昌、陀羅及武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 6,
+          "end": 8,
+          "quote": "命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 20,
+          "quote": "遷移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 459,
+          "end": 464,
+          "quote": "左輔及右弼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 391,
+          "end": 396,
+          "quote": "魁鉞及文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "chart25_greedy",
+        "kind": "conditional",
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 381,
+          "quote": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "chart25_武曲",
+        "kind": "conditional",
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 381,
+          "quote": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "chart25_擎羊",
+        "kind": "conditional",
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 381,
+          "quote": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "chart25_conjunction",
+        "kind": "conditional",
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 381,
+          "quote": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "chart25_opposition",
+        "kind": "conditional",
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 340,
+          "end": 381,
+          "quote": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "chart25_xin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 502,
+          "end": 544,
+          "quote": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.1",
+      "scope": {
+        "scope_id": "generic_fuxiang",
+        "kind": "conditional",
+        "condition": "武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝，為「府相朝垣」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 176,
+          "quote": "武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝，為「府相朝垣」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 402,
+          "end": 407,
+          "quote": "紫府相朝垣"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 102,
+          "end": 105,
+          "quote": "殺破狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "life_travel_opposition",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 37,
+          "end": 48,
+          "quote": "遷移宮是命宮的對照宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化",
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "人际关系",
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "chart25_greedy",
+        "negated": false,
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "戌"
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "chart25_武曲",
+        "negated": false,
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "戌"
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "chart25_擎羊",
+        "negated": false,
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "戌"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "chart25_conjunction",
+        "negated": false,
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "chart25_opposition",
+        "negated": false,
+        "condition": "例如盤二十五的命造，貪狼坐命在辰，對宮的遷移戌宮有武曲坐守。戌宮的武曲雖有擎羊同踞"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected_palace",
+            "location": null
+          }
+        ],
+        "scope_id": "chart25_xin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_travel_opposition",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "紫府相朝垣",
+        "proposed_category": "source_pattern",
+        "reason": "来源名称保留，不删相映射别的格局",
+        "english_surface": "Zi Fu Xiang Chao Yuan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "殺破狼",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Sha Po Lang",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "天府",
+      "天相",
+      "擎羊",
+      "文曲",
+      "左辅",
+      "右弼",
+      "铃星",
+      "文昌",
+      "陀罗"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "迁移宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "文昌",
+        "transformation": "化忌",
+        "tiangan": "辛",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart25_xin"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": "成格",
+        "evidence": "命宮三合的鈴星、文昌、陀羅及武曲因辛年生人文昌化忌，致使命宮三合構成「鈴昌陀武」凶格"
+      },
+      {
+        "pattern_name": "府相朝垣",
+        "formation_status": "成格",
+        "evidence": "武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝，為「府相朝垣」宮位"
+      }
+    ],
+    "star_pairs_mentioned": [
+      "左辅右弼",
+      "天魁天钺"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}
