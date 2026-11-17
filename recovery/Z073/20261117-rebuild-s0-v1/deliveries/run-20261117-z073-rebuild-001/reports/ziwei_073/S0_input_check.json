@@ -1,0 +1,86 @@
+{
+  "step": "S0_input_check",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+      "sha256": "6c3a346e3966c62df4f00552a58e6af9911d1eda442de338ed31744affc1d2f4",
+      "bytes": 1298404
+    }
+  ],
+  "output_files": [
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "02_working_inputs/ziwei_073.jsonl",
+      "sha256": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+      "bytes": 697213
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "f3e46bfa74ee3fba11e898108c606d150c80b11bf894da737f9fb4e5735abd7c",
+      "bytes": 386808
+    },
+    {
+      "path": "image_links/ziwei_073.json",
+      "sha256": "15528d2a920cd3156bf185971d7ff673daa47a9b94bb42537d28759e36dd883e",
+      "bytes": 163
+    }
+  ],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T05:34:28.035674+00:00",
+  "completed_at": "2026-11-17T05:34:28.035674+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 380,
+  "output_count": 380,
+  "changes": [],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "review_path": "../../../preparation/INDEPENDENT_S0_ADMISSION_REVIEW_V1.json",
+      "result": "S0_admission_passed_can_enter_S1",
+      "scope": "S0 only; no subsequent-stage acceptance"
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "resolve_history_and_register_resume",
+  "outcome": "input_checked",
+  "substeps": [],
+  "applicability_reason": null,
+  "instruction_revision": 4,
+  "attempt": 1,
+  "substep": null,
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Original book completeness is not established.",
+    "379 adjacent unit pairs remain unknown until S3 review.",
+    "Prior 27 blocked chunk IDs apply to old segmentation only; preserve issues and reidentify affected passages, do not transplant chunk numbers."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [],
+  "sample_checks": [],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}

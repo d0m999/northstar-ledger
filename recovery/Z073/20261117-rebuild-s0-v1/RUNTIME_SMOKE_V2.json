@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "four_school_samples": 4,
+  "invalid_samples_rejected": 9,
+  "combination_sample": true,
+  "semantic_null_projection_verified": true,
+  "report_evidence_consistency_verified": true,
+  "d04_ambiguity_verified": true,
+  "legacy_migration_verified": true,
+  "repository_fallback": false,
+  "vocabulary_counts": {
+    "ziwei_stars": 163,
+    "tarot_cards": 78,
+    "liuyao_hexagrams": 64,
+    "western_planets": 40
+  },
+  "dependencies": {
+    "pydantic": "2.12.5",
+    "PyYAML": "6.0.2"
+  },
+  "corpus_processing_performed": false,
+  "cloud_execution_verified": false
+}

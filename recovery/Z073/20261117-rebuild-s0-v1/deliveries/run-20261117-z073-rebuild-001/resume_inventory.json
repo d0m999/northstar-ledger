@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "source_id": "ziwei_073",
+      "prior_run_id": "run-20261115-ziwei073-rebuild-v2",
+      "prior_candidate_count": 483,
+      "prior_representation_blocked": 27,
+      "restored_exact_candidates": 28,
+      "restored_author_decisions": 68,
+      "status": "incomplete_prior_workspace_retained",
+      "decision": "execute_independent_rebuild",
+      "reason": "User authorizes rebuilding after cloud workspace loss; missing upstream text/lineage prevent exact resumption. Not a continuation of old checkpoint; no claim of reproducing old 483 boundaries.",
+      "prior_roots": [
+        "z073_recovery_20261116"
+      ],
+      "contract_change_authorized": false
+    }
+  ]
+}

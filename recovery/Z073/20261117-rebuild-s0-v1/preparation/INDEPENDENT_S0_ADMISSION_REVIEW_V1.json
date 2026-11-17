@@ -1,0 +1,49 @@
+{
+  "created_utc": "2026-11-17T05:35:43.958141+00:00",
+  "review": "independent S0 admission only",
+  "reviewed_artifact_sha256": {
+    "z073_rebuild_20261117/FROZEN_PACKAGE_RESTORE_V2.json": "b5a610720b8671d6933a857ef2bdacc0eb158797c77b661bfbab8a93a77c2be9",
+    "z073_rebuild_20261117/RUNTIME_SMOKE_V2.json": "3fa4ae8d78d09b6e3e46cca3ce574218e6a17f722426f841841772f26b92ac90",
+    "z073_rebuild_20261117/preparation/prepare_s0.py": "e605a1ecdffabc5bfe6376ee5c1ac414d43b57418cc20b03556616f75e9e3284",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S0_input_check.json": "dae31056c214300f70a493aa1472c1e13adfa3a30f0c94e7d1013882e9268973"
+  },
+  "checks": {
+    "frozen_files": {
+      "count": 83,
+      "all_bytes_sha256_and_git_blob_match": true,
+      "mismatches": []
+    },
+    "input": {
+      "bytes": 1298404,
+      "sha256": "6c3a346e3966c62df4f00552a58e6af9911d1eda442de338ed31744affc1d2f4",
+      "manifest_hash_match": true,
+      "rows": 380,
+      "unique_ids": 380,
+      "working_exact_five_fields_order_values": true
+    },
+    "units_count": 380,
+    "continuity_count": 379,
+    "all_unknown": true,
+    "report_outputs_hash_match": true,
+    "image_links_empty": true,
+    "asset_plan_empty": true
+  },
+  "runtime_smoke_independently_rerun": {
+    "exit_code": 0,
+    "ok": true,
+    "four_school_samples": 4,
+    "invalid_samples_rejected": 9,
+    "repository_fallback": false,
+    "note": "Frozen tarot migration warnings reproduced; not a Z073 S0 blocking issue."
+  },
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "The 83-file local hash verification establishes correspondence to declared git blob IDs, not independent re-fetch of the remote commit tree.",
+    "379 continuity statuses remain unknown; no merge authorization follows.",
+    "Book completeness and inherited page fidelity are not independently verified.",
+    "Old 05 labels were programmatically ignored and not printed. Prior dot decision exposure remains disclosed, so no blind-annotation claim.",
+    "Full later-stage schema/quality acceptance is not implied."
+  ],
+  "result": "S0_admission_passed_can_enter_S1",
+  "production_status_modified": false
+}
