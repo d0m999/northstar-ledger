@@ -1,0 +1,324 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c006",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    30
+  ],
+  "chunk_text": "先賢曰：「最喜西北方生人；東南方生，富貴不久，或富不貴。」大陸的西北方較為寒冷兼之土旺，而金性「肅殺」，其特質正好和「寒冷」相契合，且就五行來講，土旺能生金，故西北方較利於金。至於大陸的東南方因多水且較炎熱，就五行而言，金能生水，故不利於金，且因為炎熱，而炎熱為火之象徵，就可引伸為易有火剋金的現象，故東南方較不利於金。由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。\n傳統論命在談到一個人的命格時，最好是富貴兼備，但若不能兩全時，比較之下，「貴」較「富」不易得。因此當一個人的命格有破時，要不就是雖「有富貴」但卻不能長久，或者是能「富」卻不能「貴」。\n由於武曲為「財星」就可以談到「富」，加上武曲的「將星」作用，因此還可以談到「貴」，但基於上述西北方較東南方利於金之故，武曲坐命者較喜西北方生人，而較不喜東南方生人，故若是東南方生人，則要不是富貴不久，就是富而不貴。《全書，諸星在命身及十二宮吉凶要訣》於此亦有類似的說法如下：「武曲守命，西北生人福厚，東南生人平常。」",
+  "chunk_index": 6,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者用五行论解释武曲坐命者出生西北较东南有利：西北寒冷土旺生金，东南水多炎热，涉及金生水及火克金。武曲财星与将星作用对应富与贵；引古说东南生人可能富贵不久，或富而不贵，保留二者择一及作者归属。",
+  "summary_en": "The author applies five-element reasoning to Wu Qu (Military Melody) in the Life Palace: northwestern birth is favored over southeastern birth because cold and Earth support Metal, while Water and heat involve Metal generating Water and Fire overcoming Metal. Wealth-star and general-like functions explain wealth and rank. Classical claims describe southeastern births as either short-lived wealth and rank or wealth without rank; these alternatives are not asserted together.",
+  "keywords": [
+    "武曲",
+    "星曜性质",
+    "命宫",
+    "西北",
+    "东南",
+    "五行生克",
+    "富贵"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Military Melody",
+    "star characteristics",
+    "Life Palace",
+    "northwestern birth",
+    "southeastern birth",
+    "five-element generation and control",
+    "wealth and rank"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 160,
+          "end": 216,
+          "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 160,
+          "end": 216,
+          "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 160,
+          "end": 216,
+          "quote": "由於武曲五行屬金，故上述討論就可以援用到武曲坐命者身上，即武曲坐命者若出生於西北方，較之出生於東南方，就來得佳。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 309,
+          "end": 467,
+          "quote": "由於武曲為「財星」就可以談到「富」，加上武曲的「將星」作用，因此還可以談到「貴」，但基於上述西北方較東南方利於金之故，武曲坐命者較喜西北方生人，而較不喜東南方生人，故若是東南方生人，則要不是富貴不久，就是富而不貴。《全書，諸星在命身及十二宮吉凶要訣》於此亦有類似的說法如下：「武曲守命，西北生人福厚，東南生人平常。」"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 185,
+          "quote": "武曲坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 185,
+          "quote": "武曲坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 217,
+          "end": 264,
+          "quote": "傳統論命在談到一個人的命格時，最好是富貴兼備，但若不能兩全時，比較之下，「貴」較「富」不易得。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c6_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 88,
+          "quote": "就五行來講，土旺能生金，故西北方較利於金。"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "命运总论"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c6_author",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "五行",
+        "proposed_category": "analysis_method",
+        "reason": "本段明确以五行属性/生克解释星性；冻结紫微analysis_methods只有三方四正、四化分析、格局分析，不强塞近似方法。",
+        "english_surface": "five-element reasoning",
+        "scope_id": "c6_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "星曜性质",
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

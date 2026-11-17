@@ -1,0 +1,447 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c028",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    52,
+    53
+  ],
+  "chunk_text": "《全書，諸星在命身及十二宮吉凶要訣》曰：「武曲入廟與昌曲同宮守命，出將入相。」文昌陰金，南斗第五星，司科甲名聲。文曲陰水，北斗第四星，亦司科甲名聲。由此觀之，當武曲有昌曲同宮坐守時，除因昌曲為吉星對武曲有增吉作用外，更因昌曲主聰明才智及條理清晰之作用，使得武曲坐命者，除能衝鋒陷陣外，亦能運籌策於幃幄之中。因此，武曲的「將星」作用加上昌曲的「科星」作用，使得武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。另外，若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮，否則就不能充份發揮昌曲的吉星作用。\n",
+  "chunk_index": 28,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "武曲与昌曲同宫时，作者以武曲将星与昌曲科星作用解释文武兼备，但出将入相仍有其他条件。武曲须旺宫；若昌曲只从三方照会而不同宫，作用较弱，且昌曲自身亦须旺宫。文昌阴金、文曲阴水与司科甲名声归属原文。",
+  "summary_en": "The author explains Wu Qu with Wen Chang and Wen Qu in the same Life Palace as combining military and scholarly abilities, not guaranteeing high office. Wu Qu must occupy a strong palace. Wen Chang and Wen Qu supporting it from three directions without sharing its palace have a weaker effect and must themselves occupy strong palaces. The text calls Wen Chang yin Metal and Wen Qu yin Water, both associated with scholarly reputation.",
+  "keywords": [
+    "武曲",
+    "文昌",
+    "文曲",
+    "昌曲",
+    "旺宫",
+    "三方",
+    "文武兼备"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Wen Chang",
+    "Wen Qu",
+    "Chang Qu",
+    "strong palace",
+    "three-direction support",
+    "military and scholarly abilities"
+  ],
+  "topic": "事业运势",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [],
+    "stars_mentioned": [
+      "武曲",
+      "文昌",
+      "文曲"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c28_same",
+        "condition": "武曲必須是旺宮坐守時",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c28_same",
+        "condition": "武曲必須是旺宮坐守時",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "文曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c28_same",
+        "condition": "武曲必須是旺宮坐守時",
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "命宫"
+          },
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "member",
+            "location": "命宫"
+          },
+          {
+            "entity_type": "star",
+            "name": "文曲",
+            "role": "member",
+            "location": "命宫"
+          }
+        ],
+        "scope_id": "c28_same",
+        "condition": "武曲必須是旺宮坐守時",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "三方",
+        "proposed_category": "analysis_method",
+        "reason": "原文仅三方照会，不扩为完整三方四正方法。",
+        "english_surface": "three-direction support",
+        "scope_id": "c28_author"
+      },
+      {
+        "surface": "將星",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲功能比喻，不指将前小星。",
+        "english_surface": "Jiang Xing epithet",
+        "scope_id": "c28_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [
+      "文昌文曲"
+    ],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": null
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 23,
+          "quote": "武曲"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c28_same",
+        "kind": "conditional",
+        "condition": "武曲必須是旺宮坐守時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 190,
+          "quote": "武曲坐命並有昌曲同宮者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 39,
+          "end": 41,
+          "quote": "文昌"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c28_same",
+        "kind": "conditional",
+        "condition": "武曲必須是旺宮坐守時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 190,
+          "quote": "武曲坐命並有昌曲同宮者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 56,
+          "end": 58,
+          "quote": "文曲"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c28_same",
+        "kind": "conditional",
+        "condition": "武曲必須是旺宮坐守時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 190,
+          "quote": "武曲坐命並有昌曲同宮者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c28_same",
+        "kind": "conditional",
+        "condition": "武曲必須是旺宮坐守時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 190,
+          "quote": "武曲坐命並有昌曲同宮者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c28_same",
+        "kind": "conditional",
+        "condition": "武曲必須是旺宮坐守時",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 179,
+          "end": 190,
+          "quote": "武曲坐命並有昌曲同宮者"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 39,
+          "end": 74,
+          "quote": "文昌陰金，南斗第五星，司科甲名聲。文曲陰水，北斗第四星，亦司科甲名聲。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 351,
+          "quote": "《全書，諸星在命身及十二宮吉凶要訣》曰：「武曲入廟與昌曲同宮守命，出將入相。」文昌陰金，南斗第五星，司科甲名聲。文曲陰水，北斗第四星，亦司科甲名聲。由此觀之，當武曲有昌曲同宮坐守時，除因昌曲為吉星對武曲有增吉作用外，更因昌曲主聰明才智及條理清晰之作用，使得武曲坐命者，除能衝鋒陷陣外，亦能運籌策於幃幄之中。因此，武曲的「將星」作用加上昌曲的「科星」作用，使得武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。另外，若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮，否則就不能充份發揮昌曲的吉星作用。\n"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 156,
+          "end": 176,
+          "quote": "武曲的「將星」作用加上昌曲的「科星」作用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 244,
+          "quote": "但是否能「出將入相」，則須視其他條件而定。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 281,
+          "end": 350,
+          "quote": "若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮，否則就不能充份發揮昌曲的吉星作用。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 156,
+          "end": 165,
+          "quote": "武曲的「將星」作用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c28_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 244,
+          "quote": "但是否能「出將入相」，則須視其他條件而定。"
+        }
+      ]
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

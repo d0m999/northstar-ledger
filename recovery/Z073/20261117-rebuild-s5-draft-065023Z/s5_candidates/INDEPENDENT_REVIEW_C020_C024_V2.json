@@ -1,0 +1,148 @@
+{
+  "task": "Independent S5 pilot review C020–C024",
+  "reviewer_is_author": false,
+  "human_acceptance": false,
+  "method": "V1全量实读基础上逐项复核V2差异及当前候选完整字段；方法/四化关系/先天与大限/关系分支/弱事业标签均已修正。C022仍隔离OR。",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c020",
+      "candidate_sha256": "205fef6b8c723af7b181141c3685d5aa6e011529b10248cf1c2be44c5e9a709a",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_five_fields": "exact",
+      "retrieval_eligibility": "limited",
+      "quality_review": {
+        "coverage": "已补已注册方法与明确四化作用关系；C022仍有备选四化对象hold",
+        "binding": "除列明分支/四化作用补项，现有源句和星位scope完整；不从混排推星位",
+        "time": "C021已分先天与大限对象且标量null；其他时间无推盘",
+        "content_type": "C020/024案例、C021概念、C022/023规则分类可接受",
+        "english": "逐文读双语，主要对象、条件、例外均保留，无虚构关系；改时间/方法后同步所需锚点",
+        "source_quality": "C020/024限定可用caption/完整正文合理，C022未降资格逃避表达阻塞"
+      },
+      "required_changes": [],
+      "resolved_v1_findings": [
+        "补四化分析方法及原句证据。正文以武曲化忌解释天府不能生武曲，属于实际分析，不应全空。",
+        "补有条件的四化作用关系：武曲化忌与天府不能生武曲，沿用盘四范围，不把一般健康结果作为无条件断语。"
+      ],
+      "accepted_findings": [
+        "原文span/quote匹配，所有证据遵循usable spans",
+        "四化承载宫位未当受影响宫/飞入宫，图文混排未推断",
+        "不把原图OCR或疑字扩写成事实"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "candidate_sha256": "bfa60985ad4779a5bb8c6861bd77d8a2c8dde72cf07be9d63604e2ff92b6e927",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_five_fields": "exact",
+      "retrieval_eligibility": "eligible",
+      "quality_review": {
+        "coverage": "已补已注册方法与明确四化作用关系；C022仍有备选四化对象hold",
+        "binding": "除列明分支/四化作用补项，现有源句和星位scope完整；不从混排推星位",
+        "time": "C021已分先天与大限对象且标量null；其他时间无推盘",
+        "content_type": "C020/024案例、C021概念、C022/023规则分类可接受",
+        "english": "逐文读双语，主要对象、条件、例外均保留，无虚构关系；改时间/方法后同步所需锚点",
+        "source_quality": "C020/024限定可用caption/完整正文合理，C022未降资格逃避表达阻塞"
+      },
+      "required_changes": [],
+      "resolved_v1_findings": [
+        "此块以禄马定义/四马之地机制解释为主，建议content_type改概念解释；若保留实战断语需独立说明定义与理论主体为何不是概念解释。",
+        "当前仅大限对象，但原文显式论先天命宫基础；补同一条件中的先天/本命对象时间并将兼容time_context置null/multiple_values，不能整段压为单个大限。",
+        "分析方法空项需逐文复核，禄马成格条件确有格局分析；可保留无注册机制为原词，但不一律空。"
+      ],
+      "accepted_findings": [
+        "原文span/quote匹配，所有证据遵循usable spans",
+        "四化承载宫位未当受影响宫/飞入宫，图文混排未推断",
+        "不把原图OCR或疑字扩写成事实"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "decision": "blocked",
+      "structural_validation": "passed",
+      "source_five_fields": "exact",
+      "retrieval_eligibility": "eligible",
+      "quality_review": {
+        "coverage": "已补已注册方法与明确四化作用关系；C022仍有备选四化对象hold",
+        "binding": "除列明分支/四化作用补项，现有源句和星位scope完整；不从混排推星位",
+        "time": "C021已分先天与大限对象且标量null；其他时间无推盘",
+        "content_type": "C020/024案例、C021概念、C022/023规则分类可接受",
+        "english": "逐文读双语，主要对象、条件、例外均保留，无虚构关系；改时间/方法后同步所需锚点",
+        "source_quality": "C020/024限定可用caption/完整正文合理，C022未降资格逃避表达阻塞"
+      },
+      "required_changes": [
+        "命名备选四化对象仍不能无损表达，继续隔离；方法与天机仅提及usage已修。"
+      ],
+      "resolved_v1_findings": [
+        "维持BLOCKED。四化对象备选武曲或贪狼明确，不能改null/not_mentioned或两星同时化；现草稿不算完整四化覆盖。",
+        "即使隔离四化对象，原文已有条件四化分析，analysis_methods=四化分析可合法表达并举证；不要因对象阻塞全丢方法。"
+      ],
+      "accepted_findings": [
+        "原文span/quote匹配，所有证据遵循usable spans",
+        "四化承载宫位未当受影响宫/飞入宫，图文混排未推断",
+        "C022保留原文与双语OR而明确标BLOCKED，非假通过"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "candidate_sha256": "6b7383338d54e2418480388924613400b1c8af33c54e5c3e588f86e763e62053",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_five_fields": "exact",
+      "retrieval_eligibility": "eligible",
+      "quality_review": {
+        "coverage": "已补已注册方法与明确四化作用关系；C022仍有备选四化对象hold",
+        "binding": "除列明分支/四化作用补项，现有源句和星位scope完整；不从混排推星位",
+        "time": "C021已分先天与大限对象且标量null；其他时间无推盘",
+        "content_type": "C020/024案例、C021概念、C022/023规则分类可接受",
+        "english": "逐文读双语，主要对象、条件、例外均保留，无虚构关系；改时间/方法后同步所需锚点",
+        "source_quality": "C020/024限定可用caption/完整正文合理，C022未降资格逃避表达阻塞"
+      },
+      "required_changes": [],
+      "resolved_v1_findings": [
+        "将同宫和对宫的condition分别限定为对应分句：丑未同宫 vs 辰戌独坐且对宫会贪狼，避免两条关系共用完整双分支条件而不能区分成立范围。",
+        "移除或重新举证事业运势主题，现证据仅财星/将星作用称谓，未具体讨论职业或事业。",
+        "补格局分析方法，正文明确火贪同宫且会吉成格；条件与社会环境限制保持。"
+      ],
+      "accepted_findings": [
+        "原文span/quote匹配，所有证据遵循usable spans",
+        "四化承载宫位未当受影响宫/飞入宫，图文混排未推断",
+        "不把原图OCR或疑字扩写成事实"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "candidate_sha256": "e6b80526e024ed31e857345fad5542783d25e42aecbf799d5fcafeb29428450b",
+      "decision": "accept",
+      "structural_validation": "passed",
+      "source_five_fields": "exact",
+      "retrieval_eligibility": "limited",
+      "quality_review": {
+        "coverage": "已补已注册方法与明确四化作用关系；C022仍有备选四化对象hold",
+        "binding": "除列明分支/四化作用补项，现有源句和星位scope完整；不从混排推星位",
+        "time": "C021已分先天与大限对象且标量null；其他时间无推盘",
+        "content_type": "C020/024案例、C021概念、C022/023规则分类可接受",
+        "english": "逐文读双语，主要对象、条件、例外均保留，无虚构关系；改时间/方法后同步所需锚点",
+        "source_quality": "C020/024限定可用caption/完整正文合理，C022未降资格逃避表达阻塞"
+      },
+      "required_changes": [],
+      "resolved_v1_findings": [
+        "补四化分析及格局分析方法证据；三项四化有对象、火贪有条件讨论，当前全部空不符合覆盖。",
+        "复核补明确四化作用关系：己例武曲化禄→武曲金制贪狼木、癸例贪狼化忌→武曲金剋贪狼木；使用各自case范围，不合并两例。"
+      ],
+      "accepted_findings": [
+        "原文span/quote匹配，所有证据遵循usable spans",
+        "四化承载宫位未当受影响宫/飞入宫，图文混排未推断",
+        "不把原图OCR或疑字扩写成事实"
+      ]
+    }
+  ],
+  "summary": {
+    "accept": 4,
+    "return": 0,
+    "blocked": 1
+  },
+  "formal_files_modified": false
+}

@@ -1,0 +1,771 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c049",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    77
+  ],
+  "chunk_text": "然從太陽星中「田宅宮的命理作用」一節的闡述，可以看出田宅宮的作用，僅代表一個命造者，在這宮位方面的一種「意識型態」，會顯現出此人對有關田宅宮方面的觀念、想法與做法。但命理上論及住家環境時，應依實際住家方位，來論吉凶及可能發生的遭遇，不可僅憑田宅宮的星曜組合就遽而論之。\n一般說來，若建築物坐入命盤的宮位為武曲獨坐時，其外觀就偏向方形，若是土地，則其外形常較為方整或四方，但也不是正方。然此一說法僅為一相當粗略的判斷，實際上仍須視武曲坐守宮位的旺弱吉凶而論。例如盤十六的女命，其住家的坐向為坐北朝南，即坐子朝午。故在論此女命住家環境及可能發生的遭遇，就必須根據子宮的旺弱吉凶來論斷。子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位，故可據此而推論此房子在當地必定不是間低矮房屋（註十二）。\n註十二：採用建築物坐向對應到命盤上的宮位，再據之推論建築物的吉凶，此即為太歲入宮法的應用。至於何謂太歲入宮法，將於天同星部分再做說明。有關此女命住家的命理解析，請參閱紫雲著《斗數論田宅》（此書於一九九三年由時報出版社出版，後於二0一年再由武陵出版社出版）書中「回祿之災-從方位談火災問題」乙文。",
+  "chunk_index": 49,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "田宅宫只表相关意识观念，论真实住家须按实际坐向及对应宫位旺弱，不能仅凭田宅星组。武曲独坐时方整外形仅粗判。盘十六女命房屋坐子朝午，子宫武曲化权、天府坐守见禄权多吉，作者据此断非低矮房屋；称为太岁入宫法应用，未将方位当流年。",
+  "summary_en": "The author distinguishes Property Palace attitudes from actual residential orientation, warning against judging surroundings from that palace alone. Military Melody alone suggests roughly rectangular forms, but palace conditions remain decisive. In Chart Sixteen, a woman’s house faces south from a north-facing seat, Zi toward Wu. At Zi, Military Melody has Authority Transformation and shares the placement with Heavenly Treasury, with salary, authority and benefic support; the author infers the building is not low. This is presented as Tai Sui Ru Gong Fa applied to building orientation, not an annual timing claim.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "化权",
+    "田宅宫",
+    "坐子朝午",
+    "太岁入宫法",
+    "紫府相",
+    "盘十六"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Heavenly Treasury",
+    "Authority Transformation",
+    "Property Palace",
+    "Zi toward Wu",
+    "Tai Sui Ru Gong Fa",
+    "Zi Fu Xiang",
+    "Chart Sixteen"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 94,
+          "end": 102,
+          "quote": "應依實際住家方位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 313,
+          "end": 323,
+          "quote": "「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 386,
+          "end": 397,
+          "quote": "此即為太歲入宮法的應用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 293,
+          "end": 302,
+          "quote": "武曲化權與天府坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 88,
+          "end": 92,
+          "quote": "住家環境"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 152,
+          "end": 156,
+          "quote": "武曲獨坐"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 293,
+          "end": 302,
+          "quote": "武曲化權與天府坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 26,
+          "end": 32,
+          "quote": "田宅宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 2,
+          "end": 6,
+          "quote": "太陽星中"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 410,
+          "end": 415,
+          "quote": "天同星部分"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "chart16",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "chart16",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "chart16",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "chart16",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "chart16",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "chart16_colocation",
+        "kind": "conditional",
+        "condition": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.tiangan",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "chart16_lu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 312,
+          "quote": "見祿權並會吉星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 323,
+          "quote": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 389,
+          "end": 394,
+          "quote": "太歲入宮法"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 314,
+          "end": 317,
+          "quote": "紫府相"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化",
+      "格局解析",
+      "推测技法",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "格局分析",
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          }
+        ],
+        "scope_id": "chart16_colocation",
+        "negated": false,
+        "condition": "子宮有武曲化權與天府坐守，是個見祿權並會吉星的「紫府相」大格局宮位"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲入宮法",
+        "proposed_category": "analysis_method",
+        "reason": "明确应用方位对应法，词表未注册；不映射流年时间",
+        "english_surface": "Tai Sui Ru Gong Fa",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "紫府相",
+        "proposed_category": "source_pattern",
+        "reason": "来源格局名，不删相或扩成紫府廉武相星群",
+        "english_surface": "Zi Fu Xiang",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "太阳",
+      "天同"
+    ],
+    "palaces_mentioned": [
+      "田宅宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart16"
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "chart16_lu"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

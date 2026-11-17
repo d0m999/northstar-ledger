@@ -1,0 +1,956 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c061",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    90
+  ],
+  "chunk_text": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n觀諸行限，男命順行。癸未限，雖因貪狼化忌造成命宮忌煞交沖，但因大限命宮強旺且",
+  "chunk_index": 61,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "庚年武贪未命得武曲化权，天钺未、天魁丑称坐贵向贵；太阳化禄从申、太阴化科从午夹未宫武曲权，形成禄科夹权。命宫强旺使陀罗制煞为用，虽日月反背无妨。癸未限句未完，不补结果。",
+  "summary_en": "For a Geng-year Wu Qu–Tan Lang configuration at Wei, Wu Qu Hua Quan and Tian Yue at Wei with Tian Kui at Chou strengthen status. Tai Yang Hua Lu from Shen and Tai Yin Hua Ke from Wu flank Wu Qu Hua Quan at Wei, called Lu Ke Jia Quan. The strong Life Palace permits Tuo Luo to be put to use despite reversed Sun–Moon positions. The Gui Wei cycle sentence is incomplete and its outcome is not supplied.",
+  "keywords": [
+    "武曲化权",
+    "太阳化禄",
+    "太阴化科",
+    "禄科夹权",
+    "未宫",
+    "陀罗"
+  ],
+  "keywords_en": [
+    "Wu Qu Hua Quan",
+    "Tai Yang Hua Lu",
+    "Tai Yin Hua Ke",
+    "Lu Ke Jia Quan",
+    "Wei palace",
+    "Tuo Luo"
+  ],
+  "topic": "命运总论",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c61_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c61_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "quote": "武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 27,
+          "end": 34,
+          "quote": "武貪在未為旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 17,
+          "end": 19,
+          "quote": "陀羅"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 64,
+          "end": 72,
+          "quote": "天鉞在未天魁在丑"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 64,
+          "end": 72,
+          "quote": "天鉞在未天魁在丑"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 128,
+          "quote": "太陽"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 133,
+          "quote": "太陰"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 176,
+          "end": 182,
+          "quote": "因為命宮強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 152,
+          "quote": "因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 120,
+          "end": 152,
+          "quote": "因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 231,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 27,
+          "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 126,
+          "end": 152,
+          "quote": "太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 106,
+          "quote": "對命格有增貴作用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c61_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c61_geng_wei",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 106,
+          "quote": "對命格有增貴作用"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "起句应来疑损但后文完整未宫与命宫论述可用；癸未结论未完。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 231,
+        "quote": "武貪应来坐命，庚年生人，武曲化權並陀羅同坐（盤十九）。武貪在未為旺宮，得武曲化權後，就有前述「武曲之星最喜化權」的正面作用，且因天鉞在未天魁在丑，未宮也是一「坐貴向貴」宮位，故武曲坐會魁鉞後，不但對命格有增貴作用，也代表有外來的貴助。另外，因庚年生人，太陽化祿及太陰化科分別自申午二宮來夾輔未宮的武曲化權，使得未宮成為「祿科夾權」的吉旺宮位（註十三）。因為命宮強旺，此時陀羅被制煞為用，就能凸顯出武曲將星的權威作用。由於命宮如此強旺，雖有日月反背來夾，亦無妨。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "未"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "未"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "未"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "star",
+            "location": "未"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "未"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "member",
+            "location": "未"
+          },
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "member",
+            "location": "未"
+          },
+          {
+            "entity_type": "star",
+            "name": "天钺",
+            "role": "member",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "flanker",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "flanker",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "target",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "transformed_star",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "affected_star",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "太阴",
+            "role": "transformed_star",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "affected_star",
+            "location": "未"
+          }
+        ],
+        "scope_id": "c61_geng_wei",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "祿科夾權",
+        "proposed_category": "source_pattern",
+        "reason": "未注册组合原名，三化及夹辅关系有明确证据。",
+        "english_surface": "Lu Ke Jia Quan",
+        "scope_id": "c61_geng_wei"
+      },
+      {
+        "surface": "坐貴向貴",
+        "proposed_category": "source_rule",
+        "reason": "天钺未天魁丑原位置保留；不猜天魁事项宫。",
+        "english_surface": "Zuo Gui Xiang Gui",
+        "scope_id": "c61_geng_wei"
+      },
+      {
+        "surface": "武貪应来坐命",
+        "proposed_category": "ocr_uncertain",
+        "reason": "起句位置疑损，未宫由后续明确句确立，不修正文。",
+        "english_surface": "unclear opening placement",
+        "scope_id": "c61_geng_wei"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "陀罗",
+      "天钺",
+      "天魁",
+      "太阳",
+      "太阴"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化权",
+        "tiangan": "庚",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c61_geng_wei"
+      },
+      {
+        "star": "太阳",
+        "transformation": "化禄",
+        "tiangan": "庚",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c61_geng_wei"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化科",
+        "tiangan": "庚",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c61_geng_wei"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "chunk": 35,
+    "status": "passed",
+    "serialization": "complete model_dump before second validation",
+    "sha256": "0b32929e540dd296e85681e75a24cf8b00139916e11afc1da1cd61b7da6bd6c0"
+  },
+  {
+    "chunk": 37,
+    "status": "passed",
+    "serialization": "complete model_dump before second validation",
+    "sha256": "60596daba28416aab4874e94d30ec9dc9f13be96a5c0af7566ba49b010edea86"
+  },
+  {
+    "chunk": 39,
+    "status": "passed",
+    "serialization": "complete model_dump before second validation",
+    "sha256": "b6e6bf3dcfcd854f27ba96e4264716a2c821da649b088b0c82e06565de9a0ced"
+  }
+]

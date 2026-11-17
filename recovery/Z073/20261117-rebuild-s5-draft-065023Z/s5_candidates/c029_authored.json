@@ -1,0 +1,428 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c029",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    53
+  ],
+  "chunk_text": "先賢曰：「若與七殺火星同度，有因財被劫之凶，煞多橫夭。」武曲在卯酉二宮必有七殺同宮坐守，且武殺在此二宮位均為旺宮。七殺陽金，南斗第六星。七殺不但是南斗中之剛星，也是將星，故和武曲同宮時不但會加重武曲的「將星」作用，且因七殺在命理上主「孤剋刑殺」，因此也會更加強化武曲在前述的親情與人際關係作用。因此，當武殺在卯酉二宮坐守時，若有火星同踞，則因武曲與七殺五行均屬金，而火星五行屬火，本質上為火金相剋，此時若有化忌或化祿（如武曲化忌或化祿）來引動，對此二宮位的吉凶影響就很大。\n當武殺在卯酉二宮與火星同度時，若是武曲化忌，就會造成火「剋」金的現象，此時不但會有武曲的「寡宿」凶格作用，且因七殺同宮，會更加重此一作用。故當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。",
+  "chunk_index": 29,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者说武曲七杀在卯酉同宫，火星同度时会形成火金相克；化忌或化禄引动可改变吉凶。下段明确武曲化忌时火克金、加强寡宿凶格，卯酉作为任何事项宫位均论凶。保留上段或条件，未把化忌化禄并发填成同一事实。",
+  "summary_en": "The author places Wu Qu and Qi Sha together at Mao or You. With Huo Xing, Fire and Metal conflict; Hua Ji OR Hua Lu activation can change the interpretation. The following paragraph explicitly says Wu Qu Hua Ji intensifies Fire overcoming Metal and the Gua Su adverse configuration, regardless of which functional palace occupies Mao or You. The earlier Hua Ji/Hua Lu alternatives are not treated as simultaneous transformations.",
+  "keywords": [
+    "武曲",
+    "七杀",
+    "火星",
+    "化忌",
+    "化禄",
+    "寡宿",
+    "卯酉"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Qi Sha",
+    "Huo Xing",
+    "Hua Ji",
+    "Hua Lu",
+    "Gua Su",
+    "Mao or You"
+  ],
+  "topic": null,
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "七杀",
+      "火星"
+    ],
+    "palaces_mentioned": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c29_wuqi",
+        "condition": "武曲在卯酉二宮",
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c29_ji",
+        "condition": "當武殺在卯酉二宮與火星同度時，若武曲化忌",
+        "negated": false
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "interacting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "reinforcing_star",
+            "location": null
+          }
+        ],
+        "scope_id": "c29_ji_detail",
+        "condition": "當武殺在卯酉二宮與火星同度時，若是武曲化忌",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c29_ji",
+        "tiangan": null,
+        "palace": null
+      }
+    ],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern",
+        "reason": "来源凶格非小星。",
+        "english_surface": "Gua Su adverse configuration",
+        "scope_id": "c29_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": null
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 28,
+          "end": 30,
+          "quote": "武曲"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 9,
+          "quote": "七殺"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 9,
+          "end": 11,
+          "quote": "火星"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c29_wuqi",
+        "kind": "conditional",
+        "condition": "武曲在卯酉二宮",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 28,
+          "end": 43,
+          "quote": "武曲在卯酉二宮必有七殺同宮坐守"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c29_ji",
+        "kind": "conditional",
+        "condition": "當武殺在卯酉二宮與火星同度時，若武曲化忌",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c29_ji",
+        "kind": "conditional",
+        "condition": "當武殺在卯酉二宮與火星同度時，若武曲化忌",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c29_ji_detail",
+        "kind": "conditional",
+        "condition": "當武殺在卯酉二宮與火星同度時，若是武曲化忌",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 237,
+          "end": 306,
+          "quote": "當武殺在卯酉二宮與火星同度時，若是武曲化忌，就會造成火「剋」金的現象，此時不但會有武曲的「寡宿」凶格作用，且因七殺同宮，會更加重此一作用。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 307,
+          "end": 350,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c29_quote",
+        "kind": "rule",
+        "condition": null,
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 14,
+          "end": 21,
+          "quote": "有因財被劫之凶"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 137,
+          "end": 144,
+          "quote": "親情與人際關係"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 278,
+          "end": 289,
+          "quote": "武曲的「寡宿」凶格作用"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c29_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

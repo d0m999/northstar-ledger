@@ -1,0 +1,591 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c051",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    80
+  ],
+  "chunk_text": "格局與理論命盤\n先賢曰：「武曲文星於身命，文武兼備。」先賢對之有註解如下：「武曲逢文昌，乃金逢金星，自吉。逢文曲，金去生水，亦佳。\n故武曲及文星，若身命各得其一，為人文武皆全，且富貴榮華，若在陷地，主為人靈俐，有巧藝急智，但虚誇不實，逢煞沖破，多是孤寡辛勞之人，此格不喜女命，因雖能幹，但多刑剋，外向。」有關武曲在旺宮坐命並坐會昌曲，主人文武兼備的命理現象，在前面的章節已有解說，在此就不再說明。若是武曲與昌曲分坐命身宮，其作用亦同。\n至於先賢在註解中所說的「武曲逢文昌，乃金逢金星，自吉。逢文曲，金去生水，亦佳」，主要係因文昌與文曲五行分別屬陰金與陰水，二者和武曲均不會構成相剋，而星曜只要五行不相剋且又會吉，就能彰顯出賦性之正面作用，故可從五行關係來強調武曲會昌曲的吉化作用。但對一個文武兼備的人，只能說其先天條件不錯，至於是否因此就能推斷此人一生會如先賢所說的「富貴榮華」，此時必須考慮其他的因素，卻不能遽爾斷之。",
+  "chunk_index": 51,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "引赋文解释武曲与文昌、文曲在命身相会或分坐时的文武兼备：文昌阴金、文曲阴水与武曲不相克，仍须会吉。陷地或煞冲有不同负面条件；作者强调先天能力不等于一生富贵，还须其他因素，不接受机械照古断。",
+  "summary_en": "This passage explains the verse linking Military Melody and literary stars in Life and Body to combined civil and martial abilities. Literary Star is yin metal and Literary Music yin water, so neither inherently conflicts with Military Melody; favorable support is still required. Separate Life and Body placements are also discussed, with adverse qualifications for fallen placements and malefic disruption. The author cautions that innate ability does not by itself establish lifelong wealth and rank; other factors must be considered.",
+  "keywords": [
+    "武曲",
+    "文昌",
+    "文曲",
+    "命宫",
+    "身宫",
+    "文武兼备",
+    "五行",
+    "富贵条件"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Literary Star",
+    "Literary Music",
+    "Life Palace",
+    "Body Palace",
+    "civil and martial abilities",
+    "five-element reasoning",
+    "conditional prosperity"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 262,
+          "end": 277,
+          "quote": "文昌與文曲五行分別屬陰金與陰水"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 13,
+          "end": 25,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 200,
+          "end": 210,
+          "quote": "武曲與昌曲分坐命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 81,
+          "end": 93,
+          "quote": "為人文武皆全，且富貴榮華"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 89,
+          "end": 93,
+          "quote": "富貴榮華"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 147,
+          "quote": "此格不喜女命，因雖能幹，但多刑剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 13,
+          "end": 17,
+          "quote": "武曲文星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 38,
+          "end": 43,
+          "quote": "武曲逢文昌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 53,
+          "end": 56,
+          "quote": "逢文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 207,
+          "end": 210,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 207,
+          "end": 210,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 262,
+          "end": 267,
+          "quote": "文昌與文曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 13,
+          "end": 25,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 322,
+          "end": 326,
+          "quote": "五行關係"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 341,
+          "end": 409,
+          "quote": "對一個文武兼備的人，只能說其先天條件不錯，至於是否因此就能推斷此人一生會如先賢所說的「富貴榮華」，此時必須考慮其他的因素，卻不能遽爾斷之"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "strong_life",
+        "kind": "conditional",
+        "condition": "武曲在旺宮坐命並坐會昌曲",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 154,
+          "end": 166,
+          "quote": "武曲在旺宮坐命並坐會昌曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "separate_life_body",
+        "kind": "conditional",
+        "condition": "若是武曲與昌曲分坐命身宮，其作用亦同",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 198,
+          "end": 216,
+          "quote": "若是武曲與昌曲分坐命身宮，其作用亦同"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "财运分析",
+      "感情姻缘"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "strong_life",
+        "negated": false,
+        "condition": "武曲在旺宮坐命並坐會昌曲"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "文曲",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "separate_life_body",
+        "negated": true,
+        "condition": "若是武曲與昌曲分坐命身宮，其作用亦同"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "武曲文星於身命，文武兼備",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Wen Xing Yu Shen Ming Wen Wu Jian Bei",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "五行關係",
+        "proposed_category": "analysis_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Xing Guan Xi",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "文昌",
+      "文曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "文昌文曲"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c060",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c061",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "2f347ecee9314edf7919d113338a4264ebc7f6538d4537a0ab2b5501f86f553d"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c062",
+      "attempt": 1,
+      "status": "failed",
+      "error": "ziwei.topics_mentioned[0]: '田宅房产' 不在词表 canonical 集合中"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c063",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c064",
+      "attempt": 1,
+      "status": "passed",
+      "candidate_sha256": "bab345982679afeac7799c39c162f5c046e0b00f53010724f27b8c75d5c7d8ce"
+    }
+  ]
+}

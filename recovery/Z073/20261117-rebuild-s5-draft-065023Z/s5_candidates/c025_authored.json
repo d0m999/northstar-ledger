@@ -1,0 +1,308 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c025",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    50,
+    51
+  ],
+  "chunk_text": "天鉞七紫殺微丁巳事業戊午僕役己未遷移庚申 疾厄天天梁機丙辰田宅天魁天相乙卯福德合癸年月日金\n\n時局破廉軍貞祿辛酉財帛壬戌子女巨太門陽權科甲寅 父母擎羊食武狼曲忌乙丑命宮祿存太天陰同甲子 兄弟陀羅天府癸亥夫妻盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n",
+  "chunk_index": 25,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘六图说称癸年生、武曲化忌并有擎羊同宫，癸丑年太岁在丑则较其他癸年更凶。保留原文癸年与化忌陈述，不以外部排盘改字；武食、想食狼等疑损不擅补贪狼，前部混排命盘不据以恢复星位。",
+  "summary_en": "The readable Chart 6 caption states a Gui-year birth, Wu Qu Hua Ji and Qing Yang sharing the palace, with a Gui Chou birth and Tai Sui at Chou described as more adverse than other Gui years. The source year and transformation are retained without external correction. Corrupted Wu Shi and Xiang Shi Lang wording is not silently repaired to Tan Lang, and the mixed chart is not reconstructed.",
+  "keywords": [
+    "武曲",
+    "化忌",
+    "擎羊",
+    "癸丑",
+    "太岁"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Hua Ji",
+    "Qing Yang",
+    "Gui Chou",
+    "Tai Sui"
+  ],
+  "topic": "命运总论",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [],
+    "stars_mentioned": [
+      "武曲",
+      "擎羊"
+    ],
+    "palaces_mentioned": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c25_chart6",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "scope_id": "c25_chart6",
+        "tiangan": null,
+        "palace": null
+      }
+    ],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "武食",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说明称疑损，不自动纠为武贪或推贪狼入命。",
+        "english_surface": "Wu Shi uncertain OCR",
+        "scope_id": "c25_chart6"
+      },
+      {
+        "surface": "想食狼",
+        "proposed_category": "ocr_uncertain",
+        "reason": "谓词/星名疑损，未据常识恢复。",
+        "english_surface": "Xiang Shi Lang uncertain OCR",
+        "scope_id": "c25_chart6"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": null
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c25_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c25_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 122,
+          "quote": "因武曲化忌"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 138,
+          "end": 142,
+          "quote": "擎羊同宮"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 112,
+          "end": 122,
+          "quote": "癸年生人，因武曲化忌"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 145,
+          "quote": "因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 117,
+          "end": 122,
+          "quote": "因武曲化忌"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 151,
+          "end": 177,
+          "quote": "但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 165,
+          "end": 177,
+          "quote": "就較其他癸年生人來得凶。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 103,
+          "end": 179,
+          "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 103,
+          "end": 179,
+          "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c25_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c25_chart6",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 165,
+          "end": 177,
+          "quote": "就較其他癸年生人來得凶。"
+        }
+      ]
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "只用盘六图说；前部命盘混排不可靠。图说武食/想食狼疑损仍保留并限制相关标签。",
+    "usable_spans": [
+      {
+        "start": 103,
+        "end": 179,
+        "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

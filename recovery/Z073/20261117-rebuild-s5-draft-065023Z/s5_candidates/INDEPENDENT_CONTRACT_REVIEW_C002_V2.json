@@ -1,0 +1,17 @@
+{
+  "review": "C002 incremental ordinary-fix confirmation; representation decision unchanged",
+  "created_utc": "2026-11-17T06:25:31.818105+00:00",
+  "candidate_sha256": "bd9e7a1028a4e7443f016ef61403d62239fec971c9b6b57591b5751d9478b14a",
+  "previous_review_sha256": "8d4e2978539dfbcc977a5c74594ce1b3eba85406142575f29f41901e72e2c18d",
+  "checks": {
+    "ziwei_cross_reference_usage_now_mentioned": true,
+    "english_weak_fallen_modifier_no_longer_attached_to_Wealth_Palace": true,
+    "new_summary_en": "Military Melody is yin metal, a wealth ruler and a general. Wealth assessment must include its Life Palace placement rather than the Wealth Palace alone. Its influence is strongest in Life or Wealth, and also strong in Fortune and Property. Favorable wealth outcomes require strong placement, benefics and a salary influence, either Prosperity Transformation or Salary Star. Military Melody sharing a strong palace with Salary Star and meeting many benefics can indicate great wealth. When Military Melody is fallen in the Wealth Palace, its conjunction with Salary Star, many benefics and few malefics suggests hard-earned wealth, not necessarily riches. Obstruction Transformation or many malefics with few benefics reverses the benefit. The transformation-bearing star is not explicitly named.",
+    "frozen_validation_passed": true,
+    "source_five_fields_exact": true
+  },
+  "result": "ordinary_fixes_accepted; typed_OR_hold_unchanged",
+  "candidate_or_schema_modified": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

@@ -1,0 +1,281 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c048",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    76
+  ],
+  "chunk_text": "先賢曰：「於田宅，主富足，近有煙筒、廟宇、寺塔及突然而立之物，皆以吉論之。」除上述賦文外，《全集，論身命十二宮吉凶星訣便覽》於武曲坐入田宅宮時，則有「更改不一，入廟自置」之說。\n古傳賦文與先賢動輒皆以星曜坐入田宅宮的賦性作用，藉此來推斷一個人的住家環境。",
+  "chunk_index": 48,
+  "school": "紫微",
+  "content_type": "古籍原文",
+  "difficulty": "medium",
+  "summary": "本块引述田宅富足及烟筒庙宇等环境说法，并引《全集》武曲入田宅宫「更改不一，入庙自置」。作者指出古赋常从田宅宫星曜推断住家环境；本块未给实际命例或验证。",
+  "summary_en": "This passage quotes inherited claims about property prosperity and nearby chimneys, temples or towers, followed by a verse about Military Melody in the Property Palace: repeated changes and self-acquired property when strong. The author notes the traditional practice of inferring residential surroundings from stars in that palace. No actual case or verification is supplied here.",
+  "keywords": [
+    "武曲",
+    "田宅宫",
+    "古赋",
+    "住家环境",
+    "入庙自置"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Property Palace",
+    "classical verses",
+    "residential surroundings",
+    "strong placement and self-acquired property"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "quote": "武曲坐入田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "quote": "於田宅，主富足"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "quote": "武曲坐入田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "quote": "武曲坐入田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "classical_property",
+        "kind": "conditional",
+        "condition": "《全集，論身命十二宮吉凶星訣便覽》於武曲坐入田宅宮時，則有「更改不一，入廟自置」之說",
+        "attribution": "《全集，論身命十二宮吉凶星訣便覽》引文"
+      },
+      "spans": [
+        {
+          "start": 45,
+          "end": 87,
+          "quote": "《全集，論身命十二宮吉凶星訣便覽》於武曲坐入田宅宮時，則有「更改不一，入廟自置」之說"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "田宅宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "classical_property",
+        "negated": false,
+        "condition": "《全集，論身命十二宮吉凶星訣便覽》於武曲坐入田宅宮時，則有「更改不一，入廟自置」之說"
+      }
+    ],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "田宅宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

@@ -1,0 +1,1752 @@
+{
+  "formal05_written": false,
+  "old05_read": false,
+  "quality_reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "candidate_sha256": "885e98e5d2eee7b5aa9db2b55f691d5e4745bc8d90812c81def0cd9186ceb63c",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "只用盘六图说；前部命盘混排不可靠。图说武食/想食狼疑损仍保留并限制相关标签。",
+          "usable_spans": [
+            {
+              "start": 103,
+              "end": 179,
+              "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c25_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c25_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 117,
+              "end": 122,
+              "quote": "因武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 138,
+              "end": 142,
+              "quote": "擎羊同宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 112,
+              "end": 122,
+              "quote": "癸年生人，因武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 117,
+              "end": 145,
+              "quote": "因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 117,
+              "end": 122,
+              "quote": "因武曲化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 151,
+              "end": 177,
+              "quote": "但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 165,
+              "end": 177,
+              "quote": "就較其他癸年生人來得凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 103,
+              "end": 179,
+              "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 103,
+              "end": 179,
+              "quote": "盤六武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c25_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 165,
+              "end": 177,
+              "quote": "就較其他癸年生人來得凶。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c25_chart6",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 105,
+              "end": 179,
+              "quote": "武食在丑坐命，癸年生人，因武曲化忌，不但造成武曲金來想食狼木，並因擎羊同宮來逞凶，就非常糟，但癸丑年生人因太歲宮位在丑，就較其他癸年生人來得凶。\n\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "原文癸年武曲化忌未改成他年，不据注册四化表替作者纠错。",
+        "武食在丑坐命的主星名疑损；未从混排盘反推贪狼或武曲具体入命。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "candidate_sha256": "67beb9b763d97d3bdb79a40889b9fb3c21c1c91106b863104884911bf0766300",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "案例分析",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "仅可读盘七图说；前部跨宫混排不解读，食狼疑名保留。",
+          "usable_spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c26_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c26_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 78,
+              "end": 84,
+              "quote": "武曲在辰坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 78,
+              "end": 89,
+              "quote": "武曲在辰坐命有火星同踞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c26_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 151,
+              "quote": "除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c26_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 103,
+              "end": 109,
+              "quote": "主「大富貴」"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 151,
+              "quote": "盤七武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c26_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c26_chart7",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 78,
+              "end": 151,
+              "quote": "武曲在辰坐命有火星同踞，雖然多少也有武曲食狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」凶格，除非是在會多吉星且行限佳之下，否則就不能以吉論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "行限佳未明具体限运类别，time_context=null。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "candidate_sha256": "6a1b5ff43fb7ce4332da83934c0f9732083ad624bb75df0e76547739f9607f73",
+      "retrieval_status": "limited",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "首段凶格作用承前缺触发条件；仅完整注八可用。",
+          "usable_spans": [
+            {
+              "start": 51,
+              "end": 245,
+              "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+            }
+          ]
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c27_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c27_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 232,
+              "end": 243,
+              "quote": "將於天同星部分再做解說"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 139,
+              "quote": "命身宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 136,
+              "end": 139,
+              "quote": "命身宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 245,
+              "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 155,
+              "quote": "對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 195,
+              "quote": "太歲入宮（或入卦）法"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 185,
+              "end": 195,
+              "quote": "太歲入宮（或入卦）法"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 51,
+              "end": 245,
+              "quote": "註八：古傳賦文在談到太歲宮位的作用，僅止於類如本賦文的說法。根據紫雲先生的研究與論命經驗顯示，太歲宮位不只限於對坐入宮位的吉凶的加重作用，對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。不僅如此，紫雲先生更提出許多與太歲宮位有關的新創論命法則，如太歲入宮（或入卦）法即為其一。關於太歲宮位在命理的作用，特別是在一個人的性格方面所扮演的角色，將於天同星部分再做解說。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c27_ziyun",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "注八转述紫雲先生研究与经验"
+          },
+          "spans": [
+            {
+              "start": 120,
+              "end": 155,
+              "quote": "對於一個人的命理特質，亦扮演著跟命身宮同樣（有時甚至更為）重要的角色。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "太岁是出生宫/方法概念语境，不填太岁星或流年时间。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "candidate_sha256": "b7634b4c56c551419c9da5ffe2c1a753a3735fab767abb95992c893d478f05c7",
+      "retrieval_status": "eligible",
+      "status": "candidate_pending_independent_review",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "eligible",
+          "reason": null,
+          "usable_spans": []
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 21,
+              "end": 23,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c28_same",
+            "kind": "conditional",
+            "condition": "武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 190,
+              "quote": "武曲坐命並有昌曲同宮者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 39,
+              "end": 41,
+              "quote": "文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c28_same",
+            "kind": "conditional",
+            "condition": "武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 190,
+              "quote": "武曲坐命並有昌曲同宮者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 56,
+              "end": 58,
+              "quote": "文曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c28_same",
+            "kind": "conditional",
+            "condition": "武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 190,
+              "quote": "武曲坐命並有昌曲同宮者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c28_same",
+            "kind": "conditional",
+            "condition": "武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 190,
+              "quote": "武曲坐命並有昌曲同宮者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c28_same",
+            "kind": "conditional",
+            "condition": "武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 179,
+              "end": 190,
+              "quote": "武曲坐命並有昌曲同宮者"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 39,
+              "end": 74,
+              "quote": "文昌陰金，南斗第五星，司科甲名聲。文曲陰水，北斗第四星，亦司科甲名聲。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 351,
+              "quote": "《全書，諸星在命身及十二宮吉凶要訣》曰：「武曲入廟與昌曲同宮守命，出將入相。」文昌陰金，南斗第五星，司科甲名聲。文曲陰水，北斗第四星，亦司科甲名聲。由此觀之，當武曲有昌曲同宮坐守時，除因昌曲為吉星對武曲有增吉作用外，更因昌曲主聰明才智及條理清晰之作用，使得武曲坐命者，除能衝鋒陷陣外，亦能運籌策於幃幄之中。因此，武曲的「將星」作用加上昌曲的「科星」作用，使得武曲坐命並有昌曲同宮者，可說是文武兼備，也就是先賢所說的「如與昌曲同宮，主人文武皆能」，但是否能「出將入相」，則須視其他條件而定。\n在此必須要注意的是，武曲必須是旺宮坐守時，始能發揮昌曲的吉星作用。另外，若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮，否則就不能充份發揮昌曲的吉星作用。\n"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 176,
+              "quote": "武曲的「將星」作用加上昌曲的「科星」作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 223,
+              "end": 244,
+              "quote": "但是否能「出將入相」，則須視其他條件而定。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 281,
+              "end": 350,
+              "quote": "若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮，否則就不能充份發揮昌曲的吉星作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 156,
+              "end": 165,
+              "quote": "武曲的「將星」作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c28_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 223,
+              "end": 244,
+              "quote": "但是否能「出將入相」，則須視其他條件而定。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c28_not_same",
+            "kind": "conditional",
+            "condition": "若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 281,
+              "end": 332,
+              "quote": "若昌曲不與武曲同宮，而是從三方來照會，亦有作用，惟其作用不若同宮坐守時強，且昌曲坐守的宮位亦必須是旺宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "不同宫三方照会为另一条件分支，原文摘要保留；无对应注册三方关系，不伪记对宫。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "retrieval_status": "eligible",
+      "status": "BLOCKED_partial_draft",
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐块完整读正文；明确实体及可表达关系逐项举证，疑名不自动映射。",
+        "binding": "关系对象/位置与案例条件归属绑定；同宫不由会合推断；作用目标不冒充化曜承载宫。",
+        "time": "未明周期不补本命/大限/流年；书页、出生年份非盘类。",
+        "content_type": "概念解释",
+        "english": "双语保留主要实体、因果及限制；作者命理主张非医学或现实必然结论。",
+        "source_quality": {
+          "status": "eligible",
+          "reason": null,
+          "usable_spans": []
+        }
+      },
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 28,
+              "end": 30,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 7,
+              "end": 9,
+              "quote": "七殺"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 9,
+              "end": 11,
+              "quote": "火星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c29_wuqi",
+            "kind": "conditional",
+            "condition": "武曲在卯酉二宮",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 28,
+              "end": 43,
+              "quote": "武曲在卯酉二宮必有七殺同宮坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c29_ji",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮與火星同度時，若武曲化忌",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c29_ji",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮與火星同度時，若武曲化忌",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c29_ji_detail",
+            "kind": "conditional",
+            "condition": "當武殺在卯酉二宮與火星同度時，若是武曲化忌",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 237,
+              "end": 306,
+              "quote": "當武殺在卯酉二宮與火星同度時，若是武曲化忌，就會造成火「剋」金的現象，此時不但會有武曲的「寡宿」凶格作用，且因七殺同宮，會更加重此一作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 350,
+              "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌，此時不論卯酉二宮為任何事項宮位，一律以凶論。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c29_quote",
+            "kind": "rule",
+            "condition": null,
+            "attribution": "先贤引文"
+          },
+          "spans": [
+            {
+              "start": 14,
+              "end": 21,
+              "quote": "有因財被劫之凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 137,
+              "end": 144,
+              "quote": "親情與人際關係"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 278,
+              "end": 289,
+              "quote": "武曲的「寡宿」凶格作用"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c29_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "unresolved": [
+        "无明确事项宫名，不把卯/酉冒充合法palace canonical；地支条件留在scope。"
+      ],
+      "blocking_issues": [
+        {
+          "evidence": {
+            "start": 199,
+            "end": 236,
+            "quote": "此時若有化忌或化祿（如武曲化忌或化祿）來引動，對此二宮位的吉凶影響就很大。"
+          },
+          "issue": "泛化忌/化禄及武曲示例含OR，四化对象模型缺备择绑定；下段明确武曲化忌已可表达，上段化禄候选不并发填入。",
+          "possible_values": [
+            "化忌",
+            "化禄"
+          ],
+          "status": "representation_hold"
+        }
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

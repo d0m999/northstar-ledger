@@ -1,0 +1,30 @@
+{
+  "issue": "C036 V1 return bound to revised bytes instead of originally reviewed version",
+  "created_utc": "2026-11-17T06:43:27.395198+00:00",
+  "cause": "Reviewer report script independent_035_044.py used prior prose findings but read current candidate and calculated hash at report-write time. Author had already applied preliminary feedback. This is a reviewer version-binding error, not withdrawal of the old finding.",
+  "original_read_snapshot_available": false,
+  "provenance_limit": "Old-reading hash was not captured contemporaneously. Mapping is reconstructed from preserved author bytes, exact content of V1 findings, revision log and report script. Do not describe the reconstruction as a contemporaneous immutable snapshot.",
+  "old_candidate": {
+    "path": "z073_rebuild_20261117/preparation/s5_candidates/batch035_039_before_review_revision/c036.json",
+    "sha256": "4f87bd9a33729f68c84e2d31eb4ecb4c6acd5bfba9614676888814f7e9e084be",
+    "relation_count": 7,
+    "decision_applicable": "return",
+    "evidence": "relations.0 source/target locations null; relations.1 both locations null; no relation.7 WuQu/TuoLuo/DiJie colocation"
+  },
+  "new_candidate": {
+    "path": "z073_rebuild_20261117/preparation/s5_candidates/review_snapshot/c036_erratum_20261117/current_reviewed.json",
+    "sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+    "relation_count": 8,
+    "decision_applicable": "accept_after_rereading",
+    "evidence": "relation.0 子→辰, relation.1 both子, relation.7 three stars同宫辰; original source and exact new evidence support these."
+  },
+  "invalid_binding": {
+    "report": "INDEPENDENT_REVIEW_C035_C044_V1.json",
+    "record": "c036",
+    "reported_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+    "status": "V1 return must not be applied to this revised hash"
+  },
+  "valid_later_binding": "V2/V3 acceptance matches re-read revised content; erratum preserves old reports unchanged. Parent may independently verify before restoring ledger acceptance.",
+  "human_acceptance": false,
+  "prevention": "Read once into unique review_snapshot bytes, hash those bytes, review only snapshot, verify current hash unchanged before final report; if changed re-read snapshot of new version."
+}

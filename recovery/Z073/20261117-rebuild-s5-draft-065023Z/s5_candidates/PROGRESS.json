@@ -1,0 +1,21 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "stage": "S5_in_progress",
+  "total_new_chunks": 293,
+  "pilot_assigned": [
+    1,
+    9
+  ],
+  "candidates_completed": 0,
+  "candidates_independently_reviewed": 0,
+  "old_27_holds_resolved": false,
+  "frozen_chunks_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "started_at": "2026-11-17T06:07:28.458025+00:00",
+  "rules": "Frozen v4; no schema changes; unsupported representation remains blocked without stopping safe independent work.",
+  "exposure": {
+    "repository_old_05_labels_read": false,
+    "historical_partial_dot_decisions_seen_by_coordinator": true,
+    "blind_annotation_claim": false,
+    "pilot_authors_instructed_not_to_copy_old_candidates": true
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "review": "Independent current-run C060/C062/C063/C069 distribution and target binding",
+  "created_utc": "2026-11-17T06:44:39.560507+00:00",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c060",
+      "reviewed_input_bytes_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b",
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c062",
+      "reviewed_input_bytes_sha256": "dce5b52e5f91237fc9f8ffbe5a1ff035de859290a78a15e6d98ca6a5e1494c73",
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c063",
+      "reviewed_input_bytes_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad",
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "validator_passed": true,
+      "eligibility": "eligible"
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c069",
+      "reviewed_input_bytes_sha256": "8baaeece4ff6459f571c5ba0bba97cacf1e2b011d53bef3a8e1cf3c030aa4f0b",
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "validator_passed": true,
+      "eligibility": "limited"
+    }
+  ],
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "assessments": [
+    {
+      "chunk": "C060",
+      "decision": "retain_specific_temporal_target_and_effect_alternatives; generic_mentions_are_expressible",
+      "issue_families": [
+        "natal_cycle_target_alternative",
+        "single_double_transformation_effect_alternative",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "evidence": [
+        {
+          "start": 9,
+          "end": 52,
+          "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+        },
+        {
+          "start": 231,
+          "end": 255,
+          "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+        }
+      ],
+      "expressible_completed": "WuQu/TanLang Life at Chou under explicit Jia-year premise, their conjunction, aggregate five-cycle interval and female reverse-cycle interval, and generic female occasional HuaLu mention. These are independently supported and must remain separate from the unresolved period mapping.",
+      "ordinary_coverage": "Generic unnamed-star HuaLu in first five-cycle paragraph and generic HuaJi in the female adverse paragraph can be mentioned with star=null/not_mentioned, original full aggregate/female evidence scope, and no assigned natal/cycle carrying palace. Here the source genuinely names no bearer, unlike C058/059 named alternatives. Representation hold does not justify omitting all such type mentions.",
+      "gap": "No cycle-by-cycle allocation of natal versus later Life/Property target, single vs double HuaLu support, or single HuaJi impact versus double-Ji flank is given. Preserve distribution and counts in source; scalar palace and scope cannot encode their joint alternatives. Generic mentions do not resolve target/effect choice.",
+      "unsafe": "Do not fill WuQu/TanLang as the unnamed transforming stars merely because they are in the same chunk, infer five individual stems, or assign each effect to both natal and cycle palaces.",
+      "qualification": "Source text intact and eligible. Female reverse progression condition must stay attached to adverse statements; no schema-driven downgrade."
+    },
+    {
+      "chunk": "C063",
+      "decision": "retain_specific_temporal_target_and_effect_alternatives; generic_mentions_are_expressible",
+      "issue_families": [
+        "natal_cycle_target_alternative",
+        "single_double_transformation_effect_alternative",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "evidence": [
+        {
+          "start": 9,
+          "end": 52,
+          "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+        },
+        {
+          "start": 231,
+          "end": 255,
+          "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+        }
+      ],
+      "expressible_completed": "WuQu/TanLang Life at Chou under explicit Jia-year premise, their conjunction, aggregate five-cycle interval and female reverse-cycle interval, and generic female occasional HuaLu mention. These are independently supported and must remain separate from the unresolved period mapping.",
+      "ordinary_coverage": "Generic unnamed-star HuaLu in first five-cycle paragraph and generic HuaJi in the female adverse paragraph can be mentioned with star=null/not_mentioned, original full aggregate/female evidence scope, and no assigned natal/cycle carrying palace. Here the source genuinely names no bearer, unlike C058/059 named alternatives. Representation hold does not justify omitting all such type mentions.",
+      "gap": "No cycle-by-cycle allocation of natal versus later Life/Property target, single vs double HuaLu support, or single HuaJi impact versus double-Ji flank is given. Preserve distribution and counts in source; scalar palace and scope cannot encode their joint alternatives. Generic mentions do not resolve target/effect choice.",
+      "unsafe": "Do not fill WuQu/TanLang as the unnamed transforming stars merely because they are in the same chunk, infer five individual stems, or assign each effect to both natal and cycle palaces.",
+      "qualification": "Source text intact and eligible. Female reverse progression condition must stay attached to adverse statements; no schema-driven downgrade."
+    },
+    {
+      "chunk": "C062",
+      "decision": "retain_temporal_bearer_assignment_hold; preserve_separately_explicit_later_actions",
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "evidence": [
+        {
+          "start": 435,
+          "end": 472,
+          "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+        }
+      ],
+      "gap": "TaiYin or TianTong HuaLu alternates across three cycles without a given per-cycle assignment. Sihua scalar star/tiangan cannot preserve this choice/distribution. No cross-chunk original05 or known transformation table may fill it.",
+      "expressible_completed": "GengWu TianTong Ji impacting cycle Life, Ji flanking natal Life, TaiYang Lu and WuQu Quan supporting distinct targets; explicit Chou Life pair and Sun/Moon flank; WuChen TanLang Lu and JiSi WuQu/LianZhen Lu to cycle Property. WuQu borrowed from opposite palace is influence, not physical placement into empty Wei or target Shen.",
+      "ordinary_coverage": "The intact three-cycle interval may be retained as an aggregate time mention with original subject and scope; current time_mentions only name later cycles. Do not reconstruct the opening antecedent-less 自坐大限命宮 by borrowing another chunk.",
+      "typed_instance_boundary": "GengWu includes TaiYang HuaJi and HuaLu in one broad scope. Bare TaiYang relation participants plus free-string hua_ji_flanker role do not furnish a typed Sihua-instance reference. Current ordinary star relation/prose evidence is not automatically false, but must not be certified as full transformation-instance retrieval binding. Keep exact span and natal/cycle target labels; do not change carried palace to affected palace.",
+      "qualification": "limited for broken opening only, not for intact OR passage."
+    },
+    {
+      "chunk": "C069",
+      "decision": "retain_unordered_branch_assignment_and_target_level_alternative_holds",
+      "issue_families": [
+        "unordered_star_branch_assignment",
+        "natal_cycle_target_alternative"
+      ],
+      "evidence": [
+        {
+          "start": 253,
+          "end": 269,
+          "quote": "癸干的魁鉞分居於卯巳二宮夾輔辰宮"
+        },
+        {
+          "start": 503,
+          "end": 517,
+          "quote": "先天或後天命宮皆有化祿來吉化"
+        },
+        {
+          "start": 547,
+          "end": 561,
+          "quote": "先天或後天命宮雖間有化忌來沖"
+        }
+      ],
+      "gap": "TianKui/TianYue occupy Mao/Si separately; text does not map each named star to a unique branch. Two location scalars would require an unprovided assignment. Natal or later Life target across aggregate cycles is likewise not a simultaneous assertion on both levels.",
+      "expressible_completed": "Flanking by the two named stars of Chen Life can remain with unresolved individual flank locations; source later explicitly establishes WuQu Chen Life. LuCun Zi Wealth, PoJun Wu Fortune HuaLu, ZiWei/TianFu Shen Career, WuQu Chen Life and TanLang Ji impact are independently specified. Generic Lu/Ji bearers are genuinely unnamed in aggregate/lifelong clauses, so null-star mentions are legitimate.",
+      "ordinary_review": "For flanking target functional Life, include the later explicit 武曲在辰坐命癸年生人 context in evidence if current span only says 辰宮. Do not infer functional palace from branch alone. Keep case/year source link for specific PoJun/TanLang transformations, not universal stem-table inference.",
+      "unsafe": "Do not map Kui->Mao,Yue->Si from ordering, use location=卯巳 as a solved scalar, or cast 先天或後天 as two simultaneously affected LifePalace objects. Four-cycle aggregate does not license invented individual cycle mappings.",
+      "qualification": "limited only for mixed diagram/broken lead; intact prose retains specific facts and the unresolved alternatives."
+    }
+  ],
+  "duplicate_check": {
+    "c060_c063_chunk_text_byte_equivalent": true,
+    "each_source_record_independently_verified": true,
+    "normalized_top_level_differences": [
+      "chunk_index",
+      "page_range"
+    ],
+    "scope_normalized_ziwei_equal": true,
+    "no_deletion_or_deduplication": true
+  },
+  "registry_findings": "Frozen RelationParticipant offers scalar name/location; relation types include 夹辅 and 四化作用 but entity registry only star/palace/pattern. SihuaMention scalar star/tiangan/palace lacks alternative mapping; TimeContextMention subject can preserve aggregate text without proving allocation.",
+  "consulted_input_bytes_hashes": {
+    "preparation/s5_candidates/batch060_064_review.json": "c0f5fd69cb8e82ce93c60c24e1e6db9f5c4180e7a67335a4ad87b76e68330d34",
+    "preparation/s5_candidates/batch065_069_review.json": "d9ce378867dfe1d0d39bd900c3bfdfbd524e7a7dddcdd08cd02df6b3860bbd7f",
+    "preparation/s5_candidates/c069_BLOCKED.json": "bf2ba520ac4517402523b9861f95e97840157b995bc137edea709ee5bde56093",
+    "frozen_package/rules/runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml": "c6c1fb12c960cc0b0c1aa84bf98d23e006df9ae2be864a00c26ca6ed3d99c699",
+    "frozen_package/rules/runtime/astrology_corpus/annotation/semantic_models.py": "70918976fed476f469875f1ae3c491c359371f073ece064a52573785e2355d3c",
+    "frozen_package/rules/runtime/astrology_corpus/annotation/schemas.py": "1947095f69881ae76190430d401c01e5f242350f707a7b39bd2bf0da7187aade"
+  },
+  "candidate_or_schema_modified": false,
+  "old05_read": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "post_review_active_hash_observation": {
+    "C060": {
+      "active_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b",
+      "reviewed_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b"
+    },
+    "C062": {
+      "active_sha256": "dce5b52e5f91237fc9f8ffbe5a1ff035de859290a78a15e6d98ca6a5e1494c73",
+      "reviewed_sha256": "dce5b52e5f91237fc9f8ffbe5a1ff035de859290a78a15e6d98ca6a5e1494c73"
+    },
+    "C063": {
+      "active_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad",
+      "reviewed_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad"
+    },
+    "C069": {
+      "active_sha256": "8baaeece4ff6459f571c5ba0bba97cacf1e2b011d53bef3a8e1cf3c030aa4f0b",
+      "reviewed_sha256": "8baaeece4ff6459f571c5ba0bba97cacf1e2b011d53bef3a8e1cf3c030aa4f0b"
+    }
+  }
+}

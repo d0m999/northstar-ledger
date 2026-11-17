@@ -1,0 +1,1010 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c037",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    64
+  ],
+  "chunk_text": "凶象，但命宮亦因天同化祿而引動先天雙祿吉輔的吉象。假定此人是上班族且從事技術性的工作，此時「財與囚仇」的凶象，可能會反應在工作上極端忙碌、辛苦，卻不一定就會不利於財。但若此人為生意人，此時就得非常小心，否則就易有錢財方面的問題出現。\n至於賦文中所說的「如旺地有吉扶，亦有富貴之人，但結局仍是不利也」，仍須視武曲坐守宮位會吉多寡、實際所從事行業性質及所處大環境而定，不一定就會「結局仍是不利也」。\n若以盤十三的男命為例來看，武殺在酉旺宮坐命，除有天鉞同宮外，三方並有祿存來吉化，但因丙年生人，廉貞化忌致使命宮成為「財與囚仇」。走到己亥限，武曲化祿造成命宮坐會雙祿，此時廉貞化忌被制煞為用，故大限以吉論。庚子限，除太陽化祿和天同化祿吉輔先天命宮外，並有武曲化權吉化酉宮，再加上大限天機坐守，所謂「天機入限，主有環境之變」，會讓命造覺得環境變動對他有利，而想有所作為。但大限因天同化忌呈忌煞交沖，成為極弱之宮位，而先天命宮卻因「財與仇囚」而成為吉處藏凶宮位。先天命宮為吉處藏凶宮位，而大限本宮凶且弱，此時宜穩紮穩打，若想有一番大作為，則此大限恐不易平順得過。\n故盤十三的命例顯示，先天命宮為「財與仇囚」，雖有吉扶，但因會吉少，易有「限運好時則發，不好則敗」的現象。",
+  "chunk_index": 37,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "hard",
+  "summary": "作者认为财与囚仇的表现须结合工作类型、会吉及环境，技术上班族可能只是辛劳，经营者则须慎防财务问题。盘十三丙年武杀酉命，己亥限武曲化禄使忌被制用，庚子限虽先天得吉化，大限天同化忌仍弱凶，应守稳而非贸然作为。",
+  "summary_en": "Cai Yu Qiu Chou may mean exhausting technical employment rather than financial loss; business owners should be cautious. Outcomes depend on benefics, occupation and environment. Chart Thirteen has Wu Qu and Qi Sha in the You Life Palace for a Bing-year birth. During Ji Hai, Wu Qu Hua Lu makes Lian Zhen Hua Ji usable. In Geng Zi, Tai Yang and Tian Tong Hua Lu and Wu Qu Hua Quan help the natal palace, but Tian Tong Hua Ji weakens the cycle palace. The author advises stability rather than aggressive expansion.",
+  "keywords": [
+    "财与囚仇",
+    "武曲",
+    "廉贞",
+    "四化",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Cai Yu Qiu Chou",
+    "Wu Qu",
+    "Lian Zhen",
+    "four transformations",
+    "conditional interpretation"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c037_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c037_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c037_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 153,
+          "end": 155,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c037_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 222,
+          "end": 224,
+          "quote": "天鉞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c037_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 232,
+          "end": 234,
+          "quote": "祿存"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c037_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 245,
+          "end": 247,
+          "quote": "廉貞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c037_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 307,
+          "quote": "太陽"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c037_stars_mentioned5",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 310,
+          "end": 316,
+          "quote": "天同化祿吉輔"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c037_stars_mentioned6",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 338,
+          "end": 340,
+          "quote": "天機"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c037_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 215,
+          "end": 219,
+          "quote": "旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c037_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 272,
+          "quote": "武曲化祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c037_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 50,
+          "quote": "財與囚仇"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c037_knowledge_domains2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 164,
+          "end": 181,
+          "quote": "實際所從事行業性質及所處大環境而定"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c037_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 78,
+          "end": 82,
+          "quote": "不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c037_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 42,
+          "quote": "從事技術性的工作"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c037_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 280,
+          "quote": "武曲化祿造成命宮坐會雙祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c037_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 487,
+          "end": 498,
+          "quote": "先天命宮為「財與仇囚」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c037_jihai",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 262,
+          "end": 280,
+          "quote": "走到己亥限，武曲化祿造成命宮坐會雙祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c037_gengzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 300,
+          "end": 321,
+          "quote": "庚子限，除太陽化祿和天同化祿吉輔先天命宮外"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "c037_natal13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 426,
+          "end": 437,
+          "quote": "先天命宮為吉處藏凶宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c037_natal13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 240,
+          "end": 261,
+          "quote": "丙年生人，廉貞化忌致使命宮成為「財與囚仇」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c037_jihai",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 262,
+          "end": 280,
+          "quote": "走到己亥限，武曲化祿造成命宮坐會雙祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c037_gengzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 300,
+          "end": 321,
+          "quote": "庚子限，除太陽化祿和天同化祿吉輔先天命宮外"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c037_natal13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 305,
+          "end": 320,
+          "quote": "太陽化祿和天同化祿吉輔先天命宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "c037_gengzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 324,
+          "end": 332,
+          "quote": "武曲化權吉化酉宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.5",
+      "scope": {
+        "scope_id": "c037_gengzi",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 381,
+          "end": 394,
+          "quote": "但大限因天同化忌呈忌煞交沖"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c037_natal13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 245,
+          "end": 261,
+          "quote": "廉貞化忌致使命宮成為「財與囚仇」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c037_jihai",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 268,
+          "end": 292,
+          "quote": "武曲化祿造成命宮坐會雙祿，此時廉貞化忌被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "c037_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 219,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c037_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 219,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c037_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 219,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c037_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 219,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c037_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 219,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c037_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 46,
+          "end": 50,
+          "quote": "財與囚仇"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c037_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 411,
+          "end": 415,
+          "quote": "財與仇囚"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "起首承接未完成前文，不能恢复初始对象；从完整假设句起保留职业条件及盘十三完整比较。",
+    "usable_spans": [
+      {
+        "start": 25,
+        "end": 529,
+        "quote": "假定此人是上班族且從事技術性的工作，此時「財與囚仇」的凶象，可能會反應在工作上極端忙碌、辛苦，卻不一定就會不利於財。但若此人為生意人，此時就得非常小心，否則就易有錢財方面的問題出現。\n至於賦文中所說的「如旺地有吉扶，亦有富貴之人，但結局仍是不利也」，仍須視武曲坐守宮位會吉多寡、實際所從事行業性質及所處大環境而定，不一定就會「結局仍是不利也」。\n若以盤十三的男命為例來看，武殺在酉旺宮坐命，除有天鉞同宮外，三方並有祿存來吉化，但因丙年生人，廉貞化忌致使命宮成為「財與囚仇」。走到己亥限，武曲化祿造成命宮坐會雙祿，此時廉貞化忌被制煞為用，故大限以吉論。庚子限，除太陽化祿和天同化祿吉輔先天命宮外，並有武曲化權吉化酉宮，再加上大限天機坐守，所謂「天機入限，主有環境之變」，會讓命造覺得環境變動對他有利，而想有所作為。但大限因天同化忌呈忌煞交沖，成為極弱之宮位，而先天命宮卻因「財與仇囚」而成為吉處藏凶宮位。先天命宮為吉處藏凶宮位，而大限本宮凶且弱，此時宜穩紮穩打，若想有一番大作為，則此大限恐不易平順得過。\n故盤十三的命例顯示，先天命宮為「財與仇囚」，雖有吉扶，但因會吉少，易有「限運好時則發，不好則敗」的現象。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected",
+            "location": null
+          }
+        ],
+        "scope_id": "c037_natal13",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "affected",
+            "location": null
+          }
+        ],
+        "scope_id": "c037_jihai",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c037_chart_pair",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c037_chart_pair",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "c037_chart_pair",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "未注册来源格局",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c037_term1"
+      },
+      {
+        "surface": "財與仇囚",
+        "proposed_category": "source_pattern_variant",
+        "reason": "与本段另一写法并存，不静默改字",
+        "english_surface": "Cai Yu Chou Qiu",
+        "scope_id": "c037_term2"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "c037_jihai",
+        "subject": "盘十三己亥限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "c037_gengzi",
+        "subject": "盘十三庚子限",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "scope_id": "c037_natal13",
+        "subject": "盘十三先天命宮",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天钺",
+      "禄存",
+      "廉贞",
+      "太阳",
+      "天同",
+      "天机",
+      "七杀"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_natal13"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_jihai"
+      },
+      {
+        "star": "太阳",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_gengzi"
+      },
+      {
+        "star": "天同",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_natal13"
+      },
+      {
+        "star": "武曲",
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_gengzi"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c037_gengzi"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": [
+      "武杀同宫"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

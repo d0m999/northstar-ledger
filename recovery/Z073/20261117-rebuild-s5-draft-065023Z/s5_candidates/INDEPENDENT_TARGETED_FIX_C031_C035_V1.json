@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-11-17T06:31:42.309861+00:00",
+  "repairs": [
+    {
+      "chunk": "C031",
+      "current_sha256": "2e2427625a4402643617386f9ad0e3f1a10224498b02ddb0ca71f4985053a543",
+      "reviewed_fix": "Both summaries now explicitly preserve the Hua Lu OR Hua Ji activation prerequisite.",
+      "accepted": true,
+      "changed_top_level_fields": [
+        "summary_en",
+        "summary"
+      ],
+      "old_candidate_sha256": "4785b60ec211dbd291827b91503acf25736e5e62b42e2fad4deb06205b6a94cb",
+      "hold_unchanged": true
+    },
+    {
+      "chunk": "C035",
+      "current_sha256": "16a8fe24490f072b28edee6c6924237bf5b4a5cf3a8913ca24a6aeb93ea995dc",
+      "reviewed_fix": "Singular Lian Zhen Hua Ji uses independent 當廉貞化忌 evidence including evil-fire interaction; English secondary pattern retains both Body-not-at-Lian and either-star Hua Ji prerequisites.",
+      "accepted": true,
+      "scope_id": "c035_lian_ji",
+      "scope_note": "Reusing c035_lian_ji rather than c035_evil_fire is acceptable: the independent exact condition and full evidence, not the arbitrary ID spelling, establish the binding.",
+      "full_changed_candidate_reapproved": false,
+      "hold_unchanged": true
+    }
+  ],
+  "whole_source_S5_S6_passed": false,
+  "candidates_modified": false
+}

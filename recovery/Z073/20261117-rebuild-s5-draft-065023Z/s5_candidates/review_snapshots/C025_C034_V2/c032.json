@@ -1,0 +1,476 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c032",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    58,
+    59
+  ],
+  "chunk_text": "武忌天同曲太陽天梁祿\n\n殺祿存事業 42-51田宅 32-41亥僕役52-61申福德22-31己酉陀羅庚戌辛戊天機天相時男命月日壬年子遷移62-71未 父母12-21擎羊壬丁巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。由於論命須以命宮為基礎，故在論及田宅宮的吉凶時，此時田宅宮就有武曲七殺加會火星權巨門破紫軍微2-11丑疾厄72-81命宮午癸水\n\n火星局丙天府太科陰廉貞狼貪的凶格作用。\n天魁天鉞盤十夫妻寅財帛已 兄弟甲辰癸卯壬乙\n\n武曲第四章\n\n",
+  "chunk_index": 32,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘十混排图中有一条完整图说：巨门火星在午坐命，壬年生，武曲化忌在田宅宫。只保留此句可验证的星位和四化，不从后续被插入盘字打断的凶格句恢复结论或补七杀位置。",
+  "summary_en": "One complete sentence within the mixed Chart 10 text states Ju Men and Huo Xing in the Life Palace at Wu, a Ren-year birth, and Wu Qu Hua Ji in the Property Palace. Only these readable placements and the transformation are used. The interrupted configuration sentence is not reconstructed, and no Qi Sha placement is supplied.",
+  "keywords": [
+    "巨门",
+    "火星",
+    "武曲",
+    "化忌",
+    "命宫",
+    "田宅宫",
+    "壬年"
+  ],
+  "keywords_en": [
+    "Ju Men",
+    "Huo Xing",
+    "Wu Qu",
+    "Hua Ji",
+    "Life Palace",
+    "Property Palace",
+    "Ren year"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c32_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c32_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c32_chart10",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 87,
+          "end": 110,
+          "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c32_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅该完整图说句可用，其他命盘跨栏混排且解释被图字打断。",
+    "usable_spans": [
+      {
+        "start": 87,
+        "end": 110,
+        "quote": "巨門火星在午坐命，壬年生人，武曲化忌在田宅宮。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c32_chart10",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "午"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c32_chart10",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "田宅宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c32_chart10",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "巨门",
+            "role": "member",
+            "location": "午"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "member",
+            "location": "午"
+          }
+        ],
+        "scope_id": "c32_chart10",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "四化星",
+    "stars_mentioned": [
+      "巨门",
+      "火星",
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "田宅宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": "田宅宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c32_chart10"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,2628 @@
+{
+  "formal05_written": false,
+  "old05_read": false,
+  "quality_reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "retrieval_status": "eligible",
+      "candidate_sha256": "f720cb052c9848803585575fc97f71ca1a123d2e22c95b77245b92ca6bf34b46",
+      "status": "candidate_pending_independent_review",
+      "source_fact_refs": [],
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 0,
+              "end": 2,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 2,
+              "end": 4,
+              "quote": "火星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 339,
+              "end": 341,
+              "quote": "鈴星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 421,
+              "end": 463,
+              "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 421,
+              "end": 463,
+              "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 421,
+              "end": 463,
+              "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 221,
+              "end": 225,
+              "quote": "婚姻感情"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 471,
+              "end": 475,
+              "quote": "人際親情"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.2",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 489,
+              "end": 491,
+              "quote": "求財"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 396,
+              "end": 463,
+              "quote": "若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙，但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c10_ji",
+            "kind": "conditional",
+            "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 421,
+              "end": 463,
+              "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c10_ji",
+            "kind": "conditional",
+            "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c10_ji",
+            "kind": "conditional",
+            "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 421,
+              "end": 463,
+              "quote": "但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.2",
+          "scope": {
+            "scope_id": "c10_lu",
+            "kind": "conditional",
+            "condition": "若是武曲化祿",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 492,
+              "end": 530,
+              "quote": "但若是武曲化祿，則武曲火星成為火「煉」金，不但無礙於人際親情，且亦利於求財。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c10_lu",
+            "kind": "conditional",
+            "condition": "若是武曲化祿",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 492,
+              "end": 530,
+              "quote": "但若是武曲化祿，則武曲火星成為火「煉」金，不但無礙於人際親情，且亦利於求財。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c10_ji",
+            "kind": "conditional",
+            "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 378,
+              "end": 463,
+              "quote": "必須注意的是，武曲與火星本質上相剋，若無化忌來引動凶象，僅以不佳論，卻不一定會有大礙，但若是有化忌（如武曲化忌）來引動火「剋」金的凶象，則成為正格的「寡宿」凶格，就相當凶"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c10_ji",
+            "kind": "conditional",
+            "condition": "若是有化忌（如武曲化忌）來引動火「剋」金的凶象",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 446,
+              "end": 458,
+              "quote": "則成為正格的「寡宿」凶格"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 62,
+              "end": 87,
+              "quote": "若是星曜五行又是相生，則就更能充份發揮其正面作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c10_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 338,
+              "end": 359,
+              "quote": "因鈴星和火星為成對的星曜，且鈴星五行亦屬火"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐文审读，主要星曜、宫位、四化及作用条件分别保留；集合简称和未注册名称不造标准ID。",
+        "binding": "案例/引文/条件scope分别绑定，入宫与同宫及夹制分开；泛化忌星空值独立原因。",
+        "time": "不由先天/早中年/行限猜本命盘或大限，未明时null。",
+        "content_type": "概念解释；依据实际理论/具体林太太或盘二案例。",
+        "english": "双语保留主要实体、吉煞/配偶例外和OR，不把作者命理主张当实证医学。",
+        "source_quality": {
+          "status": "eligible"
+        }
+      },
+      "unresolved": [
+        "会合并非明确同宫，未标同宫；泛称化忌与武曲化忌例子分别保留，同一条件scope不是两个独立案例。",
+        "无化忌的否定限制和配偶忍让例外在正文与摘要保留；早/中年不是限运对象。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "retrieval_status": "limited",
+      "candidate_sha256": "4f070d4c0acda3b653f8c268a4e4c44feef52a0158c9da229cf0465eea5bf06c",
+      "status": "candidate_pending_independent_review",
+      "source_fact_refs": [],
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_applicable",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 79,
+              "end": 83,
+              "quote": "武曲坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 387,
+              "end": 402,
+              "quote": "又，賦文中的四煞是指羊陀火鈴。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 79,
+              "end": 83,
+              "quote": "武曲坐命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 290,
+              "end": 294,
+              "quote": "守於身命"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.2",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 276,
+              "end": 281,
+              "quote": "若居夫妻宮"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 92,
+              "end": 106,
+              "quote": "均不利婚姻感情和親情人際關係"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 132,
+              "end": 154,
+              "quote": "此時若再有化忌來沖，則有可能是本身的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 95,
+              "end": 99,
+              "quote": "婚姻感情"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 100,
+              "end": 106,
+              "quote": "親情人際關係"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.2",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 147,
+              "end": 154,
+              "quote": "本身的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c11_health",
+            "kind": "conditional",
+            "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 114,
+              "end": 154,
+              "quote": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c11_health",
+            "kind": "conditional",
+            "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c11_health",
+            "kind": "conditional",
+            "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 114,
+              "end": 154,
+              "quote": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c11_quoted_spouse",
+            "kind": "conditional",
+            "condition": "若居夫妻宮",
+            "attribution": "《全書，諸星在命身及十二宮吉凶要訣》引文"
+          },
+          "spans": [
+            {
+              "start": 276,
+              "end": 289,
+              "quote": "若居夫妻宮則男剋妻、女剋夫"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 10,
+              "end": 26,
+              "quote": "前面有關武曲為「寡宿」的諸多說明"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c11_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐文审读，主要星曜、宫位、四化及作用条件分别保留；集合简称和未注册名称不造标准ID。",
+        "binding": "案例/引文/条件scope分别绑定，入宫与同宫及夹制分开；泛化忌星空值独立原因。",
+        "time": "不由先天/早中年/行限猜本命盘或大限，未明时null。",
+        "content_type": "概念解释；依据实际理论/具体林太太或盘二案例。",
+        "english": "双语保留主要实体、吉煞/配偶例外和OR，不把作者命理主张当实证医学。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "标题首字「临」疑似OCR混入，完整正文从前面起可用，不修原文。",
+          "usable_spans": [
+            {
+              "start": 10,
+              "end": 403,
+              "quote": "前面有關武曲為「寡宿」的諸多說明，均是以女命為主，實則亦適用於男命，只不過因傳統認為男喜陽剛、女喜陰柔，故較不利女命。其實不論男女，只要是武曲坐命不會吉或會煞多者，均不利婚姻感情和親情人際關係。惟須注意的是，當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題。關於武曲在疾病的推論，將於後再詳述之。\n以下僅摘錄古傳賦文的相關敘述，供讀者參考，就不再加以說明。《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）、「若居夫妻宮則男剋妻、女剋夫；守於身命，若是夫妻宫主星閑陷，亦同一理斷。惟婦奪夫權而男方不計，可免刑剋，否則兩剛相敵，必主因剋生離」，而先賢亦有類似的說法如下：「此星不論男女逢之，而會合羊陀，男孤、女寡，刑剋極重。」（註四）又，賦文中的四煞是指羊陀火鈴。\n"
+            }
+          ]
+        }
+      },
+      "unresolved": [
+        "身命概括未拆成同一星同时坐两个宫；泛化忌星未说明且宫位是受冲对象，未填承载palace/飞入target。",
+        "羊陀火铃简称的单星展开交独审，不按程序补星位。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "retrieval_status": "limited",
+      "candidate_sha256": "98de08b7b4e62188c42675df7d3e3715145084653a0924f618604e8f002755dc",
+      "status": "candidate_pending_independent_review",
+      "source_fact_refs": [],
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 68,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 59,
+              "end": 61,
+              "quote": "天府"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 62,
+              "end": 64,
+              "quote": "文昌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 64,
+              "end": 66,
+              "quote": "左輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 83,
+              "end": 85,
+              "quote": "廉貞"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 86,
+              "end": 88,
+              "quote": "祿存"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 88,
+              "end": 90,
+              "quote": "天馬"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 52,
+              "end": 56,
+              "quote": "命宮在子"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 76,
+              "end": 80,
+              "quote": "身宮在申"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.5",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.6",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.7",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.8",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 69,
+              "end": 75,
+              "quote": "並有祿權照會"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0.star",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 69,
+              "end": 75,
+              "quote": "並有祿權照會"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.1.star",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 48,
+              "end": 126,
+              "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 127,
+              "end": 176,
+              "quote": "女命先天命理格局太強，要是後天某些條件未能配合，恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 176,
+              "end": 195,
+              "quote": "這些後天的配合條件，其中尤以婚姻為重。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.1",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 151,
+              "end": 176,
+              "quote": "恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c12_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.star_pairs_mentioned.0",
+          "scope": {
+            "scope_id": "c12_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 81,
+              "end": 95,
+              "quote": "除有廉貞並祿存天馬同宮坐守外"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐文审读，主要星曜、宫位、四化及作用条件分别保留；集合简称和未注册名称不造标准ID。",
+        "binding": "案例/引文/条件scope分别绑定，入宫与同宫及夹制分开；泛化忌星空值独立原因。",
+        "time": "不由先天/早中年/行限猜本命盘或大限，未明时null。",
+        "content_type": "案例分析；依据实际理论/具体林太太或盘二案例。",
+        "english": "双语保留主要实体、吉煞/配偶例外和OR，不把作者命理主张当实证医学。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "末句截于和，不补下页；此前命例与后天条件完整可用。",
+          "usable_spans": [
+            {
+              "start": 0,
+              "end": 195,
+              "quote": "命例-一個挨揍的女強人\n為增進讀者對武曲坐命者的命理現象，有進一步的認識，茲舉下列命例說明之。\n林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。\n女命先天命理格局太強，要是後天某些條件未能配合，恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。這些後天的配合條件，其中尤以婚姻為重。"
+            }
+          ]
+        }
+      },
+      "unresolved": [
+        "禄权照会未明化曜星，不填宫位为承载星位或飞入；四化星各有独立null原因。",
+        "先天格局非明示本命盘，不默认chart_type；末句不引用后页补字。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "retrieval_status": "limited",
+      "candidate_sha256": "c16d131c12d9b468a64eb761be681a4af5b25ebbe733ef35a06ed62659601444",
+      "status": "candidate_pending_independent_review",
+      "source_fact_refs": [],
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c13_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c13_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 285,
+              "end": 301,
+              "quote": "但賺錢養家之餘，卻會挨老公的揍。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 238,
+              "end": 267,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c13_chart2",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 285,
+              "end": 301,
+              "quote": "但賺錢養家之餘，卻會挨老公的揍。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐文审读，主要星曜、宫位、四化及作用条件分别保留；集合简称和未注册名称不造标准ID。",
+        "binding": "案例/引文/条件scope分别绑定，入宫与同宫及夹制分开；泛化忌星空值独立原因。",
+        "time": "不由先天/早中年/行限猜本命盘或大限，未明时null。",
+        "content_type": "案例分析；依据实际理论/具体林太太或盘二案例。",
+        "english": "双语保留主要实体、吉煞/配偶例外和OR，不把作者命理主张当实证医学。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "前部命盘栏位混排不可可靠绑定，仅使用盘二之后可读图说；图说疑字保留，不据疑字推新事实。",
+          "usable_spans": [
+            {
+              "start": 238,
+              "end": 339,
+              "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。這個命造命身格局這麽大，是個女強人，但賺錢養家之餘，卻會挨老公的揍。在命理上這個命盤的女人，都該有這種逻過嗎？假定並非如此，為什麽只有她會挨捺？"
+            }
+          ]
+        }
+      },
+      "unresolved": [
+        "不将不可读盘内化忌/化权/宫位列入标注；火铃左右对应未明，只记两邻宫而不指定谁左谁右。",
+        "家庭暴力为作者描述而非受害者过错；问句非同盘必然结论。"
+      ],
+      "blocking_issues": [],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "retrieval_status": "limited",
+      "candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "status": "BLOCKED_partial_draft",
+      "source_fact_refs": [
+        {
+          "kind": "unrepresented_alternative",
+          "evidence": {
+            "start": 328,
+            "end": 399,
+            "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+          },
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "alternatives": [
+            {
+              "star": "太阴",
+              "transformation": "化忌"
+            },
+            {
+              "star": "太阳",
+              "transformation": "化忌"
+            }
+          ],
+          "blocking_reason": "四化对象缺备择组结构；两条同scope标量会丢失OR，不强填成同时化忌。"
+        }
+      ],
+      "annotation_evidence": [
+        {
+          "field_path": "ziwei.chart_type",
+          "scope": {
+            "scope_id": "c14_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.time_context",
+          "scope": {
+            "scope_id": "c14_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "not_mentioned",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 384,
+              "end": 386,
+              "quote": "武曲"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.1",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 207,
+              "end": 209,
+              "quote": "左輔"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.2",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 210,
+              "end": 212,
+              "quote": "右弼"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.3",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 304,
+              "end": 306,
+              "quote": "鈴星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.4",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 307,
+              "end": 309,
+              "quote": "火星"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.5",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 323,
+              "end": 325,
+              "quote": "天同"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.6",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.stars_mentioned.7",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": "mentioned",
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.palaces_mentioned.1",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.1",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.2",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 327,
+              "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.3",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 327,
+              "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.sihua_mentioned.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 274,
+              "end": 327,
+              "quote": "若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.1",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domains.2",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.analysis_methods.1",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 328,
+              "end": 399,
+              "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.topics_mentioned.0",
+          "scope": {
+            "scope_id": "c14_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 448,
+              "end": 461,
+              "quote": "恐怕就不易維持婚姻的和諧。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.0",
+          "scope": {
+            "scope_id": "c14_lin",
+            "kind": "case",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 150,
+              "end": 237,
+              "quote": "林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.unregistered_terms.1",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 399,
+              "end": 428,
+              "quote": "武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.knowledge_domain",
+          "scope": {
+            "scope_id": "c14_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [],
+          "basis": "source",
+          "usage": null,
+          "null_reason": "multiple_values",
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "topic",
+          "scope": {
+            "scope_id": "c14_author",
+            "kind": "concept",
+            "condition": null,
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 448,
+              "end": 461,
+              "quote": "恐怕就不易維持婚姻的和諧。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        },
+        {
+          "field_path": "ziwei.relations.4",
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "spans": [
+            {
+              "start": 317,
+              "end": 399,
+              "quote": "且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+            }
+          ],
+          "basis": "source",
+          "usage": null,
+          "null_reason": null,
+          "derivation_rule": null,
+          "input_paths": []
+        }
+      ],
+      "reviewed_axes": [
+        "coverage",
+        "binding",
+        "time",
+        "content_type",
+        "english",
+        "source_quality"
+      ],
+      "quality_reviews": {
+        "coverage": "逐文审读，主要星曜、宫位、四化及作用条件分别保留；集合简称和未注册名称不造标准ID。",
+        "binding": "案例/引文/条件scope分别绑定，入宫与同宫及夹制分开；泛化忌星空值独立原因。",
+        "time": "不由先天/早中年/行限猜本命盘或大限，未明时null。",
+        "content_type": "案例分析；依据实际理论/具体林太太或盘二案例。",
+        "english": "双语保留主要实体、吉煞/配偶例外和OR，不把作者命理主张当实证医学。",
+        "source_quality": {
+          "status": "limited",
+          "reason": "首句从諧断词开始，未跨缺页补接；從經驗起完整论述可用，表示缺口单列而非降资格隐藏。",
+          "usable_spans": [
+            {
+              "start": 39,
+              "end": 462,
+              "quote": "從經驗的累積得知，命格太強的女命，在一個家庭裡，往往就因「坤」強「乾」弱，「乾坤」顛倒，而有牝雞司晨現象，此時除非其配偶能對之多所包容與退讓，否則恐不易維持婚姻的和諧。\n若就命身格局而言，林太太應該屬於女強人的類型。另外，林太太的先天夫妻宮在戌，雖然是個「紫破辰戌，君臣不義」的宮位，但因戌宮的三方四正不見煞曜，以及命宮及夫妻宮分別見到左輔及右弼，故戌宮在婚姻上不一定就會造成夫妻「不義」的現象。但因先天命宮及夫妻宮的星曜組合太過陽剛，因此就得留意上述婚姻和諧的問題。\n若再細察子宮（即林太太的先天命宮），卻也發現其左右鄰宮分別有鈴星及火星坐入，不僅如此，且火星同宮有天同化忌，此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。武曲一旦受火鈴剋害，就成為「寡宿」凶格，相當不利於婚姻感情，此時若配偶坐入的太歲宮位（註五）不好，恐怕就不易維持婚姻的和諧。\n"
+            }
+          ]
+        }
+      },
+      "unresolved": [
+        "OR太阴/太阳化忌候选未录成两条并发四化，具体证据与表示问题在source_fact_refs隔离。",
+        "行限未明大限/流年，不猜time_context；配偶太岁宫位没有具体支位，不反推流年盘。"
+      ],
+      "blocking_issues": [
+        {
+          "kind": "unrepresented_alternative",
+          "evidence": {
+            "start": 328,
+            "end": 399,
+            "quote": "此時只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時，則火鈴二星曜也會因同宮星曜的化忌而成為「邪火」，對武曲產生「火剋金」的剋害作用。"
+          },
+          "scope": {
+            "scope_id": "c14_or_timing",
+            "kind": "conditional",
+            "condition": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時",
+            "attribution": "本段作者"
+          },
+          "alternatives": [
+            {
+              "star": "太阴",
+              "transformation": "化忌"
+            },
+            {
+              "star": "太阳",
+              "transformation": "化忌"
+            }
+          ],
+          "blocking_reason": "四化对象缺备择组结构；两条同scope标量会丢失OR，不强填成同时化忌。"
+        }
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

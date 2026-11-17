@@ -1,0 +1,479 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c013",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    36
+  ],
+  "chunk_text": "天孤天梁刑辰辛已僕役 76-85官符七殺天龍壬福池午遷移 66-75陀羅天鉞癸天喜未疾厄 56-65天虚祿存廉貞鳳天甲閣馬申財帛 46-55身天喪天紫哭門相微天台庚貴輔辰事業咸池巨天門機己三台卯田宅林女命太擎地天大羊劫姚耗乙酉子女36-45白華陰破軍虎蓋煞丙戌夫妻26-35\n\n九年大運庚午年火\n\n乙酉成局太庚寅\n\nO年\n\n月\n\n日戌時右文贪狼弼曲戊恩光寅福德鈴地寡天魁太太星空宿陰陽科祿紅己燃丑父母左文天武辅昌府曲權封戊誥子命宮 6-15火星天同忌天八丁官座亥兄弟16-25盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。這個命造命身格局這麽大，是個女強人，但賺錢養家之餘，卻會挨老公的揍。在命理上這個命盤的女人，都該有這種逻過嗎？假定並非如此，為什麽只有她會挨捺？",
+  "chunk_index": 13,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘二可读图说称命宫在子、武曲天府坐守，火星与铃星从左右邻宫夹制；描述这位女性赚钱养家却遭丈夫殴打，并反问是否同盘必有相同遭遇。混排命盘及疑字保留，不据此恢复完整排盘或将暴力归咎命格。",
+  "summary_en": "The readable caption for Chart 2 places Wu Qu and Tian Fu in the Life Palace at Zi, flanked by Huo Xing and Ling Xing from neighboring palaces. It describes a woman supporting her family while experiencing violence from her husband and questions whether everyone with this chart must share that outcome. Mixed chart text and OCR defects remain; no complete chart is reconstructed and the violence is not blamed on the configuration.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "火星",
+    "铃星",
+    "命宫",
+    "夹制",
+    "家庭暴力"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tian Fu",
+    "Huo Xing",
+    "Ling Xing",
+    "Life Palace",
+    "flanking",
+    "domestic violence"
+  ],
+  "topic": "感情姻缘",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c13_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c13_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 301,
+          "quote": "但賺錢養家之餘，卻會挨老公的揍。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 238,
+          "end": 267,
+          "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c13_chart2",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 285,
+          "end": 301,
+          "quote": "但賺錢養家之餘，卻會挨老公的揍。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "前部命盘栏位混排不可可靠绑定，仅使用盘二之后可读图说；图说疑字保留，不据疑字推新事实。",
+    "usable_spans": [
+      {
+        "start": 238,
+        "end": 339,
+        "quote": "盤二命宮在子，武曲天府坐守，並有火星及鈴星自左右鄰宮夾制。這個命造命身格局這麽大，是個女強人，但賺錢養家之餘，卻會挨老公的揍。在命理上這個命盤的女人，都該有這種逻過嗎？假定並非如此，為什麽只有她會挨捺？"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "感情姻缘"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c13_chart2",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c13_chart2",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "member",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c13_chart2",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "flanking_star",
+            "location": "左右鄰宮之一"
+          },
+          {
+            "entity_type": "star",
+            "name": "铃星",
+            "role": "flanking_star",
+            "location": "左右鄰宮之一"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c13_chart2",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "格局解析",
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "火星",
+      "铃星"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

@@ -1,0 +1,183 @@
+{
+  "task": "Z073 S5 C065–069",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c065",
+      "candidate_sha256": "0a4543605b90d44b94d53ea9acb5e02840a91f75826abe828f977676c9595f62",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块实读全新04；065/067逐限四化及作用、066/068完整土生金保守性论述、069命财福事业关系保留。重复原文各自保留原ID，不当成新例证。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "065/067吉辅仅四化作用不是夹辅；069魁钺夹辰有明文但个星卯巳分配未明，持hold。不把星曜作用宫写成四化载体宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "065/067先天和大限目标分别scope；戊子贪狼/己丑武曲分开；069不把先天或后天OR改成同时，未知化曜star null且理由。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "五块都为命例分析，不因例中概括性结论改作无条件规则。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "对应中英文主要宫位、条件、否定和源残缺均实核；不推医/财现实事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅依无主语续句/末尾反字残句/混排；069表示缺口另hold不借limited隐藏。"
+        }
+      },
+      "remaining_questions": [
+        "独立核已注册关系是否遗漏与范围/条件是否正确；069明确typed hold待合同决策。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c066",
+      "candidate_sha256": "e232fc8f16b1ae639ab9f14456241658437628e6b4cdb4fb7d64917ef252494a",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块实读全新04；065/067逐限四化及作用、066/068完整土生金保守性论述、069命财福事业关系保留。重复原文各自保留原ID，不当成新例证。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "065/067吉辅仅四化作用不是夹辅；069魁钺夹辰有明文但个星卯巳分配未明，持hold。不把星曜作用宫写成四化载体宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "065/067先天和大限目标分别scope；戊子贪狼/己丑武曲分开；069不把先天或后天OR改成同时，未知化曜star null且理由。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "五块都为命例分析，不因例中概括性结论改作无条件规则。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "对应中英文主要宫位、条件、否定和源残缺均实核；不推医/财现实事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅依无主语续句/末尾反字残句/混排；069表示缺口另hold不借limited隐藏。"
+        }
+      },
+      "remaining_questions": [
+        "独立核已注册关系是否遗漏与范围/条件是否正确；069明确typed hold待合同决策。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c067",
+      "candidate_sha256": "1c0a2b10f8a0d1aedd47b7f0a1ab6f413c67e128897fd6b0c53e855ced65d32e",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块实读全新04；065/067逐限四化及作用、066/068完整土生金保守性论述、069命财福事业关系保留。重复原文各自保留原ID，不当成新例证。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "065/067吉辅仅四化作用不是夹辅；069魁钺夹辰有明文但个星卯巳分配未明，持hold。不把星曜作用宫写成四化载体宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "065/067先天和大限目标分别scope；戊子贪狼/己丑武曲分开；069不把先天或后天OR改成同时，未知化曜star null且理由。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "五块都为命例分析，不因例中概括性结论改作无条件规则。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "对应中英文主要宫位、条件、否定和源残缺均实核；不推医/财现实事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅依无主语续句/末尾反字残句/混排；069表示缺口另hold不借limited隐藏。"
+        }
+      },
+      "remaining_questions": [
+        "独立核已注册关系是否遗漏与范围/条件是否正确；069明确typed hold待合同决策。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c068",
+      "candidate_sha256": "7a483d4a26e0845d1d038591f027aaf20cd5a95f019dc68dfd649861fc7f1c1a",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块实读全新04；065/067逐限四化及作用、066/068完整土生金保守性论述、069命财福事业关系保留。重复原文各自保留原ID，不当成新例证。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "065/067吉辅仅四化作用不是夹辅；069魁钺夹辰有明文但个星卯巳分配未明，持hold。不把星曜作用宫写成四化载体宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "065/067先天和大限目标分别scope；戊子贪狼/己丑武曲分开；069不把先天或后天OR改成同时，未知化曜star null且理由。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "五块都为命例分析，不因例中概括性结论改作无条件规则。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "对应中英文主要宫位、条件、否定和源残缺均实核；不推医/财现实事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅依无主语续句/末尾反字残句/混排；069表示缺口另hold不借limited隐藏。"
+        }
+      },
+      "remaining_questions": [
+        "独立核已注册关系是否遗漏与范围/条件是否正确；069明确typed hold待合同决策。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c069",
+      "candidate_sha256": "66e0c96af2782a9c08f5519ddb53a70488e1194f1706cccb6225aaf015c3ab2e",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "blocked_expressible_draft",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "逐块实读全新04；065/067逐限四化及作用、066/068完整土生金保守性论述、069命财福事业关系保留。重复原文各自保留原ID，不当成新例证。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "065/067吉辅仅四化作用不是夹辅；069魁钺夹辰有明文但个星卯巳分配未明，持hold。不把星曜作用宫写成四化载体宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "065/067先天和大限目标分别scope；戊子贪狼/己丑武曲分开；069不把先天或后天OR改成同时，未知化曜star null且理由。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "五块都为命例分析，不因例中概括性结论改作无条件规则。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "对应中英文主要宫位、条件、否定和源残缺均实核；不推医/财现实事实。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited仅依无主语续句/末尾反字残句/混排；069表示缺口另hold不借limited隐藏。"
+        }
+      },
+      "remaining_questions": [
+        "独立核已注册关系是否遗漏与范围/条件是否正确；069明确typed hold待合同决策。"
+      ]
+    }
+  ],
+  "old_labels_read": false,
+  "formal_05_written": false,
+  "schema_modified": false
+}

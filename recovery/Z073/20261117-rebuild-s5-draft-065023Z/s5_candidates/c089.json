@@ -1,0 +1,286 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c089",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    116,
+    117
+  ],
+  "chunk_text": "右弼七紫殺微天天癸福馬已 夫妻24-33天姚天鉞甲台輔午兄弟 14-23華蓋乙未命宮4-13身陀孤羅辰天紅丙贵申父母寡陰文天天宿煞曲梁機科壬辰子女34-43男命\n\n辛未\n\n年年\n\n辛大運未月\n\n年日金子四庚寅成時火喪祿左破廉星門存輔軍貞丁天官酉福德擎鈴文昌羊星忌戊戌田宅白虎天相鳳辛閣卯 財帛 44-53局天天巨太刑魁門陽祿權恩三封天庚光台誥喜寅疾厄54-63天虚贪武狼曲辛丑遷移64-73大咸太天耗池陰同\n\n庚座子僕役74-83地地天官天府空劫哭符己龍池亥事業■二十六武食果真不發少年人嗎？假使他在很年輕時，就財官雨得意而發了，究竟因何而發？少年能得志，當然不可能憑空而得，必然有他的能力與條件，才會讓他春風得意。\n\n的行業類別性質能和命盤相合，就不一定要先貧而後才能富，即武貪也是可以發少年人（註十四）。\n註十四：有關于先生一生事業命理解析，請參閲紫雲著《斗數論事業》書中「武貪不發少年人？-談一則命與運不相符的命造」乙文，此書由時報出版社於一九九二年出版，後於二O0一一年再由武陵出版社出版。\n",
+  "chunk_index": 89,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "可读图说质疑武贪不发少年人的绝对断语，强调青年财官得意须有能力与条件。正文续句对象残缺，未借此补出完整命例。注十四引《斗数论事业》相关文章，并记1992及2011出版，均为书目年份而非命理流年；混排命盘不用于恢复星位。",
+  "summary_en": "The readable caption challenges an absolute claim that Wu Qu–Tan Lang cannot prosper young, emphasizing ability and enabling conditions for early financial and career success. A following sentence is incomplete and is not used to reconstruct the case. Note 14 points to a related article in Dou Shu Lun Shi Ye and gives publication years 1992 and 2011, not fortune years. Mixed chart text is excluded from placement claims.",
+  "keywords": [
+    "武贪不发少年人",
+    "能力与条件",
+    "书目引用",
+    "斗数论事业"
+  ],
+  "keywords_en": [
+    "early prosperity question",
+    "ability and conditions",
+    "bibliographic reference",
+    "Dou Shu Lun Shi Ye"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c89_book_title",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注十四引书目题名"
+      },
+      "spans": [
+        {
+          "start": 388,
+          "end": 411,
+          "quote": "「武貪不發少年人？-談一則命與運不相符的命造」"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c89_book_title",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "注十四引书目题名"
+      },
+      "spans": [
+        {
+          "start": 388,
+          "end": 411,
+          "quote": "「武貪不發少年人？-談一則命與運不相符的命造」"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 235,
+          "end": 308,
+          "quote": "武食果真不發少年人嗎？假使他在很年輕時，就財官雨得意而發了，究竟因何而發？少年能得志，當然不可能憑空而得，必然有他的能力與條件，才會讓他春風得意。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 272,
+          "end": 298,
+          "quote": "少年能得志，當然不可能憑空而得，必然有他的能力與條件"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 256,
+          "end": 261,
+          "quote": "財官雨得意"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 256,
+          "end": 261,
+          "quote": "財官雨得意"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 272,
+          "end": 298,
+          "quote": "少年能得志，當然不可能憑空而得，必然有他的能力與條件"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c89_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "命盘与正文混排；仅完整提问图说及书目注十四可用，武食疑字不修。",
+    "usable_spans": [
+      {
+        "start": 235,
+        "end": 308,
+        "quote": "武食果真不發少年人嗎？假使他在很年輕時，就財官雨得意而發了，究竟因何而發？少年能得志，當然不可能憑空而得，必然有他的能力與條件，才會讓他春風得意。"
+      },
+      {
+        "start": 355,
+        "end": 450,
+        "quote": "註十四：有關于先生一生事業命理解析，請參閲紫雲著《斗數論事業》書中「武貪不發少年人？-談一則命與運不相符的命造」乙文，此書由時報出版社於一九九二年出版，後於二O0一一年再由武陵出版社出版。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "武食",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说疑字不按图表修成武贪，书目武贪仅题名提及。",
+        "english_surface": "Wu Shi uncertain OCR",
+        "scope_id": "c89_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "推测技法",
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

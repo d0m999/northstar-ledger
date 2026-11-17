@@ -1,0 +1,601 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c056",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    86
+  ],
+  "chunk_text": "《全集，註解骨髓賦》云：「武曲廟旺，威名赫奕。」《全集》對此有註解如下：「如辰戌二宫安命值之，上格；丑未安命，次之。宜見權祿、左右、昌曲諸言，依此斷」，先賢則有「武曲廟烜，威名赫奕」的類似說法，並對之有如下的描述：「此類格局，以西北方生人，年支辰戌丑未者為上格，廟恒指四墓庫及子午宮言，東南生人，富而不貴，更無威名矣，但女命總是美中不足。」武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合，故本賦文係指命宮主要星曜為武貪組合者。\n基本上，武曲在旺宮坐命，只要再會多吉星，就能充分發揮「將星」的作用。有關《全集，註解骨髓賦》及先賢的註解部份，請參閱前面的相關解說，就不再說明。\n除前述的註解外，先賢對此賦文有更進一步的說明，即「丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格。未宮以庚生人坐貴向貴，武曲化權為最吉。辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉；甲生人科祿加會，可富。戌宮，甲生人雙祿於財官二地來朝，富貴。再如辰宮立命，丙生人雙祿夾命，而財逢廉貞平和之地化忌，\n\n，七九",
+  "chunk_index": 56,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者解释武曲旺宫会吉可显将星作用，丑未与贪狼同宫，辰戌独坐而贪狼在对宫。引古注列地区、性别与年干条件，以及甲丑三合科权禄、庚未武曲化权、癸辰魁钺夹命等例。末尾丙辰命例断裂，未补其结论。",
+  "summary_en": "The author says Wu Qu in a strong palace with many benefics can express its general-like qualities. It shares Chou or Wei with Tan Lang, while at Chen or Xu it is alone and Tan Lang is opposite. Quoted annotations distinguish regional, sex and birth-stem conditions, including Jia-Chou transformations, Geng-Wei Wu Qu Hua Quan and Gui-Chen Kui Yue flanking. The final Bing-Chen example is incomplete and its conclusion is not supplied.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "旺宫",
+    "对宫",
+    "化权",
+    "科权禄",
+    "魁钺夹命"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tan Lang",
+    "strong palace",
+    "opposite palace",
+    "Hua Quan",
+    "Ke Quan Lu",
+    "Kui Yue flanking"
+  ],
+  "topic": "命运总论",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "陀罗"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c56_chouwei",
+        "condition": "在丑未二宮則有貪狼同宮",
+        "negated": false
+      },
+      {
+        "relation_type": "对宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "reference_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "opposite_star",
+            "location": null
+          }
+        ],
+        "scope_id": "c56_chenxu",
+        "condition": "在辰戌二宮雖為獨坐",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c56_general",
+        "condition": "武曲在旺宮坐命，只要再會多吉星",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化科",
+        "scope_id": "c56_jia_chou",
+        "tiangan": null,
+        "palace": null
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "scope_id": "c56_jia_chou",
+        "tiangan": null,
+        "palace": null
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "scope_id": "c56_jia_chou",
+        "tiangan": null,
+        "palace": null
+      },
+      {
+        "star": "武曲",
+        "transformation": "化权",
+        "scope_id": "c56_geng_wei",
+        "tiangan": "庚",
+        "palace": null
+      }
+    ],
+    "patterns_mentioned": [],
+    "unregistered_terms": [
+      {
+        "surface": "魁鉞夾命",
+        "proposed_category": "source_rule",
+        "reason": "来源仅集合魁钺称谓，未强造具体两星或位置。",
+        "english_surface": "Kui Yue flanking Life",
+        "scope_id": "c56_gui_chen"
+      },
+      {
+        "surface": "廟烜",
+        "proposed_category": "ocr_uncertain",
+        "reason": "原引文异字未纠为确定格局名。",
+        "english_surface": "Miao Xuan uncertain OCR",
+        "scope_id": "c56_author"
+      },
+      {
+        "surface": "紫府",
+        "proposed_category": "source_star_group",
+        "reason": "引文组称，不据此推同宫。",
+        "english_surface": "Zi Fu",
+        "scope_id": "c56_author"
+      },
+      {
+        "surface": "左右",
+        "proposed_category": "source_star_pair",
+        "reason": "原引文集合称谓，不猜位置。",
+        "english_surface": "Zuo You",
+        "scope_id": "c56_author"
+      }
+    ],
+    "time_mentions": [],
+    "star_pairs_mentioned": [],
+    "chart_type": null,
+    "time_context": null,
+    "knowledge_domain": null
+  },
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 13,
+          "end": 15,
+          "quote": "武曲"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 192,
+          "end": 194,
+          "quote": "貪狼"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 350,
+          "end": 352,
+          "quote": "陀羅"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 225,
+          "end": 227,
+          "quote": "命宮"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c56_chouwei",
+        "kind": "conditional",
+        "condition": "在丑未二宮則有貪狼同宮",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 170,
+          "end": 196,
+          "quote": "武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c56_chenxu",
+        "kind": "conditional",
+        "condition": "在辰戌二宮雖為獨坐",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 197,
+          "end": 218,
+          "quote": "而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c56_general",
+        "kind": "conditional",
+        "condition": "武曲在旺宮坐命，只要再會多吉星",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 243,
+          "end": 273,
+          "quote": "武曲在旺宮坐命，只要再會多吉星，就能充分發揮「將星」的作用。"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.star",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [],
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c56_geng_wei",
+        "kind": "conditional",
+        "condition": "未宮以庚生人坐貴向貴",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 364,
+          "end": 382,
+          "quote": "未宮以庚生人坐貴向貴，武曲化權為最吉"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c56_gui_chen",
+        "kind": "conditional",
+        "condition": "辰宫以癸生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 383,
+          "end": 412,
+          "quote": "辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 83,
+          "end": 85,
+          "quote": "廟烜"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 404,
+          "end": 409,
+          "quote": "事業逢紫府"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 58,
+          "end": 70,
+          "quote": "宜見權祿、左右、昌曲諸言"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c56_jia_chou",
+        "kind": "conditional",
+        "condition": "丑宮以甲年生人",
+        "attribution": "先贤引文"
+      },
+      "spans": [
+        {
+          "start": 337,
+          "end": 363,
+          "quote": "丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 440,
+          "end": 442,
+          "quote": "富貴"
+        }
+      ]
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c56_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 440,
+          "end": 442,
+          "quote": "富貴"
+        }
+      ]
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "末尾丙生辰命引用断裂，保留前部完整理论及各年例，不补结论。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 443,
+        "quote": "《全集，註解骨髓賦》云：「武曲廟旺，威名赫奕。」《全集》對此有註解如下：「如辰戌二宫安命值之，上格；丑未安命，次之。宜見權祿、左右、昌曲諸言，依此斷」，先賢則有「武曲廟烜，威名赫奕」的類似說法，並對之有如下的描述：「此類格局，以西北方生人，年支辰戌丑未者為上格，廟恒指四墓庫及子午宮言，東南生人，富而不貴，更無威名矣，但女命總是美中不足。」武曲在辰戌丑未四宮位均為旺宮，在丑未二宮則有貪狼同宮，而在辰戌二宮雖為獨坐，但對宮則有貪狼來會合，故本賦文係指命宮主要星曜為武貪組合者。\n基本上，武曲在旺宮坐命，只要再會多吉星，就能充分發揮「將星」的作用。有關《全集，註解骨髓賦》及先賢的註解部份，請參閱前面的相關解說，就不再說明。\n除前述的註解外，先賢對此賦文有更進一步的說明，即「丑宮以甲年生人，坐貴向貴，陀羅入廟，三合科權祿為上格。未宮以庚生人坐貴向貴，武曲化權為最吉。辰宫以癸生人魁鉞夾命，雙祿交馳於財福之鄉，事業逢紫府，大吉；甲生人科祿加會，可富。戌宮，甲生人雙祿於財官二地來朝，富貴。"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4"
+}

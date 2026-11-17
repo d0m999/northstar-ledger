@@ -1,0 +1,57 @@
+{
+  "validator": "frozen validate_annotation_output",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "candidate_sha256": "4ee42449dea5c0f5a63301f43db0ff2188ba712d0063a19a445e32221ba6a1b2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "passed",
+          "errors": []
+        },
+        {
+          "attempt": 2,
+          "status": "passed",
+          "errors": [],
+          "semantic_revision": "独立程序重核，正文五字段一致；未改候选"
+        }
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "candidate_sha256": "63009e90a2ecf3edd0480c171ff0a01725c1a4127fde66e024dc52a78f8d3888",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "passed",
+          "errors": []
+        },
+        {
+          "attempt": 2,
+          "status": "passed",
+          "errors": [],
+          "semantic_revision": "新增五行方法未注册候选"
+        }
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "candidate_sha256": "bc222e678474e6dae8f65c74d2b6fa98d3f5e0bddfe2971282785ef132df3b44",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "passed",
+          "errors": []
+        },
+        {
+          "attempt": 2,
+          "status": "passed",
+          "errors": [],
+          "semantic_revision": "补足财运主题直接证据并登记五行方法候选"
+        }
+      ]
+    }
+  ]
+}

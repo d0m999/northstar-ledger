@@ -1,0 +1,312 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c019",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    42
+  ],
+  "chunk_text": "先賢曰：「如會祿馬於旺地之身命或大限，主異鄉得意，富有。」在天機星部份曾經提過，寅申巳亥四個宮位稱為「四生之地」，但因從斗數星曜之排列規則來看，天馬依年干的不同，只會落入寅申巳亥四宮位之一，故寅申巳亥四個宮位亦稱為「四馬之地」。若年干為陽時，天馬必定在寅宮或申宮，若年干為陰時，天馬一定在巳宮或亥宮。",
+  "chunk_index": 19,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "引文说禄马会于旺地身命或大限可主异乡得意富有。作者解释寅申巳亥称四生、四马之地，天马只落四宫之一；年干阳则在寅或申，年干阴则在巳或亥，均为择一而非同时坐入。",
+  "summary_en": "A quoted rule links Lu Ma in strong life or body palaces, or in a grand cycle, to success and wealth away from home. Zi Yun calls Yin, Shen, Si and Hai the four birth or horse locations. Tian Ma occupies only one: Yin or Shen for a yang year stem, Si or Hai for a yin stem. These are alternatives, not simultaneous placements.",
+  "keywords": [
+    "天马",
+    "四马之地",
+    "年干阴阳"
+  ],
+  "keywords_en": [
+    "Tian Ma",
+    "four horse locations",
+    "year-stem polarity"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c019_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c019_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 72,
+          "end": 74,
+          "quote": "天馬"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c019_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 30,
+          "end": 33,
+          "quote": "天機星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c019_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "quote": "身命或大限"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c019_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "quote": "身命或大限"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c019_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 150,
+          "quote": "先賢曰：「如會祿馬於旺地之身命或大限，主異鄉得意，富有。」在天機星部份曾經提過，寅申巳亥四個宮位稱為「四生之地」，但因從斗數星曜之排列規則來看，天馬依年干的不同，只會落入寅申巳亥四宮位之一，故寅申巳亥四個宮位亦稱為「四馬之地」。若年干為陽時，天馬必定在寅宮或申宮，若年干為陰時，天馬一定在巳宮或亥宮。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c019_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 20,
+          "end": 24,
+          "quote": "異鄉得意"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c019_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 25,
+          "end": 27,
+          "quote": "富有"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c019_conditional_cycle",
+        "kind": "conditional",
+        "condition": "如會祿馬於旺地之身命或大限",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 5,
+          "end": 28,
+          "quote": "如會祿馬於旺地之身命或大限，主異鄉得意，富有。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c019_conditional_cycle",
+        "kind": "conditional",
+        "condition": "如會祿馬於旺地之身命或大限",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 5,
+          "end": 28,
+          "quote": "如會祿馬於旺地之身命或大限，主異鄉得意，富有。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c019_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 7,
+          "end": 9,
+          "quote": "祿馬"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c019_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 51,
+          "end": 55,
+          "quote": "四生之地"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c019_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 108,
+          "end": 112,
+          "quote": "四馬之地"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": "大限",
+    "relations": [],
+    "sihua_mentioned": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "subject": "祿馬於旺地之身命或大限",
+        "scope_id": "c019_conditional_cycle",
+        "chart_type": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "祿馬",
+        "proposed_category": "source_group_concept",
+        "reason": "保留原文组称，不反推具体星位或将择一位置展开为同时成立",
+        "english_surface": "Lu Ma",
+        "scope_id": "c019_term0"
+      },
+      {
+        "surface": "四生之地",
+        "proposed_category": "source_group_concept",
+        "reason": "保留原文组称，不反推具体星位或将择一位置展开为同时成立",
+        "english_surface": "Si Sheng Zhi Di",
+        "scope_id": "c019_term1"
+      },
+      {
+        "surface": "四馬之地",
+        "proposed_category": "source_group_concept",
+        "reason": "保留原文组称，不反推具体星位或将择一位置展开为同时成立",
+        "english_surface": "Si Ma Zhi Di",
+        "scope_id": "c019_term2"
+      }
+    ],
+    "stars_mentioned": [
+      "天马",
+      "天机"
+    ],
+    "palaces_mentioned": [
+      "身宫",
+      "命宫"
+    ],
+    "knowledge_domains": [
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "出行迁移",
+      "财运分析"
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c083",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    110,
+    111
+  ],
+  "chunk_text": "巨門祿癸巳父母天鉞天廉相貞甲午福德天梁乙未田宅陀鈴七殺羅星丙申事業左輔贪狼壬辰命宮太陰辛卯兄弟命辛酉年\n\n月日戌時水\n\n局地劫祿存天同丁酉僕役擎羊右弼武曲戊戌遷移天文天紫魁曲府微科庚寅夫妻火地天機星空辛丑子女文破軍昌忌庚子財帛身太陽權天己馬亥 疾厄盤二十五逐移宮在成有武曲坐守，是個佳會五個吉星的「紫府相朝垣」大格局宮位，但命宮因三方合為「鈴昌陀武」凶格，就成為既凶且弱的宮位。由於命宮凶且弱，雖然遷移宮吉旺，就不一定能因「武曲吉旺於遷移」而成為「巨商富賣」。\n\n",
+  "chunk_index": 83,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "可读图说认为迁移宫武曲吉旺，称紫府相朝垣；但命宫三方铃昌陀武凶格使命宫凶弱，故不能仅凭迁移吉旺断巨商。开头排盘及图说疑字不补，未从「成」猜成戌。",
+  "summary_en": "The readable caption calls Military Melody’s Travel Palace favorable and names Zi Fu Xiang Chao Yuan, but describes a weak, adverse Life Palace whose trines form Ling Chang Tuo Wu. Favorable Travel alone therefore does not establish commercial greatness. OCR defects in the caption and the preceding chart are preserved; the unclear Cheng character is not silently turned into the Xu branch.",
+  "keywords": [
+    "武曲",
+    "迁移宫",
+    "命宫",
+    "紫府相朝垣",
+    "铃昌陀武",
+    "图说疑字"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Travel Palace",
+    "Life Palace",
+    "Zi Fu Xiang Chao Yuan",
+    "Ling Chang Tuo Wu",
+    "uncertain OCR"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 177,
+          "quote": "命宮因三方合為「鈴昌陀武」凶格"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 191,
+          "end": 204,
+          "quote": "命宮凶且弱，雖然遷移宮吉旺"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 228,
+          "quote": "巨商富賣"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 212,
+          "end": 219,
+          "quote": "武曲吉旺於遷移"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 191,
+          "end": 196,
+          "quote": "命宮凶且弱"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 204,
+          "quote": "遷移宮吉旺"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "caption_travel",
+        "kind": "conditional",
+        "condition": "由於命宮凶且弱，雖然遷移宮吉旺，就不一定能因「武曲吉旺於遷移」而成為「巨商富賣」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 189,
+          "end": 229,
+          "quote": "由於命宮凶且弱，雖然遷移宮吉旺，就不一定能因「武曲吉旺於遷移」而成為「巨商富賣」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "caption_pattern",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 188,
+          "quote": "命宮因三方合為「鈴昌陀武」凶格，就成為既凶且弱的宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 162,
+          "end": 188,
+          "quote": "命宮因三方合為「鈴昌陀武」凶格，就成為既凶且弱的宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 149,
+          "end": 154,
+          "quote": "紫府相朝垣"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 128,
+          "end": 131,
+          "quote": "逐移宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 224,
+          "end": 228,
+          "quote": "巨商富賣"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 131,
+          "end": 133,
+          "quote": "在成"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "仅盘二十五后caption可读；逐移/成/佳会/富賣疑字保留，不校复戌支或从图恢复星位。",
+    "usable_spans": [
+      {
+        "start": 124,
+        "end": 230,
+        "quote": "盤二十五逐移宮在成有武曲坐守，是個佳會五個吉星的「紫府相朝垣」大格局宮位，但命宮因三方合為「鈴昌陀武」凶格，就成為既凶且弱的宮位。由於命宮凶且弱，雖然遷移宮吉旺，就不一定能因「武曲吉旺於遷移」而成為「巨商富賣」。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "事业运势"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "迁移宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "caption_travel",
+        "negated": false,
+        "condition": "由於命宮凶且弱，雖然遷移宮吉旺，就不一定能因「武曲吉旺於遷移」而成為「巨商富賣」"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "紫府相朝垣",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Zi Fu Xiang Chao Yuan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "逐移宮",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说疑字不校复；明确迁移宫依据来自后面可读原句，不用猜字",
+        "english_surface": "Zhu Yi Gong",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "巨商富賣",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说疑字不校复；明确迁移宫依据来自后面可读原句，不用猜字",
+        "english_surface": "Ju Shang Fu Mai",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "在成",
+        "proposed_category": "ocr_uncertain",
+        "reason": "图说疑字不校复；明确迁移宫依据来自后面可读原句，不用猜字",
+        "english_surface": "Zai Cheng",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "迁移宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": "成格",
+        "evidence": "命宮因三方合為「鈴昌陀武」凶格，就成為既凶且弱的宮位"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

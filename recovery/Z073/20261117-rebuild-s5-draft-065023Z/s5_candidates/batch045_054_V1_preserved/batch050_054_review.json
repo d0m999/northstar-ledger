@@ -1,0 +1,209 @@
+{
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "old05_read": false,
+  "formal05_written": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c050",
+      "candidate_sha256": "7ae983f57c5e281645f4158ad68fedab5473ebd5e7322b633b6c82204effb96c",
+      "candidate_file": "c050.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "只用盘十六caption；无明确星曜名单，星曜数组空不据混排补武曲等。",
+        "先后天田宅宫中的先天对象作本命；后天类型及丙戌限未明确大限，保留原词，标量null/ambiguous，不从混排补时间。",
+        "作者提问未给答案，本块不能补用上一块房屋坐向。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c051",
+      "candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "candidate_file": "c051.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "引用古断与作者限制均保留；文昌/文曲阴金阴水直接原句，不凭邻块。",
+        "命身各得其一分配有备选语义，未伪造固定两星位置映射；当前仅明确武曲旺宫命条件可表达，交独审判是否需OR hold。",
+        "文星名称不等于化科，五行机制用未注册方法词；已补本块实际格局分析。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c052",
+      "candidate_sha256": "93c1674f797733f7156c1bac5e034f15d706b3e6baf1d103a796b5aa008b87dd",
+      "candidate_file": "c052.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：实战断语"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "武曲命→紫微事业/廉贞财帛为作者明确布局规则，条件在每关系同记录，不当具体命例。",
+        "廉贞权令、昌曲科星并非化权/化科；四化对象保持空。",
+        "昌曲为原成组简称，不把会照推同宫；三方四正/格局分析确有实际使用。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c053",
+      "candidate_sha256": "d3804f178d18210ca5c6b5f9a25061b6dbfc30851312544a46eb2f5f1f77ed29",
+      "candidate_file": "c053.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "eligible",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：概念解释"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "五组同宫按各地支条件分开，不把所有星组成同一宫；location为原文地支组，不宣称一个人同时占两支。",
+        "对宫武府与七杀、辰戌武曲与贪狼保留各自原条件，不泛化到所有组合。",
+        "好动与外向不等同，必须迁移宫旺吉，双语保留；女命结论亦适用男命。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c054",
+      "candidate_sha256": "39c66f3066031b8c8881bbc4b2e410d1e18ca895c28c6272d4dcba8b650a79b1",
+      "candidate_file": "c054.json",
+      "annotation_status": "CANDIDATE_AWAITING_INDEPENDENT_REVIEW",
+      "source_fields_exact": true,
+      "retrieval_eligibility": "limited",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "notes": "逐块全文审读，主要可表达事实、否定及条件见字段与双语；未建模机制不冒充已注册关系。"
+        },
+        "binding": {
+          "reviewed": true,
+          "notes": "对象/关系/位置绑定精确原文；分支保留原条件；混排图不复原；回指usage仅mentioned。"
+        },
+        "time": {
+          "reviewed": true,
+          "notes": "只明确语境标注；出生干支/时辰及书目日期不自动成为推运对象，盘类不推断。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "notes": "依据本块主旨判断：案例分析"
+        },
+        "english": {
+          "reviewed": true,
+          "notes": "摘要和关键词覆盖本块主要对象条件；无CJK、无补入邻块事实；来源医疗观点有归属而非诊断。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "notes": "资格基于实际可读范围，不用降资格绕过表达难题；原文不改。"
+        }
+      },
+      "findings": [
+        "仅完整两段可用；后部混排中祿/忌及人生评语不提取，未正则恢复。",
+        "未时生才文曲入命，完整条件保留；文昌三合会照不冒充同宫。",
+        "标题堂命疑字保留；实际正文另有亥陷守命/坐命支持。",
+        "本段只有设例与排布，未强填未展开的格局分析方法；待独审确认方法覆盖粒度。"
+      ],
+      "human_acceptance": false
+    }
+  ]
+}

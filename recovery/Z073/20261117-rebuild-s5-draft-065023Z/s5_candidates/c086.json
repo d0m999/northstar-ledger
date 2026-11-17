@@ -1,0 +1,502 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c086",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    112,
+    113
+  ],
+  "chunk_text": "古傳賦文對武曲貪狼的組合著墨甚多，在此僅擇其要者，略加說明於下，供讀者參考：\n《全集，註解骨髓賦》云：「先貧後富，還須命值武貪」，並有註解如下：「如命立丑未二星同宮，蓋武曲之金剋貪狼之木，則木逢制化為有用，故先雖貧而後方富也。」此賦文只是藉生剋制化來說明，武貪在丑未坐命者，早年多半須歷盡艱辛，而後到中晚年，才能有大成就的道理所在（請參見前面的相關說明）。但必須注意的是，並不是武貪在丑未坐命者，就一定會先貧「後富」，還必須是在會多吉星且行限佳時，才能先苦後甘。若再進一步推敲，武貪在丑未坐命者，也不一定非要「先貧」然後才能富，此時仍須視其實際事業行別性質狀況，才能做出明確論斷。又，在此要特別指出的是，武曲五行屬「陰」金，貪狼五行屬「陽」木，此陰陽相剋為「有情剋」，此時若再會多吉星，則此相剋反成激發力量，使原本的「金剋木」成為「金制木。」，從而彰顯出武貪二星曜賦性的正面作用。\n《全集，註解骨髓賦》又云：「貪武墓中居，三十纔發福」，並有註解如下：「如辰戌丑未四墓得二星守命，定主少年不利，加煞忌，灭折。秘云：『武貪不發少年人，運過三十方延壽。」根據長生十二神的排法，辰戌丑未四個宮位，分別是水、火（土）、金、木的墓庫，故合稱為四墓庫（關於長生十二神部份，請參見天機星中註十五的解說）。一般在談到「武貪」組合時，通常是指武貪在丑未二宮守命（身）者，但若是武貪分坐辰戌二宮，而命身宮也分坐此二宮位者，亦是。至於「武貪」是否「不發少年人」及「加煞忌，夭折」的命理作用，前面已有詳盡的解說，就不再說明。又，賦文中的「三十」只是一籠統的數目，在此僅是用來說明「武貪」命格者，往往要中年以後，才可能有大成就，故此數字並非一成不變，仍須視命造者當時所處的社會環境及一般人的平均壽命而定。",
+  "chunk_index": 86,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者解释武贪先贫后富等古赋，强调丑未命格须多吉且行限佳，是否先贫还要看行业；阴金克阳木在会吉下可成有情制化。武贪也涵盖辰戌分坐而命身分居两宫的情形。三十只是中年发达的概数，须结合社会环境与寿命，不能当固定年龄或必然早年凶断。",
+  "summary_en": "The author qualifies verses about Wu Qu–Tan Lang becoming wealthy after hardship. Chou–Wei configurations require benefics and favorable cycles; prior poverty is not inevitable and occupation matters. Yin Metal overcoming Yang Wood can become a constructive restraint with benefic support. The discussion also includes Wu Qu and Tan Lang split between Chen and Xu with Life and Body split between those locations. Thirty is an approximate midlife marker, not a fixed onset age or proof of inevitable early misfortune; social conditions and life expectancy matter.",
+  "keywords": [
+    "武贪",
+    "先贫后富",
+    "有情克",
+    "四墓库",
+    "三十概数"
+  ],
+  "keywords_en": [
+    "Wu Qu and Tan Lang",
+    "wealth after hardship",
+    "constructive overcoming",
+    "four storage palaces",
+    "approximate thirty"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 7,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 9,
+          "quote": "貪狼"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 133,
+          "end": 135,
+          "quote": "坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 588,
+          "end": 591,
+          "quote": "命身宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c86_chouwei",
+        "kind": "conditional",
+        "condition": "武貪在丑未坐命者",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 128,
+          "end": 136,
+          "quote": "武貪在丑未坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c86_chouwei",
+        "kind": "conditional",
+        "condition": "武貪在丑未坐命者",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 128,
+          "end": 136,
+          "quote": "武貪在丑未坐命者"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c86_classic",
+        "kind": "conditional",
+        "condition": "如命立丑未二星同宮",
+        "attribution": "《全集，注解骨髓赋》引文"
+      },
+      "spans": [
+        {
+          "start": 73,
+          "end": 82,
+          "quote": "如命立丑未二星同宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 322,
+          "end": 333,
+          "quote": "此陰陽相剋為「有情剋」"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 474,
+          "end": 510,
+          "quote": "根據長生十二神的排法，辰戌丑未四個宮位，分別是水、火（土）、金、木的墓庫"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 651,
+          "end": 667,
+          "quote": "賦文中的「三十」只是一籠統的數目"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 302,
+          "end": 321,
+          "quote": "武曲五行屬「陰」金，貪狼五行屬「陽」木"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 266,
+          "end": 280,
+          "quote": "仍須視其實際事業行別性質狀況"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 226,
+          "end": 230,
+          "quote": "先苦後甘"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c86_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 226,
+          "end": 230,
+          "quote": "先苦後甘"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c86_chouwei",
+        "negated": false,
+        "condition": "武貪在丑未坐命者"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c86_chouwei",
+        "negated": false,
+        "condition": "武貪在丑未坐命者"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "member",
+            "location": null
+          }
+        ],
+        "scope_id": "c86_classic",
+        "negated": false,
+        "condition": "如命立丑未二星同宮"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "有情剋",
+        "proposed_category": "source_mechanism",
+        "reason": "阴阳五行机制，不发明关系type。",
+        "english_surface": "constructive overcoming",
+        "scope_id": "c86_author"
+      },
+      {
+        "surface": "長生十二神",
+        "proposed_category": "analysis_method",
+        "reason": "来源有排法说明，未注册方法，不当实际盘周期。",
+        "english_surface": "twelve growth stages",
+        "scope_id": "c86_author"
+      },
+      {
+        "surface": "三十",
+        "proposed_category": "source_age_approximation",
+        "reason": "原文明说概数，不推精确大限开始年龄。",
+        "english_surface": "approximate age thirty",
+        "scope_id": "c86_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

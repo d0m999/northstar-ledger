@@ -1,0 +1,25 @@
+[
+  {
+    "file": "c001.json",
+    "before_sha256": "8e8bfeba038fe4a4b29bf504c04be6156795aed239483f28681e34eae840a94b",
+    "after_sha256": "0fd122d5d12629839888f883146607e4fd0465a45ac6472898a1162d543284d8",
+    "changed_top_fields": [
+      "annotation_evidence",
+      "ziwei"
+    ]
+  },
+  {
+    "file": "c002.json",
+    "before_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+    "after_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+    "changed_top_fields": []
+  },
+  {
+    "file": "c003.json",
+    "before_sha256": "5dd3d3164b59ddc4e386076b0c5ad0847c69368595126891a53f350a349cc004",
+    "after_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+    "changed_top_fields": [
+      "summary"
+    ]
+  }
+]

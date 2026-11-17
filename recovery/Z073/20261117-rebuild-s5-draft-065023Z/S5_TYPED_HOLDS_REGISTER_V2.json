@@ -1,0 +1,1324 @@
+{
+  "register_version": 2,
+  "created_utc": "2026-11-17T06:47:48.807433+00:00",
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "previous_register_path": "preparation/S5_TYPED_HOLDS_REGISTER_V1.json",
+  "previous_register_sha256": "9a245e0e67510d76651fde286d8b6f556b6a66b2c73b746c40a9fbd840da996c",
+  "record_count": 24,
+  "records": [
+    {
+      "new_chunk_number": "C002",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 292,
+          "end": 316,
+          "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈"
+        },
+        {
+          "start": 452,
+          "end": 470,
+          "quote": "最喜與祿存同度於田財之宮，必發財鉅萬"
+        }
+      ],
+      "issue_families": [
+        "rule_alternative_placement",
+        "alternative_shared_location"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C002_V1.json",
+      "specialist_review_sha256": "8d4e2978539dfbcc977a5c74594ce1b3eba85406142575f29f41901e72e2c18d",
+      "original_review_candidate_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+      "last_targeted_review_candidate_sha256": "bd9e7a1028a4e7443f016ef61403d62239fec971c9b6b57591b5751d9478b14a",
+      "expressible_scope": [
+        {
+          "paths": [
+            "ziwei.relations.0",
+            "ziwei.relations.1"
+          ],
+          "decision": "supported",
+          "reason": "两条入宫关系分别有前文独立的當武曲坐入財帛宮時/但若是武曲坐命者条件句，不是从同一OR句强拆，也不指同一具体命盘同时占两宫。不得把数组中出现二者等同于同时入宫。"
+        },
+        {
+          "paths": [
+            "ziwei.relations.2",
+            "ziwei.relations.3",
+            "ziwei.relations.4"
+          ],
+          "decision": "supported",
+          "reason": "旺宫同禄存且多吉、陷宫财宫同禄存多吉少煞、同一弱陷条件下化忌或多煞少吉均有各自完整条件原句。"
+        },
+        {
+          "paths": [
+            "ziwei.sihua_mentioned"
+          ],
+          "decision": "conservative_supported_mentions",
+          "reason": "化禄未说明星，化忌主星保留ambiguous；不补禄星为武曲化禄或把禄存误当化禄。"
+        },
+        {
+          "paths": [
+            "ziwei.stars_mentioned",
+            "ziwei.palaces_mentioned",
+            "summary",
+            "summary_en"
+          ],
+          "decision": "preserves_mentions_and_prose_alternatives",
+          "reason": "实体提及和双语保留命/财择一及旺弱吉煞限定；不等于完成机器可检索OR绑定。"
+        }
+      ],
+      "specific_gap": [
+        {
+          "issue_id": "new_c002_or_placement_rule",
+          "source": {
+            "start": 292,
+            "end": 316,
+            "quote": "武曲財星坐入命宮或財帛宮，在財利方面的作用最強烈"
+          },
+          "classification": "rule_level_alternative_binding_not_a_new_entity_omission",
+          "finding": "命宫与财帛宫实体和各自入宫条件已由别句覆盖；不可说整段完全缺入宫关系。尚不能在当前结构中显式标注该总括规则的两个备择参与者属于同一OR规则。",
+          "disposition": "retain_specific_hold; do_not_duplicate_two_positive_relations_under_the_same_OR_condition"
+        },
+        {
+          "issue_id": "new_c002_alternative_conjunction_location",
+          "source": {
+            "start": 452,
+            "end": 470,
+            "quote": "最喜與祿存同度於田財之宮，必發財鉅萬"
+          },
+          "classification": "alternative_location_binding",
+          "finding": "同宫本身可表达，后文旺宫/财宫条件已有表示；田财候选承载范围没有typed alternatives字段。原文、双语与精确证据保存该信息，但不能把田宅和财帛变成同一实际命盘的两个同时位置。",
+          "disposition": "retain_specific_hold; no_schema_change_or_unproved_resolution"
+        }
+      ],
+      "ordinary_fix_history": "usage and English modifier confirmed in C002 V2",
+      "current_candidate_sha256": "bd9e7a1028a4e7443f016ef61403d62239fec971c9b6b57591b5751d9478b14a",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C014",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 330,
+          "end": 358,
+          "quote": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C014_C019_C022_V1.json",
+      "specialist_review_sha256": "ed250696c56c3bacf9e7636be4b861a19d13ee540a94be0342605b2a777b838a",
+      "original_review_candidate_sha256": "5956653825145d6bb60e5159796234e14dafc370ee29b19211634f90ce100d98",
+      "last_targeted_review_candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "expressible_scope": "Left helper in Life, right helper in Spouse/Xu; Ling/Huo flank Zi Life; Huo and Tian Tong share a palace; Tian Tong Hua Ji is explicitly asserted. Their source conditions and the case identity remain expressible.",
+      "specific_gap": "Additional Tai Yin OR Tai Yang Hua Ji is a named alternative transformation bearer, not an unnamed star. No frozen alternatives-bearing SihuaMention exists.",
+      "ordinary_fix_history": "targeted usage/scope repairs confirmed by C029/C031/C035 V1",
+      "current_candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C019",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 114,
+          "end": 150,
+          "quote": "若年干為陽時，天馬必定在寅宮或申宮，若年干為陰時，天馬一定在巳宮或亥宮。"
+        }
+      ],
+      "issue_families": [
+        "alternative_earthly_branch_destination",
+        "missing_registered_branch_destination_type"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C014_C019_C022_V1.json",
+      "specialist_review_sha256": "ed250696c56c3bacf9e7636be4b861a19d13ee540a94be0342605b2a777b838a",
+      "original_review_candidate_sha256": "4a194db27480734ebef4d7409891a03234944bbde5603265b296478b4ce2ed22",
+      "last_targeted_review_candidate_sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "expressible_scope": "Tian Ma mention, year-stem polarity in source prose, four-location terminology, and one explicit grand-cycle mention are preserved. The yang and yin rules have separate source-authored conditions, so they can remain separate prose/evidence scopes without adding facts.",
+      "specific_gap": "Within each of those two scopes the destination is still Yin OR Shen, or Si OR Hai. In addition, the registered palace participant type lacks earthly-branch location entities; inserting 寅宫 as a palace is rejected. This is not only an OR issue.",
+      "ordinary_fix_history": "targeted usage/scope repairs confirmed by C029/C031/C035 V1",
+      "current_candidate_sha256": "1818d227fc71b217e102b3710f6241be8ccfbf44d768764a1d25aa6b989eb210",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C022",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 106,
+          "end": 120,
+          "quote": "若是武曲或貪狼任一星曜化祿時"
+        },
+        {
+          "start": 260,
+          "end": 274,
+          "quote": "若是武曲或貪狼任一星曜化忌時"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C014_C019_C022_V1.json",
+      "specialist_review_sha256": "ed250696c56c3bacf9e7636be4b861a19d13ee540a94be0342605b2a777b838a",
+      "original_review_candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "last_targeted_review_candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "expressible_scope": "Wu Qu/Tan Lang same-palace source rule and metal/wood explanations can be preserved without inventing a new causal relation; summaries retain qualifications about benefics, toil, malefics and non-inevitable early death.",
+      "specific_gap": "The source independently introduces a Hua Lu rule and a Hua Ji rule, so these two rule scopes are separable. Within each, however, the transforming bearer is either Wu Qu or Tan Lang, not both. SihuaMention has a single star/null and no named choice set.",
+      "ordinary_fix_history": "targeted usage/scope repairs confirmed by C029/C031/C035 V1",
+      "current_candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C029",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 199,
+          "end": 221,
+          "quote": "此時若有化忌或化祿（如武曲化忌或化祿）來引動"
+        },
+        {
+          "start": 307,
+          "end": 327,
+          "quote": "當武殺在卯酉二宮與火星同度時，若武曲化忌"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_activation"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C029_C031_C035_V1.json",
+      "specialist_review_sha256": "86e8d7d397442dd79a189b6291fb60146efb644ed0e94029d77ce51b3864f90e",
+      "original_review_candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "last_targeted_review_candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "expressible_scope": "Wu Qu/Qi Sha same-palace rule, triple conjunction under full Ji premises, Wu Qu Hua Ji and its interaction are represented. Fire/Metal causality and qualified adverse outcome remain in source and bilingual summaries without inventing a relation type.",
+      "specific_gap": "The later paragraph supplies a complete independent Hua Ji branch and it is already encoded under c29_ji/c29_ji_detail. It does not supply an independent Hua Lu branch with the same full premises. Therefore existing Ji facts are accepted as expressible coverage, but do not resolve the earlier general OR activation binding. No cross-chunk Lu condition may be imported.",
+      "ordinary_fix_history": "no ordinary fix requested in specialist review",
+      "current_candidate_sha256": "e106c418a81531302147aad8f4e1e1f3020322d7c1b8f3147e7bbc59775de29a",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C030",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 32,
+          "end": 59,
+          "quote": "此時不論酉宮為財帛宮或福德宮或田宅宮，皆以不利於財論。"
+        }
+      ],
+      "issue_families": [
+        "rule_alternative_functional_palace_binding"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C030_C034_V1.json",
+      "specialist_review_sha256": "2d56bd0573cad5c3dd233502cebcf82f04f4428cee8481a920f18aa1fbde83eb",
+      "original_review_candidate_sha256": "9b358678b5a84d19833399f6bb015e957a69d869510d715ebfc66f702ca1b1c2",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C030",
+        "decision": "new_specific_alternative_functional_palace_hold; independently_conditioned_other_palaces_are_expressible",
+        "issue_family": "rule_alternative_functional_palace_binding",
+        "evidence": [
+          {
+            "start": 32,
+            "end": 59,
+            "quote": "此時不論酉宮為財帛宮或福德宮或田宅宮，皆以不利於財論。"
+          }
+        ],
+        "gap": "Wealth/Fortune/Property are all registered functional palaces, but source treats them as alternative classifications of the same You location under the Chart8 Ji configuration. Current palace tags and prose do not encode that same-rule choice. No three independent full source conditions for those three palace branches occur here.",
+        "not_a_missing_entity_type": "Unlike C019 earthly-branch destination hold, these functional palaces are registered. The missing capability is their alternative binding, not vocabulary registration.",
+        "expressible": "Chart8 Ren-year Wu Qu Hua Ji with Qi Sha/Huo Xing at You, Chart9 Ji-year Hua Lu, and Chart8 JiYou grand-cycle Lu are already separate case/time records. Independent conditional Migration, Career, Health and Life branches have source-authored clauses and need not wait for grouped three-palace OR resolution.",
+        "independent_branch_examples": [
+          {
+            "start": 59,
+            "end": 82,
+            "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+          },
+          {
+            "start": 82,
+            "end": 97,
+            "quote": "若為事業宮，則以不利於事業論。"
+          },
+          {
+            "start": 113,
+            "end": 150,
+            "quote": "若為疾厄宮，則代表肺經方面的健康易有問題（請見後面武曲在疾病的相關解說）。"
+          },
+          {
+            "start": 150,
+            "end": 170,
+            "quote": "若為命宮，此時不獨不利於財及親情人際關係"
+          }
+        ],
+        "safe_branch_method": "For each independently stated 若為 branch, retain the exact branch antecedent in a distinct conditional scope and include the explicit Chart8 preceding sentence as contextual evidence. Clearly bind subject to Chart8 You configuration; do not make an unconditional real-chart placement or attach this scope to Chart9. Registered 星曜入宫 may express named star/functional-palace placement under that hypothetical. These are proposed ordinary coverage additions requiring authoring and independent review, not completed additions. Generic 六親宮位 is not permission to invent a specific kin palace.",
+        "ordinary_findings": "Current tiangan on c30_jiyou remains null despite explicit 己酉限; parent ordinary reviewer requested correction or justified ambiguity. content_type currently concept despite examples dominating: ordinary reviewer requests case analysis or rationale. Neither is a schema hold.",
+        "eligibility": "limited due genuinely broken GuiYou ending and mixed diagram. The full grouped OR sentence and independent branch clauses remain usable; their quality must not be downgraded to evade coverage."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "5c334656fcfcc516738e79f4ae639c46b5453ba456da66030aafb117b2bb0a35",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C031",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 282,
+          "end": 309,
+          "quote": "因武曲化祿或化忌，就有前述武曲七殺加會火星的吉凶作用。"
+        },
+        {
+          "start": 310,
+          "end": 342,
+          "quote": "若以盤十為例，巨門火星同宮在午坐命，壬年生人，武曲化忌在田宅宮。"
+        },
+        {
+          "start": 429,
+          "end": 455,
+          "quote": "又如盤十一的女命，走到壬寅限，武曲化忌在大限福德辰宮"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_activation"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C029_C031_C035_V1.json",
+      "specialist_review_sha256": "86e8d7d397442dd79a189b6291fb60146efb644ed0e94029d77ce51b3864f90e",
+      "original_review_candidate_sha256": "4785b60ec211dbd291827b91503acf25736e5e62b42e2fad4deb06205b6a94cb",
+      "last_targeted_review_candidate_sha256": "2e2427625a4402643617386f9ad0e3f1a10224498b02ddb0ca71f4985053a543",
+      "expressible_scope": "Seven current relations plus two Sihua records preserve explicit chart10/chart11 placements/interactions and cycle time. No assertion that Qi Sha shares Ju Men/Huo Xing Life Palace; no invented functional palace at Yin. Ling substitution is a conditional prose rule, not an asserted actual placement.",
+      "specific_gap": "Two complete examples support separately scoped Hua Ji facts: chart10 natal Ren-year Property and chart11 RenYin grand-cycle Fortune. Neither is the absent complete general Hua Lu branch. The corrupted opening mentioning Lu is outside usable spans and cannot supply a reliable replacement.",
+      "ordinary_fix_history": "targeted repair confirmed in INDEPENDENT_TARGETED_FIX_C031_C035_V1.json",
+      "current_candidate_sha256": "8574810a3f01be80d80474b91771d703ce44611d5e5f8bc01db3090e239e4b80",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C034",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 233,
+          "end": 263,
+          "quote": "武曲或巨門化權時，除具備有化權的作用外，亦具有化祿的順暢作用"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C030_C034_V1.json",
+      "specialist_review_sha256": "2d56bd0573cad5c3dd233502cebcf82f04f4428cee8481a920f18aa1fbde83eb",
+      "original_review_candidate_sha256": "936838a00195121fd4b47c6d7730bec2ec193b11ffe71d40c29af504224eafda",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C034",
+        "decision": "specific_alternative_bearer_hold_and_ordinary_invalid_object_requires_isolation",
+        "issue_family": "alternative_transformation_bearer",
+        "evidence": [
+          {
+            "start": 233,
+            "end": 263,
+            "quote": "武曲或巨門化權時，除具備有化權的作用外，亦具有化祿的順暢作用"
+          }
+        ],
+        "ordinary_error": {
+          "field": "ziwei.sihua_mentioned.1",
+          "star": "巨门",
+          "scope": "c34_jumen",
+          "condition": "武曲或巨門化權時",
+          "problem": "The antecedent can be true with only Wu Qu Hua Quan. The stored positive Ju Men Hua Quan record is not bound to a Ju Men-specific condition. Distinct scope ID does not supply such a condition.",
+          "required_action": "Isolate/remove this unsupported conditional object in expressible draft, retain source/summary/mention and explicit hold. Reindex evidence after removal. Do not replace named alternatives with null/not_mentioned."
+        },
+        "expressible": "Separate explicit Wu Qu Life Palace/Geng-year Hua Quan, grand-cycle Hua Quan, registered placements, favorable prerequisites and unfavorable counterexample can remain. Generic Hua Lu is an effect analogy with unnamed star, not actual Hua Lu for Wu Qu or Ju Men.",
+        "branch_assessment": "No complete independent Ju Men-only conditional sentence appears in this chunk. Taking bare suffix 巨門化權時 out of the OR phrase would not meet the requested complete-source-branch test. Duplicating original mixed OR onto two objects passes neither semantic binding nor this independent review.",
+        "eligibility": "eligible; do not downgrade because of representation",
+        "bilingual": "Summaries preserve effect analogy, positive/negative premises. Future copyediting may use either rather than and to make alternation explicit, but no false claim of actual Hua Lu is currently made."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "bc77e0dbb38af34955fea9a2a74581234314c9d5f1faa0fae450575336a7db2a",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C035",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 510,
+          "end": 523,
+          "quote": "且廉貞化忌或武曲化忌時始是"
+        },
+        {
+          "start": 524,
+          "end": 564,
+          "quote": "若身宮不在廉貞坐守的宮位，此時若廉貞化忌或武曲化忌，均以偏格的「財與囚仇」論之。"
+        },
+        {
+          "start": 386,
+          "end": 409,
+          "quote": "當廉貞化忌就成「邪火」，此時邪火就會來剋武曲金"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer_in_pattern"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C029_C031_C035_V1.json",
+      "specialist_review_sha256": "86e8d7d397442dd79a189b6291fb60146efb644ed0e94029d77ce51b3864f90e",
+      "original_review_candidate_sha256": "0e865c0586d9e57933d9a696228c54d9a00cfff4661167c8e79b6720867b6ee5",
+      "last_targeted_review_candidate_sha256": "16a8fe24490f072b28edee6c6924237bf5b4a5cf3a8913ca24a6aeb93ea995dc",
+      "expressible_scope": "Wu Qu Life -> Lian Zhen Wealth placement rule and explicit Lian Zhen evil-fire interaction are already represented. Lian Zhen Hua Lu with benefics has full independent source condition. Generic Lu/Quan/Ke positive versus Ji negative definitions are taxonomy mentions, not simultaneous transformations of a named bearer, so no blanket OR block is assigned to these generic definitions.",
+      "specific_gap": "Primary and secondary Body-Palace configurations have independently stated premises and may be separated in evidence/prose. EACH still requires Lian Zhen OR Wu Qu Hua Ji. No independent Wu Qu-only primary/secondary branch is stated. Earlier independent Lian Zhen Hua Ji supports evil-fire interaction, not the entire choice-conditioned pattern.",
+      "ordinary_fix_history": "targeted repair confirmed in INDEPENDENT_TARGETED_FIX_C031_C035_V1.json",
+      "current_candidate_sha256": "0b32929e540dd296e85681e75a24cf8b00139916e11afc1da1cd61b7da6bd6c0",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C045",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 135,
+          "end": 179,
+          "quote": "若是武曲與破軍不同宮，而命宮與身宮分別有此二星曜坐入，則前述武破同宮的命理作用，仍然適用"
+        }
+      ],
+      "issue_families": [
+        "unordered_one_to_one_star_palace_assignment"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C045_C051_C053_V1.json",
+      "specialist_review_sha256": "10c65a094d8753c1158cebb3041589c049c6ed8efd33b1e5aff02b13386c5da1",
+      "original_review_candidate_sha256": "283b7c732ece07b8d2fb4760f6232912f3abc1e4e193a09d00c66b2d26e3a9e3",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C045",
+        "issue_families": [
+          "unordered_one_to_one_star_palace_assignment"
+        ],
+        "decision": "retain_specific_mapping_hold; retain_supported_relations",
+        "evidence": [
+          {
+            "start": 135,
+            "end": 179,
+            "quote": "若是武曲與破軍不同宮，而命宮與身宮分別有此二星曜坐入，則前述武破同宮的命理作用，仍然適用"
+          }
+        ],
+        "expressible_completed": "Negative 同宫 with Wu Qu and Po Jun, complete separate-palaces antecedent and no invented location is valid. Earlier Hai Life placements for BOTH stars have a different explicit conjunction premise and are valid, not contradicted by the later separated scenario. Hai/Si conjunction branches are independently stated, not an OR expansion.",
+        "ordinary_fix": "relations.1 has evidence only 在巳則合為旺宮; expand evidence to the adjacent full sentence containing 武曲與破軍 / 武破, while preserving the original Si branch condition. This is evidence completeness, not a contract gap.",
+        "typed_gap": "Two stars occupy Life and Body separately, but the text does not determine which star occupies which palace. A negative conjunction only says not co-located; it does not encode the one-to-one assignment set {(WuQu Life,PoJun Body),(PoJun Life,WuQu Body)}. No independent full branch picks either permutation.",
+        "unsafe": "Do not choose order from prose order, emit both assignments as unconditional, or create four placements that imply each star occupies both palaces.",
+        "qualification": "eligible unchanged"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "166226c81e6fe12a8bde269a8068e00e66f19a1c9ba78f79448c21d47bbdb791",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C051",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 66,
+          "end": 80,
+          "quote": "故武曲及文星，若身命各得其一"
+        },
+        {
+          "start": 198,
+          "end": 217,
+          "quote": "若是武曲與昌曲分坐命身宮，其作用亦同。"
+        },
+        {
+          "start": 154,
+          "end": 166,
+          "quote": "武曲在旺宮坐命並坐會昌曲"
+        }
+      ],
+      "issue_families": [
+        "unordered_star_palace_assignment",
+        "literary_star_alternative_or_collective_bearer"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C045_C051_C053_V1.json",
+      "specialist_review_sha256": "10c65a094d8753c1158cebb3041589c049c6ed8efd33b1e5aff02b13386c5da1",
+      "original_review_candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C051",
+        "issue_families": [
+          "unordered_star_palace_assignment",
+          "literary_star_alternative_or_collective_bearer"
+        ],
+        "decision": "retain_specific_mapping_and_bearer_hold; keep_explicit_WuQu_Life",
+        "evidence": [
+          {
+            "start": 66,
+            "end": 80,
+            "quote": "故武曲及文星，若身命各得其一"
+          },
+          {
+            "start": 198,
+            "end": 217,
+            "quote": "若是武曲與昌曲分坐命身宮，其作用亦同。"
+          },
+          {
+            "start": 154,
+            "end": 166,
+            "quote": "武曲在旺宮坐命並坐會昌曲"
+          }
+        ],
+        "expressible_completed": "Existing Wu Qu in Life under full strong-Life/meeting-ChangQu premise is supported. Wen Chang and Wen Qu individually have explicit conceptual discussion, so their mentions and registered pair mention are supported; this does not force their actual co-location.",
+        "negative_relation_boundary": "The separated Life/Body scenario entails that Wu Qu is not in the same palace as the literary-star side of that scenario. It does not independently select Wen Chang versus Wen Qu or prove both named stars simultaneously occupy the opposite palace. Under current star-only relation representation, do not emit two unqualified negated binary objects from the ambiguous literary-side reference. A negative relation may be encoded only when its actual participants and source scope are resolved without adding a bearer assumption; until then preserve this negative fact in exact source/evidence and the mapping hold.",
+        "typed_gap": "Neither fixed WuQu-Life/literary-Body versus the reverse assignment, nor a unique individual bearer for 文星, is selected by a complete independent source clause. 昌曲 can refer collectively, while ancient quotation discusses WenChang and WenQu alternatives. Do not silently resolve this into both individual occupants or into one selected star.",
+        "independent_branches": "武曲逢文昌 and 逢文曲 are separate source statements about meeting and five-element effects, NOT explicit same-palace or Life/Body assignments. They cannot repair mapping by being relabelled 同宫.",
+        "qualification": "eligible unchanged; whole chunk remains usable except unresolved typed binding, not a source-quality failure"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "492f4b4bfc2bb998fbd16452cbd7cc4e0fa43e06067cfe7bad68435376f7a834",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C053",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 32,
+          "end": 91,
+          "quote": "例如武曲在卯酉二宮和七殺同坐，在丑未二宮和貪狼同坐，在巳亥二宮和破軍同坐，在寅申二宮和天相同坐，在子午二宮和天府同坐。"
+        },
+        {
+          "start": 206,
+          "end": 216,
+          "quote": "武府在子午二宮坐命時"
+        },
+        {
+          "start": 343,
+          "end": 354,
+          "quote": "武曲在辰戌二墓庫守命時"
+        }
+      ],
+      "issue_families": [
+        "typed_earthly_branch_location_group"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C045_C051_C053_V1.json",
+      "specialist_review_sha256": "10c65a094d8753c1158cebb3041589c049c6ed8efd33b1e5aff02b13386c5da1",
+      "original_review_candidate_sha256": "d3804f178d18210ca5c6b5f9a25061b6dbfc30851312544a46eb2f5f1f77ed29",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C053",
+        "issue_families": [
+          "typed_earthly_branch_location_group"
+        ],
+        "decision": "remove_compound_scalar_claim; retain_location_independent_relations_and_complete_functional_palace_coverage",
+        "evidence": [
+          {
+            "start": 32,
+            "end": 91,
+            "quote": "例如武曲在卯酉二宮和七殺同坐，在丑未二宮和貪狼同坐，在巳亥二宮和破軍同坐，在寅申二宮和天相同坐，在子午二宮和天府同坐。"
+          },
+          {
+            "start": 206,
+            "end": 216,
+            "quote": "武府在子午二宮坐命時"
+          },
+          {
+            "start": 343,
+            "end": 354,
+            "quote": "武曲在辰戌二墓庫守命時"
+          }
+        ],
+        "ordinary_error": "relations.0–6 store 卯酉/丑未/巳亥/寅申/子午/辰戌 as location scalar. Validator accepts free strings but they are not single actual placements or explicit typed alternatives. Isolate/clear these compound location assertions and retain full original source condition; do not count prose retention as solved group mapping.",
+        "expressible_completed": "Five distinct star-pair conjunction statements and two opposing-star relations are explicit. Their participant relations remain expressible without claiming a resolved single branch. Preserve every original full condition, source attribution and malefic qualification when retaining these records.",
+        "expressible_not_yet_completed": "Named functional Life Palace does not depend on selecting an earthly branch. Add conditional 星曜入宫 for Wu Qu/Tian Fu under explicit 武府在子午二宮坐命時 and Wu Qu under 武曲在辰戌二墓庫守命時, with location unresolved rather than compound scalar. WuQu/TianXiang under 武相在寅申二宮坐命者 is another explicit Life branch. Retain source-evidence context for registered abbreviations. These are authoring/review tasks, not claims that new records already exist.",
+        "typed_gap": "Each individual conjunction rule refers to a two-branch group, not a source-authored independent branch for each member. Five pair rules can be separated because their companions and source clauses differ, but each retains internal branch-set semantics. No arbitrary branch splitting or external opposite-branch table may fill the missing typed mapping.",
+        "not_blanket_hold": "Branch-set representation does not block functional Life-Palace facts, pair co-location, opposing-star relations, or the prose distinction between activity and extroversion. Stable personality claims remain qualified by malefics and Migration Palace condition.",
+        "qualification": "eligible unchanged"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "39bb0b9fc4bee51005246897214f0a02b0af4b47186aeaab892fdd0c5dcb53cb",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C058",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 10,
+          "end": 54,
+          "quote": "自丁丑限到丁卯限，連著三個大限，不是太陰化祿，就是天同化祿，和寅宮的祿存吉輔命宮，甚佳。"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unresolved_multi_cycle_assignment"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C058_C059_C077_C078_C079_V1.json",
+      "specialist_review_sha256": "38283a14591ee87730a03f9a8d95fd9fae5e4200a11cb9b6f3d300642868fbc6",
+      "original_review_candidate_sha256": "01dcde45e11133249c7cd2ebe6bba89ce5924255b441d20562456ec45ffbfc83",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C058",
+        "decision": "retain_precise_temporal_bearer_assignment_hold",
+        "issue_families": [
+          "alternative_transformation_bearer",
+          "unresolved_multi_cycle_assignment"
+        ],
+        "evidence": [
+          {
+            "start": 10,
+            "end": 54,
+            "quote": "自丁丑限到丁卯限，連著三個大限，不是太陰化祿，就是天同化祿，和寅宮的祿存吉輔命宮，甚佳。"
+          }
+        ],
+        "gap": "Three-cycle span names Tai Yin or Tian Tong Hua Lu supporting Life, but does not assign a unique bearer to each cycle. Single star and tiangan fields plus one scope_id cannot encode the unassigned bearer-per-cycle mapping. Neither known four-transformation tables nor guessed intermediate cycles are source evidence.",
+        "expressible": "Exact multi-cycle span may be retained as one time mention with original subject text and explicit aggregate scope, not three invented cycle objects. Later individually named cycles and their concrete transformations/target relations remain expressible. Existing missing aggregate time mention is ordinary coverage work, not a reason to stop all later facts.",
+        "ordinary_review": "Do not use null/not_mentioned for named alternatives. For named later cycles, review explicit source-linked stem fields separately rather than fill every co-scoped transformation from the cycle stem; prior natal transformations can coexist with cycle transformations.",
+        "qualification": "limited",
+        "additional_binding_check": "C058 GengWu has TaiYang HuaJi and TaiYang HuaLu in the same broad scope. Existing bare-star 夹辅 plus role hua_ji_flanker retains a human-readable qualifier, but must not be claimed to be a typed reference to a specific Sihua object. Keep exact evidence distinguishing flanking Ji from supporting Lu; this is not permission to relabel every bare-star relation as full transformed-entity binding. Review any demand for exact transformed-instance retrieval separately."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "6d9783153401b0775c855cbfe9279e150ac874708fa8d07b0889e7a989d34db0",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C059",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 286,
+          "end": 323,
+          "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unresolved_multi_cycle_assignment"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C058_C059_C077_C078_C079_V1.json",
+      "specialist_review_sha256": "38283a14591ee87730a03f9a8d95fd9fae5e4200a11cb9b6f3d300642868fbc6",
+      "original_review_candidate_sha256": "ee18cb1b4b8873739187c28f8e4eb3bf691b0479f9d56cd124739b3163ba8e89",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C059",
+        "decision": "retain_precise_temporal_bearer_assignment_hold",
+        "issue_families": [
+          "alternative_transformation_bearer",
+          "unresolved_multi_cycle_assignment"
+        ],
+        "evidence": [
+          {
+            "start": 286,
+            "end": 323,
+            "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+          }
+        ],
+        "gap": "Three-cycle span names Tai Yin or Tian Tong Hua Lu supporting natal Property, but does not assign a unique bearer to each cycle. Single star and tiangan fields plus one scope_id cannot encode the unassigned bearer-per-cycle mapping. Neither known four-transformation tables nor guessed intermediate cycles are source evidence.",
+        "expressible": "Exact multi-cycle span may be retained as one time mention with original subject text and explicit aggregate scope, not three invented cycle objects. Later individually named cycles and their concrete transformations/target relations remain expressible. Existing missing aggregate time mention is ordinary coverage work, not a reason to stop all later facts.",
+        "ordinary_review": "Do not use null/not_mentioned for named alternatives. For named later cycles, review explicit source-linked stem fields separately rather than fill every co-scoped transformation from the cycle stem; prior natal transformations can coexist with cycle transformations.",
+        "qualification": "eligible",
+        "expressible_details": "WuQu/TanLang Chou Life conjunction, Sun/Moon flanking, WuChen TanLang Lu and JiSi WuQu/LianZhen Lu supports are independently stated. Empty Wei borrowing opposite WuQu does not make WuQu physically in Wei or Shen; current affected Property Shen is not a carrying palace."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "e94a589c47a964b86baeb8f740471e5c184567d2fcc2525a9a8f4974c9371b64",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C060",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 9,
+          "end": 52,
+          "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+        },
+        {
+          "start": 231,
+          "end": 255,
+          "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+        }
+      ],
+      "issue_families": [
+        "natal_cycle_target_alternative",
+        "single_double_transformation_effect_alternative",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C060_C062_C063_C069_V1.json",
+      "specialist_review_sha256": "d617bb2aed8fb663a757b1fa62682b0aaf45702eb07ab49ac9ef5aa5f951079c",
+      "original_review_candidate_sha256": "eafed35a086d9234e6d19dbb8e4b2c782750cdd0131058c79389d203acefa67b",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C060",
+        "decision": "retain_specific_temporal_target_and_effect_alternatives; generic_mentions_are_expressible",
+        "issue_families": [
+          "natal_cycle_target_alternative",
+          "single_double_transformation_effect_alternative",
+          "unallocated_multi_cycle_mapping"
+        ],
+        "evidence": [
+          {
+            "start": 9,
+            "end": 52,
+            "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+          },
+          {
+            "start": 69,
+            "end": 90,
+            "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+          },
+          {
+            "start": 231,
+            "end": 255,
+            "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+          }
+        ],
+        "expressible_completed": "WuQu/TanLang Life at Chou under explicit Jia-year premise, their conjunction, aggregate five-cycle interval and female reverse-cycle interval, and generic female occasional HuaLu mention. These are independently supported and must remain separate from the unresolved period mapping.",
+        "ordinary_coverage": "Generic unnamed-star HuaLu in first five-cycle paragraph and generic HuaJi in the female adverse paragraph can be mentioned with star=null/not_mentioned, original full aggregate/female evidence scope, and no assigned natal/cycle carrying palace. Here the source genuinely names no bearer, unlike C058/059 named alternatives. Representation hold does not justify omitting all such type mentions.",
+        "gap": "No cycle-by-cycle allocation of natal versus later Life/Property target, single vs double HuaLu support, or single HuaJi impact versus double-Ji flank is given. Preserve distribution and counts in source; scalar palace and scope cannot encode their joint alternatives. Generic mentions do not resolve target/effect choice.",
+        "unsafe": "Do not fill WuQu/TanLang as the unnamed transforming stars merely because they are in the same chunk, infer five individual stems, or assign each effect to both natal and cycle palaces.",
+        "qualification": "Source text intact and eligible. Female reverse progression condition must stay attached to adverse statements; no schema-driven downgrade."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "6b94e5599a15bde581c722cbffcd8c4b0104fed32e25f68a85e612814adf52ad",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C062",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 435,
+          "end": 472,
+          "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C060_C062_C063_C069_V1.json",
+      "specialist_review_sha256": "d617bb2aed8fb663a757b1fa62682b0aaf45702eb07ab49ac9ef5aa5f951079c",
+      "original_review_candidate_sha256": "dce5b52e5f91237fc9f8ffbe5a1ff035de859290a78a15e6d98ca6a5e1494c73",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C062",
+        "decision": "retain_temporal_bearer_assignment_hold; preserve_separately_explicit_later_actions",
+        "issue_families": [
+          "alternative_transformation_bearer",
+          "unallocated_multi_cycle_mapping"
+        ],
+        "evidence": [
+          {
+            "start": 435,
+            "end": 472,
+            "quote": "自丁丑限至丁卯限，連著三個大限，先天田宅宮得太陰化祿或天同化祿輪著來吉化。"
+          }
+        ],
+        "gap": "TaiYin or TianTong HuaLu alternates across three cycles without a given per-cycle assignment. Sihua scalar star/tiangan cannot preserve this choice/distribution. No cross-chunk original05 or known transformation table may fill it.",
+        "expressible_completed": "GengWu TianTong Ji impacting cycle Life, Ji flanking natal Life, TaiYang Lu and WuQu Quan supporting distinct targets; explicit Chou Life pair and Sun/Moon flank; WuChen TanLang Lu and JiSi WuQu/LianZhen Lu to cycle Property. WuQu borrowed from opposite palace is influence, not physical placement into empty Wei or target Shen.",
+        "ordinary_coverage": "The intact three-cycle interval may be retained as an aggregate time mention with original subject and scope; current time_mentions only name later cycles. Do not reconstruct the opening antecedent-less 自坐大限命宮 by borrowing another chunk.",
+        "typed_instance_boundary": "GengWu includes TaiYang HuaJi and HuaLu in one broad scope. Bare TaiYang relation participants plus free-string hua_ji_flanker role do not furnish a typed Sihua-instance reference. Current ordinary star relation/prose evidence is not automatically false, but must not be certified as full transformation-instance retrieval binding. Keep exact span and natal/cycle target labels; do not change carried palace to affected palace.",
+        "qualification": "limited for broken opening only, not for intact OR passage."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "f6a192abd84d6e162e0f36d2dc21ae161c3e1a0597833d4a150794155fa64997",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C063",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 9,
+          "end": 52,
+          "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+        },
+        {
+          "start": 231,
+          "end": 255,
+          "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+        }
+      ],
+      "issue_families": [
+        "natal_cycle_target_alternative",
+        "single_double_transformation_effect_alternative",
+        "unallocated_multi_cycle_mapping"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C060_C062_C063_C069_V1.json",
+      "specialist_review_sha256": "d617bb2aed8fb663a757b1fa62682b0aaf45702eb07ab49ac9ef5aa5f951079c",
+      "original_review_candidate_sha256": "692cb789b87941dfa7c3fd1dd35b7af82beba8d86196cb456ec0c987bbbaa4ad",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C063",
+        "decision": "retain_specific_temporal_target_and_effect_alternatives; generic_mentions_are_expressible",
+        "issue_families": [
+          "natal_cycle_target_alternative",
+          "single_double_transformation_effect_alternative",
+          "unallocated_multi_cycle_mapping"
+        ],
+        "evidence": [
+          {
+            "start": 9,
+            "end": 52,
+            "quote": "自丁丑限到己巳限，連著五個大限，先天或後天命宮，若不是有雙化祿來吉輔，就是有化祿來吉化"
+          },
+          {
+            "start": 69,
+            "end": 90,
+            "quote": "先天或後天的田宅宮在此五大限亦有類似的作用"
+          },
+          {
+            "start": 231,
+            "end": 255,
+            "quote": "先天或後天命宮若不是有化忌來沖，就是有雙忌來夾制"
+          }
+        ],
+        "expressible_completed": "WuQu/TanLang Life at Chou under explicit Jia-year premise, their conjunction, aggregate five-cycle interval and female reverse-cycle interval, and generic female occasional HuaLu mention. These are independently supported and must remain separate from the unresolved period mapping.",
+        "ordinary_coverage": "Generic unnamed-star HuaLu in first five-cycle paragraph and generic HuaJi in the female adverse paragraph can be mentioned with star=null/not_mentioned, original full aggregate/female evidence scope, and no assigned natal/cycle carrying palace. Here the source genuinely names no bearer, unlike C058/059 named alternatives. Representation hold does not justify omitting all such type mentions.",
+        "gap": "No cycle-by-cycle allocation of natal versus later Life/Property target, single vs double HuaLu support, or single HuaJi impact versus double-Ji flank is given. Preserve distribution and counts in source; scalar palace and scope cannot encode their joint alternatives. Generic mentions do not resolve target/effect choice.",
+        "unsafe": "Do not fill WuQu/TanLang as the unnamed transforming stars merely because they are in the same chunk, infer five individual stems, or assign each effect to both natal and cycle palaces.",
+        "qualification": "Source text intact and eligible. Female reverse progression condition must stay attached to adverse statements; no schema-driven downgrade."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "a127e75611dee330a449f8f535197aabe2851ea1041bb3a8b5a2b0c113c80ef0",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C069",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 253,
+          "end": 269,
+          "quote": "癸干的魁鉞分居於卯巳二宮夾輔辰宮"
+        },
+        {
+          "start": 503,
+          "end": 517,
+          "quote": "先天或後天命宮皆有化祿來吉化"
+        },
+        {
+          "start": 547,
+          "end": 561,
+          "quote": "先天或後天命宮雖間有化忌來沖"
+        }
+      ],
+      "issue_families": [
+        "unordered_star_branch_assignment",
+        "natal_cycle_target_alternative"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C060_C062_C063_C069_V1.json",
+      "specialist_review_sha256": "d617bb2aed8fb663a757b1fa62682b0aaf45702eb07ab49ac9ef5aa5f951079c",
+      "original_review_candidate_sha256": "8baaeece4ff6459f571c5ba0bba97cacf1e2b011d53bef3a8e1cf3c030aa4f0b",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C069",
+        "decision": "retain_unordered_branch_assignment_and_target_level_alternative_holds",
+        "issue_families": [
+          "unordered_star_branch_assignment",
+          "natal_cycle_target_alternative"
+        ],
+        "evidence": [
+          {
+            "start": 253,
+            "end": 269,
+            "quote": "癸干的魁鉞分居於卯巳二宮夾輔辰宮"
+          },
+          {
+            "start": 503,
+            "end": 517,
+            "quote": "先天或後天命宮皆有化祿來吉化"
+          },
+          {
+            "start": 547,
+            "end": 561,
+            "quote": "先天或後天命宮雖間有化忌來沖"
+          }
+        ],
+        "gap": "TianKui/TianYue occupy Mao/Si separately; text does not map each named star to a unique branch. Two location scalars would require an unprovided assignment. Natal or later Life target across aggregate cycles is likewise not a simultaneous assertion on both levels.",
+        "expressible_completed": "Flanking by the two named stars of Chen Life can remain with unresolved individual flank locations; source later explicitly establishes WuQu Chen Life. LuCun Zi Wealth, PoJun Wu Fortune HuaLu, ZiWei/TianFu Shen Career, WuQu Chen Life and TanLang Ji impact are independently specified. Generic Lu/Ji bearers are genuinely unnamed in aggregate/lifelong clauses, so null-star mentions are legitimate.",
+        "ordinary_review": "For flanking target functional Life, include the later explicit 武曲在辰坐命癸年生人 context in evidence if current span only says 辰宮. Do not infer functional palace from branch alone. Keep case/year source link for specific PoJun/TanLang transformations, not universal stem-table inference.",
+        "unsafe": "Do not map Kui->Mao,Yue->Si from ordering, use location=卯巳 as a solved scalar, or cast 先天或後天 as two simultaneously affected LifePalace objects. Four-cycle aggregate does not license invented individual cycle mappings.",
+        "qualification": "limited only for mixed diagram/broken lead; intact prose retains specific facts and the unresolved alternatives."
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "66e0c96af2782a9c08f5519ddb53a70488e1194f1706cccb6225aaf015c3ab2e",
+      "current_hash_equals_original_review": false,
+      "current_hash_equals_last_targeted_or_original_review": false,
+      "needs_targeted_review_for_changed_candidate": true,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C077",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 4,
+          "end": 42,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。"
+        }
+      ],
+      "issue_families": [
+        "transformation_relation_participant",
+        "generic_palace_variable"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C058_C059_C077_C078_C079_V1.json",
+      "specialist_review_sha256": "38283a14591ee87730a03f9a8d95fd9fae5e4200a11cb9b6f3d300642868fbc6",
+      "original_review_candidate_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C077",
+        "decision": "confirmed_missing_transformation_entity_and_generic_target_structure",
+        "issue_families": [
+          "transformation_relation_participant",
+          "generic_palace_variable"
+        ],
+        "evidence": [
+          {
+            "start": 4,
+            "end": 42,
+            "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。"
+          }
+        ],
+        "actual_registry": "ziwei_vocabulary.yaml relation_entities contains ONLY star:[stars], palace:[twelve_palaces,special_palaces], pattern:[patterns]. relation_types includes 夹辅 and 星曜入宫, so missing RELATION TYPE is not the problem. No transformation participant or anonymous any-palace variable is registered.",
+        "gap": "HuaLu/HuaKe flank HuaQuan as transformed entities with unnamed carriers and generic target palace. Sihua mentions can retain types with genuinely unnamed star=null, but cannot be linked as relation participants. Cannot invent 化禄星/任意宫 or use registered unrelated star/palace/pattern as a surrogate.",
+        "expressible": "Three generic transformation mentions with correct null reasons, source names for three patterns, and comparison-only 三奇嘉会. No actual formed 三奇嘉会 should be asserted.",
+        "qualification": "eligible unchanged"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "655e55e545bdaf6085107f6022b632d44058664af977ef17966ac48dddf39976",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C078",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 219,
+          "end": 232,
+          "quote": "有可能是祿馬和武曲同宮坐守"
+        },
+        {
+          "start": 233,
+          "end": 244,
+          "quote": "或者是祿馬從遷移宮來合"
+        },
+        {
+          "start": 245,
+          "end": 263,
+          "quote": "或者是祿馬分別從財帛宮及事業宮來會照"
+        }
+      ],
+      "issue_families": [
+        "unordered_star_palace_assignment_in_wealth_career_branch"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C058_C059_C077_C078_C079_V1.json",
+      "specialist_review_sha256": "38283a14591ee87730a03f9a8d95fd9fae5e4200a11cb9b6f3d300642868fbc6",
+      "original_review_candidate_sha256": "1e5d31dbd69fd0b72a7376638c502c8ba9710a91e1489fac2f92b0501b474e70",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C078",
+        "decision": "narrow_author_hold; additional_independent_branch_is_expressible",
+        "issue_families": [
+          "unordered_star_palace_assignment_in_wealth_career_branch"
+        ],
+        "evidence": [
+          {
+            "start": 219,
+            "end": 232,
+            "quote": "有可能是祿馬和武曲同宮坐守"
+          },
+          {
+            "start": 233,
+            "end": 244,
+            "quote": "或者是祿馬從遷移宮來合"
+          },
+          {
+            "start": 245,
+            "end": 263,
+            "quote": "或者是祿馬分別從財帛宮及事業宮來會照"
+          }
+        ],
+        "author_claim_correction": "Only the same-palace branch is expressible is too broad. Migration branch is a complete independent alternative clause with a named functional palace and plural Lu/Ma subject; it can have its own source-verbatim conditional scope. It does NOT assert simultaneous same-palace arrangement with WuQu.",
+        "expressible": "Keep current WuQu strong-Life requirement and same-palace branch. In separately conditioned Migration branch, LuCun and TianMa placements in Migration are expressible from 從遷移宮來合, with source context/abbreviation evidence. Do not invent a registered 会照 relation (absent from registry); any 对宫 must have independent evidence, not just generic 来合. Preserve industry/strong-placement qualifications for effects.",
+        "gap": "Wealth/Career branch assigns Lu and Ma separately to two palaces without selecting which star to which palace; unordered one-to-one assignment remains missing. Separate alternative-clause scopes prevent accidental conjunction; no new global OR hold is needed merely because all three configurations are described.",
+        "unsafe": "Do not choose LuCun Wealth and TianMa Career from word order; do not label both stars as occupying both palaces. Raw location=财官 or OR string is not a typed assignment.",
+        "qualification": "eligible unchanged"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "1e5d31dbd69fd0b72a7376638c502c8ba9710a91e1489fac2f92b0501b474e70",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C079",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 214,
+          "end": 246,
+          "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故"
+        },
+        {
+          "start": 303,
+          "end": 335,
+          "quote": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故"
+        }
+      ],
+      "issue_families": [
+        "alternative_transformation_bearer",
+        "stem_bearer_mapping",
+        "branch_location_group"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C058_C059_C077_C078_C079_V1.json",
+      "specialist_review_sha256": "38283a14591ee87730a03f9a8d95fd9fae5e4200a11cb9b6f3d300642868fbc6",
+      "original_review_candidate_sha256": "26025b54b8200c54ed3c7eb00a4483f2470c9a2482656b46b1e126509ff69469",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C079",
+        "decision": "retain_stem_bearer_alternative_binding_hold; independent_configuration_facts_continue",
+        "issue_families": [
+          "alternative_transformation_bearer",
+          "stem_bearer_mapping",
+          "branch_location_group"
+        ],
+        "evidence": [
+          {
+            "start": 214,
+            "end": 246,
+            "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故"
+          },
+          {
+            "start": 303,
+            "end": 335,
+            "quote": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故"
+          }
+        ],
+        "gap": "Source gives Wu/Ji and TanLang/WuQu Lu alternatives, and Ren/Gui and WuQu/TanLang Ji alternatives; no explicit one-to-one stem/star mapping. Frozen Sihua scalar star/tiangan fields cannot encode paired unassigned sets. Do not infer mapping from outside tables or give all named stars both transformations.",
+        "expressible": "Current concrete Chart24 Chou Life triple conjunction and three Life placements are supported. Positive Lu-condition and adverse Ji-condition are source-authored separate effect rules. Conditional 火贪格 formation with full Lu premises is valid although bearer alternatives remain unresolved: every stated Lu alternative entails this outcome, unlike claiming a particular bearer.",
+        "additional_coverage": "Opening has independently stated configurations: 武貪在丑未二宮同度又得火星坐入 versus 武曲在辰戌獨坐有火星同踞而對宮貪狼. Triple conjunction in first, WuQu/Huo conjunction and opposite TanLang in second can be represented separately with exact conditions and no compound scalar location. Each branch still has a two-location group needing typed set representation. Do not misconstrue 獨坐 as excluding Huo when source explicitly includes Huo.",
+        "time_boundary": "Current 大限 subjects retain Wu/Ji or Ren/Gui alternatives as mention-level text. They are not a typed stem selection or proof of an actually occurring cycle. Birth-year alternative must not become a grand-cycle fact.",
+        "qualification": "limited for mixed chart text only; intact premises stay usable"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "26025b54b8200c54ed3c7eb00a4483f2470c9a2482656b46b1e126509ff69469",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C080",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 395,
+          "end": 421,
+          "quote": "若武曲坐入事業宮或財帛宮或遷移宮時，亦均可作同樣論斷"
+        }
+      ],
+      "issue_families": [
+        "alternative_functional_palace_rule"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C080_C082_C084_V1.json",
+      "specialist_review_sha256": "3597a840dc39e70bf9498271d2dae17a7f1e4b252537390abaa68be4d42cc21d",
+      "original_review_candidate_sha256": "90c912585aa0bbe330c918c656b2a3aaab3aae12cc1917ac95002c8491ba1842",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C080",
+        "decision": "retain_specific_general_palace_alternative_binding; keep_independent_source_placements",
+        "issue_families": [
+          "alternative_functional_palace_rule"
+        ],
+        "evidence": [
+          {
+            "start": 395,
+            "end": 421,
+            "quote": "若武曲坐入事業宮或財帛宮或遷移宮時，亦均可作同樣論斷"
+          }
+        ],
+        "gap": "Three named functional palaces are registered; the missing capability is binding their alternatives to the same generalized effect rule, not missing palace names. No independently complete Migration-only branch occurs here.",
+        "expressible_completed": "Current independently sourced WuQu Life and quoted Wealth placements are legitimate and do not imply simultaneous occupancy. Retain traditional attribution and author qualification that occupation is a tendency, not fate.",
+        "ordinary_coverage": "Separate quoted 官祿宮遇吉昭，為財賦之職 has surrounding explicit 武曲 subject and final 官祿=事業 explanation. Assess it as an independently attributed Career branch with complete contextual evidence, not by cutting the OR phrase; do not infer WuQu/KuiYue same palace from 會照. Generic grade-A/B/C star dependence does not name individual participants.",
+        "qualification": "eligible with OCR 命恒 preserved as uncertain; no schema-based downgrade"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "90c912585aa0bbe330c918c656b2a3aaab3aae12cc1917ac95002c8491ba1842",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C082",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 78,
+          "end": 118,
+          "quote": "武曲坐守宮位（除武貪在丑未外）的對照宮位，若不是殺破狼組合，就是有天府或天相坐入"
+        },
+        {
+          "start": 129,
+          "end": 166,
+          "quote": "至於武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝"
+        }
+      ],
+      "issue_families": [
+        "alternative_opposing_configuration",
+        "typed_earthly_branch_group"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C080_C082_C084_V1.json",
+      "specialist_review_sha256": "3597a840dc39e70bf9498271d2dae17a7f1e4b252537390abaa68be4d42cc21d",
+      "original_review_candidate_sha256": "0b0b3aa76200fbb97b09aea389f2c6a3cd248ce4521271c704afc1f77b7488eb",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C082",
+        "decision": "retain_general_opposing_configuration_and_branch_group_hold; explicit_general_and_case_relations_continue",
+        "issue_families": [
+          "alternative_opposing_configuration",
+          "typed_earthly_branch_group"
+        ],
+        "evidence": [
+          {
+            "start": 78,
+            "end": 118,
+            "quote": "武曲坐守宮位（除武貪在丑未外）的對照宮位，若不是殺破狼組合，就是有天府或天相坐入"
+          },
+          {
+            "start": 129,
+            "end": 166,
+            "quote": "至於武貪在丑未坐守時，其對宮雖為空宮，但此空宮的三合必有天府及天相分別來朝"
+          }
+        ],
+        "gap": "General opposite occupant is an unselected group/configuration or TianFu/TianXiang; cannot emit all as co-present. Chou/Wei exception is a branch set, not a single location. 天府及天相分別來朝 does not state which specific supporting palace each occupies.",
+        "expressible_completed": "General Migration-Life opposition is explicitly stated and registered palace participants are valid. Chart25 TanLang Chen Life, WuQu/QingYang Xu Migration, conjunction/opposition and named WenChang HuaJi effects are separately complete. Their exact Chen/Xu locations do not inherit the general-rule ambiguity.",
+        "ordinary_coverage": "General 當武曲坐入遷移宮且會多吉星時 supplies an independent conditional WuQu Migration placement, if full general coverage is required; do not confuse it with guaranteed strong Life outcome. 府相朝垣 formation under full exception condition can remain even without exact source-star branch assignments.",
+        "qualification": "eligible; favorable Migration never guarantees favorable Life, as explicit case demonstrates"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "0b0b3aa76200fbb97b09aea389f2c6a3cd248ce4521271c704afc1f77b7488eb",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    },
+    {
+      "new_chunk_number": "C084",
+      "source04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "source_evidence": [
+        {
+          "start": 285,
+          "end": 298,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        },
+        {
+          "start": 485,
+          "end": 505,
+          "quote": "至於武貪坐入財帛宮或田宅宮，只要會多吉星"
+        }
+      ],
+      "issue_families": [
+        "typed_earthly_branch_group",
+        "alternative_functional_palace_rule"
+      ],
+      "specialist_review_path": "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C080_C082_C084_V1.json",
+      "specialist_review_sha256": "3597a840dc39e70bf9498271d2dae17a7f1e4b252537390abaa68be4d42cc21d",
+      "original_review_candidate_sha256": "f3db9bbe24c0100c3df4ead76d54d1082051809906c59fa91387885a085ecd16",
+      "last_targeted_review_candidate_sha256": null,
+      "specialist_assessment": {
+        "chunk": "C084",
+        "decision": "retain_branch_group_and_general_rule_alternative_binding; independent_wealth_property_branches_are_expressible",
+        "issue_families": [
+          "typed_earthly_branch_group",
+          "alternative_functional_palace_rule"
+        ],
+        "evidence": [
+          {
+            "start": 285,
+            "end": 298,
+            "quote": "武曲與貪狼僅在丑未二宮同度"
+          },
+          {
+            "start": 485,
+            "end": 505,
+            "quote": "至於武貪坐入財帛宮或田宅宮，只要會多吉星"
+          }
+        ],
+        "gap": "Chou/Wei remains a two-branch group; no single-location inference. Final Wealth-or-Property effect rule still has alternative binding. Earlier independently stated placements support individual mentions but do not retrospectively encode that rule-level choice.",
+        "expressible_completed": "Conjunction with location null under full Chou/Wei condition, both stars Life under independent source sentence, and quoted Property branch are valid. Source genuinely names no bearer for generic HuaLu; null-star mention is legitimate.",
+        "ordinary_coverage": "Independent quote 與貪狼同值財鄉，横發資財 is introduced explicitly as another saying about WuQu/TanLang. With full introductory/context evidence and quote attribution, both Wealth placements may be expressed as a separate quoted branch rather than copied from final OR. Current draft only includes Property; this is a plausible ordinary coverage addition for author and reviewer, not resolved global typed OR.",
+        "qualification": "eligible; labor/late success, benefic support and no effortless-wealth implication preserved"
+      },
+      "ordinary_fix_history": "See specialist assessment; no later targeted acceptance applied by this V2 ledger.",
+      "current_candidate_sha256": "f3db9bbe24c0100c3df4ead76d54d1082051809906c59fa91387885a085ecd16",
+      "current_hash_equals_original_review": true,
+      "current_hash_equals_last_targeted_or_original_review": true,
+      "needs_targeted_review_for_changed_candidate": false,
+      "current_snapshot_source_text_exact": true,
+      "source_quote_spans_exact": true,
+      "full_candidate_accepted": false,
+      "disposition": "retain_specific_hold_continue_expressible_work",
+      "ordinary_repair_vs_hold": "A changed candidate hash triggers targeted ordinary-fix review, not automatic creation/removal of the underlying source-based typed hold."
+    }
+  ],
+  "scope": "All 24 distinct current-run chunks with specialist typed-hold assessments to this point. Not old 27 IDs, not a whole-source inventory, not final05 acceptance. Stable source04 quotes are retained independently from changing candidate versions.",
+  "notes": [
+    "C078 author hold narrowed: Migration branch expressible; Wealth/Career unordered mapping remains.",
+    "Generic source-unnamed transformations are expressible; named alternatives must not be erased to null.",
+    "Ordinary fixes and schema representation gaps remain separate.",
+    "No source-quality downgrade or stop on other chunks.",
+    "No candidate/rule/schema modification; V1 preserved."
+  ]
+}

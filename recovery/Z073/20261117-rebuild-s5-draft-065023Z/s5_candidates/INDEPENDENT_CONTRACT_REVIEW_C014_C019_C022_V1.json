@@ -1,0 +1,175 @@
+{
+  "review": "Independent current-run typed representation review C014/C019/C022",
+  "created_utc": "2026-11-17T06:25:31.818554+00:00",
+  "records": [
+    {
+      "new_chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "candidate_sha256": "5956653825145d6bb60e5159796234e14dafc370ee29b19211634f90ce100d98",
+      "frozen_validator": {
+        "validator_passed": true
+      },
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "source_quality_status": "limited"
+    },
+    {
+      "new_chunk_id": "dots_all_20261013_ziwei_073_c019",
+      "candidate_sha256": "4a194db27480734ebef4d7409891a03234944bbde5603265b296478b4ce2ed22",
+      "frozen_validator": {
+        "validator_passed": true
+      },
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "source_quality_status": "eligible"
+    },
+    {
+      "new_chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "candidate_sha256": "425a52a2999885d75caacd52cbfe092c27209e437f1d24f71469a37ffc164f7b",
+      "frozen_validator": {
+        "validator_passed": true
+      },
+      "source_five_fields_exact": true,
+      "evidence_spans_exact": true,
+      "source_quality_status": "eligible"
+    }
+  ],
+  "rules": {
+    "SihuaMention": "schemas.py 382–399: star is one registered star or null for unexpressed/unknown source star; no alternatives list/group.",
+    "RelationParticipant": "semantic_models.py 46–59: one entity_type/name/role/location; RelationMention has no OR operator/choice group.",
+    "placement_contract": "ziwei_vocabulary.yaml 2123–2126: star+palace roles; relation_entities palace registry does not register earthly-branch destinations as functional palaces.",
+    "source_conditions": "semantic_validation.py 227–228 requires original verbatim conditional string; 291–294 binds relation condition to evidence scope.",
+    "semantic_constraints": "CONTRACT domain object/condition binding; PENDING_DECISIONS D12/D13 do not combine unrelated records to establish a relation; QUALITY_REVISION_4 demands coverage/binding and source qualification independent of representability."
+  },
+  "reviewed_rule_hashes": {
+    "rules/CONTRACT.md": "f2e54fe3d6dc501b9ea937993f9db0f4fa81a797fa7ed15f8ac4b8c52dc57080",
+    "rules/PENDING_DECISIONS.md": "074a5437fc734cfcf5feed801b4a6d05d7ea5004905be76fd5426f39aa3af552",
+    "rules/QUALITY_REVISION_4.md": "9091c8f3e63c5a516ac9d14f2f1039801a155c6d4a32078fc4e52d5eab1377c2",
+    "rules/runtime/astrology_corpus/annotation/schemas.py": "1947095f69881ae76190430d401c01e5f242350f707a7b39bd2bf0da7187aade",
+    "rules/runtime/astrology_corpus/annotation/semantic_models.py": "70918976fed476f469875f1ae3c491c359371f073ece064a52573785e2355d3c",
+    "rules/runtime/astrology_corpus/annotation/semantic_validation.py": "1f12a189d463950974c557d38f14601ba5dd886dad353c50025757da43cbfcd3",
+    "rules/runtime/astrology_corpus/dictionaries/ziwei_vocabulary.yaml": "c6c1fb12c960cc0b0c1aa84bf98d23e006df9ae2be864a00c26ca6ed3d99c699"
+  },
+  "assessments": [
+    {
+      "chunk": "C014",
+      "gate_source": {
+        "standalone_c014_BLOCKED_file_present": false,
+        "actual_record_path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/batch010_014_review.json",
+        "actual_record_sha256": "7a96ea7f51f0c572dbf7ce71c4c0de1bc733972b94951444b438d35c8bde0ae7"
+      },
+      "evidence": {
+        "start": 330,
+        "end": 358,
+        "quote": "只要行限造成太陰或太陽化忌，會使子宮成為雙忌夾制的宮位時"
+      },
+      "expressible_facts": "Left helper in Life, right helper in Spouse/Xu; Ling/Huo flank Zi Life; Huo and Tian Tong share a palace; Tian Tong Hua Ji is explicitly asserted. Their source conditions and the case identity remain expressible.",
+      "typed_gap": "Additional Tai Yin OR Tai Yang Hua Ji is a named alternative transformation bearer, not an unnamed star. No frozen alternatives-bearing SihuaMention exists.",
+      "scope_conclusion": "Distinct invented scope IDs with the same full OR condition do not provide an exclusive/alternative link. A shortened condition such as 太陰 alone would omit the timing and double-Hua-Ji flanking prerequisite. No source-authored independent branch conditions were found in this chunk.",
+      "probe": {
+        "validator_passed": true
+      },
+      "probe_interpretation": "Two separately scoped positive objects can validate yet the structure does not encode OR; this is not an approved repair.",
+      "decision": "retain_specific_transformation_bearer_OR_hold",
+      "qualification": "limited remains appropriate for the truncated opening, not for schema difficulty. Keep the full usable conditional paragraph."
+    },
+    {
+      "chunk": "C019",
+      "gate_source": {
+        "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c019_BLOCKED.json",
+        "sha256": "d4097e1b9af394ee2d88951a47d59ddd12492ae9c469a64cf18675eceee16389"
+      },
+      "evidence": {
+        "start": 114,
+        "end": 150,
+        "quote": "若年干為陽時，天馬必定在寅宮或申宮，若年干為陰時，天馬一定在巳宮或亥宮。"
+      },
+      "expressible_facts": "Tian Ma mention, year-stem polarity in source prose, four-location terminology, and one explicit grand-cycle mention are preserved. The yang and yin rules have separate source-authored conditions, so they can remain separate prose/evidence scopes without adding facts.",
+      "typed_gap": "Within each of those two scopes the destination is still Yin OR Shen, or Si OR Hai. In addition, the registered palace participant type lacks earthly-branch location entities; inserting 寅宫 as a palace is rejected. This is not only an OR issue.",
+      "scope_conclusion": "Splitting source-authored yang versus yin scopes is legitimate, but does not resolve the two alternatives inside either scope. Cannot infer functional Life/Body/etc palace from an earthly branch.",
+      "probe": {
+        "validator_passed": false,
+        "error": "relation participant name/entity_type is not registered for this school"
+      },
+      "unsafe_workarounds": [
+        "Two destinations asserted simultaneously",
+        "Functional palace guessed to satisfy registry",
+        "同宫 used for a single Tian Ma placement",
+        "Unregistered raw target promoted to a registered palace"
+      ],
+      "decision": "retain_earthly_branch_entity_and_OR_target_hold",
+      "qualification": "eligible remains valid; no source damage supports a downgrade.",
+      "ordinary_fix": {
+        "field_path": "ziwei.stars_mentioned.1 evidence usage",
+        "current": "discussed",
+        "recommended": "mentioned",
+        "evidence": {
+          "start": 29,
+          "end": 39,
+          "quote": "在天機星部份曾經提過"
+        },
+        "reason": "Reference to another chapter is not discussion of Tian Ji in the current chunk."
+      }
+    },
+    {
+      "chunk": "C022",
+      "gate_source": {
+        "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s5_candidates/c022_BLOCKED.json",
+        "sha256": "a006ea8e59e658b94379af804b8e8a2041debcb2c640fa0389270ff15efe12fc"
+      },
+      "evidence": [
+        {
+          "start": 106,
+          "end": 120,
+          "quote": "若是武曲或貪狼任一星曜化祿時"
+        },
+        {
+          "start": 260,
+          "end": 274,
+          "quote": "若是武曲或貪狼任一星曜化忌時"
+        }
+      ],
+      "expressible_facts": "Wu Qu/Tan Lang same-palace source rule and metal/wood explanations can be preserved without inventing a new causal relation; summaries retain qualifications about benefics, toil, malefics and non-inevitable early death.",
+      "typed_gap": "The source independently introduces a Hua Lu rule and a Hua Ji rule, so these two rule scopes are separable. Within each, however, the transforming bearer is either Wu Qu or Tan Lang, not both. SihuaMention has a single star/null and no named choice set.",
+      "scope_conclusion": "Original Hua Lu versus Hua Ji rule scopes are legitimate. Creating Wu Qu-only and Tan Lang-only conditions not actually stated as independent clauses would require a new branch interpretation; null/not_mentioned would falsely deny the explicitly named candidates. A different null reason preserves uncertainty but still drops the candidate set.",
+      "probe": {
+        "validator_passed": true
+      },
+      "probe_interpretation": "Validator acceptance of two positive objects with copied OR condition does not establish faithful typed OR semantics.",
+      "decision": "retain_named_transformation_bearer_OR_hold",
+      "qualification": "eligible with OCR uncertainty noted remains supportable; do not downgrade merely to avoid the binding problem.",
+      "ordinary_fix": {
+        "field_path": "ziwei.stars_mentioned.2 evidence usage",
+        "current": "discussed",
+        "recommended": "mentioned",
+        "evidence": {
+          "start": 609,
+          "end": 618,
+          "quote": "在天機星部份曾提及"
+        },
+        "reason": "Only a cross-reference to Tian Ji chapter, not an analysis of Tian Ji itself here."
+      }
+    }
+  ],
+  "additional_nonblocking_review_notes": [
+    {
+      "chunk": "C014",
+      "note": "Tai Yin and Tai Yang star-name evidence is currently case-scoped although these names occur only within the timing conditional. Prefer binding these two mention entries to c14_or_timing with complete condition, so it is not confused with actually realized case transformations; this suggestion does not itself solve the bearer OR gap."
+    }
+  ],
+  "result": "retain_three_specific_representation_holds; return_two_cross_reference_usage_fixes; continue_expressible_work",
+  "safe_actions": [
+    "Preserve validated expressible drafts and their source eligibility.",
+    "Keep precise OR/target shortcomings in source-fact review reports without asserting simultaneous branches.",
+    "Continue independent unaffected chunks."
+  ],
+  "not_authorized": [
+    "schema or dictionary changes",
+    "artificial qualification downgrade",
+    "claim that validator success solves logical binding",
+    "transfer of old run blocker IDs to new run"
+  ],
+  "candidate_or_schema_modified": false,
+  "old_baseline_labels_read": false,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false
+}

@@ -1,0 +1,103 @@
+{
+  "review": "Independent C030/C034 frozen typed-contract assessment",
+  "created_utc": "2026-11-17T06:35:31.587649+00:00",
+  "records": [
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c030",
+      "candidate_sha256": "9b358678b5a84d19833399f6bb015e957a69d869510d715ebfc66f702ca1b1c2",
+      "source_five_fields_exact": true,
+      "all_evidence_spans_exact": true,
+      "frozen_validation": true,
+      "current_candidate_pending_author_revision": true
+    },
+    {
+      "chunk": "dots_all_20261013_ziwei_073_c034",
+      "candidate_sha256": "936838a00195121fd4b47c6d7730bec2ec193b11ffe71d40c29af504224eafda",
+      "source_five_fields_exact": true,
+      "all_evidence_spans_exact": true,
+      "frozen_validation": true,
+      "current_candidate_pending_author_revision": true
+    }
+  ],
+  "assessments": [
+    {
+      "chunk": "C034",
+      "decision": "specific_alternative_bearer_hold_and_ordinary_invalid_object_requires_isolation",
+      "issue_family": "alternative_transformation_bearer",
+      "evidence": [
+        {
+          "start": 233,
+          "end": 263,
+          "quote": "武曲或巨門化權時，除具備有化權的作用外，亦具有化祿的順暢作用"
+        }
+      ],
+      "ordinary_error": {
+        "field": "ziwei.sihua_mentioned.1",
+        "star": "巨门",
+        "scope": "c34_jumen",
+        "condition": "武曲或巨門化權時",
+        "problem": "The antecedent can be true with only Wu Qu Hua Quan. The stored positive Ju Men Hua Quan record is not bound to a Ju Men-specific condition. Distinct scope ID does not supply such a condition.",
+        "required_action": "Isolate/remove this unsupported conditional object in expressible draft, retain source/summary/mention and explicit hold. Reindex evidence after removal. Do not replace named alternatives with null/not_mentioned."
+      },
+      "expressible": "Separate explicit Wu Qu Life Palace/Geng-year Hua Quan, grand-cycle Hua Quan, registered placements, favorable prerequisites and unfavorable counterexample can remain. Generic Hua Lu is an effect analogy with unnamed star, not actual Hua Lu for Wu Qu or Ju Men.",
+      "branch_assessment": "No complete independent Ju Men-only conditional sentence appears in this chunk. Taking bare suffix 巨門化權時 out of the OR phrase would not meet the requested complete-source-branch test. Duplicating original mixed OR onto two objects passes neither semantic binding nor this independent review.",
+      "eligibility": "eligible; do not downgrade because of representation",
+      "bilingual": "Summaries preserve effect analogy, positive/negative premises. Future copyediting may use either rather than and to make alternation explicit, but no false claim of actual Hua Lu is currently made."
+    },
+    {
+      "chunk": "C030",
+      "decision": "new_specific_alternative_functional_palace_hold; independently_conditioned_other_palaces_are_expressible",
+      "issue_family": "rule_alternative_functional_palace_binding",
+      "evidence": [
+        {
+          "start": 32,
+          "end": 59,
+          "quote": "此時不論酉宮為財帛宮或福德宮或田宅宮，皆以不利於財論。"
+        }
+      ],
+      "gap": "Wealth/Fortune/Property are all registered functional palaces, but source treats them as alternative classifications of the same You location under the Chart8 Ji configuration. Current palace tags and prose do not encode that same-rule choice. No three independent full source conditions for those three palace branches occur here.",
+      "not_a_missing_entity_type": "Unlike C019 earthly-branch destination hold, these functional palaces are registered. The missing capability is their alternative binding, not vocabulary registration.",
+      "expressible": "Chart8 Ren-year Wu Qu Hua Ji with Qi Sha/Huo Xing at You, Chart9 Ji-year Hua Lu, and Chart8 JiYou grand-cycle Lu are already separate case/time records. Independent conditional Migration, Career, Health and Life branches have source-authored clauses and need not wait for grouped three-palace OR resolution.",
+      "independent_branch_examples": [
+        {
+          "start": 59,
+          "end": 82,
+          "quote": "若為遷移宮，則不但不利於外，亦不利於人際關係。"
+        },
+        {
+          "start": 82,
+          "end": 97,
+          "quote": "若為事業宮，則以不利於事業論。"
+        },
+        {
+          "start": 113,
+          "end": 150,
+          "quote": "若為疾厄宮，則代表肺經方面的健康易有問題（請見後面武曲在疾病的相關解說）。"
+        },
+        {
+          "start": 150,
+          "end": 170,
+          "quote": "若為命宮，此時不獨不利於財及親情人際關係"
+        }
+      ],
+      "safe_branch_method": "For each independently stated 若為 branch, retain the exact branch antecedent in a distinct conditional scope and include the explicit Chart8 preceding sentence as contextual evidence. Clearly bind subject to Chart8 You configuration; do not make an unconditional real-chart placement or attach this scope to Chart9. Registered 星曜入宫 may express named star/functional-palace placement under that hypothetical. These are proposed ordinary coverage additions requiring authoring and independent review, not completed additions. Generic 六親宮位 is not permission to invent a specific kin palace.",
+      "ordinary_findings": "Current tiangan on c30_jiyou remains null despite explicit 己酉限; parent ordinary reviewer requested correction or justified ambiguity. content_type currently concept despite examples dominating: ordinary reviewer requests case analysis or rationale. Neither is a schema hold.",
+      "eligibility": "limited due genuinely broken GuiYou ending and mixed diagram. The full grouped OR sentence and independent branch clauses remain usable; their quality must not be downgraded to evade coverage."
+    }
+  ],
+  "consulted_reports": {
+    "preparation/s5_candidates/INDEPENDENT_REVIEW_C025_C034_V1.json": "874cd497bf728b2b27c057c90bb5f7ae5c001d2864f02f1691ed2287cebd5141",
+    "preparation/s5_candidates/INDEPENDENT_CONTRACT_REVIEW_C029_C031_C035_V1.json": "86e8d7d397442dd79a189b6291fb60146efb644ed0e94029d77ce51b3864f90e"
+  },
+  "rules_reference": {
+    "SihuaMention": "schemas.py 382–399: star is one registered star or null for unexpressed/unknown source star; no alternatives list/group.",
+    "RelationParticipant": "semantic_models.py 46–59: one entity_type/name/role/location; RelationMention has no OR operator/choice group.",
+    "placement_contract": "ziwei_vocabulary.yaml 2123–2126: star+palace roles; relation_entities palace registry does not register earthly-branch destinations as functional palaces.",
+    "source_conditions": "semantic_validation.py 227–228 requires original verbatim conditional string; 291–294 binds relation condition to evidence scope.",
+    "semantic_constraints": "CONTRACT domain object/condition binding; PENDING_DECISIONS D12/D13 do not combine unrelated records to establish a relation; QUALITY_REVISION_4 demands coverage/binding and source qualification independent of representability."
+  },
+  "no_candidate_or_schema_modified": true,
+  "whole_source_S5_S6_passed": false,
+  "human_acceptance": false,
+  "register_update": "V1 unchanged. V2 awaits stable author-revised hashes; report explicitly binds current pre-repair candidates."
+}

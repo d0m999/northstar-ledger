@@ -1,0 +1,1304 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c024",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    48,
+    49
+  ],
+  "chunk_text": "前曾提及，大限坐入太歲宮位時，對該宮位吉凶均有加重現象。不僅如此，凡命宮坐入太歲宮位者，亦是如此。例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用。故武貪在丑坐命，對己年生人皆以吉論，但其中又以己丑年生人因太歲宮位在丑，就較其他己年（如己亥或己卯）來得佳。同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位，不僅如此，當貪狼化忌時，武曲金就來剋貪狼木，而擎羊也跟著來逞凶。故武貪在丑坐命，對癸年生人皆以凶論，但其中又以癸丑年生人因太歲宮位在丑，就較其他癸年（如癸卯或癸亥）生人來得更凶。\n職是之故，命宮與太歲宮位同宮者，吉者更吉，凶者更凶。並非如先賢所言，當武曲在辰戌丑未坐命，就喜歡出生年支為辰戌丑未的人，此時仍須視該宮位的吉凶而定。（註八）在結束本章節之前，有一點必須特別注意，即賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是（請見前面的說明）。若是如盤七的情形時，即武曲在辰坐命有火星同踞，此時雖多少有前述武曲貪狼加火星主「大富貴」的作用，但因武曲火星為「寡宿」，除非是在會多吉星且行限佳之下，否則只要武曲或貪狼或廉貞任一化忌，\n\n陀羅七紫殺微己巳事業祿存庚午僕役擎羊辛未遷移天鉞壬申 疾厄天天梁機科戊辰田宅天相丁卯 福德合己年月日水\n\n時局破廉軍貞癸酉財帛甲戌子女巨太門陽丙寅 父母食武狼曲權祿丁丑 命宮天魁太天陰同丙子 兄弟天府乙亥 夫妻盤五武食在丑坐命，己年生人，因武曲化祿，使得武曲金能制貪狼木，故以吉論，但己丑年生人因太歲宮位在丑，就較其他己年生人來得佳。",
+  "chunk_index": 24,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "以武贪丑命比较己、癸年生人：己年武曲化禄、贪狼化权入命而制煞为用，己丑较其他己年更吉；癸年贪狼化忌与擎羊同踞，癸丑较其他癸年更凶。命宫与出生太岁宫重合是吉凶加重，并非四库生年一律吉。作者重申火星与贪狼同宫才符所论火贪条件。盘七残句及混排不用于推断，盘五说明「武食」疑字保留。",
+  "summary_en": "Two Chou Life Palace examples compare Ji-year and Gui-year births with Military Melody and Greedy Wolf. In Ji years, Military Melody has Prosperity and Greedy Wolf Authority Transformation in Life; the strengthened palace harnesses malefics. Ji Chou is more favorable than other Ji years. In Gui years, Greedy Wolf has Obstruction Transformation and shares the placement with Ram Blade; Gui Chou is worse than other Gui years. Coincidence with the birth-year Tai Sui palace amplifies existing good or bad conditions, not universal good fortune for Storehouse-year births. The author specifies Fire Star with Greedy Wolf in the same palace. An unfinished Chart Seven condition and OCR-mixed diagram are excluded; Chart Five’s Wu Shi wording remains uncertain.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "己年",
+    "癸年",
+    "化禄",
+    "化权",
+    "化忌",
+    "太岁宫位",
+    "擎羊",
+    "火贪"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Greedy Wolf",
+    "Ji-year birth",
+    "Gui-year birth",
+    "Prosperity Transformation",
+    "Authority Transformation",
+    "Obstruction Transformation",
+    "Tai Sui palace",
+    "Ram Blade",
+    "Huo Tan"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 78,
+          "quote": "武曲化祿並貪狼化權入命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 297,
+          "end": 317,
+          "quote": "命宮與太歲宮位同宮者，吉者更吉，凶者更凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 412,
+          "end": 426,
+          "quote": "係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 189,
+          "quote": "貪狼化忌並擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 308,
+          "end": 317,
+          "quote": "吉者更吉，凶者更凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 406,
+          "end": 410,
+          "quote": "主大富貴"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 78,
+          "quote": "武曲化祿並貪狼化權入命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 78,
+          "quote": "武曲化祿並貪狼化權入命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 189,
+          "quote": "貪狼化忌並擎羊同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 414,
+          "end": 423,
+          "quote": "火星與貪狼同宮坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 90,
+          "end": 94,
+          "quote": "命宮強旺"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 95,
+          "end": 100,
+          "quote": "三方的羊陀"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 9,
+          "end": 13,
+          "quote": "太歲宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 637,
+          "end": 639,
+          "quote": "武食"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "ji_colocation",
+        "kind": "conditional",
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "ji_武曲",
+        "kind": "conditional",
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "ji_贪狼",
+        "kind": "conditional",
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "gui_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.source_palace",
+      "scope": {
+        "scope_id": "gui_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.target_palace",
+      "scope": {
+        "scope_id": "gui_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "gui_colocation",
+        "kind": "conditional",
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "gui_武曲",
+        "kind": "conditional",
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "gui_贪狼",
+        "kind": "conditional",
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "gui_擎羊",
+        "kind": "conditional",
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 201,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "huotan_clarification",
+        "kind": "conditional",
+        "condition": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 390,
+          "end": 426,
+          "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "huotan_name",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 390,
+          "end": 426,
+          "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.formation_status",
+      "scope": {
+        "scope_id": "huotan_name",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 390,
+          "end": 426,
+          "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.evidence",
+      "scope": {
+        "scope_id": "huotan_name",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 390,
+          "end": 426,
+          "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "grand_cycle_rule",
+        "kind": "conditional",
+        "condition": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 27,
+          "quote": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "grand_cycle_rule",
+        "kind": "conditional",
+        "condition": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 27,
+          "quote": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "grand_cycle_rule",
+        "kind": "conditional",
+        "condition": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 5,
+          "end": 27,
+          "quote": "大限坐入太歲宮位時，對該宮位吉凶均有加重現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "ji_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 49,
+          "end": 106,
+          "quote": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.9",
+      "scope": {
+        "scope_id": "gui_example",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 161,
+          "end": 233,
+          "quote": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位，不僅如此，當貪狼化忌時，武曲金就來剋貪狼木，而擎羊也跟著來逞凶"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 390,
+          "end": 426,
+          "quote": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "盘七条件句断于任一化忌后无结果，随后排盘混排，不纳入可用证据；保留前面完整规则/两例及盘五可读说明。盘五「武食」疑字不暗改。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 436,
+        "quote": "前曾提及，大限坐入太歲宮位時，對該宮位吉凶均有加重現象。不僅如此，凡命宮坐入太歲宮位者，亦是如此。例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用。故武貪在丑坐命，對己年生人皆以吉論，但其中又以己丑年生人因太歲宮位在丑，就較其他己年（如己亥或己卯）來得佳。同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位，不僅如此，當貪狼化忌時，武曲金就來剋貪狼木，而擎羊也跟著來逞凶。故武貪在丑坐命，對癸年生人皆以凶論，但其中又以癸丑年生人因太歲宮位在丑，就較其他癸年（如癸卯或癸亥）生人來得更凶。\n職是之故，命宮與太歲宮位同宮者，吉者更吉，凶者更凶。並非如先賢所言，當武曲在辰戌丑未坐命，就喜歡出生年支為辰戌丑未的人，此時仍須視該宮位的吉凶而定。（註八）在結束本章節之前，有一點必須特別注意，即賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是（請見前面的說明）。"
+      },
+      {
+        "start": 635,
+        "end": 697,
+        "quote": "盤五武食在丑坐命，己年生人，因武曲化祿，使得武曲金能制貪狼木，故以吉論，但己丑年生人因太歲宮位在丑，就較其他己年生人來得佳。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "宫位变化",
+      "格局解析",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "命运总论",
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "ji_colocation",
+        "negated": false,
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "ji_武曲",
+        "negated": false,
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "ji_贪狼",
+        "negated": false,
+        "condition": "例如武貪在丑坐命，己年生人（盤五），武曲化祿並貪狼化權入命，武曲金來制貪狼木，由於命宮強旺，三方的羊陀就被制煞為用"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "gui_colocation",
+        "negated": false,
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "gui_武曲",
+        "negated": false,
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "gui_贪狼",
+        "negated": false,
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "gui_擎羊",
+        "negated": false,
+        "condition": "同樣是武貪在丑坐命，癸年生人（盤六），貪狼化忌並擎羊同踞，丑宮就成為忌煞交沖宮位"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "huotan_clarification",
+        "negated": false,
+        "condition": "賦文中所說的「若火貪同度或對照，主大富貴」，係指火星與貪狼同宮坐守時始是"
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "affected_counterpart",
+            "location": null
+          }
+        ],
+        "scope_id": "ji_example",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "transformed_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "interacting_star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "interacting_star",
+            "location": null
+          }
+        ],
+        "scope_id": "gui_example",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "太歲宮位",
+        "proposed_category": "palace",
+        "reason": "此处出生太岁宫位非流年星/流年时间，不据太岁字面自动映射",
+        "english_surface": "Tai Sui Gong Wei",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武食",
+        "proposed_category": "ocr_uncertain",
+        "reason": "盘五说明疑字；不以猜测复原星名",
+        "english_surface": "Wu Shi",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "grand_cycle_rule",
+        "subject": "大限",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "擎羊",
+      "火星"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化禄",
+        "tiangan": "己",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "ji_example"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化权",
+        "tiangan": "己",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "ji_example"
+      },
+      {
+        "star": "贪狼",
+        "transformation": "化忌",
+        "tiangan": "癸",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "gui_example"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "火贪格",
+        "formation_status": null,
+        "evidence": null
+      }
+    ],
+    "star_pairs_mentioned": [
+      "擎羊陀罗"
+    ],
+    "school_variant": null,
+    "time_context": "大限",
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

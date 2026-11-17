@@ -1,0 +1,199 @@
+{
+  "task": "Z073 S5 pilot C015–C019 in current 293 chunk run",
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "lineage_sha256": "0fe80139ba7b57026c92867cc86603a807c14ae6c8898b37e7ffc01e1e8f058e",
+  "S4_sha256": "3492b0e5d8129d0ae7831cb3d7e977fcd7fac2a26095efa90ea7d84ba8cde458",
+  "old_labels_read": false,
+  "old_candidates_read": false,
+  "formal_05_written": false,
+  "validation": "all five validate -> model_dump(mode=json) -> validate passed",
+  "candidate_count": 4,
+  "blocked_with_draft_count": 1,
+  "reviews": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "candidate_sha256": "d0ce324982b00b037f72437cdffdebe02cba9e1d8a068f79fe16fa0a9ede4723",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed_draft_fields",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "林太太夫妻经历、丙戌与乙酉两限、化禄/忌、缓和条件与己丑配偶均覆盖；暴力是原案例记述，不以命理正当化。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "天同化禄/先天天同化忌分scope；廉贞化忌在大限夫妻宫而非被影响命宫，不填飞出飞入；双禄夹辅绑定命宫；火铃与太阳天同的具体两两同宫配对未明，不推定。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "明确丙戌、乙酉大限和先天三对象时间，兼容标量null/multiple_values；1975结婚和1949出生不推流年盘；太岁出生宫不误归流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "案例分析，原叙事完整但不新增实际命盘信息。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文含1975/1949、两限、天同太阳禄/廉贞太阴天同忌、火铃与太岁及缓和OR条件。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "eligible，全部文字可读；原文不同时间层的天同禄忌保留，不以外部排盘纠正。"
+        }
+      },
+      "remaining_questions": [
+        "需独立复核条件scope和非空领域值证据，结构校验不证明语义完整。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c016",
+      "candidate_sha256": "2abcea272f1c9a2f0cafd6e458e6cf863ea2a22ca4354fc918f639e222850995",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed_draft_fields",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "来源注释、破相延年、孤寡孤克及年龄例外完整覆盖；出版年份不进入时间模型。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "羊陀火铃四煞为原集合术语，不扩为单独入命事实；太阳仅章节提及；概念年龄不是实际死亡事件。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "三十/六十仅概数人生阶段，无冻结周期时间，null/not_mentioned。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释含书目来源，不伪装具体案例；保留古代健康观点属性。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文保留三十/六十、亲子与配偶区别、社会环境和寿命条件。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "eligible，引用题名天妻宮等源异文不静默修补；S1书名纠正有原文同引用证据。"
+        }
+      },
+      "remaining_questions": [
+        "需独立复核条件scope和非空领域值证据，结构校验不证明语义完整。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c017",
+      "candidate_sha256": "1b7266d3c9715fce26c66030fddf9a0bf3768d9f1dc180a817d7ac4740be02d0",
+      "retrieval_eligibility": "limited",
+      "structural_validation": "passed_draft_fields",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "武府土金、性格寿命条件、癸年禄存命例及图说完整可用部分覆盖；不从不可读图表生成四化。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武曲天府同宫条件子午保留在同记录scope；癸年例三颗星同命宫有明确句据；子午不是同时两命宫。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "癸出生年不推大限或流年盘，先天健康提及不当作另一个时间周期对象。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释为主，含理论命盘演示；非实际人物案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文含武曲天府禄存、癸年子命、吉煞遗传条件和不保证寿命。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "limited只排除命盘混排跨度；正文论述与完整图说两段可用，全部evidence落可用区间，不截条件。每立番考单列OCR候选。"
+        }
+      },
+      "remaining_questions": [
+        "需独立复核条件scope和非空领域值证据，结构校验不证明语义完整。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c018",
+      "candidate_sha256": "daf56a62400bb49abf028faa4137a349cf1ba04707305bd1b7298b9aa6efb5ec",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed_draft_fields",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "壬年反例及禄存吉化对照、性格健康财利、不能断早夭全部覆盖。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武曲化忌及擎羊同命明确；化忌承载命宫而非作用对象代填；土生金为作者机制保留原文不发明四化作用关系。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "出生壬年未明周期时间，time_context=null；不默认本命盘。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释含假设壬年例，conditional scope不冒充真人。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文含壬年武曲化忌/擎羊同命、财帛田宅、不能推早夭限制。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "eligible完整可读。健康/寿命为作者论断，不作为医学事实。"
+        }
+      },
+      "remaining_questions": [
+        "需独立复核条件scope和非空领域值证据，结构校验不证明语义完整。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c019",
+      "candidate_sha256": "f2b22c417709d0cc07a0e12bc68016106ec1938afd085280825a9a71ec5ed99d",
+      "retrieval_eligibility": "eligible",
+      "structural_validation": "passed_draft_fields",
+      "annotation_status": "blocked_structured_branch_placement",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "禄马富有/异乡、四生四马、天马四宫择一及阴阳干两组OR均保留正文和双语；结构星曜入地支宫表达另隔离。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "不把寅或申、巳或亥改成同时成立或同宫；地支宫无注册relation实体，尚缺合法结构表达。禄马不凭常识硬指定禄存。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "大限只在原引文条件对象中提及，单值与time_mentions同scope；不推大限盘或把身命OR断作同宫。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "概念解释/排盘规则，非命例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "英文完整保留阳寅或申、阴巳或亥、仅一个、身命或大限条件。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "eligible真实原文完整，结构阻塞不以降为limited/archive逃避。"
+        }
+      },
+      "remaining_questions": [
+        "需独立复核条件scope和非空领域值证据，结构校验不证明语义完整。"
+      ]
+    }
+  ],
+  "validation_logs": [
+    "batch015_019_validation_attempt1.json",
+    "batch015_019_validation_attempt2.json"
+  ],
+  "scope": "Not full S5 completion or independent semantic acceptance"
+}

@@ -1,0 +1,684 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c054",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    83,
+    84,
+    85
+  ],
+  "chunk_text": "命例-武破在亥堂命癸年生人為增進讀者對「武曲文星於身命」的命理現象，有更進一步的認識，茲舉武破在亥陷宮守命加會昌曲者為例，做一說明。\n武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞，若是未時生人，則有文曲入命並得文昌三合來會照（盤十七）。\n\n天同武曲破軍祿文曲命宮兄弟夫妻申 子女亥酉壬戌陀羅癸辛庚太陽科七廉殺貞合癸年月日未時祿存子父母未財帛甲己造成不按牌理出牌，随興所致，想怎麽做就怎麽做，浮誇不實，故一單武破在亥陷宮坐會昌曲，癸年生人，由於自我意識很強，馊主意多，易天府天梁子起伏大，限運好時則發，不好時則敗。\n丑福德午疾厄\n\n局水乙擎羊地劫戊天相巨門陰機太天狼微食紫忌天鉞魁昌天文盤十七退移寅田宅卯事業辰僕役甲乙丙丁巳地空\n\n",
+  "chunk_index": 54,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "以武曲破军亥位陷宫守命、加会昌曲为例。可读说明称癸年生人破军与陀罗同踞；若未时生，则文曲入命、文昌三合会照。标题疑字与后部乱序排盘保留，不从图中字推四化或从乱序句推出人生结论。",
+  "summary_en": "The readable introduction presents Military Melody with Army Breaker in a fallen Hai Life Palace, meeting literary stars. For a Gui-year birth, Army Breaker and Spinning Top share the placement. If born in the Wei hour, Literary Music occupies Life and Literary Star supports it through a trine. The heading contains an uncertain character. Subsequent OCR-mixed chart material and disordered commentary are excluded; no transformation or life outcome is inferred from them.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "陀罗",
+    "文曲",
+    "文昌",
+    "亥命",
+    "癸年",
+    "未时",
+    "盘十七"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Army Breaker",
+    "Spinning Top",
+    "Literary Music",
+    "Literary Star",
+    "Hai Life Palace",
+    "Gui-year birth",
+    "Wei birth hour",
+    "Chart Seventeen"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 27,
+          "quote": "武曲文星於身命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 75,
+          "quote": "武破在亥陷宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 111,
+          "quote": "文曲入命並得文昌三合來會照"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 24,
+          "quote": "武曲文星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 81,
+          "end": 88,
+          "quote": "破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 81,
+          "end": 88,
+          "quote": "破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 102,
+          "quote": "文曲入命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 104,
+          "end": 108,
+          "quote": "文昌三合"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 98,
+          "end": 102,
+          "quote": "文曲入命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 75,
+          "quote": "武破在亥陷宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "gui_hai",
+        "kind": "conditional",
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 88,
+          "quote": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "hai_武曲",
+        "kind": "conditional",
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 88,
+          "quote": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "hai_破军",
+        "kind": "conditional",
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 88,
+          "quote": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "hai_陀罗",
+        "kind": "conditional",
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 88,
+          "quote": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "wei_birth",
+        "kind": "conditional",
+        "condition": "若是未時生人，則有文曲入命並得文昌三合來會照",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 67,
+          "end": 116,
+          "quote": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞，若是未時生人，則有文曲入命並得文昌三合來會照（盤十七）"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 27,
+          "quote": "武曲文星於身命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 7,
+          "end": 9,
+          "quote": "堂命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 108,
+          "quote": "三合"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "只使用开头两段完整说明；标题堂命疑字保留。后部命盘与解释乱序，未从混排提取化禄、星位或命运结论。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 117,
+        "quote": "命例-武破在亥堂命癸年生人為增進讀者對「武曲文星於身命」的命理現象，有更進一步的認識，茲舉武破在亥陷宮守命加會昌曲者為例，做一說明。\n武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞，若是未時生人，則有文曲入命並得文昌三合來會照（盤十七）。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "对星组合",
+      "宫位变化"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "gui_hai",
+        "negated": false,
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_武曲",
+        "negated": false,
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_破军",
+        "negated": false,
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_陀罗",
+        "negated": false,
+        "condition": "武破在亥陷宮坐命，癸年生人，破軍並陀羅同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "文曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "wei_birth",
+        "negated": false,
+        "condition": "若是未時生人，則有文曲入命並得文昌三合來會照"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "武曲文星於身命",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Wen Xing Yu Shen Ming",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "堂命",
+        "proposed_category": "ocr_uncertain",
+        "reason": "标题疑字不校改，不作为守命依据；正文另有明确守命/坐命",
+        "english_surface": "Tang Ming",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "三合",
+        "proposed_category": "relation",
+        "reason": "明确文昌三合会照，不改成同宫、对宫或假称三方四正方法",
+        "english_surface": "San He",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "陀罗",
+      "文曲",
+      "文昌"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": [
+      "武破同宫"
+    ]
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

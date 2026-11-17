@@ -1,0 +1,577 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c044",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    71,
+    72
+  ],
+  "chunk_text": "就斗數命盤而言，武曲破軍僅在巳亥二宮同坐，此為「雙星」殺破狼組合。在上文中已提及，殺破狼主動、主開創，而「雙星」殺破狼不但比「單星」殺破狼動得厲害，且其開創作用亦比「單星」殺破狼強。但不論是「單星」殺破狼或「雙星」殺破狼，均喜得會左右或祿存同坐來增穩。當同為將星的武曲與破軍同宮坐守時，開創作用非常強，除非是在會多吉星（尤其是左右及祿存）下，否則做事雖然很有衝勁，也因衝勁有餘，而穩定不足，故常有能攻不能守現象，再加上個性剛硬，兼之自我意識又強，易有我行我素，不會考慮別人的立場或感受，造成與人相處易有寡合現象，因此與他人也易有是非發生。\n不惟如此，上述武破的不利行事的作用，表現在求財上，自然也不利於求財。特別是武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星，此人不但賭性堅強（或說是投機心很強），為求財會無所不用其極，但因此時所呈現出武破的賦性幾乎只有負面作用，也就不利於求財。故武破坐命者，若是會吉少而會煞多，此人一輩子起伏大，限逢好時則發，不好時則敗。\n由於武曲破軍在命理上均帶有刑剋作用，故當此二星同宮坐守時，會更加凸顯出此方面的作用，特別是坐會有羊陀火鈴時，往往相當不利於親情，但是否會如古傳賦文所說的「破祖喪家」，則須視實際的星曜組合及個別差異（即須輸入父母的生年資料）而定。（「破祖」是給人領養、或不依祖業之意。）也因為上述武破的刑剋作用，故古人認為武破坐命者，因六親情緣較差，往往得不到祖蔭庇護。而在老祖宗時代，職業工作通常是父業子承，當一個人得不到上一代的庇蔭時，恐怕只有離鄉背井，才能有所發展。而現今社會結構不同，就不一定是如此。況且一個人出外能否有發展，必須將命宮與遷移宮合併來論，卻不能單憑命宮的好壞就決定之。至於先賢所說的「巧藝立身之人」，此乃因命身宮會多煞星者，較宜從事技術相關的行業，並不限於武破組合的人才是如此。",
+  "chunk_index": 44,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "武曲破军同坐巳亥为双星杀破狼，开创强但宜左右或禄存增稳。少吉多煞时可能冲动投机、求财起伏及亲情不利；是否破祖丧家须合星曜与父母生年差异，不能照古语一概断定。现代离乡发展须合命迁两宫，技术谋生也不限武破组合。",
+  "summary_en": "Wu Qu and Po Jun share Si or Hai as a double-star Sha Po Lang configuration. Strong initiative needs Left-Right support or co-located Lu Cun for stability. Few benefics and many harmful stars may bring impulsiveness, speculation, financial swings and family difficulties. Whether family disruption occurs depends on the actual stars and individual parental birth-year differences. Modern opportunities do not necessarily require leaving home; the Life and Travel Palaces must be assessed together. Technical livelihoods under heavy affliction are not exclusive to Wu Qu–Po Jun.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "会吉会煞",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Po Jun",
+    "benefics and malefics",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c044_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c044_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c044_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 8,
+          "end": 10,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c044_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 10,
+          "end": 12,
+          "quote": "破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c044_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 118,
+          "end": 120,
+          "quote": "祿存"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c044_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 691,
+          "end": 697,
+          "quote": "命宮與遷移宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c044_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 694,
+          "end": 697,
+          "quote": "遷移宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c044_palaces_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 736,
+          "end": 739,
+          "quote": "命身宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c044_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 127,
+          "end": 137,
+          "quote": "同為將星的武曲與破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c044_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 8,
+          "end": 20,
+          "quote": "武曲破軍僅在巳亥二宮同坐"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "c044_knowledge_domains2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 688,
+          "end": 701,
+          "quote": "必須將命宮與遷移宮合併來論"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c044_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 298,
+          "end": 303,
+          "quote": "不利於求財"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c044_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 245,
+          "end": 255,
+          "quote": "與人相處易有寡合現象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "c044_topics_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 747,
+          "end": 756,
+          "quote": "從事技術相關的行業"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.3",
+      "scope": {
+        "scope_id": "c044_topics_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 645,
+          "end": 656,
+          "quote": "離鄉背井，才能有所發展"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relationship_types_mentioned.0",
+      "scope": {
+        "scope_id": "c044_relationship_types_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 530,
+          "end": 540,
+          "quote": "須輸入父母的生年資料"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c044_wu_po_rule",
+        "kind": "conditional",
+        "condition": "武曲破軍僅在巳亥二宮同坐",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 8,
+          "end": 20,
+          "quote": "武曲破軍僅在巳亥二宮同坐"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c044_afflicted_placement",
+        "kind": "conditional",
+        "condition": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 307,
+          "end": 329,
+          "quote": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c044_afflicted_placement",
+        "kind": "conditional",
+        "condition": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 307,
+          "end": 329,
+          "quote": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c044_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30,
+          "quote": "殺破狼"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c044_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 115,
+          "end": 117,
+          "quote": "左右"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c044_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 322,
+          "end": 326,
+          "quote": "羊陀火鈴"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c044_term3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 129,
+          "end": 131,
+          "quote": "將星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "c044_term4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 507,
+          "end": 509,
+          "quote": "破祖"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c044_wu_po_rule",
+        "condition": "武曲破軍僅在巳亥二宮同坐",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c044_afflicted_placement",
+        "condition": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c044_afflicted_placement",
+        "condition": "武破坐命不會吉星者，若是再會有羊陀火鈴諸煞星",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "殺破狼",
+        "proposed_category": "source_star_group",
+        "reason": "本文双星与单星对比，不将同名格局自动成格",
+        "english_surface": "Sha Po Lang group",
+        "scope_id": "c044_term0"
+      },
+      {
+        "surface": "左右",
+        "proposed_category": "source_star_pair",
+        "reason": "保留原双星简称，不从简称推其坐守位置",
+        "english_surface": "Zuo You",
+        "scope_id": "c044_term1"
+      },
+      {
+        "surface": "羊陀火鈴",
+        "proposed_category": "source_star_group",
+        "reason": "条件中会煞集合，不展开为同宫事实",
+        "english_surface": "Yang Tuo Huo Ling",
+        "scope_id": "c044_term2"
+      },
+      {
+        "surface": "將星",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲破军性质，不作同名小星",
+        "english_surface": "Jiang Xing epithet",
+        "scope_id": "c044_term3"
+      },
+      {
+        "surface": "破祖",
+        "proposed_category": "source_concept",
+        "reason": "本文解释为领养或不依祖业，保留OR与父母个别差异",
+        "english_surface": "Po Zu",
+        "scope_id": "c044_term4"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "禄存"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "迁移宫",
+      "身宫"
+    ],
+    "knowledge_domains": [
+      "星曜性质",
+      "对星组合",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系",
+      "事业运势",
+      "出行迁移"
+    ],
+    "relationship_types_mentioned": [
+      "亲子"
+    ]
+  }
+}

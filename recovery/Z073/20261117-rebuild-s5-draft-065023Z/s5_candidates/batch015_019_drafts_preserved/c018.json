@@ -1,0 +1,457 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c018",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    42
+  ],
+  "chunk_text": "更有甚者，祿存能使天府土來生武曲金，此時若再會有其他吉星，則此人就可能會較長壽。\n相反的，如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命，此時不但天府土無法來生武曲金（因武曲化忌故），更因擎羊的煞星作用，造成此人不但脾氣不好，且非常剛愎自用，因此與人相處易有寡合現象，遇事也無法平心靜氣，再加上命宮成為忌煞交沖宮位後，健康比較會有問題，雖不能因此就此斷定此人會早夭，但要長壽恐非易事。不僅如此，武曲與天府均主財，當武曲化忌又有擎羊同宮時，也相當不利於財。\n由於武曲天府均為財星，而有關財星喜「以財帛及田宅宮為廟樂之鄉」，在前已有解說，就不再覆述。至於賦文所說的「逢吉多而為福，遇煞多亦可作禍」，實不惟武曲如此，其他任一星曜均是如此。\n",
+  "chunk_index": 18,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者对照禄存及其他吉星使武府相生的情形，与壬年武曲化忌、擎羊同宫坐命的情形。后者被解释为性格刚愎、人际寡合、健康及财利不佳，但不能直接断早夭。财星喜财帛田宅及吉多为福、煞多作祸的原则也被说明并推广至其他星曜。",
+  "summary_en": "The author contrasts Lu Cun and other auspicious support for Tian Fu Earth producing Wu Qu Metal with a Ren-year example where Wu Qu Hua Ji and Qing Yang share the life palace. The latter is associated with obstinacy, isolation, health problems and financial adversity, but not a definite early death. Wealth stars favor the wealth and property palaces; the general contrast of auspicious support and harmful influences also applies to other stars.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "长寿条件"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tian Fu",
+    "conditional longevity"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c018_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c018_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c018_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 5,
+          "end": 7,
+          "quote": "祿存"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c018_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 9,
+          "end": 11,
+          "quote": "天府"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c018_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 14,
+          "end": 16,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c018_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 62,
+          "end": 64,
+          "quote": "擎羊"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c018_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 147,
+          "end": 149,
+          "quote": "命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c018_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 247,
+          "end": 253,
+          "quote": "財帛及田宅宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c018_palaces_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 250,
+          "end": 253,
+          "quote": "田宅宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c018_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 9,
+          "end": 17,
+          "quote": "天府土來生武曲金"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c018_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 57,
+          "end": 68,
+          "quote": "武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c018_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 159,
+          "end": 167,
+          "quote": "健康比較會有問題"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c018_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 123,
+          "end": 133,
+          "quote": "與人相處易有寡合現象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "c018_topics_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 220,
+          "end": 226,
+          "quote": "相當不利於財"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c018_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 57,
+          "end": 68,
+          "quote": "武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c018_ren",
+        "kind": "conditional",
+        "condition": "如果是壬年生人（盤四）",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 45,
+          "end": 68,
+          "quote": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c018_ren",
+        "kind": "conditional",
+        "condition": "如果是壬年生人（盤四）",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 45,
+          "end": 68,
+          "quote": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c018_ren",
+        "kind": "conditional",
+        "condition": "如果是壬年生人（盤四）",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 45,
+          "end": 68,
+          "quote": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c018_ren",
+        "kind": "conditional",
+        "condition": "如果是壬年生人（盤四）",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 45,
+          "end": 68,
+          "quote": "如果是壬年生人（盤四），武曲化忌並擎羊同宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c018_ren",
+        "condition": "如果是壬年生人（盤四）",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c018_ren",
+        "condition": "如果是壬年生人（盤四）",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "擎羊",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c018_ren",
+        "condition": "如果是壬年生人（盤四）",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "武曲",
+        "transformation": "化忌",
+        "tiangan": "壬",
+        "palace": "命宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c018_ren"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [],
+    "stars_mentioned": [
+      "禄存",
+      "天府",
+      "武曲",
+      "擎羊"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫",
+      "田宅宫"
+    ],
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "人际关系",
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ]
+  }
+}

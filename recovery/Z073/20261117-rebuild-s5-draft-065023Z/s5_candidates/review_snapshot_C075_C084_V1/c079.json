@@ -1,0 +1,711 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c079",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    104,
+    105
+  ],
+  "chunk_text": "至於先賢註解的後半段說明，即「此局如有貪狼同度，則不忌火星，且反作更吉論，不然即或得意，終因財生禍，兼有凶險，因火剋金也」，此係指武貪在丑未二宮同度又得火星坐入，或者是武曲在辰戌獨坐有火星同踞而對宮貪狼的情形。但不論何者，皆須視武曲與貪狼二星曜的生剋制化與會吉會煞多寡再作論斷，卻不能只因武貪同宮有火星同度，就「不忌火星，且反作更吉論」。有關此部份的命理作用，請參閱前面的相關解說。\n例如盤二十四的命例，武貪在丑坐命，火星同踞。若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉。反之，若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故，就有武曲金剋貪狼木之害，此時火星不僅無法和貪狼成為「火貪」吉格，且火星的煞害作用就被激發出來，除造成火剋金的的凶象外，金剋木的凶象也因之而加重，同時火星和武曲的「寡宿」凶格作用也會被引爆出來，此時不惟不利於財，前述「寡宿」凶格的作用，皆有可能會出現，非常凶。惟須注意的是，上述的討論係在不考慮其他的吉化下始是，若能會多吉星則不一定會如此不好。\n\n七紫殺微已事業午僕役未遷移申 疾厄天天梁機辰田宅天相卯 福德合年破廉軍貞酉財帛月日時局戌子女巨太門陽寅 父母火星贪武狼曲丑 命宮太天陰同子 兄弟天府亥夫妻盤二十四武食在丑坐命，火星同踞，此時的吉凶全視武曲食狼二星曜的生想制化與會吉會煞多寡而定，若會多吉星則以吉論，若會多煞星或呈忌煞交沖則以凶論。但卻不能只因武貪同宮有火星同度，就「不忌火星，且反作更吉論」。",
+  "chunk_index": 79,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "盘二十四武贪丑命火星同踞，作者反对见此组合就一概吉。戊己生年或戊己干大限下的贪狼或武曲化禄、壬癸生年或壬癸干大限下的武曲或贪狼化忌，涉及备选对象，不按常识补天干对应。吉化时火贪可成格；忌化时相克与寡宿凶象加重，但多吉可缓和。来源组合与OR保留，后图不重构。",
+  "summary_en": "Chart Twenty-Four has Military Melody and Greedy Wolf in Chou Life with Fire Star. The author rejects automatic favorable judgment. Wu/Ji births or corresponding stem cycles involve Greedy Wolf OR Military Melody Prosperity, whereas Ren/Gui births or cycles involve Military Melody OR Greedy Wolf Obstruction. No unstated stem-to-star mapping is supplied. Favorable transformation can form Huo Tan; adverse transformation intensifies elemental conflict and Gua Su effects, subject to mitigation by many benefics. The named alternatives remain unresolved structured objects, and the mixed chart is not reconstructed.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "火星",
+    "丑命",
+    "化禄",
+    "化忌",
+    "火贪格",
+    "寡宿",
+    "大限"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Greedy Wolf",
+    "Fire Star",
+    "Chou Life Palace",
+    "Prosperity Transformation",
+    "Obstruction Transformation",
+    "Huo Tan Ge",
+    "Gua Su",
+    "Grand Cycles"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 236,
+          "end": 246,
+          "quote": "因貪狼或武曲化祿之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 291,
+          "end": 293,
+          "quote": "火貪"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 202,
+          "end": 213,
+          "quote": "武貪在丑坐命，火星同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 436,
+          "end": 440,
+          "quote": "不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 114,
+          "end": 119,
+          "quote": "武曲與貪狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 114,
+          "end": 119,
+          "quote": "武曲與貪狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 80,
+          "quote": "火星坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 202,
+          "end": 208,
+          "quote": "武貪在丑坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "chart24",
+        "kind": "conditional",
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 192,
+          "end": 213,
+          "quote": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "chart24_武曲",
+        "kind": "conditional",
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 192,
+          "end": 213,
+          "quote": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "chart24_贪狼",
+        "kind": "conditional",
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 192,
+          "end": 213,
+          "quote": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "chart24_火星",
+        "kind": "conditional",
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 192,
+          "end": 213,
+          "quote": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "prosperity_alternatives",
+        "kind": "conditional",
+        "condition": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 214,
+          "end": 299,
+          "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "prosperity_alternatives",
+        "kind": "conditional",
+        "condition": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 214,
+          "end": 299,
+          "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "prosperity_alternatives",
+        "kind": "conditional",
+        "condition": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 214,
+          "end": 299,
+          "quote": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "obstruction_alternatives",
+        "kind": "conditional",
+        "condition": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 303,
+          "end": 335,
+          "quote": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.1.chart_type",
+      "scope": {
+        "scope_id": "obstruction_alternatives",
+        "kind": "conditional",
+        "condition": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 303,
+          "end": 335,
+          "quote": "若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 325,
+          "end": 347,
+          "quote": "因武曲或貪狼化忌之故，就有武曲金剋貪狼木之害"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 139,
+          "end": 168,
+          "quote": "卻不能只因武貪同宮有火星同度，就「不忌火星，且反作更吉論」"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 417,
+          "end": 419,
+          "quote": "寡宿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "完整前两段可用；后方排盘及武食/生想制化疑损caption不扩写。OR表达阻塞独立，不因其降资格。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 507,
+        "quote": "至於先賢註解的後半段說明，即「此局如有貪狼同度，則不忌火星，且反作更吉論，不然即或得意，終因財生禍，兼有凶險，因火剋金也」，此係指武貪在丑未二宮同度又得火星坐入，或者是武曲在辰戌獨坐有火星同踞而對宮貪狼的情形。但不論何者，皆須視武曲與貪狼二星曜的生剋制化與會吉會煞多寡再作論斷，卻不能只因武貪同宮有火星同度，就「不忌火星，且反作更吉論」。有關此部份的命理作用，請參閱前面的相關解說。\n例如盤二十四的命例，武貪在丑坐命，火星同踞。若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉。反之，若逢壬年或癸年生人，或是走到壬干或癸干大限，因武曲或貪狼化忌之故，就有武曲金剋貪狼木之害，此時火星不僅無法和貪狼成為「火貪」吉格，且火星的煞害作用就被激發出來，除造成火剋金的的凶象外，金剋木的凶象也因之而加重，同時火星和武曲的「寡宿」凶格作用也會被引爆出來，此時不惟不利於財，前述「寡宿」凶格的作用，皆有可能會出現，非常凶。惟須注意的是，上述的討論係在不考慮其他的吉化下始是，若能會多吉星則不一定會如此不好。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "chart24",
+        "negated": false,
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "chart24_武曲",
+        "negated": false,
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "chart24_贪狼",
+        "negated": false,
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "火星",
+            "role": "star",
+            "location": "丑"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "丑"
+          }
+        ],
+        "scope_id": "chart24_火星",
+        "negated": false,
+        "condition": "例如盤二十四的命例，武貪在丑坐命，火星同踞"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern",
+        "reason": "武曲火星凶格名称，不是同名小星",
+        "english_surface": "Gua Su",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "prosperity_alternatives",
+        "subject": "戊干或己干大限",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "scope_id": "obstruction_alternatives",
+        "subject": "壬干或癸干大限",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "火星"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "火贪格",
+        "formation_status": "成格",
+        "evidence": "若逢戊年或己年生人，或是走到戊干或己干大限，因貪狼或武曲化祿之故，則武曲貪狼有金制木的吉象（請參閱前面的相關解說），此時火星不但被制煞為用，更和貪狼成為「火貪」吉格，甚吉"
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

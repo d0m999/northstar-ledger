@@ -1,0 +1,691 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c052",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    81,
+    82
+  ],
+  "chunk_text": "在此必須要強調的是，「武曲文星於身命，文武兼備」的吉化作用，必須在武曲旺宮坐命始是。反之，若是武曲在陷宮坐命會昌曲，就不一定會是文武兼備，此時必須視其吉化程度而定。\n前已提及，武曲除在亥宮和破軍合為弱陷外，在其他地支宮位若不為旺宮，就是平宮。\n因此，在論及武曲坐守宮位的旺弱時，若是會煞多且會吉少，甚或不會吉時，縱使是在旺宮，其在命理作用仍以負面者居多，故此時就以陷宮來論。\n就斗數排盤的規則來看，武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入。斗數在論及一個人的命格時，必須以三方四正的星曜組合併論，故武曲坐命者，因其三合的紫微為帝王星兼且廉貞主「權令」的作用，整個命格的格局很大，此時若是會多吉星則佳，反之若是會多煞星且又會少吉星，甚或不會吉，就以弱陷論，因此行事作風會有大而不當的現象，恰如先賢所說的「虛誇不實」一般。\n再者，武曲五行屬陰金，金性「內聚」，且陰亦主「內斂」，故武曲坐命者，若是在會多吉星時，其人做事雖然很有衝勁，但個性卻較內斂，但若是在會多煞星時，反易有沉不住氣的性格表現。因此，當武曲在陷宮坐命見昌曲時，因前述沉不住氣的性格，遇事會急著表示自己的看法，再加上昌曲科星在聰明才智的作用，因此表現在行事作風上，會讓人覺得此人個性伶俐、反應快，但因星曜在陷宮時其賦性作用以負面者居多，故其人往往只有小聰明，做起事來卻易有浮誇不實的現象，此即先賢所說的「若在陷地，主為人靈俐，有巧藝急智，但虛誇不實」。至於「巧藝」二字，只要任一星曜（包含武曲在内）在會多煞星時，皆較宜從事和技藝有關的行業，若再會有昌曲二星曜，代表此人學習能力不錯，在技藝上自然就能有較好的表現，故以「巧藝」言之。\n有關註解中的「逢煞沖破，多是孤寡辛勞之人，此格不喜女命，因雖能幹，但多刑剋，外向」，除「外向」部份將於下加以解說外，其餘部份請參閱前面曾討論過的武曲坐命會多煞星的相關命理解說。\n",
+  "chunk_index": 52,
+  "school": "紫微",
+  "content_type": "实战断语",
+  "difficulty": "medium",
+  "summary": "武曲文星文武兼备须武曲旺宫坐命；多煞少吉使旺宫亦作陷论。作者以三方四正说明武曲命、紫微事业、廉贞财帛的组合，吉多则佳，煞多则虚夸。阴金内敛遇煞可急躁，昌曲才智在陷地可能流于小聪明；多煞较宜技艺，会昌曲学习力较佳。「科星」不等于化科。",
+  "summary_en": "The civil-and-martial ability claim requires Military Melody in a strong Life Palace; many malefics and little favorable support can make even a strong placement function as fallen. The author applies Three Directions and Four Cardinal Palaces to Military Melody in Life, Purple Star in Career and Chaste Star in Wealth. Favorable support helps, while malefic dominance can yield inflated behavior. Yin-metal reserve may become impatience under affliction; Chang Qu talent in fallen circumstances can manifest as superficial cleverness. Malefic-heavy configurations may suit technical crafts, with Chang Qu supporting learning. The term scholarly stars does not assert Merit Transformation.",
+  "keywords": [
+    "武曲",
+    "紫微",
+    "廉贞",
+    "昌曲",
+    "三方四正",
+    "命宫",
+    "事业宫",
+    "财帛宫",
+    "技艺"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Purple Star",
+    "Chaste Star",
+    "Chang Qu",
+    "Three Directions and Four Cardinal Palaces",
+    "Life Palace",
+    "Career Palace",
+    "Wealth Palace",
+    "technical crafts"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 371,
+          "end": 378,
+          "quote": "武曲五行屬陰金"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 11,
+          "end": 23,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 227,
+          "quote": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 647,
+          "end": 657,
+          "quote": "從事和技藝有關的行業"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 557,
+          "end": 581,
+          "quote": "其人往往只有小聰明，做起事來卻易有浮誇不實的現象"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 39,
+          "quote": "武曲旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 92,
+          "end": 97,
+          "quote": "亥宮和破軍"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 211,
+          "end": 215,
+          "quote": "紫微坐守"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 223,
+          "end": 227,
+          "quote": "廉貞坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 39,
+          "quote": "武曲旺宮坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 205,
+          "end": 208,
+          "quote": "事業宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 217,
+          "end": 220,
+          "quote": "財帛宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 228,
+          "end": 255,
+          "quote": "斗數在論及一個人的命格時，必須以三方四正的星曜組合併論"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 41,
+          "quote": "「武曲文星於身命，文武兼備」的吉化作用，必須在武曲旺宮坐命始是"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 55,
+          "end": 57,
+          "quote": "昌曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 11,
+          "end": 23,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "life_layout_武曲",
+        "kind": "conditional",
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 227,
+          "quote": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "life_layout_紫微",
+        "kind": "conditional",
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 227,
+          "quote": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "life_layout_廉贞",
+        "kind": "conditional",
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 199,
+          "end": 227,
+          "quote": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "hai_combination",
+        "kind": "conditional",
+        "condition": "武曲除在亥宮和破軍合為弱陷外",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 88,
+          "end": 102,
+          "quote": "武曲除在亥宮和破軍合為弱陷外"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "格局解析",
+      "宫位变化"
+    ],
+    "topics_mentioned": [
+      "事业运势",
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "三方四正",
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_layout_武曲",
+        "negated": false,
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "紫微",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "官禄宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_layout_紫微",
+        "negated": false,
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "life_layout_廉贞",
+        "negated": false,
+        "condition": "武曲坐命者其事業宮必定有紫微坐守，而財帛宮則必有廉貞坐入"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "亥"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star",
+            "location": "亥"
+          }
+        ],
+        "scope_id": "hai_combination",
+        "negated": false,
+        "condition": "武曲除在亥宮和破軍合為弱陷外"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "昌曲",
+        "proposed_category": "star_group",
+        "reason": "原文缩称，未据名称推同宫、化科或具体星位",
+        "english_surface": "Chang Qu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲文星於身命，文武兼備",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Wen Xing Yu Shen Ming Wen Wu Jian Bei",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "紫微",
+      "廉贞"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "官禄宫",
+      "财帛宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

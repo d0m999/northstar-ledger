@@ -1,0 +1,650 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c036",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    62,
+    63
+  ],
+  "chunk_text": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。例如此人走到丙申限，廉貞化忌引動先天的「財與囚仇」凶格的\n\n食狼巨門太陰府微天紫天魁天文鋮曲亥疾厄72-81戌遷移62-71酉僕役52-61申事業42-51戊丁己丙忌天機權相貞天廉巳男命丙年月日時未田宅32-21子財帛庚乙宮成為「財與囚仇」凶格，但是否能只因此就論斷此人一定會一輩子貧武曲在辰坐命，丙年生人，因應貞化忌不但造成命宮忌煞交沖，也使命天梁破軍午福德22-31丑 子女地空\n\n局水辛擎羊甲窮？若不是，則應做何推断？\n祿天同七殺太陽武曲2-11文昌科父母12-21-祿存盤十二命宮兄弟寅 夫妻羅劫陀地壬辰辛卯庚癸巳",
+  "chunk_index": 36,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "hard",
+  "summary": "盘十二以丙年武曲辰命、廉贞化忌在财帛子宫冲命、同宫天相及命宫陀罗地劫说明财与囚仇。作者认为求财辛劳，却不能据此断一生贫贱，凶象可能表现于健康或其他方面。后续未完行限句和混排命盘保留，不据其补断。",
+  "summary_en": "Chart Twelve places Wu Qu in the Chen Life Palace for a Bing-year birth. Lian Zhen Hua Ji in the Zi Wealth Palace, sharing with Tian Xiang, affects the Life Palace, where Tuo Luo and Di Jie also occur. The author calls this Cai Yu Qiu Chou and anticipates arduous earning, not necessarily lifelong poverty: adversity may concern health or other matters. The unfinished cycle statement and disordered chart are not reconstructed.",
+  "keywords": [
+    "财与囚仇",
+    "武曲",
+    "廉贞",
+    "四化",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Cai Yu Qiu Chou",
+    "Wu Qu",
+    "Lian Zhen",
+    "four transformations",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "盘十二后续大限句未完成且命盘混排，仅前部完整分析可用，不据缺文补结果。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 170,
+        "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c036_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c036_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c036_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 8,
+          "end": 10,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c036_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 20,
+          "end": 22,
+          "quote": "廉貞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c036_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 29,
+          "end": 31,
+          "quote": "天相"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c036_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 63,
+          "end": 65,
+          "quote": "陀羅"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c036_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 66,
+          "end": 68,
+          "quote": "地劫"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c036_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 48,
+          "end": 50,
+          "quote": "命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c036_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 39,
+          "end": 43,
+          "quote": "財帛子宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c036_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 20,
+          "end": 24,
+          "quote": "廉貞化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c036_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 51,
+          "end": 55,
+          "quote": "財與囚仇"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c036_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 120,
+          "end": 128,
+          "quote": "求財上會相當辛勞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c036_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 159,
+          "end": 169,
+          "quote": "健康或其他方面的問題"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c036_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 20,
+          "end": 45,
+          "quote": "廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c036_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 46,
+          "end": 56,
+          "quote": "造成命宮「財與囚仇」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c036_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 51,
+          "end": 55,
+          "quote": "財與囚仇"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c036_chart12",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 0,
+          "end": 170,
+          "quote": "如盤十二的命造，武曲在辰坐命，丙年生人，廉貞化忌（與同宮的天相水成水火相剋）自財帛子宮來沖，造成命宮「財與囚仇」，再加上命宮有陀羅及地劫同踞，因此命宮也成為忌煞交沖宮位，相當凶。由於武曲金被廉貞火來剋之後，自然不利於財，故可斷言此人一輩子在求財上會相當辛勞，但卻不能因此就論斷此人一定會一輩子貧賤，因命宮的凶象也可能是健康或其他方面的問題。"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "陀罗",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "地劫",
+            "role": "star",
+            "location": "辰"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "辰"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天相",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "财帛宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c036_chart12",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": "财帛宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c036_chart12"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "未注册来源格局，保留原名和命例条件",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c036_term0"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "廉贞",
+      "天相",
+      "陀罗",
+      "地劫"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫"
+    ],
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ]
+  }
+}

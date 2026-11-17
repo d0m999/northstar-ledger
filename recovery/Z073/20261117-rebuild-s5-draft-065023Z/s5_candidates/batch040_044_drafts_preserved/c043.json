@@ -1,0 +1,518 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c043",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    70,
+    71
+  ],
+  "chunk_text": "《全集，星垣論》云：「與破軍同度，破祖喪家而終身勞碌，必定無成。」古傳賦文在談到武曲與破軍的組合時，幾無好評。例如《全集，星垣論》除上述賦文外，另有武曲「與破軍同位，財到手而成空」之說，《全書，諸星問答論》則有武曲「若遇破軍同位，更臨二限之中，定主是非」、「武忌破軍同度」的敘述，而《全書，諸星在命身及十二宮吉凶要訣》除有武曲「與破軍同宮於巳亥，則難顯貴，且破祖破家而勞忙」的描述外，更進一步說明「武曲與破軍同宮於巳亥，穴小二限有一臨之，多主求財難遂，煞加則有是非之撓」。上述的各種說法，係針對武曲破軍同宮時而言，而先賢對於武破的組合則有更進一步的敘述如下：「若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人，終身多成敗、勞碌，不能得意，亦主孤剋。」破軍陰水，北斗第七星，又名耗星。「耗」者，消耗、破敗也。在斗數命盤，殺破狼永遠在三合方，其命理作用主「動」、主「開創」，而破軍因為「耗星」之故，當其會多吉星時，則其開創有「先破後立」的作用，反之若不會吉且會多煞（忌）星時，恐怕就只有破壞而無建設。再者，破軍和武曲一樣，亦為將星，但因主動，故破軍坐命者做起事來，其衝勁往往較武曲坐命者來得強，因此除非得會左輔右弼或有祿存同坐來增穩外，否則行事易有莽撞衝過頭的現象。另外，破軍在命理上亦帶有刑剋作用，若是在會吉少且又會多煞星時，就會特別凸顯出其不利親情的作用，但若會多吉星且會煞少，甚或不會煞，則不在此論。\n",
+  "chunk_index": 43,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "古赋多贬武曲破军同宫及命身分守，作者解释破军耗星、先破后立与开创性质：会吉可建设，少吉多煞忌则易破坏；左辅右弼或禄存可增稳，亲情刑克也须看会吉会煞，不能当成无条件结论。将星为性质称谓，二限原文疑字不补。",
+  "summary_en": "Classical verses criticize Wu Qu and Po Jun together or divided between Life and Body Palaces. The author explains Po Jun as a consuming and pioneering star: many benefics support rebuilding, whereas little auspicious support with malefics or adverse transformations may produce destruction without construction. Zuo Fu, You Bi or co-located Lu Cun can stabilize its impulsiveness. Harm to family relationships is also conditional on benefic and malefic support. Jiang Xing is an epithet, not a separate star; unclear two-cycle wording is not repaired.",
+  "keywords": [
+    "武曲",
+    "破军",
+    "会吉会煞",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Po Jun",
+    "benefics and malefics",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c043_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_applicable"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c043_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c043_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 40,
+          "end": 42,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c043_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 12,
+          "end": 14,
+          "quote": "破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c043_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 506,
+          "end": 508,
+          "quote": "左輔"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c043_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 508,
+          "end": 510,
+          "quote": "右弼"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c043_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 512,
+          "end": 514,
+          "quote": "祿存"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c043_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 281,
+          "end": 285,
+          "quote": "命逢武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c043_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 286,
+          "end": 290,
+          "quote": "身得破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c043_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 330,
+          "end": 345,
+          "quote": "破軍陰水，北斗第七星，又名耗星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c043_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 247,
+          "end": 253,
+          "quote": "武曲破軍同宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c043_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 221,
+          "end": 225,
+          "quote": "求財難遂"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c043_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 575,
+          "end": 582,
+          "quote": "不利親情的作用"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c043_classic_split",
+        "kind": "conditional",
+        "condition": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人",
+        "attribution": "先贤引文（本书转引）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 280,
+          "end": 309,
+          "quote": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c043_classic_split",
+        "kind": "conditional",
+        "condition": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人",
+        "attribution": "先贤引文（本书转引）"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 280,
+          "end": 309,
+          "quote": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c043_classic_colocation",
+        "kind": "conditional",
+        "condition": "武曲與破軍同宮於巳亥",
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 199,
+          "end": 209,
+          "quote": "武曲與破軍同宮於巳亥"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c043_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 364,
+          "end": 367,
+          "quote": "殺破狼"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c043_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 466,
+          "end": 468,
+          "quote": "將星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "c043_term2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 343,
+          "end": 345,
+          "quote": "耗星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "c043_term3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 129,
+          "end": 131,
+          "quote": "武忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "c043_term4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 210,
+          "end": 214,
+          "quote": "穴小二限"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c043_classic_split",
+        "condition": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人",
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c043_classic_split",
+        "condition": "若命逢武曲而身得破軍，旺有富，陷地乃破祖離鄉，巧藝立身之人",
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "破军",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c043_classic_colocation",
+        "condition": "武曲與破軍同宮於巳亥",
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "殺破狼",
+        "proposed_category": "source_star_group",
+        "reason": "此处星群三合结构，不推成格或三颗星同宫",
+        "english_surface": "Sha Po Lang group",
+        "scope_id": "c043_term0"
+      },
+      {
+        "surface": "將星",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲及破军性质，不标独立同名小星",
+        "english_surface": "Jiang Xing epithet",
+        "scope_id": "c043_term1"
+      },
+      {
+        "surface": "耗星",
+        "proposed_category": "source_star_epithet",
+        "reason": "破军性质称谓",
+        "english_surface": "Hao Xing epithet",
+        "scope_id": "c043_term2"
+      },
+      {
+        "surface": "武忌",
+        "proposed_category": "uncertain_source_abbreviation",
+        "reason": "古引文缩称不足明确四化对象，保留不猜",
+        "english_surface": "Wu Ji",
+        "scope_id": "c043_term3"
+      },
+      {
+        "surface": "穴小二限",
+        "proposed_category": "ocr_uncertain_time_expression",
+        "reason": "原文字损，不能擅改大小二限或补明确大限小限周期",
+        "english_surface": "Xue Xiao Er Xian",
+        "scope_id": "c043_term4"
+      }
+    ],
+    "stars_mentioned": [
+      "武曲",
+      "破军",
+      "左辅",
+      "右弼",
+      "禄存"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "knowledge_domains": [
+      "星曜性质",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系"
+    ]
+  }
+}

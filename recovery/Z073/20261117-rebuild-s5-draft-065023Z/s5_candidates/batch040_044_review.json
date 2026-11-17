@@ -1,0 +1,187 @@
+{
+  "task": "Z073 new293 S5 C040–044",
+  "old_labels_read": false,
+  "formal_05_written": false,
+  "schema_modified": false,
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c040",
+      "candidate_sha256": "adddfb754ac5c402427515f2b2e3dae0c95ae20b7deeb08a4431dc189eec0a08",
+      "retrieval_eligibility": "limited",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "caption与王永庆贫困/事业成就讨论完整；不从图表推更多事实。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武杀按冻结缩称解释，廉贪疑字不推廉贞贪狼同宫；身亥与命卯分开。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "行限连珠未明确周期类别，不强加大限；出生年不是流年。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C040案例，C041/043/044概念解释，C042文献注释按概念内容不造案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "中英保留主要对象、条件、否定及文献归属；不以译文补原缺文。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "C040 limited依据图表混排与孤立续字，其他完整可读eligible；非因模型困难降级。"
+        }
+      },
+      "remaining_questions": [
+        "独立复核星群/称谓/合宫表达及真实可表达关系是否漏项；不把结构通过当语义验收。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c041",
+      "candidate_sha256": "48ba8994bb281ed51988d344138ddfd7fa13878c03eceb0d34f1db1510c531a6",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "阴阳生克及有情/无情分辨，乙庚比喻和作者引申归属保留。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "八字十干不是紫微星曜实体；不发明五行相克关系类型；寡宿为称谓。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "没有周期时间，null/not_mentioned。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C040案例，C041/043/044概念解释，C042文献注释按概念内容不造案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "中英保留主要对象、条件、否定及文献归属；不以译文补原缺文。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "C040 limited依据图表混排与孤立续字，其他完整可读eligible；非因模型困难降级。"
+        }
+      },
+      "remaining_questions": [
+        "独立复核星群/称谓/合宫表达及真实可表达关系是否漏项；不把结构通过当语义验收。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c042",
+      "candidate_sha256": "0ecf4b15de80cac558b669d5748e225bdd1f65187d305bc8a163a244f3c1ea13",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "两文献出处、题旨及出版史完整，未伪造命例内容。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "田宅宫与术语只是引用题名，usage=mentioned；不当本块采用某法。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "出版年份不是命理时间，不补流年/本命。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C040案例，C041/043/044概念解释，C042文献注释按概念内容不造案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "中英保留主要对象、条件、否定及文献归属；不以译文补原缺文。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "C040 limited依据图表混排与孤立续字，其他完整可读eligible；非因模型困难降级。"
+        }
+      },
+      "remaining_questions": [
+        "独立复核星群/称谓/合宫表达及真实可表达关系是否漏项；不把结构通过当语义验收。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c043",
+      "candidate_sha256": "3587990616f56a46ff6159e173f36efdfe751d2c22611f43c06daac7cdc24acc",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "古赋与作者破军先破后立、吉煞、增稳、亲情条件完整。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "武曲破军同宫与命身分守各自scope；将星耗星为称谓，二限字损不恢复。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "二限/穴小二限无法确认为具体周期，原词候选保留，不推大小限。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C040案例，C041/043/044概念解释，C042文献注释按概念内容不造案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "中英保留主要对象、条件、否定及文献归属；不以译文补原缺文。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "C040 limited依据图表混排与孤立续字，其他完整可读eligible；非因模型困难降级。"
+        }
+      },
+      "remaining_questions": [
+        "独立复核星群/称谓/合宫表达及真实可表达关系是否漏项；不把结构通过当语义验收。"
+      ]
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c044",
+      "candidate_sha256": "4a03b6a1b475a24e0f47aec7ce4a93e7bca5bca6d5999e3106eaa4c80dc1e9c4",
+      "retrieval_eligibility": "eligible",
+      "annotation_status": "candidate_pending_independent_review",
+      "quality_reviews": {
+        "coverage": {
+          "reviewed": true,
+          "finding": "双星杀破狼、投机求财、亲情与父母生年个别差异、现代迁移职业限制完整。"
+        },
+        "binding": {
+          "reviewed": true,
+          "finding": "同宫与武破命宫条件绑定；左右/羊陀火铃原组名不制造同宫；命迁合论不是夫妻比较法。"
+        },
+        "time": {
+          "reviewed": true,
+          "finding": "限逢好/不好未明确周期类型，保持时间null。"
+        },
+        "content_type": {
+          "reviewed": true,
+          "finding": "C040案例，C041/043/044概念解释，C042文献注释按概念内容不造案例。"
+        },
+        "english": {
+          "reviewed": true,
+          "finding": "中英保留主要对象、条件、否定及文献归属；不以译文补原缺文。"
+        },
+        "source_quality": {
+          "reviewed": true,
+          "finding": "C040 limited依据图表混排与孤立续字，其他完整可读eligible；非因模型困难降级。"
+        }
+      },
+      "remaining_questions": [
+        "独立复核星群/称谓/合宫表达及真实可表达关系是否漏项；不把结构通过当语义验收。"
+      ]
+    }
+  ],
+  "validation_logs": [
+    "batch040_044_validation_attempt1.json",
+    "batch040_044_validation_attempt2.json"
+  ]
+}

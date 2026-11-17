@@ -1,0 +1,694 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c015",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    37,
+    38,
+    39
+  ],
+  "chunk_text": "林太太工作能力很強，事業心很重，於乙卯年（一九七五）結婚後，夫妻兩人一道經營個家庭生意。結婚後的前十年，林先生對太太還算溫和體貼，但在那以後，這對夫婦的互動關係，發生了劇變。即從乙酉限開始，林先生對店裡的生意都不管，全部推給太太去忙裡忙外，整天正事不做，遊手好閒，且經常和酒肉朋友廝混，成天醉生夢死。林太太拼命賺錢養家，眼見先生如此胡鬧，有時難免會說先生幾句，此時林先生在酒後亂性之下，常會對太太動粗。（註六）乙卯年，林太太時值二十六歲，正好走到丙戌限。丙干的天同化祿正好和太陽化祿合輔先天命宮，而鈴星及火星因同宮的太陽及天同化祿之故，對武曲並無火剋金的剋害作用，而先天命宮得此雙祿夾輔增旺後，對煞星或忌星的剋害作用的抵抗力亦隨之增強。此時雖有廉貞化忌在大限夫妻申宮沖先天命宮，且因廉貞五行屬火，化忌後與在子之武曲金成火金相剋，但子宮因得雙祿吉輔，故武曲所受廉貞火之剋害尚可承受，而不為害過極。另就先後天夫妻宮論，破軍水與廉貞火雖也造成水火相剋之象，但戌與申宮皆會吉而不見諸凶，故相剋之凶較輕。故丙戌限間夫妻相處，雖稍有意見，但尚無大礙。\n等到乙酉限，太陰化忌，子宮為雙忌與火鈴夾制後，遂引動了前述武曲的「寡宿」凶格作用，使原本就不利於婚姻的命宮，造成凶象。另就乙酉限言，乙干使太陰化忌，將使大限夫妻未宮，會沖火鈴與先天天同化忌及大限太陰化忌，使大限夫妻宮充滿凶象。先天命宮因大限引動不利婚姻之凶象，若該大限夫妻宮又逞凶象時，常使婚姻難得和諧。故此大限欲維持夫妻之間的和諧，除非是先生坐入的太歲宮位極佳，或者是夫妻雙方能極力相互忍讓，否則大概是緣木求魚。非常不幸的是，林先生是己丑年（一九四九）生人，太歲宮位在丑，正好來加重上述不利婚姻的一面，因此夫妻間的和諧也就不可得。\n",
+  "chunk_index": 15,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "hard",
+  "summary": "林太太1975年结婚，丙戌限时先天命宫受天同、太阳化禄夹辅，作者认为夫妻宫相克仍有吉星缓和；乙酉限太阴化忌与先天天同化忌及火铃加重婚姻凶象。文中记述丈夫后来酗酒施暴，认为太岁宫位佳或双方忍让是缓和条件，丈夫己丑年生、太岁在丑则加重不利。",
+  "summary_en": "Mrs. Lin married in Yi Mao (1975). In the Bing Xu grand cycle, Tian Tong and Tai Yang Hua Lu flank the natal life palace; auspicious support mitigates conflicts involving Lian Zhen Hua Ji in the cycle spouse palace. In Yi You, Tai Yin Hua Ji, natal Tian Tong Hua Ji, Huo Xing and Ling Xing worsen marriage indicators. The account reports her husband later drinking and assaulting her. The author conditions possible harmony on an excellent spouse Tai Sui palace or mutual restraint, but describes his Ji Chou (1949) birth and Chou Tai Sui palace as aggravating the problem.",
+  "keywords": [
+    "婚姻",
+    "四化",
+    "大限"
+  ],
+  "keywords_en": [
+    "marriage",
+    "transformations",
+    "grand cycles"
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible"
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c015_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c015_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "multiple_values"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c015_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 230,
+          "end": 232,
+          "quote": "天同"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c015_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 237,
+          "end": 239,
+          "quote": "太陽"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c015_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 249,
+          "end": 251,
+          "quote": "鈴星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c015_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 252,
+          "end": 254,
+          "quote": "火星"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c015_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 269,
+          "end": 271,
+          "quote": "武曲"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c015_stars_mentioned5",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 322,
+          "end": 324,
+          "quote": "廉貞"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c015_stars_mentioned6",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 407,
+          "end": 409,
+          "quote": "破軍"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.7",
+      "scope": {
+        "scope_id": "c015_stars_mentioned7",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 476,
+          "end": 478,
+          "quote": "太陰"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c015_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 243,
+          "end": 247,
+          "quote": "先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c015_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 327,
+          "end": 333,
+          "quote": "大限夫妻申宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c015_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 227,
+          "end": 247,
+          "quote": "丙干的天同化祿正好和太陽化祿合輔先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c015_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 583,
+          "end": 622,
+          "quote": "先天命宮因大限引動不利婚姻之凶象，若該大限夫妻宮又逞凶象時，常使婚姻難得和諧。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c015_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 448,
+          "end": 468,
+          "quote": "丙戌限間夫妻相處，雖稍有意見，但尚無大礙"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c015_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 30,
+          "end": 43,
+          "quote": "夫妻兩人一道經營個家庭生意"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relationship_types_mentioned.0",
+      "scope": {
+        "scope_id": "c015_relationship_types_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 71,
+          "end": 86,
+          "quote": "這對夫婦的互動關係，發生了劇變"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c015_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 227,
+          "end": 247,
+          "quote": "丙干的天同化祿正好和太陽化祿合輔先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 205,
+          "end": 227,
+          "quote": "乙卯年，林太太時值二十六歲，正好走到丙戌限。"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.1",
+      "scope": {
+        "scope_id": "c015_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 470,
+          "end": 480,
+          "quote": "等到乙酉限，太陰化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.time_mentions.2",
+      "scope": {
+        "scope_id": "c015_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 583,
+          "end": 599,
+          "quote": "先天命宮因大限引動不利婚姻之凶象"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 227,
+          "end": 234,
+          "quote": "丙干的天同化祿"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 237,
+          "end": 247,
+          "quote": "太陽化祿合輔先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 322,
+          "end": 338,
+          "quote": "廉貞化忌在大限夫妻申宮沖先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.3",
+      "scope": {
+        "scope_id": "c015_yiyou",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 536,
+          "end": 543,
+          "quote": "乙干使太陰化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.4",
+      "scope": {
+        "scope_id": "c015_natal",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 558,
+          "end": 564,
+          "quote": "先天天同化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 227,
+          "end": 296,
+          "quote": "丙干的天同化祿正好和太陽化祿合輔先天命宮，而鈴星及火星因同宮的太陽及天同化祿之故，對武曲並無火剋金的剋害作用，而先天命宮得此雙祿夾輔增旺後"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c015_bingxu",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 322,
+          "end": 338,
+          "quote": "廉貞化忌在大限夫妻申宮沖先天命宮"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c015_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 503,
+          "end": 505,
+          "quote": "寡宿"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "夹辅",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天同",
+            "role": "flanker"
+          },
+          {
+            "entity_type": "star",
+            "name": "太阳",
+            "role": "flanker"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "target"
+          }
+        ],
+        "scope_id": "c015_bingxu",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "夫妻宫",
+            "role": "palace"
+          }
+        ],
+        "scope_id": "c015_bingxu",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "天同",
+        "transformation": "化禄",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c015_bingxu"
+      },
+      {
+        "star": "太阳",
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c015_bingxu"
+      },
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": "夫妻宫",
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c015_bingxu"
+      },
+      {
+        "star": "太阴",
+        "transformation": "化忌",
+        "tiangan": "乙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c015_yiyou"
+      },
+      {
+        "star": "天同",
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c015_natal"
+      }
+    ],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "subject": "林太太丙戌限",
+        "scope_id": "c015_bingxu",
+        "chart_type": null
+      },
+      {
+        "time_context": "大限",
+        "subject": "林太太乙酉限",
+        "scope_id": "c015_yiyou",
+        "chart_type": null
+      },
+      {
+        "time_context": "本命",
+        "subject": "林太太先天命宮",
+        "scope_id": "c015_natal",
+        "chart_type": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_pattern_epithet",
+        "reason": "武曲凶格称谓，非独立同名寡宿小星",
+        "english_surface": "Gua Su description of Wu Qu",
+        "scope_id": "c015_term0"
+      }
+    ],
+    "stars_mentioned": [
+      "天同",
+      "太阳",
+      "铃星",
+      "火星",
+      "武曲",
+      "廉贞",
+      "破军",
+      "太阴"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "夫妻宫"
+    ],
+    "knowledge_domains": [
+      "四化星",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "事业运势"
+    ],
+    "relationship_types_mentioned": [
+      "夫妻"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ]
+  }
+}

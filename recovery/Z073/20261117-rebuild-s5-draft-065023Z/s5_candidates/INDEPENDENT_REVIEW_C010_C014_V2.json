@@ -1,0 +1,143 @@
+{
+  "review": "Independent full-text and all-field evidence review of current-run C010-C014",
+  "author": "independent reviewer, not candidate author",
+  "old_05_read": false,
+  "source_04_sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "candidate_sha256": "f720cb052c9848803585575fc97f71ca1a123d2e22c95b77245b92ca6bf34b46",
+      "decision": "accepted",
+      "mechanical_checks": {
+        "validator": true,
+        "five_source_fields": true,
+        "full_model_serialization": true,
+        "all_spans_exact": true
+      },
+      "six_axis_review": {
+        "coverage": "主要事实/双语主旨已逐句审读；C014完整覆盖因明确备选对象未实现",
+        "binding": "逐条核字段/对象/位置/条件/引用，无须退回项",
+        "time": "没有把常识命盘自动补本命，泛行限不强映大限",
+        "content_type": "10/11理论解释与12/13/14案例类型可接受",
+        "english": "逐句比对，无反转条件或新增星位；未因缩称缺字面锚点自动补错事实",
+        "source_quality": "limited对应真实标题疑字/半句/排盘混排，不以表达缺口降格"
+      },
+      "findings": [
+        "接受：寡宿作为来源凶格而非小星；火铃明确成对，四化一般提及与武曲明确例子分开。",
+        "四化作用两关系原条件保留；无化忌未必大碍、化禄与配偶柔弱条件、不能径断丧偶均在摘要保留。概念解释能涵盖此理论阐释，不强改分类。"
+      ],
+      "retrieval_status": "eligible"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "candidate_sha256": "4f070d4c0acda3b653f8c268a4e4c44feef52a0158c9da229cf0465eea5bf06c",
+      "decision": "accepted",
+      "mechanical_checks": {
+        "validator": true,
+        "five_source_fields": true,
+        "full_model_serialization": true,
+        "all_spans_exact": true
+      },
+      "six_axis_review": {
+        "coverage": "主要事实/双语主旨已逐句审读；C014完整覆盖因明确备选对象未实现",
+        "binding": "逐条核字段/对象/位置/条件/引用，无须退回项",
+        "time": "没有把常识命盘自动补本命，泛行限不强映大限",
+        "content_type": "10/11理论解释与12/13/14案例类型可接受",
+        "english": "逐句比对，无反转条件或新增星位；未因缩称缺字面锚点自动补错事实",
+        "source_quality": "limited对应真实标题疑字/半句/排盘混排，不以表达缺口降格"
+      },
+      "findings": [
+        "接受：完整正文可用，标题临疑字隔离不改文；古赋夫妻宫关系有明确引用归属。",
+        "火铃/羊陀缩称仅以来源集合保留，当前未强推个别星位；四化star未知正确，不能从坐命武曲臆绑化忌。",
+        "可选完善：若词典有明确别名支持，可补相应提及级对星，不可凭组合推同宫。"
+      ],
+      "retrieval_status": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "candidate_sha256": "98de08b7b4e62188c42675df7d3e3715145084653a0924f618604e8f002755dc",
+      "decision": "accepted",
+      "mechanical_checks": {
+        "validator": true,
+        "five_source_fields": true,
+        "full_model_serialization": true,
+        "all_spans_exact": true
+      },
+      "six_axis_review": {
+        "coverage": "主要事实/双语主旨已逐句审读；C014完整覆盖因明确备选对象未实现",
+        "binding": "V2局部问题已修，源span完整、条件和对象scope正确；C014 OR覆盖阻塞不解除。",
+        "time": "没有把常识命盘自动补本命，泛行限不强映大限",
+        "content_type": "10/11理论解释与12/13/14案例类型可接受",
+        "english": "逐句比对，无反转条件或新增星位；未因缩称缺字面锚点自动补错事实",
+        "source_quality": "limited对应真实标题疑字/半句/排盘混排，不以表达缺口降格"
+      },
+      "findings": [
+        "接受其余可表达部分：子/申位置、七条入宫、两同宫绑定；禄权star/null未乱绑入宫或飞宫；紫府相朝垣不删相映射。末句从和截断正确排除。"
+      ],
+      "retrieval_status": "limited",
+      "revision_checked_evidence_indices": [
+        2
+      ],
+      "resolved_local_issue": "C012 source now explicit Lin case; C014 conditional OR names correctly scoped and mentioned only"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "candidate_sha256": "c16d131c12d9b468a64eb761be681a4af5b25ebbe733ef35a06ed62659601444",
+      "decision": "accepted",
+      "mechanical_checks": {
+        "validator": true,
+        "five_source_fields": true,
+        "full_model_serialization": true,
+        "all_spans_exact": true
+      },
+      "six_axis_review": {
+        "coverage": "主要事实/双语主旨已逐句审读；C014完整覆盖因明确备选对象未实现",
+        "binding": "逐条核字段/对象/位置/条件/引用，无须退回项",
+        "time": "没有把常识命盘自动补本命，泛行限不强映大限",
+        "content_type": "10/11理论解释与12/13/14案例类型可接受",
+        "english": "逐句比对，无反转条件或新增星位；未因缩称缺字面锚点自动补错事实",
+        "source_quality": "limited对应真实标题疑字/半句/排盘混排，不以表达缺口降格"
+      },
+      "findings": [
+        "接受：只按可读caption标注，不读混排图恢复星位。火铃左右邻宫之一保留不确定，未猜各自左右；夹命目标与子位明确。",
+        "英文不把家暴归咎于命格；可读疑字留在源质量报告，无补假事实。"
+      ],
+      "retrieval_status": "limited"
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "candidate_sha256": "90b033c4962d4e1552e6c6a6bea6f2d2ab24819f70f48e73d53c0f84b8c5be2c",
+      "decision": "expressible_part_accepted_OR_hold_retained",
+      "mechanical_checks": {
+        "validator": true,
+        "five_source_fields": true,
+        "full_model_serialization": true,
+        "all_spans_exact": true
+      },
+      "six_axis_review": {
+        "coverage": "主要事实/双语主旨已逐句审读；C014完整覆盖因明确备选对象未实现",
+        "binding": "V2局部问题已修，源span完整、条件和对象scope正确；C014 OR覆盖阻塞不解除。",
+        "time": "没有把常识命盘自动补本命，泛行限不强映大限",
+        "content_type": "10/11理论解释与12/13/14案例类型可接受",
+        "english": "逐句比对，无反转条件或新增星位；未因缩称缺字面锚点自动补错事实",
+        "source_quality": "limited对应真实标题疑字/半句/排盘混排，不以表达缺口降格"
+      },
+      "findings": [
+        "OR表达阻塞维持：太阴或太阳化忌是明确备选对象，当前不生成两个同时成立四化正确。不能以star=null/not_mentioned或单一星补完。",
+        "其余接受：正文“左右鄰宮分別有鈴星及火星”支持依次左铃右火；天同与火星同宫、命宫/夫妻宫左右辅弼、三方四正均有依据。天同化忌作用关系保留整段OR触发条件，不宣称完整表达备选四化。",
+        "首部断词排除后完整段可用，与OR模型问题无关；太岁宫位不映流年，大限未出现不补时间。"
+      ],
+      "retrieval_status": "limited",
+      "revision_checked_evidence_indices": [
+        8,
+        9
+      ],
+      "resolved_local_issue": "C012 source now explicit Lin case; C014 conditional OR names correctly scoped and mentioned only"
+    }
+  ],
+  "human_acceptance": false,
+  "overall_S5_complete": false,
+  "candidates_modified": false,
+  "previous_review_sha256": "5ec57855be2ca9c309f87fe52070acd237edc4ebbc73d97b584e34d1db3aa202",
+  "revision": "V2 targeted independent re-review of only C012/C014 changes"
+}

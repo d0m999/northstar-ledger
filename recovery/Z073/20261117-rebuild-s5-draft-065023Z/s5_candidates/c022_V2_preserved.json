@@ -1,0 +1,531 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c022",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    45,
+    46,
+    47
+  ],
+  "chunk_text": "《全書，諸星問答論》曰：「若貪狼同度，慳吝之人。」武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋，此時武曲或貪狼任一星曜的化祿或化忌，對此二宮位的吉凶影響就很大。\n若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用，而木在受到金（金在此可隱喻為刀具）來雕鑿後，始能成「器」，然後才能有用，故當有祿星時，始能發揮武貪二星曜的正面賦性作用。唯因武曲貪狼二星曜本質上相剋之故，除非是在會多吉星下，否則縱然是有化祿，武貪在丑未坐命者一輩子仍然是較為勞碌。反之，對武貪在丑未坐命者，若是武曲或貪狼任一星曜化忌時，即造成金「剋」木，此時就會凸顯出此二星曜賦性的負面作用，即使是在會多吉星的情形下，此人一輩子不但極為勞碌，且起伏亦大，行運好時則發，不好時則敗。至於武貪在丑未坐守且會煞多而不會吉時，其作用亦略同於化忌。\n從上述解說就可知道，當武貪在丑未坐命者，若其中任一星曜化忌，或者在會煞多而不會吉時，此二星曜的負面賦性作用就會被彰顯出來，此時不但不利於財，亦不利於親情與人際關係。再者，武曲因五行屬金，金主「内聚」，在遇有化忌或會煞多時，其人往往不但氣量狹小，且亦較吝嗇。更有甚者，因命宮星曜相剋者，除遇事較無法心平氣和外，此時若再有煞星來沖，也較易有健康上的問題。因此，對一個不能心平氣和來面對事情，且健康又較易有問題的人，雖不能據此推論此人一定會短命，但恐怕也不易長壽。另外，在天機星部份曾提及，凡星曜五行屬木者，在會多吉星時，其人會較長壽，而貪狼五行屬木，被金剋害後，反不利於此，此即先賢認為武曲「同貪狼而無吉相扶，反主灭番，且是量小慳吝之人」的看法由來。但武貪在丑未坐命者，是否就會如先賢或賦文所言，則仍須視此二宮位的旺弱吉凶而定。\n",
+  "chunk_index": 22,
+  "school": "紫微",
+  "content_type": "实战断语",
+  "difficulty": "medium",
+  "summary": "武曲与贪狼在丑未同宫，金木相克。任一化禄使金制木而显正面，仍须多吉才免长期劳碌；任一化忌或多煞无吉则负面、劳碌起伏，不利财、亲情人际。作者又论内聚与吝啬、煞冲健康及寿命风险，但不能据此断一定短命，结论仍须旺弱吉凶。末引赋文「灭番」疑字保留。",
+  "summary_en": "Military Melody and Greedy Wolf share Chou or Wei, where metal and wood conflict. Prosperity Transformation of either star permits constructive restraint, yet many benefics are needed to avoid lifelong toil. Obstruction Transformation of either, or many malefics without benefics, brings labor, fluctuations and adverse wealth, family and social implications. The author links inward metal qualities to narrowness and stinginess under affliction, and discusses health and longevity risks from conflict and malefic attack. This does not establish inevitable early death; palace strength and favorability remain decisive. The unclear quoted expression Mie Fan is preserved. Alternative transformation-bearing stars are not falsely asserted to transform simultaneously.",
+  "keywords": [
+    "武曲",
+    "贪狼",
+    "丑未",
+    "化禄",
+    "化忌",
+    "金木相克",
+    "吉煞",
+    "健康",
+    "人际关系"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "Greedy Wolf",
+    "Chou Wei",
+    "Prosperity Transformation",
+    "Obstruction Transformation",
+    "metal-wood conflict",
+    "benefics and malefics",
+    "health",
+    "relationships"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 50,
+          "end": 63,
+          "quote": "武曲五行屬金而貪狼五行屬木"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 75,
+          "end": 90,
+          "quote": "武曲或貪狼任一星曜的化祿或化忌"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 25,
+          "end": 38,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 442,
+          "end": 446,
+          "quote": "不利於財"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 448,
+          "end": 458,
+          "quote": "不利於親情與人際關係"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 541,
+          "end": 551,
+          "quote": "也較易有健康上的問題"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 25,
+          "end": 38,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 25,
+          "end": 38,
+          "quote": "武曲與貪狼僅在丑未二宮同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 610,
+          "end": 615,
+          "quote": "天機星部份"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 511,
+          "end": 518,
+          "quote": "命宮星曜相剋者"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "wu_tan_rule",
+        "kind": "conditional",
+        "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 25,
+          "end": 72,
+          "quote": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 682,
+          "end": 684,
+          "quote": "灭番"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 123,
+          "end": 128,
+          "quote": "金「制」木"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 278,
+          "end": 283,
+          "quote": "金「剋」木"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 106,
+          "end": 131,
+          "quote": "若是武曲或貪狼任一星曜化祿時，就有金「制」木的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星",
+      "对星组合"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "人际关系",
+      "健康医疗"
+    ],
+    "analysis_methods": [
+      "四化分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "贪狼",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "wu_tan_rule",
+        "negated": false,
+        "condition": "武曲與貪狼僅在丑未二宮同度，雖然二者均為旺宮，但因武曲五行屬金而貪狼五行屬木，本質上為金木相剋"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "灭番",
+        "proposed_category": "ocr_uncertain",
+        "reason": "引用赋文疑字；不校改成寿命结论，不用于确定性断语",
+        "english_surface": "Mie Fan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "金「制」木",
+        "proposed_category": "mechanism",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Jin Zhi Mu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "金「剋」木",
+        "proposed_category": "mechanism",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Jin Ke Mu",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "贪狼",
+      "天机"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

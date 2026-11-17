@@ -1,0 +1,338 @@
+{
+  "scope": "S5 independent subset review, not whole source acceptance",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c035",
+      "candidate_sha256": "16a8fe24490f072b28edee6c6924237bf5b4a5cf3a8913ca24a6aeb93ea995dc",
+      "decision": "blocked",
+      "issues": [
+        {
+          "issue_id": "C035-HOLD",
+          "evidence": {
+            "start": 480,
+            "end": 524,
+            "quote": "正格的「財與囚仇」是指當命宮武曲坐守，身宮在廉貞坐入的宮位，且廉貞化忌或武曲化忌時始是。"
+          },
+          "finding_and_action": "明确对象OR及身宫正偏分支组合hold保留；不是以四个泛化定义替代该独立事实。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+      "decision": "return",
+      "issues": [
+        {
+          "issue_id": "C036-REL",
+          "evidence": {
+            "start": 57,
+            "end": 70,
+            "quote": "再加上命宮有陀羅及地劫同踞"
+          },
+          "finding_and_action": "武曲/陀罗/地劫已分别入命但同宫明示关系未记，补同宫辰；廉贞天相同宫补子位置、其四化作用命宫目标补辰。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c037",
+      "candidate_sha256": "9fb24aca5faf6a3fe219f1e62bcc3b3e5794248497b56317d6b82c9dbe27388e",
+      "decision": "return",
+      "issues": [
+        {
+          "issue_id": "C037-REL",
+          "evidence": {
+            "start": 211,
+            "end": 227,
+            "quote": "武殺在酉旺宮坐命，除有天鉞同宮外"
+          },
+          "finding_and_action": "补天钺入命及与武杀同宫，location酉，不能只列stars。"
+        },
+        {
+          "issue_id": "C037-EFFECT",
+          "evidence": {
+            "start": 300,
+            "end": 332,
+            "quote": "庚子限，除太陽化祿和天同化祿吉輔先天命宮外，並有武曲化權吉化酉宮"
+          },
+          "finding_and_action": "补太阳/天同化禄作用先天命宫、武曲化权作用酉命宫；沿庚子上下文时间scope，保留先天/大限对象区别。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c038",
+      "candidate_sha256": "9df1929efab7255fdae2813b8e661ed0ee98a62b142299c655562bd88541bcf1",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c039",
+      "candidate_sha256": "75a44a21ce203c72b5c481768ff28f5ad03b86cb126b60258538466abd256455",
+      "decision": "return",
+      "issues": [
+        {
+          "issue_id": "C039-SCOPE",
+          "evidence": {
+            "start": 263,
+            "end": 280,
+            "quote": "自癸巳限開始，破軍化祿吉化先天命宮"
+          },
+          "finding_and_action": "relations.6–10应沿对应cycle time_mentions scope而非独立effect编号，否则丢限运绑定。"
+        },
+        {
+          "issue_id": "C039-COVER",
+          "evidence": {
+            "start": 298,
+            "end": 338,
+            "quote": "乙未限，天機化祿和天同化祿（申宮為空宮，以對宮同梁的作用照入來論）吉輔大限本宮。"
+          },
+          "finding_and_action": "乙未天机天同与丁酉太阴天同吉辅作用补注册四化关系；不得把照入当实体坐进空宫。"
+        },
+        {
+          "issue_id": "C039-BODY",
+          "evidence": {
+            "start": 377,
+            "end": 405,
+            "quote": "戊戌限，貪狼化祿吉化命身宮。己亥限，武曲化祿吉化命身宮。"
+          },
+          "finding_and_action": "当前只命宫目标漏身宫，补命身作用目标；明示廉贞右弼天魁同宫且亥财帛兼身宫，可补右弼天魁入宫与location亥。"
+        },
+        {
+          "issue_id": "C039-SUMMARY",
+          "evidence": {
+            "start": 442,
+            "end": 456,
+            "quote": "造成命宮一輩子的「連珠」，甚"
+          },
+          "finding_and_action": "中文摘要解释其命宫连珠来自被排除的尾段；应删此依赖排除文本的总结或明确列为原残句未采用，不假装usable覆盖。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c040",
+      "candidate_sha256": "5e188befe082a375cfa7086cb28c199f6e48e6aec5b0469edd7dca3849cb3914",
+      "decision": "return",
+      "issues": [
+        {
+          "issue_id": "C040-REL",
+          "evidence": {
+            "start": 241,
+            "end": 247,
+            "quote": "武殺在卯坐命"
+          },
+          "finding_and_action": "已有两星入命和interaction但relations遗漏明确同宫；补武曲七杀同宫卯，不扩廉贪疑字。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c041",
+      "candidate_sha256": "48ba8994bb281ed51988d344138ddfd7fa13878c03eceb0d34f1db1510c531a6",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c042",
+      "candidate_sha256": "0ecf4b15de80cac558b669d5748e225bdd1f65187d305bc8a163a244f3c1ea13",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c043",
+      "candidate_sha256": "6968f5d722c84803c692ba051f25ffa7a19119cd689c61f6995cd30c8887913d",
+      "decision": "return",
+      "issues": [
+        {
+          "issue_id": "C043-REL",
+          "evidence": {
+            "start": 502,
+            "end": 520,
+            "quote": "除非得會左輔右弼或有祿存同坐來增穩外"
+          },
+          "finding_and_action": "同坐分支明确破军与禄存同宫，应以有祿存同坐的分支条件记录，并保留完整原OR句作证；不得把左辅右弼另一分支并进同宫。"
+        },
+        {
+          "issue_id": "C043-ATTR",
+          "evidence": {
+            "start": 199,
+            "end": 209,
+            "quote": "武曲與破軍同宮於巳亥"
+          },
+          "finding_and_action": "relations.2来自《全書，諸星在命身及十二宮吉凶要訣》引文，不应归为作者新断语；修attribution。"
+        }
+      ],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c044",
+      "candidate_sha256": "4a03b6a1b475a24e0f47aec7ce4a93e7bca5bca6d5999e3106eaa4c80dc1e9c4",
+      "decision": "accept",
+      "issues": [],
+      "reviewed_axes": {
+        "coverage": "已完整逐文读全部新04与候选字段；普通可表达遗漏见issues，不以typedhold放过。",
+        "binding": "逐证据scope/condition/attribution/位置核对；泛定义四化与具体对象OR区分；未从混排补星位。",
+        "time": "出生年与出版年未推流年；037/039多周期标量null合理，但关系也须沿cycle scope；泛行限不猜大限盘。",
+        "content_type": "035/041/042/043/044概念或引用解释，036–040具体/理论命例为案例分析，符合内容。",
+        "english": "逐句读英文及关键词，主要实体/否定/限制保留；039中文总结依赖usable外尾句需修，不能只看英文。",
+        "source_quality": "有限资格对应残首/残尾/混排，证据精确且在usable内；039摘要边界问题另列；035完整文本eligible与typedhold并存。"
+      },
+      "mechanical_checks": {
+        "frozen_validator": true,
+        "complete_model_dump": true,
+        "source_five_fields_exact": true,
+        "version_exact": true
+      },
+      "full_text_and_all_fields_read": true,
+      "human_acceptance": false
+    }
+  ],
+  "counts": {
+    "accept": 4,
+    "return": 5,
+    "blocked": 1
+  },
+  "candidates_modified": false,
+  "old05_read": false,
+  "reading_note": "首个035–039大输出截断后，036/037/038/039各自完整重读；040–044逐段读完。"
+}

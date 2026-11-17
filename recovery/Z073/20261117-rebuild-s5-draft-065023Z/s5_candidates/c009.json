@@ -1,0 +1,454 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c009",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    32,
+    33
+  ],
+  "chunk_text": "傳統上，男喜陽剛，女喜陰柔，因此女命若是太過剛強，則不以吉論。同時，在農業社會時代，生活型態為男主外、女主内，且因大家庭之故，女命在操持家務時，須面對眾多的家人，因此與家人相處，以和為貴，而武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合，特別是在會合有擎羊、陀羅、火星及鈴星時，因煞星不利於親情及人際關係的作用，會更加彰顯出武曲不利於此的一面。\n另外，傳統在談到婚姻和感情時，一般認為，女命在其中所扮演的角色以陰柔為佳。而女命武曲坐守者，即使是在旺宮且會多吉星時，因比較陽剛，仍是美中不足，反之若是在會多煞星時，則武曲前述不利於親情與人際關係的作用，亦同樣會不利於婚姻和感情。再者，夫妻宮代表命造者在男女感情和婚姻方面的一種「意識型態」，而這種「意識型態」往往是左右這個命造者在感情和婚姻方面，如何處理的一種觀念或準則（註二）。因此，在談到婚姻和感情時，女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用。\n至於女命武曲坐入命宮或夫妻宮者，縱然是在會多煞星的情形下，是否就會如賦文所說的「加煞沖破，孤剋，有刑夫之惡」或「刑夫剋子」或「但多早寡」呢？此時仍須視命宮與夫妻宮的會煞多寡，以及配偶的個別差異來考量，不可遽爾斷之。\n",
+  "chunk_index": 9,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者将传统女性角色与武曲刚强性格的冲突置于农业大家庭背景，讨论旺宫会吉与羊陀火铃会煞的不同影响。夫妻宫被解释为婚姻意识；武曲在命宫或夫妻宫均须结合会煞程度及配偶个别差异，不能径断刑夫、克子或早寡。",
+  "summary_en": "The author contextualizes traditional female roles and Wu Qu assertiveness within agricultural extended families, contrasting strong-palace auspicious support with Qing Yang, Tuo Luo, Huo Xing and Ling Xing influences. The spouse palace represents attitudes toward marriage. Wu Qu in either the life or spouse palace requires assessment of harmful influences and individual spouse differences; harm, bereavement or separation cannot be concluded automatically.",
+  "keywords": [
+    "武曲",
+    "婚姻",
+    "人际关系",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "marriage",
+    "interpersonal relationships",
+    "conditional interpretation",
+    "Life Palace",
+    "Spouse Palace"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 530,
+          "quote": "傳統上，男喜陽剛，女喜陰柔，因此女命若是太過剛強，則不以吉論。同時，在農業社會時代，生活型態為男主外、女主内，且因大家庭之故，女命在操持家務時，須面對眾多的家人，因此與家人相處，以和為貴，而武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合，特別是在會合有擎羊、陀羅、火星及鈴星時，因煞星不利於親情及人際關係的作用，會更加彰顯出武曲不利於此的一面。\n另外，傳統在談到婚姻和感情時，一般認為，女命在其中所扮演的角色以陰柔為佳。而女命武曲坐守者，即使是在旺宮且會多吉星時，因比較陽剛，仍是美中不足，反之若是在會多煞星時，則武曲前述不利於親情與人際關係的作用，亦同樣會不利於婚姻和感情。再者，夫妻宮代表命造者在男女感情和婚姻方面的一種「意識型態」，而這種「意識型態」往往是左右這個命造者在感情和婚姻方面，如何處理的一種觀念或準則（註二）。因此，在談到婚姻和感情時，女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用。\n至於女命武曲坐入命宮或夫妻宮者，縱然是在會多煞星的情形下，是否就會如賦文所說的「加煞沖破，孤剋，有刑夫之惡」或「刑夫剋子」或「但多早寡」呢？此時仍須視命宮與夫妻宮的會煞多寡，以及配偶的個別差異來考量，不可遽爾斷之。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned",
+      "scope": {
+        "scope_id": "c009_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 530,
+          "quote": "傳統上，男喜陽剛，女喜陰柔，因此女命若是太過剛強，則不以吉論。同時，在農業社會時代，生活型態為男主外、女主内，且因大家庭之故，女命在操持家務時，須面對眾多的家人，因此與家人相處，以和為貴，而武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合，特別是在會合有擎羊、陀羅、火星及鈴星時，因煞星不利於親情及人際關係的作用，會更加彰顯出武曲不利於此的一面。\n另外，傳統在談到婚姻和感情時，一般認為，女命在其中所扮演的角色以陰柔為佳。而女命武曲坐守者，即使是在旺宮且會多吉星時，因比較陽剛，仍是美中不足，反之若是在會多煞星時，則武曲前述不利於親情與人際關係的作用，亦同樣會不利於婚姻和感情。再者，夫妻宮代表命造者在男女感情和婚姻方面的一種「意識型態」，而這種「意識型態」往往是左右這個命造者在感情和婚姻方面，如何處理的一種觀念或準則（註二）。因此，在談到婚姻和感情時，女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用。\n至於女命武曲坐入命宮或夫妻宮者，縱然是在會多煞星的情形下，是否就會如賦文所說的「加煞沖破，孤剋，有刑夫之惡」或「刑夫剋子」或「但多早寡」呢？此時仍須視命宮與夫妻宮的會煞多寡，以及配偶的個別差異來考量，不可遽爾斷之。\n"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c009_mention_0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 95,
+          "end": 97,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c009_mention_1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 147,
+          "quote": "擎羊"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c009_mention_2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 148,
+          "end": 150,
+          "quote": "陀羅"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c009_mention_3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 151,
+          "end": 153,
+          "quote": "火星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c009_mention_4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 154,
+          "end": 156,
+          "quote": "鈴星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c009_palace_0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 97,
+          "end": 99,
+          "quote": "坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c009_palace_1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 310,
+          "end": 313,
+          "quote": "夫妻宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c009_placement_0",
+        "kind": "conditional",
+        "condition": "武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 95,
+          "end": 137,
+          "quote": "武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c009_placement_1",
+        "kind": "conditional",
+        "condition": "女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 396,
+          "end": 420,
+          "quote": "女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relationship_types_mentioned.0",
+      "scope": {
+        "scope_id": "c009_spouse_difference",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 492,
+          "end": 529,
+          "quote": "此時仍須視命宮與夫妻宮的會煞多寡，以及配偶的個別差異來考量，不可遽爾斷之。"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "人际关系"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c009_placement_0",
+        "negated": false,
+        "condition": "武曲坐命者除非是在旺宮且會多吉星下，否則會因上述不利人際關係的特質，而易造成六親寡合"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "夫妻宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c009_placement_1",
+        "negated": false,
+        "condition": "女命武曲坐入夫妻宮者，亦和武曲坐命者有類似的作用"
+      }
+    ],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [
+      "夫妻"
+    ],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "擎羊",
+      "陀罗",
+      "火星",
+      "铃星"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "夫妻宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

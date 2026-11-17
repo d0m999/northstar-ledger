@@ -1,0 +1,14 @@
+{
+  "verified_utc": "2026-11-17T06:45:04.886530+00:00",
+  "verification": "Coordinator independently read preserved old/new metadata and current source; exact hashes, 7-to-8 relation change and source-supported 子/辰 locations confirmed. This verifies retrospective correction, not a contemporaneous original review snapshot.",
+  "records": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "report_basename": "INDEPENDENT_REVIEW_C035_C044_V1.json",
+      "invalid_reported_candidate_sha256": "42769dc975aa2896241317d714ac333e043b88986ea5558cf79491c65beee298",
+      "retrospectively_applicable_old_candidate_sha256": "4f87bd9a33729f68c84e2d31eb4ecb4c6acd5bfba9614676888814f7e9e084be",
+      "erratum_path": "z073_rebuild_20261117/preparation/s5_candidates/ERRATUM_C036_REVIEW_HASH_BINDING_V1.json",
+      "erratum_sha256": "b24bbc0e4661def00c80e9ff574201785592f34f3278f3089cfc0652f4d235c3"
+    }
+  ]
+}

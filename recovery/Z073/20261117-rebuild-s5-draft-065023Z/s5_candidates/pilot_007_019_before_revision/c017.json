@@ -1,0 +1,615 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c017",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    40,
+    41
+  ],
+  "chunk_text": "先賢曰：「此星入廟，與天府同度於子午宮，而無擎羊沖破，主有高壽。以財帛及田宅宮為廟樂之鄉，逢吉多而為福，遇煞多亦可作禍。」在天機星部份曾提過，只要是命宮星曜相剋（且會煞不會吉或會吉少）的人，其人個性較會自我矛盾，凡事想得多，且靜不下心來，遇事往往就無法心平氣和。相反的，若是命宮星曜相生（且會吉多而會煞少）的人，其個性就較平順，遇事就較能心平氣和。\n武曲在子午二宮必和天府同宮，武曲五行屬金，天府五行屬土，本質上土金相生，再加上武府在子午二宮均為旺宮，此時只要再會多吉星，就可充份發揮此二星曜的正面作用。故武府在子午二宮坐命且會吉多者，較能平心靜氣的面對事情，像這樣的人，只要先天在健康上没有遺傳方面的大問題，通常會比較長壽。\n在此要特別澄清的是，不能單憑武曲天府在子午二宮坐命，即斷言其人必會高壽，仍須視武府坐守宮位的會吉會煞多寡而定。故《全書，諸星在命身及十二宮吉凶要訣》的「武曲天府同宮於子午，每立番考」說法，就有待商榷。例如癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後，不但對命格有增旺、增穩的作用，且能凸顯出武府的財星作用。\n\n天鉞天梁丁已僕役七殺戊午遷移己未疾厄廉貞庚申財帛天紫相微丙辰 事業天魁巨天門機權乙卯田宅수癸年月日金時\n\n局辛酉子女破軍祿壬戌 夫妻贪狼忌甲寅福德擎羊太太陰陽科乙丑 父母祿存天武府曲甲子命宮陀羅天同癸亥 兄弟盤三武曲天府在子坐命，癸年生人，祿存在子。武曲金得天府土來生後，不但能凸顯出武曲的財星作用，更因土金相生，此人就有可能會較長壽。",
+  "chunk_index": 17,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者以武曲金与天府土相生解释子午同宫的性格、财利与寿命，强调会吉会煞及遗传健康条件，反对只凭武府坐命断高寿。癸年命例中禄存在子与武曲天府同宫，被认为增旺增稳、有利财星及长寿。夹杂命盘文字不作精确排盘依据。",
+  "summary_en": "The author explains Wu Qu and Tian Fu sharing Zi or Wu through Earth producing Metal, with effects on temperament, wealth and longevity. Auspicious and harmful companions and inherited health conditions remain essential; placement alone cannot establish longevity. In a Gui-year example, Lu Cun shares the Zi life palace with Wu Qu and Tian Fu, supporting stability and wealth and possibly longer life. Disordered chart text is not reconstructed.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "长寿条件"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tian Fu",
+    "conditional longevity"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c017_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c017_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c017_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 175,
+          "end": 180,
+          "quote": "武曲在子午"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c017_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 15,
+          "quote": "與天府同度"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c017_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 21,
+          "end": 26,
+          "quote": "無擎羊沖破"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c017_stars_mentioned3",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 65,
+          "quote": "天機星"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c017_stars_mentioned4",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 425,
+          "end": 429,
+          "quote": "祿存在子"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c017_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 74,
+          "end": 78,
+          "quote": "命宮星曜"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c017_palaces_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 33,
+          "end": 39,
+          "quote": "財帛及田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c017_palaces_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 36,
+          "end": 39,
+          "quote": "田宅宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c017_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 189,
+          "end": 210,
+          "quote": "武曲五行屬金，天府五行屬土，本質上土金相生"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c017_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 324,
+          "end": 368,
+          "quote": "不能單憑武曲天府在子午二宮坐命，即斷言其人必會高壽，仍須視武府坐守宮位的會吉會煞多寡而定"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c017_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 286,
+          "end": 312,
+          "quote": "只要先天在健康上没有遺傳方面的大問題，通常會比較長壽"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c017_topics_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 461,
+          "end": 471,
+          "quote": "凸顯出武府的財星作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c017_wu_fu",
+        "kind": "conditional",
+        "condition": "武曲在子午二宮",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 175,
+          "end": 188,
+          "quote": "武曲在子午二宮必和天府同宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c017_gui_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 416,
+          "end": 443,
+          "quote": "癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c017_gui_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 416,
+          "end": 443,
+          "quote": "癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c017_gui_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 416,
+          "end": 443,
+          "quote": "癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c017_gui_case",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 416,
+          "end": 443,
+          "quote": "癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c017_term0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 400,
+          "end": 404,
+          "quote": "每立番考"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "中间命盘OCR跨宫混排含异文，不能可靠绑定星位；前段完整论述及盘三完整图说可用，未删除或修补正文。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 474,
+        "quote": "先賢曰：「此星入廟，與天府同度於子午宮，而無擎羊沖破，主有高壽。以財帛及田宅宮為廟樂之鄉，逢吉多而為福，遇煞多亦可作禍。」在天機星部份曾提過，只要是命宮星曜相剋（且會煞不會吉或會吉少）的人，其人個性較會自我矛盾，凡事想得多，且靜不下心來，遇事往往就無法心平氣和。相反的，若是命宮星曜相生（且會吉多而會煞少）的人，其個性就較平順，遇事就較能心平氣和。\n武曲在子午二宮必和天府同宮，武曲五行屬金，天府五行屬土，本質上土金相生，再加上武府在子午二宮均為旺宮，此時只要再會多吉星，就可充份發揮此二星曜的正面作用。故武府在子午二宮坐命且會吉多者，較能平心靜氣的面對事情，像這樣的人，只要先天在健康上没有遺傳方面的大問題，通常會比較長壽。\n在此要特別澄清的是，不能單憑武曲天府在子午二宮坐命，即斷言其人必會高壽，仍須視武府坐守宮位的會吉會煞多寡而定。故《全書，諸星在命身及十二宮吉凶要訣》的「武曲天府同宮於子午，每立番考」說法，就有待商榷。例如癸年生人（盤三），祿存在子，命宮的武曲天府得祿存同宮後，不但對命格有增旺、增穩的作用，且能凸顯出武府的財星作用。\n\n"
+      },
+      {
+        "start": 580,
+        "end": 642,
+        "quote": "武曲天府在子坐命，癸年生人，祿存在子。武曲金得天府土來生後，不但能凸顯出武曲的財星作用，更因土金相生，此人就有可能會較長壽。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "推测技法"
+    ],
+    "topics_mentioned": [
+      "健康医疗",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "c017_wu_fu",
+        "negated": false,
+        "condition": "武曲在子午二宮"
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": null
+          }
+        ],
+        "scope_id": "c017_gui_case",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c017_gui_case",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c017_gui_case",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c017_gui_case",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "每立番考",
+        "proposed_category": "ocr_uncertain_quote",
+        "reason": "原引文疑损，不推定为特定寿命术语；周围作者反对必然高寿观点完整",
+        "english_surface": "Mei Li Fan Kao uncertain OCR",
+        "scope_id": "c017_term0"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "擎羊",
+      "天机",
+      "禄存"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "财帛宫",
+      "田宅宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

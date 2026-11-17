@@ -1,0 +1,767 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c077",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    103
+  ],
+  "chunk_text": "註十三：任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位。同理，也就有所謂的「祿權夾科」及「科權夾祿」宮位。任一宮位若得「祿科夾權」或「祿權夾科」或「科權夾祿」，雖然其作用和「三奇嘉會」有所不同，但皆有吉化作用。有關祿權科的作用，將於四化部份再詳細討論。\n",
+  "chunk_index": 77,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "定义化权坐宫、化禄化科夹辅的「禄科夹权」，并类比禄权夹科与科权夹禄；三类皆吉化，但不同于三奇嘉会。具体化曜星及人事宫未说明，不虚构星曜来填夹辅关系。",
+  "summary_en": "The note defines Lu Ke Jia Quan as Authority Transformation occupying a palace flanked by Prosperity and Merit Transformations. It analogously names Lu Quan Jia Ke and Ke Quan Jia Lu. All are described as favorable but distinct from San Qi Jia Hui. No transforming stars or functional palaces are identified, so none are invented to encode the flanking structure.",
+  "keywords": [
+    "禄科夹权",
+    "禄权夹科",
+    "科权夹禄",
+    "化禄",
+    "化权",
+    "化科",
+    "三奇嘉会"
+  ],
+  "keywords_en": [
+    "Lu Ke Jia Quan",
+    "Lu Quan Jia Ke",
+    "Ke Quan Jia Lu",
+    "Prosperity Transformation",
+    "Authority Transformation",
+    "Merit Transformation",
+    "San Qi Jia Hui"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 25,
+          "quote": "化權坐入，且得化祿及化科來夾輔"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 38,
+          "quote": "祿科夾權"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.tiangan",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.source_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.target_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.star",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.tiangan",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.source_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.2.target_palace",
+      "scope": {
+        "scope_id": "flanking_definition",
+        "kind": "conditional",
+        "condition": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 34,
+          "end": 38,
+          "quote": "祿科夾權"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 52,
+          "end": 56,
+          "quote": "祿權夾科"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 59,
+          "end": 63,
+          "quote": "科權夾祿"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 4,
+          "end": 41,
+          "quote": "任一宮位若有化權坐入，且得化祿及化科來夾輔，則此一宮位稱為「祿科夾權」宮位"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 94,
+          "end": 118,
+          "quote": "雖然其作用和「三奇嘉會」有所不同，但皆有吉化作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.formation_status",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.evidence",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "祿科夾權",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Lu Ke Jia Quan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "祿權夾科",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Lu Quan Jia Ke",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "科權夾祿",
+        "proposed_category": "source_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Ke Quan Jia Lu",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "flanking_definition"
+      },
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "flanking_definition"
+      },
+      {
+        "star": null,
+        "transformation": "化科",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "flanking_definition"
+      }
+    ],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "三奇嘉会",
+        "formation_status": null,
+        "evidence": null
+      }
+    ],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

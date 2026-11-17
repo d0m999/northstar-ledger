@@ -1,0 +1,519 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c038",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    65,
+    66
+  ],
+  "chunk_text": "祿存贪狼廉貞忌癸巳擎羊巨門甲午子女天相乙未 夫妻天梁天同祿丙申兄弟陀羅太陰壬辰疾厄76-85天府辛卯遷移66-75男命丙年月日火\n\n時局天鉞七武殺曲丁酉 命宮6-15太陽戊戌父母16-25天魁庚寅僕役56-65破紫軍微天機權辛丑事業46-55庚子田宅 36-45己亥福德26-35盤十三武殺在酉旺宮坐命，丙年生人，廉貞化忌致使命宮成為「財與囚仇」，命宮雖有天钺及祿存來吉化，但不會其他吉星，因此易有「限運好時則發，不好則敗」的現象。\n\n",
+  "chunk_index": 38,
+  "school": "紫微",
+  "school_code": "ziwei",
+  "content_type": "案例分析",
+  "difficulty": "hard",
+  "summary": "盘十三图说以丙年武杀酉旺宫坐命、廉贞化忌造成财与囚仇，说明虽有天钺及禄存吉化，但少其他吉星，易随限运起落。只使用可读图说，不从命盘混排复原星位。",
+  "summary_en": "The Chart Thirteen caption describes Wu Qu and Qi Sha in the strong You Life Palace for a Bing-year birth. Lian Zhen Hua Ji forms Cai Yu Qiu Chou. Although Tian Yue and Lu Cun provide auspicious support, other benefics are absent, so fortunes fluctuate with the cycles. Only the readable caption is annotated; OCR-mixed chart placements are not reconstructed.",
+  "keywords": [
+    "财与囚仇",
+    "武曲",
+    "廉贞",
+    "四化",
+    "条件限制"
+  ],
+  "keywords_en": [
+    "Cai Yu Qiu Chou",
+    "Wu Qu",
+    "Lian Zhen",
+    "four transformations",
+    "conditional interpretation"
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "排盘前段混排，只使用完整盘十三图说。",
+    "usable_spans": [
+      {
+        "start": 140,
+        "end": 218,
+        "quote": "盤十三武殺在酉旺宮坐命，丙年生人，廉貞化忌致使命宮成為「財與囚仇」，命宮雖有天钺及祿存來吉化，但不會其他吉星，因此易有「限運好時則發，不好則敗」的現象。\n\n"
+      }
+    ]
+  },
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c038_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c038_discussion",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "null_reason": "not_mentioned"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c038_stars_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 157,
+          "end": 161,
+          "quote": "廉貞化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c038_stars_mentioned1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 178,
+          "end": 180,
+          "quote": "天钺"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c038_stars_mentioned2",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 181,
+          "end": 186,
+          "quote": "祿存來吉化"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c038_palaces_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 174,
+          "end": 178,
+          "quote": "命宮雖有"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c038_knowledge_domains0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 157,
+          "end": 161,
+          "quote": "廉貞化忌"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c038_knowledge_domains1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 168,
+          "end": 172,
+          "quote": "財與囚仇"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c038_topics_mentioned0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 200,
+          "end": 211,
+          "quote": "限運好時則發，不好則敗"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c038_analysis_methods0",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 157,
+          "end": 173,
+          "quote": "廉貞化忌致使命宮成為「財與囚仇」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.analysis_methods.1",
+      "scope": {
+        "scope_id": "c038_analysis_methods1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 163,
+          "end": 173,
+          "quote": "命宮成為「財與囚仇」"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c038_chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 140,
+          "end": 218,
+          "quote": "盤十三武殺在酉旺宮坐命，丙年生人，廉貞化忌致使命宮成為「財與囚仇」，命宮雖有天钺及祿存來吉化，但不會其他吉星，因此易有「限運好時則發，不好則敗」的現象。\n\n"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c038_chart13",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 140,
+          "end": 218,
+          "quote": "盤十三武殺在酉旺宮坐命，丙年生人，廉貞化忌致使命宮成為「財與囚仇」，命宮雖有天钺及祿存來吉化，但不會其他吉星，因此易有「限運好時則發，不好則敗」的現象。\n\n"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.star_interactions_mentioned.0",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c038_chart_pair",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 143,
+          "end": 151,
+          "quote": "武殺在酉旺宮坐命"
+        }
+      ],
+      "usage": "discussed"
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c038_term1",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "basis": "source",
+      "spans": [
+        {
+          "start": 168,
+          "end": 172,
+          "quote": "財與囚仇"
+        }
+      ],
+      "usage": "discussed"
+    }
+  ],
+  "ziwei": {
+    "chart_type": null,
+    "time_context": null,
+    "relations": [
+      {
+        "relation_type": "四化作用",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "transformed_star"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "affected"
+          }
+        ],
+        "scope_id": "c038_chart13",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c038_chart_pair",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "c038_chart_pair",
+        "condition": null,
+        "negated": false
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star"
+          },
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star"
+          }
+        ],
+        "scope_id": "c038_chart_pair",
+        "condition": null,
+        "negated": false
+      }
+    ],
+    "sihua_mentioned": [
+      {
+        "star": "廉贞",
+        "transformation": "化忌",
+        "tiangan": "丙",
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c038_chart13"
+      }
+    ],
+    "time_mentions": [],
+    "unregistered_terms": [
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "source_pattern",
+        "reason": "未注册来源格局",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "c038_term1"
+      }
+    ],
+    "stars_mentioned": [
+      "廉贞",
+      "天钺",
+      "禄存",
+      "武曲",
+      "七杀"
+    ],
+    "palaces_mentioned": [
+      "命宫"
+    ],
+    "knowledge_domains": [
+      "四化星",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "四化分析",
+      "格局分析"
+    ],
+    "star_interactions_mentioned": [
+      "武杀同宫"
+    ]
+  }
+}

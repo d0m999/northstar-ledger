@@ -1,0 +1,62 @@
+[
+  {
+    "attempt": 1,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c080.json",
+        "sha256": "b01a3df75cd17b0d96c81f83e3c1371e7a9bc2100bd6153c269697d39c765892"
+      },
+      {
+        "status": "passed",
+        "file": "c081.json",
+        "sha256": "ca7953acac613db97919c4229dd462450fd4928b5f99b0870731699ca2966d37"
+      },
+      {
+        "status": "passed",
+        "file": "c082.json",
+        "sha256": "0a87e8544ddebe8faa07dd457ce7d45e50d83aa3c7c1bfbdeb930cf3bde0982d"
+      },
+      {
+        "status": "passed",
+        "file": "c083.json",
+        "sha256": "1027cfc123141bffaec242dc2a410ec6370055fa96ea58d578861e7542cb1d41"
+      },
+      {
+        "status": "passed",
+        "file": "c084.json",
+        "sha256": "f90166dcc265f2d8f8701d1ffcf31650218ad301eb3b3d4d04f2ee0f59d6c24a"
+      }
+    ]
+  },
+  {
+    "attempt": 2,
+    "results": [
+      {
+        "status": "passed",
+        "file": "c080.json",
+        "sha256": "90c912585aa0bbe330c918c656b2a3aaab3aae12cc1917ac95002c8491ba1842"
+      },
+      {
+        "status": "passed",
+        "file": "c081.json",
+        "sha256": "2010949d59058aa073801da4b643365e1f7bad1dee72656c8f5986be7159862d"
+      },
+      {
+        "status": "passed",
+        "file": "c082.json",
+        "sha256": "0b0b3aa76200fbb97b09aea389f2c6a3cd248ce4521271c704afc1f77b7488eb"
+      },
+      {
+        "status": "passed",
+        "file": "c083.json",
+        "sha256": "24efc145eed0e6e5a9b9b952557cb9c23675d104ef710cde30e0da9b4a0c5169"
+      },
+      {
+        "status": "passed",
+        "file": "c084.json",
+        "sha256": "f3db9bbe24c0100c3df4ead76d54d1082051809906c59fa91387885a085ecd16"
+      }
+    ]
+  }
+]
