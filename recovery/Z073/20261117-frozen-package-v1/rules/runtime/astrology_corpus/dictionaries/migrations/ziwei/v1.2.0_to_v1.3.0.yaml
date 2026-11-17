@@ -1,0 +1,56 @@
+_meta:
+  from_version: "1.2.0"
+  to_version: "1.3.0"
+  school: "紫微"
+  created_at: "2026-04-18"
+  breaking: false
+  description: >-
+    补 annotation taxonomy knowledge_domains section，配套 schemas.py
+    ZiweiExtension.knowledge_domain Literal → make_membership_validator 迁移。
+    canonical-only（无 aliases，C1 锁定），不参与 retrieval TermRegistry
+    （term_registry.py _ANNOTATION_TAXONOMY_SECTIONS blocklist）。
+    来源并集：schemas.py L405-407 + llm_annotator.py L206。
+    kd_star_pairs 仅见于 llm_annotator.py，schemas.py 原 Literal 未收录；
+    TODO-5 标记，语料分布评估后决定去留。
+rules:
+  - kind: add_category
+    field: knowledge_domains
+    canonical_added:
+      - kd_star_nature
+      - kd_four_transformations
+      - kd_palace_change
+      - kd_inference_technique
+      - kd_three_layers
+      - kd_star_pairs
+    chunk_fields_affected:
+      - ziwei.knowledge_domain
+compatibility:
+  canonical_count_unchanged: false
+  canonical_renamed: []
+  canonical_removed: []
+  canonical_added:
+    - kd_star_nature
+    - kd_four_transformations
+    - kd_palace_change
+    - kd_inference_technique
+    - kd_three_layers
+    - kd_star_pairs
+  chunk_fields_affected: []
+  rationale: >-
+    additive migration：本次改动仅新增 knowledge_domains section，对现有
+    canonical 集合零 rename / 零 remove（canonical_count_unchanged: false
+    专指"新增 canonical"这一事实，与"现有 canonical 语义稳定"不矛盾）。
+    消费侧现状：loader.py L213 已把 ziwei.knowledge_domain 以
+    ziwei_knowledge_domain 写入 Qdrant payload；retriever.py L367 已在
+    allowed metadata filter key 白名单中登记该字段；但 planner 当前不生成
+    该 filter（retriever.py L97 注释），即 production 查询路径不读取它。
+    故现有 payload 值虽然此前未在 vocab YAML 中显式注册，却一直使用同一套
+    canonical 标签语义，本次迁移只是把该 section 从"隐式约定"升格为"显式
+    SoT"，历史 payload 语义未漂移。
+    工程侧通过 bump_payload_vocab_version.py --school ziwei
+    --from-version 1.2.0 --to-version 1.3.0 --apply 将历史 payload 的
+    vocab_version / school_vocab_version 刷新至当前版本，作为"等价兼容声明"，
+    以满足 audit_payload_vocab_consistency.py 的 bright-line 严格等式
+    （chunk.vocab_version == YAML._meta.version）。
+    对应 Failure Mode #6 决策；backfill.required=false（不需 LLM 重标注，
+    annotation_version 保持不变）。

@@ -1,0 +1,47 @@
+{
+  "description": "preprocess.py 输出的 JSONL 记录 — 纯文本 chunk + 溯源信息。",
+  "properties": {
+    "chunk_id": {
+      "description": "唯一标识符，格式: {source_stem}_c{index:03d}",
+      "pattern": "^[a-z0-9_]+_c\\d{3,}$",
+      "title": "Chunk Id",
+      "type": "string"
+    },
+    "source_file": {
+      "description": "来源 PDF 文件名",
+      "minLength": 1,
+      "title": "Source File",
+      "type": "string"
+    },
+    "page_range": {
+      "description": "来源页码 (1-based)",
+      "items": {
+        "type": "integer"
+      },
+      "minItems": 1,
+      "title": "Page Range",
+      "type": "array"
+    },
+    "chunk_text": {
+      "description": "块文本内容",
+      "minLength": 1,
+      "title": "Chunk Text",
+      "type": "string"
+    },
+    "chunk_index": {
+      "description": "在源文件中的块序号 (1-based)",
+      "minimum": 1,
+      "title": "Chunk Index",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "chunk_id",
+    "source_file",
+    "page_range",
+    "chunk_text",
+    "chunk_index"
+  ],
+  "title": "ChunkRecord",
+  "type": "object"
+}

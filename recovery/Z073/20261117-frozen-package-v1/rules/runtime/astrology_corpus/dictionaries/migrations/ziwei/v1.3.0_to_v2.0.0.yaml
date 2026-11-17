@@ -1,0 +1,21 @@
+_meta:
+  school: 紫微
+  from_version: 1.3.0
+  to_version: 2.0.0
+  breaking: true
+  reason: D01-D13 evidence-scoped annotation contract
+compatibility:
+  chunk_fields_affected:
+  - ziwei
+  automatic_rewrite: false
+  historical_corpus_unchanged: true
+rules:
+- kind: schema_evolution
+  description: Nullable states, scoped evidence, multi-value classification and typed
+    relations; no automatic corpus migration.
+- kind: semantic_drift
+  field: patterns_mentioned.pattern_name
+  legacy_id: pat_matou_daijian
+  candidate_ids: [pat_horse_head_sword, pat_horse_head_arrow]
+  resolution: canonical_or_source_evidence_required
+  automatic_rewrite: false

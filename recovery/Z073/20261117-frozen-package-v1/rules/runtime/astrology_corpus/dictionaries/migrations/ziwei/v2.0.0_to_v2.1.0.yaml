@@ -1,0 +1,17 @@
+_meta:
+  school: 紫微
+  from_version: 2.0.0
+  to_version: 2.1.0
+  breaking: true
+  reason: Scoped time, partial transformations, placement and source-defined term coverage
+compatibility:
+  chunk_fields_affected: [ziwei]
+  automatic_rewrite: false
+  historical_corpus_unchanged: true
+rules:
+- kind: schema_evolution
+  description: Optional time_mentions, partial four transformations and star_groups_mentioned; legacy models remain readable.
+- kind: semantic_drift
+  field: star_interactions_mentioned
+  description: 巨日/日巨 denotes a star group alone; no automatic same-palace inference.
+  automatic_rewrite: false

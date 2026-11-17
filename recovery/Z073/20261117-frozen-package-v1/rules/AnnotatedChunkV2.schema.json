@@ -1,0 +1,4627 @@
+{
+  "$defs": {
+    "AnnotationScope": {
+      "properties": {
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "concept",
+            "rule",
+            "conditional",
+            "case"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "condition": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Condition"
+        },
+        "attribution": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Attribution"
+        }
+      },
+      "required": [
+        "scope_id",
+        "kind"
+      ],
+      "title": "AnnotationScope",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "AspectMention": {
+      "description": "相位提及 — 标注文本中出现的相位信息。",
+      "properties": {
+        "planet1": {
+          "description": "行星1",
+          "title": "Planet1",
+          "type": "string",
+          "enum": [
+            "上升点",
+            "下降点",
+            "亡神星",
+            "伊克西翁",
+            "佛鲁斯",
+            "信仰点",
+            "冥王星",
+            "凯龙星",
+            "创神星",
+            "反宿命点",
+            "土星",
+            "地球",
+            "天底",
+            "天王星",
+            "天顶",
+            "太阳",
+            "妊神星",
+            "婚神星",
+            "宿命点",
+            "平均北交点",
+            "平均南交点",
+            "平均莉莉丝",
+            "智神星",
+            "月亮",
+            "木星",
+            "水星",
+            "海王星",
+            "火星",
+            "灵点",
+            "灶神星",
+            "爱情点",
+            "真实北交点",
+            "真实南交点",
+            "真实莉莉丝",
+            "福点",
+            "谷神星",
+            "赛德娜",
+            "金星",
+            "阋神星",
+            "鸟神星"
+          ]
+        },
+        "planet2": {
+          "description": "行星2",
+          "title": "Planet2",
+          "type": "string",
+          "enum": [
+            "上升点",
+            "下降点",
+            "亡神星",
+            "伊克西翁",
+            "佛鲁斯",
+            "信仰点",
+            "冥王星",
+            "凯龙星",
+            "创神星",
+            "反宿命点",
+            "土星",
+            "地球",
+            "天底",
+            "天王星",
+            "天顶",
+            "太阳",
+            "妊神星",
+            "婚神星",
+            "宿命点",
+            "平均北交点",
+            "平均南交点",
+            "平均莉莉丝",
+            "智神星",
+            "月亮",
+            "木星",
+            "水星",
+            "海王星",
+            "火星",
+            "灵点",
+            "灶神星",
+            "爱情点",
+            "真实北交点",
+            "真实南交点",
+            "真实莉莉丝",
+            "福点",
+            "谷神星",
+            "赛德娜",
+            "金星",
+            "阋神星",
+            "鸟神星"
+          ]
+        },
+        "aspect_type": {
+          "description": "相位类型 (合相/对冲/三合等)",
+          "title": "Aspect Type",
+          "type": "string",
+          "enum": [
+            "三合",
+            "五分相",
+            "倍半刑相",
+            "八分相",
+            "六合",
+            "刑克",
+            "半六合相",
+            "双五分相",
+            "合相",
+            "对冲",
+            "梅花相"
+          ]
+        }
+      },
+      "required": [
+        "planet1",
+        "planet2",
+        "aspect_type"
+      ],
+      "title": "AspectMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "CardMention": {
+      "description": "牌面提及 — 标注文本中出现的塔罗牌信息。",
+      "properties": {
+        "card_name": {
+          "description": "牌名 (如 愚者、权杖三)",
+          "title": "Card Name",
+          "type": "string",
+          "enum": [
+            "世界",
+            "倒吊人",
+            "力量",
+            "命运之轮",
+            "圣杯七",
+            "圣杯三",
+            "圣杯九",
+            "圣杯二",
+            "圣杯五",
+            "圣杯侍从",
+            "圣杯八",
+            "圣杯六",
+            "圣杯十",
+            "圣杯四",
+            "圣杯国王",
+            "圣杯王牌",
+            "圣杯皇后",
+            "圣杯骑士",
+            "塔",
+            "太阳",
+            "女皇",
+            "女祭司",
+            "宝剑七",
+            "宝剑三",
+            "宝剑九",
+            "宝剑二",
+            "宝剑五",
+            "宝剑侍从",
+            "宝剑八",
+            "宝剑六",
+            "宝剑十",
+            "宝剑四",
+            "宝剑国王",
+            "宝剑王牌",
+            "宝剑皇后",
+            "宝剑骑士",
+            "审判",
+            "恋人",
+            "恶魔",
+            "愚者",
+            "战车",
+            "教皇",
+            "星星",
+            "月亮",
+            "权杖七",
+            "权杖三",
+            "权杖九",
+            "权杖二",
+            "权杖五",
+            "权杖侍从",
+            "权杖八",
+            "权杖六",
+            "权杖十",
+            "权杖四",
+            "权杖国王",
+            "权杖王牌",
+            "权杖皇后",
+            "权杖骑士",
+            "正义",
+            "死神",
+            "皇帝",
+            "节制",
+            "金币七",
+            "金币三",
+            "金币九",
+            "金币二",
+            "金币五",
+            "金币侍从",
+            "金币八",
+            "金币六",
+            "金币十",
+            "金币四",
+            "金币国王",
+            "金币王牌",
+            "金币皇后",
+            "金币骑士",
+            "隐士",
+            "魔术师"
+          ]
+        },
+        "position": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "正位",
+                "逆位"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "正逆位",
+          "title": "Position"
+        },
+        "spread_position": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "牌阵位置 (如 过去、现在、未来)",
+          "title": "Spread Position"
+        }
+      },
+      "required": [
+        "card_name"
+      ],
+      "title": "CardMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "EvidenceSpan": {
+      "properties": {
+        "start": {
+          "minimum": 0,
+          "title": "Start",
+          "type": "integer"
+        },
+        "end": {
+          "exclusiveMinimum": 0,
+          "title": "End",
+          "type": "integer"
+        },
+        "quote": {
+          "minLength": 1,
+          "title": "Quote",
+          "type": "string"
+        }
+      },
+      "required": [
+        "start",
+        "end",
+        "quote"
+      ],
+      "title": "EvidenceSpan",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "FieldEvidence": {
+      "properties": {
+        "field_path": {
+          "minLength": 1,
+          "pattern": "^[a-z_]+(?:\\.[a-z_0-9]+)*$",
+          "title": "Field Path",
+          "type": "string"
+        },
+        "scope": {
+          "$ref": "#/$defs/AnnotationScope"
+        },
+        "spans": {
+          "items": {
+            "$ref": "#/$defs/EvidenceSpan"
+          },
+          "title": "Spans",
+          "type": "array"
+        },
+        "basis": {
+          "default": "source",
+          "enum": [
+            "source",
+            "derived"
+          ],
+          "title": "Basis",
+          "type": "string"
+        },
+        "usage": {
+          "anyOf": [
+            {
+              "enum": [
+                "mentioned",
+                "discussed",
+                "used"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Usage"
+        },
+        "null_reason": {
+          "anyOf": [
+            {
+              "enum": [
+                "not_mentioned",
+                "not_applicable",
+                "ambiguous",
+                "multiple_values"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Null Reason"
+        },
+        "derivation_rule": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Derivation Rule"
+        },
+        "input_paths": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Input Paths",
+          "type": "array"
+        }
+      },
+      "required": [
+        "field_path",
+        "scope"
+      ],
+      "title": "FieldEvidence",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "HexagramMention": {
+      "description": "卦象提及 — 标注文本中出现的卦象信息。",
+      "properties": {
+        "hexagram_name": {
+          "description": "卦名 (如 乾为天)",
+          "title": "Hexagram Name",
+          "type": "string",
+          "enum": [
+            "乾为天",
+            "兑为泽",
+            "地天泰",
+            "地山谦",
+            "地水师",
+            "地泽临",
+            "地火明夷",
+            "地雷复",
+            "地风升",
+            "坎为水",
+            "坤为地",
+            "天地否",
+            "天山遁",
+            "天水讼",
+            "天泽履",
+            "天火同人",
+            "天雷无妄",
+            "天风姤",
+            "山地剥",
+            "山天大畜",
+            "山水蒙",
+            "山泽损",
+            "山火贲",
+            "山雷颐",
+            "山风蛊",
+            "巽为风",
+            "水地比",
+            "水天需",
+            "水山蹇",
+            "水泽节",
+            "水火既济",
+            "水雷屯",
+            "水风井",
+            "泽地萃",
+            "泽天夬",
+            "泽山咸",
+            "泽水困",
+            "泽火革",
+            "泽雷随",
+            "泽风大过",
+            "火地晋",
+            "火天大有",
+            "火山旅",
+            "火水未济",
+            "火泽睽",
+            "火雷噬嗑",
+            "火风鼎",
+            "离为火",
+            "艮为山",
+            "雷地豫",
+            "雷天大壮",
+            "雷山小过",
+            "雷水解",
+            "雷泽归妹",
+            "雷火丰",
+            "雷风恒",
+            "震为雷",
+            "风地观",
+            "风天小畜",
+            "风山渐",
+            "风水涣",
+            "风泽中孚",
+            "风火家人",
+            "风雷益"
+          ]
+        },
+        "palace": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "乾宫",
+                "兑宫",
+                "坎宫",
+                "坤宫",
+                "巽宫",
+                "离宫",
+                "艮宫",
+                "震宫"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "原文明示的归属宫",
+          "title": "Palace"
+        },
+        "derived_palace": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "乾宫",
+                "兑宫",
+                "坎宫",
+                "坤宫",
+                "巽宫",
+                "离宫",
+                "艮宫",
+                "震宫"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "版本化词表查表派生，与原文陈述分开",
+          "title": "Derived Palace"
+        },
+        "scope_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Scope Id"
+        },
+        "is_main_hexagram": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "是否为主卦",
+          "title": "Is Main Hexagram"
+        },
+        "is_changed_hexagram": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "是否为变卦",
+          "title": "Is Changed Hexagram"
+        }
+      },
+      "required": [
+        "hexagram_name"
+      ],
+      "title": "HexagramMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "LayoutMention": {
+      "properties": {
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "layout_mode": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "固定布局",
+                "无固定布局"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Layout Mode"
+        },
+        "card_count": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Card Count"
+        }
+      },
+      "required": [
+        "scope_id"
+      ],
+      "title": "LayoutMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "LiuyaoExtension": {
+      "description": "六爻领域扩展字段 (LY-01 ~ LY-07)。",
+      "properties": {
+        "knowledge_domains": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "六亲取用",
+              "卦象分析",
+              "断卦技法",
+              "爻位变化",
+              "起卦方法"
+            ]
+          },
+          "title": "Knowledge Domains",
+          "type": "array"
+        },
+        "topics_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "出行远行",
+              "功名事业",
+              "天气预测",
+              "婚姻感情",
+              "官司诉讼",
+              "寻人寻物",
+              "求财问财",
+              "生育子女",
+              "疾病健康",
+              "综合占断"
+            ]
+          },
+          "title": "Topics Mentioned",
+          "type": "array"
+        },
+        "analysis_methods": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "世应分析",
+              "六亲分析",
+              "动变分析",
+              "取用神",
+              "旺衰分析"
+            ]
+          },
+          "title": "Analysis Methods",
+          "type": "array"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/RelationMention"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "unregistered_terms": {
+          "items": {
+            "$ref": "#/$defs/UnregisteredTerm"
+          },
+          "title": "Unregistered Terms",
+          "type": "array"
+        },
+        "spirit_roles": {
+          "items": {
+            "$ref": "#/$defs/SpiritRoleMention"
+          },
+          "title": "Spirit Roles",
+          "type": "array"
+        },
+        "knowledge_domain": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "六亲取用",
+                "卦象分析",
+                "断卦技法",
+                "爻位变化",
+                "起卦方法"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "知识域分类；canonical 见 liuyao_vocabulary.yaml knowledge_domains section",
+          "title": "Knowledge Domain"
+        },
+        "hexagrams_mentioned": {
+          "description": "提及的卦象",
+          "items": {
+            "$ref": "#/$defs/HexagramMention"
+          },
+          "title": "Hexagrams Mentioned",
+          "type": "array"
+        },
+        "yao_mentioned": {
+          "description": "提及的爻位",
+          "items": {
+            "$ref": "#/$defs/YaoMention"
+          },
+          "title": "Yao Mentioned",
+          "type": "array"
+        },
+        "six_relatives_mentioned": {
+          "description": "提及的六亲 (父母/兄弟/子孙/妻财/官鬼)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "兄弟",
+              "妻财",
+              "子孙",
+              "官鬼",
+              "父母"
+            ]
+          },
+          "title": "Six Relatives Mentioned",
+          "type": "array"
+        },
+        "six_spirits_mentioned": {
+          "description": "提及的六神 (青龙/朱雀/勾陈/螣蛇/白虎/玄武)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "勾陈",
+              "朱雀",
+              "玄武",
+              "白虎",
+              "螣蛇",
+              "青龙"
+            ]
+          },
+          "title": "Six Spirits Mentioned",
+          "type": "array"
+        },
+        "yong_shen": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "兄弟",
+                "妻财",
+                "子孙",
+                "官鬼",
+                "父母"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "用神类型",
+          "title": "Yong Shen"
+        },
+        "divination_method": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "数字起卦",
+                "时间起卦",
+                "测字起卦",
+                "蓍草起卦",
+                "金钱卦"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "起卦方法 (金钱卦/时间起卦/蓍草起卦等)",
+          "title": "Divination Method"
+        },
+        "question_type": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "出行远行",
+                "功名事业",
+                "天气预测",
+                "婚姻感情",
+                "官司诉讼",
+                "寻人寻物",
+                "求财问财",
+                "生育子女",
+                "疾病健康",
+                "综合占断"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "问事类型 (求财/问事业/问婚姻等)",
+          "title": "Question Type"
+        },
+        "trigrams_mentioned": {
+          "description": "提及的八卦 (乾/坤/震/巽/坎/离/艮/兑)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "乾",
+              "兑",
+              "坎",
+              "坤",
+              "巽",
+              "离",
+              "艮",
+              "震"
+            ]
+          },
+          "title": "Trigrams Mentioned",
+          "type": "array"
+        },
+        "five_phases_mentioned": {
+          "description": "提及的五行 (金/木/水/火/土)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "土",
+              "木",
+              "水",
+              "火",
+              "金"
+            ]
+          },
+          "title": "Five Phases Mentioned",
+          "type": "array"
+        },
+        "line_statuses_mentioned": {
+          "description": "提及的爻变状态 (老阴/少阳/少阴/老阳)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "少阳",
+              "少阴",
+              "老阳",
+              "老阴"
+            ]
+          },
+          "title": "Line Statuses Mentioned",
+          "type": "array"
+        },
+        "hexagram_roles_mentioned": {
+          "description": "提及的世应 (世/应)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "世",
+              "应"
+            ]
+          },
+          "title": "Hexagram Roles Mentioned",
+          "type": "array"
+        }
+      },
+      "title": "LiuyaoExtension",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "PatternMention": {
+      "description": "格局提及 — 标注文本中出现的格局信息。",
+      "properties": {
+        "pattern_name": {
+          "description": "格局名称",
+          "title": "Pattern Name",
+          "type": "string",
+          "enum": [
+            "七杀居未",
+            "七杀朝斗",
+            "三奇嘉会",
+            "刑囚夹印",
+            "刑夹命",
+            "华盖独秀",
+            "双禄夹印",
+            "双禄朝命",
+            "同梁机昌",
+            "君臣庆会",
+            "君臣庆相",
+            "命里逢空",
+            "天姚坐守",
+            "天府朝垣",
+            "天罗地网",
+            "太阳化权",
+            "孤寡格",
+            "左右同心",
+            "巨日同宫格",
+            "巨机同宫",
+            "巨门化忌",
+            "府相朝垣",
+            "府禄同宫",
+            "府阴夹印",
+            "廉贞化忌",
+            "截空格",
+            "挟煞成格",
+            "文星拱命",
+            "日月会门",
+            "日月反背",
+            "日月夹命",
+            "日月并明",
+            "日照雷门",
+            "明珠出海",
+            "明珠朝阳",
+            "月朗天门",
+            "机月同梁",
+            "杀破狼",
+            "极居卯酉",
+            "武曲化禄",
+            "武曲坐官",
+            "沐浴桃花",
+            "泛水桃花",
+            "火上破军",
+            "火杀格",
+            "火羊格",
+            "火贪格",
+            "火铃夹命",
+            "火陀格",
+            "石中隐玉",
+            "破军朝斗",
+            "禄存坐财",
+            "科明暗禄",
+            "紫府同临",
+            "紫府朝垣",
+            "紫微在午",
+            "紫微坐官",
+            "紫微朝垣",
+            "红鸾天喜",
+            "羊陀夹命",
+            "羊陀夹忌",
+            "财荫夹印",
+            "贪武同行",
+            "贪狼化忌",
+            "贪狼浊木",
+            "路上埋尸",
+            "辅印朝垣",
+            "连权奇格",
+            "金灿光辉",
+            "铃昌破军",
+            "铃昌陀武",
+            "铃杀格",
+            "铃贪格",
+            "阳梁昌禄",
+            "雄杰清白",
+            "风月同窗",
+            "马头带剑",
+            "马头带箭",
+            "魁钺同心"
+          ]
+        },
+        "formation_status": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "成格",
+                "疑似",
+                "破格",
+                "讨论"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "成格状态",
+          "title": "Formation Status"
+        },
+        "evidence": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "格局成立依据",
+          "title": "Evidence"
+        }
+      },
+      "required": [
+        "pattern_name"
+      ],
+      "title": "PatternMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "PlanetMention": {
+      "description": "行星提及 — 标注文本中出现的行星信息。",
+      "properties": {
+        "planet": {
+          "description": "行星名称",
+          "title": "Planet",
+          "type": "string",
+          "enum": [
+            "上升点",
+            "下降点",
+            "亡神星",
+            "伊克西翁",
+            "佛鲁斯",
+            "信仰点",
+            "冥王星",
+            "凯龙星",
+            "创神星",
+            "反宿命点",
+            "土星",
+            "地球",
+            "天底",
+            "天王星",
+            "天顶",
+            "太阳",
+            "妊神星",
+            "婚神星",
+            "宿命点",
+            "平均北交点",
+            "平均南交点",
+            "平均莉莉丝",
+            "智神星",
+            "月亮",
+            "木星",
+            "水星",
+            "海王星",
+            "火星",
+            "灵点",
+            "灶神星",
+            "爱情点",
+            "真实北交点",
+            "真实南交点",
+            "真实莉莉丝",
+            "福点",
+            "谷神星",
+            "赛德娜",
+            "金星",
+            "阋神星",
+            "鸟神星"
+          ]
+        },
+        "scope_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Scope Id"
+        },
+        "sign": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "双子座",
+                "双鱼座",
+                "处女座",
+                "天秤座",
+                "天蝎座",
+                "射手座",
+                "巨蟹座",
+                "摩羯座",
+                "水瓶座",
+                "狮子座",
+                "白羊座",
+                "金牛座"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "所在星座",
+          "title": "Sign"
+        },
+        "house": {
+          "anyOf": [
+            {
+              "maximum": 12,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "所在宫位",
+          "title": "House"
+        },
+        "is_retrograde": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "是否逆行",
+          "title": "Is Retrograde"
+        }
+      },
+      "required": [
+        "planet"
+      ],
+      "title": "PlanetMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "RelationMention": {
+      "properties": {
+        "relation_type": {
+          "title": "Relation Type",
+          "type": "string"
+        },
+        "participants": {
+          "items": {
+            "$ref": "#/$defs/RelationParticipant"
+          },
+          "minItems": 2,
+          "title": "Participants",
+          "type": "array"
+        },
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "negated": {
+          "default": false,
+          "title": "Negated",
+          "type": "boolean"
+        },
+        "condition": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Condition"
+        }
+      },
+      "required": [
+        "relation_type",
+        "participants",
+        "scope_id"
+      ],
+      "title": "RelationMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "RelationParticipant": {
+      "properties": {
+        "entity_type": {
+          "minLength": 1,
+          "title": "Entity Type",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "role": {
+          "minLength": 1,
+          "title": "Role",
+          "type": "string"
+        },
+        "location": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Location"
+        }
+      },
+      "required": [
+        "entity_type",
+        "name",
+        "role"
+      ],
+      "title": "RelationParticipant",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "RetrievalEligibility": {
+      "properties": {
+        "status": {
+          "enum": [
+            "eligible",
+            "limited",
+            "archive_only"
+          ],
+          "title": "Status",
+          "type": "string"
+        },
+        "reason": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reason"
+        },
+        "usable_spans": {
+          "items": {
+            "$ref": "#/$defs/EvidenceSpan"
+          },
+          "title": "Usable Spans",
+          "type": "array"
+        }
+      },
+      "required": [
+        "status"
+      ],
+      "title": "RetrievalEligibility",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "SihuaMention": {
+      "description": "四化提及 — 标注文本中出现的四化信息。",
+      "properties": {
+        "star": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "七杀",
+                "三台",
+                "丧门",
+                "临官",
+                "亡神",
+                "伏兵",
+                "八座",
+                "养",
+                "冠带",
+                "凤阁",
+                "力士",
+                "劫杀",
+                "劫煞",
+                "华盖",
+                "博士",
+                "台辅",
+                "右弼",
+                "吊客",
+                "咸池",
+                "喜神",
+                "地劫",
+                "地空",
+                "墓",
+                "大耗",
+                "天伤",
+                "天使",
+                "天刑",
+                "天厨",
+                "天同",
+                "天哭",
+                "天喜",
+                "天姚",
+                "天官",
+                "天寿",
+                "天巫",
+                "天府",
+                "天德",
+                "天才",
+                "天月",
+                "天机",
+                "天梁",
+                "天煞",
+                "天相",
+                "天福",
+                "天空",
+                "天虚",
+                "天贵",
+                "天钺",
+                "天马",
+                "天魁",
+                "太岁",
+                "太阳",
+                "太阴",
+                "奏书",
+                "孤辰",
+                "官府",
+                "官符",
+                "寡宿",
+                "封诰",
+                "将军",
+                "将星",
+                "小耗",
+                "岁建",
+                "岁破",
+                "岁驿",
+                "左辅",
+                "巨门",
+                "帝旺",
+                "年解",
+                "廉贞",
+                "恩光",
+                "息神",
+                "截空",
+                "截路",
+                "指背",
+                "擎羊",
+                "攀鞍",
+                "文昌",
+                "文曲",
+                "日喜",
+                "日昌",
+                "日曲",
+                "日禄",
+                "日羊",
+                "日钺",
+                "日陀",
+                "日马",
+                "日魁",
+                "日鸾",
+                "旬中",
+                "旬空",
+                "时喜",
+                "时昌",
+                "时曲",
+                "时禄",
+                "时羊",
+                "时钺",
+                "时陀",
+                "时马",
+                "时魁",
+                "时鸾",
+                "晦气",
+                "月喜",
+                "月德",
+                "月昌",
+                "月曲",
+                "月煞",
+                "月禄",
+                "月羊",
+                "月钺",
+                "月陀",
+                "月马",
+                "月魁",
+                "月鸾",
+                "武曲",
+                "死",
+                "沐浴",
+                "流喜",
+                "流昌",
+                "流曲",
+                "流禄",
+                "流羊",
+                "流钺",
+                "流陀",
+                "流马",
+                "流魁",
+                "流鸾",
+                "火星",
+                "灾煞",
+                "病",
+                "病符",
+                "白虎",
+                "破军",
+                "破碎",
+                "禄存",
+                "空亡",
+                "紫微",
+                "红鸾",
+                "绝",
+                "胎",
+                "蜚廉",
+                "衰",
+                "解神",
+                "贪狼",
+                "贯索",
+                "运喜",
+                "运昌",
+                "运曲",
+                "运禄",
+                "运羊",
+                "运钺",
+                "运陀",
+                "运马",
+                "运魁",
+                "运鸾",
+                "铃星",
+                "长生",
+                "阴煞",
+                "陀罗",
+                "青龙",
+                "飞廉",
+                "龙德",
+                "龙池"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "化曜星曜；原文未指明时为null，不以四化名代替",
+          "title": "Star"
+        },
+        "transformation": {
+          "description": "四化类型",
+          "title": "Transformation",
+          "type": "string",
+          "enum": [
+            "化忌",
+            "化权",
+            "化禄",
+            "化科"
+          ]
+        },
+        "tiangan": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "触发天干",
+          "title": "Tiangan"
+        },
+        "palace": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "交友宫",
+                "兄弟宫",
+                "命宫",
+                "夫妻宫",
+                "子女宫",
+                "官禄宫",
+                "来因宫",
+                "父母宫",
+                "田宅宫",
+                "疾厄宫",
+                "福德宫",
+                "财帛宫",
+                "身宫",
+                "迁移宫"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "承载星曜/四化的宫位，不是仅受影响的宫位",
+          "title": "Palace"
+        },
+        "source_palace": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "交友宫",
+                "兄弟宫",
+                "命宫",
+                "夫妻宫",
+                "子女宫",
+                "官禄宫",
+                "来因宫",
+                "父母宫",
+                "田宅宫",
+                "疾厄宫",
+                "福德宫",
+                "财帛宫",
+                "身宫",
+                "迁移宫"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "原文明确的飞化发出宫位",
+          "title": "Source Palace"
+        },
+        "target_palace": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "交友宫",
+                "兄弟宫",
+                "命宫",
+                "夫妻宫",
+                "子女宫",
+                "官禄宫",
+                "来因宫",
+                "父母宫",
+                "田宅宫",
+                "疾厄宫",
+                "福德宫",
+                "财帛宫",
+                "身宫",
+                "迁移宫"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "原文明确的飞入宫位，不是泛指影响对象",
+          "title": "Target Palace"
+        },
+        "scope_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Scope Id"
+        }
+      },
+      "required": [
+        "transformation"
+      ],
+      "title": "SihuaMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "SpiritRoleMention": {
+      "properties": {
+        "role": {
+          "title": "Role",
+          "type": "string",
+          "enum": [
+            "仇神",
+            "伏神",
+            "原神",
+            "忌神",
+            "用神",
+            "闲神",
+            "飞神"
+          ]
+        },
+        "six_relative": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "兄弟",
+                "妻财",
+                "子孙",
+                "官鬼",
+                "父母"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Six Relative"
+        },
+        "ordinal": {
+          "anyOf": [
+            {
+              "maximum": 6,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ordinal"
+        },
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "is_moving": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Is Moving"
+        }
+      },
+      "required": [
+        "role",
+        "scope_id"
+      ],
+      "title": "SpiritRoleMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "SpreadMention": {
+      "properties": {
+        "spread": {
+          "title": "Spread",
+          "type": "string",
+          "enum": [
+            "三张牌阵",
+            "事业牌阵",
+            "关系牌阵",
+            "决策牌阵",
+            "凯尔特十字",
+            "单张牌",
+            "四季牌阵",
+            "年度牌阵",
+            "自我探索牌阵",
+            "马蹄牌阵",
+            "黄道十二宫牌阵"
+          ]
+        },
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "usage": {
+          "enum": [
+            "mentioned",
+            "discussed",
+            "used"
+          ],
+          "title": "Usage",
+          "type": "string"
+        },
+        "explanation": {
+          "default": "unknown",
+          "enum": [
+            "complete",
+            "partial",
+            "not_explained",
+            "unknown"
+          ],
+          "title": "Explanation",
+          "type": "string"
+        }
+      },
+      "required": [
+        "spread",
+        "scope_id",
+        "usage"
+      ],
+      "title": "SpreadMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "TarotExtension": {
+      "description": "塔罗领域扩展字段 (TR-01 ~ TR-06)。",
+      "properties": {
+        "knowledge_domains": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "元素象征",
+              "占星对应",
+              "卡巴拉对应",
+              "数字象征",
+              "牌义解读",
+              "牌阵应用",
+              "解读技法",
+              "逆位理论"
+            ]
+          },
+          "title": "Knowledge Domains",
+          "type": "array"
+        },
+        "topics_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "事业工作",
+              "人际关系",
+              "健康身心",
+              "决策选择",
+              "时机时间",
+              "灵性成长",
+              "爱情关系",
+              "综合问题",
+              "自我探索",
+              "财务金钱"
+            ]
+          },
+          "title": "Topics Mentioned",
+          "type": "array"
+        },
+        "analysis_methods": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "传统读牌",
+              "元素分析",
+              "心理分析",
+              "故事叙述",
+              "数字分析",
+              "直觉读牌"
+            ]
+          },
+          "title": "Analysis Methods",
+          "type": "array"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/RelationMention"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "unregistered_terms": {
+          "items": {
+            "$ref": "#/$defs/UnregisteredTerm"
+          },
+          "title": "Unregistered Terms",
+          "type": "array"
+        },
+        "spreads_used": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "三张牌阵",
+              "事业牌阵",
+              "关系牌阵",
+              "决策牌阵",
+              "凯尔特十字",
+              "单张牌",
+              "四季牌阵",
+              "年度牌阵",
+              "自我探索牌阵",
+              "马蹄牌阵",
+              "黄道十二宫牌阵"
+            ]
+          },
+          "title": "Spreads Used",
+          "type": "array"
+        },
+        "spread_mentions": {
+          "items": {
+            "$ref": "#/$defs/SpreadMention"
+          },
+          "title": "Spread Mentions",
+          "type": "array"
+        },
+        "layouts": {
+          "items": {
+            "$ref": "#/$defs/LayoutMention"
+          },
+          "title": "Layouts",
+          "type": "array"
+        },
+        "knowledge_domain": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "元素象征",
+                "占星对应",
+                "卡巴拉对应",
+                "数字象征",
+                "牌义解读",
+                "牌阵应用",
+                "解读技法",
+                "逆位理论"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "塔罗知识域",
+          "title": "Knowledge Domain"
+        },
+        "cards_mentioned": {
+          "description": "提及的塔罗牌",
+          "items": {
+            "$ref": "#/$defs/CardMention"
+          },
+          "title": "Cards Mentioned",
+          "type": "array"
+        },
+        "spread_used": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "三张牌阵",
+                "事业牌阵",
+                "关系牌阵",
+                "决策牌阵",
+                "凯尔特十字",
+                "单张牌",
+                "四季牌阵",
+                "年度牌阵",
+                "自我探索牌阵",
+                "马蹄牌阵",
+                "黄道十二宫牌阵"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "使用的牌阵 (凯尔特十字/三张牌阵等)",
+          "title": "Spread Used"
+        },
+        "elements_mentioned": {
+          "description": "提及的元素",
+          "items": {
+            "type": "string",
+            "enum": [
+              "土",
+              "水",
+              "火",
+              "风"
+            ]
+          },
+          "title": "Elements Mentioned",
+          "type": "array"
+        },
+        "suits_mentioned": {
+          "description": "提及的花色",
+          "items": {
+            "type": "string",
+            "enum": [
+              "圣杯",
+              "宝剑",
+              "权杖",
+              "金币"
+            ]
+          },
+          "title": "Suits Mentioned",
+          "type": "array"
+        },
+        "reading_topic": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "事业工作",
+                "人际关系",
+                "健康身心",
+                "决策选择",
+                "时机时间",
+                "灵性成长",
+                "爱情关系",
+                "综合问题",
+                "自我探索",
+                "财务金钱"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "占卜主题 (爱情/事业/财务等)",
+          "title": "Reading Topic"
+        },
+        "card_combinations_mentioned": {
+          "description": "提及的牌组组合 (如 [['愚者','魔术师']])",
+          "items": {
+            "items": {
+              "type": "string",
+              "enum": [
+                "世界",
+                "倒吊人",
+                "力量",
+                "命运之轮",
+                "圣杯七",
+                "圣杯三",
+                "圣杯九",
+                "圣杯二",
+                "圣杯五",
+                "圣杯侍从",
+                "圣杯八",
+                "圣杯六",
+                "圣杯十",
+                "圣杯四",
+                "圣杯国王",
+                "圣杯王牌",
+                "圣杯皇后",
+                "圣杯骑士",
+                "塔",
+                "太阳",
+                "女皇",
+                "女祭司",
+                "宝剑七",
+                "宝剑三",
+                "宝剑九",
+                "宝剑二",
+                "宝剑五",
+                "宝剑侍从",
+                "宝剑八",
+                "宝剑六",
+                "宝剑十",
+                "宝剑四",
+                "宝剑国王",
+                "宝剑王牌",
+                "宝剑皇后",
+                "宝剑骑士",
+                "审判",
+                "恋人",
+                "恶魔",
+                "愚者",
+                "战车",
+                "教皇",
+                "星星",
+                "月亮",
+                "权杖七",
+                "权杖三",
+                "权杖九",
+                "权杖二",
+                "权杖五",
+                "权杖侍从",
+                "权杖八",
+                "权杖六",
+                "权杖十",
+                "权杖四",
+                "权杖国王",
+                "权杖王牌",
+                "权杖皇后",
+                "权杖骑士",
+                "正义",
+                "死神",
+                "皇帝",
+                "节制",
+                "金币七",
+                "金币三",
+                "金币九",
+                "金币二",
+                "金币五",
+                "金币侍从",
+                "金币八",
+                "金币六",
+                "金币十",
+                "金币四",
+                "金币国王",
+                "金币王牌",
+                "金币皇后",
+                "金币骑士",
+                "隐士",
+                "魔术师"
+              ]
+            },
+            "type": "array"
+          },
+          "title": "Card Combinations Mentioned",
+          "type": "array"
+        },
+        "reading_technique": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "传统读牌",
+                "元素分析",
+                "心理分析",
+                "故事叙述",
+                "数字分析",
+                "直觉读牌"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "解读技法 (直觉读牌/传统读牌/元素分析/数字分析/故事叙述/心理分析)",
+          "title": "Reading Technique"
+        },
+        "spreads_mentioned": {
+          "description": "提及的牌阵",
+          "items": {
+            "type": "string",
+            "enum": [
+              "三张牌阵",
+              "事业牌阵",
+              "关系牌阵",
+              "决策牌阵",
+              "凯尔特十字",
+              "单张牌",
+              "四季牌阵",
+              "年度牌阵",
+              "自我探索牌阵",
+              "马蹄牌阵",
+              "黄道十二宫牌阵"
+            ]
+          },
+          "title": "Spreads Mentioned",
+          "type": "array"
+        },
+        "positions_mentioned": {
+          "description": "文章级别 positions 汇总（vocab: positions 词表，如正位/逆位），与 CardMention.position（单卡正/逆位卡牌级字段）语义层级不同",
+          "items": {
+            "type": "string",
+            "enum": [
+              "正位",
+              "逆位"
+            ]
+          },
+          "title": "Positions Mentioned",
+          "type": "array"
+        },
+        "reading_techniques_mentioned": {
+          "description": "提及的解读技法",
+          "items": {
+            "type": "string",
+            "enum": [
+              "传统读牌",
+              "元素分析",
+              "心理分析",
+              "故事叙述",
+              "数字分析",
+              "直觉读牌"
+            ]
+          },
+          "title": "Reading Techniques Mentioned",
+          "type": "array"
+        }
+      },
+      "title": "TarotExtension",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "TimeContextMention": {
+      "properties": {
+        "time_context": {
+          "title": "Time Context",
+          "type": "string",
+          "enum": [
+            "大限",
+            "本命",
+            "流年",
+            "流日",
+            "流时",
+            "流月",
+            "通用"
+          ]
+        },
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        },
+        "subject": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Subject"
+        },
+        "chart_type": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "合盘",
+                "大限盘",
+                "本命盘",
+                "流年盘",
+                "流月盘"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Chart Type"
+        }
+      },
+      "required": [
+        "time_context",
+        "scope_id"
+      ],
+      "title": "TimeContextMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "UnregisteredTerm": {
+      "description": "Source surface retained for review; never silently promoted to a canonical ID.",
+      "properties": {
+        "surface": {
+          "minLength": 1,
+          "title": "Surface",
+          "type": "string"
+        },
+        "proposed_category": {
+          "minLength": 1,
+          "title": "Proposed Category",
+          "type": "string"
+        },
+        "reason": {
+          "minLength": 1,
+          "title": "Reason",
+          "type": "string"
+        },
+        "english_surface": {
+          "minLength": 1,
+          "title": "English Surface",
+          "type": "string"
+        },
+        "scope_id": {
+          "minLength": 1,
+          "title": "Scope Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "surface",
+        "proposed_category",
+        "reason",
+        "english_surface",
+        "scope_id"
+      ],
+      "title": "UnregisteredTerm",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "WesternExtension": {
+      "description": "西方占星领域扩展字段 (WA-01 ~ WA-09)。",
+      "properties": {
+        "knowledge_domains": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "宫位意义",
+              "星座特质",
+              "相位解读",
+              "行星性质",
+              "过境推运"
+            ]
+          },
+          "title": "Knowledge Domains",
+          "type": "array"
+        },
+        "topics_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "事业工作",
+              "健康身心",
+              "家庭亲子",
+              "感情关系",
+              "社会事务",
+              "自我成长",
+              "财务金钱"
+            ]
+          },
+          "title": "Topics Mentioned",
+          "type": "array"
+        },
+        "analysis_methods": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "世俗占星",
+              "医疗占星",
+              "卜卦占星",
+              "合盘分析",
+              "太阳回归",
+              "择日占星",
+              "推运",
+              "月亮回归",
+              "本命盘分析",
+              "组合盘",
+              "财经占星",
+              "过境分析"
+            ]
+          },
+          "title": "Analysis Methods",
+          "type": "array"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/RelationMention"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "unregistered_terms": {
+          "items": {
+            "$ref": "#/$defs/UnregisteredTerm"
+          },
+          "title": "Unregistered Terms",
+          "type": "array"
+        },
+        "chart_types_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "世俗盘",
+              "卜卦盘",
+              "合盘",
+              "太阳回归盘",
+              "择日盘",
+              "推运盘",
+              "月亮回归盘",
+              "本命盘",
+              "组合盘",
+              "行运盘"
+            ]
+          },
+          "title": "Chart Types Mentioned",
+          "type": "array"
+        },
+        "knowledge_domain": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "宫位意义",
+                "星座特质",
+                "相位解读",
+                "行星性质",
+                "过境推运"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "知识域分类；canonical 见 western_vocabulary.yaml knowledge_domains section",
+          "title": "Knowledge Domain"
+        },
+        "planets_mentioned": {
+          "description": "提及的行星",
+          "items": {
+            "$ref": "#/$defs/PlanetMention"
+          },
+          "title": "Planets Mentioned",
+          "type": "array"
+        },
+        "signs_mentioned": {
+          "description": "提及的星座",
+          "items": {
+            "type": "string",
+            "enum": [
+              "双子座",
+              "双鱼座",
+              "处女座",
+              "天秤座",
+              "天蝎座",
+              "射手座",
+              "巨蟹座",
+              "摩羯座",
+              "水瓶座",
+              "狮子座",
+              "白羊座",
+              "金牛座"
+            ]
+          },
+          "title": "Signs Mentioned",
+          "type": "array"
+        },
+        "houses_mentioned": {
+          "description": "提及的宫位 (1-12)",
+          "items": {
+            "type": "integer"
+          },
+          "title": "Houses Mentioned",
+          "type": "array"
+        },
+        "aspects_mentioned": {
+          "description": "提及的相位",
+          "items": {
+            "$ref": "#/$defs/AspectMention"
+          },
+          "title": "Aspects Mentioned",
+          "type": "array"
+        },
+        "is_transit_analysis": {
+          "default": false,
+          "description": "是否涉及过境分析",
+          "title": "Is Transit Analysis",
+          "type": "boolean"
+        },
+        "retrograde_planets": {
+          "description": "涉及的逆行行星",
+          "items": {
+            "type": "string",
+            "enum": [
+              "上升点",
+              "下降点",
+              "亡神星",
+              "伊克西翁",
+              "佛鲁斯",
+              "信仰点",
+              "冥王星",
+              "凯龙星",
+              "创神星",
+              "反宿命点",
+              "土星",
+              "地球",
+              "天底",
+              "天王星",
+              "天顶",
+              "太阳",
+              "妊神星",
+              "婚神星",
+              "宿命点",
+              "平均北交点",
+              "平均南交点",
+              "平均莉莉丝",
+              "智神星",
+              "月亮",
+              "木星",
+              "水星",
+              "海王星",
+              "火星",
+              "灵点",
+              "灶神星",
+              "爱情点",
+              "真实北交点",
+              "真实南交点",
+              "真实莉莉丝",
+              "福点",
+              "谷神星",
+              "赛德娜",
+              "金星",
+              "阋神星",
+              "鸟神星"
+            ]
+          },
+          "title": "Retrograde Planets",
+          "type": "array"
+        },
+        "house_system": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "APC制",
+                "克鲁辛斯基制",
+                "卡特制",
+                "地平线制",
+                "地表制",
+                "坎帕纳斯制",
+                "整宫制",
+                "斯里帕蒂制",
+                "普伦正弦三角制",
+                "普伦正弦比制",
+                "普拉西度制",
+                "波菲利制",
+                "科赫制",
+                "等宫制",
+                "等宫制(MC)",
+                "等宫制(白羊起点)",
+                "莫里纳斯制",
+                "轴旋转制",
+                "阳光制",
+                "阳光替代制",
+                "阿尔卡比提乌斯制",
+                "雷格蒙坦斯制",
+                "韦洛等宫制"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "使用的宫位制 (普拉西度制/整宫制等)",
+          "title": "House System"
+        },
+        "chart_type": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "世俗盘",
+                "卜卦盘",
+                "合盘",
+                "太阳回归盘",
+                "择日盘",
+                "推运盘",
+                "月亮回归盘",
+                "本命盘",
+                "组合盘",
+                "行运盘"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "星盘类型",
+          "title": "Chart Type"
+        },
+        "elements_mentioned": {
+          "description": "提及的元素 (火象/土象/风象/水象)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "土象",
+              "水象",
+              "火象",
+              "风象"
+            ]
+          },
+          "title": "Elements Mentioned",
+          "type": "array"
+        },
+        "modalities_mentioned": {
+          "description": "提及的模式 (开创/固定/变动)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "变动",
+              "固定",
+              "开创"
+            ]
+          },
+          "title": "Modalities Mentioned",
+          "type": "array"
+        },
+        "dignities_mentioned": {
+          "description": "提及的尊贵状态 (入庙/擢升/落陷/弱势等)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "三分主星",
+              "入庙",
+              "失势",
+              "旺相",
+              "果宫",
+              "界主",
+              "续宫",
+              "落陷",
+              "角宫",
+              "面主"
+            ]
+          },
+          "title": "Dignities Mentioned",
+          "type": "array"
+        },
+        "fixed_stars_mentioned": {
+          "description": "提及的恒星 (天狼星/老人星等)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "五帝座一",
+              "五车三",
+              "五车二",
+              "五车五",
+              "井宿三",
+              "侯",
+              "军市一",
+              "北极星",
+              "北河三",
+              "北河二",
+              "北落师门",
+              "十字架一",
+              "十字架三",
+              "十字架二",
+              "南河三",
+              "南门二",
+              "参宿一",
+              "参宿七",
+              "参宿三",
+              "参宿二",
+              "参宿五",
+              "参宿四",
+              "土司空",
+              "壁宿一",
+              "大角星",
+              "大陵五",
+              "天枢",
+              "天津四",
+              "天狼星",
+              "天璇",
+              "天社一",
+              "天船三",
+              "太微右垣五",
+              "娄宿三",
+              "室宿一",
+              "室宿二",
+              "尾宿五",
+              "尾宿八",
+              "弧矢一",
+              "弧矢七",
+              "心宿二",
+              "摇光",
+              "斗宿四",
+              "星宿一",
+              "昴宿六",
+              "毕宿五",
+              "氐宿一",
+              "水委一",
+              "海石一",
+              "火鸟六",
+              "牛郎星",
+              "玉衡",
+              "箕宿三",
+              "织女星",
+              "老人星",
+              "船底星",
+              "蛇心",
+              "角宿一",
+              "贯索四",
+              "轩辕十四"
+            ]
+          },
+          "title": "Fixed Stars Mentioned",
+          "type": "array"
+        },
+        "lunar_phase": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "上弦月",
+                "下弦月",
+                "亏凸月",
+                "新月",
+                "满月",
+                "盈凸月",
+                "眉月"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "提及的月相 (新月/眉月/上弦月/…)",
+          "title": "Lunar Phase"
+        },
+        "analysis_type_mentioned": {
+          "description": "提及的分析类型 (本命盘分析/过境分析/…)。T1.8: 原 topics_mentioned 已 rename。",
+          "items": {
+            "type": "string",
+            "enum": [
+              "世俗占星",
+              "医疗占星",
+              "卜卦占星",
+              "合盘分析",
+              "太阳回归",
+              "择日占星",
+              "推运",
+              "月亮回归",
+              "本命盘分析",
+              "组合盘",
+              "财经占星",
+              "过境分析"
+            ]
+          },
+          "title": "Analysis Type Mentioned",
+          "type": "array"
+        }
+      },
+      "title": "WesternExtension",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "YaoMention": {
+      "description": "爻位提及 — 标注文本中出现的爻位信息。",
+      "properties": {
+        "position": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "原文爻位表达；不推断未说明的阴阳",
+          "title": "Position"
+        },
+        "ordinal": {
+          "anyOf": [
+            {
+              "maximum": 6,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ordinal"
+        },
+        "polarity": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "阳",
+                "阴"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Polarity"
+        },
+        "scope_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Scope Id"
+        },
+        "is_moving": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "是否为动爻",
+          "title": "Is Moving"
+        },
+        "six_relative": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "兄弟",
+                "妻财",
+                "子孙",
+                "官鬼",
+                "父母"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "六亲 (父母/兄弟/...)",
+          "title": "Six Relative"
+        },
+        "six_spirit": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "勾陈",
+                "朱雀",
+                "玄武",
+                "白虎",
+                "螣蛇",
+                "青龙"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "六神 (青龙/朱雀/...)",
+          "title": "Six Spirit"
+        }
+      },
+      "title": "YaoMention",
+      "type": "object",
+      "additionalProperties": false
+    },
+    "ZiweiExtension": {
+      "description": "紫微斗数领域扩展字段 (ZW-01 ~ ZW-08)。\n\n用于 LLM 标注后的结构化输出，与 YAML 词表配合使用。",
+      "properties": {
+        "knowledge_domains": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "三层结构",
+              "四化星",
+              "宫位变化",
+              "对星组合",
+              "推测技法",
+              "星曜性质",
+              "格局解析",
+              "流年运程"
+            ]
+          },
+          "title": "Knowledge Domains",
+          "type": "array"
+        },
+        "topics_mentioned": {
+          "description": "提及的主题 (如 事业运势、财运分析)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "事业运势",
+              "人际关系",
+              "健康医疗",
+              "出行迁移",
+              "命运总论",
+              "子女教育",
+              "感情姻缘",
+              "财运分析"
+            ]
+          },
+          "title": "Topics Mentioned",
+          "type": "array"
+        },
+        "analysis_methods": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "三方四正",
+              "四化分析",
+              "格局分析"
+            ]
+          },
+          "title": "Analysis Methods",
+          "type": "array"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/RelationMention"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "unregistered_terms": {
+          "items": {
+            "$ref": "#/$defs/UnregisteredTerm"
+          },
+          "title": "Unregistered Terms",
+          "type": "array"
+        },
+        "chart_type": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "合盘",
+                "大限盘",
+                "本命盘",
+                "流年盘",
+                "流月盘"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Chart Type"
+        },
+        "chart_types_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "合盘",
+              "大限盘",
+              "本命盘",
+              "流年盘",
+              "流月盘"
+            ]
+          },
+          "title": "Chart Types Mentioned",
+          "type": "array"
+        },
+        "relationship_types_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "上下级",
+              "亲子",
+              "兄弟",
+              "商业",
+              "夫妻",
+              "朋友"
+            ]
+          },
+          "title": "Relationship Types Mentioned",
+          "type": "array"
+        },
+        "comparison_methods": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "主星配对",
+              "四化交叉",
+              "大限同步",
+              "夫妻宫互参",
+              "宫位对照"
+            ]
+          },
+          "title": "Comparison Methods",
+          "type": "array"
+        },
+        "time_mentions": {
+          "items": {
+            "$ref": "#/$defs/TimeContextMention"
+          },
+          "title": "Time Mentions",
+          "type": "array"
+        },
+        "star_groups_mentioned": {
+          "items": {
+            "type": "string",
+            "enum": [
+              "巨日",
+              "紫府廉武相"
+            ]
+          },
+          "title": "Star Groups Mentioned",
+          "type": "array"
+        },
+        "knowledge_domain": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "三层结构",
+                "四化星",
+                "宫位变化",
+                "对星组合",
+                "推测技法",
+                "星曜性质",
+                "格局解析",
+                "流年运程"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "知识域分类；canonical 见 ziwei_vocabulary.yaml knowledge_domains section",
+          "title": "Knowledge Domain"
+        },
+        "stars_mentioned": {
+          "description": "提及的星曜 (标准名称)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "七杀",
+              "三台",
+              "丧门",
+              "临官",
+              "亡神",
+              "伏兵",
+              "八座",
+              "养",
+              "冠带",
+              "凤阁",
+              "力士",
+              "劫杀",
+              "劫煞",
+              "华盖",
+              "博士",
+              "台辅",
+              "右弼",
+              "吊客",
+              "咸池",
+              "喜神",
+              "地劫",
+              "地空",
+              "墓",
+              "大耗",
+              "天伤",
+              "天使",
+              "天刑",
+              "天厨",
+              "天同",
+              "天哭",
+              "天喜",
+              "天姚",
+              "天官",
+              "天寿",
+              "天巫",
+              "天府",
+              "天德",
+              "天才",
+              "天月",
+              "天机",
+              "天梁",
+              "天煞",
+              "天相",
+              "天福",
+              "天空",
+              "天虚",
+              "天贵",
+              "天钺",
+              "天马",
+              "天魁",
+              "太岁",
+              "太阳",
+              "太阴",
+              "奏书",
+              "孤辰",
+              "官府",
+              "官符",
+              "寡宿",
+              "封诰",
+              "将军",
+              "将星",
+              "小耗",
+              "岁建",
+              "岁破",
+              "岁驿",
+              "左辅",
+              "巨门",
+              "帝旺",
+              "年解",
+              "廉贞",
+              "恩光",
+              "息神",
+              "截空",
+              "截路",
+              "指背",
+              "擎羊",
+              "攀鞍",
+              "文昌",
+              "文曲",
+              "日喜",
+              "日昌",
+              "日曲",
+              "日禄",
+              "日羊",
+              "日钺",
+              "日陀",
+              "日马",
+              "日魁",
+              "日鸾",
+              "旬中",
+              "旬空",
+              "时喜",
+              "时昌",
+              "时曲",
+              "时禄",
+              "时羊",
+              "时钺",
+              "时陀",
+              "时马",
+              "时魁",
+              "时鸾",
+              "晦气",
+              "月喜",
+              "月德",
+              "月昌",
+              "月曲",
+              "月煞",
+              "月禄",
+              "月羊",
+              "月钺",
+              "月陀",
+              "月马",
+              "月魁",
+              "月鸾",
+              "武曲",
+              "死",
+              "沐浴",
+              "流喜",
+              "流昌",
+              "流曲",
+              "流禄",
+              "流羊",
+              "流钺",
+              "流陀",
+              "流马",
+              "流魁",
+              "流鸾",
+              "火星",
+              "灾煞",
+              "病",
+              "病符",
+              "白虎",
+              "破军",
+              "破碎",
+              "禄存",
+              "空亡",
+              "紫微",
+              "红鸾",
+              "绝",
+              "胎",
+              "蜚廉",
+              "衰",
+              "解神",
+              "贪狼",
+              "贯索",
+              "运喜",
+              "运昌",
+              "运曲",
+              "运禄",
+              "运羊",
+              "运钺",
+              "运陀",
+              "运马",
+              "运魁",
+              "运鸾",
+              "铃星",
+              "长生",
+              "阴煞",
+              "陀罗",
+              "青龙",
+              "飞廉",
+              "龙德",
+              "龙池"
+            ]
+          },
+          "title": "Stars Mentioned",
+          "type": "array"
+        },
+        "palaces_mentioned": {
+          "description": "提及的宫位 (标准名称)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "交友宫",
+              "兄弟宫",
+              "命宫",
+              "夫妻宫",
+              "子女宫",
+              "官禄宫",
+              "来因宫",
+              "父母宫",
+              "田宅宫",
+              "疾厄宫",
+              "福德宫",
+              "财帛宫",
+              "身宫",
+              "迁移宫"
+            ]
+          },
+          "title": "Palaces Mentioned",
+          "type": "array"
+        },
+        "sihua_mentioned": {
+          "description": "提及的四化",
+          "items": {
+            "$ref": "#/$defs/SihuaMention"
+          },
+          "title": "Sihua Mentioned",
+          "type": "array"
+        },
+        "patterns_mentioned": {
+          "description": "提及的格局",
+          "items": {
+            "$ref": "#/$defs/PatternMention"
+          },
+          "title": "Patterns Mentioned",
+          "type": "array"
+        },
+        "star_pairs_mentioned": {
+          "description": "提及的对星组合 (如 左辅右弼)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "地空地劫",
+              "天魁天钺",
+              "左辅右弼",
+              "擎羊陀罗",
+              "文昌文曲",
+              "火星铃星",
+              "禄存天马"
+            ]
+          },
+          "title": "Star Pairs Mentioned",
+          "type": "array"
+        },
+        "school_variant": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "三合派",
+                "中州派",
+                "通用",
+                "钦天派",
+                "飞星派"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "紫微流派变体",
+          "title": "School Variant"
+        },
+        "time_context": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "大限",
+                "本命",
+                "流年",
+                "流日",
+                "流时",
+                "流月",
+                "通用"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "时间语境 (本命/大限/流年等)",
+          "title": "Time Context"
+        },
+        "star_interactions_mentioned": {
+          "description": "提及的星曜交互 (如 紫府同临、桃花犯主)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "同巨同宫",
+              "同梁同宫",
+              "同阴同宫",
+              "巨日同宫",
+              "府相朝垣",
+              "廉府同宫",
+              "廉杀同宫",
+              "廉相同宫",
+              "廉破同宫",
+              "廉贪同宫",
+              "日月同宫",
+              "机巨同宫",
+              "机月同宫",
+              "机梁同宫",
+              "桃花犯主",
+              "武府同宫",
+              "武杀同宫",
+              "武相同宫",
+              "武破同宫",
+              "紫府同临",
+              "紫杀同临",
+              "紫破同宫",
+              "贪武同行",
+              "阳梁同宫"
+            ]
+          },
+          "title": "Star Interactions Mentioned",
+          "type": "array"
+        }
+      },
+      "title": "ZiweiExtension",
+      "type": "object",
+      "additionalProperties": false
+    }
+  },
+  "description": "带领域扩展的完整标注记录 — 支持四流派专属字段。\n\n相比 AnnotatedChunk:\n- 新增 ziwei/liuyao/tarot/western 四个可选扩展字段\n- 根据 school 字段动态填充对应的扩展",
+  "properties": {
+    "chunk_id": {
+      "pattern": "^[a-z0-9_]+_c\\d{3,}$",
+      "title": "Chunk Id",
+      "type": "string"
+    },
+    "source_file": {
+      "minLength": 1,
+      "title": "Source File",
+      "type": "string"
+    },
+    "page_range": {
+      "items": {
+        "type": "integer"
+      },
+      "minItems": 1,
+      "title": "Page Range",
+      "type": "array"
+    },
+    "chunk_text": {
+      "minLength": 1,
+      "title": "Chunk Text",
+      "type": "string"
+    },
+    "chunk_index": {
+      "minimum": 1,
+      "title": "Chunk Index",
+      "type": "integer"
+    },
+    "school": {
+      "title": "School",
+      "type": "string",
+      "enum": [
+        "紫微",
+        "六爻",
+        "西占",
+        "塔罗",
+        "通用"
+      ]
+    },
+    "content_type": {
+      "enum": [
+        "概念解释",
+        "实战断语",
+        "案例分析",
+        "古籍原文",
+        "问答对话"
+      ],
+      "title": "Content Type",
+      "type": "string"
+    },
+    "difficulty": {
+      "enum": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "title": "Difficulty",
+      "type": "string"
+    },
+    "summary": {
+      "maxLength": 300,
+      "title": "Summary",
+      "type": "string"
+    },
+    "summary_en": {
+      "default": "",
+      "description": "英文摘要，最多150个按空白分隔的词；超限重写",
+      "title": "Summary En",
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^\\s*\\S+(?:\\s+\\S+){0,149}\\s*$"
+    },
+    "keywords": {
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10,
+      "title": "Keywords",
+      "type": "array"
+    },
+    "keywords_en": {
+      "description": "英文关键词 (可选)",
+      "items": {
+        "type": "string"
+      },
+      "title": "Keywords En",
+      "type": "array"
+    },
+    "topic": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "主题分类 (如 命运总论、财运分析)",
+      "title": "Topic"
+    },
+    "annotation_evidence": {
+      "items": {
+        "$ref": "#/$defs/FieldEvidence"
+      },
+      "title": "Annotation Evidence",
+      "type": "array"
+    },
+    "retrieval_eligibility": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/RetrievalEligibility"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "历史缺省兼容；新输出显式判断可检索、局部可用或仅归档"
+    },
+    "content_language": {
+      "default": "zh",
+      "description": "语料语言 (zh=中文, en=英文)",
+      "enum": [
+        "zh",
+        "en"
+      ],
+      "title": "Content Language",
+      "type": "string"
+    },
+    "school_code": {
+      "default": "generic",
+      "description": "机器可读的流派代码，用于向量库 metadata filter",
+      "enum": [
+        "ziwei",
+        "liuyao",
+        "western",
+        "tarot",
+        "generic"
+      ],
+      "title": "School Code",
+      "type": "string"
+    },
+    "ziwei": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/ZiweiExtension"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "紫微斗数扩展 (school=紫微 时填充)"
+    },
+    "liuyao": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/LiuyaoExtension"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "六爻扩展 (school=六爻 时填充)"
+    },
+    "tarot": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/TarotExtension"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "塔罗扩展 (school=塔罗 时填充)"
+    },
+    "western": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/WesternExtension"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "西方占星扩展 (school=西占 时填充)"
+    },
+    "associated_image_chunk_ids": {
+      "description": "关联的图像 chunk ID",
+      "items": {
+        "type": "string"
+      },
+      "title": "Associated Image Chunk Ids",
+      "type": "array"
+    },
+    "vocab_version": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "vocab YAML 主版本快照（从 _meta.version 读取）",
+      "title": "Vocab Version"
+    },
+    "school_vocab_version": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "流派 vocab 版本快照",
+      "title": "School Vocab Version"
+    },
+    "annotation_version": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "标注器版本（来自 astrology_corpus.annotation.ANNOTATION_VERSION）",
+      "title": "Annotation Version"
+    },
+    "annotation_metadata": {
+      "anyOf": [
+        {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "回填脚本元数据足迹（trace 用），不参与检索，不影响 payload",
+      "title": "Annotation Metadata"
+    }
+  },
+  "required": [
+    "annotation_evidence",
+    "chunk_id",
+    "chunk_index",
+    "chunk_text",
+    "content_type",
+    "difficulty",
+    "page_range",
+    "school",
+    "source_file",
+    "summary",
+    "summary_en"
+  ],
+  "title": "AnnotatedChunkV2",
+  "type": "object",
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "school": {
+            "const": "紫微"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "school_code": {
+            "const": "ziwei"
+          },
+          "ziwei": {
+            "type": "object",
+            "properties": {
+              "relations": {
+                "items": {
+                  "properties": {
+                    "relation_type": {
+                      "enum": [
+                        "同宫",
+                        "星曜入宫",
+                        "夹辅",
+                        "对宫",
+                        "四化作用"
+                      ]
+                    },
+                    "participants": {
+                      "items": {
+                        "properties": {
+                          "entity_type": {
+                            "enum": [
+                              "star",
+                              "palace",
+                              "pattern"
+                            ]
+                          }
+                        },
+                        "allOf": [
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "star"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "七杀",
+                                    "三台",
+                                    "丧门",
+                                    "临官",
+                                    "亡神",
+                                    "伏兵",
+                                    "八座",
+                                    "养",
+                                    "冠带",
+                                    "凤阁",
+                                    "力士",
+                                    "劫杀",
+                                    "劫煞",
+                                    "华盖",
+                                    "博士",
+                                    "台辅",
+                                    "右弼",
+                                    "吊客",
+                                    "咸池",
+                                    "喜神",
+                                    "地劫",
+                                    "地空",
+                                    "墓",
+                                    "大耗",
+                                    "天伤",
+                                    "天使",
+                                    "天刑",
+                                    "天厨",
+                                    "天同",
+                                    "天哭",
+                                    "天喜",
+                                    "天姚",
+                                    "天官",
+                                    "天寿",
+                                    "天巫",
+                                    "天府",
+                                    "天德",
+                                    "天才",
+                                    "天月",
+                                    "天机",
+                                    "天梁",
+                                    "天煞",
+                                    "天相",
+                                    "天福",
+                                    "天空",
+                                    "天虚",
+                                    "天贵",
+                                    "天钺",
+                                    "天马",
+                                    "天魁",
+                                    "太岁",
+                                    "太阳",
+                                    "太阴",
+                                    "奏书",
+                                    "孤辰",
+                                    "官府",
+                                    "官符",
+                                    "寡宿",
+                                    "封诰",
+                                    "将军",
+                                    "将星",
+                                    "小耗",
+                                    "岁建",
+                                    "岁破",
+                                    "岁驿",
+                                    "左辅",
+                                    "巨门",
+                                    "帝旺",
+                                    "年解",
+                                    "廉贞",
+                                    "恩光",
+                                    "息神",
+                                    "截空",
+                                    "截路",
+                                    "指背",
+                                    "擎羊",
+                                    "攀鞍",
+                                    "文昌",
+                                    "文曲",
+                                    "日喜",
+                                    "日昌",
+                                    "日曲",
+                                    "日禄",
+                                    "日羊",
+                                    "日钺",
+                                    "日陀",
+                                    "日马",
+                                    "日魁",
+                                    "日鸾",
+                                    "旬中",
+                                    "旬空",
+                                    "时喜",
+                                    "时昌",
+                                    "时曲",
+                                    "时禄",
+                                    "时羊",
+                                    "时钺",
+                                    "时陀",
+                                    "时马",
+                                    "时魁",
+                                    "时鸾",
+                                    "晦气",
+                                    "月喜",
+                                    "月德",
+                                    "月昌",
+                                    "月曲",
+                                    "月煞",
+                                    "月禄",
+                                    "月羊",
+                                    "月钺",
+                                    "月陀",
+                                    "月马",
+                                    "月魁",
+                                    "月鸾",
+                                    "武曲",
+                                    "死",
+                                    "沐浴",
+                                    "流喜",
+                                    "流昌",
+                                    "流曲",
+                                    "流禄",
+                                    "流羊",
+                                    "流钺",
+                                    "流陀",
+                                    "流马",
+                                    "流魁",
+                                    "流鸾",
+                                    "火星",
+                                    "灾煞",
+                                    "病",
+                                    "病符",
+                                    "白虎",
+                                    "破军",
+                                    "破碎",
+                                    "禄存",
+                                    "空亡",
+                                    "紫微",
+                                    "红鸾",
+                                    "绝",
+                                    "胎",
+                                    "蜚廉",
+                                    "衰",
+                                    "解神",
+                                    "贪狼",
+                                    "贯索",
+                                    "运喜",
+                                    "运昌",
+                                    "运曲",
+                                    "运禄",
+                                    "运羊",
+                                    "运钺",
+                                    "运陀",
+                                    "运马",
+                                    "运魁",
+                                    "运鸾",
+                                    "铃星",
+                                    "长生",
+                                    "阴煞",
+                                    "陀罗",
+                                    "青龙",
+                                    "飞廉",
+                                    "龙德",
+                                    "龙池"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "palace"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "交友宫",
+                                    "兄弟宫",
+                                    "命宫",
+                                    "夫妻宫",
+                                    "子女宫",
+                                    "官禄宫",
+                                    "来因宫",
+                                    "父母宫",
+                                    "田宅宫",
+                                    "疾厄宫",
+                                    "福德宫",
+                                    "财帛宫",
+                                    "身宫",
+                                    "迁移宫"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "pattern"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "七杀居未",
+                                    "七杀朝斗",
+                                    "三奇嘉会",
+                                    "刑囚夹印",
+                                    "刑夹命",
+                                    "华盖独秀",
+                                    "双禄夹印",
+                                    "双禄朝命",
+                                    "同梁机昌",
+                                    "君臣庆会",
+                                    "君臣庆相",
+                                    "命里逢空",
+                                    "天姚坐守",
+                                    "天府朝垣",
+                                    "天罗地网",
+                                    "太阳化权",
+                                    "孤寡格",
+                                    "左右同心",
+                                    "巨日同宫格",
+                                    "巨机同宫",
+                                    "巨门化忌",
+                                    "府相朝垣",
+                                    "府禄同宫",
+                                    "府阴夹印",
+                                    "廉贞化忌",
+                                    "截空格",
+                                    "挟煞成格",
+                                    "文星拱命",
+                                    "日月会门",
+                                    "日月反背",
+                                    "日月夹命",
+                                    "日月并明",
+                                    "日照雷门",
+                                    "明珠出海",
+                                    "明珠朝阳",
+                                    "月朗天门",
+                                    "机月同梁",
+                                    "杀破狼",
+                                    "极居卯酉",
+                                    "武曲化禄",
+                                    "武曲坐官",
+                                    "沐浴桃花",
+                                    "泛水桃花",
+                                    "火上破军",
+                                    "火杀格",
+                                    "火羊格",
+                                    "火贪格",
+                                    "火铃夹命",
+                                    "火陀格",
+                                    "石中隐玉",
+                                    "破军朝斗",
+                                    "禄存坐财",
+                                    "科明暗禄",
+                                    "紫府同临",
+                                    "紫府朝垣",
+                                    "紫微在午",
+                                    "紫微坐官",
+                                    "紫微朝垣",
+                                    "红鸾天喜",
+                                    "羊陀夹命",
+                                    "羊陀夹忌",
+                                    "财荫夹印",
+                                    "贪武同行",
+                                    "贪狼化忌",
+                                    "贪狼浊木",
+                                    "路上埋尸",
+                                    "辅印朝垣",
+                                    "连权奇格",
+                                    "金灿光辉",
+                                    "铃昌破军",
+                                    "铃昌陀武",
+                                    "铃杀格",
+                                    "铃贪格",
+                                    "阳梁昌禄",
+                                    "雄杰清白",
+                                    "风月同窗",
+                                    "马头带剑",
+                                    "马头带箭",
+                                    "魁钺同心"
+                                  ]
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "liuyao": {
+            "type": "null"
+          },
+          "tarot": {
+            "type": "null"
+          },
+          "western": {
+            "type": "null"
+          }
+        },
+        "required": [
+          "school_code",
+          "ziwei"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "school": {
+            "const": "六爻"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "school_code": {
+            "const": "liuyao"
+          },
+          "ziwei": {
+            "type": "null"
+          },
+          "liuyao": {
+            "type": "object",
+            "properties": {
+              "relations": {
+                "items": {
+                  "properties": {
+                    "relation_type": {
+                      "enum": [
+                        "相生",
+                        "相克",
+                        "相冲",
+                        "相合"
+                      ]
+                    },
+                    "participants": {
+                      "items": {
+                        "properties": {
+                          "entity_type": {
+                            "enum": [
+                              "hexagram",
+                              "six_relative",
+                              "spirit_role",
+                              "trigram",
+                              "element"
+                            ]
+                          }
+                        },
+                        "allOf": [
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "hexagram"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "乾为天",
+                                    "兑为泽",
+                                    "地天泰",
+                                    "地山谦",
+                                    "地水师",
+                                    "地泽临",
+                                    "地火明夷",
+                                    "地雷复",
+                                    "地风升",
+                                    "坎为水",
+                                    "坤为地",
+                                    "天地否",
+                                    "天山遁",
+                                    "天水讼",
+                                    "天泽履",
+                                    "天火同人",
+                                    "天雷无妄",
+                                    "天风姤",
+                                    "山地剥",
+                                    "山天大畜",
+                                    "山水蒙",
+                                    "山泽损",
+                                    "山火贲",
+                                    "山雷颐",
+                                    "山风蛊",
+                                    "巽为风",
+                                    "水地比",
+                                    "水天需",
+                                    "水山蹇",
+                                    "水泽节",
+                                    "水火既济",
+                                    "水雷屯",
+                                    "水风井",
+                                    "泽地萃",
+                                    "泽天夬",
+                                    "泽山咸",
+                                    "泽水困",
+                                    "泽火革",
+                                    "泽雷随",
+                                    "泽风大过",
+                                    "火地晋",
+                                    "火天大有",
+                                    "火山旅",
+                                    "火水未济",
+                                    "火泽睽",
+                                    "火雷噬嗑",
+                                    "火风鼎",
+                                    "离为火",
+                                    "艮为山",
+                                    "雷地豫",
+                                    "雷天大壮",
+                                    "雷山小过",
+                                    "雷水解",
+                                    "雷泽归妹",
+                                    "雷火丰",
+                                    "雷风恒",
+                                    "震为雷",
+                                    "风地观",
+                                    "风天小畜",
+                                    "风山渐",
+                                    "风水涣",
+                                    "风泽中孚",
+                                    "风火家人",
+                                    "风雷益"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "six_relative"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "兄弟",
+                                    "妻财",
+                                    "子孙",
+                                    "官鬼",
+                                    "父母"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "spirit_role"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "仇神",
+                                    "伏神",
+                                    "原神",
+                                    "忌神",
+                                    "用神",
+                                    "闲神",
+                                    "飞神"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "trigram"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "乾",
+                                    "兑",
+                                    "坎",
+                                    "坤",
+                                    "巽",
+                                    "离",
+                                    "艮",
+                                    "震"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "element"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "土",
+                                    "木",
+                                    "水",
+                                    "火",
+                                    "金"
+                                  ]
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tarot": {
+            "type": "null"
+          },
+          "western": {
+            "type": "null"
+          }
+        },
+        "required": [
+          "school_code",
+          "liuyao"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "school": {
+            "const": "西占"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "school_code": {
+            "const": "western"
+          },
+          "ziwei": {
+            "type": "null"
+          },
+          "liuyao": {
+            "type": "null"
+          },
+          "tarot": {
+            "type": "null"
+          },
+          "western": {
+            "type": "object",
+            "properties": {
+              "relations": {
+                "items": {
+                  "properties": {
+                    "relation_type": {
+                      "enum": [
+                        "相位关系",
+                        "落入位置"
+                      ]
+                    },
+                    "participants": {
+                      "items": {
+                        "properties": {
+                          "entity_type": {
+                            "enum": [
+                              "planet",
+                              "sign",
+                              "house",
+                              "aspect",
+                              "fixed_star"
+                            ]
+                          }
+                        },
+                        "allOf": [
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "planet"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "上升点",
+                                    "下降点",
+                                    "亡神星",
+                                    "伊克西翁",
+                                    "佛鲁斯",
+                                    "信仰点",
+                                    "冥王星",
+                                    "凯龙星",
+                                    "创神星",
+                                    "反宿命点",
+                                    "土星",
+                                    "地球",
+                                    "天底",
+                                    "天王星",
+                                    "天顶",
+                                    "太阳",
+                                    "妊神星",
+                                    "婚神星",
+                                    "宿命点",
+                                    "平均北交点",
+                                    "平均南交点",
+                                    "平均莉莉丝",
+                                    "智神星",
+                                    "月亮",
+                                    "木星",
+                                    "水星",
+                                    "海王星",
+                                    "火星",
+                                    "灵点",
+                                    "灶神星",
+                                    "爱情点",
+                                    "真实北交点",
+                                    "真实南交点",
+                                    "真实莉莉丝",
+                                    "福点",
+                                    "谷神星",
+                                    "赛德娜",
+                                    "金星",
+                                    "阋神星",
+                                    "鸟神星"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "sign"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "双子座",
+                                    "双鱼座",
+                                    "处女座",
+                                    "天秤座",
+                                    "天蝎座",
+                                    "射手座",
+                                    "巨蟹座",
+                                    "摩羯座",
+                                    "水瓶座",
+                                    "狮子座",
+                                    "白羊座",
+                                    "金牛座"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "house"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "第一宫",
+                                    "第七宫",
+                                    "第三宫",
+                                    "第九宫",
+                                    "第二宫",
+                                    "第五宫",
+                                    "第八宫",
+                                    "第六宫",
+                                    "第十一宫",
+                                    "第十二宫",
+                                    "第十宫",
+                                    "第四宫"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "aspect"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "三合",
+                                    "五分相",
+                                    "倍半刑相",
+                                    "八分相",
+                                    "六合",
+                                    "刑克",
+                                    "半六合相",
+                                    "双五分相",
+                                    "合相",
+                                    "对冲",
+                                    "梅花相"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "fixed_star"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "五帝座一",
+                                    "五车三",
+                                    "五车二",
+                                    "五车五",
+                                    "井宿三",
+                                    "侯",
+                                    "军市一",
+                                    "北极星",
+                                    "北河三",
+                                    "北河二",
+                                    "北落师门",
+                                    "十字架一",
+                                    "十字架三",
+                                    "十字架二",
+                                    "南河三",
+                                    "南门二",
+                                    "参宿一",
+                                    "参宿七",
+                                    "参宿三",
+                                    "参宿二",
+                                    "参宿五",
+                                    "参宿四",
+                                    "土司空",
+                                    "壁宿一",
+                                    "大角星",
+                                    "大陵五",
+                                    "天枢",
+                                    "天津四",
+                                    "天狼星",
+                                    "天璇",
+                                    "天社一",
+                                    "天船三",
+                                    "太微右垣五",
+                                    "娄宿三",
+                                    "室宿一",
+                                    "室宿二",
+                                    "尾宿五",
+                                    "尾宿八",
+                                    "弧矢一",
+                                    "弧矢七",
+                                    "心宿二",
+                                    "摇光",
+                                    "斗宿四",
+                                    "星宿一",
+                                    "昴宿六",
+                                    "毕宿五",
+                                    "氐宿一",
+                                    "水委一",
+                                    "海石一",
+                                    "火鸟六",
+                                    "牛郎星",
+                                    "玉衡",
+                                    "箕宿三",
+                                    "织女星",
+                                    "老人星",
+                                    "船底星",
+                                    "蛇心",
+                                    "角宿一",
+                                    "贯索四",
+                                    "轩辕十四"
+                                  ]
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "school_code",
+          "western"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "school": {
+            "const": "塔罗"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "school_code": {
+            "const": "tarot"
+          },
+          "ziwei": {
+            "type": "null"
+          },
+          "liuyao": {
+            "type": "null"
+          },
+          "tarot": {
+            "type": "object",
+            "properties": {
+              "relations": {
+                "items": {
+                  "properties": {
+                    "relation_type": {
+                      "enum": [
+                        "牌位对应",
+                        "牌组关联"
+                      ]
+                    },
+                    "participants": {
+                      "items": {
+                        "properties": {
+                          "entity_type": {
+                            "enum": [
+                              "card",
+                              "spread",
+                              "position"
+                            ]
+                          }
+                        },
+                        "allOf": [
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "card"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "世界",
+                                    "倒吊人",
+                                    "力量",
+                                    "命运之轮",
+                                    "圣杯七",
+                                    "圣杯三",
+                                    "圣杯九",
+                                    "圣杯二",
+                                    "圣杯五",
+                                    "圣杯侍从",
+                                    "圣杯八",
+                                    "圣杯六",
+                                    "圣杯十",
+                                    "圣杯四",
+                                    "圣杯国王",
+                                    "圣杯王牌",
+                                    "圣杯皇后",
+                                    "圣杯骑士",
+                                    "塔",
+                                    "太阳",
+                                    "女皇",
+                                    "女祭司",
+                                    "宝剑七",
+                                    "宝剑三",
+                                    "宝剑九",
+                                    "宝剑二",
+                                    "宝剑五",
+                                    "宝剑侍从",
+                                    "宝剑八",
+                                    "宝剑六",
+                                    "宝剑十",
+                                    "宝剑四",
+                                    "宝剑国王",
+                                    "宝剑王牌",
+                                    "宝剑皇后",
+                                    "宝剑骑士",
+                                    "审判",
+                                    "恋人",
+                                    "恶魔",
+                                    "愚者",
+                                    "战车",
+                                    "教皇",
+                                    "星星",
+                                    "月亮",
+                                    "权杖七",
+                                    "权杖三",
+                                    "权杖九",
+                                    "权杖二",
+                                    "权杖五",
+                                    "权杖侍从",
+                                    "权杖八",
+                                    "权杖六",
+                                    "权杖十",
+                                    "权杖四",
+                                    "权杖国王",
+                                    "权杖王牌",
+                                    "权杖皇后",
+                                    "权杖骑士",
+                                    "正义",
+                                    "死神",
+                                    "皇帝",
+                                    "节制",
+                                    "金币七",
+                                    "金币三",
+                                    "金币九",
+                                    "金币二",
+                                    "金币五",
+                                    "金币侍从",
+                                    "金币八",
+                                    "金币六",
+                                    "金币十",
+                                    "金币四",
+                                    "金币国王",
+                                    "金币王牌",
+                                    "金币皇后",
+                                    "金币骑士",
+                                    "隐士",
+                                    "魔术师"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "spread"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "三张牌阵",
+                                    "事业牌阵",
+                                    "关系牌阵",
+                                    "决策牌阵",
+                                    "凯尔特十字",
+                                    "单张牌",
+                                    "四季牌阵",
+                                    "年度牌阵",
+                                    "自我探索牌阵",
+                                    "马蹄牌阵",
+                                    "黄道十二宫牌阵"
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "if": {
+                              "properties": {
+                                "entity_type": {
+                                  "const": "position"
+                                }
+                              }
+                            },
+                            "then": {
+                              "properties": {
+                                "name": {
+                                  "enum": [
+                                    "正位",
+                                    "逆位"
+                                  ]
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "western": {
+            "type": "null"
+          }
+        },
+        "required": [
+          "school_code",
+          "tarot"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "school": {
+            "const": "通用"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "school_code": {
+            "const": "generic"
+          },
+          "ziwei": {
+            "type": "null"
+          },
+          "liuyao": {
+            "type": "null"
+          },
+          "tarot": {
+            "type": "null"
+          },
+          "western": {
+            "type": "null"
+          }
+        },
+        "required": [
+          "school_code"
+        ]
+      }
+    }
+  ]
+}

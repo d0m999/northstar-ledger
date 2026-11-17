@@ -1,0 +1,10 @@
+_meta:
+  from_version: "1.1.0"
+  to_version: "1.2.0"
+  school: "紫微"
+  breaking: false
+  description: "Batch B T1.3-c: 新增 formation_status 词表段"
+rules:
+- kind: add_category
+  field: formation_status
+  note: "新增格局成格状态 vocab 段 (成格/破格/疑似/讨论)"

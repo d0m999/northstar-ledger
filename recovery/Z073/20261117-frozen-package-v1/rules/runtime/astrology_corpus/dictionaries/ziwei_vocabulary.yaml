@@ -1,0 +1,2176 @@
+# ═══════════════════════════════════════════════════════════════
+# 紫微斗数受控词表 (Ziwei Doushu Controlled Vocabulary)
+# ═══════════════════════════════════════════════════════════════
+# 覆盖任务: ZW-01 ~ ZW-09
+# 版本: 1.1.0
+# 最后更新: 2026-02-10
+
+_meta:
+  version: "2.1.0"
+  school: "紫微斗数"
+  last_updated: "2026-04-18"
+  description: "紫微斗数领域所有受控字段的完整词表，含星曜、宫位、四化、格局、流派、限运规则"
+  coverage:
+  - "ZW-01: 星曜列表"
+  - "ZW-02: 宫位定义"
+  - "ZW-03: 四化规则"
+  - "ZW-04: 格局判定"
+  - "ZW-05: 流派差异"
+  - "ZW-06: 时间语境"
+  - "ZW-07: 星曜交互"
+  - "ZW-08: 限运规则"
+  - "ZW-09: 问事主题"
+
+# ───────────────────────────────────────────────────────────────
+# 星曜 (stars) — ZW-01 交付物
+# ───────────────────────────────────────────────────────────────
+stars:
+  main_stars:  # 十四主星
+    # brightness: 12-position array indexed by earthly branch from 寅 to 丑
+    # brightness keys: 旺=wang, 庙=miao, 得=de, 利=li, 平=ping, 不=bu, 陷=xian
+    # from iztro (https://github.com/SylarLong/iztro) src/data/stars.ts
+  - id: "star_ziwei"
+    canonical: "紫微"
+    traditional: "紫微"
+    english: "Purple Star"
+    aliases: ["紫微星", "帝星", "帝座"]
+    category: "main"
+    source: "北斗第一主星"
+    element: "土"
+    polarity: "阴"
+    brightness: ["旺", "旺", "得", "旺", "庙", "庙", "旺", "旺", "得", "旺", "平", "庙"]    # from iztro stars.ts
+    en_aliases: ["Zi Wei", "ZiWei", "Emperor Star", "Emperor"]
+    zh_keywords: ["帝王", "权威", "北极星", "化气为官", "镇静"]
+    en_keywords: ["emperor", "authority", "nobility", "leadership", "stability"]
+    en_alias_types:
+      Zi Wei: "exact"
+      ZiWei: "exact"
+      Emperor Star: "exact"
+      Emperor: "contextual"
+  - id: "star_tianji"
+    canonical: "天机"
+    traditional: "天機"
+    english: "Heavenly Secret"
+    aliases: ["天机星", "善星", "智慧星"]
+    category: "main"
+    source: "南斗第三星"
+    element: "木"
+    polarity: "阴"
+    brightness: ["得", "旺", "利", "平", "庙", "陷", "得", "旺", "利", "平", "庙", "陷"]    # from iztro stars.ts
+    en_aliases: ["Tian Ji", "TianJi", "Advisor"]
+    zh_keywords: ["机智", "善变", "智慧", "宗教", "兄弟"]
+    en_keywords: ["intelligence", "strategy", "change", "siblings", "wisdom"]
+    en_alias_types:
+      Tian Ji: "exact"
+      TianJi: "exact"
+      Advisor: "contextual"
+  - id: "star_taiyang"
+    canonical: "太阳"
+    traditional: "太陽"
+    english: "Sun"
+    aliases: ["太阳星", "日星"]
+    category: "main"
+    source: "中天主星"
+    element: "火"
+    polarity: "阳"
+    brightness: ["旺", "庙", "旺", "旺", "旺", "得", "得", "陷", "不", "陷", "陷", "不"]    # from iztro stars.ts
+    en_aliases: ["Tai Yang", "TaiYang", "Sun Star"]
+    zh_keywords: ["光明", "父亲", "博爱", "名声"]
+    en_keywords: ["sun", "brightness", "father", "fame", "generosity"]
+    en_alias_types:
+      Tai Yang: "exact"
+      TaiYang: "exact"
+      Sun Star: "contextual"
+  - id: "star_wuqu"
+    canonical: "武曲"
+    traditional: "武曲"
+    english: "Military Melody"
+    aliases: ["武曲星", "财星"]  # removed "将星" — already a canonical jiangqian decorative star (line 561); conflating martial metaphor with actual star name
+    category: "main"
+    source: "北斗第六武曲"
+    element: "金"
+    polarity: "阴"
+    brightness: ["得", "利", "庙", "平", "旺", "庙", "得", "利", "庙", "平", "旺", "庙"]    # from iztro stars.ts
+    en_aliases: ["Wu Qu", "WuQu", "General"]
+    zh_keywords: ["财富", "武职", "刚毅", "孤克", "财帛"]
+    en_keywords: ["wealth", "military", "determination", "finance", "metal"]
+    en_alias_types:
+      Wu Qu: "exact"
+      WuQu: "exact"
+      General: "contextual"
+  - id: "star_tiantong"
+    canonical: "天同"
+    traditional: "天同"
+    english: "Heavenly Unity"
+    aliases: ["天同星", "福星"]
+    category: "main"
+    source: "南斗第四星"
+    element: "水"
+    polarity: "阳"
+    brightness: ["利", "平", "平", "庙", "陷", "不", "旺", "平", "平", "庙", "旺", "不"]    # from iztro stars.ts
+    en_aliases: ["Tian Tong", "TianTong", "Fortunate"]
+    zh_keywords: ["福气", "安逸", "享受", "天真", "福德"]
+    en_keywords: ["fortune", "leisure", "happiness", "naivety", "blessing"]
+    en_alias_types:
+      Tian Tong: "exact"
+      TianTong: "exact"
+      Fortunate: "contextual"
+  - id: "star_lianzhen"
+    canonical: "廉贞"
+    traditional: "廉貞"
+    english: "Integrity"
+    aliases: ["廉贞星", "囚星", "次桃花"]
+    category: "main"
+    source: "北斗第五廉贞"
+    element: "火"
+    polarity: "阴"
+    brightness: ["庙", "平", "利", "陷", "平", "利", "庙", "平", "利", "陷", "平", "利"]    # from iztro stars.ts
+    en_aliases: ["Lian Zhen", "LianZhen", "Judge"]
+    zh_keywords: ["囚星", "官非", "桃花", "血光", "廉洁"]
+    en_keywords: ["imprisonment", "litigation", "romance", "integrity", "official matters"]
+    en_alias_types:
+      Lian Zhen: "exact"
+      LianZhen: "exact"
+      Judge: "contextual"
+  - id: "star_tianfu"
+    canonical: "天府"
+    traditional: "天府"
+    english: "Heavenly Vault"
+    aliases: ["天府星", "令星", "库星"]
+    category: "main"
+    source: "南斗第一星"
+    element: "土"
+    polarity: "阳"
+    brightness: ["庙", "得", "庙", "得", "旺", "庙", "得", "旺", "庙", "得", "庙", "庙"]    # from iztro stars.ts
+    en_aliases: ["Tian Fu", "TianFu", "Empress"]
+    zh_keywords: ["财库", "令星", "稳健", "守财", "仓库"]
+    en_keywords: ["treasury", "storage", "stability", "conservatism", "wealth accumulation"]
+    en_alias_types:
+      Tian Fu: "exact"
+      TianFu: "exact"
+      Empress: "contextual"
+  - id: "star_taiyin"
+    canonical: "太阴"
+    traditional: "太陰"
+    english: "Moon"
+    aliases: ["太阴星", "月星"]
+    category: "main"
+    source: "中天主星"
+    element: "水"
+    polarity: "阴"
+    brightness: ["旺", "陷", "陷", "陷", "不", "不", "利", "不", "旺", "庙", "庙", "庙"]    # from iztro stars.ts
+    en_aliases: ["Tai Yin", "TaiYin", "Moon Star"]
+    zh_keywords: ["月亮", "母亲", "阴柔", "财富", "房产"]
+    en_keywords: ["moon", "mother", "femininity", "wealth", "real estate"]
+    en_alias_types:
+      Tai Yin: "exact"
+      TaiYin: "exact"
+      Moon Star: "contextual"
+  - id: "star_tanlang"
+    canonical: "贪狼"
+    traditional: "貪狼"
+    english: "Greedy Wolf"
+    aliases: ["贪狼星", "桃花星", "欲望星"]
+    category: "main"
+    source: "北斗第一贪狼"
+    element: "木"
+    polarity: "阳"
+    brightness: ["平", "利", "庙", "陷", "旺", "庙", "平", "利", "庙", "陷", "旺", "庙"]    # from iztro stars.ts
+    en_aliases: ["Tan Lang", "TanLang", "Wolf"]
+    zh_keywords: ["欲望", "桃花", "才艺", "享乐", "多情"]
+    en_keywords: ["desire", "romance", "talents", "pleasure", "versatility"]
+    en_alias_types:
+      Tan Lang: "exact"
+      TanLang: "exact"
+      Wolf: "contextual"
+  - id: "star_jumen"
+    canonical: "巨门"
+    traditional: "巨門"
+    english: "Giant Gate"
+    aliases: ["巨门星", "暗星", "是非星"]
+    category: "main"
+    source: "北斗第二巨门"
+    element: "水"
+    polarity: "阴"
+    brightness: ["庙", "庙", "陷", "旺", "旺", "不", "庙", "庙", "陷", "旺", "旺", "不"]    # from iztro stars.ts
+    en_aliases: ["Ju Men", "JuMen", "Advocator"]
+    zh_keywords: ["口才", "是非", "暗星", "口舌", "辩才"]
+    en_keywords: ["eloquence", "disputes", "darkness", "communication", "controversy"]
+    en_alias_types:
+      Ju Men: "exact"
+      JuMen: "exact"
+      Advocator: "contextual"
+  - id: "star_tianxiang"
+    canonical: "天相"
+    traditional: "天相"
+    english: "Heavenly Minister"
+    aliases: ["天相星", "印星"]
+    category: "main"
+    source: "南斗第五星"
+    element: "水"
+    polarity: "阳"
+    brightness: ["庙", "陷", "得", "得", "庙", "得", "庙", "陷", "得", "得", "庙", "庙"]    # from iztro stars.ts
+    en_aliases: ["Tian Xiang", "TianXiang", "Minister"]
+    zh_keywords: ["印绶", "官职", "辅佐", "文雅", "仁慈"]
+    en_keywords: ["minister", "official seal", "assistance", "elegance", "benevolence"]
+    en_alias_types:
+      Tian Xiang: "exact"
+      TianXiang: "exact"
+      Minister: "contextual"
+  - id: "star_tianliang"
+    canonical: "天梁"
+    traditional: "天梁"
+    english: "Heavenly Beam"
+    aliases: ["天梁星", "荫星", "寿星"]
+    category: "main"
+    source: "南斗第二星"
+    element: "土"
+    polarity: "阳"
+    brightness: ["庙", "庙", "庙", "陷", "庙", "旺", "陷", "得", "庙", "陷", "庙", "旺"]    # from iztro stars.ts
+    en_aliases: ["Tian Liang", "TianLiang", "Sage"]
+    zh_keywords: ["长寿", "荫庇", "老人", "清高", "化解"]
+    en_keywords: ["longevity", "protection", "elders", "nobility", "resolution"]
+    en_alias_types:
+      Tian Liang: "exact"
+      TianLiang: "exact"
+      Sage: "contextual"
+  - id: "star_qisha"
+    canonical: "七杀"
+    traditional: "七殺"
+    english: "Seven Killings"
+    aliases: ["七杀星", "杀星", "七煞"]  # removed "将星" — already a canonical jiangqian decorative star; conflates martial metaphor with actual star
+    category: "main"
+    source: "南斗第六星"
+    element: "金"
+    polarity: "阴"
+    brightness: ["庙", "旺", "庙", "平", "旺", "庙", "庙", "庙", "庙", "平", "旺", "庙"]    # from iztro stars.ts
+    en_aliases: ["Qi Sha", "QiSha", "Seven Kills", "Marshal"]
+    zh_keywords: ["将星", "孤克", "剑锋", "冲动", "开创"]
+    en_keywords: ["seven killings", "general star", "aggression", "pioneering", "solitude"]
+    en_alias_types:
+      Qi Sha: "exact"
+      QiSha: "exact"
+      Seven Kills: "exact"
+      Marshal: "contextual"
+  - id: "star_pojun"
+    canonical: "破军"
+    traditional: "破軍"
+    english: "Army Breaker"
+    aliases: ["破军星", "耗星", "先锋星"]
+    category: "main"
+    source: "北斗第七破军"
+    element: "水"
+    polarity: "阴"
+    brightness: ["得", "陷", "旺", "平", "庙", "旺", "得", "陷", "旺", "平", "庙", "旺"]    # from iztro stars.ts
+    en_aliases: ["Po Jun", "PoJun", "Rebel"]
+    zh_keywords: ["破坏", "改革", "先锋", "耗损", "变动"]
+    en_keywords: ["destruction", "reform", "pioneering", "loss", "change"]
+    en_alias_types:
+      Po Jun: "exact"
+      PoJun: "exact"
+      Rebel: "contextual"
+
+  auxiliary_stars:  # 六吉星
+  - id: "star_zuofu"
+    canonical: "左辅"
+    traditional: "左輔"
+    english: "Left Assistant"
+    aliases: ["左辅星"]
+    category: "auxiliary"
+    element: "土"
+    polarity: "阳"
+    en_aliases: ["Zuo Fu", "ZuoFu", "Left Minister", "Officer"]
+    zh_keywords: ["辅佐", "贵人", "助力", "左辅右弼"]
+    en_keywords: ["assistance", "benefactor", "support", "auspicious"]
+    en_alias_types:
+      Zuo Fu: "exact"
+      ZuoFu: "exact"
+      Left Minister: "exact"
+      Officer: "contextual"
+  - id: "star_youbi"
+    canonical: "右弼"
+    traditional: "右弼"
+    english: "Right Support"
+    aliases: ["右弼星"]
+    category: "auxiliary"
+    element: "水"
+    polarity: "阴"
+    en_aliases: ["You Bi", "YouBi", "Right Assistant", "Helper"]
+    zh_keywords: ["辅佐", "贵人", "助力", "左辅右弼"]
+    en_keywords: ["support", "benefactor", "assistance", "auspicious"]
+    en_alias_types:
+      You Bi: "exact"
+      YouBi: "exact"
+      Right Assistant: "exact"
+      Helper: "contextual"
+  - id: "star_wenchang"
+    canonical: "文昌"
+    traditional: "文昌"
+    english: "Literary Star"
+    aliases: ["文昌星"]
+    category: "auxiliary"
+    element: "金"
+    polarity: "阳"
+    brightness: ["陷", "利", "得", "庙", "陷", "利", "得", "庙", "陷", "利", "得", "庙"]    # from iztro stars.ts
+    en_aliases: ["Wen Chang", "WenChang", "Scholar"]
+    zh_keywords: ["文才", "考试", "学业", "文书", "科甲"]
+    en_keywords: ["literary talent", "examinations", "academics", "writing", "culture"]
+    en_alias_types:
+      Wen Chang: "exact"
+      WenChang: "exact"
+      Scholar: "contextual"
+  - id: "star_wenqu"
+    canonical: "文曲"
+    traditional: "文曲"
+    english: "Literary Melody"
+    aliases: ["文曲星"]
+    category: "auxiliary"
+    element: "水"
+    polarity: "阴"
+    brightness: ["平", "旺", "得", "庙", "陷", "旺", "得", "庙", "陷", "旺", "得", "庙"]    # from iztro stars.ts
+    en_aliases: ["Wen Qu", "WenQu", "Artist"]
+    zh_keywords: ["口才", "艺术", "才艺", "桃花", "文艺"]
+    en_keywords: ["eloquence", "art", "talents", "romance", "creativity"]
+    en_alias_types:
+      Wen Qu: "exact"
+      WenQu: "exact"
+      Artist: "contextual"
+  - id: "star_tiankui"
+    canonical: "天魁"
+    traditional: "天魁"
+    english: "Heavenly Leader"
+    aliases: ["天魁星", "昼贵"]
+    category: "auxiliary"
+    element: "火"
+    polarity: "阳"
+    en_aliases: ["Tian Kui", "TianKui", "Day Noble"]
+    zh_keywords: ["贵人", "昼贵人", "助力", "领导"]
+    en_keywords: ["benefactor", "noble helper", "leadership", "day nobleman"]
+    en_alias_types:
+      Tian Kui: "exact"
+      TianKui: "exact"
+      Day Noble: "exact"
+  - id: "star_tianyue"
+    canonical: "天钺"
+    traditional: "天鉞"
+    english: "Heavenly Halberd"
+    aliases: ["天钺星", "夜贵"]
+    category: "auxiliary"
+    element: "火"
+    polarity: "阴"
+    en_aliases: ["Tian Yue", "TianYue", "Night Noble"]
+    zh_keywords: ["贵人", "夜贵人", "助力", "支持"]
+    en_keywords: ["benefactor", "noble helper", "support", "night nobleman"]
+    en_alias_types:
+      Tian Yue: "exact"
+      TianYue: "exact"
+      Night Noble: "exact"
+
+  malefic_stars:  # 六煞星
+  - id: "star_huoxing"
+    canonical: "火星"
+    traditional: "火星"
+    english: "Fire Star"
+    aliases: ["火星"]
+    category: "malefic"
+    element: "火"
+    polarity: "阳"
+    brightness: ["庙", "利", "陷", "得", "庙", "利", "陷", "得", "庙", "利", "陷", "得"]    # from iztro stars.ts
+    en_aliases: ["Huo Xing", "HuoXing", "Mars Star"]
+    en_alias_types:
+      Huo Xing: "exact"
+      HuoXing: "exact"
+      Mars Star: "contextual"
+  - id: "star_lingxing"
+    canonical: "铃星"
+    traditional: "鈴星"
+    english: "Bell Star"
+    aliases: ["铃星"]
+    category: "malefic"
+    element: "火"
+    polarity: "阴"
+    brightness: ["庙", "利", "陷", "得", "庙", "利", "陷", "得", "庙", "利", "陷", "得"]    # from iztro stars.ts
+    en_aliases: ["Ling Xing", "LingXing", "Spark"]
+    en_alias_types:
+      Ling Xing: "exact"
+      LingXing: "exact"
+      Spark: "contextual"
+  - id: "star_qingyang"
+    canonical: "擎羊"
+    traditional: "擎羊"
+    english: "Ram"
+    aliases: ["擎羊星", "羊刃"]
+    category: "malefic"
+    element: "金"
+    polarity: "阳"
+    brightness: ["", "陷", "庙", "", "陷", "庙", "", "陷", "庙", "", "陷", "庙"]    # from iztro stars.ts (empty=不在此宫)
+    en_aliases: ["Qing Yang", "QingYang", "Ram Blade"]
+    en_alias_types:
+      Qing Yang: "exact"
+      QingYang: "exact"
+      Ram Blade: "exact"
+  - id: "star_tuoluo"
+    canonical: "陀罗"
+    traditional: "陀羅"
+    english: "Spinning Top"
+    aliases: ["陀罗星"]
+    category: "malefic"
+    element: "金"
+    polarity: "阴"
+    brightness: ["陷", "", "庙", "陷", "", "庙", "陷", "", "庙", "陷", "", "庙"]    # from iztro stars.ts (empty=不在此宫)
+    en_aliases: ["Tuo Luo", "TuoLuo"]
+    en_alias_types:
+      Tuo Luo: "exact"
+      TuoLuo: "exact"
+  - id: "star_dikong"
+    canonical: "地空"
+    traditional: "地空"
+    english: "Sky Void"
+    aliases: ["地空星"]
+    category: "malefic"
+    element: "火"
+    polarity: "阴"
+    en_aliases: ["Di Kong", "DiKong", "Earth Void"]
+    en_alias_types:
+      Di Kong: "exact"
+      DiKong: "exact"
+      Earth Void: "exact"
+  - id: "star_dijie"
+    canonical: "地劫"
+    traditional: "地劫"
+    english: "Earth Disaster"
+    aliases: ["地劫星", "地刼", "地刧"]
+    category: "malefic"
+    element: "火"
+    polarity: "阳"
+    en_aliases: ["Di Jie", "DiJie", "Earth Robbery"]
+    en_alias_types:
+      Di Jie: "exact"
+      DiJie: "exact"
+      Earth Robbery: "exact"
+
+  minor_stars:  # 杂曜 (100+)
+    # 四化相关
+  - id: "star_lucun"
+    canonical: "禄存"
+    traditional: "祿存"
+    english: "Salary Star"
+    aliases: ["禄存星", "天禄"]
+    category: "minor"
+    en_aliases: ["Lu Cun", "LuCun", "Wealth Star"]
+    en_alias_types:
+      Lu Cun: "exact"
+      LuCun: "exact"
+      Wealth Star: "exact"
+
+    # 时系星
+  - id: "star_tianma"
+    canonical: "天马"
+    traditional: "天馬"
+    english: "Heavenly Horse"
+    aliases: ["天马星", "驿马"]
+    category: "minor"
+    en_aliases: ["Tian Ma", "TianMa"]
+    en_alias_types:
+      Tian Ma: "exact"
+      TianMa: "exact"
+  - {id: "star_tiankong", canonical: "天空", traditional: "天空", english: "Tian Kong", aliases: ["天空星"], category: "minor", en_aliases: []}
+
+    # 年系星 (12 长生)
+  - {id: "star_changsheng", canonical: "长生", traditional: "長生", english: "Chang Sheng", aliases: ["长生星"], category: "changsheng"}
+  - {id: "star_muyu", canonical: "沐浴", traditional: "沐浴", english: "Mu Yu", aliases: ["沐浴星", "桃花"], category: "changsheng"}
+  - {id: "star_guandai", canonical: "冠带", traditional: "冠帶", english: "Guan Dai", aliases: ["冠带星"], category: "changsheng"}
+  - {id: "star_linguan", canonical: "临官", traditional: "臨官", english: "Lin Guan", aliases: ["临官星"], category: "changsheng"}
+  - {id: "star_diwang", canonical: "帝旺", traditional: "帝旺", english: "Di Wang", aliases: ["帝旺星"], category: "changsheng"}
+  - {id: "star_shuai", canonical: "衰", traditional: "衰", english: "Shuai", aliases: ["衰星"], category: "changsheng"}
+  - {id: "star_bing", canonical: "病", traditional: "病", english: "Bing", aliases: ["病星"], category: "changsheng"}
+  - {id: "star_si", canonical: "死", traditional: "死", english: "Si", aliases: ["死星"], category: "changsheng"}
+  - {id: "star_mu", canonical: "墓", traditional: "墓", english: "Mu", aliases: ["墓星"], category: "changsheng"}
+  - {id: "star_jue", canonical: "绝", traditional: "絕", english: "Jue", aliases: ["绝星"], category: "changsheng"}
+  - {id: "star_tai", canonical: "胎", traditional: "胎", english: "Tai", aliases: ["胎星"], category: "changsheng"}
+  - {id: "star_yang", canonical: "养", traditional: "養", english: "Yang", aliases: ["养星"], category: "changsheng"}
+
+    # 日系星
+  - {id: "star_santai", canonical: "三台", traditional: "三台", english: "San Tai", aliases: ["三台星"], category: "minor"}
+  - {id: "star_bazuo", canonical: "八座", traditional: "八座", english: "Ba Zuo", aliases: ["八座星"], category: "minor"}
+  - {id: "star_enguang", canonical: "恩光", traditional: "恩光", english: "En Guang", aliases: ["恩光星"], category: "minor"}
+  - {id: "star_tiangui", canonical: "天贵", traditional: "天貴", english: "Tian Gui", aliases: ["天贵星"], category: "minor"}
+
+    # 时系星
+  - {id: "star_taiwei", canonical: "台辅", traditional: "台輔", english: "Tai Fu", aliases: ["台辅星"], category: "minor"}
+  - {id: "star_fengge", canonical: "封诰", traditional: "封誥", english: "Feng Gao", aliases: ["封诰星"], category: "minor"}
+
+    # 神煞星
+  - {id: "star_huagai", canonical: "华盖", traditional: "華蓋", english: "Hua Gai", aliases: ["华盖星"], category: "minor"}
+  - {id: "star_tiande", canonical: "天德", traditional: "天德", english: "Tian De", aliases: ["天德贵人"], category: "minor"}
+  - {id: "star_yuede", canonical: "月德", traditional: "月德", english: "Yue De", aliases: ["月德贵人"], category: "minor"}
+  - {id: "star_tiancai", canonical: "天才", traditional: "天才", english: "Tian Cai", aliases: ["天才星"], category: "minor"}
+  - {id: "star_tianshou", canonical: "天寿", traditional: "天壽", english: "Tian Shou", aliases: ["天寿星"], category: "minor"}
+  - {id: "star_jielu", canonical: "截路", traditional: "截路", english: "Jie Lu", aliases: ["截路空亡"], category: "minor"}
+  - {id: "star_xunkong", canonical: "旬空", traditional: "旬空", english: "Xun Kong", aliases: ["旬中空亡"], category: "minor"}
+  - {id: "star_tianguan", canonical: "天官", traditional: "天官", english: "Tian Guan", aliases: ["天官贵人"], category: "minor"}
+  - {id: "star_tianfu_minor", canonical: "天福", traditional: "天福", english: "Tian Fu", aliases: ["天福星"], category: "minor"}
+  - {id: "star_tianchu", canonical: "天厨", traditional: "天廚", english: "Tian Chu", aliases: ["天厨星"], category: "minor"}
+  - {id: "star_longchi", canonical: "龙池", traditional: "龍池", english: "Long Chi", aliases: ["龙池星"], category: "minor"}
+  - {id: "star_fengge_star", canonical: "凤阁", traditional: "鳳閣", english: "Feng Ge", aliases: ["凤阁星"], category: "minor"}
+  - {id: "star_hongwan", canonical: "红鸾", traditional: "紅鸞", english: "Hong Luan", aliases: ["红鸾星"], category: "minor"}
+  - {id: "star_tianxi", canonical: "天喜", traditional: "天喜", english: "Tian Xi", aliases: ["天喜星"], category: "minor"}
+  - {id: "star_guchen", canonical: "孤辰", traditional: "孤辰", english: "Gu Chen", aliases: ["孤辰星"], category: "minor"}
+  - {id: "star_guasu", canonical: "寡宿", traditional: "寡宿", english: "Gua Su", aliases: ["寡宿星"], category: "minor"}
+  - {id: "star_posui", canonical: "破碎", traditional: "破碎", english: "Po Sui", aliases: ["破碎星"], category: "minor"}
+  - {id: "star_tianyao", canonical: "天姚", traditional: "天姚", english: "Tian Yao", aliases: ["天姚星"], category: "minor"}    # fixed: removed 咸池 (咸池 is a separate star in 将前十二星)
+  - {id: "star_tianxing", canonical: "天刑", traditional: "天刑", english: "Tian Xing", aliases: ["天刑星"], category: "minor"}
+  - {id: "star_tianku", canonical: "天哭", traditional: "天哭", english: "Tian Ku", aliases: ["天哭星"], category: "minor"}
+  - {id: "star_tianxu", canonical: "天虚", traditional: "天虛", english: "Tian Xu", aliases: ["天虚星"], category: "minor"}
+  - {id: "star_tianyue_minor", canonical: "天月", traditional: "天月", english: "Tian Yue", aliases: ["天月星"], category: "minor"}
+  - {id: "star_yinsha", canonical: "阴煞", traditional: "陰煞", english: "Yin Sha", aliases: ["阴煞星"], category: "minor"}
+  - {id: "star_jieshen", canonical: "解神", traditional: "解神", english: "Jie Shen", aliases: ["解神星"], category: "minor"}
+  - {id: "star_tianwu", canonical: "天巫", traditional: "天巫", english: "Tian Wu", aliases: ["天巫星"], category: "minor"}
+  - {id: "star_tianshen", canonical: "天伤", traditional: "天傷", english: "Tian Shang", aliases: ["天伤星"], category: "minor"}
+  - {id: "star_tianshi", canonical: "天使", traditional: "天使", english: "Tian Shi", aliases: ["天使星"], category: "minor"}
+  - {id: "star_feilian", canonical: "蜚廉", traditional: "蜚廉", english: "Fei Lian", aliases: ["蜚廉星"], category: "minor"}
+  - {id: "star_jiesha_adj", canonical: "劫杀", traditional: "劫殺", english: "Jie Sha", aliases: ["劫杀星"], category: "minor"}    # from iztro star.ts (jieshaAdj)
+  - {id: "star_jiekong", canonical: "截空", traditional: "截空", english: "Jie Kong", aliases: ["截空星"], category: "minor"}    # from iztro star.ts (jiekong)
+  - {id: "star_xunzhong", canonical: "旬中", traditional: "旬中", english: "Xun Zhong", aliases: ["旬中星"], category: "minor"}    # from iztro star.ts (xunzhong)
+  - {id: "star_kongwang", canonical: "空亡", traditional: "空亡", english: "Kong Wang", aliases: ["空亡星"], category: "minor"}    # from iztro star.ts (kongwang)
+
+    # 博士十二星
+  - {id: "star_boshi", canonical: "博士", traditional: "博士", english: "Bo Shi", aliases: ["博士星"], category: "boshi"}
+  - {id: "star_lishi", canonical: "力士", traditional: "力士", english: "Li Shi", aliases: ["力士星"], category: "boshi"}
+  - {id: "star_qinglong_zw", canonical: "青龙", traditional: "青龍", english: "Qing Long", aliases: ["青龙星"], category: "boshi"}
+  - {id: "star_xiaohao", canonical: "小耗", traditional: "小耗", english: "Xiao Hao", aliases: ["小耗星"], category: "boshi"}
+  - {id: "star_jiangjun", canonical: "将军", traditional: "將軍", english: "Jiang Jun", aliases: ["将军星"], category: "boshi"}
+  - {id: "star_zoushu", canonical: "奏书", traditional: "奏書", english: "Zou Shu", aliases: ["奏书星"], category: "boshi"}
+  - {id: "star_feifu", canonical: "飞廉", traditional: "飛廉", english: "Fei Lian", aliases: ["飞廉星"], category: "boshi"}
+  - {id: "star_xishen", canonical: "喜神", traditional: "喜神", english: "Xi Shen", aliases: ["喜神星"], category: "boshi"}
+  - {id: "star_bingfu", canonical: "病符", traditional: "病符", english: "Bing Fu", aliases: ["病符星"], category: "boshi"}
+  - {id: "star_dahao", canonical: "大耗", traditional: "大耗", english: "Da Hao", aliases: ["大耗星"], category: "boshi"}
+  - {id: "star_fubing", canonical: "伏兵", traditional: "伏兵", english: "Fu Bing", aliases: ["伏兵星"], category: "boshi"}
+  - {id: "star_guanfu", canonical: "官府", traditional: "官府", english: "Guan Fu", aliases: ["官府星"], category: "boshi"}
+  - {id: "star_suijian", canonical: "岁建", traditional: "歲建", english: "Sui Jian", aliases: ["岁建星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_huiqi", canonical: "晦气", traditional: "晦氣", english: "Hui Qi", aliases: ["晦气星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_sangmen", canonical: "丧门", traditional: "喪門", english: "Sang Men", aliases: ["丧门星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_guansuo", canonical: "贯索", traditional: "貫索", english: "Guan Suo", aliases: ["贯索星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_gwanfu", canonical: "官符", traditional: "官符", english: "Guan Fu", aliases: ["官符星", "流年官符"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_suipo", canonical: "岁破", traditional: "歲破", english: "Sui Po", aliases: ["岁破星"], category: "suiqian"}    # from iztro decorativeStar.ts (中州派 uses 岁破 instead of 大耗)
+  - {id: "star_longde", canonical: "龙德", traditional: "龍德", english: "Long De", aliases: ["龙德星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_baihu", canonical: "白虎", traditional: "白虎", english: "Bai Hu", aliases: ["白虎星"], category: "suiqian"}    # from iztro decorativeStar.ts
+  - {id: "star_diaoke", canonical: "吊客", traditional: "吊客", english: "Diao Ke", aliases: ["吊客星"], category: "suiqian"}    # from iztro decorativeStar.ts
+
+    # 将前十二星  # from iztro decorativeStar.ts (getYearly12 jiangqian12)
+  - {id: "star_jiangxing", canonical: "将星", traditional: "將星", english: "Jiang Xing", aliases: ["将星星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_panan", canonical: "攀鞍", traditional: "攀鞍", english: "Pan An", aliases: ["攀鞍星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_suiyi", canonical: "岁驿", traditional: "歲驛", english: "Sui Yi", aliases: ["岁驿星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_xishen_jq", canonical: "息神", traditional: "息神", english: "Xi Shen", aliases: ["息神星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_jiesha", canonical: "劫煞", traditional: "劫煞", english: "Jie Sha", aliases: ["劫煞星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_zhaisha", canonical: "灾煞", traditional: "災煞", english: "Zai Sha", aliases: ["灾煞星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_tiansha", canonical: "天煞", traditional: "天煞", english: "Tian Sha", aliases: ["天煞星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_zhibei", canonical: "指背", traditional: "指背", english: "Zhi Bei", aliases: ["指背星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_xianchi", canonical: "咸池", traditional: "咸池", english: "Xian Chi", aliases: ["咸池星", "桃花星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_yuesha", canonical: "月煞", traditional: "月煞", english: "Yue Sha", aliases: ["月煞星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+  - {id: "star_wangshen", canonical: "亡神", traditional: "亡神", english: "Wang Shen", aliases: ["亡神星"], category: "jiangqian"}    # from iztro decorativeStar.ts
+
+    # 流年星  # from iztro star.ts (liunian derivative stars)
+  - {id: "star_taisui", canonical: "太岁", traditional: "太歲", english: "Tai Sui", aliases: ["流年太岁"], category: "liunian", en_aliases: []}
+  - {id: "star_yunkui", canonical: "运魁", traditional: "運魁", english: "Yun Kui", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunyue", canonical: "运钺", traditional: "運鉞", english: "Yun Yue", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunchang", canonical: "运昌", traditional: "運昌", english: "Yun Chang", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunqu", canonical: "运曲", traditional: "運曲", english: "Yun Qu", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunluan", canonical: "运鸾", traditional: "運鸞", english: "Yun Luan", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunxi", canonical: "运喜", traditional: "運喜", english: "Yun Xi", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunlu", canonical: "运禄", traditional: "運祿", english: "Yun Lu", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunyang", canonical: "运羊", traditional: "運羊", english: "Yun Yang", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yuntuo", canonical: "运陀", traditional: "運陀", english: "Yun Tuo", aliases: [], category: "daxian"}    # from iztro star.ts
+  - {id: "star_yunma", canonical: "运马", traditional: "運馬", english: "Yun Ma", aliases: [], category: "daxian"}    # from iztro star.ts
+
+    # 流年诸星  # from iztro star.ts (liu- prefix stars)
+  - {id: "star_liukui", canonical: "流魁", traditional: "流魁", english: "Liu Kui", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuyue", canonical: "流钺", traditional: "流鉞", english: "Liu Yue", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuchang", canonical: "流昌", traditional: "流昌", english: "Liu Chang", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuqu", canonical: "流曲", traditional: "流曲", english: "Liu Qu", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuluan", canonical: "流鸾", traditional: "流鸞", english: "Liu Luan", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuxi", canonical: "流喜", traditional: "流喜", english: "Liu Xi", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liulu", canonical: "流禄", traditional: "流祿", english: "Liu Lu", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuyang", canonical: "流羊", traditional: "流羊", english: "Liu Yang", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liutuo", canonical: "流陀", traditional: "流陀", english: "Liu Tuo", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_liuma", canonical: "流马", traditional: "流馬", english: "Liu Ma", aliases: [], category: "liunian"}    # from iztro star.ts
+  - {id: "star_nianjie", canonical: "年解", traditional: "年解", english: "Nian Jie", aliases: [], category: "liunian"}    # from iztro star.ts
+
+    # 流月诸星  # from iztro star.ts (yue- prefix stars)
+  - {id: "star_yuekui", canonical: "月魁", traditional: "月魁", english: "Yue Kui", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yueyue", canonical: "月钺", traditional: "月鉞", english: "Yue Yue", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuechang", canonical: "月昌", traditional: "月昌", english: "Yue Chang", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuequ", canonical: "月曲", traditional: "月曲", english: "Yue Qu", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yueluan", canonical: "月鸾", traditional: "月鸞", english: "Yue Luan", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuexi", canonical: "月喜", traditional: "月喜", english: "Yue Xi", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuelu", canonical: "月禄", traditional: "月祿", english: "Yue Lu", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yueyang", canonical: "月羊", traditional: "月羊", english: "Yue Yang", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuetuo", canonical: "月陀", traditional: "月陀", english: "Yue Tuo", aliases: [], category: "liuyue"}    # from iztro star.ts
+  - {id: "star_yuema", canonical: "月马", traditional: "月馬", english: "Yue Ma", aliases: [], category: "liuyue"}    # from iztro star.ts
+
+    # 流日诸星  # from iztro star.ts (ri- prefix stars)
+  - {id: "star_rikui", canonical: "日魁", traditional: "日魁", english: "Ri Kui", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_riyue", canonical: "日钺", traditional: "日鉞", english: "Ri Yue", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_richang", canonical: "日昌", traditional: "日昌", english: "Ri Chang", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_riqu", canonical: "日曲", traditional: "日曲", english: "Ri Qu", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_riluan", canonical: "日鸾", traditional: "日鸞", english: "Ri Luan", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_rixi", canonical: "日喜", traditional: "日喜", english: "Ri Xi", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_rilu", canonical: "日禄", traditional: "日祿", english: "Ri Lu", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_riyang", canonical: "日羊", traditional: "日羊", english: "Ri Yang", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_rituo", canonical: "日陀", traditional: "日陀", english: "Ri Tuo", aliases: [], category: "liuri"}    # from iztro star.ts
+  - {id: "star_rima", canonical: "日马", traditional: "日馬", english: "Ri Ma", aliases: [], category: "liuri"}    # from iztro star.ts
+
+    # 流时诸星  # from iztro star.ts (shi- prefix stars)
+  - {id: "star_shikui", canonical: "时魁", traditional: "時魁", english: "Shi Kui", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shiyue", canonical: "时钺", traditional: "時鉞", english: "Shi Yue", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shichang", canonical: "时昌", traditional: "時昌", english: "Shi Chang", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shiqu", canonical: "时曲", traditional: "時曲", english: "Shi Qu", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shiluan", canonical: "时鸾", traditional: "時鸞", english: "Shi Luan", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shixi", canonical: "时喜", traditional: "時喜", english: "Shi Xi", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shilu", canonical: "时禄", traditional: "時祿", english: "Shi Lu", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shiyang", canonical: "时羊", traditional: "時羊", english: "Shi Yang", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shituo", canonical: "时陀", traditional: "時陀", english: "Shi Tuo", aliases: [], category: "liushi"}    # from iztro star.ts
+  - {id: "star_shima", canonical: "时马", traditional: "時馬", english: "Shi Ma", aliases: [], category: "liushi"}    # from iztro star.ts
+
+# ───────────────────────────────────────────────────────────────
+# 宫位 (palaces) — ZW-02 交付物
+# ───────────────────────────────────────────────────────────────
+palaces:
+  twelve_palaces:
+  - id: "palace_ming"
+    canonical: "命宫"
+    traditional: "命宮"
+    english: "Life Palace"
+    aliases: ["本命宫"]
+    position_index: 1
+    description: "个性、外貌、才能"
+    en_aliases: ["Ming Gong", "MingGong", "Destiny Palace"]
+    zh_keywords: ["本命", "个性", "外貌", "才能", "身体"]
+    en_keywords: ["life palace", "self", "personality", "appearance", "destiny", "body"]
+    en_alias_types:
+      Ming Gong: "exact"
+      MingGong: "exact"
+      Destiny Palace: "exact"
+  - id: "palace_xiongdi"
+    canonical: "兄弟宫"
+    traditional: "兄弟宮"
+    english: "Siblings Palace"
+    aliases: ["兄友宫"]
+    position_index: 2
+    description: "兄弟姐妹、同事"
+    en_aliases: ["Xiong Di Gong", "Brothers Palace"]
+    zh_keywords: ["兄弟", "姐妹", "同事", "平辈"]
+    en_keywords: ["siblings", "brothers", "sisters", "colleagues", "peers"]
+    en_alias_types:
+      Xiong Di Gong: "exact"
+      Brothers Palace: "exact"
+  - id: "palace_fuqi"
+    canonical: "夫妻宫"
+    traditional: "夫妻宮"
+    english: "Spouse Palace"
+    aliases: ["配偶宫", "姻缘宫"]
+    position_index: 3
+    description: "婚姻、感情"
+    en_aliases: ["Fu Qi Gong", "Marriage Palace"]
+    zh_keywords: ["夫妻", "婚姻", "感情", "配偶", "姻缘"]
+    en_keywords: ["marriage", "spouse", "relationship", "romance", "partnership"]
+    en_alias_types:
+      Fu Qi Gong: "exact"
+      Marriage Palace: "exact"
+  - id: "palace_zinv"
+    canonical: "子女宫"
+    traditional: "子女宮"
+    english: "Children Palace"
+    aliases: ["子息宫"]
+    position_index: 4
+    description: "子女、桃花"
+    en_aliases: ["Zi Nv Gong", "Offspring Palace"]
+    zh_keywords: ["子女", "孩子", "桃花", "创作"]
+    en_keywords: ["children", "offspring", "romance", "creativity", "subordinates"]
+    en_alias_types:
+      Zi Nv Gong: "exact"
+      Offspring Palace: "exact"
+  - id: "palace_caibo"
+    canonical: "财帛宫"
+    traditional: "財帛宮"
+    english: "Wealth Palace"
+    aliases: ["财宫", "钱财宫"]
+    position_index: 5
+    description: "财运、理财"
+    en_aliases: ["Cai Bo Gong", "Finance Palace"]
+    zh_keywords: ["财富", "财运", "理财", "收入", "金钱"]
+    en_keywords: ["wealth", "finance", "income", "money", "financial luck"]
+    en_alias_types:
+      Cai Bo Gong: "exact"
+      Finance Palace: "exact"
+  - id: "palace_jie"
+    canonical: "疾厄宫"
+    traditional: "疾厄宮"
+    english: "Health Palace"
+    aliases: ["健康宫", "身体宫"]
+    position_index: 6
+    description: "健康、疾病"
+    en_aliases: ["Ji E Gong", "Illness Palace"]
+    zh_keywords: ["健康", "疾病", "身体", "意外", "灾厄"]
+    en_keywords: ["health", "illness", "body", "accidents", "calamities"]
+    en_alias_types:
+      Ji E Gong: "exact"
+      Illness Palace: "exact"
+  - id: "palace_qianyi"
+    canonical: "迁移宫"
+    traditional: "遷移宮"
+    english: "Travel Palace"
+    aliases: ["出行宫", "移动宫"]
+    position_index: 7
+    description: "外出、贵人"
+    en_aliases: ["Qian Yi Gong", "Migration Palace"]
+    zh_keywords: ["迁移", "出行", "外出", "贵人", "环境"]
+    en_keywords: ["travel", "migration", "movement", "benefactors", "environment"]
+    en_alias_types:
+      Qian Yi Gong: "exact"
+      Migration Palace: "exact"
+  - id: "palace_jiaoyou"
+    canonical: "交友宫"
+    traditional: "交友宮"
+    english: "Friends Palace"
+    aliases: ["奴仆宫", "部属宫"]
+    position_index: 8
+    description: "朋友、下属"
+    en_aliases: ["Jiao You Gong", "Servants Palace"]
+    zh_keywords: ["朋友", "下属", "交友", "人际关系", "奴仆"]
+    en_keywords: ["friends", "subordinates", "social relationships", "servants", "employees"]
+    en_alias_types:
+      Jiao You Gong: "exact"
+      Servants Palace: "exact"
+  - id: "palace_guanlu"
+    canonical: "官禄宫"
+    traditional: "官祿宮"
+    english: "Career Palace"
+    aliases: ["事业宫", "工作宫"]
+    position_index: 9
+    description: "事业、地位"
+    en_aliases: ["Guan Lu Gong", "Official Palace"]
+    zh_keywords: ["事业", "工作", "官职", "地位", "仕途"]
+    en_keywords: ["career", "work", "official rank", "status", "vocation"]
+    en_alias_types:
+      Guan Lu Gong: "exact"
+      Official Palace: "exact"
+  - id: "palace_tianzhai"
+    canonical: "田宅宫"
+    traditional: "田宅宮"
+    english: "Property Palace"
+    aliases: ["房产宫", "不动产宫"]
+    position_index: 10
+    description: "房产、家庭"
+    en_aliases: ["Tian Zhai Gong", "Real Estate Palace"]
+    zh_keywords: ["房产", "田地", "不动产", "家庭", "祖业"]
+    en_keywords: ["real estate", "property", "home", "family inheritance", "land"]
+    en_alias_types:
+      Tian Zhai Gong: "exact"
+      Real Estate Palace: "exact"
+  - id: "palace_fude"
+    canonical: "福德宫"
+    traditional: "福德宮"
+    english: "Fortune Palace"
+    aliases: ["精神宫", "心态宫"]
+    position_index: 11
+    description: "精神、福报"
+    en_aliases: ["Fu De Gong", "Happiness Palace", "Blessings Palace"]
+    zh_keywords: ["福德", "精神", "福报", "享受", "心态"]
+    en_keywords: ["fortune", "happiness", "mental state", "blessings", "enjoyment"]
+    en_alias_types:
+      Fu De Gong: "exact"
+      Happiness Palace: "exact"
+      Blessings Palace: "exact"
+  - id: "palace_fumu"
+    canonical: "父母宫"
+    traditional: "父母宮"
+    english: "Parents Palace"
+    aliases: ["相貌宫", "长辈宫"]
+    position_index: 12
+    description: "父母、长辈"
+    en_aliases: ["Fu Mu Gong", "Elders Palace"]
+    zh_keywords: ["父母", "长辈", "相貌", "文书", "上司"]
+    en_keywords: ["parents", "elders", "appearance", "documents", "superiors"]
+    en_alias_types:
+      Fu Mu Gong: "exact"
+      Elders Palace: "exact"
+
+  special_palaces:
+  - {id: "palace_shen", canonical: "身宫", traditional: "身宮", english: "Body Palace", aliases: ["后天宫"], description: "后天努力方向", en_aliases: ["Shen Gong"], en_alias_types: {Shen Gong: "exact"}}
+  - {id: "palace_laiyingong", canonical: "来因宫", traditional: "來因宮", english: "Lai Yin Gong", aliases: [], description: "生年四化落宫"}
+
+  earthly_branches:  # 十二地支 (宫位定位)
+  - {id: "branch_zi", canonical: "子", traditional: "子", english: "Zi", position: "北", hour: "23:00-01:00"}
+  - {id: "branch_chou", canonical: "丑", traditional: "丑", english: "Chou", position: "东北", hour: "01:00-03:00"}
+  - {id: "branch_yin", canonical: "寅", traditional: "寅", english: "Yin", position: "东北", hour: "03:00-05:00"}
+  - {id: "branch_mao", canonical: "卯", traditional: "卯", english: "Mao", position: "东", hour: "05:00-07:00"}
+  - {id: "branch_chen", canonical: "辰", traditional: "辰", english: "Chen", position: "东南", hour: "07:00-09:00"}
+  - {id: "branch_si", canonical: "巳", traditional: "巳", english: "Si", position: "东南", hour: "09:00-11:00"}
+  - {id: "branch_wu", canonical: "午", traditional: "午", english: "Wu", position: "南", hour: "11:00-13:00"}
+  - {id: "branch_wei", canonical: "未", traditional: "未", english: "Wei", position: "西南", hour: "13:00-15:00"}
+  - {id: "branch_shen", canonical: "申", traditional: "申", english: "Shen", position: "西南", hour: "15:00-17:00"}
+  - {id: "branch_you", canonical: "酉", traditional: "酉", english: "You", position: "西", hour: "17:00-19:00"}
+  - {id: "branch_xu", canonical: "戌", traditional: "戌", english: "Xu", position: "西北", hour: "19:00-21:00"}
+  - {id: "branch_hai", canonical: "亥", traditional: "亥", english: "Hai", position: "西北", hour: "21:00-23:00"}
+
+# ───────────────────────────────────────────────────────────────
+# 四化 (transformations) — ZW-03 交付物
+# ───────────────────────────────────────────────────────────────
+transformations:
+  types:
+  - id: "hua_lu"
+    canonical: "化禄"
+    traditional: "化祿"
+    english: "Prosperity Transformation"
+    aliases: ["禄", "化财"]
+    effect: "增益、财禄、顺利"
+    en_aliases: ["Hua Lu"]
+    zh_keywords: ["财禄", "增益", "顺利", "禄星"]
+    en_keywords: ["prosperity", "wealth luck", "smooth flow", "beneficence", "abundance"]
+    en_alias_types:
+      Hua Lu: "exact"
+  - id: "hua_quan"
+    canonical: "化权"
+    traditional: "化權"
+    english: "Power Transformation"
+    aliases: ["权"]
+    effect: "权势、掌控、竞争"
+    en_aliases: ["Hua Quan"]
+    zh_keywords: ["权势", "掌控", "竞争", "主导"]
+    en_keywords: ["power", "control", "authority", "competition", "dominance"]
+    en_alias_types:
+      Hua Quan: "exact"
+  - id: "hua_ke"
+    canonical: "化科"
+    traditional: "化科"
+    english: "Fame Transformation"
+    aliases: ["科", "化名"]
+    effect: "名声、贵人、考试"
+    en_aliases: ["Hua Ke"]
+    zh_keywords: ["名声", "贵人", "考试", "文名"]
+    en_keywords: ["fame", "reputation", "examinations", "benefactors", "academic success"]
+    en_alias_types:
+      Hua Ke: "exact"
+  - id: "hua_ji"
+    canonical: "化忌"
+    traditional: "化忌"
+    english: "Obstruction Transformation"
+    aliases: ["忌"]
+    effect: "阻碍、执着、是非"
+    en_aliases: ["Hua Ji"]
+    zh_keywords: ["阻碍", "执着", "是非", "忌星"]
+    en_keywords: ["obstruction", "fixation", "disputes", "misfortune", "blockage"]
+    en_alias_types:
+      Hua Ji: "exact"
+
+  tiangan_rules:  # 天干引发四化规则 — verified against iztro heavenlyStems.ts
+    甲: {化禄: "廉贞", 化权: "破军", 化科: "武曲", 化忌: "太阳"}
+    乙: {化禄: "天机", 化权: "天梁", 化科: "紫微", 化忌: "太阴"}
+    丙: {化禄: "天同", 化权: "天机", 化科: "文昌", 化忌: "廉贞"}
+    丁: {化禄: "太阴", 化权: "天同", 化科: "天机", 化忌: "巨门"}
+    戊: {化禄: "贪狼", 化权: "太阴", 化科: "右弼", 化忌: "天机"}
+    己: {化禄: "武曲", 化权: "贪狼", 化科: "天梁", 化忌: "文曲"}
+    庚: {化禄: "太阳", 化权: "武曲", 化科: "太阴", 化忌: "天同"}
+    辛: {化禄: "巨门", 化权: "太阳", 化科: "文曲", 化忌: "文昌"}
+    壬: {化禄: "天梁", 化权: "紫微", 化科: "左辅", 化忌: "武曲"}
+    癸: {化禄: "破军", 化权: "巨门", 化科: "太阴", 化忌: "贪狼"}
+
+# ───────────────────────────────────────────────────────────────
+# 格局 (patterns) — ZW-04 交付物
+# ───────────────────────────────────────────────────────────────
+patterns:
+
+  # Source-attested names; no universal formation or synonym claim.
+- id: pat_linked_authority
+  canonical: 连权奇格
+  traditional: 連權奇格
+  english: Lian Quan Qi Ge
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_003:c021
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+- id: pat_ruler_ministers_assembly
+  canonical: 君臣庆会
+  traditional: 君臣慶會
+  english: Jun Chen Qing Hui
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_004:c049
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+- id: pat_fire_ram
+  canonical: 火羊格
+  traditional: 火羊格
+  english: Huo Yang Ge
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_004:c058
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+- id: pat_fire_tuoluo
+  canonical: 火陀格
+  traditional: 火陀格
+  english: Huo Tuo Ge
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_004:c044
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+- id: pat_ziwei_attending
+  canonical: 紫微朝垣
+  traditional: 紫微朝垣
+  english: Zi Wei Chao Yuan
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_006:c012
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+- id: pat_ziwei_tianfu_attending
+  canonical: 紫府朝垣
+  traditional: 紫府朝垣
+  english: Zi Fu Chao Yuan
+  source_defined: true
+  source_reference: dots-quality-review-2026-10-15/ziwei_004:c049
+  description: "来源使用的格局名称；成立条件和评价须保留作者及当前段落证据，不与近名格局合并。"
+  # 顶级格局
+- id: "pat_zifu_tonglin"
+  canonical: "紫府同临"
+  english: "Zi Fu Tong Lin"
+  aliases: ["紫微天府同宫"]
+  en_aliases: ["ZiFuTongLin"]
+  en_alias_types:
+    ZiFuTongLin: "exact"
+  formation:
+    condition: "紫微、天府同宫于寅或申"
+    palaces: ["寅", "申"]
+    stars: ["紫微", "天府"]
+  status: ["成格", "破格"]
+  破格条件: "逢煞星冲破或化忌入命"
+
+- id: "pat_riyue_bingming"
+  canonical: "日月并明"
+  english: "Ri Yue Bing Ming"
+  aliases: ["日月同辉"]
+  en_aliases: ["RiYueBingMing", "SunMoonBrightTogether"]
+  en_alias_types:
+    RiYueBingMing: "exact"
+    SunMoonBrightTogether: "contextual"
+  formation:
+    condition: "太阳在巳午未、太阴在亥子丑，各居旺地"
+  status: ["成格"]
+
+- id: "pat_jizhu_chaoyuan"
+  canonical: "极居卯酉"
+  english: "Ji Ju Mao You"
+  aliases: ["紫微独守卯酉"]
+  en_aliases: ["JiJuMaoYou"]
+  en_alias_types:
+    JiJuMaoYou: "exact"
+  formation:
+    condition: "紫微独守卯或酉宫"
+    palaces: ["卯", "酉"]
+    stars: ["紫微"]
+  status: ["成格", "破格"]
+
+- id: "pat_tianfu_chaoyuan"
+  canonical: "天府朝垣"
+  english: "Tian Fu Chao Yuan"
+  aliases: []
+  en_aliases: ["TianFuChaoYuan"]
+  en_alias_types:
+    TianFuChaoYuan: "exact"
+  formation:
+    condition: "天府在戌宫朝命"
+    palaces: ["戌"]
+    stars: ["天府"]
+  status: ["成格"]
+
+- id: "pat_fuxiang_chaoyuan"
+  canonical: "府相朝垣"
+  english: "Fu Xiang Chao Yuan"
+  aliases: []
+  en_aliases: ["FuXiangChaoYuan"]
+  en_alias_types:
+    FuXiangChaoYuan: "exact"
+  formation:
+    condition: "命宫坐紫微天相，三方四正会天府拱照"
+    palaces: ["辰", "戌"]
+    stars: ["天府", "天相"]
+  status: ["成格"]
+
+- id: "pat_qisha_chaodou"
+  canonical: "七杀朝斗"
+  english: "Qi Sha Chao Dou"
+  aliases: ["七杀仰斗"]
+  en_aliases: ["QiShaChaoDouGe", "SevenKillingsFacingDipper"]
+  en_alias_types:
+    QiShaChaoDouGe: "exact"
+    SevenKillingsFacingDipper: "contextual"
+  formation:
+    condition: "七杀在寅申入命与紫微对照"
+    palaces: ["寅", "申"]
+    stars: ["七杀"]
+  status: ["成格", "破格"]
+
+  # 富贵格局
+- id: "pat_fuyin_jiayin"
+  canonical: "府阴夹印"
+  english: "Fu Yin Jia Yin"
+  en_aliases: ["FuYinJiaYin"]
+  en_alias_types:
+    FuYinJiaYin: "exact"
+  formation:
+    condition: "天府天阴夹天相"
+  status: ["成格"]
+
+- id: "pat_riyue_huimen"
+  canonical: "日月会门"
+  english: "Ri Yue Hui Men"
+  en_aliases: ["RiYueHuiMen"]
+  en_alias_types:
+    RiYueHuiMen: "exact"
+  formation:
+    condition: "太阳太阴巨门三合"
+  status: ["成格"]
+
+- id: "pat_mingzhu_chuhai"
+  canonical: "明珠出海"
+  english: "Ming Zhu Chu Hai"
+  en_aliases: ["MingZhuChuHai", "PearlEmergingFromSea"]
+  en_alias_types:
+    MingZhuChuHai: "exact"
+    PearlEmergingFromSea: "contextual"
+  formation:
+    condition: "太阴在亥命宫"
+    palaces: ["亥"]
+    stars: ["太阴"]
+  status: ["成格"]
+
+- id: "pat_riyue_jiaming"
+  canonical: "日月夹命"
+  english: "Ri Yue Jia Ming"
+  en_aliases: ["RiYueJiaMing", "SunMoonFlankingMing"]
+  en_alias_types:
+    RiYueJiaMing: "exact"
+    SunMoonFlankingMing: "contextual"
+  formation:
+    condition: "太阳太阴夹命宫"
+  status: ["成格"]
+
+- id: "pat_shuanglu_jiayin"
+  canonical: "双禄夹印"
+  english: "Shuang Lu Jia Yin"
+  en_aliases: ["ShuangLuJiaYin", "DoubleLuFlankingSeal"]
+  en_alias_types:
+    ShuangLuJiaYin: "exact"
+    DoubleLuFlankingSeal: "contextual"
+  formation:
+    condition: "禄存化禄夹天相"
+  status: ["成格"]
+
+- id: "pat_zuoyou_tongxin"
+  canonical: "左右同心"
+  english: "Zuo You Tong Xin"
+  aliases: ["左右同宫"]
+  en_aliases: ["ZuoYouTongXin"]
+  en_alias_types:
+    ZuoYouTongXin: "exact"
+  formation:
+    condition: "左辅右弼同宫或相夹"
+  status: ["成格"]
+
+- id: "pat_wenxing_gongming"
+  canonical: "文星拱命"
+  english: "Wen Xing Gong Ming"
+  en_aliases: ["WenXingGongMing", "LiteraryStarsFlankingMing"]
+  en_alias_types:
+    WenXingGongMing: "exact"
+    LiteraryStarsFlankingMing: "contextual"
+  formation:
+    condition: "文昌文曲拱命宫"
+  status: ["成格"]
+
+- id: "pat_kuiyue_tongxin"
+  canonical: "魁钺同心"
+  english: "Kui Yue Tong Xin"
+  en_aliases: ["KuiYueTongXin"]
+  en_alias_types:
+    KuiYueTongXin: "exact"
+  formation:
+    condition: "天魁天钺拱命"
+  status: ["成格"]
+
+  # 武贵格局
+- id: "pat_pojun_chaodou"
+  canonical: "破军朝斗"
+  english: "Po Jun Chao Dou"
+  en_aliases: ["PoJunChaoDou"]
+  en_alias_types:
+    PoJunChaoDou: "exact"
+  formation:
+    condition: "破军在子午入命"
+    palaces: ["子", "午"]
+    stars: ["破军"]
+  status: ["成格"]
+
+- id: "pat_tanwu_tongxing"
+  canonical: "贪武同行"
+  english: "Tan Wu Tong Xing"
+  en_aliases: ["TanWuTongXing"]
+  en_alias_types:
+    TanWuTongXing: "exact"
+  formation:
+    condition: "贪狼武曲同宫"
+  status: ["成格"]
+
+- id: "pat_qisha_jiwei"
+  canonical: "七杀居未"
+  english: "Qi Sha Ju Wei"
+  en_aliases: ["QiShaJuWei"]
+  en_alias_types:
+    QiShaJuWei: "exact"
+  formation:
+    condition: "七杀在未宫入命"
+    palaces: ["未"]
+    stars: ["七杀"]
+  status: ["成格"]
+
+- id: "pat_xiongjie_qingbai"
+  canonical: "雄杰清白"
+  english: "Xiong Jie Qing Bai"
+  en_aliases: ["XiongJieQingBai"]
+  en_alias_types:
+    XiongJieQingBai: "exact"
+  formation:
+    condition: "武曲入命无煞星"
+  status: ["成格"]
+
+- id: "pat_huoshang_pojun"
+  canonical: "火上破军"
+  english: "Huo Shang Po Jun"
+  en_aliases: ["HuoShangPoJun"]
+  en_alias_types:
+    HuoShangPoJun: "exact"
+  formation:
+    condition: "破军火星同宫"
+  status: ["成格", "破格"]
+
+- id: "pat_lingchang_pojun"
+  canonical: "铃昌破军"
+  english: "Ling Chang Po Jun"
+  en_aliases: ["LingChangPoJun"]
+  en_alias_types:
+    LingChangPoJun: "exact"
+  formation:
+    condition: "破军铃星文昌同宫"
+  status: ["成格", "破格"]
+
+  # 凶险格局
+- id: "pat_mingli_fengkong"
+  canonical: "命里逢空"
+  english: "Ming Li Feng Kong"
+  en_aliases: ["MingLiFengKong"]
+  en_alias_types:
+    MingLiFengKong: "exact"
+  formation:
+    condition: "命宫逢地空地劫"
+  status: ["破格"]
+
+- id: "pat_huoxing_qisha"
+  canonical: "火杀格"
+  english: "Huo Sha Ge"
+  en_aliases: ["HuoShaGe"]
+  en_alias_types:
+    HuoShaGe: "exact"
+  formation:
+    condition: "火星七杀同宫或对照"
+  status: ["破格"]
+
+- id: "pat_lingsha_pojun"
+  canonical: "铃杀格"
+  english: "Ling Sha Ge"
+  en_aliases: ["LingShaGe"]
+  en_alias_types:
+    LingShaGe: "exact"
+  formation:
+    condition: "铃星七杀同宫或对照"
+  status: ["破格"]
+
+- id: "pat_tianxing_jiaming"
+  canonical: "刑夹命"
+  english: "Xing Jia Ming"
+  en_aliases: ["XingJiaMing"]
+  en_alias_types:
+    XingJiaMing: "exact"
+  formation:
+    condition: "天刑夹命宫"
+  status: ["破格"]
+
+- id: "pat_jielu_kongwang"
+  canonical: "截空格"
+  english: "Jie Kong Ge"
+  en_aliases: ["JieKongGe"]
+  en_alias_types:
+    JieKongGe: "exact"
+  formation:
+    condition: "截路空亡入命"
+  status: ["破格"]
+
+- id: "pat_jumen_huaji"
+  canonical: "巨门化忌"
+  english: "Ju Men Hua Ji"
+  en_aliases: ["JuMenHuaJi"]
+  en_alias_types:
+    JuMenHuaJi: "exact"
+  formation:
+    condition: "巨门化忌入命或冲命"
+  status: ["破格"]
+
+- id: "pat_tanlan_huaji"
+  canonical: "贪狼化忌"
+  english: "Tan Lang Hua Ji"
+  en_aliases: ["TanLangHuaJi"]
+  en_alias_types:
+    TanLangHuaJi: "exact"
+  formation:
+    condition: "贪狼化忌入命"
+  status: ["破格"]
+
+- id: "pat_lianzhen_huaji"
+  canonical: "廉贞化忌"
+  english: "Lian Zhen Hua Ji"
+  en_aliases: ["LianZhenHuaJi"]
+  en_alias_types:
+    LianZhenHuaJi: "exact"
+  formation:
+    condition: "廉贞化忌入命"
+  status: ["破格"]
+
+  # 桃花格局
+- id: "pat_hongluan_tianxi"
+  canonical: "红鸾天喜"
+  english: "Hong Luan Tian Xi"
+  en_aliases: ["HongLuanTianXi"]
+  en_alias_types:
+    HongLuanTianXi: "exact"
+  formation:
+    condition: "红鸾天喜拱命"
+  status: ["成格"]
+
+- id: "pat_tanlan_zhuomu"
+  canonical: "贪狼浊木"
+  english: "Tan Lang Zhuo Mu"
+  en_aliases: ["TanLangZhuoMu"]
+  en_alias_types:
+    TanLangZhuoMu: "exact"
+  formation:
+    condition: "贪狼在亥宫入命"
+    palaces: ["亥"]
+    stars: ["贪狼"]
+  status: ["成格"]
+
+- id: "pat_tianyao_zuoshou"
+  canonical: "天姚坐守"
+  english: "Tian Yao Zuo Shou"
+  en_aliases: ["TianYaoZuoShou"]
+  en_alias_types:
+    TianYaoZuoShou: "exact"
+  formation:
+    condition: "天姚入命宫"
+  status: ["成格"]
+
+- id: "pat_muyu_taohua"
+  canonical: "沐浴桃花"
+  english: "Mu Yu Tao Hua"
+  en_aliases: ["MuYuTaoHua", "BathingPeachBlossom"]
+  en_alias_types:
+    MuYuTaoHua: "exact"
+    BathingPeachBlossom: "contextual"
+  formation:
+    condition: "沐浴星入夫妻宫"
+  status: ["成格"]
+
+  # 孤寡格局
+- id: "pat_guchen_guasu"
+  canonical: "孤寡格"
+  english: "Gu Gua Ge"
+  en_aliases: ["GuGuaGe", "LonelinessPattern"]
+  en_alias_types:
+    GuGuaGe: "exact"
+    LonelinessPattern: "contextual"
+  formation:
+    condition: "孤辰寡宿入命或夹命"
+  status: ["破格"]
+
+- id: "pat_huagai_duxiu"
+  canonical: "华盖独秀"
+  english: "Hua Gai Du Xiu"
+  en_aliases: ["HuaGaiDuXiu"]
+  en_alias_types:
+    HuaGaiDuXiu: "exact"
+  formation:
+    condition: "华盖入命无正星同宫"
+  status: ["成格"]
+
+  # 财富格局
+- id: "pat_wuqu_hualu"
+  canonical: "武曲化禄"
+  english: "Wu Qu Hua Lu"
+  en_aliases: ["WuQuHuaLu"]
+  en_alias_types:
+    WuQuHuaLu: "exact"
+  formation:
+    condition: "武曲化禄入财帛宫"
+  status: ["成格"]
+
+- id: "pat_lucun_zuocai"
+  canonical: "禄存坐财"
+  english: "Lu Cun Zuo Cai"
+  en_aliases: ["LuCunZuoCai"]
+  en_alias_types:
+    LuCunZuoCai: "exact"
+  formation:
+    condition: "禄存入财帛宫"
+  status: ["成格"]
+
+- id: "pat_shuanglu_chaoming"
+  canonical: "双禄朝命"
+  english: "Shuang Lu Chao Ming"
+  en_aliases: ["ShuangLuChaoMing", "DoubleLuFacingMing"]
+  en_alias_types:
+    ShuangLuChaoMing: "exact"
+    DoubleLuFacingMing: "contextual"
+  formation:
+    condition: "禄存化禄朝命宫"
+  status: ["成格"]
+
+- id: "pat_tianfu_lucun"
+  canonical: "府禄同宫"
+  english: "Fu Lu Tong Gong"
+  en_aliases: ["FuLuTongGong"]
+  en_alias_types:
+    FuLuTongGong: "exact"
+  formation:
+    condition: "天府禄存同宫"
+  status: ["成格"]
+
+  # 事业格局
+- id: "pat_ziwei_zuoguan"
+  canonical: "紫微坐官"
+  english: "Zi Wei Zuo Guan"
+  en_aliases: ["ZiWeiZuoGuan"]
+  en_alias_types:
+    ZiWeiZuoGuan: "exact"
+  formation:
+    condition: "紫微入官禄宫"
+  status: ["成格"]
+
+- id: "pat_taiyang_huaquan"
+  canonical: "太阳化权"
+  english: "Tai Yang Hua Quan"
+  en_aliases: ["TaiYangHuaQuan"]
+  en_alias_types:
+    TaiYangHuaQuan: "exact"
+  formation:
+    condition: "太阳化权入官禄宫"
+  status: ["成格"]
+
+- id: "pat_wuqu_zuoguan"
+  canonical: "武曲坐官"
+  english: "Wu Qu Zuo Guan"
+  en_aliases: ["WuQuZuoGuan"]
+  en_alias_types:
+    WuQuZuoGuan: "exact"
+  formation:
+    condition: "武曲入官禄宫"
+  status: ["成格"]
+
+  # ── 新增格局 (from 紫云摘录语料) ──
+
+- id: "pat_horse_head_sword"
+  canonical: "马头带剑"
+  english: "Sword at the Horse's Head"  # was "Ma Tou Dai Jian" — collided with 马头带箭 (剑/箭 both read "jiàn" in Pinyin)
+  aliases: ["马头带剑格"]
+  en_aliases: ["SwordOnHorseHead"]  # removed shared "MaTouDaiJian" — ambiguous between 剑 and 箭
+  en_alias_types:
+    SwordOnHorseHead: "contextual"
+  formation:
+    condition: "擎羊在午宫坐守"
+    palaces: ["午"]
+    stars: ["擎羊"]
+  status: ["成格"]
+
+- id: "pat_lingchang_tuowu"
+  canonical: "铃昌陀武"
+  english: "Ling Chang Tuo Wu"
+  aliases: ["铃昌陀武格"]
+  en_aliases: ["LingChangTuoWu"]
+  en_alias_types:
+    LingChangTuoWu: "exact"
+  formation:
+    condition: "铃星、文昌、陀罗、武曲四星组合"
+    stars: ["铃星", "文昌", "陀罗", "武曲"]
+  status: ["凶格"]
+
+- id: "pat_xingqiu_jiayin"
+  canonical: "刑囚夹印"
+  english: "Xing Qiu Jia Yin"
+  aliases: ["刑囚夹印格"]
+  en_aliases: ["XingQiuJiaYin"]
+  en_alias_types:
+    XingQiuJiaYin: "exact"
+  formation:
+    condition: "廉贞、天相、擎羊（或陀罗）三星组合"
+    stars: ["廉贞", "天相", "擎羊"]
+  status: ["凶格"]
+
+- id: "pat_xiesha_chengge"
+  canonical: "挟煞成格"
+  english: "Xie Sha Cheng Ge"
+  aliases: ["挟煞格"]
+  en_aliases: ["XieShaChengGe"]
+  en_alias_types:
+    XieShaChengGe: "exact"
+  formation:
+    condition: "主星挟火羊、火陀、铃羊、铃陀四组煞星"
+  status: ["成格"]
+
+  # ── 新增格局 (from iztro reference patterns and classical sources) ──
+
+- id: "pat_jiyue_tongliang"
+  canonical: "机月同梁"
+  english: "Ji Yue Tong Liang"
+  aliases: ["机月同梁格"]
+  en_aliases: ["JiYueTongLiang"]
+  en_alias_types:
+    JiYueTongLiang: "exact"
+  formation:
+    condition: "天机、太阴、天同、天梁四星会于三方四正"
+    stars: ["天机", "太阴", "天同", "天梁"]
+  status: ["成格"]
+
+- id: "pat_yangliang_changlu"
+  canonical: "阳梁昌禄"
+  english: "Yang Liang Chang Lu"
+  aliases: ["阳梁昌禄格"]
+  en_aliases: ["YangLiangChangLu"]
+  en_alias_types:
+    YangLiangChangLu: "exact"
+  formation:
+    condition: "太阳、天梁、文昌、禄存会于三方四正"
+    stars: ["太阳", "天梁", "文昌", "禄存"]
+  status: ["成格"]
+
+- id: "pat_shizhong_yinyu"
+  canonical: "石中隐玉"
+  english: "Shi Zhong Yin Yu"
+  aliases: ["石中隐玉格"]
+  en_aliases: ["ShiZhongYinYu", "JadeHiddenInStone"]
+  en_alias_types:
+    ShiZhongYinYu: "exact"
+    JadeHiddenInStone: "contextual"
+  formation:
+    condition: "巨门在子宫入命，化禄或化权"
+    palaces: ["子"]
+    stars: ["巨门"]
+  status: ["成格"]
+
+- id: "pat_ziwei_zaiwu"
+  canonical: "紫微在午"
+  english: "Zi Wei Zai Wu"
+  aliases: ["紫微在午格"]
+  en_aliases: ["ZiWeiZaiWu"]
+  en_alias_types:
+    ZiWeiZaiWu: "exact"
+  formation:
+    condition: "紫微在午宫入命，三方四正无煞"
+    palaces: ["午"]
+    stars: ["紫微"]
+  status: ["成格"]
+
+- id: "pat_rizhao_leimen"
+  canonical: "日照雷门"
+  english: "Ri Zhao Lei Men"
+  aliases: ["日照雷门格"]
+  en_aliases: ["RiZhaoLeiMen", "SunlightAtThunderGate"]
+  en_alias_types:
+    RiZhaoLeiMen: "exact"
+    SunlightAtThunderGate: "contextual"
+  formation:
+    condition: "太阳在卯宫入命"
+    palaces: ["卯"]
+    stars: ["太阳"]
+  status: ["成格"]
+
+- id: "pat_yuelang_tianmen"
+  canonical: "月朗天门"
+  english: "Yue Lang Tian Men"
+  aliases: ["月朗天门格"]
+  en_aliases: ["YueLangTianMen", "BrightMoonAtHeavenGate"]
+  en_alias_types:
+    YueLangTianMen: "exact"
+    BrightMoonAtHeavenGate: "contextual"
+  formation:
+    condition: "太阴在亥宫入命"
+    palaces: ["亥"]
+    stars: ["太阴"]
+  status: ["成格"]
+
+- id: "pat_jincan_guanghui"
+  canonical: "金灿光辉"
+  english: "Jin Can Guang Hui"
+  aliases: ["金灿光辉格"]
+  en_aliases: ["JinCanGuangHui", "GoldenRadiance"]
+  en_alias_types:
+    JinCanGuangHui: "exact"
+    GoldenRadiance: "contextual"
+  formation:
+    condition: "太阳在午宫入命，三方四正会吉"
+    palaces: ["午"]
+    stars: ["太阳"]
+  status: ["成格"]
+
+- id: "pat_caiyin_jiayin"
+  canonical: "财荫夹印"
+  english: "Cai Yin Jia Yin"
+  aliases: ["财荫夹印格"]
+  en_aliases: ["CaiYinJiaYin"]
+  en_alias_types:
+    CaiYinJiaYin: "exact"
+  formation:
+    condition: "天府（或禄存）与太阴夹天相"
+    stars: ["天府", "太阴", "天相"]
+  status: ["成格"]
+
+- id: "pat_keming_anlu"
+  canonical: "科明暗禄"
+  english: "Ke Ming An Lu"
+  aliases: ["科明暗禄格"]
+  en_aliases: ["KeMingAnLu"]
+  en_alias_types:
+    KeMingAnLu: "exact"
+  formation:
+    condition: "化科与禄存在暗合宫位交会"
+  status: ["成格"]
+
+- id: "pat_horse_head_arrow"
+  canonical: "马头带箭"
+  english: "Arrow at the Horse's Head"  # was "Ma Tou Dai Jian" — collided with 马头带剑
+  aliases: ["马头带箭格"]
+  en_aliases: ["HorseheadWithArrow"]  # removed shared "MaTouDaiJian" — ambiguous between 剑 and 箭
+  en_alias_types:
+    HorseheadWithArrow: "contextual"
+  formation:
+    condition: "天马与擎羊同宫或天马与火星同宫"
+    stars: ["天马", "擎羊"]
+  status: ["成格", "破格"]
+
+- id: "pat_sanqi_jiahui"
+  canonical: "三奇嘉会"
+  english: "San Qi Jia Hui"
+  aliases: ["三奇嘉会格"]
+  en_aliases: ["SanQiJiaHui", "ThreeWondersConvergence"]
+  en_alias_types:
+    SanQiJiaHui: "exact"
+    ThreeWondersConvergence: "contextual"
+  formation:
+    condition: "化禄、化权、化科三化同会于命宫三方四正"
+  status: ["成格"]
+
+- id: "pat_shapolang"
+  canonical: "杀破狼"
+  english: "Sha Po Lang"
+  aliases: ["杀破狼格"]
+  en_aliases: ["ShaPoLang"]
+  en_alias_types:
+    ShaPoLang: "exact"
+  formation:
+    condition: "七杀、破军、贪狼分居命宫三方（命/财/官）"
+    stars: ["七杀", "破军", "贪狼"]
+  status: ["成格", "破格"]
+
+- id: "pat_riyue_fanbei"
+  canonical: "日月反背"
+  english: "Ri Yue Fan Bei"
+  aliases: ["日月反背格"]
+  en_aliases: ["RiYueFanBei", "SunMoonReversed"]
+  en_alias_types:
+    RiYueFanBei: "exact"
+    SunMoonReversed: "contextual"
+  formation:
+    condition: "太阳在戌亥子丑（陷）且太阴在辰巳午未（陷），各居失辉之地"
+    stars: ["太阳", "太阴"]
+  status: ["破格"]
+
+- id: "pat_huotan"
+  canonical: "火贪格"
+  english: "Huo Tan Ge"
+  aliases: ["火贪格"]
+  en_aliases: ["HuoTanGe"]
+  en_alias_types:
+    HuoTanGe: "exact"
+  formation:
+    condition: "火星与贪狼同宫"
+    stars: ["火星", "贪狼"]
+  status: ["成格"]
+
+- id: "pat_lingtan"
+  canonical: "铃贪格"
+  english: "Ling Tan Ge"
+  aliases: ["铃贪格"]
+  en_aliases: ["LingTanGe"]
+  en_alias_types:
+    LingTanGe: "exact"
+  formation:
+    condition: "铃星与贪狼同宫"
+    stars: ["铃星", "贪狼"]
+  status: ["成格"]
+
+- id: "pat_yangtuo_jiaji"
+  canonical: "羊陀夹忌"
+  english: "Yang Tuo Jia Ji"
+  aliases: ["羊陀夹忌格"]
+  en_aliases: ["YangTuoJiaJi"]
+  en_alias_types:
+    YangTuoJiaJi: "exact"
+  formation:
+    condition: "擎羊与陀罗夹化忌星"
+    stars: ["擎羊", "陀罗"]
+  status: ["破格"]
+
+- id: "pat_tianluo_diwang"
+  canonical: "天罗地网"
+  english: "Tian Luo Di Wang"
+  aliases: ["天罗地网格"]
+  en_aliases: ["TianLuoDiWang", "HeavenlyNetEarthlySnare"]
+  en_alias_types:
+    TianLuoDiWang: "exact"
+    HeavenlyNetEarthlySnare: "contextual"
+  formation:
+    condition: "命宫在辰或戌，逢煞星"
+    palaces: ["辰", "戌"]
+  status: ["破格"]
+
+- id: "pat_fengyue_tongchuang"
+  canonical: "风月同窗"
+  english: "Feng Yue Tong Chuang"
+  aliases: ["风月同窗格"]
+  en_aliases: ["FengYueTongChuang"]
+  en_alias_types:
+    FengYueTongChuang: "exact"
+  formation:
+    condition: "贪狼与文曲或文昌同宫"
+    stars: ["贪狼", "文曲"]
+  status: ["成格"]
+
+- id: "pat_jimen_tonggong"
+  canonical: "巨机同宫"
+  english: "Ju Ji Tong Gong"
+  aliases: ["巨机同临"]
+  en_aliases: ["JuJiTongGong"]
+  en_alias_types:
+    JuJiTongGong: "exact"
+  formation:
+    condition: "巨门与天机同宫于卯或酉"
+    palaces: ["卯", "酉"]
+    stars: ["巨门", "天机"]
+  status: ["成格", "破格"]
+
+- id: "pat_junchen_qingxiang"
+  canonical: "君臣庆相"
+  english: "Jun Chen Qing Xiang"
+  aliases: ["君臣庆相格"]
+  en_aliases: ["JunChenQingXiang"]
+  en_alias_types:
+    JunChenQingXiang: "exact"
+  formation:
+    condition: "紫微与左辅右弼同宫或三合"
+    stars: ["紫微", "左辅", "右弼"]
+  status: ["成格"]
+
+- id: "pat_fuyin_chaoyuan"
+  canonical: "辅印朝垣"
+  english: "Fu Yin Chao Yuan"
+  aliases: ["辅印朝垣格"]
+  en_aliases: ["FuYinChaoYuan"]
+  en_alias_types:
+    FuYinChaoYuan: "exact"
+  formation:
+    condition: "左辅或右弼与天相同宫或朝拱"
+    stars: ["左辅", "天相"]
+  status: ["成格"]
+
+- id: "pat_lianzhen_qisha"
+  canonical: "路上埋尸"
+  english: "Lu Shang Mai Shi"
+  aliases: ["路上埋尸格", "廉杀同宫格"]
+  en_aliases: ["LuShangMaiShi", "CorpseOnTheRoad"]
+  en_alias_types:
+    LuShangMaiShi: "exact"
+    CorpseOnTheRoad: "contextual"
+  formation:
+    condition: "廉贞与七杀同宫，逢化忌或煞星"
+    stars: ["廉贞", "七杀"]
+  status: ["破格"]
+
+- id: "pat_jukui_qingbai"
+  canonical: "巨日同宫格"
+  english: "Ju Ri Tong Gong Ge"
+  aliases: ["巨日同宫"]
+  en_aliases: ["JuRiTongGongGe"]
+  en_alias_types:
+    JuRiTongGongGe: "exact"
+  formation:
+    condition: "巨门与太阳同宫于寅或申"
+    palaces: ["寅", "申"]
+    stars: ["巨门", "太阳"]
+  status: ["成格", "破格"]
+
+- id: "pat_tongliang_jixin"
+  canonical: "同梁机昌"
+  english: "Tong Liang Ji Chang"
+  aliases: ["同梁机昌格"]
+  en_aliases: ["TongLiangJiChang"]
+  en_alias_types:
+    TongLiangJiChang: "exact"
+  formation:
+    condition: "天同、天梁、天机、文昌会于三方四正"
+    stars: ["天同", "天梁", "天机", "文昌"]
+  status: ["成格"]
+
+- id: "pat_minzhu_chaoyang"
+  canonical: "明珠朝阳"
+  english: "Ming Zhu Chao Yang"
+  aliases: ["明珠朝阳格"]
+  en_aliases: ["MingZhuChaoYang", "PearlFacingSun"]
+  en_alias_types:
+    MingZhuChaoYang: "exact"
+    PearlFacingSun: "contextual"
+  formation:
+    condition: "太阳在辰宫入命"
+    palaces: ["辰"]
+    stars: ["太阳"]
+  status: ["成格"]
+
+- id: "pat_yangfan_fushi"
+  canonical: "泛水桃花"
+  english: "Fan Shui Tao Hua"
+  aliases: ["泛水桃花格"]
+  en_aliases: ["FanShuiTaoHua", "PeachBlossomOnWater"]
+  en_alias_types:
+    FanShuiTaoHua: "exact"
+    PeachBlossomOnWater: "contextual"
+  formation:
+    condition: "贪狼在子宫入命，逢桃花星"
+    palaces: ["子"]
+    stars: ["贪狼"]
+  status: ["成格", "破格"]
+
+- id: "pat_huoling_jiaming"
+  canonical: "火铃夹命"
+  english: "Huo Ling Jia Ming"
+  aliases: ["火铃夹命格"]
+  en_aliases: ["HuoLingJiaMing"]
+  en_alias_types:
+    HuoLingJiaMing: "exact"
+  formation:
+    condition: "火星铃星夹命宫"
+    stars: ["火星", "铃星"]
+  status: ["破格"]
+
+- id: "pat_yangtuo_jiaming"
+  canonical: "羊陀夹命"
+  english: "Yang Tuo Jia Ming"
+  aliases: ["羊陀夹命格"]
+  en_aliases: ["YangTuoJiaMing"]
+  en_alias_types:
+    YangTuoJiaMing: "exact"
+  formation:
+    condition: "擎羊与陀罗夹命宫"
+    stars: ["擎羊", "陀罗"]
+  status: ["破格"]
+
+# ───────────────────────────────────────────────────────────────
+# 对星组合 (star_pairs) — ZW-05 交付物
+# ───────────────────────────────────────────────────────────────
+star_pairs:
+- id: "sp_zuofu_youbi"
+  canonical: "左辅右弼"
+  english: "Left Assistant Right Support"
+  description: "辅弼对星，夹命或同宫为佳格"
+  stars: ["左辅", "右弼"]
+- id: "sp_tiankui_tianyue"
+  canonical: "天魁天钺"
+  english: "Heavenly Leader Heavenly Halberd"
+  description: "贵人对星，科甲功名"
+  stars: ["天魁", "天钺"]
+- id: "sp_wenchang_wenqu"
+  canonical: "文昌文曲"
+  english: "Literary Star Literary Music"
+  description: "文星对星，主科甲文章"
+  stars: ["文昌", "文曲"]
+- id: "sp_lucun_tianma"
+  canonical: "禄存天马"
+  english: "Stored Wealth Heavenly Horse"
+  description: "禄马交驰，主财运亨通"
+  stars: ["禄存", "天马"]
+- id: "sp_qingyang_tuoluo"
+  canonical: "擎羊陀罗"
+  english: "Ram Blade Spinning Top"
+  description: "煞星对星，夹命为凶"
+  stars: ["擎羊", "陀罗"]
+- id: "sp_huoxing_lingxing"
+  canonical: "火星铃星"
+  english: "Fire Star Bell Star"
+  description: "火铃对星，煞星组合"
+  stars: ["火星", "铃星"]
+- id: "sp_dikong_dijie"
+  canonical: "地空地劫"
+  english: "Earth Void Earth Robbery"
+  description: "空劫对星，煞星组合"
+  stars: ["地空", "地劫"]
+
+# ───────────────────────────────────────────────────────────────
+# 流派变体 (school_variants) — ZW-06 交付物
+# ───────────────────────────────────────────────────────────────
+school_variants:
+- {id: "variant_sanhe", canonical: "三合派", traditional: "三合派", english: "San He", description: "以三方四正论命，重星曜组合", en_aliases: []}
+- {id: "variant_feixing", canonical: "飞星派", traditional: "飛星派", english: "Flying Star", description: "重四化飞星，追踪宫位转化", en_aliases: ["Fei Xing"], en_alias_types: {Fei Xing: "exact"}}
+- {id: "variant_zhongzhou", canonical: "中州派", traditional: "中州派", english: "Zhong Zhou", description: "王亭之系统，调和三合与飞星", en_aliases: []}
+- {id: "variant_qintian", canonical: "钦天派", traditional: "欽天派", english: "Qin Tian", description: "以廉贞为命主，重十二宫循环", en_aliases: []}
+- {id: "variant_tongyong", canonical: "通用", traditional: "通用", english: "Tong Yong", description: "无特定流派倾向"}
+
+# ───────────────────────────────────────────────────────────────
+# 时间语境 (time_contexts) — ZW-08 交付物
+# ───────────────────────────────────────────────────────────────
+time_contexts:
+- {id: "time_benming", canonical: "本命", english: "Ben Ming", aliases: ["原局", "本盘"], description: "出生时的命盘"}
+- {id: "time_daxian", canonical: "大限", english: "Grand Cycle", aliases: ["大运", "十年运"], description: "十年大运周期", en_aliases: ["Major Limit", "Da Xian", "Decadal Fortune"], en_alias_types: {Major Limit: "exact", Da Xian: "exact", Decadal Fortune: "exact"}}
+- {id: "time_liunian", canonical: "流年", english: "Annual Cycle", aliases: ["太岁", "年运"], description: "当年运势", en_aliases: ["Liu Nian"], en_alias_types: {Liu Nian: "exact"}}
+- {id: "time_liuyue", canonical: "流月", english: "Monthly Cycle", aliases: ["月运"], description: "当月运势", en_aliases: ["Liu Yue"], en_alias_types: {Liu Yue: "exact"}}
+- {id: "time_liuri", canonical: "流日", english: "Daily Cycle", aliases: ["日运"], description: "当日运势", en_aliases: []}
+- {id: "time_liushi", canonical: "流时", english: "Hourly Cycle", aliases: ["时运"], description: "当时运势", en_aliases: []}
+- {id: "time_tongyong", canonical: "通用", english: "Tong Yong", aliases: [], description: "无特定时间语境"}
+
+# ───────────────────────────────────────────────────────────────
+# 星曜互涉规则 (star_interactions) — ZW-07 交付物
+# ───────────────────────────────────────────────────────────────
+star_interactions:
+  tonggong_combinations:  # 同宫组合
+  - {stars: ["紫微", "天府"], effect: "帝相辅弼，大富大贵", name: "紫府同临", abbreviations: [紫府, 府紫]}
+  - {stars: ["紫微", "贪狼"], effect: "桃花犯主，多情好色", name: "桃花犯主", abbreviations: []}
+  - {stars: ["天府", "天相"], effect: "印星辅帝，权势显赫", name: "府相朝垣", abbreviations: [府相, 相府]}
+  - {stars: ["紫微", "七杀"], effect: "化杀为权，威权出众", name: "紫杀同临", abbreviations: [紫杀, 杀紫]}
+  - {stars: ["紫微", "破军"], effect: "开创破立，事业波折", name: "紫破同宫", abbreviations: [紫破, 破紫]}
+  - {stars: ["武曲", "天府"], effect: "财库丰盈，富格", name: "武府同宫", abbreviations: [武府, 府武]}
+  - {stars: ["武曲", "贪狼"], effect: "贪武同行，技艺生财", name: "贪武同行", abbreviations: [贪武, 武贪]}
+  - {stars: ["武曲", "天相"], effect: "财印相生，稳健聚财", name: "武相同宫", abbreviations: [武相, 相武]}
+  - {stars: ["武曲", "七杀"], effect: "刚烈好胜，武职显贵", name: "武杀同宫", abbreviations: [武杀, 杀武]}
+  - {stars: ["武曲", "破军"], effect: "破耗重重，财来财去", name: "武破同宫", abbreviations: [武破, 破武]}
+  - {stars: ["天机", "太阴"], effect: "机月同梁，文人雅士", name: "机月同宫", abbreviations: [机月]}
+  - {stars: ["天机", "巨门"], effect: "口舌是非，好辩论", name: "机巨同宫", abbreviations: [机巨, 巨机]}
+  - {stars: ["天机", "天梁"], effect: "机梁同宫，智慧过人", name: "机梁同宫", abbreviations: [机梁, 梁机]}
+  - {stars: ["太阳", "太阴"], effect: "日月同辉，贵而不久", name: "日月同宫", abbreviations: []}
+  - {stars: ["太阳", "巨门"], effect: "巨日同宫，化暗为明", name: "巨日同宫", abbreviations: []}
+  - {stars: ["太阳", "天梁"], effect: "阳梁昌禄，荫星辅日", name: "阳梁同宫", abbreviations: [阳梁, 梁阳]}
+  - {stars: ["天同", "太阴"], effect: "同阴同宫，柔和文雅", name: "同阴同宫", abbreviations: [同阴, 阴同]}
+  - {stars: ["天同", "巨门"], effect: "同巨同宫，口才出众", name: "同巨同宫", abbreviations: [同巨, 巨同]}
+  - {stars: ["天同", "天梁"], effect: "同梁同宫，福寿双全", name: "同梁同宫", abbreviations: [同梁, 梁同]}
+  - {stars: ["廉贞", "天府"], effect: "廉府同宫，官商两道", name: "廉府同宫", abbreviations: [廉府, 府廉]}
+  - {stars: ["廉贞", "贪狼"], effect: "廉贪同宫，桃花旺盛", name: "廉贪同宫", abbreviations: [廉贪, 贪廉]}
+  - {stars: ["廉贞", "天相"], effect: "刑印同宫，法律界", name: "廉相同宫", abbreviations: [廉相, 相廉]}
+  - {stars: ["廉贞", "七杀"], effect: "廉杀同宫，刚烈激进", name: "廉杀同宫", abbreviations: [廉杀, 杀廉]}
+  - {stars: ["廉贞", "破军"], effect: "廉破同宫，破格动荡", name: "廉破同宫", abbreviations: [廉破, 破廉]}
+
+  jiafu_rules:  # 夹辅规则
+  - {type: "双星夹", stars: ["天魁", "天钺"], effect: "坐贵向贵", level: "吉"}
+  - {type: "双星夹", stars: ["左辅", "右弼"], effect: "辅弼夹持", level: "吉"}
+  - {type: "双星夹", stars: ["文昌", "文曲"], effect: "文星夹命", level: "吉"}
+  - {type: "双星夹", stars: ["天府", "天相"], effect: "府相夹印", level: "吉"}
+  - {type: "双星夹", stars: ["火星", "铃星"], effect: "火铃夹命", level: "凶"}
+  - {type: "双星夹", stars: ["擎羊", "陀罗"], effect: "羊陀夹命", level: "凶"}
+  - {type: "双星夹", stars: ["地空", "地劫"], effect: "空劫夹命", level: "凶"}
+
+  duigong_rules:  # 对宫关系
+  - {palace_pair: ["命宫", "迁移宫"], description: "本我与外在环境"}
+  - {palace_pair: ["夫妻宫", "官禄宫"], description: "感情与事业"}
+  - {palace_pair: ["财帛宫", "福德宫"], description: "财富与精神"}
+  - {palace_pair: ["子女宫", "田宅宫"], description: "子嗣与家产"}
+  - {palace_pair: ["兄弟宫", "交友宫"], description: "手足与朋友"}
+  - {palace_pair: ["疾厄宫", "父母宫"], description: "健康与长辈"}
+
+# ───────────────────────────────────────────────────────────────
+# 大限/流年推算规则 (time_period_rules) — ZW-08 交付物
+# ───────────────────────────────────────────────────────────────
+time_period_rules:
+  daxian_rules:
+    start_age:
+      水二局: 2
+      木三局: 3
+      金四局: 4
+      土五局: 5
+      火六局: 6
+    direction:
+      阳男阴女: "顺行"
+      阴男阳女: "逆行"
+    cycle: 10
+
+  liunian_rules:
+    method: "太岁入命宫"
+    cycle: 12
+    description: "流年命宫随太岁走"
+
+  sihua_timing:
+  - {type: "生年四化", scope: "本命", description: "出生年天干引发"}
+  - {type: "大限四化", scope: "大限", description: "大限天干引发"}
+  - {type: "流年四化", scope: "流年", description: "流年天干引发"}
+
+# ───────────────────────────────────────────────────────────────
+# 核心概念 (core_concepts) — en_mapping 双语补齐
+# ───────────────────────────────────────────────────────────────
+core_concepts:
+  system:
+  - {id: "concept_zwds", canonical: "紫微斗数", english: "Purple Star Astrology", aliases: ["斗数"], en_aliases: ["Zi Wei Dou Shu", "ZWDS"], en_alias_types: {Zi Wei Dou Shu: "exact", ZWDS: "exact"}}
+  - {id: "concept_mingpan", canonical: "命盘", english: "Natal Chart", aliases: ["星盘", "星图"], en_aliases: ["Birth Chart"], en_alias_types: {Birth Chart: "exact"}}
+  - {id: "concept_wuxing", canonical: "五行", english: "Five Elements", aliases: ["金木水火土"], en_aliases: ["Wu Xing"], en_alias_types: {Wu Xing: "exact"}}
+  - {id: "concept_yinyang", canonical: "阴阳", english: "Yin Yang", aliases: [], en_aliases: []}
+  - {id: "concept_sihua", canonical: "四化", english: "Four Transformations", aliases: ["四化星"], en_aliases: ["Si Hua"], en_alias_types: {Si Hua: "exact"}}
+  - {id: "concept_geju", canonical: "格局", english: "Pattern", aliases: ["命格"], en_aliases: ["Ge Ju"], en_alias_types: {Ge Ju: "exact"}}
+  palace_concepts:
+  - {id: "concept_mingzhu", canonical: "命主", english: "Soul Star", aliases: ["命主星"], en_aliases: ["Ming Zhu"], en_alias_types: {Ming Zhu: "exact"}}
+  - {id: "concept_shenzhu", canonical: "身主", english: "Body Star", aliases: ["身主星"], en_aliases: ["Shen Zhu"], en_alias_types: {Shen Zhu: "exact"}}
+  - {id: "concept_duigong", canonical: "对宫", english: "Opposite Palace", aliases: ["冲宫"], en_aliases: []}
+  - {id: "concept_sanfang", canonical: "三方", english: "Three Directions", aliases: [], en_aliases: []}
+  - {id: "concept_sizheng", canonical: "四正", english: "Four Cardinal", aliases: [], en_aliases: []}
+  - {id: "concept_sfsz", canonical: "三方四正", english: "San Fang Si Zheng", aliases: ["三合方"], en_aliases: []}
+  brightness_levels:
+  - {id: "concept_liangdu", canonical: "亮度", english: "Brightness", aliases: ["星曜亮度"], en_aliases: []}
+  - {id: "concept_miao", canonical: "庙", english: "Temple", aliases: [], en_aliases: []}
+  - {id: "concept_wang", canonical: "旺", english: "Prosperous", aliases: [], en_aliases: []}
+  - {id: "concept_de", canonical: "得", english: "Gain", aliases: [], en_aliases: []}
+  - {id: "concept_li", canonical: "利", english: "Favorable", aliases: [], en_aliases: []}
+  - {id: "concept_ping", canonical: "平", english: "Neutral", aliases: [], en_aliases: []}
+  - {id: "concept_xian", canonical: "陷", english: "Detriment", aliases: ["落陷"], en_aliases: []}
+  stem_branch:
+  - {id: "concept_tiangan", canonical: "天干", english: "Heavenly Stems", aliases: ["十天干"], en_aliases: ["Tian Gan"], en_alias_types: {Tian Gan: "exact"}}
+  - {id: "concept_dizhi", canonical: "地支", english: "Earthly Branches", aliases: ["十二地支"], en_aliases: ["Di Zhi"], en_alias_types: {Di Zhi: "exact"}}
+
+# ───────────────────────────────────────────────────────────────
+# 主题分类 (topics) — 共享字段
+# ───────────────────────────────────────────────────────────────
+topics:
+- id: topic_general
+  canonical: 命运总论
+  english: Ming Yun Zong Lun
+  aliases:
+  - 总论
+  - 综合分析
+- id: topic_career
+  canonical: 事业运势
+  english: Shi Ye Yun Shi
+  aliases:
+  - 事业
+  - 工作
+  - 职业
+- id: topic_wealth
+  canonical: 财运分析
+  english: Cai Yun Fen Xi
+  aliases:
+  - 财运
+  - 理财
+  - 投资
+- id: topic_love
+  canonical: 感情姻缘
+  english: Gan Qing Yin Yuan
+  aliases:
+  - 感情
+  - 爱情
+  - 婚姻
+- id: topic_health
+  canonical: 健康医疗
+  english: Jian Kang Yi Liao
+  aliases:
+  - 健康
+  - 身体
+  - 疾病
+- id: topic_children
+  canonical: 子女教育
+  english: Zi Nv Jiao Yu
+  aliases:
+  - 子女
+  - 生育
+- id: topic_travel
+  canonical: 出行迁移
+  english: Chu Xing Qian Yi
+  aliases:
+  - 出行
+  - 搬迁
+  - 移民
+- id: topic_relationship
+  canonical: 人际关系
+  english: Ren Ji Guan Xi
+  aliases:
+  - 人际
+  - 贵人
+  - 小人
+
+formation_status:
+- {id: "fs_cheng", canonical: "成格", english: "Formed", description: "格局完整成立"}
+- {id: "fs_po", canonical: "破格", english: "Broken", description: "格局受冲破"}
+- {id: "fs_yisi", canonical: "疑似", english: "Suspected", description: "条件部分符合，存疑"}
+- {id: "fs_taolun", canonical: "讨论", english: "Debated", description: "不同流派存在争议"}
+
+# ───────────────────────────────────────────────────────────────
+# 知识域 (knowledge_domains) — Batch B Wave 1 C1（canonical-only）
+# 来源并集：schemas.py L405-407 + llm_annotator.py L206
+# ───────────────────────────────────────────────────────────────
+knowledge_domains:
+- id: kd_star_nature
+  canonical: 星曜性质
+- id: kd_four_transformations
+  canonical: 四化星
+- id: kd_palace_change
+  canonical: 宫位变化
+- id: kd_inference_technique
+  canonical: 推测技法
+- id: kd_three_layers
+  canonical: 三层结构
+- id: kd_star_pairs
+  canonical: 对星组合
+- id: topic_pattern
+  canonical: 格局解析
+  english: Ge Ju Jie Xi
+  aliases:
+  - 格局
+  - 命格
+- id: topic_timing
+  canonical: 流年运程
+  english: Liu Nian Yun Cheng
+  aliases:
+  - 流年
+  - 运势
+  - 时机
+
+chart_types:
+- id: ziwei_chart_natal
+  canonical: 本命盘
+  english: Natal Chart
+- id: ziwei_chart_synastry
+  canonical: 合盘
+  english: Synastry
+- id: ziwei_chart_decadal
+  canonical: 大限盘
+  english: Decadal Chart
+- id: ziwei_chart_annual
+  canonical: 流年盘
+  english: Annual Chart
+- id: ziwei_chart_monthly
+  canonical: 流月盘
+  english: Monthly Chart
+
+relationship_types:
+- id: ziwei_relationship_spouses
+  canonical: 夫妻
+  english: Spouses
+- id: ziwei_relationship_parent_child
+  canonical: 亲子
+  english: Parent and Child
+- id: ziwei_relationship_siblings
+  canonical: 兄弟
+  english: Siblings
+- id: ziwei_relationship_friends
+  canonical: 朋友
+  english: Friends
+- id: ziwei_relationship_business
+  canonical: 商业
+  english: Business
+- id: ziwei_relationship_hierarchy
+  canonical: 上下级
+  english: Organizational Hierarchy
+
+comparison_methods:
+- id: ziwei_comparison_palaces
+  canonical: 宫位对照
+  english: Palace Comparison
+- id: ziwei_comparison_transformations
+  canonical: 四化交叉
+  english: Cross Chart Transformations
+- id: ziwei_comparison_stars
+  canonical: 主星配对
+  english: Principal Star Pairing
+- id: ziwei_comparison_spouse_palaces
+  canonical: 夫妻宫互参
+  english: Spouse Palace Comparison
+- id: ziwei_comparison_decadal
+  canonical: 大限同步
+  english: Decadal Synchronization
+
+analysis_methods:
+- id: ziwei_method_three_directions
+  canonical: 三方四正
+  english: Three Directions and Four Cardinal Palaces
+- id: ziwei_method_transformations
+  canonical: 四化分析
+  english: Four Transformations Analysis
+- id: ziwei_method_patterns
+  canonical: 格局分析
+  english: Pattern Analysis
+
+legacy_ambiguous_ids:
+  MaTouDaiJian: [pat_horse_head_sword, pat_horse_head_arrow]
+  Ma Tou Dai Jian: [pat_horse_head_sword, pat_horse_head_arrow]
+  pat_matou_daijian:
+  - pat_horse_head_sword
+  - pat_horse_head_arrow
+
+relation_types:
+- id: ziwei_relation_same_palace
+  canonical: 同宫
+  english: Same Palace
+  minimum_distinct_entities: {star: 2}
+- id: ziwei_relation_placement
+  canonical: 星曜入宫
+  english: Star Placement in Palace
+  required_roles: {star: star, palace: palace}
+- id: ziwei_relation_flanking
+  canonical: 夹辅
+  english: Flanking
+- id: ziwei_relation_opposition
+  canonical: 对宫
+  english: Opposite Palace
+- id: ziwei_relation_transformation
+  canonical: 四化作用
+  english: Transformation Relation
+
+annotation_contract:
+  decision_revision: annotation-decisions-2026-10-13-r1
+  summary_max_characters: 300
+  summary_en_max_words: 150
+  unknown_state: 'null'
+  evidence_required: true
+  knowledge_domains_retrieval: classification_only
+  legacy_topic_axes:
+    格局解析: knowledge_domains
+    流年运程: knowledge_domains
+
+
+# D13: participant type resolves names only within these vocabulary sections.
+relation_entities:
+  star: ["stars"]
+  palace: ["palaces.twelve_palaces", "palaces.special_palaces"]
+  pattern: ["patterns"]
+
+# One-way deterministic derivation; never infer a chart from a time mention.
+chart_time_context_map:
+  本命盘: 本命
+  大限盘: 大限
+  流年盘: 流年
+  流月盘: 流月
+
+# Group labels are not claims of co-location or completed formations.
+star_groups:
+- id: group_ju_ri
+  canonical: 巨日
+  english: Ju Ri Group
+  aliases: [日巨]
+  stars: [巨门, 太阳]
+  source_reference: dots-quality-review-2026-10-15/ziwei_006:c014
+  description: 巨门与太阳的星群名称；不据此推断同宫或成格。
+- id: group_zi_fu_lian_wu_xiang
+  canonical: 紫府廉武相
+  english: Zi Fu Lian Wu Xiang Group
+  stars: [紫微, 天府, 廉贞, 武曲, 天相]
+  source_reference: dots-quality-review-2026-10-15/ziwei_006:c024
+  description: 来源使用的星群名称；不自动等同紫府朝垣或断定成格。
