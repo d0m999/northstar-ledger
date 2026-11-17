@@ -1,0 +1,2594 @@
+{
+  "task": "Z073 independent S4 semantic review G001–G050",
+  "reviewer_role": "non-author of this proposal",
+  "human_acceptance": false,
+  "decision": "accept_for_this_batch_only",
+  "overall_S4_status": "pending_all_batches",
+  "proposal_file": "z073_rebuild_20261117/preparation/s3_batches/segmentation_G001_G050.json",
+  "proposal_sha256": "c0dfbfcaae290ba510c1b0dfe70a86d797c6826a5813b894e93f0b8e9b750e97",
+  "source_sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+  "scope": {
+    "groups": 50,
+    "segments": 112,
+    "joins": 72
+  },
+  "method": "逐組全文與每個confirmed原文尾首實讀，再逐切點核子題/條件/命例；程式只驗Unicode覆蓋、token、精確重疊、來源映射與hash。",
+  "limitations": [
+    "不評判命理或醫學內容真偽",
+    "既有OCR疑點、命盤混排、源端殘缺保留",
+    "不授權組間未知鄰接合併，不代表人工驗收或整體S4通過"
+  ],
+  "records": [
+    {
+      "group_id": "G001",
+      "group_file_sha256": "01059e2bd2084323539661a63b0fb72419dccb3a5cfccb3886b1969c33d74910",
+      "text_sha256": "b628ea2c62b242c81d3fa0e1503def6d628f6ff7e788d9d7f6317518df869d5d",
+      "decision": "accept",
+      "semantic_review": "章綱整體，不依星曜枚舉拆碎",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            554
+          ],
+          "estimated_tokens": 550,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b628ea2c62b242c81d3fa0e1503def6d628f6ff7e788d9d7f6317518df869d5d"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G002",
+      "group_file_sha256": "a4294d2d1949301c05196923e790c58ffcc73f7d23835c62fa3d69b2196f1644",
+      "text_sha256": "301f018b83fbcc06f1da1ac64b849457806c682e19a6d87e4d8ee24a1d664d7a",
+      "decision": "accept",
+      "semantic_review": "財帛賦性與金性將星兩完整論述，末端來源殘句保留",
+      "joins": [
+        {
+          "left_ordinal": 2,
+          "right_ordinal": 3,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "財星得地但｜仍須會多吉星，轉折條件未完且右側直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 3,
+          "right_ordinal": 4,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "將星得地格｜」，不但有註解，引號與書名論述直接閉合。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            668
+          ],
+          "estimated_tokens": 665,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "44ae858ba809d59712de1f3d8c952966a2a7775c1510d8c5dcc392d09d1d78de"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            668,
+            1436
+          ],
+          "estimated_tokens": 765,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b3b83868fcdcc95fa880d2fc1d1f9aff0972848b97967914b9cf7b8ddf84b556"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "組末原句未完；不得跨已判 unknown 的頁碼缺口補全。"
+      ]
+    },
+    {
+      "group_id": "G003",
+      "group_file_sha256": "f91189b34a1d644f0045764d3658902da376989b46caf8ae30bb891b893a125e",
+      "text_sha256": "f7f66b80417e7156cb6896a78677b5c20481794373a0ee1ad10d0f4bd0ff288f",
+      "decision": "accept",
+      "semantic_review": "將星收尾、外貌聲性、地域論各具子題；814為完整外貌論述",
+      "joins": [
+        {
+          "left_ordinal": 5,
+          "right_ordinal": 6,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "武曲坐命｜者的體型時，定語主語跨界直接連成。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 6,
+          "right_ordinal": 7,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "則須視實｜際星曜組合而定，實際一詞斷開。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            123
+          ],
+          "estimated_tokens": 122,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "c72d0d907fe849ffdb0ef6ca759f4162be23dffaaacc9d5ae2e1561998176ed7"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            123,
+            941
+          ],
+          "estimated_tokens": 814,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "fde06c7d8f2ec8470a550a5ce556c6d99381be25ba3c38faf918ca603ba49be6"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            941,
+            1408
+          ],
+          "estimated_tokens": 466,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "d1a25e6a1ed40f28fbaa6198929a79c7117d4e4084e9446ea1e93c2e89d82a54"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首殘句及京宏亮等 OCR 疑點不修。"
+      ]
+    },
+    {
+      "group_id": "G004",
+      "group_file_sha256": "aff6736ea6c6e0fae4018058ef1edec515b4bc0797ca6e51ab1edb8a8dc665ad",
+      "text_sha256": "ca28cc7c761adcca0411b6227a0b1a00945f71f52169bea3d2681e74cbfc529a",
+      "decision": "accept",
+      "semantic_review": "女命性格、婚姻環境、火金條件、男命對照、林太太引入分開，沒有把必要條件截半",
+      "joins": [
+        {
+          "left_ordinal": 8,
+          "right_ordinal": 9,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "言行亦較為｜直來直往，述語直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 9,
+          "right_ordinal": 10,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "意識型態往往是｜左右這個命造者…的一種觀念，判斷句直接續接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 10,
+          "right_ordinal": 11,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "實際星曜組合｜的吉凶旺弱及配偶…始能論斷，定語和結論續接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 11,
+          "right_ordinal": 12,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "特別是坐｜會火鈴，坐會一詞跨界。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 12,
+          "right_ordinal": 13,
+          "relation": "identical_overlap",
+          "overlap_chars": 481,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            199
+          ],
+          "estimated_tokens": 199,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "2a4f393e2fac083cdc7b157886a38fe54f73cbad9ae9d3bf34f2fd6875584712"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            199,
+            743
+          ],
+          "estimated_tokens": 544,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "29952adc0e95892819081b7d2e3577968b77718c7e0bd7e17f0c36f0b64b0227"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            743,
+            1273
+          ],
+          "estimated_tokens": 528,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "da449bceb81fd7bf4a28039ea1285e70e8f722300afc2b5f7eb39e09b1161a45"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1273,
+            1955
+          ],
+          "estimated_tokens": 679,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "9a54e22a0457f3753e5d49a3c331ed8481568be203633545e97639a2df80a9c8"
+        },
+        {
+          "segment_number": 5,
+          "span": [
+            1955,
+            2358
+          ],
+          "estimated_tokens": 402,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "7aeb1c4ed1dbac88f6b1e7996fe9b159f3313c02b2abe8a6b6f5ee2b65c105f2"
+        },
+        {
+          "segment_number": 6,
+          "span": [
+            2358,
+            2564
+          ],
+          "estimated_tokens": 203,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "762391f8d2446f9f47c5d037f0898baade5132786d87284f8aa395530c584f29"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "組末命例句未完。"
+      ]
+    },
+    {
+      "group_id": "G005",
+      "group_file_sha256": "e3372cc9cec190269a12b8827fe38e6f25918823a6ed67f901ab69e9dc408382",
+      "text_sha256": "199d0c803234891a2f4a03ac94bfc92f0f44db0961482b3205e5478d2fe7374c",
+      "decision": "accept",
+      "semantic_review": "盤二混排整體保留",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            339
+          ],
+          "estimated_tokens": 298,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "199d0c803234891a2f4a03ac94bfc92f0f44db0961482b3205e5478d2fe7374c"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "命盤欄位混排，非已還原命盤。"
+      ]
+    },
+    {
+      "group_id": "G006",
+      "group_file_sha256": "3cf90e3ad2d7175a66f519e65137f9a1b979a8e973d250028d51da2b1922fc31",
+      "text_sha256": "87f50684278fb000259acccdc35f3895d0e168a578a0e89d902306e4e1d414af",
+      "decision": "accept",
+      "semantic_review": "先天婚姻條件、實際兩限對照、註釋、武府高壽各自完整",
+      "joins": [
+        {
+          "left_ordinal": 15,
+          "right_ordinal": 16,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "夫婦的互動｜關係，發生了劇變，完整名詞跨界。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 16,
+          "right_ordinal": 17,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "故此大限欲維｜持夫妻之間的和諧，維持斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 17,
+          "right_ordinal": 18,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "一九九一年由時報出｜版社出版，出版社斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 18,
+          "right_ordinal": 19,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 516,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確516字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            462
+          ],
+          "estimated_tokens": 460,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "8e5606b6824b98dbb616e40834ad039969b91f8d4c8d51da444a14d7a2e02e50"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            462,
+            1199
+          ],
+          "estimated_tokens": 736,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f3e99f3922f07d20d5ee8d0dd753e28a3081e8c4b43ca586726f1732f389aa8d"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1199,
+            1717
+          ],
+          "estimated_tokens": 511,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "20bfb0498f48d3f5f88460321fc9e5df43107b9ed1d3002d869ee7887268b3fd"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1717,
+            2359
+          ],
+          "estimated_tokens": 635,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "de6b106e3432bd2c6e8020d62f2a994d3aebc1cfbfa121b09524375130d82ca4"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首諧為殘句；盤三含韓文수，原樣保留。"
+      ]
+    },
+    {
+      "group_id": "G007",
+      "group_file_sha256": "7ae31af367154016f0614a4bd763519554069a63271f5a51bc9c8265e07140e9",
+      "text_sha256": "b2413cedcf1f8aa0ac74ebb182df1a72e3165f36ff585519f38dcb313e031f54",
+      "decision": "accept",
+      "semantic_review": "高壽續論與祿馬新題分離合理",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            317
+          ],
+          "estimated_tokens": 315,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b1726cb7288d8fb7037507920eed2e42fe44d45c7a7910a7b224c6fc73aad4e5"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            317,
+            467
+          ],
+          "estimated_tokens": 150,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "ec95b6cd6fb67024868b25b2b4b21e1c782b1a3421e2733f6c994e9c181ec7ae"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G008",
+      "group_file_sha256": "43ce866aacefeec643818a1392974fa684bd273b8cbe859d064ec533aa0ed772",
+      "text_sha256": "4ddd7a512eca673fa7761faca602248274397fc95ac740dcaf34f7df65133484",
+      "decision": "accept",
+      "semantic_review": "圖四、祿馬完整論證、武貪生剋、火貪條件、太歲例依子題分段",
+      "joins": [
+        {
+          "left_ordinal": 21,
+          "right_ordinal": 22,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "主動與主靜兩種，例如殺破狼主動，｜相對而言紫微天府主靜，未完對比直接補完。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 22,
+          "right_ordinal": 23,
+          "relation": "identical_overlap",
+          "overlap_chars": 444,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 23,
+          "right_ordinal": 24,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "吉凶影響就很｜大。副詞述語直接成句。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 24,
+          "right_ordinal": 25,
+          "relation": "identical_overlap",
+          "overlap_chars": 552,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 25,
+          "right_ordinal": 26,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "貪狼五行屬木，被金剋害後｜，反不利於此，未完條件直接續述。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 26,
+          "right_ordinal": 27,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "在紫微星｜部份已有過解說，章節指稱直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 27,
+          "right_ordinal": 28,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 543,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確543字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            182
+          ],
+          "estimated_tokens": 177,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f0814ba95e31a4023d8ca45f6459f4b5a13851f77e30558c66c2bcf6ed4e0618"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            182,
+            997
+          ],
+          "estimated_tokens": 811,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "d9d7f1d3045ae0c424c66be1763a482e90442d4ec575ce76d58317202a69f2f5"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            997,
+            1737
+          ],
+          "estimated_tokens": 738,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a3321f0791eda07f06bb058bae9761e589f8463a98f9621f02ce909533850424"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1737,
+            2153
+          ],
+          "estimated_tokens": 415,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "61319a405456e40129f0d97bd2c175ae3137d2fc4bc52ff0cb24f133f5f25c35"
+        },
+        {
+          "segment_number": 5,
+          "span": [
+            2153,
+            2850
+          ],
+          "estimated_tokens": 689,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "65791334818f78061d628f7145b66f09b7b4f4cb40f833586e3e0963a5626fc5"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "尾部正文條件未完即插入盤五，不重排或補寫。"
+      ]
+    },
+    {
+      "group_id": "G009",
+      "group_file_sha256": "05fd6e5a1de59e0afdad5c5ca4b552cdc79573b1759a832547132e0a10f1cc62",
+      "text_sha256": "d1def5afaea0dad1d31b7283b911211387789d54f82fda1b4e6845c004795e28",
+      "decision": "accept",
+      "semantic_review": "兩張不同命盤各自保留，不按圖中文字重排",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            179
+          ],
+          "estimated_tokens": 174,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "02ce5e1605cc52f77ed9c8d904e4d6383e443f012b8d7fb96ac113b489951b2d"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            179,
+            330
+          ],
+          "estimated_tokens": 148,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "c5d8fe7abfff91ee81ae0b32740d7dc0ea63b42f04c26bed8ae8051a615ca917"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "兩盤圖說武貪化忌記載可能矛盾，保留。"
+      ]
+    },
+    {
+      "group_id": "G010",
+      "group_file_sha256": "2c0b6afaaccde098d3cf1e400cb2e6c72ef4a5e8c660fecb1383513329a1e0c0",
+      "text_sha256": "6536061abfa385427572aecda8fa4de1ffda454f7d13862a288a8042f01622ae",
+      "decision": "accept",
+      "semantic_review": "寡宿註釋、昌曲旺宮條件、武殺火星條件三子題完整",
+      "joins": [
+        {
+          "left_ordinal": 30,
+          "right_ordinal": 31,
+          "relation": "identical_overlap",
+          "overlap_chars": 482,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 31,
+          "right_ordinal": 32,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "但是否能出將入相，則須視｜其他條件而定，缺賓語與結尾補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            245
+          ],
+          "estimated_tokens": 244,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b9929f1e8eac5b1a569e8c2bd75ed6e092648efd098136d50b659e08d9e084dd"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            245,
+            596
+          ],
+          "estimated_tokens": 350,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "d267524052d6abace36488878d396ae22b6d6d59b2a9cc161731390c95006b1a"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            596,
+            946
+          ],
+          "estimated_tokens": 350,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "50d4c8dffba82899aca9e93f57e4ac39d73e7f656df9daeab3fb425c3de66e9b"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G011",
+      "group_file_sha256": "4017198846bd938779895fee94106c58241796a81cc8876a7ce33f774fbbc195",
+      "text_sha256": "4ad48e21700802146aa13fb2770de589d238fa42a7cdafc17beda31dcee1f296",
+      "decision": "accept",
+      "semantic_review": "武殺火星正反對照和插入圖混排未強拆",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            730
+          ],
+          "estimated_tokens": 727,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "4ad48e21700802146aa13fb2770de589d238fa42a7cdafc17beda31dcee1f296"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "圖文混排及未完凶格句保留。"
+      ]
+    },
+    {
+      "group_id": "G012",
+      "group_file_sha256": "88fd945267b33a53f9c2e55585b8afead2b79523e96b0be852084f1ba3659eb2",
+      "text_sha256": "0c6c75215494844e380b30e3fc919bbebec65e6bd7387654f1cc97d04d4771ed",
+      "decision": "accept",
+      "semantic_review": "盤九及跨宮互動論述保持一體",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            564
+          ],
+          "estimated_tokens": 559,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "0c6c75215494844e380b30e3fc919bbebec65e6bd7387654f1cc97d04d4771ed"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "武曲第四章疑版頭不刪。"
+      ]
+    },
+    {
+      "group_id": "G013",
+      "group_file_sha256": "1529078bda3c766b9067d1ceeb1746b122f78465ffad21aaaed454c4d4b3d2a0",
+      "text_sha256": "509aca04880001de4813e696c48f8e687156c31aabf0e851c33dd6d3ced6d687",
+      "decision": "accept",
+      "semantic_review": "盤十、十一各自完整混排；章名殘留保留",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            225
+          ],
+          "estimated_tokens": 186,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f33c3863927b1e6472d685fe68d4072cc38a3c257f0712c624d9baf9d76535d2"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            225,
+            446
+          ],
+          "estimated_tokens": 197,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "2054ec61745af6c3a962a96e7137b2ced31c95f8b0da039018035396475ce274"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "圖文與章名混排不重排。"
+      ]
+    },
+    {
+      "group_id": "G014",
+      "group_file_sha256": "a4c1144a25924287a0149d1f4084305ea6a0c4cea2b5ac0e9c6ada215800b033",
+      "text_sha256": "a98395250c3806621ee50a2c5ec20aaf9a743e2364de9f566466251c32f20fbc",
+      "decision": "accept",
+      "semantic_review": "化權條件、財囚定義限制、盤十二例分離完整",
+      "joins": [
+        {
+          "left_ordinal": 36,
+          "right_ordinal": 37,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "始是。否則｜若是武曲化權且無其他吉星，未完否則條件直接續接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 37,
+          "right_ordinal": 38,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "當星曜化祿或化權或化｜科時，化科斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            564
+          ],
+          "estimated_tokens": 562,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a261c37a0391ad59b3b200f55cd9be54a556ba2f3fed62152d0f51ed3984f275"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            564,
+            1227
+          ],
+          "estimated_tokens": 660,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "956d182ac8b86f4d77b124049acb91ce982651bcffb20f3e1c06205f1a6fd0c1"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1227,
+            1658
+          ],
+          "estimated_tokens": 396,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "81437b6502a09958672437b492b4ab7f1127d9647b2a037b87980557aa3b0080"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "凶格的後插命盤導致句未完，保留。"
+      ]
+    },
+    {
+      "group_id": "G015",
+      "group_file_sha256": "9b257c55807966e1592ca0bdf074f4e05d584d93350b1781b848aa6780a3f9d3",
+      "text_sha256": "31629c35634435c18c6d6c0cf335e9e0c434e0ff7e5a01cd98bccb7b6f498613",
+      "decision": "accept",
+      "semantic_review": "盤十三行業與行限對照完整",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            529
+          ],
+          "estimated_tokens": 527,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "31629c35634435c18c6d6c0cf335e9e0c434e0ff7e5a01cd98bccb7b6f498613"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G016",
+      "group_file_sha256": "2c9c44e5280ef21e9d469233dc4b1c0c6f69b649a21084c8e153d23b44c60cbe",
+      "text_sha256": "503f1728544fe45c9eca25ff4e9322e63c394570bb8eb8e48257d89902c9d930",
+      "decision": "accept",
+      "semantic_review": "圖十三與王永慶新例分開，甚字為源尾殘缺",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            218
+          ],
+          "estimated_tokens": 184,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "535e50713848cbb2ab6d4df5464e7a1f87a03a2d806afeaf5df46ac8cd12e949"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            218,
+            674
+          ],
+          "estimated_tokens": 453,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "81b635d37739d54a11f8fadee8bcb2d082a2fd875291bea210444339f1f45bde"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "組末甚字未完。"
+      ]
+    },
+    {
+      "group_id": "G017",
+      "group_file_sha256": "fbf816cfe1b905cf84d44da4103f75bfaff224117ad0d75a506354967ba2c5e1",
+      "text_sha256": "1b66d987a9bf05516b249091939e1f5bbf7fe9752a803b58c28629bd9bb84413",
+      "decision": "accept",
+      "semantic_review": "王例圖結論、有情無情剋、來源註、破軍導論、雙星開創分段均完整",
+      "joins": [
+        {
+          "left_ordinal": 41,
+          "right_ordinal": 42,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 401,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確401字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 42,
+          "right_ordinal": 43,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "有情剋與無情剋｜的輕重之分，未完名詞結構直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 43,
+          "right_ordinal": 44,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "因武曲之陰金｜被廉貞之陰火相剋傷，引文主被動直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 44,
+          "right_ordinal": 45,
+          "relation": "identical_overlap",
+          "overlap_chars": 517,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 45,
+          "right_ordinal": 46,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "更進｜一步的敘述，更進一步斷開。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 46,
+          "right_ordinal": 47,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "別人的立｜場或感受，立場斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 47,
+          "right_ordinal": 48,
+          "relation": "identical_overlap",
+          "overlap_chars": 534,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            649
+          ],
+          "estimated_tokens": 604,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "956d98eef1a2fdf3f122789eb11e2e76284e57967dae907e16036479edddb020"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            649,
+            1364
+          ],
+          "estimated_tokens": 709,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "76eafaec4d6486f4d51871ab23dfce8b70ad6e7dee85412d9fea7497de9f2c05"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1364,
+            1533
+          ],
+          "estimated_tokens": 166,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "709ad434e091ca031f9439ca073e652ebe6f4137fc5fc713aa09bd6f97d45d05"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1533,
+            2140
+          ],
+          "estimated_tokens": 607,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a28cbe03307f492e6ff2ad1a2618074b05a8a532c6046b99f84c296508e77c08"
+        },
+        {
+          "segment_number": 5,
+          "span": [
+            2140,
+            2912
+          ],
+          "estimated_tokens": 771,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "218089e7185e590c8ec16dc95b43db17c87e9e5201511f5fdde873e3e07c31e6"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首圖文與孤立吉字保留，未復原頁面。"
+      ]
+    },
+    {
+      "group_id": "G018",
+      "group_file_sha256": "56c87abe312b74698721c50ab0770b898fa2619208ba743eb5d3468b18a77f71",
+      "text_sha256": "cf719a57f4d89c129c22ee1d3c31f56fe905bc4ee24d80fcac67bb2059fa167a",
+      "decision": "accept",
+      "semantic_review": "武破旺陷結論與肺經新題及圖分開",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            216
+          ],
+          "estimated_tokens": 216,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "6bfb2d5d23a4ec99e751c2837852ee4e29080020aacc07884cf3aed312b03a32"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            216,
+            705
+          ],
+          "estimated_tokens": 485,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "c84343c6329c16420072f2dde2814efea9690eacbd97331edecaf5371ea5ec6c"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "疾病內容僅為作者命理觀點，不作醫學核實；章名混排保留。"
+      ]
+    },
+    {
+      "group_id": "G019",
+      "group_file_sha256": "c0f6fc76621a7a00b995d6d2eb0e9418cb0dce20fee7a3c052d89b6d4f4a84ff",
+      "text_sha256": "8e1260dcfd06f0b9d9fbd49a6951a005285ae27e0c6da6f57829a98859445ec5",
+      "decision": "accept",
+      "semantic_review": "肺經範圍限制與註完整820；田宅引入獨立",
+      "joins": [
+        {
+          "left_ordinal": 50,
+          "right_ordinal": 51,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "氣候冷熱變化而生過｜敏，過敏斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            823
+          ],
+          "estimated_tokens": 820,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "6a38a6b17121fecebe0d2428201b36e22694dc62c0edebd841b78f49866aeee7"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            823,
+            950
+          ],
+          "estimated_tokens": 127,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b70c50e23cdc0c77ddda339c48a4845141cb9e69a1af62a1f89eda39409e7f2f"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "疾病及器官關聯僅為作者觀點，不作醫學驗證。"
+      ]
+    },
+    {
+      "group_id": "G020",
+      "group_file_sha256": "3aea303f51c4d7b93d7f174f2cb6dd79efdc1b27c34ccc8575dc4b97ed143f58",
+      "text_sha256": "b16e191f8df75f5e629ce9040d82ef00dfebd0bd71ebfc56a13405ddde6d07a9",
+      "decision": "accept",
+      "semantic_review": "田宅意識與實際坐向對照完整",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            500
+          ],
+          "estimated_tokens": 497,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b16e191f8df75f5e629ce9040d82ef00dfebd0bd71ebfc56a13405ddde6d07a9"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G021",
+      "group_file_sha256": "3f69e20bb96e37b02c914e10a4b50ee1751abc48fb4d6eda18987e799625ee67",
+      "text_sha256": "80a6802ae1b3096389ea7b9c3b170e90a2269843ab66916c916e12f31b96275a",
+      "decision": "accept",
+      "semantic_review": "圖十六混排未解盤或修補",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            350
+          ],
+          "estimated_tokens": 307,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "80a6802ae1b3096389ea7b9c3b170e90a2269843ab66916c916e12f31b96275a"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G022",
+      "group_file_sha256": "7d7bb643e7fdd84c5b15a7ab2b09b41a556414bb20a215b8b46b914caf68caa8",
+      "text_sha256": "5caf0e20f1acca4ed0c5b63bfd979ef70db4b3f6e827f92bc4d1f6ae71094c30",
+      "decision": "accept",
+      "semantic_review": "文武兼備引文與不可遽斷富貴限制同塊",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            410
+          ],
+          "estimated_tokens": 408,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "5caf0e20f1acca4ed0c5b63bfd979ef70db4b3f6e827f92bc4d1f6ae71094c30"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G023",
+      "group_file_sha256": "930e1636d536ff5d4951df1baf25febac9dd661967d1bff0146fa01d0d7efbf6",
+      "text_sha256": "29fa9a69352659e83c248da6bbc6bedb436c8576663b0e932f30aeb987c76bf6",
+      "decision": "accept",
+      "semantic_review": "旺弱、外向、盤十七引入、會星條件、威名新題分離；圖文保持原序",
+      "joins": [
+        {
+          "left_ordinal": 55,
+          "right_ordinal": 56,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "會讓人覺得此｜人個性伶俐，此人斷詞且述語直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 56,
+          "right_ordinal": 57,
+          "relation": "identical_overlap",
+          "overlap_chars": 517,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 57,
+          "right_ordinal": 58,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "個性較為穩重，但｜當會多煞星時，武府轉折條件直接承接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 58,
+          "right_ordinal": 59,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 193,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確193字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 59,
+          "right_ordinal": 60,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "故就不一定會如上｜述一樣，上述斷詞。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 60,
+          "right_ordinal": 61,
+          "relation": "identical_overlap",
+          "overlap_chars": 500,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            793
+          ],
+          "estimated_tokens": 789,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "47d11d030872c98e28f4e18e56d5218e2b91633a79b27a857259d5de2a98ca1e"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            793,
+            1360
+          ],
+          "estimated_tokens": 565,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a66984e786a41335052465fabbdc2f96ae38325293f39ce53b8290d31ae74370"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1360,
+            1674
+          ],
+          "estimated_tokens": 307,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "036f45f1bfd02dda2270be78a1a6c3eefbc55ce85b93e662f49e1387c0afdf80"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1674,
+            2250
+          ],
+          "estimated_tokens": 573,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "8233704b379a556dbf14cd0d4ca721b1295b20e9d1ff273c504c5549ba2e574b"
+        },
+        {
+          "segment_number": 5,
+          "span": [
+            2250,
+            2725
+          ],
+          "estimated_tokens": 472,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "be5c66e5c6d579d7e60869a1e5c1223f239e6a8b7f76a23adc4ed088f7a9ee00"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "尾部，七九疑頁腳及引文未完保留。"
+      ]
+    },
+    {
+      "group_id": "G024",
+      "group_file_sha256": "5f3dd35e8fb4407c9a60b3b07cad86846879c9c108bb3e3e0abc9b7de8622773",
+      "text_sha256": "b8ecfa06860a0d1b191deee1c84232c6eca984842b2bc7aec74136ee5975cc02",
+      "decision": "accept",
+      "semantic_review": "丁丑至庚午跨圖未完句保持同段；夾命田宅論另段",
+      "joins": [
+        {
+          "left_ordinal": 62,
+          "right_ordinal": 63,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 214,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確214字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            362
+          ],
+          "estimated_tokens": 361,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f7a52ec07f2b00f773fec1567f9647d6beb592ff56623ae127d2a51c38af7854"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            362,
+            887
+          ],
+          "estimated_tokens": 488,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b984e6baf280c9af562d0b3f86d1b9143248c34dab3cfb54e4688559371fa93a"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            887,
+            1277
+          ],
+          "estimated_tokens": 390,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "bcac4352cd409acf37d0e0face2171270c8bd137523f27051f5629db26e91677"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首引文缺上文；末段申宮與未宮矛盾不改。"
+      ]
+    },
+    {
+      "group_id": "G025",
+      "group_file_sha256": "7e9b14e29af714883d25175f52d00f46593c334fcb952c3069944bd61d72fc31",
+      "text_sha256": "eb21689894646722facd782950946a021c7dcde70dc8ea9d371dbb8bc28d4e10",
+      "decision": "accept",
+      "semantic_review": "甲年結論與庚年新例分離；尾殘句不跨未知鄰接",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            270
+          ],
+          "estimated_tokens": 269,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "39a4d72ad86c41efb60aa2e1845fca9b3fe29be57e8574f1c70db4eb25a92e35"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            270,
+            539
+          ],
+          "estimated_tokens": 269,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "e150c8972c1eee1f53bb1bd253d5c53215a77390fff58ff828da9c18f1fd67fc"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "組末強旺且句未完。"
+      ]
+    },
+    {
+      "group_id": "G026",
+      "group_file_sha256": "2ca83dc64fd7e5ee8c081cde6de5a661f271ebd24dffbc0f3f6a23be7a9c95d1",
+      "text_sha256": "8203deafa1bbcfa11bafa13e99076ac4f5f5483189fd1a9de7590358d3f0357d",
+      "decision": "accept",
+      "semantic_review": "重現行限保留，未作跨組去重",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            539
+          ],
+          "estimated_tokens": 538,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "8203deafa1bbcfa11bafa13e99076ac4f5f5483189fd1a9de7590358d3f0357d"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "與 G024 重現文本不刪；申未宮矛盾保留。"
+      ]
+    },
+    {
+      "group_id": "G027",
+      "group_file_sha256": "ed47b8c43a298f4b1fec58ba9ba9130ae27ec6f37ee4afc2f8a342f1cd7db703",
+      "text_sha256": "f079455e46dec8a05dc94e4e93dc4cbd38ed1afb8f92ceb9d89d612d307a6197",
+      "decision": "accept",
+      "semantic_review": "甲年結論與庚年圖例分離，未補被圖中斷句",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            270
+          ],
+          "estimated_tokens": 269,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "39a4d72ad86c41efb60aa2e1845fca9b3fe29be57e8574f1c70db4eb25a92e35"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            270,
+            752
+          ],
+          "estimated_tokens": 444,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a2055152c36d19dddaa114df1162ddfb6ca8f1bade9d2d40855f0b6531840d96"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "行限句被圖插入，原序不變。"
+      ]
+    },
+    {
+      "group_id": "G028",
+      "group_file_sha256": "d1c3616dc0d5d546c34816c0a4ce3343fe09ff07e73619d16eab7830693d1214",
+      "text_sha256": "b24e44237ca305dd08f9918c8b0b2d461b952bff8112d9a51a832c1575bf351d",
+      "decision": "accept",
+      "semantic_review": "庚年結論與癸年新例分離，反字源尾保留",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            355
+          ],
+          "estimated_tokens": 354,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "60be6d6d078529908db23ca042ccb8587f3e92ba5ed9f505d248a0ab7c755e2e"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            355,
+            549
+          ],
+          "estimated_tokens": 194,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f924fba2c00e1d99fe34ba788be1f1b79dd5ab7b1185595d54b1a028d646082c"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首及末尾有來源殘句。"
+      ]
+    },
+    {
+      "group_id": "G029",
+      "group_file_sha256": "0ae631a5204f71b17aa6bec6a753265a3850d9b54152c5ce2f8cbcae2ea563f2",
+      "text_sha256": "67103af5e7ab6c3b487ed40f3147fd51adaf8f17ae4a2460612742cbbb08a24f",
+      "decision": "accept",
+      "semantic_review": "圖十九與庚年結論一體，癸年新例另段",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            568
+          ],
+          "estimated_tokens": 529,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "1aacf285bcaaf9e1efaa76a917091e469b42c92cebcffd051bff49efe8d68ce0"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            568,
+            762
+          ],
+          "estimated_tokens": 194,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f924fba2c00e1d99fe34ba788be1f1b79dd5ab7b1185595d54b1a028d646082c"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "正文末尾反字未完。"
+      ]
+    },
+    {
+      "group_id": "G030",
+      "group_file_sha256": "6c55bda1c41a61bd6e4452e3d15bbda40d22d556358b224cf74283378c39db62",
+      "text_sha256": "fc042cf486064de38b3521b56d50b2410df2179f70b87684a2341b7414bd5cce",
+      "decision": "accept",
+      "semantic_review": "癸年行限結論與甲年新例分離",
+      "joins": [
+        {
+          "left_ordinal": 69,
+          "right_ordinal": 70,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 244,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確244字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            641
+          ],
+          "estimated_tokens": 605,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "7ffdd43f52b6420d37ebeed1c0b3e940cbd40bb7b7cd3743edb196fd53c3fa62"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            641,
+            797
+          ],
+          "estimated_tokens": 156,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "58a576601a378531bda58fb70f8ebd8a8ffc27b769a8c46aba47bdb82da5ebe5"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "開頭圖文混排與以吉論續句；末句未完。"
+      ]
+    },
+    {
+      "group_id": "G031",
+      "group_file_sha256": "3c4dc6672ef98ccb540b4f162f80d261633b6b8b775c882dd89408b47e757224",
+      "text_sha256": "bbb6815d355ea1f4d2fd0f032a8d963ddd93cbe10316c884da68e50ec9403178",
+      "decision": "accept",
+      "semantic_review": "甲年命宮行限、財帛逐限、丙年新例與圖各自完整",
+      "joins": [
+        {
+          "left_ordinal": 71,
+          "right_ordinal": 72,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 193,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確193字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 72,
+          "right_ordinal": 73,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "財帛宮雖因武曲化忌而｜不利於財，但大限命宮…，因果述語直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 73,
+          "right_ordinal": 74,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 564,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確564字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            629
+          ],
+          "estimated_tokens": 590,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "6e7da910abfa86c6c6da043db2af9d29166c3854c61913912b1222afb9f2c2aa"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            629,
+            1001
+          ],
+          "estimated_tokens": 372,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "5f0f402700b4e984ece1362b4cf5afb5d430c62efb61374112d4966ee2f5dc6d"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1001,
+            1571
+          ],
+          "estimated_tokens": 535,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "14471b2b15e41fbeb07e3a6e41e6f3ef717775fbf34f2b64649e3d1902e47461"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "圖文混排及後字續句保留。"
+      ]
+    },
+    {
+      "group_id": "G032",
+      "group_file_sha256": "5dece2fc1061b30df492ced59baebb00438a80455dfb048cffeddc690b8b592c",
+      "text_sha256": "5c07eb856d62bade102c3120d53c1d1267a02ae30b38d3ca4fde11537d41b360",
+      "decision": "accept",
+      "semantic_review": "福德聚財限制與逐限例論有完整句邊界",
+      "joins": [
+        {
+          "left_ordinal": 75,
+          "right_ordinal": 76,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "天同化祿也來引動先天命宮的吉象，｜加上大限命宮相當強旺…故此大限，未完條件串直接接結論。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            381
+          ],
+          "estimated_tokens": 379,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f700c3e6ec2352521434c5f5cf5acfc22241f8ae2557740681c7c9dd0ddc2014"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            381,
+            953
+          ],
+          "estimated_tokens": 572,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "26905f8f0182f8c4774002646f5b0055952621eedb3d365e4a61c96c664b4ae8"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G033",
+      "group_file_sha256": "fb71a7c06167bd3a927a4322b9a80d34f246e227c8b7677ec97052f5c378cdf5",
+      "text_sha256": "9de3301363fb581eee8a43cab20d437b706e4039f3fdea9c61fbf39aad713e39",
+      "decision": "accept",
+      "semantic_review": "甲年戌宮整例含圖保持，不強切命例",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            791
+          ],
+          "estimated_tokens": 755,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "9de3301363fb581eee8a43cab20d437b706e4039f3fdea9c61fbf39aad713e39"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "命盤欄位與圖說混排保留。"
+      ]
+    },
+    {
+      "group_id": "G034",
+      "group_file_sha256": "bb1d94a479183dcc26416f1efeeef3a8e1f815448cf713e8288e7d7e68b48c61",
+      "text_sha256": "b871b8769563c732b359e998af7c77a3b379fa6219bf1a78e58016d5abf15d21",
+      "decision": "accept",
+      "semantic_review": "術語註、祿馬行業限制、火貪對照與圖分段完整",
+      "joins": [
+        {
+          "left_ordinal": 78,
+          "right_ordinal": 79,
+          "relation": "identical_overlap",
+          "overlap_chars": 512,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 79,
+          "right_ordinal": 80,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "或發財遠邑」｜。若命造是從事外交工作，結束標點與對比直接接續。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            141
+          ],
+          "estimated_tokens": 141,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "94468cfc939cf06780f1770dcf2b74374af371d639406813b4290b3fb1fe8959"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            141,
+            568
+          ],
+          "estimated_tokens": 426,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "816a64844bf29835b29810e90ca5bf10d60eaddf1e7332ae8e5956bc6456561b"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            568,
+            1256
+          ],
+          "estimated_tokens": 682,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "fe64551e5c74d5f57909b3d2e8e90fc8d045b96a3f4fb26c18e0c6b8b4789dc6"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G035",
+      "group_file_sha256": "9f1e5062a0cb0814cdff3dddf213791a429e91e4e4fb4b7174a612a4667a908c",
+      "text_sha256": "811ffa5b032e3638cd633405fd10aff02353b7355694a8033ebf63bcc76cc5c8",
+      "decision": "accept",
+      "semantic_review": "第一段兩項限制完整；第二段原引文已含身命強宮，第三段詳解命遷合論及反例，未切斷條件句",
+      "joins": [
+        {
+          "left_ordinal": 81,
+          "right_ordinal": 82,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "《全書，諸星在命身｜及十二宮吉凶要訣》，同一書名跨界。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 82,
+          "right_ordinal": 83,
+          "relation": "identical_overlap",
+          "overlap_chars": 513,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 83,
+          "right_ordinal": 84,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "來合，主｜巨富，經商之人，未完引文述語補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 84,
+          "right_ordinal": 85,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "有天府或天相坐入｜，且不是旺宮就是平宮，未完宮位述句續接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            839
+          ],
+          "estimated_tokens": 836,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "676802d4e52fc81395706220dbc9d10a0b1596aadb0490493398544ed276d434"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            839,
+            1415
+          ],
+          "estimated_tokens": 574,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "ee4789537f54d46f3a7c1dabcedb937b10901c2ab7d5f57c164c8ff6a3a7d955"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1415,
+            2053
+          ],
+          "estimated_tokens": 638,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "03df4f1d7e7c3338d5c4f4e56a524b3485040893bd4cf034fe29769e26ee2d0b"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G036",
+      "group_file_sha256": "57ccf1b456483b5c5c3e8422497d990c72e833679c923a8c5f7fddbf1f17383e",
+      "text_sha256": "eb64965bcf7d07f56b86df6c2ac6ad193a6aeb19b83908dbb2da71887fd6fc2e",
+      "decision": "accept",
+      "semantic_review": "圖二十五、財宅橫發、庫位區別、先貧後富年齡限制依子題完整",
+      "joins": [
+        {
+          "left_ordinal": 86,
+          "right_ordinal": 87,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 518,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確518字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 87,
+          "right_ordinal": 88,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "財星入財宮，自然以吉論，｜此時若命身又吉旺，未完條件延伸至橫發資財結論。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 88,
+          "right_ordinal": 89,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "到中晚年，才能有｜大成就的道理所在，賓語直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 89,
+          "right_ordinal": 90,
+          "relation": "identical_overlap",
+          "overlap_chars": 581,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            232
+          ],
+          "estimated_tokens": 227,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "e2b1e25391a8eff644092b15adb55f172eef11f6d7a97a7adf01286c6498d017"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            232,
+            794
+          ],
+          "estimated_tokens": 560,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "697100eb150e1fd1e9619a6ca3fd85b068b586bcbac8c0e226e9296ca4cade80"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            794,
+            1117
+          ],
+          "estimated_tokens": 322,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "e6f19563a8763a8926c4411dc1b6cadf7f615d90c36119bdbac85c50f6f74b94"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1117,
+            1855
+          ],
+          "estimated_tokens": 737,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "f8269e9dd62e9c4ed614eab011e5c6f18f07e77ebcd02babaef4ad3720aab1b3"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G037",
+      "group_file_sha256": "32169dd03c3113fed75d5ad0b2a818a1d37b8b8ffb725cff4d1f8597e46ca38f",
+      "text_sha256": "516409a1d52ac72b62390845998514a080744ee4d274ebd09115c96e22e478c8",
+      "decision": "accept",
+      "semantic_review": "古賦條件與于先生新例分離，源尾未完句保留",
+      "joins": [
+        {
+          "left_ordinal": 91,
+          "right_ordinal": 92,
+          "relation": "identical_overlap",
+          "overlap_chars": 501,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 92,
+          "right_ordinal": 93,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "上班，由於他｜精通英日語，人也很能幹，因此…，原因主語直接接述語。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            413
+          ],
+          "estimated_tokens": 412,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "fece66faafc73dd0ef7e480bef3c332aa3218d90cdabbbac516d3260bfd4f31b"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            413,
+            1048
+          ],
+          "estimated_tokens": 631,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "a249d94c4727168ba25577b2a8d25084ae1c2658df5513d8073c7cd554b1c274"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "組末所從事未完。"
+      ]
+    },
+    {
+      "group_id": "G038",
+      "group_file_sha256": "daecac1bde16e084bb1071d20d20ddb7252e6e8d655e1481a00c7cec7ea1bf65",
+      "text_sha256": "91070c213af680d3d946550a2ec59c15c5207a47a4f5f1bf53d32015810b52e9",
+      "decision": "accept",
+      "semantic_review": "于例圖與註、昌曲導論、文曲主貧同宮限制、文昌對照、財囚新題皆完整",
+      "joins": [
+        {
+          "left_ordinal": 94,
+          "right_ordinal": 95,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 459,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確459字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 95,
+          "right_ordinal": 96,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "故武曲在任一｜宮位坐守時，任一宮位條件跨界。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 96,
+          "right_ordinal": 97,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "而「昌｜（曲）貪」的離正位而顛倒作用，格名與引號跨界。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 97,
+          "right_ordinal": 98,
+          "relation": "identical_overlap",
+          "overlap_chars": 558,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 98,
+          "right_ordinal": 99,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "雖然想得多也｜做多，但因…，讓步關聯結構直接補足；原做多疑缺字不修。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            450
+          ],
+          "estimated_tokens": 405,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "8c788ed8cbf8cb518ce108d11d96676867e6913143279b232a4b593f89f3d956"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            450,
+            1131
+          ],
+          "estimated_tokens": 679,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "0df16b1b93594324687507a1b889848ec2a55c5e63c09eb3782c77ecbb0d9a79"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1131,
+            1710
+          ],
+          "estimated_tokens": 577,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "2acb3bec7a32832c0269418a46f5821e35802c1e72973c88469495f44d6bb722"
+        },
+        {
+          "segment_number": 4,
+          "span": [
+            1710,
+            2155
+          ],
+          "estimated_tokens": 444,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "c5a30389dba62ea730a25060b8f24d01935855eaf3d5dbaccf23a4762fbc4f8f"
+        },
+        {
+          "segment_number": 5,
+          "span": [
+            2155,
+            2306
+          ],
+          "estimated_tokens": 151,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "42abb7e3892f7a66f92ff6b57a18b3a8cbca5885bc9c386b423d1d86cfe4c80b"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "起首盤圖與的行業續句保持原序。"
+      ]
+    },
+    {
+      "group_id": "G039",
+      "group_file_sha256": "fc4025f3ccdf0cdcb9aff8c6b728625a06a4b6d4864d693154f6c0770af431cd",
+      "text_sha256": "a11094e487245d63f7e400cded2c02628a36c81037b6c49323fd0f09b6a5d907",
+      "decision": "accept",
+      "semantic_review": "導言與林老板完整案例分離，亥巳源內矛盾未改",
+      "joins": [
+        {
+          "left_ordinal": 100,
+          "right_ordinal": 101,
+          "relation": "identical_overlap",
+          "overlap_chars": 452,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 101,
+          "right_ordinal": 102,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "廠房，總面積約在｜四百多坪，數量賓語直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        },
+        {
+          "left_ordinal": 102,
+          "right_ordinal": 103,
+          "relation": "identical_overlap",
+          "overlap_chars": 500,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            200
+          ],
+          "estimated_tokens": 200,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "593f4dd55ed79c29176aa67eabf4d160b04ba757415693b0b925dc28aac5b651"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            200,
+            952
+          ],
+          "estimated_tokens": 748,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "04aeed84b57be40fbba92ac8f7eee1a32dce200c37c5a8edc628d6c5c366e4c6"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "林老板命宮亥與巳的內部矛盾不修。"
+      ]
+    },
+    {
+      "group_id": "G040",
+      "group_file_sha256": "441fa886054e11f50efed82b507dda85dba0af52697e5fde8d49fd084df31733",
+      "text_sha256": "c50d7f9e989ee5741aa73d2e29345bac01708fb404cbe090607aff48a3e0b711",
+      "decision": "accept",
+      "semantic_review": "圖二十七保持混排",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            341
+          ],
+          "estimated_tokens": 299,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "c50d7f9e989ee5741aa73d2e29345bac01708fb404cbe090607aff48a3e0b711"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G041",
+      "group_file_sha256": "6b4ab8b687db1834445bf0812f06b5293f425d331e51ea058f5745f31bf0c3b6",
+      "text_sha256": "d64dc08d1f49dce25c5cb8039c398ef9e86abc68c51b658e106d853a2e46748f",
+      "decision": "accept",
+      "semantic_review": "兩命例比較承接保留，不強拆短段",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            508
+          ],
+          "estimated_tokens": 505,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "d64dc08d1f49dce25c5cb8039c398ef9e86abc68c51b658e106d853a2e46748f"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "家電火亨等 OCR 疑詞保留。"
+      ]
+    },
+    {
+      "group_id": "G042",
+      "group_file_sha256": "bb4bb86758d5d6b74fbba94c1ae58a643f0614dd54badd5a0f6d147cad6e3e87",
+      "text_sha256": "147d35793c4861bac7d5b39c3779db18c9cf2c75dc6ede2d17e6d04680f710a1",
+      "decision": "accept",
+      "semantic_review": "圖二十八保留原尾逗號，不虛補句子",
+      "joins": [
+        {
+          "left_ordinal": 106,
+          "right_ordinal": 107,
+          "relation": "identical_overlap",
+          "overlap_chars": 316,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            316
+          ],
+          "estimated_tokens": 276,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "147d35793c4861bac7d5b39c3779db18c9cf2c75dc6ede2d17e6d04680f710a1"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "混排及末尾逗號保留。"
+      ]
+    },
+    {
+      "group_id": "G043",
+      "group_file_sha256": "19423788c3b68caba4429d99e43b5a610f5d983509d230302826e3e882a75d37",
+      "text_sha256": "8d17bd508a66f8612de8459c708ea639913552fe7adf07f62960f9485d71b379",
+      "decision": "accept",
+      "semantic_review": "王董事長決策者與執行者對照完整",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            512
+          ],
+          "estimated_tokens": 512,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "8d17bd508a66f8612de8459c708ea639913552fe7adf07f62960f9485d71b379"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G044",
+      "group_file_sha256": "68a8268f3f843a1b7a88d769346f688a55033abfb34233a59729a21008227483",
+      "text_sha256": "35867009e6b664170ff208ca1750f9527a9f331198d4163852560d98ee3a67d4",
+      "decision": "accept",
+      "semantic_review": "兩來源註與因財持刀新題分離",
+      "joins": [
+        {
+          "left_ordinal": 109,
+          "right_ordinal": 110,
+          "relation": "identical_overlap",
+          "overlap_chars": 497,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            180
+          ],
+          "estimated_tokens": 177,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "844ead4fb8293a17e65b4825443aed4fe264160ab863155d8a5d73c2892d89c0"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            180,
+            497
+          ],
+          "estimated_tokens": 317,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "54631c1da7d5667690a74a2f4c7ca36da8561562755961006c7400a2b908456d"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G045",
+      "group_file_sha256": "af415096d6245e823be5e11d18e616cd47053701ef4af14a8835a70fbcac6e2b",
+      "text_sha256": "ac94f57946e1ab614896abee1f23fa036627a4be48f968ba052f6f473105a2f0",
+      "decision": "accept",
+      "semantic_review": "因財持刀限定條件及凶性比較完整",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            562
+          ],
+          "estimated_tokens": 561,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "ac94f57946e1ab614896abee1f23fa036627a4be48f968ba052f6f473105a2f0"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G046",
+      "group_file_sha256": "8fb6e08763916322a854ae4154db5224c49dc6890ee048ce466ca2d140c0f07c",
+      "text_sha256": "c33645b1748eb26bf332a9f57edbaadad1f140600cc30e89115d2a88faf0b668",
+      "decision": "accept",
+      "semantic_review": "先天甲庚條件、跨三圖流年例、白虎獨立解釋分開，跨圖句未截斷",
+      "joins": [
+        {
+          "left_ordinal": 112,
+          "right_ordinal": 113,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 157,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確157字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 113,
+          "right_ordinal": 114,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 205,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確205字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            478
+          ],
+          "estimated_tokens": 478,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "2876366b821f4f8d1e39dbee24cca476f214daaddb5f38837b0a543bbcbf5e56"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            478,
+            1344
+          ],
+          "estimated_tokens": 789,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "5449b363cd97a053aea28d38dfcb81eba7039a4bfe02b572ca877a933ba3fe5e"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            1344,
+            1660
+          ],
+          "estimated_tokens": 315,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "155d47f1be96f4a136891de717e1ecc83930ec9f6358aab789e087947f4375f0"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "盤二十九至三十一插入事項宮位例句中，整段保留，不稱完整排盤。"
+      ]
+    },
+    {
+      "group_id": "G047",
+      "group_file_sha256": "8a386d61c63a00599be0030e1ba9e4302dafc5e8a3d4190d97076f0e94667d30",
+      "text_sha256": "579416e7fd7b6d2ff452e6f69b8c60fe84d0cf94b94d8ff585ad175b399e3fc5",
+      "decision": "accept",
+      "semantic_review": "圖三十二、鈴昌機理四點、三種引動分段完整",
+      "joins": [
+        {
+          "left_ordinal": 115,
+          "right_ordinal": 116,
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 491,
+          "decision": "accept",
+          "semantic_evidence_review": "左正文後綴與右正文前綴有精確491字符重疊。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 116,
+          "right_ordinal": 117,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "金星本｜主剛硬，本主剛硬句直接續接。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            209
+          ],
+          "estimated_tokens": 176,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "d379a4b344769a32b62120dc594896aea07c58603369e6544ee89c32c94f8d37"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            209,
+            895
+          ],
+          "estimated_tokens": 685,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "6f13b9513ce198240392cebffc3e010e5c0182ddd7c1ef316f80569da7bac841"
+        },
+        {
+          "segment_number": 3,
+          "span": [
+            895,
+            1275
+          ],
+          "estimated_tokens": 379,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "88d16129afce8118644cc6a6170cfc3cc4216a24eb5731d39943cac55dd56e4f"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "末尾武字缺後文，不能跨未知組補寫。"
+      ]
+    },
+    {
+      "group_id": "G048",
+      "group_file_sha256": "8682066bfb36f94d2212438942337e16eb8de3733eed6ead9c901744d6453327",
+      "text_sha256": "642b4fedab4d5a03299ddf60c5e4c01d42ea47bc827044f8d86df0dbed7e9939",
+      "decision": "accept",
+      "semantic_review": "圖三十三保留混排",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            308
+          ],
+          "estimated_tokens": 276,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "642b4fedab4d5a03299ddf60c5e4c01d42ea47bc827044f8d86df0dbed7e9939"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    },
+    {
+      "group_id": "G049",
+      "group_file_sha256": "e93a81bcf3b5bb97012163b0b67d8f2b11903720c7ff7cd2c3ebb813b9c3bff9",
+      "text_sha256": "7b29bcd8007d1bd0cb62e6a83a50da19105518b6628cf019844cdadea03059b8",
+      "decision": "accept",
+      "semantic_review": "流年凶性比較含大限吉緩和條件完整，技藝另題",
+      "joins": [
+        {
+          "left_ordinal": 119,
+          "right_ordinal": 120,
+          "relation": "identical_overlap",
+          "overlap_chars": 510,
+          "decision": "accept",
+          "semantic_evidence_review": "兩單元實際正文完全同字。僅確認同文本重疊映射，不代表重複部分是新的連續敘事；混排原序保持。",
+          "limit": "同文重疊只確認文字映射，不恢復頁序"
+        },
+        {
+          "left_ordinal": 120,
+          "right_ordinal": 121,
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "decision": "accept",
+          "semantic_evidence_review": "多是百工｜技藝之人，原引文名詞直接補足。",
+          "limit": "逐對讀凍結原文尾首，確有未完詞句/對照銜接，非僅同題相鄰"
+        }
+      ],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            453
+          ],
+          "estimated_tokens": 452,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "aa6b94ff94ac5a9015ca03f327d633743fa8b3018583e899194d00a1f765cab3"
+        },
+        {
+          "segment_number": 2,
+          "span": [
+            453,
+            925
+          ],
+          "estimated_tokens": 470,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "7ecb4c753f9fff2ca9cffc2859176c98d4c5e3bcfb60aa63230c8623e44fc117"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": [
+        "曲和鈴星為來源起首殘句。"
+      ]
+    },
+    {
+      "group_id": "G050",
+      "group_file_sha256": "c039a0be80c8e68c5454ae7c4e0797b412d0dcf0418e2fd4b642f0ca0485eb80",
+      "text_sha256": "b901ca146bd0dd9fa12f679753c0472ad2b02c9cccc900ae2d6c2335f4296228",
+      "decision": "accept",
+      "semantic_review": "天同章綱保持整體，內部換行未擅改",
+      "joins": [],
+      "segments": [
+        {
+          "segment_number": 1,
+          "span": [
+            0,
+            723
+          ],
+          "estimated_tokens": 717,
+          "decision": "accept",
+          "boundary_review": "完整句或圖說/子題邊界；只有來源既有組端殘缺保留，未新造半句。",
+          "text_sha256": "b901ca146bd0dd9fa12f679753c0472ad2b02c9cccc900ae2d6c2335f4296228"
+        }
+      ],
+      "required_changes": [],
+      "preserved_uncertainties": []
+    }
+  ]
+}

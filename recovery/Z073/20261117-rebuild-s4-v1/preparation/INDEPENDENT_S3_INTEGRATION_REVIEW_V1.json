@@ -1,0 +1,69 @@
+{
+  "checks": [
+    "所有S2冻结文件hash仍一致",
+    "480变更反向原span一致并重放得03，380prefix原文/hash/locator完备",
+    "148组由232个confirmed连接精确重放，无新增字符；380单元完整映射且重叠多源保留",
+    "03↔group↔04逐字完整覆盖；293chunk无额外字/漏字，原span由独立区间算法复核，excerpt/locator/page union正确",
+    "coverage完整无重漏；480 S1变更全部映射，380prefix仅filtered，100正文修改均入lineage",
+    "148组manifest逐hash吻合，293切点逐提案一致，379连续性记录唯一完整且仅232个confirmed用于重组",
+    "S3报告所列输入输出hash正确"
+  ],
+  "changes_in_lineage": 100,
+  "changes_in_coverage": 480,
+  "joins": 232,
+  "frozen_S2_sha256": "842e489f48a8bc15539b40206dfff533c53c162004206669d37d12a754137b96",
+  "artifacts": {
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/04_chunked/ziwei/ziwei_073.jsonl": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/lineage/ziwei_073.jsonl": "0fe80139ba7b57026c92867cc86603a807c14ae6c8898b37e7ffc01e1e8f058e",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/coverage/ziwei_073.jsonl": "27cbf54c1212089c3511f867f7f56d42b7e741083a24e2c3976373f3bb99cef9",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/continuity/ziwei_073.json": "7ea6b00c0b7bca8ef13b0a73f51ac266c2daa19f52b50cf60b10389ed0c92d0e",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S3_chunking.json": "f140680bf48e5d51f2c1064bd81df5b59f6f4be4ade6deaf4eabe8e266918049",
+    "z073_rebuild_20261117/preparation/integrate_s3.py": "0c1cc2a1da6c807b079787dc42cfd83b1c4c28b00b156c35b9539530b5b11475"
+  },
+  "task": "Z073 S3 mechanical and provenance integration independent review",
+  "decision": "accept_integration_only",
+  "human_acceptance": false,
+  "review_scope": "Algorithm and complete artifact mechanical/provenance audit; semantic segment decisions remain in three independent S4 batch reviews.",
+  "reviewer_independence": "Did not author integrate_s3.py or formal integrated outputs; authored G101–G148 segmentation, separately reviewed by another agent. This report does not self-approve that semantic batch.",
+  "reviewed_at": "2026-11-17T06:05:18.923600+00:00",
+  "counts": {
+    "chunks": 293,
+    "groups": 148,
+    "original_units": 380,
+    "source_char_coverage": "complete",
+    "prefix_metadata_records": 380,
+    "S1_changes": 480,
+    "body_changes_in_lineage": 100,
+    "confirmed_joins": 232,
+    "continuity_pairs": 379
+  },
+  "method": [
+    "Read integration script completely; independent reconstruction from frozen source and S1 changes.",
+    "Reconstruct all groups from confirmed joins using exact longest source suffix/prefix checks.",
+    "Check every source cleaned character and every output character is mapped, including all overlapping source contributors.",
+    "Independent dynamic-programming edit alignment (not integration SequenceMatcher) verifies original extent of every lineage segment.",
+    "Exact output-group-proposal span comparison, original excerpt/locator comparison and page union computation.",
+    "Frozen S2 hash list, metadata original prefixes, all declared S3 dependencies, group manifest and output hashes verified."
+  ],
+  "resolved_findings": [
+    {
+      "issue": "S3 input dependency list initially lacked actual segmentation/continuity proposals, group hash manifest, prefix metadata and script",
+      "resolution": "Author added these; all current listed dependency hashes and 148 manifest entries verified."
+    },
+    {
+      "issue": "coverage omitted 11 zero-width insertion change IDs under strict interval intersection",
+      "resolution": "Author includes insertion anchor in body disposition (terminal anchor in final disposition); final coverage contains all 480 IDs and lineage contains all 100 body IDs."
+    },
+    {
+      "issue": "cleaned span offset assumption was implicit",
+      "resolution": "Author added full [0,len(clean)] source mapping assertion; all current 380 mappings satisfy it."
+    }
+  ],
+  "blocking_issues": [],
+  "limitations": [
+    "No assertion of original-book page recovery or completeness; page labels remain inherited unverified.",
+    "Unknown adjacency remains isolated, source OCR uncertainty and chart disorder not repaired by inference.",
+    "Mechanical acceptance does not replace semantic review or human acceptance; this report does not change stage state."
+  ],
+  "audit_script_sha256": "ae1f40713deca4bddf87ba2b66449fbd9feda4a0b10e4f04ab03255defea1480"
+}

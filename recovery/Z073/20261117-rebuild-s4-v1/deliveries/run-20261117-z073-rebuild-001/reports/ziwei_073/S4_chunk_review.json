@@ -1,0 +1,169 @@
+{
+  "step": "S4_chunk_review",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "04_chunked/ziwei/ziwei_073.jsonl",
+      "sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "bytes": 485301
+    },
+    {
+      "path": "lineage/ziwei_073.jsonl",
+      "sha256": "0fe80139ba7b57026c92867cc86603a807c14ae6c8898b37e7ffc01e1e8f058e",
+      "bytes": 2726565
+    },
+    {
+      "path": "coverage/ziwei_073.jsonl",
+      "sha256": "27cbf54c1212089c3511f867f7f56d42b7e741083a24e2c3976373f3bb99cef9",
+      "bytes": 437575
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "7ea6b00c0b7bca8ef13b0a73f51ac266c2daa19f52b50cf60b10389ed0c92d0e",
+      "bytes": 961426
+    },
+    {
+      "path": "reports/ziwei_073/S3_chunking.json",
+      "sha256": "80df96f2ec7a00f09ebae26815aeaad90c29dca109ab85acd2973b319e74f83b",
+      "bytes": 123687
+    },
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    },
+    {
+      "path": "z073_rebuild_20261117/frozen_package/rules/ChunkRecord.schema.json",
+      "sha256": "21c16eb1e26cb54fc3709eda53d3175bd79ff77423e982a0a0756d82cc79e4a7",
+      "bytes": 1121
+    }
+  ],
+  "output_files": [],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T06:06:15.487313+00:00",
+  "completed_at": "2026-11-17T06:06:15.487313+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 293,
+  "output_count": 293,
+  "changes": [],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G001_G050_V1.json",
+        "sha256": "9064eb4c827954a26c8e80613ab7b9f26c26c1d7710b0fefcb4954857121a2f1",
+        "bytes": 101534
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G051_G100_V1.json",
+        "sha256": "1c4d35b9b00f9a10eee0bd010f0fbd09e5dbf30af1c546980129622d057bf12f",
+        "bytes": 135234
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G051_G100_V2.json",
+        "sha256": "baa73c3c892040501b1867eee7edd9e4c4b7022333fd313e240f6ed808d3878a",
+        "bytes": 136302
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G101_G148_V1.json",
+        "sha256": "267b1c926a6cf7add076567675f98dde55486b7f18370b42d2f9ad12a66fb915",
+        "bytes": 35904
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G101_G148_V2.json",
+        "sha256": "6699e959a1c9884383e69b3fd6bc31ec4e5846e56d4ff690599ec60b210f1be4",
+        "bytes": 36151
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S3_INTEGRATION_REVIEW_V1.json",
+        "sha256": "d355010a178435a98cf4247994a1c6e84518ed04b0285fef81738e99bc457ac0",
+        "bytes": 4712
+      }
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "review_semantic_boundaries_and_coverage",
+  "outcome": "chunks_checked",
+  "substeps": [],
+  "applicability_reason": null,
+  "instruction_revision": 4,
+  "attempt": 3,
+  "substep": null,
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Inherited incomplete book text, unknown/disconnected adjacency, OCR/chart uncertainty and source contradictions remain documented; no claim of original-book reconstruction.",
+    "Retained cases and doctrines are source claims, not independently established real-world facts."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [
+    {
+      "path": "04_chunked/ziwei/ziwei_073.jsonl",
+      "sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "bytes": 485301
+    },
+    {
+      "path": "lineage/ziwei_073.jsonl",
+      "sha256": "0fe80139ba7b57026c92867cc86603a807c14ae6c8898b37e7ffc01e1e8f058e",
+      "bytes": 2726565
+    },
+    {
+      "path": "coverage/ziwei_073.jsonl",
+      "sha256": "27cbf54c1212089c3511f867f7f56d42b7e741083a24e2c3976373f3bb99cef9",
+      "bytes": 437575
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "7ea6b00c0b7bca8ef13b0a73f51ac266c2daa19f52b50cf60b10389ed0c92d0e",
+      "bytes": 961426
+    },
+    {
+      "path": "reports/ziwei_073/S3_chunking.json",
+      "sha256": "80df96f2ec7a00f09ebae26815aeaad90c29dca109ab85acd2973b319e74f83b",
+      "bytes": 123687
+    }
+  ],
+  "sample_checks": [
+    {
+      "semantic_scope": "All148 groups/293 segments and232 confirmed joins independently reviewed; 2 returned boundaries corrected and re-reviewed."
+    },
+    {
+      "integration_scope": "380 source units exact coverage, all480 S1 change IDs mapped, all source spans and frozen runtime ChunkRecord validation passed."
+    }
+  ],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}

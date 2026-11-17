@@ -1,0 +1,2657 @@
+{
+  "step": "S3_chunking",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    },
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "reports/ziwei_073/S1_text_treatment.json",
+      "sha256": "6596ffd2d87c69b8f991cac53dfc4abacdaab12e1c18eed2f3f7f4fad8fffe2f",
+      "bytes": 1046050
+    },
+    {
+      "path": "reports/ziwei_073/S2_clean_review.json",
+      "sha256": "842e489f48a8bc15539b40206dfff533c53c162004206669d37d12a754137b96",
+      "bytes": 6078
+    },
+    {
+      "path": "02_working_inputs/ziwei_073.jsonl",
+      "sha256": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+      "bytes": 697213
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/frozen_package/rules/ChunkRecord.schema.json",
+      "sha256": "21c16eb1e26cb54fc3709eda53d3175bd79ff77423e982a0a0756d82cc79e4a7",
+      "bytes": 1121
+    },
+    {
+      "path": "history/S0/continuity_ziwei_073.json",
+      "sha256": "f3e46bfa74ee3fba11e898108c606d150c80b11bf894da737f9fb4e5735abd7c",
+      "bytes": 386808
+    },
+    {
+      "path": "metadata/ziwei_073_context_headers.jsonl",
+      "sha256": "74a02d4b41366a12823a88d0f652aee95e6d17bd550f54f4386ef0d15d4e0374",
+      "bytes": 267946
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/S3_GROUP_FILES_MANIFEST_V1.json",
+      "sha256": "c8b9cc9dff593c4f23ddab41b327bc50eee37855335ef6feba9c85fde8c31372",
+      "bytes": 26384
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/integrate_s3.py",
+      "sha256": "0c1cc2a1da6c807b079787dc42cfd83b1c4c28b00b156c35b9539530b5b11475",
+      "bytes": 9915
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/segmentation_G001_G050.json",
+      "sha256": "c0dfbfcaae290ba510c1b0dfe70a86d797c6826a5813b894e93f0b8e9b750e97",
+      "bytes": 114082
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/segmentation_G051_G100.json",
+      "sha256": "2206c748c25cc042d643aea6f561ef4a672927ce56b832929e48f95e85bcf8d3",
+      "bytes": 81508
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/segmentation_G101_G148.json",
+      "sha256": "366d5fe28ab8a711ae935fe1183cf220802b2403087c65a56d2ee037d8b58393",
+      "bytes": 111509
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/continuity_001_125.json",
+      "sha256": "200d1c49917da18cfa4a7f455649fab91149e4e328d3c5d23a9a514a85e0fc8a",
+      "bytes": 267706
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/continuity_126_250.json",
+      "sha256": "c199af9ba53759b455343e55d048ccdf15b5f64d8cd4e8731bb0706ee5a3034d",
+      "bytes": 343794
+    },
+    {
+      "path": "/workspace/scratch/be528e224f52/z073_rebuild_20261117/preparation/s3_batches/continuity_251_379.json",
+      "sha256": "c893f5badb0891ec00925903e8dedf5e2b252695ee19e519fffc6545799f2c31",
+      "bytes": 352513
+    }
+  ],
+  "output_files": [
+    {
+      "path": "04_chunked/ziwei/ziwei_073.jsonl",
+      "sha256": "432841562949e5c4999e8e10cd98a1bddd16f768cf02f3744f8a0635d0e25f9a",
+      "bytes": 485301
+    },
+    {
+      "path": "lineage/ziwei_073.jsonl",
+      "sha256": "0fe80139ba7b57026c92867cc86603a807c14ae6c8898b37e7ffc01e1e8f058e",
+      "bytes": 2726565
+    },
+    {
+      "path": "coverage/ziwei_073.jsonl",
+      "sha256": "27cbf54c1212089c3511f867f7f56d42b7e741083a24e2c3976373f3bb99cef9",
+      "bytes": 437575
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "7ea6b00c0b7bca8ef13b0a73f51ac266c2daa19f52b50cf60b10389ed0c92d0e",
+      "bytes": 961426
+    }
+  ],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T06:04:43.306488+00:00",
+  "completed_at": "2026-11-17T06:04:43.306488+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 380,
+  "output_count": 293,
+  "changes": [],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "group_id": "G002",
+      "inherited_source_findings": [
+        "組末原句未完；不得跨已判 unknown 的頁碼缺口補全。"
+      ]
+    },
+    {
+      "group_id": "G003",
+      "inherited_source_findings": [
+        "起首殘句及京宏亮等 OCR 疑點不修。"
+      ]
+    },
+    {
+      "group_id": "G004",
+      "inherited_source_findings": [
+        "組末命例句未完。"
+      ]
+    },
+    {
+      "group_id": "G005",
+      "inherited_source_findings": [
+        "命盤欄位混排，非已還原命盤。"
+      ]
+    },
+    {
+      "group_id": "G006",
+      "inherited_source_findings": [
+        "起首諧為殘句；盤三含韓文수，原樣保留。"
+      ]
+    },
+    {
+      "group_id": "G008",
+      "inherited_source_findings": [
+        "尾部正文條件未完即插入盤五，不重排或補寫。"
+      ]
+    },
+    {
+      "group_id": "G009",
+      "inherited_source_findings": [
+        "兩盤圖說武貪化忌記載可能矛盾，保留。"
+      ]
+    },
+    {
+      "group_id": "G011",
+      "inherited_source_findings": [
+        "圖文混排及未完凶格句保留。"
+      ]
+    },
+    {
+      "group_id": "G012",
+      "inherited_source_findings": [
+        "武曲第四章疑版頭不刪。"
+      ]
+    },
+    {
+      "group_id": "G013",
+      "inherited_source_findings": [
+        "圖文與章名混排不重排。"
+      ]
+    },
+    {
+      "group_id": "G014",
+      "inherited_source_findings": [
+        "凶格的後插命盤導致句未完，保留。"
+      ]
+    },
+    {
+      "group_id": "G016",
+      "inherited_source_findings": [
+        "組末甚字未完。"
+      ]
+    },
+    {
+      "group_id": "G017",
+      "inherited_source_findings": [
+        "起首圖文與孤立吉字保留，未復原頁面。"
+      ]
+    },
+    {
+      "group_id": "G018",
+      "inherited_source_findings": [
+        "疾病內容僅為作者命理觀點，不作醫學核實；章名混排保留。"
+      ]
+    },
+    {
+      "group_id": "G019",
+      "inherited_source_findings": [
+        "疾病及器官關聯僅為作者觀點，不作醫學驗證。"
+      ]
+    },
+    {
+      "group_id": "G023",
+      "inherited_source_findings": [
+        "尾部，七九疑頁腳及引文未完保留。"
+      ]
+    },
+    {
+      "group_id": "G024",
+      "inherited_source_findings": [
+        "起首引文缺上文；末段申宮與未宮矛盾不改。"
+      ]
+    },
+    {
+      "group_id": "G025",
+      "inherited_source_findings": [
+        "組末強旺且句未完。"
+      ]
+    },
+    {
+      "group_id": "G026",
+      "inherited_source_findings": [
+        "與 G024 重現文本不刪；申未宮矛盾保留。"
+      ]
+    },
+    {
+      "group_id": "G027",
+      "inherited_source_findings": [
+        "行限句被圖插入，原序不變。"
+      ]
+    },
+    {
+      "group_id": "G028",
+      "inherited_source_findings": [
+        "起首及末尾有來源殘句。"
+      ]
+    },
+    {
+      "group_id": "G029",
+      "inherited_source_findings": [
+        "正文末尾反字未完。"
+      ]
+    },
+    {
+      "group_id": "G030",
+      "inherited_source_findings": [
+        "開頭圖文混排與以吉論續句；末句未完。"
+      ]
+    },
+    {
+      "group_id": "G031",
+      "inherited_source_findings": [
+        "圖文混排及後字續句保留。"
+      ]
+    },
+    {
+      "group_id": "G033",
+      "inherited_source_findings": [
+        "命盤欄位與圖說混排保留。"
+      ]
+    },
+    {
+      "group_id": "G037",
+      "inherited_source_findings": [
+        "組末所從事未完。"
+      ]
+    },
+    {
+      "group_id": "G038",
+      "inherited_source_findings": [
+        "起首盤圖與的行業續句保持原序。"
+      ]
+    },
+    {
+      "group_id": "G039",
+      "inherited_source_findings": [
+        "林老板命宮亥與巳的內部矛盾不修。"
+      ]
+    },
+    {
+      "group_id": "G041",
+      "inherited_source_findings": [
+        "家電火亨等 OCR 疑詞保留。"
+      ]
+    },
+    {
+      "group_id": "G042",
+      "inherited_source_findings": [
+        "混排及末尾逗號保留。"
+      ]
+    },
+    {
+      "group_id": "G046",
+      "inherited_source_findings": [
+        "盤二十九至三十一插入事項宮位例句中，整段保留，不稱完整排盤。"
+      ]
+    },
+    {
+      "group_id": "G047",
+      "inherited_source_findings": [
+        "末尾武字缺後文，不能跨未知組補寫。"
+      ]
+    },
+    {
+      "group_id": "G049",
+      "inherited_source_findings": [
+        "曲和鈴星為來源起首殘句。"
+      ]
+    },
+    {
+      "group_id": "G054",
+      "inherited_source_findings": [
+        "開頭引文殘缺；命盤混排中保留正文未完句，不重新排盤。"
+      ]
+    },
+    {
+      "group_id": "G055",
+      "inherited_source_findings": [
+        "首尾正文殘句、盤四混排保留。"
+      ]
+    },
+    {
+      "group_id": "G056",
+      "inherited_source_findings": [
+        "首句承前殘段，盤五混排保留。"
+      ]
+    },
+    {
+      "group_id": "G057",
+      "inherited_source_findings": [
+        "注三出第五章天同，原缺口與章名未修。"
+      ]
+    },
+    {
+      "group_id": "G058",
+      "inherited_source_findings": [
+        "開頭出版社注釋殘段未補。"
+      ]
+    },
+    {
+      "group_id": "G060",
+      "inherited_source_findings": [
+        "正文斷在巳或亥後插盤七，標題疑字未修。"
+      ]
+    },
+    {
+      "group_id": "G061",
+      "inherited_source_findings": [
+        "首部逗號為承前殘段；作者性別觀點不作事實驗證。"
+      ]
+    },
+    {
+      "group_id": "G062",
+      "inherited_source_findings": [
+        "五未疑字及末尾章名夾斷保留。"
+      ]
+    },
+    {
+      "group_id": "G063",
+      "inherited_source_findings": [
+        "盤八OCR混排無原圖可重建。"
+      ]
+    },
+    {
+      "group_id": "G064",
+      "inherited_source_findings": [
+        "首為承前殘句，來源年份疑字保留。"
+      ]
+    },
+    {
+      "group_id": "G066",
+      "inherited_source_findings": [
+        "盤九文字錯序與疑字不據此恢復盤面。"
+      ]
+    },
+    {
+      "group_id": "G067",
+      "inherited_source_findings": [
+        "盤十混排保留；疾病內容為作者理論非醫療核實。"
+      ]
+    },
+    {
+      "group_id": "G068",
+      "inherited_source_findings": [
+        "太歲入宮標題損壞未擅改；疾病推論僅作者理論。"
+      ]
+    },
+    {
+      "group_id": "G070",
+      "inherited_source_findings": [
+        "圖說寅宮與正文酉宮差異及盤十一混排保留。"
+      ]
+    },
+    {
+      "group_id": "G071",
+      "inherited_source_findings": [
+        "正文故字後插圖，不能跨未知鄰接續接。"
+      ]
+    },
+    {
+      "group_id": "G072",
+      "inherited_source_findings": [
+        "注十一出版社出直接接注十二，原缺文未補。"
+      ]
+    },
+    {
+      "group_id": "G074",
+      "inherited_source_findings": [
+        "兩盤圖文錯序仍保留。"
+      ]
+    },
+    {
+      "group_id": "G075",
+      "inherited_source_findings": [
+        "尤以丙午及戊午引文缺口；行限斷句被盤十五打斷。"
+      ]
+    },
+    {
+      "group_id": "G076",
+      "inherited_source_findings": [
+        "首限字殘段，戊年本命強後缺文及盤十六十七混排保留。"
+      ]
+    },
+    {
+      "group_id": "G077",
+      "inherited_source_findings": [
+        "因命身格局及後插盤；福星居戌弱地成就缺字與盤十九引用不符保留。"
+      ]
+    },
+    {
+      "group_id": "G078",
+      "inherited_source_findings": [
+        "激/發之間插入盤十九，保留原順序。"
+      ]
+    },
+    {
+      "group_id": "G079",
+      "inherited_source_findings": [
+        "田宅巳亥指稱矛盾與章名/命盤混排保留。"
+      ]
+    },
+    {
+      "group_id": "G080",
+      "inherited_source_findings": [
+        "寅壬/年生人之間插入盤二十二，未移除。"
+      ]
+    },
+    {
+      "group_id": "G081",
+      "inherited_source_findings": [
+        "末尾書店廣告URL與QQ保留，未授權此步刪除。"
+      ]
+    },
+    {
+      "group_id": "G083",
+      "inherited_source_findings": [
+        "在古代句中插盤二十五，未按意義移動。"
+      ]
+    },
+    {
+      "group_id": "G084",
+      "inherited_source_findings": [
+        "末尾事業宮吉化未完，未知鄰接不強接。"
+      ]
+    },
+    {
+      "group_id": "G086",
+      "inherited_source_findings": [
+        "末尾夫妻宮均殘句未補。"
+      ]
+    },
+    {
+      "group_id": "G087",
+      "inherited_source_findings": [
+        "兩盤混排不重建欄位。"
+      ]
+    },
+    {
+      "group_id": "G088",
+      "inherited_source_findings": [
+        "首句缺條件前項；婚第五章天同末尾夾斷。"
+      ]
+    },
+    {
+      "group_id": "G089",
+      "inherited_source_findings": [
+        "首姻狀況殘詞保留；性別價值判斷為原作觀點。"
+      ]
+    },
+    {
+      "group_id": "G090",
+      "inherited_source_findings": [
+        "延年益番等疑字及章名保留。"
+      ]
+    },
+    {
+      "group_id": "G091",
+      "inherited_source_findings": [
+        "盤三十一混排與疾病命理僅原作記錄。"
+      ]
+    },
+    {
+      "group_id": "G095",
+      "inherited_source_findings": [
+        "生年及來源URL損壞保留，不聯網補字。"
+      ]
+    },
+    {
+      "group_id": "G098",
+      "inherited_source_findings": [
+        "末尾皆主動未完列舉，原頁263至265缺口使下組不可強拼。"
+      ]
+    },
+    {
+      "group_id": "G099",
+      "inherited_source_findings": [
+        "首分號為承前殘段；企管家題名疑字保留。"
+      ]
+    },
+    {
+      "group_id": "G100",
+      "inherited_source_findings": [
+        "盤二混排與產裂疑字保留。"
+      ]
+    },
+    {
+      "review": "S4 independent semantic review and exact lineage integration accepted after G077/G120 boundary repairs and coverage zero-width insertion provenance fix",
+      "evidence": [
+        {
+          "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G001_G050_V1.json",
+          "sha256": "9064eb4c827954a26c8e80613ab7b9f26c26c1d7710b0fefcb4954857121a2f1",
+          "bytes": 101534
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G051_G100_V1.json",
+          "sha256": "1c4d35b9b00f9a10eee0bd010f0fbd09e5dbf30af1c546980129622d057bf12f",
+          "bytes": 135234
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G051_G100_V2.json",
+          "sha256": "baa73c3c892040501b1867eee7edd9e4c4b7022333fd313e240f6ed808d3878a",
+          "bytes": 136302
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G101_G148_V1.json",
+          "sha256": "267b1c926a6cf7add076567675f98dde55486b7f18370b42d2f9ad12a66fb915",
+          "bytes": 35904
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s3_batches/INDEPENDENT_SEGMENT_REVIEW_G101_G148_V2.json",
+          "sha256": "6699e959a1c9884383e69b3fd6bc31ec4e5846e56d4ff690599ec60b210f1be4",
+          "bytes": 36151
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S3_INTEGRATION_REVIEW_V1.json",
+          "sha256": "d355010a178435a98cf4247994a1c6e84518ed04b0285fef81738e99bc457ac0",
+          "bytes": 4712
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "semantic_rechunk_evidence_supported_groups",
+  "outcome": "resegmented",
+  "substeps": [],
+  "applicability_reason": null,
+  "instruction_revision": 4,
+  "attempt": 3,
+  "substep": null,
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Unknown/disconnected source adjacency remains isolated; inherited incomplete source fragments and chart disorder are not repaired by inference.",
+    "Duplicate/overlap source spans share output characters with explicit multi-source lineage; this does not establish original-book completeness.",
+    "All S1 nonbody prefix spans retained in metadata and marked filtered in full coverage."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [],
+  "sample_checks": [
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c001",
+      "group_id": "G001",
+      "estimated_tokens": 550,
+      "reason": "武曲章引言整體：賦性、格局及命例導讀互為章綱。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c002",
+      "group_id": "G002",
+      "estimated_tokens": 665,
+      "reason": "基本賦性與財帛作用，保留財宮得地仍須會吉的完整條件。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c003",
+      "group_id": "G002",
+      "estimated_tokens": 765,
+      "reason": "金性剛硬引出將星，連同宮位旺弱辨析；末尾原有未完句保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c004",
+      "group_id": "G003",
+      "estimated_tokens": 122,
+      "reason": "將星積極求財的結尾補論，起首來源殘句保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c005",
+      "group_id": "G003",
+      "estimated_tokens": 814,
+      "reason": "體型、聲音、性情與膚色的同一外貌賦文解釋，保留全部條件；在轉入地域論前收束。 接近目標上緣後採此完整子題終點，避免切散論證；仍低於 850 硬上限。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c006",
+      "group_id": "G003",
+      "estimated_tokens": 466,
+      "reason": "西北與東南生人的五行地域論及富貴解釋，完整保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c007",
+      "group_id": "G004",
+      "estimated_tokens": 199,
+      "reason": "地域推命的限制及註一，獨立於下文女命論。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c008",
+      "group_id": "G004",
+      "estimated_tokens": 544,
+      "reason": "女命寡宿賦文與剛強性格會吉會煞的對照解釋。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c009",
+      "group_id": "G004",
+      "estimated_tokens": 528,
+      "reason": "農業社會、婚姻觀念及配偶差異，收束女命一般論。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c010",
+      "group_id": "G004",
+      "estimated_tokens": 679,
+      "reason": "寡宿凶格標題至火金生剋、化忌化祿條件的完整解釋。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c011",
+      "group_id": "G004",
+      "estimated_tokens": 402,
+      "reason": "男命寡宿作用及古賦引文，獨立性別對照子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c012",
+      "group_id": "G004",
+      "estimated_tokens": 203,
+      "reason": "林太太命例的引入與先天格局；原文止於和字，保留殘缺不接未知組。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c013",
+      "group_id": "G005",
+      "estimated_tokens": 298,
+      "reason": "盤二混排及女強人命例圖說整體保留，不拆散圖文。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c014",
+      "group_id": "G006",
+      "estimated_tokens": 460,
+      "reason": "林太太先天夫妻關係與寡宿條件，起首諧字為來源殘缺。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c015",
+      "group_id": "G006",
+      "estimated_tokens": 736,
+      "reason": "婚姻實際遭遇及丙戌、乙酉兩限對照，保留完整時間因果。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c016",
+      "group_id": "G006",
+      "estimated_tokens": 511,
+      "reason": "註二至註六參考資料與孤寡術語說明，保持註釋群。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c017",
+      "group_id": "G006",
+      "estimated_tokens": 635,
+      "reason": "武府土金相生與壽命條件及癸年盤三例，圖文合留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c018",
+      "group_id": "G007",
+      "estimated_tokens": 315,
+      "reason": "武府吉凶、壽命與財利條件的續論。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c019",
+      "group_id": "G007",
+      "estimated_tokens": 150,
+      "reason": "祿馬賦文與四馬之地定義，獨立新子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c020",
+      "group_id": "G008",
+      "estimated_tokens": 177,
+      "reason": "盤四及壬年武府化忌圖說，保持混排整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c021",
+      "group_id": "G008",
+      "estimated_tokens": 811,
+      "reason": "祿馬交馳與四馬之地作用、現代異鄉釋義及註七，論證整體。 接近目標上緣後採此完整子題終點，避免切散論證；仍低於 850 硬上限。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c022",
+      "group_id": "G008",
+      "estimated_tokens": 738,
+      "reason": "武貪金木相剋、化祿化忌及慳吝壽命作用對照。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c023",
+      "group_id": "G008",
+      "estimated_tokens": 415,
+      "reason": "四墓庫及火貪大富貴條件，獨立古賦解釋。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c024",
+      "group_id": "G008",
+      "estimated_tokens": 689,
+      "reason": "太歲吉凶加重的己癸對照，連結盤五；尾句被混排中斷保持原序。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c025",
+      "group_id": "G009",
+      "estimated_tokens": 174,
+      "reason": "盤六癸年武貪圖說整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c026",
+      "group_id": "G009",
+      "estimated_tokens": 148,
+      "reason": "盤七辰宮武曲火星圖說整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c027",
+      "group_id": "G010",
+      "estimated_tokens": 244,
+      "reason": "寡宿續句與註八太歲宮位研究說明，保留來源起首殘缺。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c028",
+      "group_id": "G010",
+      "estimated_tokens": 350,
+      "reason": "武曲昌曲文武兼備與旺宮條件，獨立完整論斷。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c029",
+      "group_id": "G010",
+      "estimated_tokens": 350,
+      "reason": "武殺火星組合與武曲化忌的凶格機理，完整子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c030",
+      "group_id": "G011",
+      "estimated_tokens": 727,
+      "reason": "武殺火星化忌與化祿的正反對照及盤八混排，一體保留；中間凶格的未完句不修補。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c031",
+      "group_id": "G012",
+      "estimated_tokens": 559,
+      "reason": "盤九圖說、癸酉限續句與跨宮武殺火星互動的同一組合論述，保留版頭混排。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c032",
+      "group_id": "G013",
+      "estimated_tokens": 186,
+      "reason": "盤十田宅例及章名混排保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c033",
+      "group_id": "G013",
+      "estimated_tokens": 197,
+      "reason": "盤十一女命壬寅限例，獨立命盤圖說。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c034",
+      "group_id": "G014",
+      "estimated_tokens": 562,
+      "reason": "武曲化權的作用、與化祿異同及會吉條件，完整解釋。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c035",
+      "group_id": "G014",
+      "estimated_tokens": 660,
+      "reason": "財與囚仇的定義、正偏格及不可遽斷貧賤的限制。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c036",
+      "group_id": "G014",
+      "estimated_tokens": 396,
+      "reason": "盤十二實例與命盤插入混排，不拆散被圖文截斷的凶格句。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c037",
+      "group_id": "G015",
+      "estimated_tokens": 527,
+      "reason": "財與囚仇需結合行業、會吉與行限的盤十三論證，保持起首續句。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c038",
+      "group_id": "G016",
+      "estimated_tokens": 184,
+      "reason": "盤十三圖說獨立保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c039",
+      "group_id": "G016",
+      "estimated_tokens": 453,
+      "reason": "王永慶命例引入、先天格局與行限連珠，末尾甚字殘缺保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c040",
+      "group_id": "G017",
+      "estimated_tokens": 604,
+      "reason": "王永慶盤十四圖說及事業命例結論整體，含孤立吉字不重排。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c041",
+      "group_id": "G017",
+      "estimated_tokens": 709,
+      "reason": "有情剋與無情剋標題、十干引文、陰陽相剋及相生對照。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c042",
+      "group_id": "G017",
+      "estimated_tokens": 166,
+      "reason": "註九與註十文獻來源，獨立參考註釋群。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c043",
+      "group_id": "G017",
+      "estimated_tokens": 607,
+      "reason": "武破古賦與破軍耗星、開創及刑剋作用的完整導論。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c044",
+      "group_id": "G017",
+      "estimated_tokens": 771,
+      "reason": "雙星殺破狼開創、求財及親情條件與現代職業差異，完整後半論證。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c045",
+      "group_id": "G018",
+      "estimated_tokens": 216,
+      "reason": "武破巳亥旺陷及分坐命身的結論，與下文疾病新子題分離。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c046",
+      "group_id": "G018",
+      "estimated_tokens": 485,
+      "reason": "肺經疾病作者命理論述與盤十五圖說整體，不拆混排。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c047",
+      "group_id": "G019",
+      "estimated_tokens": 820,
+      "reason": "肺、大腸、皮毛的作者命理論述與範圍限制及註十一，完整醫疾子題。 接近目標上緣後採此完整子題終點，避免切散論證；仍低於 850 硬上限。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c048",
+      "group_id": "G019",
+      "estimated_tokens": 127,
+      "reason": "田宅古賦與住家環境推論的引入，與肺經分開。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c049",
+      "group_id": "G020",
+      "estimated_tokens": 497,
+      "reason": "田宅意識型態與實際房屋坐向例及註十二，保留完整方法對照。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c050",
+      "group_id": "G021",
+      "estimated_tokens": 307,
+      "reason": "盤十六房屋高度問例的混排圖說，整體保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c051",
+      "group_id": "G022",
+      "estimated_tokens": 408,
+      "reason": "武曲文星於身命的古文、五行解釋及富貴不可遽斷條件。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c052",
+      "group_id": "G023",
+      "estimated_tokens": 789,
+      "reason": "武曲昌曲旺弱、巧藝與虛誇條件的完整解釋。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c053",
+      "group_id": "G023",
+      "estimated_tokens": 565,
+      "reason": "不同星曜組合之好動與外向區別，保留遷移宮判準。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c054",
+      "group_id": "G023",
+      "estimated_tokens": 307,
+      "reason": "武破亥宮癸年命例引入及盤十七圖說，混排整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c055",
+      "group_id": "G023",
+      "estimated_tokens": 573,
+      "reason": "同一命例的會吉會煞、昌貪、紫殺與左右條件及結論。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c056",
+      "group_id": "G023",
+      "estimated_tokens": 472,
+      "reason": "武曲廟旺威名格局古賦及各生年條件引入；末尾疑頁腳與殘句保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c057",
+      "group_id": "G024",
+      "estimated_tokens": 361,
+      "reason": "起首引文殘句及武貪丑宮甲年三奇坐貴格局解釋。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c058",
+      "group_id": "G024",
+      "estimated_tokens": 488,
+      "reason": "丁丑至庚午行限論述，盤十八插入同段，跨圖的己巳限句不拆。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c059",
+      "group_id": "G024",
+      "estimated_tokens": 390,
+      "reason": "夾命外助與日月照壁及田宅限運的子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c060",
+      "group_id": "G025",
+      "estimated_tokens": 269,
+      "reason": "武貪丑宮甲年命宮田宅連珠結論及男女順逆對照。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c061",
+      "group_id": "G025",
+      "estimated_tokens": 269,
+      "reason": "未宮庚年祿科夾權命例引入與未完限運。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c062",
+      "group_id": "G026",
+      "estimated_tokens": 538,
+      "reason": "保留重現的甲年行限與日月照壁論述，不因其他組重複刪文。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c063",
+      "group_id": "G027",
+      "estimated_tokens": 269,
+      "reason": "甲年連珠及女命連忌結論，與下一庚年命例分離。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c064",
+      "group_id": "G027",
+      "estimated_tokens": 444,
+      "reason": "庚年未宮命例及盤十九圖說合留，不重排被圖截斷的限運句。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c065",
+      "group_id": "G028",
+      "estimated_tokens": 354,
+      "reason": "庚年未宮限運及富貴結論，起首續句保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c066",
+      "group_id": "G028",
+      "estimated_tokens": 194,
+      "reason": "癸年辰宮命例引入，末尾反字殘缺保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c067",
+      "group_id": "G029",
+      "estimated_tokens": 529,
+      "reason": "盤十九圖說、庚年未宮行限與結論，不去除組內既定正文。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c068",
+      "group_id": "G029",
+      "estimated_tokens": 194,
+      "reason": "癸年辰宮命例引入及未完反字，不與下一未知組拼接。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c069",
+      "group_id": "G030",
+      "estimated_tokens": 605,
+      "reason": "盤二十與癸年辰宮財利、魁鉞及行限論述一體保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c070",
+      "group_id": "G030",
+      "estimated_tokens": 156,
+      "reason": "甲年辰宮三奇財帛命例引入，末句來源殘缺保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c071",
+      "group_id": "G031",
+      "estimated_tokens": 590,
+      "reason": "盤二十一及甲年辰宮命格、命宮行限論述整體。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c072",
+      "group_id": "G031",
+      "estimated_tokens": 372,
+      "reason": "另從財帛宮逐限解釋求財的獨立子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c073",
+      "group_id": "G031",
+      "estimated_tokens": 535,
+      "reason": "丙年辰宮命格與財利、人際條件連同盤二十二混排。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c074",
+      "group_id": "G032",
+      "estimated_tokens": 379,
+      "reason": "福德聚財享受的判準與丙年辰宮例的限制。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c075",
+      "group_id": "G032",
+      "estimated_tokens": 572,
+      "reason": "丙年辰宮逐限解釋及癸甲丙生年財利對照結論。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c076",
+      "group_id": "G033",
+      "estimated_tokens": 755,
+      "reason": "戌宮甲年命例的先天格局、限運、結論及盤二十三圖說整體。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c077",
+      "group_id": "G034",
+      "estimated_tokens": 141,
+      "reason": "註十三祿科夾權等術語定義，獨立註釋。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c078",
+      "group_id": "G034",
+      "estimated_tokens": 426,
+      "reason": "祿馬交馳賦文與發財遠邑的行業條件解釋。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c079",
+      "group_id": "G034",
+      "estimated_tokens": 682,
+      "reason": "火貪條件、戊己與壬癸的正反對照及盤二十四圖說。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c080",
+      "group_id": "G035",
+      "estimated_tokens": 836,
+      "reason": "武曲魁鉞財賦官的古賦、作用範圍及兩點限制完整保留。 接近目標上緣後採此完整子題終點，避免切散論證；仍低於 850 硬上限。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c081",
+      "group_id": "G035",
+      "estimated_tokens": 574,
+      "reason": "武曲遷移巨商賦文、遷移宮及向外經商作用。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c082",
+      "group_id": "G035",
+      "estimated_tokens": 638,
+      "reason": "命宮與遷移宮須合論的條件及盤二十五反例完整保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c083",
+      "group_id": "G036",
+      "estimated_tokens": 227,
+      "reason": "盤二十五命弱遷移強的圖說，與下文武貪財宅分離。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c084",
+      "group_id": "G036",
+      "estimated_tokens": 560,
+      "reason": "武貪財宅橫發的古文、術語及先苦後甘條件。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c085",
+      "group_id": "G036",
+      "estimated_tokens": 322,
+      "reason": "財帛與田宅庫位的差別，投資虛花及對應命宮說明。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c086",
+      "group_id": "G036",
+      "estimated_tokens": 737,
+      "reason": "先貧後富與三十發福兩古賦的比較及年齡不可拘泥的限制。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c087",
+      "group_id": "G037",
+      "estimated_tokens": 412,
+      "reason": "貪武同行與武貪守身兩古賦及其條件對照。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c088",
+      "group_id": "G037",
+      "estimated_tokens": 631,
+      "reason": "于先生事業命例經歷、命格與癸巳行限，末句原有殘缺保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c089",
+      "group_id": "G038",
+      "estimated_tokens": 405,
+      "reason": "盤二十六、于先生命例續句與註十四來源合留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c090",
+      "group_id": "G038",
+      "estimated_tokens": 679,
+      "reason": "武破昌曲巧藝賦文、旺陷條件及相關引文指引。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c091",
+      "group_id": "G038",
+      "estimated_tokens": 577,
+      "reason": "補論引入及破軍文曲同宮主貧之條件，保持同宮與三合區別。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c092",
+      "group_id": "G038",
+      "estimated_tokens": 444,
+      "reason": "破軍文昌主勞碌與弱宮傾敗條件，完整對照前段文曲。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c093",
+      "group_id": "G038",
+      "estimated_tokens": 151,
+      "reason": "財與囚仇古文與回引，獨立賦文不為長度混入昌曲論。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c094",
+      "group_id": "G039",
+      "estimated_tokens": 200,
+      "reason": "武破破祖家賦文與兩命例導言，獨立理論引入。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c095",
+      "group_id": "G039",
+      "estimated_tokens": 748,
+      "reason": "林老板完整經歷、先天命格、行限與事業成就，保留亥巳矛盾。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c096",
+      "group_id": "G040",
+      "estimated_tokens": 299,
+      "reason": "林老板盤二十七圖說混排整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c097",
+      "group_id": "G041",
+      "estimated_tokens": 505,
+      "reason": "林老板結論銜接王董事長對照例，保持武破會左右但增穩不足的比較脈絡。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c098",
+      "group_id": "G042",
+      "estimated_tokens": 276,
+      "reason": "盤二十八王董事長圖說整體，末尾逗號保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c099",
+      "group_id": "G043",
+      "estimated_tokens": 512,
+      "reason": "王董事長決策者與執行者角色對照及經歷結論，完整命例論證。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c100",
+      "group_id": "G044",
+      "estimated_tokens": 177,
+      "reason": "註十五與十六命例資料來源，獨立註釋群。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c101",
+      "group_id": "G044",
+      "estimated_tokens": 317,
+      "reason": "武殺擎羊因財持刀賦文與導論，獨立新格局。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c102",
+      "group_id": "G045",
+      "estimated_tokens": 561,
+      "reason": "擎羊作用、武殺化忌與因財持刀比喻及凶性比較，完整論證。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c103",
+      "group_id": "G046",
+      "estimated_tokens": 478,
+      "reason": "甲庚年武殺擎羊坐命之吉化及女命逆限條件，完整先天論述。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c104",
+      "group_id": "G046",
+      "estimated_tokens": 789,
+      "reason": "事項宮位與流年引動例；三張盤圖插入同一未完句前後，保持整區不強斷。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c105",
+      "group_id": "G046",
+      "estimated_tokens": 315,
+      "reason": "白虎與喪門排法及白虎須逢凶才加重的獨立子題。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c106",
+      "group_id": "G047",
+      "estimated_tokens": 176,
+      "reason": "盤三十二白虎引動圖說整體。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c107",
+      "group_id": "G047",
+      "estimated_tokens": 685,
+      "reason": "鈴昌陀武古文、限至投河的比喻澄清及四方面機理。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c108",
+      "group_id": "G047",
+      "estimated_tokens": 379,
+      "reason": "先天、大限、流年三種引動與盤三十三、三十四例，末句武字殘缺保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c109",
+      "group_id": "G048",
+      "estimated_tokens": 276,
+      "reason": "盤三十三鈴昌陀武圖說，混排整體保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c110",
+      "group_id": "G049",
+      "estimated_tokens": 452,
+      "reason": "鈴昌陀武流年凶性比較及大限化祿的緩和條件，起首曲字殘缺保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c111",
+      "group_id": "G049",
+      "estimated_tokens": 470,
+      "reason": "武貪加煞技藝古賦、百工術語及不限武貪的解釋完整保留。 短塊例外：此為上述獨立子題、註釋、圖說或來源殘片的可用範圍，不為湊長跨主題/未知鄰接拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c112",
+      "group_id": "G050",
+      "estimated_tokens": 717,
+      "reason": "天同章引言整體，賦性、事業婚姻、太歲與格局均為同一章綱。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c113",
+      "group_id": "G051",
+      "estimated_tokens": 445,
+      "reason": "福德定義與福德宮差別；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c114",
+      "group_id": "G051",
+      "estimated_tokens": 497,
+      "reason": "天同與機梁壽命賦性及吉煞條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c115",
+      "group_id": "G052",
+      "estimated_tokens": 773,
+      "reason": "健康吉煞限制與外貌古賦及其依據批評；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c116",
+      "group_id": "G052",
+      "estimated_tokens": 703,
+      "reason": "作者外貌觀察、體型及外傷孤剋條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c117",
+      "group_id": "G053",
+      "estimated_tokens": 643,
+      "reason": "古賦定義與水性溫和適應之理；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c118",
+      "group_id": "G053",
+      "estimated_tokens": 588,
+      "reason": "水性動靜及對外反應與木火對照；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c119",
+      "group_id": "G053",
+      "estimated_tokens": 763,
+      "reason": "水性多變、陰陽區別及機梁學習能力；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c120",
+      "group_id": "G054",
+      "estimated_tokens": 766,
+      "reason": "天同事業安享原理與盤二反例；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c121",
+      "group_id": "G054",
+      "estimated_tokens": 631,
+      "reason": "盤三制煞條件及盤二盤三原混排圖說；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c122",
+      "group_id": "G055",
+      "estimated_tokens": 679,
+      "reason": "事業宮例外條件與盤四；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c123",
+      "group_id": "G056",
+      "estimated_tokens": 637,
+      "reason": "水澄桂萼及行限天同安享、盤五；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c124",
+      "group_id": "G057",
+      "estimated_tokens": 543,
+      "reason": "盤六命宮強旺與安享對照及來源注；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c125",
+      "group_id": "G058",
+      "estimated_tokens": 754,
+      "reason": "幼老安享、左右庇蔭與會吉少煞完整先決條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c126",
+      "group_id": "G058",
+      "estimated_tokens": 192,
+      "reason": "蔭福聚古賦的適用限制；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c127",
+      "group_id": "G059",
+      "estimated_tokens": 498,
+      "reason": "同梁寅申對照及女命賦正面詮釋；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c128",
+      "group_id": "G059",
+      "estimated_tokens": 512,
+      "reason": "女命相反古說與家庭和諧作用；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c129",
+      "group_id": "G059",
+      "estimated_tokens": 403,
+      "reason": "女命外貌及會煞負面條件、巳亥話題引介；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c130",
+      "group_id": "G060",
+      "estimated_tokens": 621,
+      "reason": "同梁巳亥婚姻、空宮及四馬地、盤七；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c131",
+      "group_id": "G061",
+      "estimated_tokens": 633,
+      "reason": "巳亥弱陷與桃花作用限定；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c132",
+      "group_id": "G061",
+      "estimated_tokens": 493,
+      "reason": "婚姻意外、會吉會煞及祿魁空劫例外；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c133",
+      "group_id": "G061",
+      "estimated_tokens": 505,
+      "reason": "四沐浴四桃花地及水星條件例外；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c134",
+      "group_id": "G061",
+      "estimated_tokens": 362,
+      "reason": "天同酉宮婚姻與傳統婚嫁觀；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c135",
+      "group_id": "G062",
+      "estimated_tokens": 631,
+      "reason": "酉宮收束及同陰午宮條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c136",
+      "group_id": "G062",
+      "estimated_tokens": 640,
+      "reason": "巨同丑未婚姻與福德生活觀；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c137",
+      "group_id": "G062",
+      "estimated_tokens": 583,
+      "reason": "單身貴族命例與太歲宮個性；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c138",
+      "group_id": "G063",
+      "estimated_tokens": 324,
+      "reason": "盤八顏小姐混排圖說與身宮問題；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c139",
+      "group_id": "G064",
+      "estimated_tokens": 295,
+      "reason": "顏小姐身宮桃花疑問與解說；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c140",
+      "group_id": "G064",
+      "estimated_tokens": 626,
+      "reason": "太歲宮定義、表裡作用與注四；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c141",
+      "group_id": "G064",
+      "estimated_tokens": 546,
+      "reason": "相關引文注釋及庚年天同健康古賦；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c142",
+      "group_id": "G065",
+      "estimated_tokens": 556,
+      "reason": "盤九天同酉宮健康及行限條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c143",
+      "group_id": "G066",
+      "estimated_tokens": 270,
+      "reason": "盤九混排與圖說；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c144",
+      "group_id": "G067",
+      "estimated_tokens": 546,
+      "reason": "盤九男女差異及盤十卯宮比較；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c145",
+      "group_id": "G067",
+      "estimated_tokens": 718,
+      "reason": "盤十混排、卯酉對照及疾厄宮功能；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c146",
+      "group_id": "G067",
+      "estimated_tokens": 518,
+      "reason": "腎水膀胱與腎骨論說；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c147",
+      "group_id": "G068",
+      "estimated_tokens": 482,
+      "reason": "下焦、腎虛頭痛耳竅及會火鈴限制；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c148",
+      "group_id": "G068",
+      "estimated_tokens": 549,
+      "reason": "全盤水星健康與個別差異問題引介；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c149",
+      "group_id": "G069",
+      "estimated_tokens": 512,
+      "reason": "個別差異與太歲入宮方法；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c150",
+      "group_id": "G070",
+      "estimated_tokens": 679,
+      "reason": "糖尿病例及盤十一；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c151",
+      "group_id": "G071",
+      "estimated_tokens": 749,
+      "reason": "痛風病例及盤十二；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c152",
+      "group_id": "G072",
+      "estimated_tokens": 447,
+      "reason": "太歲入宮法疾病來源注釋；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c153",
+      "group_id": "G073",
+      "estimated_tokens": 672,
+      "reason": "田宅作用、方位與盤十三十四對照；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c154",
+      "group_id": "G074",
+      "estimated_tokens": 301,
+      "reason": "盤十三十四房屋地勢對照混排；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c155",
+      "group_id": "G075",
+      "estimated_tokens": 670,
+      "reason": "馬頭帶劍引文、制煞與權星開創；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c156",
+      "group_id": "G075",
+      "estimated_tokens": 432,
+      "reason": "日月反背漂泊及健康限制、太歲條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c157",
+      "group_id": "G075",
+      "estimated_tokens": 571,
+      "reason": "同陰午宮丙年命例行限及盤十五；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c158",
+      "group_id": "G076",
+      "estimated_tokens": 715,
+      "reason": "丙年限運收束與戊年命例、盤十六；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c159",
+      "group_id": "G076",
+      "estimated_tokens": 541,
+      "reason": "馬頭帶劍總結與擴展定義及注釋；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c160",
+      "group_id": "G076",
+      "estimated_tokens": 666,
+      "reason": "天同戌丁年奇格引文與盤十七混排；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c161",
+      "group_id": "G076",
+      "estimated_tokens": 443,
+      "reason": "丁年天同戌命格、事業財帛及自力創業；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c162",
+      "group_id": "G077",
+      "estimated_tokens": 562,
+      "reason": "男命行限與早年辛勞晚年條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c163",
+      "group_id": "G077",
+      "estimated_tokens": 521,
+      "reason": "女命事業古今差異及奇格定義；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c164",
+      "group_id": "G077",
+      "estimated_tokens": 822,
+      "reason": "花非花命例的格局條件、創業經歷及行限建議連同插入命盤完整保留；避免於「因命身格局及〔盤十八〕行限的考量」中間分斷，來源注亦隨命例。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c165",
+      "group_id": "G077",
+      "estimated_tokens": 184,
+      "reason": "寅申同梁新賦文與年干吉化條件為獨立新主題，保留完整引文。短塊例外：現存獨立賦文僅184 tokens，鄰接未確認，不為湊長跨題拼接。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c166",
+      "group_id": "G078",
+      "estimated_tokens": 739,
+      "reason": "己年同梁寅命例、行限及盤十九；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c167",
+      "group_id": "G078",
+      "estimated_tokens": 455,
+      "reason": "丁年與壬年同梁寅命例條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c168",
+      "group_id": "G079",
+      "estimated_tokens": 387,
+      "reason": "盤二十與二十一混排圖說；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c169",
+      "group_id": "G079",
+      "estimated_tokens": 486,
+      "reason": "壬年行限財宅與暗合補充；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c170",
+      "group_id": "G080",
+      "estimated_tokens": 372,
+      "reason": "田宅巳宮原理及寅宮三年份總結；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c171",
+      "group_id": "G080",
+      "estimated_tokens": 558,
+      "reason": "同梁申丙年命例、盤二十二與田宅財利比較；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c172",
+      "group_id": "G080",
+      "estimated_tokens": 294,
+      "reason": "同梁申丙年行限、財富條件及明暗祿定義；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c173",
+      "group_id": "G081",
+      "estimated_tokens": 715,
+      "reason": "丁己年同梁申命例與盤二十三；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c174",
+      "group_id": "G082",
+      "estimated_tokens": 629,
+      "reason": "盤二十四、己年同梁申行限及三年對照；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c175",
+      "group_id": "G083",
+      "estimated_tokens": 680,
+      "reason": "空位古賦、天機天同與空劫作用；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c176",
+      "group_id": "G083",
+      "estimated_tokens": 422,
+      "reason": "宗教興趣條件及盤二十五示例；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c177",
+      "group_id": "G083",
+      "estimated_tokens": 816,
+      "reason": "女命賦引文、貧賤古今觀及混排盤二十五；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 超目標但未超850：保留完整論證/圖說，避免切斷內部語義。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c178",
+      "group_id": "G083",
+      "estimated_tokens": 211,
+      "reason": "女命分宮解說引介及同梁寅甲年限運；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c179",
+      "group_id": "G084",
+      "estimated_tokens": 694,
+      "reason": "盤二十六女命限運與卯宮辛年引介；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c180",
+      "group_id": "G085",
+      "estimated_tokens": 593,
+      "reason": "盤二十七及女命卯宮辛年行限；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c181",
+      "group_id": "G086",
+      "estimated_tokens": 674,
+      "reason": "卯宮總結與子宮丁年完整命例、盤二十八；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c182",
+      "group_id": "G086",
+      "estimated_tokens": 500,
+      "reason": "子宮癸年與丑宮癸年婚姻條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c183",
+      "group_id": "G087",
+      "estimated_tokens": 373,
+      "reason": "盤二十九與三十兩女命比較混排；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c184",
+      "group_id": "G088",
+      "estimated_tokens": 470,
+      "reason": "女命巨同丑行限凶吉及晚景條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c185",
+      "group_id": "G089",
+      "estimated_tokens": 500,
+      "reason": "晚年與子嗣條件、諸女命總結及注二十；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c186",
+      "group_id": "G089",
+      "estimated_tokens": 493,
+      "reason": "同月陷宮引文及職業適應、健康條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c187",
+      "group_id": "G089",
+      "estimated_tokens": 461,
+      "reason": "同陰午辛勞與福德生活觀、古賦結論；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c188",
+      "group_id": "G090",
+      "estimated_tokens": 483,
+      "reason": "分地同陰健康條件及會吉壽元長辨析；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c189",
+      "group_id": "G091",
+      "estimated_tokens": 693,
+      "reason": "土木工程師健康命例及盤三十一；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c190",
+      "group_id": "G092",
+      "estimated_tokens": 214,
+      "reason": "土木工程師命例末段與凶格解釋；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c191",
+      "group_id": "G092",
+      "estimated_tokens": 261,
+      "reason": "子羽才能格局完整引文；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c192",
+      "group_id": "G093",
+      "estimated_tokens": 659,
+      "reason": "立命申三格局、身宮限運及盤三十二；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c193",
+      "group_id": "G094",
+      "estimated_tokens": 678,
+      "reason": "立命寅對照、職業說法限定及盤三十三；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c194",
+      "group_id": "G095",
+      "estimated_tokens": 150,
+      "reason": "服務業補述及子羽出處注；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c195",
+      "group_id": "G096",
+      "estimated_tokens": 693,
+      "reason": "第六章廉貞章導言，保留整體論題路線；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c196",
+      "group_id": "G097",
+      "estimated_tokens": 715,
+      "reason": "廉貞品秩權令與囚星定義和吉凶條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c197",
+      "group_id": "G097",
+      "estimated_tokens": 213,
+      "reason": "廉貞次桃花名稱及作用條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c198",
+      "group_id": "G098",
+      "estimated_tokens": 597,
+      "reason": "廉貞外貌各說、術語解說及不可據斷限制；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c199",
+      "group_id": "G098",
+      "estimated_tokens": 389,
+      "reason": "陰火性格與十二宮組合引介殘段；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c200",
+      "group_id": "G099",
+      "estimated_tokens": 734,
+      "reason": "宮位主動及陰火北斗個性、禮義條件；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c201",
+      "group_id": "G099",
+      "estimated_tokens": 766,
+      "reason": "能言善辯與企管家命例的正反作用；按完整論斷/子主題邊界保留，未沿舊unit機械切分。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c202",
+      "group_id": "G100",
+      "estimated_tokens": 375,
+      "reason": "盤二企管家混排及注一二；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c203",
+      "group_id": "G100",
+      "estimated_tokens": 332,
+      "reason": "天相制惡引文及星曜生剋吉凶定義；按完整論斷/子主題邊界保留，未沿舊unit機械切分。 短塊例外：此子題或受未知鄰接限制之現存片段不足目標長度，不為湊長拼接其他內容。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c204",
+      "group_id": "G101",
+      "estimated_tokens": 392,
+      "reason": "善惡正邪分類及廉殺廉相五行例證；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c205",
+      "group_id": "G101",
+      "estimated_tokens": 504,
+      "reason": "廉相子午旺宮、天相制惡及化忌例外；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c206",
+      "group_id": "G102",
+      "estimated_tokens": 765,
+      "reason": "帝座與身宮權威、盤三及祿存附註；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c207",
+      "group_id": "G102",
+      "estimated_tokens": 721,
+      "reason": "廉貞擎羊是非與破軍火鈴賦性；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c208",
+      "group_id": "G103",
+      "estimated_tokens": 433,
+      "reason": "廉破火鈴賦性總論與引入理論命盤；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c209",
+      "group_id": "G103",
+      "estimated_tokens": 678,
+      "reason": "盤四甲年廉破男女性行限對比；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c210",
+      "group_id": "G103",
+      "estimated_tokens": 475,
+      "reason": "盤五乙年命身廉破與盤六庚年案例起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c211",
+      "group_id": "G104",
+      "estimated_tokens": 464,
+      "reason": "盤五與盤六原始混排圖文組；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c212",
+      "group_id": "G105",
+      "estimated_tokens": 528,
+      "reason": "白虎官非條件與盤七圖文；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c213",
+      "group_id": "G106",
+      "estimated_tokens": 672,
+      "reason": "盤七官非續論及廉貞陷地火鈴性格限制；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c214",
+      "group_id": "G106",
+      "estimated_tokens": 812,
+      "reason": "廉貪巳弱亥旺之五行與性格完整比較；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 800–850容許區：保留本段完整論證，已評估內部切口會拆散該子題；未超850。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c215",
+      "group_id": "G107",
+      "estimated_tokens": 420,
+      "reason": "女命廉貞貞潔淫濫賦文及傳統觀念辨析；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c216",
+      "group_id": "G108",
+      "estimated_tokens": 479,
+      "reason": "廉貪天姚咸池桃花條件與命身關係；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c217",
+      "group_id": "G109",
+      "estimated_tokens": 471,
+      "reason": "善妒詞義、個性推論與女命古文總結；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c218",
+      "group_id": "G110",
+      "estimated_tokens": 599,
+      "reason": "行限白虎凶象辨析與盤八例圖；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c219",
+      "group_id": "G111",
+      "estimated_tokens": 419,
+      "reason": "廉貪巳亥及昌貪古傳賦文引介；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c220",
+      "group_id": "G112",
+      "estimated_tokens": 545,
+      "reason": "昌曲貪狼靈活才智與化忌失序理論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c221",
+      "group_id": "G112",
+      "estimated_tokens": 456,
+      "reason": "盤九命宮樞紐案例、回顧及圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c222",
+      "group_id": "G113",
+      "estimated_tokens": 564,
+      "reason": "廉貪忌煞條件及壽命論斷限制；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c223",
+      "group_id": "G113",
+      "estimated_tokens": 430,
+      "reason": "貧寒解讀限制、註四五及疾病賦文轉題；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c224",
+      "group_id": "G114",
+      "estimated_tokens": 454,
+      "reason": "廉貞疾病推論原文總論與命例引介；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c225",
+      "group_id": "G115",
+      "estimated_tokens": 413,
+      "reason": "盤十先天心臟病例前半原始殘段；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c226",
+      "group_id": "G116",
+      "estimated_tokens": 279,
+      "reason": "盤十父母太歲及症狀續論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c227",
+      "group_id": "G116",
+      "estimated_tokens": 162,
+      "reason": "盤十一心律不整案例開題殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c228",
+      "group_id": "G117",
+      "estimated_tokens": 607,
+      "reason": "盤十一圖文與心律不整行限論述；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c229",
+      "group_id": "G117",
+      "estimated_tokens": 128,
+      "reason": "盤十二憂鬱症新命例開題殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c230",
+      "group_id": "G118",
+      "estimated_tokens": 349,
+      "reason": "盤十二混排圖與原圖說；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c231",
+      "group_id": "G119",
+      "estimated_tokens": 516,
+      "reason": "盤十二父母生年與潛在凶性續論及註六至八；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c232",
+      "group_id": "G120",
+      "estimated_tokens": 794,
+      "reason": "疾病命例註九至十一及田宅環境論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c233",
+      "group_id": "G120",
+      "estimated_tokens": 502,
+      "reason": "雄宿朝元格原賦長引文與別名對照完整保留；於作者排盤定義說明起點分界。短塊例外：完整引文群及名稱考辨為獨立子題，502 tokens，不補字湊長。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c234",
+      "group_id": "G120",
+      "estimated_tokens": 623,
+      "reason": "作者對雄宿朝元的能力魄力定義與必要祿星、多吉條件同塊，並保留反面限制、廉殺辛勞及太歲條件；按獨立復核建議避免定義與必要限制分離。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c235",
+      "group_id": "G120",
+      "estimated_tokens": 529,
+      "reason": "按年份說明引介、甲年廉貞申命盤十三圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c236",
+      "group_id": "G121",
+      "estimated_tokens": 660,
+      "reason": "戊年廉貞申命行限、桃花限制及盤十四；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c237",
+      "group_id": "G122",
+      "estimated_tokens": 378,
+      "reason": "戊年廉貞桃花與男女行限差異；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c238",
+      "group_id": "G122",
+      "estimated_tokens": 319,
+      "reason": "丙年廉貞申命與盤十五圖文起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c239",
+      "group_id": "G123",
+      "estimated_tokens": 532,
+      "reason": "丙年男命行限、財宅與事業結論；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c240",
+      "group_id": "G124",
+      "estimated_tokens": 280,
+      "reason": "丙年命格祖蔭及女命限制續論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c241",
+      "group_id": "G124",
+      "estimated_tokens": 574,
+      "reason": "庚年廉貞申命盤十六與晚景富貴；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c242",
+      "group_id": "G124",
+      "estimated_tokens": 429,
+      "reason": "己年廉貞申命及行限殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c243",
+      "group_id": "G125",
+      "estimated_tokens": 483,
+      "reason": "盤十七圖文及廉貞申命年份總結；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c244",
+      "group_id": "G125",
+      "estimated_tokens": 196,
+      "reason": "戊年廉殺未命盤十八起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c245",
+      "group_id": "G126",
+      "estimated_tokens": 619,
+      "reason": "盤十八戊年廉殺圖文與男女行限結論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c246",
+      "group_id": "G126",
+      "estimated_tokens": 138,
+      "reason": "乙年廉殺盤十九起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c247",
+      "group_id": "G127",
+      "estimated_tokens": 546,
+      "reason": "盤十九乙年廉殺圖文與富貴評價；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c248",
+      "group_id": "G127",
+      "estimated_tokens": 697,
+      "reason": "盤二十甲年廉殺圖文與三年命格總結；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c249",
+      "group_id": "G127",
+      "estimated_tokens": 681,
+      "reason": "廉貞七殺積富古文、定義及先貧後富；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c250",
+      "group_id": "G127",
+      "estimated_tokens": 417,
+      "reason": "廉殺未宮五行、辛勞積富及命身分坐原理；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c251",
+      "group_id": "G127",
+      "estimated_tokens": 450,
+      "reason": "盤二十一命身分坐例圖、夫妻應用與丑陷宮限制；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c252",
+      "group_id": "G127",
+      "estimated_tokens": 710,
+      "reason": "廉貞四煞賦文、刑戮詞義及性格機理；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c253",
+      "group_id": "G127",
+      "estimated_tokens": 424,
+      "reason": "廉貞擎羊火鈴性格及四煞非必橫夭限制；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c254",
+      "group_id": "G127",
+      "estimated_tokens": 486,
+      "reason": "盤二十二丙年廉相四煞案例與圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c255",
+      "group_id": "G127",
+      "estimated_tokens": 486,
+      "reason": "盤二十三壬年刑囚夾印吉化對比殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c256",
+      "group_id": "G128",
+      "estimated_tokens": 304,
+      "reason": "盤二十三刑囚夾印原圖文；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c257",
+      "group_id": "G129",
+      "estimated_tokens": 758,
+      "reason": "行運四煞條件及盤二十四癸年廉貪例；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c258",
+      "group_id": "G129",
+      "estimated_tokens": 424,
+      "reason": "盤二十五戊年廉貪、註十十一及廉破火星新賦文殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c259",
+      "group_id": "G130",
+      "estimated_tokens": 696,
+      "reason": "盤二十五圖文與廉破火鈴賦性基礎；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c260",
+      "group_id": "G130",
+      "estimated_tokens": 742,
+      "reason": "廉破火星機理、限制及盤二十六命身案例；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c261",
+      "group_id": "G131",
+      "estimated_tokens": 748,
+      "reason": "廉破火星續論與古傳對照、路上埋屍賦文及七殺定義；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c262",
+      "group_id": "G131",
+      "estimated_tokens": 559,
+      "reason": "廉殺吉凶條件與丑未差異、原殘缺女命案例；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c263",
+      "group_id": "G131",
+      "estimated_tokens": 358,
+      "reason": "遷移推論限制及盤二十七原圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c264",
+      "group_id": "G132",
+      "estimated_tokens": 528,
+      "reason": "遷移廉殺與盤二十八、父母宮盤二十九續例殘段；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c265",
+      "group_id": "G133",
+      "estimated_tokens": 575,
+      "reason": "盤二十八二十九原圖文及父母宮結語；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c266",
+      "group_id": "G133",
+      "estimated_tokens": 849,
+      "reason": "文昌文曲逢廉貞賦文及巳酉丑凶象條件、旺地與女命引介；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 800–850容許區：保留本段完整論證，已評估內部切口會拆散該子題；未超850。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c267",
+      "group_id": "G134",
+      "estimated_tokens": 554,
+      "reason": "女命昌曲觀念辨析及廉祿純陰賦文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c268",
+      "group_id": "G134",
+      "estimated_tokens": 817,
+      "reason": "惡星相剋性格、女命宮位比較與七殺傳統觀念；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 800–850容許區：保留本段完整論證，已評估內部切口會拆散該子題；未超850。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c269",
+      "group_id": "G134",
+      "estimated_tokens": 441,
+      "reason": "女命分宮年份引介及甲年廉貞盤三十；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c270",
+      "group_id": "G134",
+      "estimated_tokens": 403,
+      "reason": "己年廉破與壬年廉貪盤三十二起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c271",
+      "group_id": "G135",
+      "estimated_tokens": 455,
+      "reason": "盤三十一三十二原混排圖文組；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c272",
+      "group_id": "G136",
+      "estimated_tokens": 367,
+      "reason": "壬年女命廉貪田宅財利續論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c273",
+      "group_id": "G136",
+      "estimated_tokens": 430,
+      "reason": "癸年廉相盤三十三與夫妻行限；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c274",
+      "group_id": "G136",
+      "estimated_tokens": 390,
+      "reason": "丁年廉貪初年限凶及後年限吉；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c275",
+      "group_id": "G137",
+      "estimated_tokens": 327,
+      "reason": "盤三十四丁年廉貪與先賤後榮結語；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c276",
+      "group_id": "G137",
+      "estimated_tokens": 590,
+      "reason": "戊年廉貪財利桃花機理及盤三十五；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c277",
+      "group_id": "G138",
+      "estimated_tokens": 397,
+      "reason": "祿存魁鉞空劫感情條件及親情限制；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c278",
+      "group_id": "G138",
+      "estimated_tokens": 567,
+      "reason": "廉貞羊煞居官祿賦文與命宮樞紐解讀；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c279",
+      "group_id": "G139",
+      "estimated_tokens": 495,
+      "reason": "貞破卯酉古賦與星曜相生相剋原則殘段；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c280",
+      "group_id": "G140",
+      "estimated_tokens": 300,
+      "reason": "廉破格局大小與公門職務之原文續論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c281",
+      "group_id": "G140",
+      "estimated_tokens": 483,
+      "reason": "戊年廉破酉命財官與盤三十六圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c282",
+      "group_id": "G140",
+      "estimated_tokens": 446,
+      "reason": "辛年廉破酉命行限及乙年卯命起段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c283",
+      "group_id": "G141",
+      "estimated_tokens": 365,
+      "reason": "盤三十七三十八原圖文組；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c284",
+      "group_id": "G142",
+      "estimated_tokens": 229,
+      "reason": "乙年廉破貴顯與行限續論；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c285",
+      "group_id": "G142",
+      "estimated_tokens": 423,
+      "reason": "庚年廉破酉命及盤三十九圖文；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c286",
+      "group_id": "G143",
+      "estimated_tokens": 615,
+      "reason": "庚年廉破酉卯比較、盤四十圖文；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c287",
+      "group_id": "G144",
+      "estimated_tokens": 183,
+      "reason": "廉破酉卯年份總結續段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c288",
+      "group_id": "G144",
+      "estimated_tokens": 264,
+      "reason": "仲由威猛廉貞將軍古賦及乙級星曜依附原則；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c289",
+      "group_id": "G145",
+      "estimated_tokens": 724,
+      "reason": "將軍星賦性、博士十二神排法及盤四十一；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c290",
+      "group_id": "G146",
+      "estimated_tokens": 376,
+      "reason": "廉貞將軍丙年例與註十二；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c291",
+      "group_id": "G146",
+      "estimated_tokens": 840,
+      "reason": "廉貞白虎賦文、插入盤四十二與盤四十三推論殘段；在已讀完整句或明確新子題起點分界，原換行與所有正文原樣保留。 800–850容許區：保留本段完整論證，已評估內部切口會拆散該子題；未超850。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c292",
+      "group_id": "G147",
+      "estimated_tokens": 333,
+      "reason": "盤四十三圖文與白虎引動條件結論；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    },
+    {
+      "chunk_id": "dots_all_20261013_ziwei_073_c293",
+      "group_id": "G148",
+      "estimated_tokens": 191,
+      "reason": "陰陽五行附錄殘存註文與標題；此證據組保留整體，不另造句中斷點；未知相鄰組不強拼。 短塊例外：本子題/來源殘段可單列，與鄰題強拼會混合獨立命例或越過未知連續性；不補足缺文、不為達長度擴寫。",
+      "short_semantic_exception": null
+    }
+  ],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}

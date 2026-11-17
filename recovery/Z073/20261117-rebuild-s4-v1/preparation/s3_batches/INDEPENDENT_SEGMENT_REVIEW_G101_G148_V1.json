@@ -1,0 +1,783 @@
+{
+  "review_stage": "Independent S4 subset review; full-source S4 pending",
+  "proposal_path": "z073_rebuild_20261117/preparation/s3_batches/segmentation_G101_G148.json",
+  "proposal_sha256": "2c4c071ceb2225df6cb149cbd068fa5d7ad3e4631ffb2a651a696628de8204f8",
+  "actual_group_range": [
+    "G101",
+    "G148"
+  ],
+  "actual_group_count": 48,
+  "result": "return_for_revision",
+  "counts": {
+    "accepted": 47,
+    "return_for_revision": 1
+  },
+  "method": "完整閱讀各組text、joins及提案所有片段，逐組檢查語義邊界及條件效應；另核原03精確重疊、頁碼/index衝突標記、hash、token、span與全覆蓋。G126及G127 joins因首次輸出截斷另行重讀。",
+  "human_acceptance": false,
+  "modified_proposal_or_production": false,
+  "records": [
+    {
+      "group_id": "G101",
+      "group_text_sha256": "520b62efa6b9c3c3246bba22567ae7371386350eac44336c21a7e294a007bf9f",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 2,
+      "reason": "善惡正邪與廉相子午兩題分界，水火即濟的吉化與化忌例外保留同段。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G102",
+      "group_text_sha256": "1fcbd340d3cdc701a8069eaca40500c61fd64352819d081905193b00b3f48e7a",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 3,
+      "segment_count": 2,
+      "reason": "帝座身宮論與擎羊破軍論分界明確；盤三插圖未改序。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G103",
+      "group_text_sha256": "ccfe16dfd1c5ec2092ee59c9c51494f5acbc2f6a4c3ad03619c56bf945ed2c1b",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 3,
+      "reason": "廉破總論、甲年男女限運、乙庚年案例依段落切分；於／此直接句法銜接可接受，京字缺文仍不得據以補說。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G104",
+      "group_text_sha256": "b96d8406326db8e0be5ae11f1929fd2f054f0616e488a2251d6f417f1a232680",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "兩命盤混排現存組整體保留，未重新排盤。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G105",
+      "group_text_sha256": "b3400d30fb74781e8a1153e89fa54ca0f664b86cc63d6915ab48a0dff7f13a0a",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "白虎原則與盤七圖說保持一組；多處京字及缺文屬原來源不完整。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G106",
+      "group_text_sha256": "3954dcfcdb7dc9a8c14f2a475483f9d586b269d32dc345a05ceab68ebb9d983b",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 4,
+      "segment_count": 2,
+      "reason": "陷地火鈴與廉貪巳亥比較兩題；812段完整保留巳弱亥旺及會吉限制。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G107",
+      "group_text_sha256": "3b78f6aba8c6cfe7e547d0a4ebeaf1645ffed151815e45cfdd41a1a1d124d859",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "女命古說與作者男女皆同的反駁、條件未分離。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G108",
+      "group_text_sha256": "7876b7e4d0e5f72ebc171a8f05eb80e30832b696c01cd03ab0704ba07b6b0840",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "桃花與命身條件均在單段；章名未刪除。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G109",
+      "group_text_sha256": "7e880e5fac3a794f62bb549b71cc9149cd3116bc9a27563713e7387bd1799b37",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "善妒詞義與古今性別限制完整。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G110",
+      "group_text_sha256": "8603c771a20f3fa546802daeccce3c3e1515c6990a7a14538ff5eb32082ceec1",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "行限白虎條件與盤八示例共存，限易起句的原缺文未修。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G111",
+      "group_text_sha256": "468b5bba299e59043686f9954b2436cb70708e36af0379f09e4be270e4427329",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "廉貪昌貪古引文完整保留並收在下一節引介。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G112",
+      "group_text_sha256": "01d9591027a6dfadb4052cce1b3daf5093149c29cd54127e9444428e8fa816df",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 2,
+      "reason": "昌曲理論與盤九例分界合理；例段原缺文及廣告仍在。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G113",
+      "group_text_sha256": "38c99540c22e5d6a2bf28276aef4cc840f430c033fb01c7650ed465b4247e8aa",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 2,
+      "reason": "壽命結論與不可武斷條件同段；貧寒說限制未拆。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G114",
+      "group_text_sha256": "e2caf8a781c9d861e9347a427a315901ffde6c2247a40c14a3b12dd471ab92ca",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "疾病命理條件及三例引介保留為作者原論，非醫療驗證。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G115",
+      "group_text_sha256": "afb2ed8223f87077635548911c1b83721fe99386d145488109158a2e41801436",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "心臟病例原尾殘句保留，未跨未知鄰接補接。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G116",
+      "group_text_sha256": "f6979864d7b3a33a00f81fc3c66d6b12316a44295f9a82d9f90d3f07c5b4906b",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 2,
+      "reason": "兩命例按新標題切分，163字殘段沒有新增句中切斷。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G117",
+      "group_text_sha256": "e88ac08a27e27678a788d0dfc49e3864cd9d4d91e11d8f8351857655e52b0295",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "盤十一心律不整與盤十二憂鬱症標題分開，後者原尾殘缺保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G118",
+      "group_text_sha256": "3f55742e6d70e39f2ee219726b95e60aeb99a125b9a2eb0f25a5b53e0839b15e",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "盤十二圖說與混排整體保留，未推斷圖形欄位。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G119",
+      "group_text_sha256": "7136ae8bec65eb1305c0845eb1724cdbdb649756e040aa2c989005ba8f27b223",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "父母太歲、潛在凶性及行限引動解說同段，首殘句保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G120",
+      "group_text_sha256": "4313e548742524c02a47552860ba572a63289a77798daaf60a7fe806864cc43c",
+      "result": "return_for_revision",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 6,
+      "segment_count": 4,
+      "reason": "需前移一處邊界，讓作者格局定義與祿星、多吉必要條件同段。",
+      "required_changes": [
+        {
+          "issue_id": "S4-G120-CONDITION-01",
+          "issue": "1418邊界把作者「雄宿朝元格」能力魄力與富貴定義和緊隨必要祿星/多吉及反例拆散。",
+          "action": "只將中間邊界1418前移到1305「就斗數排盤而言」句首，保留其餘邊界；改寫兩段reason並重算excerpts/tokens。不得改正文。",
+          "proposed_spans": [
+            [
+              0,
+              803
+            ],
+            [
+              803,
+              1305
+            ],
+            [
+              1305,
+              1931
+            ],
+            [
+              1931,
+              2496
+            ]
+          ],
+          "proposed_estimated_tokens": [
+            794,
+            502,
+            623,
+            529
+          ],
+          "new_boundary_head": "就斗數排盤而言，廉貞坐命宮，事業宮必有武曲坐入，而紫微一定坐入財帛宮。不論上述說"
+        }
+      ],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G121",
+      "group_text_sha256": "9af58febaa909be415552da2af3e1bd4638b9ffd2e74597c9634e2155c9dfc31",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "戊年桃花條件、行限與盤十四保留，首承前與末插圖未偽補。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G122",
+      "group_text_sha256": "665c7d1c79a481fe8ca34389c08f1f3f3d9304d915bb7cf7428580d59aec2db3",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "戊年男女限運與丙年新例按新題切分。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G123",
+      "group_text_sha256": "b73768c1c776e53aecabf1035b96a68d62368866942f511bd8de99094bb85157",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "丙年男命各大限與無大創造反駁完整，未拆內部條件。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G124",
+      "group_text_sha256": "8aece7ad16c2f83b0b80147b7b16ec0eb03e4ad4723c1bf0fccd0d6ac793c6f9",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 3,
+      "reason": "丙、庚、己三年命例按實際題目分界，祖蔭不可單斷限制保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G125",
+      "group_text_sha256": "6b6844a75b27613254472ae870ec740697cea0d3a331c522a3d3562aabd8d137",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "申命總結與未命戊年起段分界；未改申/未原作疑點。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G126",
+      "group_text_sha256": "18b07f39f7ea3104ea595cca4a94174b8516b941a6f707a613799bedc9f4895c",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "戊年命例完整男女性別限制與乙年新例分開；刑췐疑字未改。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G127",
+      "group_text_sha256": "00eae0d1245b0a3296d9f1f948ae22c0ffaea3f00f7ef626729dd27c558004ce",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 10,
+      "segment_count": 9,
+      "reason": "九段均在命例或新賦文、機理段起點；長引文與條件整句不破，圖文插入原順序保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G128",
+      "group_text_sha256": "72a4d241db25ca2f80e74052a2f5b7b579afc099561b5dec63f1298d0910a717",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "刑囚夾印圖說原樣保留單段。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G129",
+      "group_text_sha256": "19429ca1f7d912ea15dfa8bebce07bf71d0bf49a78b030ef281bd976b7c84f37",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "癸年凶例與戊年吉化例切開；戊年化忌反凶的限制仍在同段。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G130",
+      "group_text_sha256": "50bf80a79c1621d298617d8665cf24beae2d54ea4fd7722f413701d08f556f29",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 3,
+      "segment_count": 2,
+      "reason": "賦性基礎與實際廉破火星條件分段；不能認定必自縊之限制保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G131",
+      "group_text_sha256": "0931a1ab1e7ba80f6e6b5d7b6c696efed10d8130741af146dc459be2763988d6",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 4,
+      "segment_count": 3,
+      "reason": "古引文、廉殺條件與遷移補述分段；原女命案例引介缺失未補。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G132",
+      "group_text_sha256": "e4069f30d8d2b04378e73c4c784c30b0ea3af6b6bde11629d034ecdca9d7a9a9",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "遷移與父母宮用例在同一原殘段，吉化反例保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G133",
+      "group_text_sha256": "0430ffdd0887bb09e4910f1148b0b184c3028b4893dd5bece703924eb73645c8",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 3,
+      "segment_count": 2,
+      "reason": "父母例圖與昌曲廉貞賦文分開；849段雖較長仍保留完整論證與否定必然性。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G134",
+      "group_text_sha256": "ba8ffe60f2c0a8c7d10f1312b4b7054e0d1f757f77fca6e3665bb553b8e0558a",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 4,
+      "segment_count": 4,
+      "reason": "女命昌曲古觀、陰火性格比較與分年命例分界；817段含傳統觀念不應拘泥之限定。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G135",
+      "group_text_sha256": "c0ebae3c787763566cd6e122979f7c9a55d009eb9049c47663868d19313c4945",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "兩盤混排及原章名疑字完整保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G136",
+      "group_text_sha256": "93e3f626b22764b968b06b319bc4d594877bf30842571e246c54124aa5459bd8",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 3,
+      "reason": "壬癸丁三年案例分開；丁年初年限凶與後年限吉比較不拆，丙午/丙子原差異保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G137",
+      "group_text_sha256": "718e2c354887e5b01899ec7deb9422723b466842739d6471f13d57ec8c8fafd5",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "丁年結論與戊年桃花題分開，初年限制完整保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G138",
+      "group_text_sha256": "0defa30026700ab2c4ebb37945d7afd98d617eacc41f0607f923887ffdfda294",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 2,
+      "reason": "婚姻親情限制與官祿枷杻新題分開；非必牢獄條件完整。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G139",
+      "group_text_sha256": "2ae7cc906f83a9dee4ee78692f378b546692fd9471fec378f071e1ebf664e9c3",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "廉破古引文及生剋條件單段，末章名夾斷保持未解。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G140",
+      "group_text_sha256": "7ad9d1809c505648495fc4dae85170a28860c4dbd292afb668f6e59b8fee4d4e",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 3,
+      "reason": "總論與戊年、辛乙年案例分界明確；原男命順行字句未理論校正。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G141",
+      "group_text_sha256": "7408e4a61a560d014f5936aac9843fedb3c8483143c5f03f27d985e54a197543",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "兩盤圖說混排單段保留。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G142",
+      "group_text_sha256": "450e4ec1b98ed5e1fe455207ced4f4b7505b4ef1349f4f5a397b383e37896850",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "乙年續論與庚年新例分界；乙年卯/酉原疑點不更改。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G143",
+      "group_text_sha256": "8ab3bdd6786cf37765d9a4c1b4b12dca7b09af32a9d20b224d60cd86fbb72ea1",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "庚年酉卯比較及盤四十保留，原尾圖文阻隔不補。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G144",
+      "group_text_sha256": "eb2101a30a7e32c678514b185ba0c4f0ede8a05ce26910604aaa3a9fa73f08af",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 2,
+      "reason": "廉破總結與仲由將軍新題分開，兩短段各有可辨主題。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G145",
+      "group_text_sha256": "33342e3dced0853710ad153f51a1fefd25d505ee6a919b0d15f8d0c0b95970ce",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "將軍規則與盤四十一同段；博士/將軍混稱不據常識改正。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G146",
+      "group_text_sha256": "18ab374a7b3c3e243ce8722b388e96455538c82b0c3f8794b5c2a61ebfe628ad",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 2,
+      "segment_count": 2,
+      "reason": "將軍總結與白虎新題分開；840段含白虎必要忌煞條件與原圖插入，尾為來源殘句。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G147",
+      "group_text_sha256": "a70b9eae34f090af16e742cafd53d9c3bc8e3c4b3bef27ed89f8b84e1dcc288f",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 1,
+      "segment_count": 1,
+      "reason": "盤四十三與白虎引動結論完整保留，首尾原錯序不修。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    },
+    {
+      "group_id": "G148",
+      "group_text_sha256": "3b7637fecf4e43966124c7f5a5e2cc0bfa000f886479f7da488ea42aaeaec296",
+      "result": "accepted",
+      "actual_text_read_in_full": true,
+      "joins_read_and_checked": 0,
+      "segment_count": 1,
+      "reason": "只含附錄註與標題，短塊保留原缺表事實，不稱附錄完整。",
+      "required_changes": [],
+      "retained_source_findings": [
+        "原OCR疑字、命盤混排及首尾殘句按該組原狀保留；本分段不認證排盤準確或書籍完整。",
+        "原join僅按已提出重疊/斷句證據使用，仍須S4獨立核驗；未新增上下文頭。"
+      ],
+      "human_acceptance": false
+    }
+  ],
+  "programmatic_checks": {
+    "text_hashes": true,
+    "group_file_hashes": true,
+    "all_spans_nonempty_continuous_full_coverage": true,
+    "all_tokens_within_850": true,
+    "all_overlap_lengths_exact_against_cleaned03": true,
+    "no_join_gap_flags": true
+  },
+  "nonblocking_notes": [
+    "作者retained_uncertainties保留源疑點但採通用語；重要具體缺文、混排、原矛盾另在逐組review reason中指出，不代表原文問題消失。",
+    "未讀舊05，未聯網修正文，未把重複映射當書頁恢復。"
+  ]
+}

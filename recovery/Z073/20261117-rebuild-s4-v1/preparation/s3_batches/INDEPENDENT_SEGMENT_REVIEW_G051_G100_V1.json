@@ -1,0 +1,3825 @@
+{
+  "review_type": "Independent S4 semantic segmentation review",
+  "human_acceptance": false,
+  "overall_outcome": "return_for_revision",
+  "proposal_path": "z073_rebuild_20261117/preparation/s3_batches/segmentation_G051_G100.json",
+  "proposal_sha256": "4ba8f8f420f3ad7a4e60354fcb52967cc8ec79c6c50c4f870d54d3c0c703ee49",
+  "source_cleaned_sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+  "scope": "G051–G100 full group text, every segment and every confirmed join. No old 05 labels read.",
+  "method": "Read full text in bounded groups; independently inspected proposal boundaries, all fragment join tail/head and inherited page/index constraints. Deterministic script independently verifies exact source mapping/overlap and coverage/token/hash; this is not substituted for semantic reading.",
+  "records": [
+    {
+      "group_id": "G051",
+      "text_sha256": "de74f3dbeaf1c881ff24f7ec9c791c92e81cce4f582e67cc243c526a938f3677",
+      "group_file_sha256": "8bc9f6aac6405ffdc78c264b2c7dc1e6c7aeac1463ba9cd554a0bc1c25a39fc0",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            447
+          ],
+          "estimated_tokens": 445,
+          "outcome": "accept",
+          "semantic_assessment": "福德定義與福德宮差別",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "在斗數的甲級星曜中和壽命有關者，有天機、貪狼、天同及天梁四顆星曜。就斗"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            447,
+            945
+          ],
+          "estimated_tokens": 497,
+          "outcome": "accept",
+          "semantic_assessment": "天同與機梁壽命賦性及吉煞條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "就無法僅憑天同坐命而做出相關的推論，故此時天同的作用就與福德宮不同。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 123,
+          "right_ordinal": 124,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            144
+          ],
+          "right_pages": [
+            145
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G052",
+      "text_sha256": "eb9cbcdbafa7088d324c838fe1a940709e6c7c8020e8dd1518cb6bb90c315edf",
+      "group_file_sha256": "d26e8c09745c7ba47ca66f6e9e1a95ffb727d670f711d04542a0a3f1fc7428f9",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            776
+          ],
+          "estimated_tokens": 773,
+          "outcome": "accept",
+          "semantic_assessment": "健康吉煞限制與外貌古賦及其依據批評",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "根據作者論命觀察所得，不論是任何星曜坐命者，只要是在旺宮且會多吉星時，"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            776,
+            1482
+          ],
+          "estimated_tokens": 703,
+          "outcome": "accept",
+          "semantic_assessment": "作者外貌觀察、體型及外傷孤剋條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "多少可做為參考之用，然僅限於華人或黃種人（請參閱天機星註三的說明）。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 125,
+          "right_ordinal": 126,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            147
+          ],
+          "right_pages": [
+            148
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 126,
+          "right_ordinal": 127,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            148
+          ],
+          "right_pages": [
+            149
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G053",
+      "text_sha256": "69a816a7efbb0ab35516b33a4b20df49b8c84a4a04281fff4efa2140316d6366",
+      "group_file_sha256": "a80719b81c81106baf13b4488303ce6ec176c297379fc80ee3b83a568388c320",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            645
+          ],
+          "estimated_tokens": 643,
+          "outcome": "accept",
+          "semantic_assessment": "古賦定義與水性溫和適應之理",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "然在此亦須指出，相較於水性溫和及適應環境的一面，水也有水勢洶湧及驚濤駭"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            645,
+            1236
+          ],
+          "estimated_tokens": 588,
+          "outcome": "accept",
+          "semantic_assessment": "水性動靜及對外反應與木火對照",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "激動的人，往往也可能會較長壽，此即前述天同主壽命的賦性作用之所由來。\n",
+          "boundary_right": "又，水的這種受外力就「易動」的本質，加上前述水性呈「靜」與呈「動」的特"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1236,
+            2001
+          ],
+          "estimated_tokens": 763,
+          "outcome": "accept",
+          "semantic_assessment": "水性多變、陰陽區別及機梁學習能力",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "）時，遇事反而會不知變通，不懂得隨機應變，造成與人相處易有寡合現象。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 128,
+          "right_ordinal": 129,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 482,
+          "left_pages": [
+            150
+          ],
+          "right_pages": [
+            150
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 129,
+          "right_ordinal": 130,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            150
+          ],
+          "right_pages": [
+            151
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 130,
+          "right_ordinal": 131,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 496,
+          "left_pages": [
+            151
+          ],
+          "right_pages": [
+            151
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 131,
+          "right_ordinal": 132,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            151
+          ],
+          "right_pages": [
+            152
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 132,
+          "right_ordinal": 133,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            152
+          ],
+          "right_pages": [
+            153
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [
+        "首段以水性溫和論收尾，反面會煞條件在第二段；可接受完整句邊界，但下游摘要必保留正反條件，不把首段推成無條件結論。"
+      ],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G054",
+      "text_sha256": "d7a30944b59dd9b48119eab59de66740ceab658e443cb2eb41048bcd3dab509a",
+      "group_file_sha256": "7c47ddb67f387041fb149c1b076a9199a441ddc5508fb99990775456e765791a",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            769
+          ],
+          "estimated_tokens": 766,
+          "outcome": "accept",
+          "semantic_assessment": "天同事業安享原理與盤二反例",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "盤三的命造為牙科醫生，如同盤二的命例，同樣是巨門在亥坐命，事業宮有天同"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            769,
+            1481
+          ],
+          "estimated_tokens": 631,
+          "outcome": "accept",
+          "semantic_assessment": "盤三制煞條件及盤二盤三原混排圖說",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "不是天同坐入事業宮就一定不好，此時仍要看命宮及事業宮的星曜組合而定。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 134,
+          "right_ordinal": 135,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            154
+          ],
+          "right_pages": [
+            155,
+            156
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 135,
+          "right_ordinal": 136,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 190,
+          "left_pages": [
+            155,
+            156
+          ],
+          "right_pages": [
+            156,
+            157
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "開頭引文殘缺；命盤混排中保留正文未完句，不重新排盤。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G055",
+      "text_sha256": "946e2e0a8e0eea6a7456294c31f87fa66be82b4f3d8d0dec15085109f4afc352",
+      "group_file_sha256": "9f9cf6b0a88b6e1a683fd6abe03c88546a5593c2cac6ffd172dbf8ed7f755de3",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            719
+          ],
+          "estimated_tokens": 679,
+          "outcome": "accept",
+          "semantic_assessment": "事業宮例外條件與盤四",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 137,
+          "right_ordinal": 138,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 504,
+          "left_pages": [
+            158
+          ],
+          "right_pages": [
+            158,
+            159
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首尾正文殘句、盤四混排保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G056",
+      "text_sha256": "0e64e7efac7a86be779997cad92a21b4905d59e09368c954e56fe1b3a8faf5bc",
+      "group_file_sha256": "ed2d7cc0ef58ba9bdcfc356ebaf935626f0ababd8c7090d6ff77aac227c2d13c",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            675
+          ],
+          "estimated_tokens": 637,
+          "outcome": "accept",
+          "semantic_assessment": "水澄桂萼及行限天同安享、盤五",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 139,
+          "right_ordinal": 140,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 463,
+          "left_pages": [
+            160
+          ],
+          "right_pages": [
+            160,
+            161
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首句承前殘段，盤五混排保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G057",
+      "text_sha256": "85a592653d3af7377bfa35fe98ae89e8efca4b5ced296cf4974bfc55fb07392c",
+      "group_file_sha256": "c78e8ddb014a2733046d956e6ce8c175474e773ff9ca22c44fda58bd9f859a30",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            549
+          ],
+          "estimated_tokens": 543,
+          "outcome": "accept",
+          "semantic_assessment": "盤六命宮強旺與安享對照及來源注",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 141,
+          "right_ordinal": 142,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 549,
+          "left_pages": [
+            162
+          ],
+          "right_pages": [
+            162
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "注三出第五章天同，原缺口與章名未修。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G058",
+      "text_sha256": "d45f53abebc319cee5fb8a706bcc080eb0a7d0d7e1438ef76465ba9fc8d6e85d",
+      "group_file_sha256": "5bbbb9c179378f4ef495eced3d787b5031fb5598d734ef5c2d3d58bc9f179696",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            757
+          ],
+          "estimated_tokens": 754,
+          "outcome": "accept",
+          "semantic_assessment": "幼老安享、左右庇蔭與會吉少煞完整先決條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "蔭福聚不怕凶危\n秘經有云：「蔭福聚不怕凶危」，同樣的話也出現在《全集，"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            757,
+            949
+          ],
+          "estimated_tokens": 192,
+          "outcome": "accept",
+          "semantic_assessment": "蔭福聚古賦的適用限制",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "須是，天同或同梁在會多吉星且會少煞星（或不會煞星）時，始能如是推論。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 143,
+          "right_ordinal": 144,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 458,
+          "left_pages": [
+            164
+          ],
+          "right_pages": [
+            164
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 144,
+          "right_ordinal": 145,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            164
+          ],
+          "right_pages": [
+            165
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 145,
+          "right_ordinal": 146,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 491,
+          "left_pages": [
+            165
+          ],
+          "right_pages": [
+            165
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "開頭出版社注釋殘段未補。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G059",
+      "text_sha256": "2e80e9b14aabcb97cdd74e1659bbf3d34fb259de5fcb1d9dae99c4a49713001a",
+      "group_file_sha256": "4bc2c85d9b5e99c0b3e984cec877bbdb69caa9b56256f7c913ac683f6bb093f0",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            501
+          ],
+          "estimated_tokens": 498,
+          "outcome": "accept",
+          "semantic_assessment": "同梁寅申對照及女命賦正面詮釋",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "除上述對女命天同的正面說法外，同樣在《全書，諸星入命身限吉凶訣》裡卻另"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            501,
+            1014
+          ],
+          "estimated_tokens": 512,
+          "outcome": "accept",
+          "semantic_assessment": "女命相反古說與家庭和諧作用",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "性情溫和又具聰明機巧的女人，自然會予人以「伶俐」（黠慧靈巧）的感覺。\n",
+          "boundary_right": "至於賦文中有關女命天同的外貌部份，根據作者論命經驗，女命天同旺宮坐命者"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1014,
+            1418
+          ],
+          "estimated_tokens": 403,
+          "outcome": "accept",
+          "semantic_assessment": "女命外貌及會煞負面條件、巳亥話題引介",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "的「安享」作用，也就可能達到如先賢所言的「一生安享，富裕」（註四）。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 147,
+          "right_ordinal": 148,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            166
+          ],
+          "right_pages": [
+            167
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 148,
+          "right_ordinal": 149,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 501,
+          "left_pages": [
+            167
+          ],
+          "right_pages": [
+            167
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 149,
+          "right_ordinal": 150,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            167
+          ],
+          "right_pages": [
+            168
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G060",
+      "text_sha256": "2951cc1b39f2fae49fd84db39608e9e1a38d8e9c3f05a8b2bce8bed5deac0658",
+      "group_file_sha256": "5c3469ac59502b5c152f03c29f8ea61affb8db8604f5b92cacafaad071ccb34f",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            629
+          ],
+          "estimated_tokens": 621,
+          "outcome": "accept",
+          "semantic_assessment": "同梁巳亥婚姻、空宮及四馬地、盤七",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 151,
+          "right_ordinal": 152,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 430,
+          "left_pages": [
+            169
+          ],
+          "right_pages": [
+            169,
+            170
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "正文斷在巳或亥後插盤七，標題疑字未修。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G061",
+      "text_sha256": "e3c43e7f0317a481b6480115ba603fd8ecc01181c7aa149a4ef4dd0e73b41762",
+      "group_file_sha256": "42405a90791a4510727fbc9fd834fc82964f12186c5e9788d32e15bf4d210855",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            636
+          ],
+          "estimated_tokens": 633,
+          "outcome": "accept",
+          "semantic_assessment": "巳亥弱陷與桃花作用限定",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "在談及婚姻感情時，一般而言，若是正常的婚姻感情就不能以「意外」來論。當"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            636,
+            1132
+          ],
+          "estimated_tokens": 493,
+          "outcome": "accept",
+          "semantic_assessment": "婚姻意外、會吉會煞及祿魁空劫例外",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "不利感情婚姻的作用（有關水星坐入沐浴地的命理特質，請見下節的說明）。\n",
+          "boundary_right": "水星坐入沐浴地的命理特質\n在天機星部分談到「機梁會合善談兵，居戌亦為美"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1132,
+            1640
+          ],
+          "estimated_tokens": 505,
+          "outcome": "accept",
+          "semantic_assessment": "四沐浴四桃花地及水星條件例外",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "蕩作用沖淡或轉化掉，故上述三種命格之人，在感情方面就不一定會有問題。\n",
+          "boundary_right": "女命天同在酉的命理現象\n天同在酉為平宮，但三方的巨門與太陰俱為弱陷，僅"
+        },
+        {
+          "segment_index": 4,
+          "span": [
+            1640,
+            2003
+          ],
+          "estimated_tokens": 362,
+          "outcome": "accept",
+          "semantic_assessment": "天同酉宮婚姻與傳統婚嫁觀",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "或坐會空劫或與祿存同宮或坐會魁鉞，則不一定會有上述情事發生。（註五）\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 153,
+          "right_ordinal": 154,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 567,
+          "left_pages": [
+            171
+          ],
+          "right_pages": [
+            171
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 154,
+          "right_ordinal": 155,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            171
+          ],
+          "right_pages": [
+            172
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 155,
+          "right_ordinal": 156,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            172
+          ],
+          "right_pages": [
+            173
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 156,
+          "right_ordinal": 157,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            173
+          ],
+          "right_pages": [
+            174
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 157,
+          "right_ordinal": 158,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 459,
+          "left_pages": [
+            174
+          ],
+          "right_pages": [
+            174
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首部逗號為承前殘段；作者性別觀點不作事實驗證。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G062",
+      "text_sha256": "93b6bed4ec973026e9af01d4b8133874956bfb0db1233c0f6a64491dceacbb75",
+      "group_file_sha256": "f8a0545251b9b0fe18b48d440cb3650c40a4d240f5a7a4a3288f80f938b4bf47",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            636
+          ],
+          "estimated_tokens": 631,
+          "outcome": "accept",
+          "semantic_assessment": "酉宮收束及同陰午宮條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "女命天同在五未的命理現象\n天同巨門在丑未同宮，均為弱陷，三方僅天機平宮"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            636,
+            1282
+          ],
+          "estimated_tokens": 640,
+          "outcome": "accept",
+          "semantic_assessment": "巨同丑未婚姻與福德生活觀",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "只要根據本章節的說明及參考前面的相關分析，就很明顯易懂，就不再說明。\n",
+          "boundary_right": "為增進讀者對本賦文的了解，在此兹舉下列命例說明。\n命例-寧為單身貴族\n"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1282,
+            1873
+          ],
+          "estimated_tokens": 583,
+          "outcome": "accept",
+          "semantic_assessment": "單身貴族命例與太歲宮個性",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "對吉星的吉化作用的感應力較差，縱然會吉，也要行運好，才會慢慢好起來。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 159,
+          "right_ordinal": 160,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            175
+          ],
+          "right_pages": [
+            176
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 160,
+          "right_ordinal": 161,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 456,
+          "left_pages": [
+            176
+          ],
+          "right_pages": [
+            176
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 161,
+          "right_ordinal": 162,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            176
+          ],
+          "right_pages": [
+            177
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 162,
+          "right_ordinal": 163,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            177
+          ],
+          "right_pages": [
+            178
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 163,
+          "right_ordinal": 164,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 518,
+          "left_pages": [
+            178
+          ],
+          "right_pages": [
+            178
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "五未疑字及末尾章名夾斷保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G063",
+      "text_sha256": "2e9648a93df1419254f36376453fac36f5e232f353d5b14decbe76fa91f665fe",
+      "group_file_sha256": "437eb1a6d136592dd86ba1d2eaafaa3b128285f158f217bed49ae8b66ab4cc60",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            371
+          ],
+          "estimated_tokens": 324,
+          "outcome": "accept",
+          "semantic_assessment": "盤八顏小姐混排圖說與身宮問題",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "盤八OCR混排無原圖可重建。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G064",
+      "text_sha256": "88e39c1ff76c2050962e7c87e694ba61d8e315ae158aa26b2405fbf60b858885",
+      "group_file_sha256": "beaa3d91e0400525615c1d3ada24a1ca6d4b3704b403f9291c583b4a196697d1",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            297
+          ],
+          "estimated_tokens": 295,
+          "outcome": "accept",
+          "semantic_assessment": "顏小姐身宮桃花疑問與解說",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "太歲宮位的意義及作用\n由於太歲宮位在斗數論命扮演非常重要的角色，而古傳"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            297,
+            926
+          ],
+          "estimated_tokens": 626,
+          "outcome": "accept",
+          "semantic_assessment": "太歲宮定義、表裡作用與注四",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "宮及太歲宮位的特質與行運對夫妻宮的影響，遂造成顏小姐過了四十仍未婚。\n",
+          "boundary_right": "註五：有關「水星坐入沐浴地」的命理作用說明，皆取材自紫雲先生於一九九五"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            926,
+            1480
+          ],
+          "estimated_tokens": 546,
+          "outcome": "accept",
+          "semantic_assessment": "相關引文注釋及庚年天同健康古賦",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "定的富裕標準，但只要他能知足常樂，某種程度上也可以說他是個富裕之人。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 166,
+          "right_ordinal": 167,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 465,
+          "left_pages": [
+            180
+          ],
+          "right_pages": [
+            180
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 167,
+          "right_ordinal": 168,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            180
+          ],
+          "right_pages": [
+            181
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 168,
+          "right_ordinal": 169,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            181
+          ],
+          "right_pages": [
+            182
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 169,
+          "right_ordinal": 170,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 506,
+          "left_pages": [
+            182
+          ],
+          "right_pages": [
+            182
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首為承前殘句，來源年份疑字保留。"
+      ],
+      "additional_nonblocking_findings": [
+        "第3段合放文獻註釋與庚年天同健康新賦，可選擇於1272再拆成兩獨立短題；現有完整句邊界不構成硬阻斷。"
+      ],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G065",
+      "text_sha256": "113529cec89bfce02f4e0ff052cd91d83367f6d581593ab56070ee9a0d260be8",
+      "group_file_sha256": "033ad77073072b1d5504c30f007b96bd0c44be0e0f807d07b07a94a119ebd4d8",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            558
+          ],
+          "estimated_tokens": 556,
+          "outcome": "accept",
+          "semantic_assessment": "盤九天同酉宮健康及行限條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G066",
+      "text_sha256": "4cbe797818266981d34e88afc0b80dbe4aa1610643fb2d7827df16e49d53a55f",
+      "group_file_sha256": "7f9c5372c2ff2934e65be6ae6a86e5a4d81057e8f090a64d4c9c551a2693227d",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            304
+          ],
+          "estimated_tokens": 270,
+          "outcome": "accept",
+          "semantic_assessment": "盤九混排與圖說",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 172,
+          "right_ordinal": 173,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 304,
+          "left_pages": [
+            184
+          ],
+          "right_pages": [
+            184
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "盤九文字錯序與疑字不據此恢復盤面。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G067",
+      "text_sha256": "0954f12c0d97a219b60c75cda782e089e79d5b998fc9629e3f3c7c46519cd5e0",
+      "group_file_sha256": "736646730fea7f4c77e6095a2a0abaf54512b97987f6d9c4952c3161feda4dfc",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            550
+          ],
+          "estimated_tokens": 546,
+          "outcome": "accept",
+          "semantic_assessment": "盤九男女差異及盤十卯宮比較",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "巨門貪狼陰太科祿存戌疾厄75-84酉選移65-74申僕役55-64亥財"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            550,
+            1304
+          ],
+          "estimated_tokens": 718,
+          "outcome": "accept",
+          "semantic_assessment": "盤十混排、卯酉對照及疾厄宮功能",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "的限運，雖間有化忌來沖，但並沒有構成連忌，也就不一定會有什麽大礙。\n\n",
+          "boundary_right": "前已一再提及，斗數論健康，須以中醫理論為基準。根據中醫論說，腎主水，是"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1304,
+            1823
+          ],
+          "estimated_tokens": 518,
+          "outcome": "accept",
+          "semantic_assessment": "腎水膀胱與腎骨論說",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "視此宮位星曜組合所受煞害程度，此人就有可能會有相應的健康問題。（註八）",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 174,
+          "right_ordinal": 175,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 209,
+          "left_pages": [
+            185,
+            186
+          ],
+          "right_pages": [
+            186,
+            187
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 175,
+          "right_ordinal": 176,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            186,
+            187
+          ],
+          "right_pages": [
+            188
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 176,
+          "right_ordinal": 177,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 547,
+          "left_pages": [
+            188
+          ],
+          "right_pages": [
+            188
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "盤十混排保留；疾病內容為作者理論非醫療核實。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G068",
+      "text_sha256": "5de4eb4f92c9a51a1ddc9985c24ea3212a64794097b9d46f924b186c6d4a498f",
+      "group_file_sha256": "64178e381b6f5bfcb1bf385e099ebbb11b5cfc8b6e730003b0dbb08f2e8abeb9",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            485
+          ],
+          "estimated_tokens": 482,
+          "outcome": "accept",
+          "semantic_assessment": "下焦、腎虛頭痛耳竅及會火鈴限制",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "前曾提及，整張命盤就代表一個人的健康，因此只要任一宮位或某一項五行出現"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            485,
+            1034
+          ],
+          "estimated_tokens": 549,
+          "outcome": "accept",
+          "semantic_assessment": "全盤水星健康與個別差異問題引介",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "問題，就相對輕很多，可能只是造成相關方面的不適，但還不致於構成疾病。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 178,
+          "right_ordinal": 179,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            189
+          ],
+          "right_pages": [
+            190
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 179,
+          "right_ordinal": 180,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 511,
+          "left_pages": [
+            190
+          ],
+          "right_pages": [
+            190
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "太歲入宮標題損壞未擅改；疾病推論僅作者理論。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G069",
+      "text_sha256": "392c0e4619aee07e7677bc2818a0870ca88183a7fd1a3578a70c665f824820f5",
+      "group_file_sha256": "605fbfafe8bbc889db36038a03422b9a802ade9f8f532e04a653403e84ecf285",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            514
+          ],
+          "estimated_tokens": 512,
+          "outcome": "accept",
+          "semantic_assessment": "個別差異與太歲入宮方法",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G070",
+      "text_sha256": "434ee53e550e7f471b128bb5da50d096791bf287de0d40af4af9429c17b415a5",
+      "group_file_sha256": "48db5bcd57f6b7e10db1290cfec1a29042d1eb346be9b57f4c960b0e793fec52",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            723
+          ],
+          "estimated_tokens": 679,
+          "outcome": "accept",
+          "semantic_assessment": "糖尿病例及盤十一",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 182,
+          "right_ordinal": 183,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 340,
+          "left_pages": [
+            192
+          ],
+          "right_pages": [
+            192,
+            193
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "圖說寅宮與正文酉宮差異及盤十一混排保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G071",
+      "text_sha256": "b608be1c23b22624658e01d2a932744c87f8b3613f205d9e0f859368c2505672",
+      "group_file_sha256": "13b3f0ba90368be7493c36de5a3d4b299da9d48e75bcae45dcd02b03c3e5e252",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            797
+          ],
+          "estimated_tokens": 749,
+          "outcome": "accept",
+          "semantic_assessment": "痛風病例及盤十二",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 184,
+          "right_ordinal": 185,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 395,
+          "left_pages": [
+            194
+          ],
+          "right_pages": [
+            194,
+            195
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 185,
+          "right_ordinal": 186,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 400,
+          "left_pages": [
+            194,
+            195
+          ],
+          "right_pages": [
+            195
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "正文故字後插圖，不能跨未知鄰接續接。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G072",
+      "text_sha256": "68deb98c36b2aa4e2a0437ed8926e15a8c5bfc626470620fe4b449b60dbe91db",
+      "group_file_sha256": "53dd8652907d513b4b3af213bf2b6b9074e269049c1ec93a9ee6758c0bd2bf49",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            453
+          ],
+          "estimated_tokens": 447,
+          "outcome": "accept",
+          "semantic_assessment": "太歲入宮法疾病來源注釋",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "注十一出版社出直接接注十二，原缺文未補。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G073",
+      "text_sha256": "c8fc9691bea4d0b2cad8e21419dd71379d571eebc14b3453b34ed44f8e606e91",
+      "group_file_sha256": "fee2c79c1c5644453a22e342c6c56ebeea34d6c9916320bd29aa58257bc095d6",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            677
+          ],
+          "estimated_tokens": 672,
+          "outcome": "accept",
+          "semantic_assessment": "田宅作用、方位與盤十三十四對照",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 188,
+          "right_ordinal": 189,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 408,
+          "left_pages": [
+            197
+          ],
+          "right_pages": [
+            197,
+            198
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G074",
+      "text_sha256": "6b5b4d100723d20f619637505cb3aa37e493097f442bf751ccdee585e19bb389",
+      "group_file_sha256": "76d7b30d724153f767d368e6d100637108eeef85740be0e2e8d091e0f72ca968",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            304
+          ],
+          "estimated_tokens": 301,
+          "outcome": "accept",
+          "semantic_assessment": "盤十三十四房屋地勢對照混排",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 190,
+          "right_ordinal": 191,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 149,
+          "left_pages": [
+            199
+          ],
+          "right_pages": [
+            199,
+            200
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "兩盤圖文錯序仍保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G075",
+      "text_sha256": "e40e1792738950cde3bd82c4a29e92de43d8ac8339a8eab1173cb866bb452870",
+      "group_file_sha256": "c669083ff26916a45b93d5aa00699b76915fa69ffd23bb4dc6010dbfa03cb702",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            673
+          ],
+          "estimated_tokens": 670,
+          "outcome": "accept",
+          "semantic_assessment": "馬頭帶劍引文、制煞與權星開創",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "又，太陰在午為弱陷，此時太陽在申（除非會多吉星）亦可視為弱陷，故同陰在"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            673,
+            1107
+          ],
+          "estimated_tokens": 432,
+          "outcome": "accept",
+          "semantic_assessment": "日月反背漂泊及健康限制、太歲條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "，則因鬥志強且企圖心亦強，利於從事對外開疆闢土的工作，並能有好成果。\n",
+          "boundary_right": "以下僅針對先賢對同陰在午坐命，不同年份生人的描述部份，做一解說。\n同陰"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1107,
+            1713
+          ],
+          "estimated_tokens": 571,
+          "outcome": "accept",
+          "semantic_assessment": "同陰午宮丙年命例行限及盤十五",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "午及戊午，會因太歲宮位同宮，就較其他丙或戊年生人而地支不為午者更吉。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 192,
+          "right_ordinal": 193,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            202
+          ],
+          "right_pages": [
+            203
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 193,
+          "right_ordinal": 194,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 493,
+          "left_pages": [
+            203
+          ],
+          "right_pages": [
+            203
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 194,
+          "right_ordinal": 195,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            203
+          ],
+          "right_pages": [
+            204,
+            205
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 195,
+          "right_ordinal": 196,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 258,
+          "left_pages": [
+            204,
+            205
+          ],
+          "right_pages": [
+            205
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "尤以丙午及戊午引文缺口；行限斷句被盤十五打斷。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G076",
+      "text_sha256": "1660c1cf015ada4ec988881d554c1aed81e52d600b57432954f7453b69c82451",
+      "group_file_sha256": "620511a67c6303e24f0d720d1fcd9af4a0d6e4761f9bdb1ffc8897419319d5b2",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            756
+          ],
+          "estimated_tokens": 715,
+          "outcome": "accept",
+          "semantic_assessment": "丙年限運收束與戊年命例、盤十六",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "綜合上述討論，可以得知，同陰在午坐命，不論是丙或戊年生人，若不會沖火鈴"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            756,
+            1300
+          ],
+          "estimated_tokens": 541,
+          "outcome": "accept",
+          "semantic_assessment": "馬頭帶劍總結與擴展定義及注釋",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "羊戊天府破廉軍貞祿存盤十六寅財帛卯 子女辰夫妻已 兄弟甲乙丙丁陀羅\n\n",
+          "boundary_right": "先賢曰：「天同戌宮逢化忌，丁生命遇反為佳。」先賢對之有註解如下：「福星"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1300,
+            2005
+          ],
+          "estimated_tokens": 666,
+          "outcome": "accept",
+          "semantic_assessment": "天同戌丁年奇格引文與盤十七混排",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "十五：關於「日月反背」坐命者的命理現象，請參閱太陽星部份的相關解說。\n",
+          "boundary_right": "天同在戌本為平宮，丁年生人，命宮成為見雙祿的「三奇嘉會」，此時天同可以"
+        },
+        {
+          "segment_index": 4,
+          "span": [
+            2005,
+            2448
+          ],
+          "estimated_tokens": 443,
+          "outcome": "accept",
+          "semantic_assessment": "丁年天同戌命格、事業財帛及自力創業",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "因個性太過安逸與保守，造成在事業上不求進取，反不利於事業，不以吉論。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 197,
+          "right_ordinal": 198,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 205,
+          "left_pages": [
+            206,
+            207
+          ],
+          "right_pages": [
+            207,
+            208
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 198,
+          "right_ordinal": 199,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            207,
+            208
+          ],
+          "right_pages": [
+            209,
+            210
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 199,
+          "right_ordinal": 200,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 227,
+          "left_pages": [
+            209,
+            210
+          ],
+          "right_pages": [
+            210,
+            211
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首限字殘段，戊年本命強後缺文及盤十六十七混排保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G077",
+      "text_sha256": "df03e580b7686f7051408af59a68a80254dcf09985381650d2c3890c3da2d73e",
+      "group_file_sha256": "62e4b92f98cca8fca46002e87edce79142d7f01c90fbeabc65d989f3f425c576",
+      "outcome": "return_for_revision",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            566
+          ],
+          "estimated_tokens": 562,
+          "outcome": "accept",
+          "semantic_assessment": "男命行限與早年辛勞晚年條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "至於女命，限運順行，從壬子到癸卯限，命宮無連珠現象，限運一強一弱，成果"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            566,
+            1089
+          ],
+          "estimated_tokens": 521,
+          "outcome": "accept",
+          "semantic_assessment": "女命事業古今差異及奇格定義",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "合。惟如前述甲辰限吉凶顯示，此限運尚可，卻不能說一定會「晚景富貴」。\n",
+          "boundary_right": "命例-花非花，「桃花」的迷失\n在紫微星的格局與理論命盤中曾提及，本書就"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1089,
+            1714
+          ],
+          "estimated_tokens": 580,
+          "outcome": "return_for_revision",
+          "semantic_assessment": "花非花命例事業與盤十八",
+          "reason": "1714 邊界截斷「因命身格局及 [盤十八] 行限的考量」；圖後不是新句。此屬新分段問題而非可豁免的原文殘缺。",
+          "boundary_left": "碩成果。（註十六）為增進讀者對本章節的了解，茲舉如下命例來加以說明。\n",
+          "boundary_right": "行限的考量，紫雲先生當年建議命造開間高品味高收費的美容院，並於文末提及"
+        },
+        {
+          "segment_index": 4,
+          "span": [
+            1714,
+            2141
+          ],
+          "estimated_tokens": 426,
+          "outcome": "return_for_revision",
+          "semantic_assessment": "命例結論與來源注、寅申同梁新賦文",
+          "reason": "1714 邊界截斷「因命身格局及 [盤十八] 行限的考量」；圖後不是新句。此屬新分段問題而非可豁免的原文殘缺。",
+          "boundary_left": "運不利，有勞碌，風波，終可小富，平常之人也」，若否，則應如何推論？\n\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 201,
+          "right_ordinal": 202,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 474,
+          "left_pages": [
+            212
+          ],
+          "right_pages": [
+            212
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 202,
+          "right_ordinal": 203,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            212
+          ],
+          "right_pages": [
+            213
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 203,
+          "right_ordinal": 204,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            213
+          ],
+          "right_pages": [
+            214
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 204,
+          "right_ordinal": 205,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 417,
+          "left_pages": [
+            214
+          ],
+          "right_pages": [
+            214,
+            215
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 205,
+          "right_ordinal": 206,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 294,
+          "left_pages": [
+            214,
+            215
+          ],
+          "right_pages": [
+            215,
+            216
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "因命身格局及後插盤；福星居戌弱地成就缺字與盤十九引用不符保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": [
+        {
+          "issue_id": "S4-G077-B1714",
+          "severity": "blocking_segmentation",
+          "boundary": 1714,
+          "description": "因命身格局及／行限的考量被盤圖隔開，1714切點仍在同一句內。",
+          "recommended_segments_replacing_3_4": [
+            {
+              "span": [
+                1089,
+                1957
+              ],
+              "estimated_tokens": 822,
+              "reason": "整個花非花命例及註十六"
+            },
+            {
+              "span": [
+                1957,
+                2141
+              ],
+              "estimated_tokens": 184,
+              "reason": "寅申同梁新賦文，獨立短題"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "G078",
+      "text_sha256": "f7f3feebfe9af64a7f9af589d4394c04ea346f88e297cde62592d3f4168b3392",
+      "group_file_sha256": "8fb93f6e6f4bad6c60869e4b82438cffcd78c285c7c6be87748b79b868300602",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            784
+          ],
+          "estimated_tokens": 739,
+          "outcome": "accept",
+          "semantic_assessment": "己年同梁寅命例、行限及盤十九",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "同梁在寅，丁年生人，祿存坐入事業宮（盤二十）。丁年生人，太陰化祿、天同"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            784,
+            1241
+          ],
+          "estimated_tokens": 455,
+          "outcome": "accept",
+          "semantic_assessment": "丁年與壬年同梁寅命例條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "\n\n發作用，僅主辛勞。故同梁在寅坐命，己年生人，是一財官雙美的命格。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 207,
+          "right_ordinal": 208,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 211,
+          "left_pages": [
+            217,
+            218
+          ],
+          "right_pages": [
+            218,
+            219
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "激/發之間插入盤十九，保留原順序。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G079",
+      "text_sha256": "d699816acadc43f06d9269dbc6c43aba91e359c7da2ea9f8e0fe86f60f7451fb",
+      "group_file_sha256": "0b91d0c28c8545aef6beec83fda43a1beba3f30d2a83310547631801c6a3b45c",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            462
+          ],
+          "estimated_tokens": 387,
+          "outcome": "accept",
+          "semantic_assessment": "盤二十與二十一混排圖說",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "甲辰限，太陽化忌，辰宮成忌煞交沖，因正值青壯年，只要不構成凶格，加上下"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            462,
+            951
+          ],
+          "estimated_tokens": 486,
+          "outcome": "accept",
+          "semantic_assessment": "壬年行限財宅與暗合補充",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "14-23巳田宅34-43辰福德24-33寅命宮 4-13癸乙甲壬\n\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 209,
+          "right_ordinal": 210,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 222,
+          "left_pages": [
+            220,
+            221
+          ],
+          "right_pages": [
+            221,
+            222
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 210,
+          "right_ordinal": 211,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 489,
+          "left_pages": [
+            221,
+            222
+          ],
+          "right_pages": [
+            222
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "田宅巳亥指稱矛盾與章名/命盤混排保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G080",
+      "text_sha256": "91846892dc0643f3eaf8e527d8c7f5806a8dc0305188b41664a7d4ea0f6a4a83",
+      "group_file_sha256": "eae9e9866fa80e27b9f77de872bb28281f74fa6a3dec136715c8dba11a27eddd",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            373
+          ],
+          "estimated_tokens": 372,
+          "outcome": "accept",
+          "semantic_assessment": "田宅巳宮原理及寅宮三年份總結",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "同梁在申，丙年生人，祿存坐入巳宮（盤二十二）。丙年生人，天同化祿、天機"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            373,
+            971
+          ],
+          "estimated_tokens": 558,
+          "outcome": "accept",
+          "semantic_assessment": "同梁申丙年命例、盤二十二與田宅財利比較",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "行限間有化忌沖命宮及事業宮，對命格的「貴」有所減損，只能以「富」論。\n",
+          "boundary_right": "若再細查限運，行限對命宮及事業宮不造成連祿，且間有化忌來沖，對命格的「"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            971,
+            1266
+          ],
+          "estimated_tokens": 294,
+          "outcome": "accept",
+          "semantic_assessment": "同梁申丙年行限、財富條件及明暗祿定義",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "因空宮對吉的感應力弱而對凶的抵抗力亦弱，故先天田宅亥宮在此不以好論。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 212,
+          "right_ordinal": 213,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 274,
+          "left_pages": [
+            223,
+            224
+          ],
+          "right_pages": [
+            224,
+            225
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "寅壬/年生人之間插入盤二十二，未移除。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G081",
+      "text_sha256": "79029c3ee38b81afdf33ad8d6e7f9d2e159ce9c7c80f5a798cbf96cc7404fe53",
+      "group_file_sha256": "aeadaa27d19538dbf52b2266f012611c16f04e1a34fce3686e825c517d33dc71",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            788
+          ],
+          "estimated_tokens": 715,
+          "outcome": "accept",
+          "semantic_assessment": "丁己年同梁申命例與盤二十三",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 214,
+          "right_ordinal": 215,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 514,
+          "left_pages": [
+            226
+          ],
+          "right_pages": [
+            226,
+            227
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "末尾書店廣告URL與QQ保留，未授權此步刪除。"
+      ],
+      "additional_nonblocking_findings": [
+        "廣告網址與QQ確有保留並已登疑點，僅文字審查未訪問或採信。"
+      ],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G082",
+      "text_sha256": "557caa99f4bf55e8bb875a2976f9e15e19085fe37b6b614361a175194f19d96b",
+      "group_file_sha256": "21739e9b51c1578e8b1b8aea9be66c4a6a55f51d3875a15a4ee3c93abb656a35",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            665
+          ],
+          "estimated_tokens": 629,
+          "outcome": "accept",
+          "semantic_assessment": "盤二十四、己年同梁申行限及三年對照",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 216,
+          "right_ordinal": 217,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 182,
+          "left_pages": [
+            228
+          ],
+          "right_pages": [
+            228,
+            229
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G083",
+      "text_sha256": "eef6d58d2a129f76c9225ce5f2e49d4f609a937c60d5f12c7032618da906f345",
+      "group_file_sha256": "c22e006de003d7173f4db3791bb956c000c438a4c2ebee9fe33d39239a6ce1df",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            685
+          ],
+          "estimated_tokens": 680,
+          "outcome": "accept",
+          "semantic_assessment": "空位古賦、天機天同與空劫作用",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "在斗數命理，命宮有空劫坐守者或為「機月同梁」格（命身合會有天機、天梁、"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            685,
+            1109
+          ],
+          "estimated_tokens": 422,
+          "outcome": "accept",
+          "semantic_assessment": "宗教興趣條件及盤二十五示例",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "更加重天機在親情方面的孤剋現象及天同的勞碌、無法享福及與人寡合現象。\n",
+          "boundary_right": "先賢曰：「女命天同，必是賢。」先賢對之有註解如下：「福星主靜與安享，故"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            1109,
+            1935
+          ],
+          "estimated_tokens": 816,
+          "outcome": "accept",
+          "semantic_assessment": "女命賦引文、貧賤古今觀及混排盤二十五",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "此大限就可能突然對宗教產生濃厚的興趣，甚至變成對宗教有很虔誠的信仰。\n",
+          "boundary_right": "關於女命天同在巳、亥、酉、丑、未諸宮的命理現象，請見前面的解說，就不再"
+        },
+        {
+          "segment_index": 4,
+          "span": [
+            1935,
+            2148
+          ],
+          "estimated_tokens": 211,
+          "outcome": "accept",
+          "semantic_assessment": "女命分宮解說引介及同梁寅甲年限運",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "一種情況，除必須視實際星曜組合外，尚須輸入父母生年資料，始能推論之。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 218,
+          "right_ordinal": 219,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            230
+          ],
+          "right_pages": [
+            231
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 219,
+          "right_ordinal": 220,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 574,
+          "left_pages": [
+            231
+          ],
+          "right_pages": [
+            231
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 220,
+          "right_ordinal": 221,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            231
+          ],
+          "right_pages": [
+            232,
+            233
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 221,
+          "right_ordinal": 222,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 188,
+          "left_pages": [
+            232,
+            233
+          ],
+          "right_pages": [
+            233,
+            234
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "在古代句中插盤二十五，未按意義移動。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G084",
+      "text_sha256": "af1182d1de7ca950502b1f6e5f144c4963dbadbf0de4b98eb4840f2f7ab22ac6",
+      "group_file_sha256": "6ad4113fcc708d30224dbd7dfad33903ba10661adcbc955ae02d62d9a9679479",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            736
+          ],
+          "estimated_tokens": 694,
+          "outcome": "accept",
+          "semantic_assessment": "盤二十六女命限運與卯宮辛年引介",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 223,
+          "right_ordinal": 224,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 205,
+          "left_pages": [
+            235
+          ],
+          "right_pages": [
+            235,
+            236
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "末尾事業宮吉化未完，未知鄰接不強接。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G085",
+      "text_sha256": "0a2a33e1fd3c7a718abd45cb097b0cfd9e3d526119d601b485016680e3b2e0d5",
+      "group_file_sha256": "a12d7876282dca0f27f43e9bc3206843a9bb4b27428e3f46294b7055a4e71a41",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            633
+          ],
+          "estimated_tokens": 593,
+          "outcome": "accept",
+          "semantic_assessment": "盤二十七及女命卯宮辛年行限",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 225,
+          "right_ordinal": 226,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 188,
+          "left_pages": [
+            237
+          ],
+          "right_pages": [
+            237,
+            238
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [
+        "圖說「財利無處」與 G086 正文「財利無虞」用詞差異，原 OCR 疑點保留，不在 S4 修字。"
+      ],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G086",
+      "text_sha256": "180a4444d13b323f8e5caf73e60efd6e1c78cc277349c7ebee60b8375185bedb",
+      "group_file_sha256": "4a554a416d9468b3ee94203a870b684b8e64cc2b599852221997104250ad5f98",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            716
+          ],
+          "estimated_tokens": 674,
+          "outcome": "accept",
+          "semantic_assessment": "卯宮總結與子宮丁年完整命例、盤二十八",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "同陰子，癸年生人，祿存入命（盤二十九）。同陰在子，祿存同宮，不但對命格"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            716,
+            1219
+          ],
+          "estimated_tokens": 500,
+          "outcome": "accept",
+          "semantic_assessment": "子宮癸年與丑宮癸年婚姻條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "人，但是否具此命格者，就一定能以「富貴」論之？若否，則該如何推論。\n\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 227,
+          "right_ordinal": 228,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 255,
+          "left_pages": [
+            239,
+            240
+          ],
+          "right_pages": [
+            240,
+            241
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "末尾夫妻宮均殘句未補。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G087",
+      "text_sha256": "fe27731ec0d5beb8bff43649ad328a60c9731103ba90a576c3b307219ae0b181",
+      "group_file_sha256": "9de67bdcb76d00bd441c74de9600af2b7dc04114601a47977fa0b1e5b772a1af",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            439
+          ],
+          "estimated_tokens": 373,
+          "outcome": "accept",
+          "semantic_assessment": "盤二十九與三十兩女命比較混排",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 229,
+          "right_ordinal": 230,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 224,
+          "left_pages": [
+            242
+          ],
+          "right_pages": [
+            242,
+            243
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "兩盤混排不重建欄位。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G088",
+      "text_sha256": "e9662021ecbf884071ac5330dba4274aee079115f7e9d83d221febe1af7fe292",
+      "group_file_sha256": "3e4fbf5dc7fcbf8f49055a6fe988a2fbb04b8c8ede8789acc3fe7c7c3d90df04",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            475
+          ],
+          "estimated_tokens": 470,
+          "outcome": "accept",
+          "semantic_assessment": "女命巨同丑行限凶吉及晚景條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首句缺條件前項；婚第五章天同末尾夾斷。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G089",
+      "text_sha256": "4ea53d849ae8d9d1a76302c7de6c565c4c19485e277a223ee303621bfa88f3b2",
+      "group_file_sha256": "385af282753ad00ae11bda013fba58c2f6e72012f88fc7d981115c3ba58eda5a",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            503
+          ],
+          "estimated_tokens": 500,
+          "outcome": "accept",
+          "semantic_assessment": "晚年與子嗣條件、諸女命總結及注二十",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "先賢曰：「同月陷宮加煞忌，技藝羸黃。」《全書，諸星在命身及十二宮吉凶要"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            503,
+            996
+          ],
+          "estimated_tokens": 493,
+          "outcome": "accept",
+          "semantic_assessment": "同月陷宮引文及職業適應、健康條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "兵，居戌亦為美論」格局中「機梁在辰坐命，癸年生人」走到癸亥限的析論。\n",
+          "boundary_right": "前曾提及，同陰在午為弱陷，若再見忌煞，除會破壞天同福星的享福作用（此時"
+        },
+        {
+          "segment_index": 3,
+          "span": [
+            996,
+            1460
+          ],
+          "estimated_tokens": 461,
+          "outcome": "accept",
+          "semantic_assessment": "同陰午辛勞與福德生活觀、古賦結論",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "，一個人的健康問題，必須輸入父母的生年資料，才能確定會否生何種疾病。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 232,
+          "right_ordinal": 233,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 487,
+          "left_pages": [
+            245
+          ],
+          "right_pages": [
+            245
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 233,
+          "right_ordinal": 234,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            245
+          ],
+          "right_pages": [
+            246
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 234,
+          "right_ordinal": 235,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            246
+          ],
+          "right_pages": [
+            247
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 235,
+          "right_ordinal": 236,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 487,
+          "left_pages": [
+            247
+          ],
+          "right_pages": [
+            247
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首姻狀況殘詞保留；性別價值判斷為原作觀點。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G090",
+      "text_sha256": "c1ae59c9f0bbd5527ee6f4633dff5f8727635bd2917ae6dbe813268586704b84",
+      "group_file_sha256": "982a66893b5013dd5a3335b1b7f6b4b5d71cd58c76d7eee7e909ad6663210398",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            486
+          ],
+          "estimated_tokens": 483,
+          "outcome": "accept",
+          "semantic_assessment": "分地同陰健康條件及會吉壽元長辨析",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "延年益番等疑字及章名保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G091",
+      "text_sha256": "4126d14a6f449106abac945ef2fa94230a34de284b8a1f38025677d72e8a42b7",
+      "group_file_sha256": "ae3090442f7b6434d613cef69751a595c2b4998e2900fa4a5f115b9370f8aa36",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            739
+          ],
+          "estimated_tokens": 693,
+          "outcome": "accept",
+          "semantic_assessment": "土木工程師健康命例及盤三十一",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 238,
+          "right_ordinal": 239,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 329,
+          "left_pages": [
+            249,
+            250
+          ],
+          "right_pages": [
+            250
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "盤三十一混排與疾病命理僅原作記錄。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G092",
+      "text_sha256": "577f16a5172ef5155828a8582bcc1cec963f6b2fc143749bed632ec87d38ec60",
+      "group_file_sha256": "1143879593c1121232eb5bb86dcbac8be4bdb1b6d2d33116397716cd832bd625",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            216
+          ],
+          "estimated_tokens": 214,
+          "outcome": "accept",
+          "semantic_assessment": "土木工程師命例末段與凶格解釋",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "《全集，註解骨髓賦》曰：「子羽才能，巨宿同梁沖且合。」《全集，註解骨髓"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            216,
+            477
+          ],
+          "estimated_tokens": 261,
+          "outcome": "accept",
+          "semantic_assessment": "子羽才能格局完整引文",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "凶格，反主短命，故命造在戊子限因上述凶象，走完人生的旅程，英年早逝。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G093",
+      "text_sha256": "7739a7fa32d1e0404c3de8abef398433c382a3e19c1162937e1bd46a079db642",
+      "group_file_sha256": "3ad36407f2beeabb7d9c7ac8a4c3dad200a376205ee3839031320787d188c1f4",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            665
+          ],
+          "estimated_tokens": 659,
+          "outcome": "accept",
+          "semantic_assessment": "立命申三格局、身宮限運及盤三十二",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 241,
+          "right_ordinal": 242,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 498,
+          "left_pages": [
+            252
+          ],
+          "right_pages": [
+            252,
+            253
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G094",
+      "text_sha256": "b7331ea2255de19c8fc05a577442f7b891980a62b950a5dde12f8aad87be3537",
+      "group_file_sha256": "cc52811c472673f05c51c5b1a013c5243a15f608827d8a494b3e1914aec1b14f",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            685
+          ],
+          "estimated_tokens": 678,
+          "outcome": "accept",
+          "semantic_assessment": "立命寅對照、職業說法限定及盤三十三",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G095",
+      "text_sha256": "df92ff4ec9cf5e7c75c98854986a9da330d7944b61f166e3fbfdcce65d7b59da",
+      "group_file_sha256": "74e71ba6dc1d424cd527536516a941d6f6c1ed9f735d76c8753fd7a04ed4d930",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            183
+          ],
+          "estimated_tokens": 150,
+          "outcome": "accept",
+          "semantic_assessment": "服務業補述及子羽出處注",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "生年及來源URL損壞保留，不聯網補字。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G096",
+      "text_sha256": "05a2c0dc332366af1a45eebdbb4dbf94c96d0e37850c34818fcdc9e6b5aa6f0c",
+      "group_file_sha256": "c8eb05b8ae04b3943926f3f205e1c8772837581053659e3cace7d1b97a617a84",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            700
+          ],
+          "estimated_tokens": 693,
+          "outcome": "accept",
+          "semantic_assessment": "第六章廉貞章導言，保留整體論題路線",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G097",
+      "text_sha256": "9a1e151967090642b45f20a156238c98bbb43964b5066fb9f122ddb8cc101e7a",
+      "group_file_sha256": "da95932350b1355a18d27157fe593ade3ddd3cd7b5ff92ef04eb272a7142a5c4",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            719
+          ],
+          "estimated_tokens": 715,
+          "outcome": "accept",
+          "semantic_assessment": "廉貞品秩權令與囚星定義和吉凶條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "前已述及，甲級桃花星有貪狼、廉貞、太陽及太陰，而丙級桃花星則有紅鸞、天"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            719,
+            932
+          ],
+          "estimated_tokens": 213,
+          "outcome": "accept",
+          "semantic_assessment": "廉貞次桃花名稱及作用條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "皆與廉貞有關。例如，廉貞坐命吉旺者，為人信守承諾，相反則是毫無信用。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 246,
+          "right_ordinal": 247,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            260
+          ],
+          "right_pages": [
+            261
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G098",
+      "text_sha256": "d82c86f5a2e902a937e512019056bc930173ddec5a125aad027c8674d3f25271",
+      "group_file_sha256": "94c075bde34a89060c57f160dc5a7df474fa3409d4f98a0374b0fc78bc5076df",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            600
+          ],
+          "estimated_tokens": 597,
+          "outcome": "accept",
+          "semantic_assessment": "廉貞外貌各說、術語解說及不可據斷限制",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "在紫微星部份曾提及，在論及人之個性，除須從星曜賦性著手外，亦不可忽略陰"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            600,
+            990
+          ],
+          "estimated_tokens": 389,
+          "outcome": "accept",
+          "semantic_assessment": "陰火性格與十二宮組合引介殘段",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "際命盤的星曜組合，同時還要輸入父母的生年太歲資料，才能做確切的描述。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 248,
+          "right_ordinal": 249,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 494,
+          "left_pages": [
+            262
+          ],
+          "right_pages": [
+            262
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 249,
+          "right_ordinal": 250,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            262
+          ],
+          "right_pages": [
+            263
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "末尾皆主動未完列舉，原頁263至265缺口使下組不可強拼。"
+      ],
+      "additional_nonblocking_findings": [
+        "組末未完枚舉與 G099 起首分號間原頁263→265有缺口，維持分組是保守合規，未因語義像續句而強接。"
+      ],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G099",
+      "text_sha256": "8ed6c49cbb8cd3d8b449845a1334da7b637b708ca70bd6640c8c43e9ea3c489d",
+      "group_file_sha256": "304daa315d2646a65527ac5551102d5cc5d83072daf907af6e4881a7d7e3c2fa",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            736
+          ],
+          "estimated_tokens": 734,
+          "outcome": "accept",
+          "semantic_assessment": "宮位主動及陰火北斗個性、禮義條件",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "最後，要談到廉貞坐命者會否「能言善辯」一事。廉貞坐命者，一般說來，自我"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            736,
+            1505
+          ],
+          "estimated_tokens": 766,
+          "outcome": "accept",
+          "semantic_assessment": "能言善辯與企管家命例的正反作用",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "義」。至於廉貞陷宮坐命逢煞者，為人是否會「性狠」部份，將於後再解說。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 251,
+          "right_ordinal": 252,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            265
+          ],
+          "right_pages": [
+            266
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        },
+        {
+          "left_ordinal": 252,
+          "right_ordinal": 253,
+          "outcome": "accept",
+          "relation": "identical_overlap",
+          "overlap_chars": 455,
+          "left_pages": [
+            266
+          ],
+          "right_pages": [
+            266
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        },
+        {
+          "left_ordinal": 253,
+          "right_ordinal": 254,
+          "outcome": "accept",
+          "relation": "fragment_continuation",
+          "overlap_chars": 0,
+          "left_pages": [
+            266
+          ],
+          "right_pages": [
+            267
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "已讀完整組及此斷詞/未完句尾首，直接續接；原頁碼未見缺口或先後衝突，頁碼僅限制而非證據。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "首分號為承前殘段；企管家題名疑字保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    },
+    {
+      "group_id": "G100",
+      "text_sha256": "4744465219666872402e3672570a885c048e7e357649e067fd49afd865c3b2bf",
+      "group_file_sha256": "566f1fbb434221ae0ef56046847ae217dbc9a001dca76d06860c4920bc4b1354",
+      "outcome": "accept",
+      "segments": [
+        {
+          "segment_index": 1,
+          "span": [
+            0,
+            418
+          ],
+          "estimated_tokens": 375,
+          "outcome": "accept",
+          "semantic_assessment": "盤二企管家混排及注一二",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "",
+          "boundary_right": "先賢曰：「最喜天相同度，以制其惡，再逢帝座，可掌權威，逢祿存亦主富足。"
+        },
+        {
+          "segment_index": 2,
+          "span": [
+            418,
+            750
+          ],
+          "estimated_tokens": 332,
+          "outcome": "accept",
+          "semantic_assessment": "天相制惡引文及星曜生剋吉凶定義",
+          "reason": "已逐文核此段，內部論斷與條件效應未被此邊界截斷；原有碎片/圖文不據意重排。",
+          "boundary_left": "一年再由武陵出版社出版）書中「企管專家-他為什麽不能學以致用」一文。\n",
+          "boundary_right": ""
+        }
+      ],
+      "joins": [
+        {
+          "left_ordinal": 255,
+          "right_ordinal": 256,
+          "outcome": "accept",
+          "relation": "suffix_prefix_overlap",
+          "overlap_chars": 444,
+          "left_pages": [
+            268,
+            269
+          ],
+          "right_pages": [
+            269
+          ],
+          "page_gap": false,
+          "page_order_conflict": false,
+          "index_consecutive": true,
+          "reason": "逐字重疊經原03獨立重算；只接受同文本映射，不證明恢復原書。"
+        }
+      ],
+      "structural_checks": {
+        "full_nonoverlap_coverage": true,
+        "token_formula": true,
+        "under_hard_cap": true,
+        "source_mappings_exact": true,
+        "no_inserted_or_deleted_text": true,
+        "no_cross_group_merge": true
+      },
+      "inherited_unresolved_preserved": [
+        "盤二混排與產裂疑字保留。"
+      ],
+      "additional_nonblocking_findings": [],
+      "blocking_issues": []
+    }
+  ],
+  "summary": {
+    "groups": 50,
+    "accepted_groups": 49,
+    "returned_groups": 1,
+    "segments": 91,
+    "returned_segments": 2,
+    "joins_checked": 84,
+    "blocking_issues": 1
+  },
+  "note": "Only review report written; proposal/group/official outputs untouched. Report is model independent review, not human acceptance."
+}
