@@ -1,0 +1,4783 @@
+{
+  "step": "S1_clean",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "02_working_inputs/ziwei_073.jsonl",
+      "sha256": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+      "bytes": 697213
+    },
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "image_links/ziwei_073.json",
+      "sha256": "15528d2a920cd3156bf185971d7ff673daa47a9b94bb42537d28759e36dd883e",
+      "bytes": 163
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "f3e46bfa74ee3fba11e898108c606d150c80b11bf894da737f9fb4e5735abd7c",
+      "bytes": 386808
+    }
+  ],
+  "output_files": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    }
+  ],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T05:47:37.533632+00:00",
+  "completed_at": "2026-11-17T05:47:37.533632+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 380,
+  "output_count": 380,
+  "changes": [
+    {
+      "change_id": "Z073_S1_U0001_01",
+      "category": "punctuation",
+      "span": [
+        38,
+        45
+      ],
+      "before": "第四章武曲武曲",
+      "after": "第四章武曲\n武曲",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "章題第四章武曲後以武曲為主語開啟首句，僅增換行",
+      "unit_id": "ziwei_073_u0001",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c001",
+        "old_index": 1,
+        "object_ordinal": 1,
+        "line_span": [
+          1,
+          1
+        ],
+        "span": [
+          0,
+          591
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0002_01",
+      "category": "punctuation",
+      "span": [
+        38,
+        45
+      ],
+      "before": "基本賦性先賢曰",
+      "after": "基本賦性\n先賢曰",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "小標基本賦性後為明確引用句先賢曰",
+      "unit_id": "ziwei_073_u0002",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c002",
+        "old_index": 2,
+        "object_ordinal": 2,
+        "line_span": [
+          2,
+          2
+        ],
+        "span": [
+          0,
+          437
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0003_01",
+      "category": "punctuation",
+      "span": [
+        502,
+        513
+      ],
+      "before": "武曲之「將星」作用有關",
+      "after": "武曲之「將星」作用\n有關",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "小標後有關武曲為將星的說法開啟新句",
+      "unit_id": "ziwei_073_u0003",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c003",
+        "old_index": 3,
+        "object_ordinal": 3,
+        "line_span": [
+          3,
+          3
+        ],
+        "span": [
+          0,
+          549
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0010_02",
+      "category": "punctuation",
+      "span": [
+        219,
+        230
+      ],
+      "before": "武曲火星為寡宿凶格前已",
+      "after": "武曲火星為寡宿凶格\n前已",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "凶格為小標，前已一再提及是下文句首",
+      "unit_id": "ziwei_073_u0010",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c010",
+        "old_index": 10,
+        "object_ordinal": 10,
+        "line_span": [
+          10,
+          10
+        ],
+        "span": [
+          0,
+          534
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0012_02",
+      "category": "punctuation",
+      "span": [
+        313,
+        327
+      ],
+      "before": "命例-一個挨揍的女強人為增進",
+      "after": "命例-一個挨揍的女強人\n為增進",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "命例標題與為增進讀者說明句分離",
+      "unit_id": "ziwei_073_u0012",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c012",
+        "old_index": 12,
+        "object_ordinal": 12,
+        "line_span": [
+          12,
+          12
+        ],
+        "span": [
+          0,
+          518
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0013_02",
+      "category": "punctuation",
+      "span": [
+        317,
+        331
+      ],
+      "before": "命例-一個挨揍的女強人為增進",
+      "after": "命例-一個挨揍的女強人\n為增進",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "命例標題與說明句分離",
+      "unit_id": "ziwei_073_u0013",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c013",
+        "old_index": 13,
+        "object_ordinal": 13,
+        "line_span": [
+          13,
+          13
+        ],
+        "span": [
+          0,
+          522
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0037_01",
+      "category": "punctuation",
+      "span": [
+        407,
+        412
+      ],
+      "before": "拘繫ヽ禁錮",
+      "after": "拘繫、禁錮",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "拘繫與禁錮為並列釋義，ヽ不是此中文列表的有效標點",
+      "unit_id": "ziwei_073_u0037",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c037",
+        "old_index": 37,
+        "object_ordinal": 37,
+        "line_span": [
+          37,
+          37
+        ],
+        "span": [
+          0,
+          483
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0040_01",
+      "category": "punctuation",
+      "span": [
+        258,
+        271
+      ],
+      "before": "命例-經營之神王永慶為加強",
+      "after": "命例-經營之神王永慶\n為加強",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "命例標題後為加強讀者是下文句首",
+      "unit_id": "ziwei_073_u0040",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c040",
+        "old_index": 40,
+        "object_ordinal": 40,
+        "line_span": [
+          40,
+          40
+        ],
+        "span": [
+          0,
+          713
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "Z073_S1_U0050_01",
+      "category": "punctuation",
+      "span": [
+        146,
+        152
+      ],
+      "before": "氣喘ヽ鼻竇炎",
+      "after": "氣喘、鼻竇炎",
+      "reason": "有單元內或明確同引文證據的OCR/排版修復",
+      "evidence": "疾病並列列表中ヽ為異常迭字符，改中文頓號",
+      "unit_id": "ziwei_073_u0050",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c050",
+        "old_index": 50,
+        "object_ordinal": 50,
+        "line_span": [
+          50,
+          50
+        ],
+        "span": [
+          0,
+          563
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0054_01",
+      "span": [
+        48,
+        48
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "標題與正文分段",
+      "evidence": "格局與理論命盤先賢曰",
+      "unit_id": "ziwei_073_u0054",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c054",
+        "old_index": 54,
+        "object_ordinal": 54,
+        "line_span": [
+          54,
+          54
+        ],
+        "span": [
+          0,
+          450
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0056_01",
+      "span": [
+        46,
+        47
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "--\n人個性伶俐ヽ反應快，但因星曜",
+      "unit_id": "ziwei_073_u0056",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c056",
+        "old_index": 56,
+        "object_ordinal": 56,
+        "line_span": [
+          56,
+          56
+        ],
+        "span": [
+          0,
+          558
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0057_01",
+      "span": [
+        48,
+        49
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "--\n人個性伶俐ヽ反應快，但因星曜",
+      "unit_id": "ziwei_073_u0057",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c057",
+        "old_index": 57,
+        "object_ordinal": 57,
+        "line_span": [
+          57,
+          57
+        ],
+        "span": [
+          0,
+          560
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0063_01",
+      "span": [
+        587,
+        588
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "「殺破狼」主變動ヽ開創的作用，而須",
+      "unit_id": "ziwei_073_u0063",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c063",
+        "old_index": 63,
+        "object_ordinal": 63,
+        "line_span": [
+          63,
+          63
+        ],
+        "span": [
+          0,
+          798
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0065_01",
+      "span": [
+        371,
+        372
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "「殺破狼」主變動ヽ開創的作用，而須",
+      "unit_id": "ziwei_073_u0065",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c065",
+        "old_index": 65,
+        "object_ordinal": 65,
+        "line_span": [
+          65,
+          65
+        ],
+        "span": [
+          0,
+          582
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        71,
+        72
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "，必須看福德宮的旺弱吉凶°福德宮的作用除和一個人聚財",
+      "change_id": "s1_u0075_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c075",
+        "old_index": 75,
+        "object_ordinal": 75,
+        "line_span": [
+          75,
+          75
+        ],
+        "span": [
+          0,
+          580
+        ]
+      },
+      "unit_id": "ziwei_073_u0075",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        109,
+        110
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "映出一個人物質享受的豐缺°通常福德宮不好的人，自己較",
+      "change_id": "s1_u0075_02",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c075",
+        "old_index": 75,
+        "object_ordinal": 75,
+        "line_span": [
+          75,
+          75
+        ],
+        "span": [
+          0,
+          580
+        ]
+      },
+      "unit_id": "ziwei_073_u0075",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        226,
+        227
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "宮位。故綜合命宮、事業宮ヽ財帛宮及福德宮來看，只要行",
+      "change_id": "s1_u0077_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c077",
+        "old_index": 77,
+        "object_ordinal": 77,
+        "line_span": [
+          77,
+          77
+        ],
+        "span": [
+          0,
+          832
+        ]
+      },
+      "unit_id": "ziwei_073_u0077",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        275,
+        276
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "命理作用，有過詳盡的解說°簡單來說，遷移宮不但是作為",
+      "change_id": "s1_u0084_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c084",
+        "old_index": 84,
+        "object_ordinal": 84,
+        "line_span": [
+          84,
+          84
+        ],
+        "span": [
+          0,
+          583
+        ]
+      },
+      "unit_id": "ziwei_073_u0084",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        314,
+        315
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "羊同踞，但也是個坐會輔弼ヽ魁鉞及文曲五個吉星的「紫府",
+      "change_id": "s1_u0085_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c085",
+        "old_index": 85,
+        "object_ordinal": 85,
+        "line_span": [
+          85,
+          85
+        ],
+        "span": [
+          0,
+          562
+        ]
+      },
+      "unit_id": "ziwei_073_u0085",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        257,
+        257
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "命例-一個中小企業的佼佼者林老板",
+      "change_id": "s1_u0100_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c100",
+        "old_index": 100,
+        "object_ordinal": 100,
+        "line_span": [
+          100,
+          100
+        ],
+        "span": [
+          0,
+          495
+        ]
+      },
+      "unit_id": "ziwei_073_u0100",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        253,
+        253
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "命例-一個中小企業的佼佼者林老板",
+      "change_id": "s1_u0101_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c101",
+        "old_index": 101,
+        "object_ordinal": 101,
+        "line_span": [
+          101,
+          101
+        ],
+        "span": [
+          0,
+          491
+        ]
+      },
+      "unit_id": "ziwei_073_u0101",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        129,
+        129
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "命例-家電火亨王董事長",
+      "change_id": "s1_u0105_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c105",
+        "old_index": 105,
+        "object_ordinal": 105,
+        "line_span": [
+          105,
+          105
+        ],
+        "span": [
+          0,
+          551
+        ]
+      },
+      "unit_id": "ziwei_073_u0105",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        414,
+        414
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "白虎的命理作用白虎與",
+      "change_id": "s1_u0114_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c114",
+        "old_index": 114,
+        "object_ordinal": 114,
+        "line_span": [
+          114,
+          114
+        ],
+        "span": [
+          0,
+          722
+        ]
+      },
+      "unit_id": "ziwei_073_u0114",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        44,
+        44
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "第五章 天同天同陽水",
+      "change_id": "s1_u0122_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c122",
+        "old_index": 122,
+        "object_ordinal": 122,
+        "line_span": [
+          122,
+          122
+        ],
+        "span": [
+          0,
+          760
+        ]
+      },
+      "unit_id": "ziwei_073_u0122",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        49,
+        49
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "基本賦性先賢曰",
+      "change_id": "s1_u0123_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c123",
+        "old_index": 123,
+        "object_ordinal": 123,
+        "line_span": [
+          123,
+          123
+        ],
+        "span": [
+          0,
+          469
+        ]
+      },
+      "unit_id": "ziwei_073_u0123",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        111,
+        112
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "、變化，「激亢」係指激動ヽ衝動。\n《全書，諸星在命身",
+      "change_id": "s1_u0128_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c128",
+        "old_index": 128,
+        "object_ordinal": 128,
+        "line_span": [
+          128,
+          128
+        ],
+        "span": [
+          0,
+          521
+        ]
+      },
+      "unit_id": "ziwei_073_u0128",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        113,
+        114
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "、變化，「激亢」係指激動ヽ衝動。\n《全書，諸星在命身",
+      "change_id": "s1_u0129_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c129",
+        "old_index": 129,
+        "object_ordinal": 129,
+        "line_span": [
+          129,
+          129
+        ],
+        "span": [
+          0,
+          523
+        ]
+      },
+      "unit_id": "ziwei_073_u0129",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        123,
+        124
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "，因此往往會予人一種隨和ヽ謙遜的感覺。對一個性情溫和",
+      "change_id": "s1_u0130_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c130",
+        "old_index": 130,
+        "object_ordinal": 130,
+        "line_span": [
+          130,
+          130
+        ],
+        "span": [
+          0,
+          537
+        ]
+      },
+      "unit_id": "ziwei_073_u0130",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        440,
+        441
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "在環境變化的感覺相當敏銳°但同樣是對外在環境變化的感",
+      "change_id": "s1_u0130_02",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c130",
+        "old_index": 130,
+        "object_ordinal": 130,
+        "line_span": [
+          130,
+          130
+        ],
+        "span": [
+          0,
+          537
+        ]
+      },
+      "unit_id": "ziwei_073_u0130",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        124,
+        125
+      ],
+      "before": "ヽ",
+      "after": "、",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "，因此往往會予人一種隨和ヽ謙遜的感覺。對一個性情溫和",
+      "change_id": "s1_u0131_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c131",
+        "old_index": 131,
+        "object_ordinal": 131,
+        "line_span": [
+          131,
+          131
+        ],
+        "span": [
+          0,
+          538
+        ]
+      },
+      "unit_id": "ziwei_073_u0131",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        441,
+        442
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "在環境變化的感覺相當敏銳°但同樣是對外在環境變化的感",
+      "change_id": "s1_u0131_02",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c131",
+        "old_index": 131,
+        "object_ordinal": 131,
+        "line_span": [
+          131,
+          131
+        ],
+        "span": [
+          0,
+          538
+        ]
+      },
+      "unit_id": "ziwei_073_u0131",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        62,
+        63
+      ],
+      "before": "°",
+      "after": "。",
+      "reason": "完整敘述後句界的句號字形誤辨，非角度數值",
+      "evidence": "若是太過安逸，皆不以好論°惟須注意的是，這是傳統的觀",
+      "change_id": "s1_u0135_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c135",
+        "old_index": 135,
+        "object_ordinal": 135,
+        "line_span": [
+          135,
+          135
+        ],
+        "span": [
+          0,
+          750
+        ]
+      },
+      "unit_id": "ziwei_073_u0135",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        190,
+        190
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "大限走到天同坐守的現象在此必須",
+      "change_id": "s1_u0139_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c139",
+        "old_index": 139,
+        "object_ordinal": 139,
+        "line_span": [
+          139,
+          139
+        ],
+        "span": [
+          0,
+          503
+        ]
+      },
+      "unit_id": "ziwei_073_u0139",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        192,
+        192
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "大限走到天同坐守的現象在此必須",
+      "change_id": "s1_u0140_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c140",
+        "old_index": 140,
+        "object_ordinal": 140,
+        "line_span": [
+          140,
+          140
+        ],
+        "span": [
+          0,
+          717
+        ]
+      },
+      "unit_id": "ziwei_073_u0140",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        347,
+        347
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "蔭福聚不怕凶危秘經有云",
+      "change_id": "s1_u0145_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c145",
+        "old_index": 145,
+        "object_ordinal": 145,
+        "line_span": [
+          145,
+          145
+        ],
+        "span": [
+          0,
+          531
+        ]
+      },
+      "unit_id": "ziwei_073_u0145",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "span": [
+        345,
+        345
+      ],
+      "before": "",
+      "after": "\n",
+      "reason": "明確小節或命例標題與正文分段，保留標題全部原字",
+      "evidence": "蔭福聚不怕凶危秘經有云",
+      "change_id": "s1_u0146_01",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c146",
+        "old_index": 146,
+        "object_ordinal": 146,
+        "line_span": [
+          146,
+          146
+        ],
+        "span": [
+          0,
+          529
+        ]
+      },
+      "unit_id": "ziwei_073_u0146",
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0156_01",
+      "span": [
+        75,
+        88
+      ],
+      "before": "水星坐入沐浴地的命理特質在",
+      "after": "水星坐入沐浴地的命理特質\n在",
+      "reason": "標題與正文間缺分段",
+      "evidence": "在感情方面就不一定會有問題。\n水星坐入沐浴地的命理特質在天機星部分談到「機梁會合善談兵",
+      "unit_id": "ziwei_073_u0156",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c156",
+        "old_index": 156,
+        "object_ordinal": 156,
+        "line_span": [
+          156,
+          156
+        ],
+        "span": [
+          0,
+          486
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0157_01",
+      "span": [
+        130,
+        147
+      ],
+      "before": "（註五）女命天同在酉的命理現象天同",
+      "after": "（註五）\n女命天同在酉的命理現象\n天同",
+      "reason": "註記、標題和正文邊界清楚",
+      "evidence": "鉞，則不一定會有上述情事發生。（註五）女命天同在酉的命理現象天同在酉為平宮，但三方的巨門與太陰",
+      "unit_id": "ziwei_073_u0157",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c157",
+        "old_index": 157,
+        "object_ordinal": 157,
+        "line_span": [
+          157,
+          157
+        ],
+        "span": [
+          0,
+          496
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0158_01",
+      "span": [
+        130,
+        147
+      ],
+      "before": "（註五）女命天同在酉的命理現象天同",
+      "after": "（註五）\n女命天同在酉的命理現象\n天同",
+      "reason": "註記、標題和正文邊界清楚",
+      "evidence": "鉞，則不一定會有上述情事發生。（註五）女命天同在酉的命理現象天同在酉為平宮，但三方的巨門與太陰",
+      "unit_id": "ziwei_073_u0158",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c158",
+        "old_index": 158,
+        "object_ordinal": 158,
+        "line_span": [
+          158,
+          158
+        ],
+        "span": [
+          0,
+          496
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0159_01",
+      "span": [
+        151,
+        163
+      ],
+      "before": "女命同陰在午的命理現象又",
+      "after": "女命同陰在午的命理現象\n又",
+      "reason": "標題與正文分段",
+      "evidence": "實際星曜組合的會吉會煞而定。\n女命同陰在午的命理現象又，前面賦文在提到女命天同與太陰",
+      "unit_id": "ziwei_073_u0159",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c159",
+        "old_index": 159,
+        "object_ordinal": 159,
+        "line_span": [
+          159,
+          159
+        ],
+        "span": [
+          0,
+          525
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0160_01",
+      "span": [
+        188,
+        202
+      ],
+      "before": "女命天同在五未的命理現象天同",
+      "after": "女命天同在五未的命理現象\n天同",
+      "reason": "明確題文邊界分段，疑字保持",
+      "evidence": "，就很明顯易懂，就不再說明。\n女命天同在五未的命理現象天同巨門在丑未同宮，均為弱陷，三方",
+      "unit_id": "ziwei_073_u0160",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c160",
+        "old_index": 160,
+        "object_ordinal": 160,
+        "line_span": [
+          160,
+          160
+        ],
+        "span": [
+          0,
+          494
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0161_01",
+      "span": [
+        190,
+        204
+      ],
+      "before": "女命天同在五未的命理現象天同",
+      "after": "女命天同在五未的命理現象\n天同",
+      "reason": "明確題文邊界分段，疑字保持",
+      "evidence": "，就很明顯易懂，就不再說明。\n女命天同在五未的命理現象天同巨門在丑未同宮，均為弱陷，三方",
+      "unit_id": "ziwei_073_u0161",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c161",
+        "old_index": 161,
+        "object_ordinal": 161,
+        "line_span": [
+          161,
+          161
+        ],
+        "span": [
+          0,
+          496
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0162_01",
+      "span": [
+        405,
+        415
+      ],
+      "before": "命例-寧為單身貴族在",
+      "after": "命例-寧為單身貴族\n在",
+      "reason": "命例題文邊界分段",
+      "evidence": "了解，在此兹舉下列命例說明。\n命例-寧為單身貴族在天機星部份曾提及，斗數在論婚姻",
+      "unit_id": "ziwei_073_u0162",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c162",
+        "old_index": 162,
+        "object_ordinal": 162,
+        "line_span": [
+          162,
+          162
+        ],
+        "span": [
+          0,
+          452
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0166_01",
+      "span": [
+        336,
+        348
+      ],
+      "before": "太歲宮位的意義及作用由於",
+      "after": "太歲宮位的意義及作用\n由於",
+      "reason": "明確題文分段",
+      "evidence": "遂造成顏小姐過了四十仍未婚。\n太歲宮位的意義及作用由於太歲宮位在斗數論命扮演非常重要",
+      "unit_id": "ziwei_073_u0166",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c166",
+        "old_index": 166,
+        "object_ordinal": 166,
+        "line_span": [
+          166,
+          166
+        ],
+        "span": [
+          0,
+          503
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0167_01",
+      "span": [
+        339,
+        351
+      ],
+      "before": "太歲宮位的意義及作用由於",
+      "after": "太歲宮位的意義及作用\n由於",
+      "reason": "明確題文分段",
+      "evidence": "遂造成顏小姐過了四十仍未婚。\n太歲宮位的意義及作用由於太歲宮位在斗數論命扮演非常重要",
+      "unit_id": "ziwei_073_u0167",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c167",
+        "old_index": 167,
+        "object_ordinal": 167,
+        "line_span": [
+          167,
+          167
+        ],
+        "span": [
+          0,
+          506
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0176_01",
+      "span": [
+        154,
+        159
+      ],
+      "before": "臟腑ヽ組織",
+      "after": "臟腑、組織",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "身，以補充血液容量和滋養機體各臟腑ヽ組織器官外，並將臟腑組織代謝後的水",
+      "unit_id": "ziwei_073_u0176",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c176",
+        "old_index": 176,
+        "object_ordinal": 176,
+        "line_span": [
+          176,
+          176
+        ],
+        "span": [
+          0,
+          587
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0177_01",
+      "span": [
+        155,
+        160
+      ],
+      "before": "臟腑ヽ組織",
+      "after": "臟腑、組織",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "身，以補充血液容量和滋養機體各臟腑ヽ組織器官外，並將臟腑組織代謝後的水",
+      "unit_id": "ziwei_073_u0177",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c177",
+        "old_index": 177,
+        "object_ordinal": 177,
+        "line_span": [
+          177,
+          177
+        ],
+        "span": [
+          0,
+          588
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0182_01",
+      "span": [
+        44,
+        52
+      ],
+      "before": "命例-糖尿病若以",
+      "after": "命例-糖尿病\n若以",
+      "reason": "明確命例題文分段",
+      "evidence": "例：桃花迷失（續）。\n---\n命例-糖尿病若以盤十一的命例而言，命身同宮在酉",
+      "unit_id": "ziwei_073_u0182",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c182",
+        "old_index": 182,
+        "object_ordinal": 182,
+        "line_span": [
+          182,
+          182
+        ],
+        "span": [
+          0,
+          383
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0183_01",
+      "span": [
+        39,
+        47
+      ],
+      "before": "命例-糖尿病若以",
+      "after": "命例-糖尿病\n若以",
+      "reason": "明確命例題文分段",
+      "evidence": "·天同，寅申同梁格。\n---\n命例-糖尿病若以盤十一的命例而言，命身同宮在酉",
+      "unit_id": "ziwei_073_u0183",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c183",
+        "old_index": 183,
+        "object_ordinal": 183,
+        "line_span": [
+          183,
+          183
+        ],
+        "span": [
+          0,
+          761
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0184_01",
+      "span": [
+        39,
+        46
+      ],
+      "before": "命例-痛風例如",
+      "after": "命例-痛風\n例如",
+      "reason": "明確命例題文分段",
+      "evidence": "·天同，寅申同梁格。\n---\n命例-痛風例如盤十二的命例，同樣是天同坐入酉",
+      "unit_id": "ziwei_073_u0184",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c184",
+        "old_index": 184,
+        "object_ordinal": 184,
+        "line_span": [
+          184,
+          184
+        ],
+        "span": [
+          0,
+          433
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0185_01",
+      "span": [
+        42,
+        49
+      ],
+      "before": "命例-痛風例如",
+      "after": "命例-痛風\n例如",
+      "reason": "明確命例題文分段",
+      "evidence": "，寅申同梁格（續）。\n---\n命例-痛風例如盤十二的命例，同樣是天同坐入酉",
+      "unit_id": "ziwei_073_u0185",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c185",
+        "old_index": 185,
+        "object_ordinal": 185,
+        "line_span": [
+          185,
+          185
+        ],
+        "span": [
+          0,
+          838
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0192_01",
+      "span": [
+        42,
+        51
+      ],
+      "before": "格局與理論命盤先賢",
+      "after": "格局與理論命盤\n先賢",
+      "reason": "明確章內標題分段",
+      "evidence": "，女命天同陷宮婚姻。\n---\n格局與理論命盤先賢曰：「天同擎羊居午位，丙戊生人",
+      "unit_id": "ziwei_073_u0192",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c192",
+        "old_index": 192,
+        "object_ordinal": 192,
+        "line_span": [
+          192,
+          192
+        ],
+        "span": [
+          0,
+          504
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0193_01",
+      "span": [
+        205,
+        210
+      ],
+      "before": "邊疆ヽ榮華",
+      "after": "邊疆、榮華",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "煞為用，若在古代，從軍則能威震邊疆ヽ榮華顯貴，若在現代，則因鬥志強且企",
+      "unit_id": "ziwei_073_u0193",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c193",
+        "old_index": 193,
+        "object_ordinal": 193,
+        "line_span": [
+          193,
+          193
+        ],
+        "span": [
+          0,
+          535
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0194_01",
+      "span": [
+        206,
+        211
+      ],
+      "before": "邊疆ヽ榮華",
+      "after": "邊疆、榮華",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "煞為用，若在古代，從軍則能威震邊疆ヽ榮華顯貴，若在現代，則因鬥志強且企",
+      "unit_id": "ziwei_073_u0194",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c194",
+        "old_index": 194,
+        "object_ordinal": 194,
+        "line_span": [
+          194,
+          194
+        ],
+        "span": [
+          0,
+          536
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0204_01",
+      "span": [
+        134,
+        149
+      ],
+      "before": "命例-花非花，「桃花」的迷失在",
+      "after": "命例-花非花，「桃花」的迷失\n在",
+      "reason": "明確命例題文分段",
+      "evidence": "解，茲舉如下命例來加以說明。\n命例-花非花，「桃花」的迷失在紫微星的格局與理論命盤中曾提及",
+      "unit_id": "ziwei_073_u0204",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c204",
+        "old_index": 204,
+        "object_ordinal": 204,
+        "line_span": [
+          204,
+          204
+        ],
+        "span": [
+          0,
+          460
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0205_01",
+      "span": [
+        129,
+        144
+      ],
+      "before": "命例-花非花，「桃花」的迷失在",
+      "after": "命例-花非花，「桃花」的迷失\n在",
+      "reason": "明確命例題文分段",
+      "evidence": "解，茲舉如下命例來加以說明。\n命例-花非花，「桃花」的迷失在紫微星的格局與理論命盤中曾提及",
+      "unit_id": "ziwei_073_u0205",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c205",
+        "old_index": 205,
+        "object_ordinal": 205,
+        "line_span": [
+          205,
+          205
+        ],
+        "span": [
+          0,
+          751
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0218_01",
+      "span": [
+        255,
+        260
+      ],
+      "before": "地劫ヽ截路",
+      "after": "地劫、截路",
+      "reason": "列舉詞間頓號字形誤辨",
+      "evidence": "過入空門。」「空位」係指地空、地劫ヽ截路、空亡、旬空、旬亡，但作者論命",
+      "unit_id": "ziwei_073_u0218",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c218",
+        "old_index": 218,
+        "object_ordinal": 218,
+        "line_span": [
+          218,
+          218
+        ],
+        "span": [
+          0,
+          494
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0227_01",
+      "span": [
+        304,
+        310
+      ],
+      "before": "以吉論°然因",
+      "after": "以吉論。然因",
+      "reason": "完整論斷後轉折句之句號字形誤辨",
+      "evidence": "見到先天的祿星，就是有化祿來，以吉論°然因祿存在午獨坐遷移位，又有巨門化",
+      "unit_id": "ziwei_073_u0227",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c227",
+        "old_index": 227,
+        "object_ordinal": 227,
+        "line_span": [
+          227,
+          227
+        ],
+        "span": [
+          0,
+          757
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0234_01",
+      "span": [
+        506,
+        511
+      ],
+      "before": "技藝°惟須",
+      "after": "技藝。惟須",
+      "reason": "完整句後轉折語的句號字形誤辨",
+      "evidence": "體不太好，論到事業，則偏向學習技藝°惟須注意的是，一個人的健康問題，必",
+      "unit_id": "ziwei_073_u0234",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c234",
+        "old_index": 234,
+        "object_ordinal": 234,
+        "line_span": [
+          234,
+          234
+        ],
+        "span": [
+          0,
+          527
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0238_01",
+      "span": [
+        98,
+        110
+      ],
+      "before": "命例-土木工程師盤三十一",
+      "after": "命例-土木工程師\n盤三十一",
+      "reason": "明確命例題文分段",
+      "evidence": "解，茲舉如下命例來加以說明。\n命例-土木工程師盤三十一的命造在美國領有土木工程師的執",
+      "unit_id": "ziwei_073_u0238",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c238",
+        "old_index": 238,
+        "object_ordinal": 238,
+        "line_span": [
+          238,
+          238
+        ],
+        "span": [
+          0,
+          779
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0245_01",
+      "span": [
+        38,
+        46
+      ],
+      "before": "第六章 廉貞廉貞",
+      "after": "第六章 廉貞\n廉貞",
+      "reason": "明確章題與正文分段",
+      "evidence": "章·廉貞，章節導言。\n---\n第六章 廉貞廉貞司品秩與權令，又名囚宿，本文將",
+      "unit_id": "ziwei_073_u0245",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c245",
+        "old_index": 245,
+        "object_ordinal": 245,
+        "line_span": [
+          245,
+          245
+        ],
+        "span": [
+          0,
+          737
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0246_01",
+      "span": [
+        45,
+        51
+      ],
+      "before": "基本賦性先賢",
+      "after": "基本賦性\n先賢",
+      "reason": "明確節題與正文分段",
+      "evidence": "賦性：品秩權令囚宿。\n---\n基本賦性先賢曰：「廉貞陰火，北斗第五星，司",
+      "unit_id": "ziwei_073_u0246",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c246",
+        "old_index": 246,
+        "object_ordinal": 246,
+        "line_span": [
+          246,
+          246
+        ],
+        "span": [
+          0,
+          470
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0246_02",
+      "span": [
+        181,
+        186
+      ],
+      "before": "拘繫ヽ禁錮",
+      "after": "拘繫、禁錮",
+      "reason": "並列詞間頓號字形誤辨",
+      "evidence": "囚宿」或「囚星」，而「囚」者，拘繫ヽ禁錮是也。若廉貞坐入一個人的命宮或",
+      "unit_id": "ziwei_073_u0246",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c246",
+        "old_index": 246,
+        "object_ordinal": 246,
+        "line_span": [
+          246,
+          246
+        ],
+        "span": [
+          0,
+          470
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0248_01",
+      "span": [
+        485,
+        490
+      ],
+      "before": "原因°惟從",
+      "after": "原因。惟從",
+      "reason": "完整句後轉折語句號字形誤辨",
+      "evidence": "人少年面黃白色，老年紅黃色」的原因°惟從星曜五行所屬顏色，來論斷一個人",
+      "unit_id": "ziwei_073_u0248",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c248",
+        "old_index": 248,
+        "object_ordinal": 248,
+        "line_span": [
+          248,
+          248
+        ],
+        "span": [
+          0,
+          539
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0249_01",
+      "span": [
+        483,
+        488
+      ],
+      "before": "原因°惟從",
+      "after": "原因。惟從",
+      "reason": "完整句後轉折語句號字形誤辨",
+      "evidence": "人少年面黃白色，老年紅黃色」的原因°惟從星曜五行所屬顏色，來論斷一個人",
+      "unit_id": "ziwei_073_u0249",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c249",
+        "old_index": 249,
+        "object_ordinal": 249,
+        "line_span": [
+          249,
+          249
+        ],
+        "span": [
+          0,
+          537
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0251_01",
+      "span": [
+        502,
+        506
+      ],
+      "before": "原因°惟",
+      "after": "原因。惟",
+      "reason": "完整句末句號字形誤辨",
+      "evidence": "「為人性暴，好忿好爭」的原因°惟須注意的是，當廉貞化祿又",
+      "unit_id": "ziwei_073_u0251",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c251",
+        "old_index": 251,
+        "object_ordinal": 251,
+        "line_span": [
+          251,
+          251
+        ],
+        "span": [
+          0,
+          567
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0262_01",
+      "span": [
+        73,
+        78
+      ],
+      "before": "急躁ヽ情緒",
+      "after": "急躁、情緒",
+      "reason": "並列項分隔符誤辨",
+      "evidence": "凶為惡。即廉貞坐命者原本急躁ヽ情緒不穩、自我意識強的個性，",
+      "unit_id": "ziwei_073_u0262",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c262",
+        "old_index": 262,
+        "object_ordinal": 262,
+        "line_span": [
+          262,
+          262
+        ],
+        "span": [
+          0,
+          537
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0263_01",
+      "span": [
+        76,
+        81
+      ],
+      "before": "急躁ヽ情緒",
+      "after": "急躁、情緒",
+      "reason": "並列項分隔符誤辨",
+      "evidence": "凶為惡。即廉貞坐命者原本急躁ヽ情緒不穩、自我意識強的個性，",
+      "unit_id": "ziwei_073_u0263",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c263",
+        "old_index": 263,
+        "object_ordinal": 263,
+        "line_span": [
+          263,
+          263
+        ],
+        "span": [
+          0,
+          540
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0273_01",
+      "span": [
+        342,
+        347
+      ],
+      "before": "同宮°廉貞",
+      "after": "同宮。廉貞",
+      "reason": "完整句後句號字形誤辨",
+      "evidence": "有所反應。\n廉貪僅在巳亥同宮°廉貞屬火，貪狼屬木，巳宮為火",
+      "unit_id": "ziwei_073_u0273",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c273",
+        "old_index": 273,
+        "object_ordinal": 273,
+        "line_span": [
+          273,
+          273
+        ],
+        "span": [
+          0,
+          469
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0301_01",
+      "span": [
+        307,
+        317
+      ],
+      "before": "格局與理論命盤先賢曰",
+      "after": "格局與理論命盤\n先賢曰",
+      "reason": "標題與引文正文黏連，僅補分段",
+      "evidence": "廟宇，提供讀者參考。\n\n格局與理論命盤先賢曰：「廉貞申未宮無煞，雄宿",
+      "unit_id": "ziwei_073_u0301",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c301",
+        "old_index": 301,
+        "object_ordinal": 301,
+        "line_span": [
+          301,
+          301
+        ],
+        "span": [
+          0,
+          756
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0302_01",
+      "span": [
+        44,
+        54
+      ],
+      "before": "格局與理論命盤先賢曰",
+      "after": "格局與理論命盤\n先賢曰",
+      "reason": "標題與引文正文黏連，僅補分段",
+      "evidence": "吉凶論（下）。\n---\n格局與理論命盤先賢曰：「廉貞申未宮無煞，雄宿",
+      "unit_id": "ziwei_073_u0302",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c302",
+        "old_index": 302,
+        "object_ordinal": 302,
+        "line_span": [
+          302,
+          302
+        ],
+        "span": [
+          0,
+          493
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0304_01",
+      "span": [
+        454,
+        460
+      ],
+      "before": "仍以吉論命格",
+      "after": "仍以吉論。命格",
+      "reason": "行限結論與下句命格主語之間缺句號",
+      "evidence": "遷移宮，雖間有化忌來冲，仍以吉論命格如此之佳，只要行限不構成",
+      "unit_id": "ziwei_073_u0304",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c304",
+        "old_index": 304,
+        "object_ordinal": 304,
+        "line_span": [
+          304,
+          304
+        ],
+        "span": [
+          0,
+          496
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0305_01",
+      "span": [
+        452,
+        458
+      ],
+      "before": "仍以吉論命格",
+      "after": "仍以吉論。命格",
+      "reason": "行限結論與下句命格主語之間缺句號",
+      "evidence": "遷移宮，雖間有化忌來冲，仍以吉論命格如此之佳，只要行限不構成",
+      "unit_id": "ziwei_073_u0305",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c305",
+        "old_index": 305,
+        "object_ordinal": 305,
+        "line_span": [
+          305,
+          305
+        ],
+        "span": [
+          0,
+          738
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0310_01",
+      "span": [
+        355,
+        360
+      ],
+      "before": "甚吉°雖然",
+      "after": "甚吉。雖然",
+      "reason": "完整句末句號誤辨",
+      "evidence": "，行限造成財帛宮的連祿，甚吉°雖然庚子限的先後天財帛宮並無",
+      "unit_id": "ziwei_073_u0310",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c310",
+        "old_index": 310,
+        "object_ordinal": 310,
+        "line_span": [
+          310,
+          310
+        ],
+        "span": [
+          0,
+          577
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0311_01",
+      "span": [
+        355,
+        360
+      ],
+      "before": "甚吉°雖然",
+      "after": "甚吉。雖然",
+      "reason": "完整句末句號誤辨",
+      "evidence": "，行限造成財帛宮的連祿，甚吉°雖然庚子限的先後天財帛宮並無",
+      "unit_id": "ziwei_073_u0311",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c311",
+        "old_index": 311,
+        "object_ordinal": 311,
+        "line_span": [
+          311,
+          311
+        ],
+        "span": [
+          0,
+          577
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0313_01",
+      "span": [
+        300,
+        304
+      ],
+      "before": "開展°惟",
+      "after": "開展。惟",
+      "reason": "完整句末句號誤辨",
+      "evidence": "到戊子限後，才利於事業之開展°惟戊子限已步入中年，故日「",
+      "unit_id": "ziwei_073_u0313",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c313",
+        "old_index": 313,
+        "object_ordinal": 313,
+        "line_span": [
+          313,
+          313
+        ],
+        "span": [
+          0,
+          823
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0325_01",
+      "span": [
+        548,
+        553
+      ],
+      "before": "急躁ヽ情緒",
+      "after": "急躁、情緒",
+      "reason": "並列項分隔符誤辨",
+      "evidence": "羊金，致使廉貞坐命者原本急躁ヽ情緒不穩、自我意識強的個性，",
+      "unit_id": "ziwei_073_u0325",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c325",
+        "old_index": 325,
+        "object_ordinal": 325,
+        "line_span": [
+          325,
+          325
+        ],
+        "span": [
+          0,
+          569
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0326_01",
+      "span": [
+        551,
+        556
+      ],
+      "before": "急躁ヽ情緒",
+      "after": "急躁、情緒",
+      "reason": "並列項分隔符誤辨",
+      "evidence": "羊金，致使廉貞坐命者原本急躁ヽ情緒不穩、自我意識強的個性，",
+      "unit_id": "ziwei_073_u0326",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c326",
+        "old_index": 326,
+        "object_ordinal": 326,
+        "line_span": [
+          326,
+          326
+        ],
+        "span": [
+          0,
+          572
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0335_01",
+      "span": [
+        168,
+        173
+      ],
+      "before": "捉摸ヽ想法",
+      "after": "捉摸、想法",
+      "reason": "並列性格項分隔符誤辨",
+      "evidence": "急躁不穩而起伏甚大且難以捉摸ヽ想法偏激且易鑽牛角尖，為達目",
+      "unit_id": "ziwei_073_u0335",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c335",
+        "old_index": 335,
+        "object_ordinal": 335,
+        "line_span": [
+          335,
+          335
+        ],
+        "span": [
+          0,
+          565
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0335_02",
+      "span": [
+        558,
+        562
+      ],
+      "before": "此論°惟",
+      "after": "此論。惟",
+      "reason": "完整句末句號誤辨",
+      "evidence": "，或廉貞不為身宮，則不做此論°惟須注意",
+      "unit_id": "ziwei_073_u0335",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c335",
+        "old_index": 335,
+        "object_ordinal": 335,
+        "line_span": [
+          335,
+          335
+        ],
+        "span": [
+          0,
+          565
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0336_01",
+      "span": [
+        166,
+        171
+      ],
+      "before": "捉摸ヽ想法",
+      "after": "捉摸、想法",
+      "reason": "並列性格項分隔符誤辨",
+      "evidence": "急躁不穩而起伏甚大且難以捉摸ヽ想法偏激且易鑽牛角尖，為達目",
+      "unit_id": "ziwei_073_u0336",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c336",
+        "old_index": 336,
+        "object_ordinal": 336,
+        "line_span": [
+          336,
+          336
+        ],
+        "span": [
+          0,
+          754
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0336_02",
+      "span": [
+        556,
+        560
+      ],
+      "before": "此論°惟",
+      "after": "此論。惟",
+      "reason": "完整句末句號誤辨",
+      "evidence": "，或廉貞不為身宮，則不做此論°惟須注意\n\n祿存天梁癸已 ",
+      "unit_id": "ziwei_073_u0336",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c336",
+        "old_index": 336,
+        "object_ordinal": 336,
+        "line_span": [
+          336,
+          336
+        ],
+        "span": [
+          0,
+          754
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0345_01",
+      "span": [
+        608,
+        616
+      ],
+      "before": "廉貪ヽ廉破ヽ廉殺",
+      "after": "廉貪、廉破、廉殺",
+      "reason": "括號內並列星曜組合分隔符誤辨",
+      "evidence": "就更糟。\n廉貞在巳酉丑（廉貪ヽ廉破ヽ廉殺）均為弱陷，且都是雙星殺",
+      "unit_id": "ziwei_073_u0345",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c345",
+        "old_index": 345,
+        "object_ordinal": 345,
+        "line_span": [
+          345,
+          345
+        ],
+        "span": [
+          0,
+          799
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0351_01",
+      "span": [
+        110,
+        115
+      ],
+      "before": "開創ヽ變動",
+      "after": "開創、變動",
+      "reason": "並列項頓號字形誤辨",
+      "evidence": "陰貞潔之德」。\n殺破狼主開創ヽ變動，不論男女，只要是殺破狼",
+      "unit_id": "ziwei_073_u0351",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c351",
+        "old_index": 351,
+        "object_ordinal": 351,
+        "line_span": [
+          351,
+          351
+        ],
+        "span": [
+          0,
+          790
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0359_01",
+      "span": [
+        199,
+        204
+      ],
+      "before": "穩重ヽ謹慎",
+      "after": "穩重、謹慎",
+      "reason": "並列項頓號字形誤辨",
+      "evidence": "三方並有天魁來朝，因個性穩重ヽ謹慎，為人亦較正直、正派，除",
+      "unit_id": "ziwei_073_u0359",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c359",
+        "old_index": 359,
+        "object_ordinal": 359,
+        "line_span": [
+          359,
+          359
+        ],
+        "span": [
+          0,
+          542
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0360_01",
+      "span": [
+        199,
+        204
+      ],
+      "before": "穩重ヽ謹慎",
+      "after": "穩重、謹慎",
+      "reason": "並列項頓號字形誤辨",
+      "evidence": "三方並有天魁來朝，因個性穩重ヽ謹慎，為人亦較正直、正派，除",
+      "unit_id": "ziwei_073_u0360",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c360",
+        "old_index": 360,
+        "object_ordinal": 360,
+        "line_span": [
+          360,
+          360
+        ],
+        "span": [
+          0,
+          542
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0378_01",
+      "span": [
+        219,
+        226
+      ],
+      "before": "「刑囚夾印凶格",
+      "after": "「刑囚夾印」凶格",
+      "reason": "明確格名缺閉引號；同源U377有「刑囚夾印」凶格",
+      "evidence": "貞化忌與擎羊使事業午宮成「刑囚夾印凶格，加上白虎加重此一宮位的",
+      "unit_id": "ziwei_073_u0378",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c378",
+        "old_index": 378,
+        "object_ordinal": 378,
+        "line_span": [
+          378,
+          378
+        ],
+        "span": [
+          0,
+          291
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    },
+    {
+      "change_id": "s1_u0379_01",
+      "span": [
+        222,
+        229
+      ],
+      "before": "「刑囚夾印凶格",
+      "after": "「刑囚夾印」凶格",
+      "reason": "明確格名缺閉引號；同源U377有「刑囚夾印」凶格",
+      "evidence": "貞化忌與擎羊使事業午宮成「刑囚夾印凶格，加上白虎加重此一宮位的",
+      "unit_id": "ziwei_073_u0379",
+      "source_locator": {
+        "input_path": "inputs/ziwei/ziwei_073/data_processing/05_annotated/ziwei/紫云论斗数曜赋性第二册  390页_annotated.jsonl",
+        "old_id": "ziyun_fuxing_v2_c379",
+        "old_index": 379,
+        "object_ordinal": 379,
+        "line_span": [
+          379,
+          379
+        ],
+        "span": [
+          0,
+          413
+        ]
+      },
+      "original_offset_basis": "Unicode code point in original chunk_text"
+    }
+  ],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "result": "accepted_by_S2",
+      "review_evidence": [
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_001_065_V1.json",
+          "sha256": "dcc9ddb74e7728089c9d79d977023c6b83cf121d34ff7772603498e720873e10",
+          "bytes": 43073
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_066_150_V1.json",
+          "sha256": "228934b1a6fca1b85107556fae0fe3133e1a4a21be4ea152d8cb81657285f244",
+          "bytes": 56644
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_151_250_V1.json",
+          "sha256": "8d11ad783b69dda35b41bf4e0bd421b87c41dba4eaf3e58cd0d61953225bccfa",
+          "bytes": 48623
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_251_380_V1.json",
+          "sha256": "cd466ac8aa626d4a95a6fc8dc0dd60ed66aeed92dae53318132b12d5ffc67b19",
+          "bytes": 54857
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_INTEGRATION_REVIEW_V1.json",
+          "sha256": "2a49a2ecf29298b6b6057ff5b43e5e903f58bfb559d47f371a0427ae5ca585fa",
+          "bytes": 4900
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_ATTEMPT2_REVIEW_V1.json",
+          "sha256": "54a49de3ad803c3ab9ed61df96bd1e8e2dcd3e8f4e7bcb3a72b47182419aed7b",
+          "bytes": 146126
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "reclean_all_surviving_blocks",
+  "outcome": "changed",
+  "substeps": [],
+  "applicability_reason": "Full 380-unit direct-text assessment; see unit-specific outcomes.",
+  "instruction_revision": 4,
+  "attempt": 2,
+  "substep": "punctuation",
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Old printed-book completeness/page fidelity unverified.",
+    "Uncertain OCR, chart layouts, duplicated source passages retained; see per-unit assessments.",
+    "started_at/completed_at in this report delimit integration; per-unit textual reading occurred beforehand and is evidenced by batch records."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [],
+  "sample_checks": [
+    {
+      "unit_id": "ziwei_073_u0001",
+      "ordinal": 1,
+      "outcome": "changed",
+      "reason": "章題與首句「武曲武曲」黏接，可在章題後斷行；格局列舉及括號完整。"
+    },
+    {
+      "unit_id": "ziwei_073_u0002",
+      "ordinal": 2,
+      "outcome": "changed",
+      "reason": "「基本賦性」標題與「先賢曰」黏接，分行；末尾「但」為截斷不補標點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0003",
+      "ordinal": 3,
+      "outcome": "changed",
+      "reason": "「武曲之將星作用」小標與下文黏接，可分行；末尾引號未閉係跨單元片段。"
+    },
+    {
+      "unit_id": "ziwei_073_u0004",
+      "ordinal": 4,
+      "outcome": "no_change",
+      "reason": "開頭承接引文、末尾「且會」不補齊；現有句讀可讀。"
+    },
+    {
+      "unit_id": "ziwei_073_u0005",
+      "ordinal": 5,
+      "outcome": "no_change",
+      "reason": "首尾承接片段保留，引用與括號界限清楚。"
+    },
+    {
+      "unit_id": "ziwei_073_u0006",
+      "ordinal": 6,
+      "outcome": "no_change",
+      "reason": "「京宏亮與否」疑缺行/誤字，不據上下文重造句子。"
+    },
+    {
+      "unit_id": "ziwei_073_u0007",
+      "ordinal": 7,
+      "outcome": "no_change",
+      "reason": "承接「際星曜組合而定」，其餘句讀完整。"
+    },
+    {
+      "unit_id": "ziwei_073_u0008",
+      "ordinal": 8,
+      "outcome": "no_change",
+      "reason": "註一與主文同段但範圍明確，無需重排；末尾為承接句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0009",
+      "ordinal": 9,
+      "outcome": "no_change",
+      "reason": "各條件分句及括號清楚，末尾「往往是」留待後續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0010",
+      "ordinal": 10,
+      "outcome": "changed",
+      "reason": "小標「武曲火星為寡宿凶格」與前已句黏接，分行。"
+    },
+    {
+      "unit_id": "ziwei_073_u0011",
+      "ordinal": 11,
+      "outcome": "no_change",
+      "reason": "男命小標前有「临」及黏接疑點，無原版不刪不重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0012",
+      "ordinal": 12,
+      "outcome": "changed",
+      "reason": "命例標題與正文黏接可分行；末尾「和」不補齊。"
+    },
+    {
+      "unit_id": "ziwei_073_u0013",
+      "ordinal": 13,
+      "outcome": "changed",
+      "reason": "命例標題同樣分行，未刪與U12重複正文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0014",
+      "ordinal": 14,
+      "outcome": "no_change",
+      "reason": "命盤線性文字與圖說黏接，缺原圖不推定句段次序。"
+    },
+    {
+      "unit_id": "ziwei_073_u0015",
+      "ordinal": 15,
+      "outcome": "no_change",
+      "reason": "開頭「諧」承前，末尾「互動」承後；不補切斷點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0016",
+      "ordinal": 16,
+      "outcome": "no_change",
+      "reason": "註六後接乙卯年仍可讀，無必要增句；尾端未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0017",
+      "ordinal": 17,
+      "outcome": "no_change",
+      "reason": "註二至六分段清楚，最後出版社句截斷不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0018",
+      "ordinal": 18,
+      "outcome": "no_change",
+      "reason": "開頭出版社句續接，引用閉合；不修跨單元。"
+    },
+    {
+      "unit_id": "ziwei_073_u0019",
+      "ordinal": 19,
+      "outcome": "no_change",
+      "reason": "正文引用可讀，圖表文字不按猜測重排序。"
+    },
+    {
+      "unit_id": "ziwei_073_u0020",
+      "ordinal": 20,
+      "outcome": "no_change",
+      "reason": "壬年反例與祿馬引文界限清楚。"
+    },
+    {
+      "unit_id": "ziwei_073_u0021",
+      "ordinal": 21,
+      "outcome": "no_change",
+      "reason": "「臨四馬之地的作用」疑小標帶噪字，保留待核。"
+    },
+    {
+      "unit_id": "ziwei_073_u0022",
+      "ordinal": 22,
+      "outcome": "no_change",
+      "reason": "「更深ー層」長音符處實為數量短語，可改一。"
+    },
+    {
+      "unit_id": "ziwei_073_u0023",
+      "ordinal": 23,
+      "outcome": "no_change",
+      "reason": "與U22相同長音符改一，未刪重複單元。"
+    },
+    {
+      "unit_id": "ziwei_073_u0024",
+      "ordinal": 24,
+      "outcome": "no_change",
+      "reason": "起始「大。」和尾句均承接，保留，內部標點可讀。"
+    },
+    {
+      "unit_id": "ziwei_073_u0025",
+      "ordinal": 25,
+      "outcome": "no_change",
+      "reason": "同U24的起訖片段保留，現有引號與括號無需改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0026",
+      "ordinal": 26,
+      "outcome": "no_change",
+      "reason": "起始逗號屬承接，四墓庫列舉完整。"
+    },
+    {
+      "unit_id": "ziwei_073_u0027",
+      "ordinal": 27,
+      "outcome": "no_change",
+      "reason": "註八與後段可辨；末尾任一化忌條件未完，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0028",
+      "ordinal": 28,
+      "outcome": "no_change",
+      "reason": "正文與盤五圖說分界可見，表內黏連不推定重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0029",
+      "ordinal": 29,
+      "outcome": "no_change",
+      "reason": "盤六和盤七兩組文字可辨，但內部欄次未知，原樣留存。"
+    },
+    {
+      "unit_id": "ziwei_073_u0030",
+      "ordinal": 30,
+      "outcome": "no_change",
+      "reason": "註八及昌曲引文句讀可讀；末尾「則須視」保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0031",
+      "ordinal": 31,
+      "outcome": "no_change",
+      "reason": "與U30相同段保留，不插入結尾。"
+    },
+    {
+      "unit_id": "ziwei_073_u0032",
+      "ordinal": 32,
+      "outcome": "no_change",
+      "reason": "承前「其他條件而定」完整收束；新引文界限清楚。"
+    },
+    {
+      "unit_id": "ziwei_073_u0033",
+      "ordinal": 33,
+      "outcome": "no_change",
+      "reason": "末尾正文與命盤文字交織，缺版面不拼接圖說。"
+    },
+    {
+      "unit_id": "ziwei_073_u0034",
+      "ordinal": 34,
+      "outcome": "no_change",
+      "reason": "「武曲第四章」孤立頁眉候選不擅刪；正文凶性續接保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0035",
+      "ordinal": 35,
+      "outcome": "no_change",
+      "reason": "兩盤圖文互嵌，不能從線性字符串可靠恢復閱讀序。"
+    },
+    {
+      "unit_id": "ziwei_073_u0036",
+      "ordinal": 36,
+      "outcome": "no_change",
+      "reason": "化權與化祿對照句完整，末尾「否則」不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0037",
+      "ordinal": 37,
+      "outcome": "changed",
+      "reason": "「拘繫ヽ禁錮」並列詞中異常迭字符改頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0038",
+      "ordinal": 38,
+      "outcome": "no_change",
+      "reason": "正文與盤十二圖說混排，保留次序；末尾無須補引號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0039",
+      "ordinal": 39,
+      "outcome": "no_change",
+      "reason": "限運對比各句清楚，不需改標點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0040",
+      "ordinal": 40,
+      "outcome": "changed",
+      "reason": "命例標題與「為加強」分行，末尾甚不補齊。"
+    },
+    {
+      "unit_id": "ziwei_073_u0041",
+      "ordinal": 41,
+      "outcome": "changed",
+      "reason": "「有情勉與無情剋」標題與正文分行；圖表噪疑不刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0042",
+      "ordinal": 42,
+      "outcome": "changed",
+      "reason": "同樣分離有情剋小標與正文，起始「吉。」保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0043",
+      "ordinal": 43,
+      "outcome": "no_change",
+      "reason": "四種關係列舉與引文清楚，不需新增標點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0044",
+      "ordinal": 44,
+      "outcome": "no_change",
+      "reason": "註九十和新引文界限清楚，尾部未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0045",
+      "ordinal": 45,
+      "outcome": "no_change",
+      "reason": "同U44分段清楚，不刪重複段。"
+    },
+    {
+      "unit_id": "ziwei_073_u0046",
+      "ordinal": 46,
+      "outcome": "no_change",
+      "reason": "雙引號、括號與條件段落清楚，尾部「立」不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0047",
+      "ordinal": 47,
+      "outcome": "no_change",
+      "reason": "起始場承前；破祖定義括號完整。"
+    },
+    {
+      "unit_id": "ziwei_073_u0048",
+      "ordinal": 48,
+      "outcome": "no_change",
+      "reason": "同U47起訖可讀，重複段留存。"
+    },
+    {
+      "unit_id": "ziwei_073_u0049",
+      "ordinal": 49,
+      "outcome": "no_change",
+      "reason": "命盤十五文字與圖說交錯，缺原圖不重排或補句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0050",
+      "ordinal": 50,
+      "outcome": "changed",
+      "reason": "「氣喘ヽ鼻竇炎」疾病列舉中迭字符改頓號，末尾過不補齊。"
+    },
+    {
+      "unit_id": "ziwei_073_u0051",
+      "ordinal": 51,
+      "outcome": "no_change",
+      "reason": "肺經說明後轉田宅宮；開頭「敏」為片段，註十一黏連但不猜補遺失文字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0052",
+      "ordinal": 52,
+      "outcome": "no_change",
+      "reason": "田宅方位與太歲入宮註十二完整論述；出版年「二0一年」疑缺字，無書影不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0053",
+      "ordinal": 53,
+      "outcome": "no_change",
+      "reason": "盤十六排盤字符混排並夾命例說明；無表格列界證據，保留布局疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0054",
+      "ordinal": 54,
+      "outcome": "changed",
+      "reason": "文武兼備標題與先賢引文黏連，僅加入明確標題分段；引文跨行不重寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0055",
+      "ordinal": 55,
+      "outcome": "no_change",
+      "reason": "旺陷條件及三方四正說明；末尾「此」未完句，保留待S3確認。"
+    },
+    {
+      "unit_id": "ziwei_073_u0056",
+      "ordinal": 56,
+      "outcome": "changed",
+      "reason": "承上「人個性」與諸組合比較；頓號字形誤辨可據並列詞修正，末「但」保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0057",
+      "ordinal": 57,
+      "outcome": "changed",
+      "reason": "與56正文完全重複但上下文標頭不同；S1保留，不以重複為噪聲刪除。"
+    },
+    {
+      "unit_id": "ziwei_073_u0058",
+      "ordinal": 58,
+      "outcome": "no_change",
+      "reason": "接武府煞星作用，後接武破命例及盤十七混排；「亥堂命」「一單」等疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0059",
+      "ordinal": 59,
+      "outcome": "no_change",
+      "reason": "盤十七重現並有完整命例推論；表格混排不猜還原，末「如上」待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0060",
+      "ordinal": 60,
+      "outcome": "no_change",
+      "reason": "承前結論後引威名赫奕註解；「廟烜」「廟恒」「諸言」及末「，七九」保留疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0061",
+      "ordinal": 61,
+      "outcome": "no_change",
+      "reason": "與60正文相同而標頭不同；保留重複與疑似頁腳，後階段顯式比較。"
+    },
+    {
+      "unit_id": "ziwei_073_u0062",
+      "ordinal": 62,
+      "outcome": "no_change",
+      "reason": "丑宮甲年三奇嘉會論述及盤十八；「由於聪命宮」「武食」疑OCR，無原圖不替換星名。"
+    },
+    {
+      "unit_id": "ziwei_073_u0063",
+      "ordinal": 63,
+      "outcome": "changed",
+      "reason": "盤十八後續行限與日月照壁；並列「變動ヽ開創」僅正規頓號，宮位疑點不改理論。"
+    },
+    {
+      "unit_id": "ziwei_073_u0064",
+      "ordinal": 64,
+      "outcome": "no_change",
+      "reason": "先結丑宮甲年，轉未宮庚年；「武貪应来坐命」疑OCR，雖後文提未宮仍保留原形待核。"
+    },
+    {
+      "unit_id": "ziwei_073_u0065",
+      "ordinal": 65,
+      "outcome": "changed",
+      "reason": "與63敘述後半重複，無盤文；保留重複，僅修並列頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0066",
+      "ordinal": 66,
+      "outcome": "no_change",
+      "reason": "丑甲年轉未庚年及盤十九；武貪应来、武食、男命灰疑OCR，命盤混排保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0067",
+      "ordinal": 67,
+      "outcome": "no_change",
+      "reason": "未庚年行限轉辰癸年論述；末反字未完，不補句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0068",
+      "ordinal": 68,
+      "outcome": "no_change",
+      "reason": "盤十九及67論述重現；星宮混排保留，末反未完句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0069",
+      "ordinal": 69,
+      "outcome": "no_change",
+      "reason": "盤二十全段星宮與說明交錯，富多於貴被盤文打斷，無布局證據不搬移。"
+    },
+    {
+      "unit_id": "ziwei_073_u0070",
+      "ordinal": 70,
+      "outcome": "no_change",
+      "reason": "盤二十後續辰癸行限轉辰甲；武曲应辰疑字保留，末吉化待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0071",
+      "ordinal": 71,
+      "outcome": "no_change",
+      "reason": "盤二十一命盤混排；說明句為盤文打斷，一帶富命格保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0072",
+      "ordinal": 72,
+      "outcome": "no_change",
+      "reason": "盤二十一及辰甲行限論述；末武曲化忌而待續，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0073",
+      "ordinal": 73,
+      "outcome": "no_change",
+      "reason": "辰甲財限轉辰丙；武曲应辰疑字保留，不以常識改星宮關係。"
+    },
+    {
+      "unit_id": "ziwei_073_u0074",
+      "ordinal": 74,
+      "outcome": "no_change",
+      "reason": "73正文重現並附盤二十二；財吊宮、逐移宮、一翠子疑字及混排不猜修。"
+    },
+    {
+      "unit_id": "ziwei_073_u0075",
+      "ordinal": 75,
+      "outcome": "changed",
+      "reason": "福德享受及投資說明；兩個°處句已完整且下文另起論述，應修為句號。末逗號承續保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0076",
+      "ordinal": 76,
+      "outcome": "no_change",
+      "reason": "辰丙行限及癸甲丙比較完整；保留原一帶富命格用語。"
+    },
+    {
+      "unit_id": "ziwei_073_u0077",
+      "ordinal": 77,
+      "outcome": "changed",
+      "reason": "戌甲命格及行限加盤二十三；並列事業宮ヽ財帛宮改頓號，甲午/丙午與後段丙寅矛盾不改干支。"
+    },
+    {
+      "unit_id": "ziwei_073_u0078",
+      "ordinal": 78,
+      "outcome": "no_change",
+      "reason": "註十三夾化曜後轉祿馬交馳；末引詞後未完句，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0079",
+      "ordinal": 79,
+      "outcome": "no_change",
+      "reason": "與78正文重複但標頭不同，保留，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0080",
+      "ordinal": 80,
+      "outcome": "no_change",
+      "reason": "祿馬對外工作及火貪生剋論述，加盤二十四；火剋金的的重字留疑，開頭句號承前不刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0081",
+      "ordinal": 81,
+      "outcome": "no_change",
+      "reason": "魁鉞財賦官引文及說明；命恒、吉昭疑字保留，末書名未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0082",
+      "ordinal": 82,
+      "outcome": "no_change",
+      "reason": "魁鉞官職限制轉遷移格；引文末主未完，不補句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0083",
+      "ordinal": 83,
+      "outcome": "no_change",
+      "reason": "與82正文相同但標頭不同，保留，末主待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0084",
+      "ordinal": 84,
+      "outcome": "changed",
+      "reason": "遷移吉旺商業論述；解說°簡單為明確句界改句號，違移宮疑字保留，末坐入待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0085",
+      "ordinal": 85,
+      "outcome": "changed",
+      "reason": "命宮凶弱反例與鈴昌陀武；輔弼ヽ魁鉞並列改頓號，開頭逗號承前保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0086",
+      "ordinal": 86,
+      "outcome": "no_change",
+      "reason": "盤二十五後接武貪財宅賦文；逐移、成、佳會、富賣等盤文疑字不猜修，末逗號待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0087",
+      "ordinal": 87,
+      "outcome": "no_change",
+      "reason": "86武貪財宅論述重現，標點可讀，保留橫發解釋及末逗號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0088",
+      "ordinal": 88,
+      "outcome": "no_change",
+      "reason": "財宅虧損機制及先貧後富；虛發/虛花引文異形保留，末才能有待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0089",
+      "ordinal": 89,
+      "outcome": "no_change",
+      "reason": "武貪有情剋及墓中賦文；金制木。引號內句點、秘云缺內引號、灭折列疑，保留不猜原引文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0090",
+      "ordinal": 90,
+      "outcome": "no_change",
+      "reason": "89正文重現，保留重複及引號/灭折疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0091",
+      "ordinal": 91,
+      "outcome": "no_change",
+      "reason": "貪武同行與命無正曜轉于先生命例；進一步的認認疑OCR保留，末由於他待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0092",
+      "ordinal": 92,
+      "outcome": "no_change",
+      "reason": "91正文重現，認認疑字保留，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0093",
+      "ordinal": 93,
+      "outcome": "no_change",
+      "reason": "于先生商社事業與未空宮論述；十五六年原表述保留，末實際所從事待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0094",
+      "ordinal": 94,
+      "outcome": "no_change",
+      "reason": "盤二十六後命例結論與註十四轉武破昌曲；財官雨、二O0一年等疑字數字不補，末任一待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0095",
+      "ordinal": 95,
+      "outcome": "no_change",
+      "reason": "94盤後正文重現；出版年二O0一年疑OCR保留，末任一待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0096",
+      "ordinal": 96,
+      "outcome": "no_change",
+      "reason": "武破昌曲旺陷及破軍作用，末昌引號與下文銜接，不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0097",
+      "ordinal": 97,
+      "outcome": "no_change",
+      "reason": "破軍文曲與文昌想做對比，保留同宮限定，末也未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0098",
+      "ordinal": 98,
+      "outcome": "no_change",
+      "reason": "與97正文重現，保留重複及末也未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0099",
+      "ordinal": 99,
+      "outcome": "no_change",
+      "reason": "破軍文昌勞碌轉財與囚仇；財遛傷疑OCR不修，標點可讀。"
+    },
+    {
+      "unit_id": "ziwei_073_u0100",
+      "ordinal": 100,
+      "outcome": "changed",
+      "reason": "武破破家賦文轉林老板；命例標題與林老板黏連可斷行，末總面積約在待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0101",
+      "ordinal": 101,
+      "outcome": "changed",
+      "reason": "100正文重現，命例標題同樣斷行，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0102",
+      "ordinal": 102,
+      "outcome": "no_change",
+      "reason": "林老板事業三限，前亥後巳坐命矛盾、事用司機疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0103",
+      "ordinal": 103,
+      "outcome": "no_change",
+      "reason": "102正文重現，亥巳矛盾保留，不自行改命例事實。"
+    },
+    {
+      "unit_id": "ziwei_073_u0104",
+      "ordinal": 104,
+      "outcome": "no_change",
+      "reason": "盤二十七混排及結語，完整保留宮星年歲資料不猜還原列格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0105",
+      "ordinal": 105,
+      "outcome": "changed",
+      "reason": "轉王董事長家電命例；家電火亨、臨復因疑字保留，標題結束與王董事長間可斷行。"
+    },
+    {
+      "unit_id": "ziwei_073_u0106",
+      "ordinal": 106,
+      "outcome": "no_change",
+      "reason": "盤二十八混排，已旺宮、職骨疑字保留，標頭林老板與正文王案不符留待後審。"
+    },
+    {
+      "unit_id": "ziwei_073_u0107",
+      "ordinal": 107,
+      "outcome": "no_change",
+      "reason": "106全文重現，盤文與標頭異名疑點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0108",
+      "ordinal": 108,
+      "outcome": "no_change",
+      "reason": "王董事長經營與上班比較；所扮演的色疑缺字保留，註十六後句接續不強改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0109",
+      "ordinal": 109,
+      "outcome": "no_change",
+      "reason": "註十五十六轉因財持刀；相閱、宮祿宮、特刀與出版年疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0110",
+      "ordinal": 110,
+      "outcome": "no_change",
+      "reason": "109正文重現但標頭鈴昌陀武，保留不擅改上下文頭。"
+    },
+    {
+      "unit_id": "ziwei_073_u0111",
+      "ordinal": 111,
+      "outcome": "no_change",
+      "reason": "擎羊與武殺凶性說明，保留化忌及同宮限定，無必要清洗。"
+    },
+    {
+      "unit_id": "ziwei_073_u0112",
+      "ordinal": 112,
+      "outcome": "no_change",
+      "reason": "武殺卯酉及流限例含盤二十九；盤文夾三奇嘉會不可重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0113",
+      "ordinal": 113,
+      "outcome": "no_change",
+      "reason": "盤二十九三十三十一連續混排，七級、面宮疑OCR不據常識改星宮。"
+    },
+    {
+      "unit_id": "ziwei_073_u0114",
+      "ordinal": 114,
+      "outcome": "changed",
+      "reason": "盤三十一後白虎作用，白虎的命理作用標題可與正文斷行，面宮疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0115",
+      "ordinal": 115,
+      "outcome": "no_change",
+      "reason": "盤三十二後鈴昌陀武引文，盤文順序錯亂無原布局不重排，末金星本待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0116",
+      "ordinal": 116,
+      "outcome": "no_change",
+      "reason": "115盤後正文重現，末金星本待續，不因標頭十二宮而改正文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0117",
+      "ordinal": 117,
+      "outcome": "no_change",
+      "reason": "鈴昌陀武陰陰相剋與流年引動，先天隱藏/非凶格論述保留，不用外知修理論；末武待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0118",
+      "ordinal": 118,
+      "outcome": "no_change",
+      "reason": "盤三十三與說明，成宫及混排疑點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0119",
+      "ordinal": 119,
+      "outcome": "no_change",
+      "reason": "流陀四干及化祿減凶轉技藝賦文，不見言扶疑字保留，末百工待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0120",
+      "ordinal": 120,
+      "outcome": "no_change",
+      "reason": "119正文重現，保留引文疑字及末百工。"
+    },
+    {
+      "unit_id": "ziwei_073_u0121",
+      "ordinal": 121,
+      "outcome": "no_change",
+      "reason": "技藝賦文與一般星曜條件，灭折疑字保留，並非判定個人必夭。"
+    },
+    {
+      "unit_id": "ziwei_073_u0122",
+      "ordinal": 122,
+      "outcome": "changed",
+      "reason": "第五章天同與導言標題黏連，章名後可斷行；太歲宮位句中空行保留，不補病理說法。"
+    },
+    {
+      "unit_id": "ziwei_073_u0123",
+      "ordinal": 123,
+      "outcome": "changed",
+      "reason": "基本賦性標題與先賢曰黏連，可斷行；福德主與福德宮辨析，末相待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0124",
+      "ordinal": 124,
+      "outcome": "no_change",
+      "reason": "天同益壽反面條件，番更長、番考、早天疑OCR保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0125",
+      "ordinal": 125,
+      "outcome": "no_change",
+      "reason": "健康與形性引文條件，保留原作者觀點，末肢未完引文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0126",
+      "ordinal": 126,
+      "outcome": "no_change",
+      "reason": "外貌引文及作者經驗適用範圍；商確疑字保留，末古傳賦待續，不改作者觀點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0127",
+      "ordinal": 127,
+      "outcome": "no_change",
+      "reason": "臉型體型及煞星傷病條件，標點可讀，保留不一定限定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0128",
+      "ordinal": 128,
+      "outcome": "changed",
+      "reason": "機樞激亢及水性說明，激動ヽ衝動改並列頓號；高番、火富疑OCR保留，末溫待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0129",
+      "ordinal": 129,
+      "outcome": "changed",
+      "reason": "128正文重現，同樣修激動與衝動間頓號，保留引文疑字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0130",
+      "ordinal": 130,
+      "outcome": "changed",
+      "reason": "水性動靜及應變，隨和ヽ謙遜改頓號、敏銳°但句界改句號；水性里疑字保留，末坐命者待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0131",
+      "ordinal": 131,
+      "outcome": "changed",
+      "reason": "130正文重現，同樣修兩處標點，不刪重，保留里字疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0132",
+      "ordinal": 132,
+      "outcome": "no_change",
+      "reason": "水木火應變及陰陽性格，按耐疑字保留，末天機天梁待列舉續文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0133",
+      "ordinal": 133,
+      "outcome": "no_change",
+      "reason": "承上天同三方南斗星與學習，標點及論述可讀，不作語義改寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0134",
+      "ordinal": 134,
+      "outcome": "no_change",
+      "reason": "開頭享字與引文缺前段，後述福星官祿；滅同/ー個/曰月疑字保留，可能上游缺段不補造。"
+    },
+    {
+      "unit_id": "ziwei_073_u0135",
+      "ordinal": 135,
+      "outcome": "changed",
+      "reason": "安逸事業及牙科醫生命例加盤二；好論°惟句界改句號，肇羊及盤星混排保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0136",
+      "ordinal": 136,
+      "outcome": "no_change",
+      "reason": "盤二及盤三牙科醫生混排，職業年份及宮星不能可靠重建，不刪符號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0137",
+      "ordinal": 137,
+      "outcome": "no_change",
+      "reason": "事業制煞條件與未空宮日月格，開頭逗號承前、末例如天同待續，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0138",
+      "ordinal": 138,
+      "outcome": "no_change",
+      "reason": "137正文重現附盤四，T年及候伯疑字保留，盤文不重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0139",
+      "ordinal": 139,
+      "outcome": "changed",
+      "reason": "水澄桂萼轉大限天同，明確小節標題後斷行，保留條件與命例。"
+    },
+    {
+      "unit_id": "ziwei_073_u0140",
+      "ordinal": 140,
+      "outcome": "changed",
+      "reason": "139正文重現附盤五，標題後同樣斷行，盤文不依猜測重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0141",
+      "ordinal": 141,
+      "outcome": "no_change",
+      "reason": "廉相壬年反例及三註，末時報出第五章天同疑頁眉插入，保留待有完整版面核對。"
+    },
+    {
+      "unit_id": "ziwei_073_u0142",
+      "ordinal": 142,
+      "outcome": "no_change",
+      "reason": "141正文重現，末嵌入章名疑頁眉及缺句保留，不逕刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0143",
+      "ordinal": 143,
+      "outcome": "no_change",
+      "reason": "續出版社註三後幼老天同左右，保留首尾片段，末吉星能待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0144",
+      "ordinal": 144,
+      "outcome": "no_change",
+      "reason": "143正文重現，保留幼老定義與末吉星能，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0145",
+      "ordinal": 145,
+      "outcome": "changed",
+      "reason": "同梁左右照顧與吉煞條件，蔭福聚不怕凶危為小節標題後斷行，斗數穀率疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0146",
+      "ordinal": 146,
+      "outcome": "changed",
+      "reason": "145正文重現，同樣小節標題後斷行，保留穀率疑字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0147",
+      "ordinal": 147,
+      "outcome": "no_change",
+      "reason": "寅申旺度及女命清白賦文，保留作者對傳統觀點評述，末括註未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0148",
+      "ordinal": 148,
+      "outcome": "no_change",
+      "reason": "女命正負賦文及家庭論述，首右括號承前、末如先賢待續，不改原觀點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0149",
+      "ordinal": 149,
+      "outcome": "no_change",
+      "reason": "148正文重現，標頭疾病應用不符本段列後審，不擅改正文或刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0150",
+      "ordinal": 150,
+      "outcome": "no_change",
+      "reason": "續安享與女命旺陷個性，賢敘疑OCR保留，末轉淫蕩不免解說不補後文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0151",
+      "ordinal": 151,
+      "outcome": "no_change",
+      "reason": "同梁巳亥婚姻論述；上下文標頭疾病與正文不合、題名「将質」疑OCR，保留；末句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0152",
+      "ordinal": 152,
+      "outcome": "no_change",
+      "reason": "同151重複正文另含盤七；「會言多」疑OCR，標頭糖尿病與婚姻正文不合，保留待後階段。"
+    },
+    {
+      "unit_id": "ziwei_073_u0153",
+      "ordinal": 153,
+      "outcome": "no_change",
+      "reason": "天同弱陷及水星桃花條件；起首「，均」與末「加」均斷裂，標頭糖尿病不合，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0154",
+      "ordinal": 154,
+      "outcome": "no_change",
+      "reason": "與153正文重複；標頭痛風與婚姻論述不合；不刪重、不補斷句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0155",
+      "ordinal": 155,
+      "outcome": "no_change",
+      "reason": "天梁意外及婚姻吉煞例外，條件清晰；標頭痛風不合，末句斷於「的」保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0156",
+      "ordinal": 156,
+      "outcome": "changed",
+      "reason": "水星沐浴地標題黏連，僅分段；標頭痛風不合；末句未完不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0157",
+      "ordinal": 157,
+      "outcome": "changed",
+      "reason": "女命天同酉宮標題與註五黏連，僅分段；兩單元正文重複且標頭非本主題，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0158",
+      "ordinal": 158,
+      "outcome": "changed",
+      "reason": "女命天同酉宮標題與註五黏連，僅分段；兩單元正文重複且標頭非本主題，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0159",
+      "ordinal": 159,
+      "outcome": "changed",
+      "reason": "同陰午宮女命標題黏連，分段；保留傳統觀點與條件限制，標頭田宅不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0160",
+      "ordinal": 160,
+      "outcome": "changed",
+      "reason": "女命天同「五未」疑OCR但不改地支；標題後僅分段。兩單元正文重複且標頭田宅不合，末句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0161",
+      "ordinal": 161,
+      "outcome": "changed",
+      "reason": "女命天同「五未」疑OCR但不改地支；標題後僅分段。兩單元正文重複且標頭田宅不合，末句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0162",
+      "ordinal": 162,
+      "outcome": "changed",
+      "reason": "巨同丑未福星與安逸論述，轉單身貴族命例；命例標題分段，末尾先天後未完，田宅標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0163",
+      "ordinal": 163,
+      "outcome": "no_change",
+      "reason": "顏小姐命身福德與未婚分析，兩單元正文重複；末「第五章 天同」疑頁眉混入，不確證不刪，標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0164",
+      "ordinal": 164,
+      "outcome": "no_change",
+      "reason": "顏小姐命身福德與未婚分析，兩單元正文重複；末「第五章 天同」疑頁眉混入，不確證不刪，標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0165",
+      "ordinal": 165,
+      "outcome": "no_change",
+      "reason": "盤八顏小姐命盤字符混排；下方說明與表格不重排，原姓名年齡及疑字保留；標頭馬頭帶劍與正文不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0166",
+      "ordinal": 166,
+      "outcome": "changed",
+      "reason": "顏小姐身宮續論及太歲宮位題文黏連；兩單元重複、標頭馬頭帶劍不合。「聰明オ智」疑字原樣留存。"
+    },
+    {
+      "unit_id": "ziwei_073_u0167",
+      "ordinal": 167,
+      "outcome": "changed",
+      "reason": "顏小姐身宮續論及太歲宮位題文黏連；兩單元重複、標頭馬頭帶劍不合。「聰明オ智」疑字原樣留存。"
+    },
+    {
+      "unit_id": "ziwei_073_u0168",
+      "ordinal": 168,
+      "outcome": "no_change",
+      "reason": "命身為表太歲為裡，續註四五；註六接註四略黏連但保持，末引文「紫」未完，標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0169",
+      "ordinal": 169,
+      "outcome": "no_change",
+      "reason": "註六七書目後轉天同卯酉庚年壽命引文；「尋找劂於」「早天」「二0一年」疑字及缺年份保留，兩單元正文重複。"
+    },
+    {
+      "unit_id": "ziwei_073_u0170",
+      "ordinal": 170,
+      "outcome": "no_change",
+      "reason": "註六七書目後轉天同卯酉庚年壽命引文；「尋找劂於」「早天」「二0一年」疑字及缺年份保留，兩單元正文重複。"
+    },
+    {
+      "unit_id": "ziwei_073_u0171",
+      "ordinal": 171,
+      "outcome": "no_change",
+      "reason": "盤九男命天同酉庚年健康與連忌分析；大限干支原樣保留，未見須重排處。標頭午格與正文酉宮不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0172",
+      "ordinal": 172,
+      "outcome": "no_change",
+      "reason": "盤九星曜與解說嚴重混排且兩單元正文重複；「委命」「遂移」「逐移」等疑字保留，不據171重建表格或覆寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0173",
+      "ordinal": 173,
+      "outcome": "no_change",
+      "reason": "盤九星曜與解說嚴重混排且兩單元正文重複；「委命」「遂移」「逐移」等疑字保留，不據171重建表格或覆寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0174",
+      "ordinal": 174,
+      "outcome": "no_change",
+      "reason": "盤九男女對比與卯宮分析，含盤十混排；作者已指出庚年地支矛盾，不以常識再修；「早天」疑字留存。"
+    },
+    {
+      "unit_id": "ziwei_073_u0175",
+      "ordinal": 175,
+      "outcome": "no_change",
+      "reason": "盤十混排接卯酉比較再轉疾厄宮定義；末「組」斷裂，保留正文和古賦，不重排盤表。"
+    },
+    {
+      "unit_id": "ziwei_073_u0176",
+      "ordinal": 176,
+      "outcome": "changed",
+      "reason": "腎主水骨及膀胱相關疾病論述，兩單元正文重複；並列臟腑與組織間僅修頓號。保留作者醫理，非醫學驗證。"
+    },
+    {
+      "unit_id": "ziwei_073_u0177",
+      "ordinal": 177,
+      "outcome": "changed",
+      "reason": "腎主水骨及膀胱相關疾病論述，兩單元正文重複；並列臟腑與組織間僅修頓號。保留作者醫理，非醫學驗證。"
+    },
+    {
+      "unit_id": "ziwei_073_u0178",
+      "ordinal": 178,
+      "outcome": "no_change",
+      "reason": "下焦虛寒、腎虛及火鈴有無的限定；保持作者原論述及末句未完，標頭桃花迷失不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0179",
+      "ordinal": 179,
+      "outcome": "no_change",
+      "reason": "腎水連帶作用轉太歲入宮個別差異；標題「太歲入宫法及其应疾病推論的應」明顯疑亂但無原圖不重建，標頭偏題且正文重複。"
+    },
+    {
+      "unit_id": "ziwei_073_u0180",
+      "ordinal": 180,
+      "outcome": "no_change",
+      "reason": "腎水連帶作用轉太歲入宮個別差異；標題「太歲入宫法及其应疾病推論的應」明顯疑亂但無原圖不重建，標頭偏題且正文重複。"
+    },
+    {
+      "unit_id": "ziwei_073_u0181",
+      "ordinal": 181,
+      "outcome": "no_change",
+      "reason": "太歲入宮與個別差異之概念、疾病例子導入，原句標點可讀；標頭桃花迷失與正文不合，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0182",
+      "ordinal": 182,
+      "outcome": "changed",
+      "reason": "盤十一糖尿病例，題文黏連分段；年份與因果條件原樣保留，標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0183",
+      "ordinal": 183,
+      "outcome": "changed",
+      "reason": "同182正文另加盤十一混排；下盤說明「寅宮」與正文「酉宮」衝突、罹惠疑字，不猜改；題文分段。"
+    },
+    {
+      "unit_id": "ziwei_073_u0184",
+      "ordinal": 184,
+      "outcome": "changed",
+      "reason": "盤十二痛風，題文黏連分段；末「故」未完保留，寅申同梁標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0185",
+      "ordinal": 185,
+      "outcome": "changed",
+      "reason": "同184加盤十二混排與解說；題文分段，其餘保留，不將盤格還原為新表。"
+    },
+    {
+      "unit_id": "ziwei_073_u0186",
+      "ordinal": 186,
+      "outcome": "no_change",
+      "reason": "盤十二混排及痛風說明與185末段重複，星曜與年月欄不猜重排，天竺生涯標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0187",
+      "ordinal": 187,
+      "outcome": "no_change",
+      "reason": "太歲法及註八至十二出處；註十一在「出版社出」截斷並接註十二，缺文不補；出版年份缺字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0188",
+      "ordinal": 188,
+      "outcome": "no_change",
+      "reason": "田宅水道、意識型態與方位推論；引文「低淫」疑OCR，不無據改成地形詞；標頭天竺生涯不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0189",
+      "ordinal": 189,
+      "outcome": "no_change",
+      "reason": "同188田宅論述再含盤十三十四房屋例及註十三；「低淫」疑字保留，廉貞天同標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0190",
+      "ordinal": 190,
+      "outcome": "no_change",
+      "reason": "盤十三星曜與田宅地勢解說混排，無列格證據保持；不從189補寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0191",
+      "ordinal": 191,
+      "outcome": "no_change",
+      "reason": "盤十三與十四混排；「庆」「朝束」等疑字保持，標頭女命與房屋例不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0192",
+      "ordinal": 192,
+      "outcome": "changed",
+      "reason": "馬頭帶劍引文及擎羊制煞；明確格局標題後分段；「狭」「菩終」「允以」疑字保留，不改引文，末此未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0193",
+      "ordinal": 193,
+      "outcome": "changed",
+      "reason": "馬頭帶劍與日月反背，兩單元重複；「企圌心」「宮日」「戌守」疑字保留，僅修並列頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0194",
+      "ordinal": 194,
+      "outcome": "changed",
+      "reason": "馬頭帶劍與日月反背，兩單元重複；「企圌心」「宮日」「戌守」疑字保留，僅修並列頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0195",
+      "ordinal": 195,
+      "outcome": "no_change",
+      "reason": "丙年午宮命例與盤十五；引文「尤以丙午及戊午，會因」疑有缺文，無據不補；盤中「勞祿」疑字原樣。"
+    },
+    {
+      "unit_id": "ziwei_073_u0196",
+      "ordinal": 196,
+      "outcome": "no_change",
+      "reason": "盤十五同陰午丙年混排，與195盤文重複；「自己未」「勞祿」疑字保留，女命婚姻標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0197",
+      "ordinal": 197,
+      "outcome": "no_change",
+      "reason": "丙戊年同陰午行限比較及盤十六；「雖無然」疑字、末本命強斷裂保留，不重排盤文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0198",
+      "ordinal": 198,
+      "outcome": "no_change",
+      "reason": "盤十六及馬頭帶劍廣義說明；「同恒」疑字保留；註十四末句斷裂，女命婚姻標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0199",
+      "ordinal": 199,
+      "outcome": "no_change",
+      "reason": "十二生肖註與天同戌丁年引文及盤十七；「陰男火運」疑字保留，正文末另字斷裂不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0200",
+      "ordinal": 200,
+      "outcome": "no_change",
+      "reason": "盤十七混排後接雙祿三奇與權忌事業作用，重複盤文保留，標頭同月技藝不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0201",
+      "ordinal": 201,
+      "outcome": "no_change",
+      "reason": "戌宮丁年男命逆行限運，正文重複；丁未段未宮與括註申宮有疑，保持不改宮位，末乙巳句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0202",
+      "ordinal": 202,
+      "outcome": "no_change",
+      "reason": "戌宮丁年男命逆行限運，正文重複；丁未段未宮與括註申宮有疑，保持不改宮位，末乙巳句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0203",
+      "ordinal": 203,
+      "outcome": "no_change",
+      "reason": "男女行運及現代女性事業差異，奇格定義；保留作者條件限制與末未完句，標頭技藝不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0204",
+      "ordinal": 204,
+      "outcome": "changed",
+      "reason": "奇格續論轉洪女士桃花命例，題文分段；末因命身格局及斷裂保留，標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0205",
+      "ordinal": 205,
+      "outcome": "changed",
+      "reason": "同204正文加盤十八洪女士混排；僅題文分段，盤中4成等疑字保留，壽命格標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0206",
+      "ordinal": 206,
+      "outcome": "no_change",
+      "reason": "盤十八及美容院事業續論轉寅申同梁；「福星居戌弱地成就」缺句、盤十八與註十六盤十九不一，及「兼有高」疑缺文均不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0207",
+      "ordinal": 207,
+      "outcome": "no_change",
+      "reason": "同梁寅己年論述與盤十九；「賢述」疑字保留，末激字斷裂，不重排盤表。"
+    },
+    {
+      "unit_id": "ziwei_073_u0208",
+      "ordinal": 208,
+      "outcome": "no_change",
+      "reason": "盤十九後承發作用，轉同梁寅丁壬年；盤文重複不刪，女命賢德標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0209",
+      "ordinal": 209,
+      "outcome": "no_change",
+      "reason": "盤二十及二十一混排；T年、天同第五章疑OCR或頁眉，不猜刪；兩盤保持原序列，標頭女命不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0210",
+      "ordinal": 210,
+      "outcome": "no_change",
+      "reason": "盤二十一及壬年行限、暗合補論；前稱田宅巳宮後括號亥宮有矛盾，原樣保留待核，不改地支。"
+    },
+    {
+      "unit_id": "ziwei_073_u0211",
+      "ordinal": 211,
+      "outcome": "no_change",
+      "reason": "同210後半無盤文，暗合與田宅巳亥矛盾原樣保留；標頭腎臟與財宅論述不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0212",
+      "ordinal": 212,
+      "outcome": "no_change",
+      "reason": "田宅巳與同梁寅總結後轉申丙年，含盤二十二混排；末寅壬年比較截斷，不猜拼或改星名。"
+    },
+    {
+      "unit_id": "ziwei_073_u0213",
+      "ordinal": 213,
+      "outcome": "no_change",
+      "reason": "盤二十二及申丙年富貴條件、明暗祿解釋；盤文與212重複，原樣留存，不依常識改定義。"
+    },
+    {
+      "unit_id": "ziwei_073_u0214",
+      "ordinal": 214,
+      "outcome": "no_change",
+      "reason": "申宮丁己年三奇、坐貴向貴及行限，文句可讀，不改弱旺與條件限制；標頭腎臟不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0215",
+      "ordinal": 215,
+      "outcome": "no_change",
+      "reason": "同214正文加盤二十三混排及末書店網址QQ廣告；廣告為明顯疑非正文，僅提出過濾建議，按本批不刪文要求保留原字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0216",
+      "ordinal": 216,
+      "outcome": "no_change",
+      "reason": "盤二十四同梁申己年混排，「般」疑星名截亂無原圖不修，保持盤序列。"
+    },
+    {
+      "unit_id": "ziwei_073_u0217",
+      "ordinal": 217,
+      "outcome": "no_change",
+      "reason": "盤二十四重現與戊辰限及申宮丙丁己年總結，條件完整；不重排星曜與解說混列。"
+    },
+    {
+      "unit_id": "ziwei_073_u0218",
+      "ordinal": 218,
+      "outcome": "changed",
+      "reason": "天竺生涯註解與空位定義；「炙竺」「幼空」「有言」「過入」等疑字保留，僅修列舉頓號，末句未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0219",
+      "ordinal": 219,
+      "outcome": "no_change",
+      "reason": "天機天同空劫、宗教興趣與出家非必然論述，兩單元正文重複；末卯的大未完，保留所有限定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0220",
+      "ordinal": 220,
+      "outcome": "no_change",
+      "reason": "天機天同空劫、宗教興趣與出家非必然論述，兩單元正文重複；末卯的大未完，保留所有限定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0221",
+      "ordinal": 221,
+      "outcome": "no_change",
+      "reason": "宗教案例尾轉女命天同賢引文，含盤二十五；盤文不重排，「巨暗」保留原稱，不改古代社會觀點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0222",
+      "ordinal": 222,
+      "outcome": "no_change",
+      "reason": "盤二十五後評論奴婢貧賤概念及寅甲年女命；「解說临」疑OCR，不猜刪；保留現代修正與星曜條件。"
+    },
+    {
+      "unit_id": "ziwei_073_u0223",
+      "ordinal": 223,
+      "outcome": "no_change",
+      "reason": "盤二十六寅甲年女命混排，不將事業福德解說重排至推定位置。"
+    },
+    {
+      "unit_id": "ziwei_073_u0224",
+      "ordinal": 224,
+      "outcome": "no_change",
+      "reason": "盤二十六續行限及卯辛年女命例；「祿星來」疑缺詞保留，末逗號未完，無跨單元修補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0225",
+      "ordinal": 225,
+      "outcome": "no_change",
+      "reason": "盤二十七卯辛年女命混排；「財利無處」疑字，無原圖不改成推測詞，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0226",
+      "ordinal": 226,
+      "outcome": "no_change",
+      "reason": "盤二十七加卯辛女命行限，盤文「財利無處」與下一單元財利無虞疑異文保留；不重排表，晚年火鈴限定完整。"
+    },
+    {
+      "unit_id": "ziwei_073_u0227",
+      "ordinal": 227,
+      "outcome": "changed",
+      "reason": "子丁女命水澄桂萼論述及盤二十八；「以吉論°然因」句號誤辨可修。盤內桂等、三哥疑字不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0228",
+      "ordinal": 228,
+      "outcome": "no_change",
+      "reason": "盤二十八加子癸女命與丑癸女命；「同陰子」「巨同应丑」疑缺字保留；末句未完不補，壽元標頭不合。"
+    },
+    {
+      "unit_id": "ziwei_073_u0229",
+      "ordinal": 229,
+      "outcome": "no_change",
+      "reason": "盤二十九女命同陰子癸年混排；「遊移宮」疑字不改宮名，保持原盤列。"
+    },
+    {
+      "unit_id": "ziwei_073_u0230",
+      "ordinal": 230,
+      "outcome": "no_change",
+      "reason": "盤二十九三十混排；「遊移宮」「刑想」疑字保留，不重排亦不刪重，壽元標頭偏題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0231",
+      "ordinal": 231,
+      "outcome": "no_change",
+      "reason": "巨同丑癸女命行限與婚姻；末「婚第五章 天同」疑頁眉插入並斷詞，無原頁不刪補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0232",
+      "ordinal": 232,
+      "outcome": "no_change",
+      "reason": "巨同女命晚年與子嗣個別差異，四女命格總結及註二十未完；正文重複保留，子女資料限定不漏改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0233",
+      "ordinal": 233,
+      "outcome": "no_change",
+      "reason": "巨同女命晚年與子嗣個別差異，四女命格總結及註二十未完；正文重複保留，子女資料限定不漏改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0234",
+      "ordinal": 234,
+      "outcome": "changed",
+      "reason": "同月陷宮技藝羸黃引文及行業適應性；「赢黃」疑字不改引文，僅將技藝後度號修句號；末必須斷句保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0235",
+      "ordinal": 235,
+      "outcome": "no_change",
+      "reason": "同陰午忌煞勞碌及福德桃花論述，兩單元正文重複；保留作者論點和對男命的未知聲明，不以價值判斷改文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0236",
+      "ordinal": 236,
+      "outcome": "no_change",
+      "reason": "同陰午忌煞勞碌及福德桃花論述，兩單元正文重複；保留作者論點和對男命的未知聲明，不以價值判斷改文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0237",
+      "ordinal": 237,
+      "outcome": "no_change",
+      "reason": "同陰分處身命及天同會吉壽元引文；「益番」「延番」「番高」「灭折」「早天」疑字與末頁眉保留，不猜補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0238",
+      "ordinal": 238,
+      "outcome": "changed",
+      "reason": "土木工程師命例及盤三十一混排；明確題文分段，年份歲數原樣，星曜混列不重建。"
+    },
+    {
+      "unit_id": "ziwei_073_u0239",
+      "ordinal": 239,
+      "outcome": "no_change",
+      "reason": "盤三十一工程師命盤及病逝說明與238盤文重複，保留原始混列與疑字，不推算出生年月。"
+    },
+    {
+      "unit_id": "ziwei_073_u0240",
+      "ordinal": 240,
+      "outcome": "no_change",
+      "reason": "工程師壽命分析後轉子羽才能引文；「爭業」疑字保留，引用內星曜與職業斷語原樣，標點可讀。"
+    },
+    {
+      "unit_id": "ziwei_073_u0241",
+      "ordinal": 241,
+      "outcome": "no_change",
+      "reason": "申宮空宮三格局與幕僚條件，內容完整可讀；保留身宮例外和中年成就限定，不做語義改寫。"
+    },
+    {
+      "unit_id": "ziwei_073_u0242",
+      "ordinal": 242,
+      "outcome": "no_change",
+      "reason": "同241正文另含盤三十二；盤內「逐移」「發抨」疑OCR原樣，不據正文自動回填星曜或修盤。"
+    },
+    {
+      "unit_id": "ziwei_073_u0243",
+      "ordinal": 243,
+      "outcome": "no_change",
+      "reason": "寅申對比及醫生律師職業論、盤三十三；盤文「命宫在無」「邊移」疑缺字，列格無可靠依據不重建。"
+    },
+    {
+      "unit_id": "ziwei_073_u0244",
+      "ordinal": 244,
+      "outcome": "no_change",
+      "reason": "動態服務業結語及子羽註二十三；出生年份「五三～?」及來源網址殘損，保留不外查補年或修網址。"
+    },
+    {
+      "unit_id": "ziwei_073_u0245",
+      "ordinal": 245,
+      "outcome": "changed",
+      "reason": "第六章廉貞導言標題黏連，僅分段；「喪命天壽」疑字原樣，保持全部格局列表與章節預告。"
+    },
+    {
+      "unit_id": "ziwei_073_u0246",
+      "ordinal": 246,
+      "outcome": "changed",
+      "reason": "廉貞品秩權令囚宿定義；基本賦性題文分段及拘繫禁錮間頓號修正，末句未完保持。"
+    },
+    {
+      "unit_id": "ziwei_073_u0247",
+      "ordinal": 247,
+      "outcome": "no_change",
+      "reason": "囚星例外、品秩定義及次桃花條件，原句可讀，保留甲丙級及會吉會煞限定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0248",
+      "ordinal": 248,
+      "outcome": "changed",
+      "reason": "廉貞外貌引文及五行膚色不可據斷限定，正文重複；「眉毛中火吹骨」「高額骨」「ロ」疑字保留，僅原因後度號改句號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0249",
+      "ordinal": 249,
+      "outcome": "changed",
+      "reason": "廉貞外貌引文及五行膚色不可據斷限定，正文重複；「眉毛中火吹骨」「高額骨」「ロ」疑字保留，僅原因後度號改句號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0250",
+      "ordinal": 250,
+      "outcome": "no_change",
+      "reason": "承口橫外貌解釋、父母個別差異及廉貞陰火、十二地支動性；保留作者理論，末「主動」未完不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0251",
+      "ordinal": 251,
+      "outcome": "changed",
+      "reason": "十二宮動性、急躁與囚星論述；開頭分號及末「禮儀」為跨單元片段；「原因°惟」為句號誤辨。"
+    },
+    {
+      "unit_id": "ziwei_073_u0252",
+      "ordinal": 252,
+      "outcome": "no_change",
+      "reason": "禮義與善辯後接企管命例；「命例-企管家在」標題界可分但標題疑缺「專」，保留不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0253",
+      "ordinal": 253,
+      "outcome": "no_change",
+      "reason": "與252正文重複而上下文題不同，保留重複及末陳總經理未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0254",
+      "ordinal": 254,
+      "outcome": "no_change",
+      "reason": "丙寅限研發/生產衝突論述與強詞奪理解說，標點可讀，不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0255",
+      "ordinal": 255,
+      "outcome": "no_change",
+      "reason": "盤二混排後註一二與善惡定義；「產裂」疑字及星名混排原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0256",
+      "ordinal": 256,
+      "outcome": "no_change",
+      "reason": "與255註一二及星曜正負面段落重疊，保留不刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0257",
+      "ordinal": 257,
+      "outcome": "no_change",
+      "reason": "善惡及正邪標題黏正文但可讀；末負面作用缺標點有下單元句號，S1不移動。"
+    },
+    {
+      "unit_id": "ziwei_073_u0258",
+      "ordinal": 258,
+      "outcome": "no_change",
+      "reason": "開頭孤句號承前；「化氣日印」「同恒」「蓋灭相」疑OCR；巢狀引號保留，無書影不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0259",
+      "ordinal": 259,
+      "outcome": "no_change",
+      "reason": "與258正文重複，保留孤句號與引文疑字，不視重複為噪聲。"
+    },
+    {
+      "unit_id": "ziwei_073_u0260",
+      "ordinal": 260,
+      "outcome": "no_change",
+      "reason": "再逢帝座與紫府相朝垣後盤三混排；正文末「不能說是」被圖插斷，保留不重組。"
+    },
+    {
+      "unit_id": "ziwei_073_u0261",
+      "ordinal": 261,
+      "outcome": "no_change",
+      "reason": "盤三與前單元重複後續「再逢帝座」；「京廉貞」「不但剛強」疑缺前文，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0262",
+      "ordinal": 262,
+      "outcome": "changed",
+      "reason": "擎羊官訟及破軍火鈴賦性，並列「急躁ヽ情緒」僅改頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0263",
+      "ordinal": 263,
+      "outcome": "changed",
+      "reason": "正文與262重複，保留；相同並列符採一致標點修正。"
+    },
+    {
+      "unit_id": "ziwei_073_u0264",
+      "ordinal": 264,
+      "outcome": "no_change",
+      "reason": "廉破火鈴及卯宮甲年命例，盤四插入未完「命」之後；不跨圖重組。"
+    },
+    {
+      "unit_id": "ziwei_073_u0265",
+      "ordinal": 265,
+      "outcome": "no_change",
+      "reason": "盤四重複後有「三奇京能得」「京京」等多處疑缺行；不將京字機械刪除或補句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0266",
+      "ordinal": 266,
+      "outcome": "no_change",
+      "reason": "女命行限轉寅命乙年再酉命庚年；「廉貞化忌 擎羊」疑漏字，保留，不改命身關係。"
+    },
+    {
+      "unit_id": "ziwei_073_u0267",
+      "ordinal": 267,
+      "outcome": "no_change",
+      "reason": "盤五與說明跨欄混排，官訟引文被拆開；無可靠列格不復原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0268",
+      "ordinal": 268,
+      "outcome": "no_change",
+      "reason": "盤五重複加盤六，保留盤文與「廉貞第六章」可能頁眉，不自行刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0269",
+      "ordinal": 269,
+      "outcome": "no_change",
+      "reason": "「京移宮」「起伏極京」「京用外」「解釋京煞」疑缺行損壞，全文保留並傳遞疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0270",
+      "ordinal": 270,
+      "outcome": "no_change",
+      "reason": "269正文重複且附盤七；京字斷裂與「選移」等OCR疑點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0271",
+      "ordinal": 271,
+      "outcome": "no_change",
+      "reason": "白虎壬辰限與廉貞陷地心理性格論述，條件否定清楚；末甲級星截斷保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0272",
+      "ordinal": 272,
+      "outcome": "no_change",
+      "reason": "與271正文完全重複，保留相同未完片段，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0273",
+      "ordinal": 273,
+      "outcome": "changed",
+      "reason": "廉貪巳火太旺論述，句末度符「同宮°廉貞」可確為句號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0274",
+      "ordinal": 274,
+      "outcome": "no_change",
+      "reason": "接急躁說明後轉亥宮絕處逢生，句段可讀且保留作者五行論點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0275",
+      "ordinal": 275,
+      "outcome": "no_change",
+      "reason": "與274正文重複而上下文標為昌貪，保留標頭差異待後續核，不修正文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0276",
+      "ordinal": 276,
+      "outcome": "no_change",
+      "reason": "女命貞潔淫濫引文與作者性別批評，均為來源觀點，保留條件與否定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0277",
+      "ordinal": 277,
+      "outcome": "no_change",
+      "reason": "廉貪桃花及命身分坐比較完整；末「第六章廉貞，」疑頁眉保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0278",
+      "ordinal": 278,
+      "outcome": "no_change",
+      "reason": "與277正文重複，末同疑頁眉，S1不刪重或刪標題。"
+    },
+    {
+      "unit_id": "ziwei_073_u0279",
+      "ordinal": 279,
+      "outcome": "no_change",
+      "reason": "善妒說明及女命各論引文；「同恒」疑OCR，無書影不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0280",
+      "ordinal": 280,
+      "outcome": "no_change",
+      "reason": "廉囚白虎行限及盤八論述；第二段「限易有糾紛」疑缺開頭，保留不推補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0281",
+      "ordinal": 281,
+      "outcome": "no_change",
+      "reason": "與280正文重複並附盤八；盤文未可靠分列，保留混排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0282",
+      "ordinal": 282,
+      "outcome": "no_change",
+      "reason": "廉貪巳亥古文引文含「天亡」「主灭」「庶貞」「亲祖」疑OCR，保留引文原字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0283",
+      "ordinal": 283,
+      "outcome": "no_change",
+      "reason": "與282正文重複，疑字同樣保留；跨行閉引號不等於缺字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0284",
+      "ordinal": 284,
+      "outcome": "no_change",
+      "reason": "「昌（曲）貪的作在天機」疑標題缺字；末「離正位而」待續，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0285",
+      "ordinal": 285,
+      "outcome": "no_change",
+      "reason": "昌曲貪作用及盤九說明；「廉貪因有的吉凶時」「遷移宮的貪」疑缺片段，不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0286",
+      "ordinal": 286,
+      "outcome": "no_change",
+      "reason": "285正文重複加盤九；末URL及QQ行疑外加水印，列待過濾建議但不訪問、不執行或刪除。"
+    },
+    {
+      "unit_id": "ziwei_073_u0287",
+      "ordinal": 287,
+      "outcome": "no_change",
+      "reason": "廉貪昌曲負面及壽命條件論述；「早天」疑OCR與末「就認」未完，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0288",
+      "ordinal": 288,
+      "outcome": "no_change",
+      "reason": "287正文重複，保留「早天」疑字及未完結尾，不整體刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0289",
+      "ordinal": 289,
+      "outcome": "no_change",
+      "reason": "承早夭否定後附註四五轉疾病；註四黏連但可讀，不改論點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0290",
+      "ordinal": 290,
+      "outcome": "no_change",
+      "reason": "廉貞疾病與祿忌沖屬作者命理理論，不改為醫學事實；「宮為」疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0291",
+      "ordinal": 291,
+      "outcome": "no_change",
+      "reason": "與290疾病理論正文重複，保留宮為疑字及疾病條件原文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0292",
+      "ordinal": 292,
+      "outcome": "no_change",
+      "reason": "先天心臟病命例標題黏正文；「自己亥」可指自己亥限但不改字，末對未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0293",
+      "ordinal": 293,
+      "outcome": "no_change",
+      "reason": "接戌宮凶象及王先生實例，轉心律不整王小姐；標題可分但暫保原句段。"
+    },
+    {
+      "unit_id": "ziwei_073_u0294",
+      "ordinal": 294,
+      "outcome": "no_change",
+      "reason": "盤十一完整混排，星名及大限數字不可憑順序還原，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0295",
+      "ordinal": 295,
+      "outcome": "no_change",
+      "reason": "盤十一重複後續寅宮與三大限，再轉憂鬱症命例；末也可未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0296",
+      "ordinal": 296,
+      "outcome": "no_change",
+      "reason": "盤十二混排與解說；「弱限」「魁鐵」「食狼」疑OCR，無書影不改星名。"
+    },
+    {
+      "unit_id": "ziwei_073_u0297",
+      "ordinal": 297,
+      "outcome": "no_change",
+      "reason": "與296正文重複，保留相同盤文疑字，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0298",
+      "ordinal": 298,
+      "outcome": "no_change",
+      "reason": "憂鬱症命例續述及註六七八，作者明言補入疾厄宮四字，不能刪除該註。"
+    },
+    {
+      "unit_id": "ziwei_073_u0299",
+      "ordinal": 299,
+      "outcome": "no_change",
+      "reason": "註九十十一後轉田宅；出版年「二0一年」疑缺字，末代表未完，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0300",
+      "ordinal": 300,
+      "outcome": "no_change",
+      "reason": "與299註文及田宅正文重複，保留出版年疑點和截斷。"
+    },
+    {
+      "unit_id": "ziwei_073_u0301",
+      "ordinal": 301,
+      "outcome": "changed",
+      "reason": "住宅方位轉格局標題；明確標題與先賢曰分段，申来/灭钺/四終等疑字不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0302",
+      "ordinal": 302,
+      "outcome": "changed",
+      "reason": "與301格局部分重複，採相同標題分段；引文疑字及末遠未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0303",
+      "ordinal": 303,
+      "outcome": "no_change",
+      "reason": "雄宿朝元條件與廉殺辛勞說明，末白手成家待續，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0304",
+      "ordinal": 304,
+      "outcome": "changed",
+      "reason": "甲年申宮命例及行限；「仍以吉論命格」明確兩句黏連，補句號，不補末未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0305",
+      "ordinal": 305,
+      "outcome": "changed",
+      "reason": "304正文重複附盤十三，採相同句號；「遂移」盤文疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0306",
+      "ordinal": 306,
+      "outcome": "no_change",
+      "reason": "甲年結句後戊年申宮財利與桃花條件；末暗祿則未完，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0307",
+      "ordinal": 307,
+      "outcome": "no_change",
+      "reason": "306正文重複並盤十四混排，「盛十四」疑盤字，不猜列格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0308",
+      "ordinal": 308,
+      "outcome": "no_change",
+      "reason": "戊年桃花與女命行限後轉丙年；引文末丙年生人被截，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0309",
+      "ordinal": 309,
+      "outcome": "no_change",
+      "reason": "308正文重複附盤十五；盤文順逆行比較保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0310",
+      "ordinal": 310,
+      "outcome": "changed",
+      "reason": "丙年男命行限論述；句號度符改正，「的的」疑重字保留不強修。"
+    },
+    {
+      "unit_id": "ziwei_073_u0311",
+      "ordinal": 311,
+      "outcome": "changed",
+      "reason": "與310正文重複，採相同句號修正，保留的的疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0312",
+      "ordinal": 312,
+      "outcome": "no_change",
+      "reason": "丙年祖蔭條件轉庚年祿存入命及盤十六；「戊子到己卯」疑行限但不能改干支。"
+    },
+    {
+      "unit_id": "ziwei_073_u0313",
+      "ordinal": 313,
+      "outcome": "changed",
+      "reason": "盤十六重複及庚年總結轉己年；開展句末度符改正，故日等疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0314",
+      "ordinal": 314,
+      "outcome": "no_change",
+      "reason": "盤十七混排，坐貴向費/沖學/有符等疑OCR，保留不猜還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0315",
+      "ordinal": 315,
+      "outcome": "no_change",
+      "reason": "盤十七重複後總結再未宮戊年，「廉綴在来」疑星名宮位，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0316",
+      "ordinal": 316,
+      "outcome": "no_change",
+      "reason": "盤十八混排及男女行限概述，介狼疑OCR保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0317",
+      "ordinal": 317,
+      "outcome": "no_change",
+      "reason": "盤十八重複後戊年續論轉乙年；「刑췐」「在来」疑字保留，不按詞典擅補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0318",
+      "ordinal": 318,
+      "outcome": "no_change",
+      "reason": "盤十九及乙年行限後甲年命例，「在来」保留，末丙寅未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0319",
+      "ordinal": 319,
+      "outcome": "no_change",
+      "reason": "318行限論述重複附盤二十；■二十/速忌等疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0320",
+      "ordinal": 320,
+      "outcome": "no_change",
+      "reason": "盤二十重複及總結後引廉七積富；「申坐命」與前文未宮可能矛盾但不改作者/提取字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0321",
+      "ordinal": 321,
+      "outcome": "no_change",
+      "reason": "積富/先貧後富定義與廉殺性質；「ー路」疑字形，末剛星未完，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0322",
+      "ordinal": 322,
+      "outcome": "no_change",
+      "reason": "321正文重複，保留ー路及結尾片段，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0323",
+      "ordinal": 323,
+      "outcome": "no_change",
+      "reason": "廉殺相制與命身分坐條件後盤二十一；「수年」疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0324",
+      "ordinal": 324,
+      "outcome": "no_change",
+      "reason": "盤二十一重複，續夫妻互動後刑戮引文；旱年/發違/廟樂等疑字不改。"
+    },
+    {
+      "unit_id": "ziwei_073_u0325",
+      "ordinal": 325,
+      "outcome": "changed",
+      "reason": "四煞至少各一及善惡星脾氣論述，末擎未完，並列頓號修正。"
+    },
+    {
+      "unit_id": "ziwei_073_u0326",
+      "ordinal": 326,
+      "outcome": "changed",
+      "reason": "325正文重複，採一致頓號修正，保留未完擎字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0327",
+      "ordinal": 327,
+      "outcome": "no_change",
+      "reason": "廉相子宮丙午命例與盤二十二，末引爆被圖插斷；盘內逻刑戮疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0328",
+      "ordinal": 328,
+      "outcome": "no_change",
+      "reason": "盤二十二重複後轉壬年刑囚夾印，保留會煞條件和末化未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0329",
+      "ordinal": 329,
+      "outcome": "no_change",
+      "reason": "盤二十三混排含O年及称右等疑OCR，不猜數字與星名。"
+    },
+    {
+      "unit_id": "ziwei_073_u0330",
+      "ordinal": 330,
+      "outcome": "no_change",
+      "reason": "與329盤二十三正文重複，保留所有盤文與疑字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0331",
+      "ordinal": 331,
+      "outcome": "no_change",
+      "reason": "接武曲化忌後癸年巳命論述及盤二十四，已/巳混用不替換干支。"
+    },
+    {
+      "unit_id": "ziwei_073_u0332",
+      "ordinal": 332,
+      "outcome": "no_change",
+      "reason": "盤二十四重複後戊年巳命轉自縊賦文；此時的廉貞、四煞」欠開引號，暫保留待復核。"
+    },
+    {
+      "unit_id": "ziwei_073_u0333",
+      "ordinal": 333,
+      "outcome": "no_change",
+      "reason": "盤二十五混排，整龄/介狼/已宮等疑字保留，無列格證據。"
+    },
+    {
+      "unit_id": "ziwei_073_u0334",
+      "ordinal": 334,
+      "outcome": "no_change",
+      "reason": "盤二十五重複後破軍廉貞自縊解說，「破軍在卯則皆」疑缺酉字，不憑理論補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0335",
+      "ordinal": 335,
+      "outcome": "changed",
+      "reason": "廉破火星條件和自傷非必然論述，僅改並列頓號與句末度符，末注意待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0336",
+      "ordinal": 336,
+      "outcome": "changed",
+      "reason": "335正文重複附盤二十六，採一致頓號與句號，盤文不重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0337",
+      "ordinal": 337,
+      "outcome": "no_change",
+      "reason": "夫妻宮適用條件與火鈴替代後轉路上埋屍引文，丑来/言多/違移疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0338",
+      "ordinal": 338,
+      "outcome": "no_change",
+      "reason": "337正文重複，保留引文巢狀引號和末仍待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0339",
+      "ordinal": 339,
+      "outcome": "no_change",
+      "reason": "路上埋屍現代解釋與廉殺旺弱條件，末嚴重未完，不推補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0340",
+      "ordinal": 340,
+      "outcome": "no_change",
+      "reason": "第三段逗號開頭明顯缺命例起段，末「向外或寡始能推論」疑缺行；不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0341",
+      "ordinal": 341,
+      "outcome": "no_change",
+      "reason": "340正文重複附盤二十七，缺段與圖文混排均保留待追溯。"
+    },
+    {
+      "unit_id": "ziwei_073_u0342",
+      "ordinal": 342,
+      "outcome": "no_change",
+      "reason": "遷移宮及父母宮凶象與本命互動，末親情應未完，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0343",
+      "ordinal": 343,
+      "outcome": "no_change",
+      "reason": "342正文重複，保留條件及例二十八二十九，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0344",
+      "ordinal": 344,
+      "outcome": "no_change",
+      "reason": "盤二十八與二十九混排，套年/邀移/逐移等疑字不猜；保留圖文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0345",
+      "ordinal": 345,
+      "outcome": "changed",
+      "reason": "盤二十九重複後昌曲逢廉引文，括號內廉貪廉破廉殺並列符修頓號。"
+    },
+    {
+      "unit_id": "ziwei_073_u0346",
+      "ordinal": 346,
+      "outcome": "no_change",
+      "reason": "昌曲貪條件及富貴解說；「天折」「夭年即盛年」保留作者或提取疑點。"
+    },
+    {
+      "unit_id": "ziwei_073_u0347",
+      "ordinal": 347,
+      "outcome": "no_change",
+      "reason": "346正文重複，保留天折疑字與未改定義。"
+    },
+    {
+      "unit_id": "ziwei_073_u0348",
+      "ordinal": 348,
+      "outcome": "no_change",
+      "reason": "女命昌曲後純陰貞潔引文；福不金/因有七/爭業等疑字缺字保留，不補星名。"
+    },
+    {
+      "unit_id": "ziwei_073_u0349",
+      "ordinal": 349,
+      "outcome": "no_change",
+      "reason": "純陰貞潔與十二宮旺弱條件，喪命天壽疑字及末在任未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0350",
+      "ordinal": 350,
+      "outcome": "no_change",
+      "reason": "349正文重複，保留天壽疑字和末截斷。"
+    },
+    {
+      "unit_id": "ziwei_073_u0351",
+      "ordinal": 351,
+      "outcome": "changed",
+      "reason": "女命傳統觀念批評轉甲年申命與盤三十，僅修開創變動並列符，王申疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0352",
+      "ordinal": 352,
+      "outcome": "no_change",
+      "reason": "盤三十重複後己年酉命與壬年亥命，末會讓命被圖隔斷保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0353",
+      "ordinal": 353,
+      "outcome": "no_change",
+      "reason": "盤三十一混排及第六章康貞疑頁眉，保留不修星名或刪標頭。"
+    },
+    {
+      "unit_id": "ziwei_073_u0354",
+      "ordinal": 354,
+      "outcome": "no_change",
+      "reason": "盤三十一重複加盤三十二，說明跨欄插斷，上上之格不跨欄重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0355",
+      "ordinal": 355,
+      "outcome": "no_change",
+      "reason": "壬年亥命續論轉癸年子命附盤三十三，「廉相应子」及故日疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0356",
+      "ordinal": 356,
+      "outcome": "no_change",
+      "reason": "盤三十三重複後轉丁年巳命，「乙巳及丙子」和前丙午疑矛盾，不改干支。"
+    },
+    {
+      "unit_id": "ziwei_073_u0357",
+      "ordinal": 357,
+      "outcome": "no_change",
+      "reason": "盤三十四後丁年結論轉戊年巳命，股兒弟等盤字疑點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0358",
+      "ordinal": 358,
+      "outcome": "no_change",
+      "reason": "357正文後半重複附盤三十五，原末祿存同未完不補。"
+    },
+    {
+      "unit_id": "ziwei_073_u0359",
+      "ordinal": 359,
+      "outcome": "changed",
+      "reason": "三類命格感情條件轉羊煞官祿，僅修穩重謹慎頓號，爭業疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0360",
+      "ordinal": 360,
+      "outcome": "changed",
+      "reason": "359正文重複，採一致頓號修正，末木枷與未完保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0361",
+      "ordinal": 361,
+      "outcome": "no_change",
+      "reason": "接刑具解釋及廉羊事業命宮互動，完整論述可讀，保留非必然犯法限定。"
+    },
+    {
+      "unit_id": "ziwei_073_u0362",
+      "ordinal": 362,
+      "outcome": "no_change",
+      "reason": "廉破卯酉公卿引文及平旺說明，紫綴疑字與末第六章頁眉混入保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0363",
+      "ordinal": 363,
+      "outcome": "no_change",
+      "reason": "362正文重複，保留疑星名及末頁眉，不刪。"
+    },
+    {
+      "unit_id": "ziwei_073_u0364",
+      "ordinal": 364,
+      "outcome": "no_change",
+      "reason": "廉破弱陷富貴條件及戊年酉命附盤三十六，盤文不猜還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0365",
+      "ordinal": 365,
+      "outcome": "no_change",
+      "reason": "盤三十六重複後辛年酉命及乙年卯命，「廉破应卯」疑字與男命順行論點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0366",
+      "ordinal": 366,
+      "outcome": "no_change",
+      "reason": "盤三十七混排，食武狼曲等列格不可可靠復原，保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0367",
+      "ordinal": 367,
+      "outcome": "no_change",
+      "reason": "盤三十七重複加盤三十八，末逗號保留，不捏造句尾或重排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0368",
+      "ordinal": 368,
+      "outcome": "no_change",
+      "reason": "乙年卯命結論寫酉疑矛盾，自己卯及应酉疑字保留；不能擅改宮位。"
+    },
+    {
+      "unit_id": "ziwei_073_u0369",
+      "ordinal": 369,
+      "outcome": "no_change",
+      "reason": "368正文重複附盤三十九，保留酉卯疑點與盤文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0370",
+      "ordinal": 370,
+      "outcome": "no_change",
+      "reason": "庚年酉命轉卯命行限比較，線上所述/应卯疑字保留，末酉未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0371",
+      "ordinal": 371,
+      "outcome": "no_change",
+      "reason": "370正文重複附盤四十，盤文速忌疑字及正文疑點保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0372",
+      "ordinal": 372,
+      "outcome": "no_change",
+      "reason": "卯酉總結轉仲由威猛引文，年月干支原樣保留，不按常識改排法。"
+    },
+    {
+      "unit_id": "ziwei_073_u0373",
+      "ordinal": 373,
+      "outcome": "no_change",
+      "reason": "372正文重複，保留同內容與不同標頭，不刪重。"
+    },
+    {
+      "unit_id": "ziwei_073_u0374",
+      "ordinal": 374,
+      "outcome": "no_change",
+      "reason": "博士十二神排法與將軍作用附盤四十一；敘述多用博士疑誤稱將軍及逆行）孤括號，保留待核。"
+    },
+    {
+      "unit_id": "ziwei_073_u0375",
+      "ordinal": 375,
+      "outcome": "no_change",
+      "reason": "午宮甲年結論轉酉宮丙年及註十二、白虎引文，末更甚逗號待續。"
+    },
+    {
+      "unit_id": "ziwei_073_u0376",
+      "ordinal": 376,
+      "outcome": "no_change",
+      "reason": "375正文重複附盤四十二，原引文截斷不在圖前強閉。"
+    },
+    {
+      "unit_id": "ziwei_073_u0377",
+      "ordinal": 377,
+      "outcome": "no_change",
+      "reason": "盤四十二重複後白虎限定論述及盤四十三命例，末犯法情未完。"
+    },
+    {
+      "unit_id": "ziwei_073_u0378",
+      "ordinal": 378,
+      "outcome": "changed",
+      "reason": "盤四十三混排，刑囚夾印引號漏閉依同源U377明確格名補閉，■四十三疑字保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0379",
+      "ordinal": 379,
+      "outcome": "changed",
+      "reason": "盤四十三重複後承犯法情事總結，採相同閉引號修復，保留跨圖續句。"
+    },
+    {
+      "unit_id": "ziwei_073_u0380",
+      "ordinal": 380,
+      "outcome": "no_change",
+      "reason": "附錄只存註一及來源說明，次段「的斗数」疑缺前文，陰陽五行表本體缺失不補表。"
+    }
+  ],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}

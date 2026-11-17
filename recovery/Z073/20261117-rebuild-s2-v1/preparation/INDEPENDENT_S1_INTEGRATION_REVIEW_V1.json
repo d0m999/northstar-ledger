@@ -1,0 +1,88 @@
+{
+  "created_utc": "2026-11-17T05:44:24.129797+00:00",
+  "review": "Independent deterministic S1 integration/coverage audit, not full S2 acceptance",
+  "reviewed_sha256": {
+    "z073_rebuild_20261117/preparation/s1_batches/batch_001_050.json": "61dcc28297758c92583fe3e9d502a105685cb695b1b3e01e733a2062e09f34bc",
+    "z073_rebuild_20261117/preparation/s1_batches/batch_051_065.json": "6bf7d28f1c1fa0c25fc296d74184199874c90464edeef092718df3ad4226e21d",
+    "z073_rebuild_20261117/preparation/s1_batches/batch_066_150.json": "a32ba7b95db6d36c56bff372a4c42df9470debabc7881e1c61923c41cd03d8b9",
+    "z073_rebuild_20261117/preparation/s1_batches/batch_151_250.json": "2abcc4f57526bfb32da2da67a82c047e20f7fc452d903eb9e5a0d63cb6f2a717",
+    "z073_rebuild_20261117/preparation/s1_batches/batch_251_380.json": "7738531322fc9b8a01662a963cf0bd0fe5067085a7880c7d2bcacc225ed51d8f",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/02_working_inputs/ziwei_073.jsonl": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/03_cleaned/ziwei/ziwei_073.jsonl": "3ce8a1d2d75e8946426b442f3d94f9f2fc7508f3dc3eb10dd6a2e278f383c06d",
+    "z073_rebuild_20261117/preparation/integrate_s1.py": "102fe82ee7057c6e6efb8b032a1f566fab94b48bb86a78b4639eeee483413bfc",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S1_text_treatment.json": "7d4442f789c1fa2a88485dabcf312cd8804147d85e832c84de3ee4d853a323aa",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S1_table.json": "aed723798d43a64f18fea820f91884c603138a70778da49ad374fd349d797b87",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S1_punctuation.json": "6b28e3279bb2152067e3dc234a6c4fc836ff7d9ee6e72c3884da776f1c848a3d",
+    "z073_rebuild_20261117/deliveries/run-20261117-z073-rebuild-001/reports/ziwei_073/S1_semantic.json": "e1e7f4c052a2f10fad3be60a4251ec5e8e4850a484fabd6e87d7c404ff84354e"
+  },
+  "checks": {
+    "rows": 380,
+    "five_field_shape_and_nontext_values_order_preserved": true,
+    "change_count": 100,
+    "unique_change_ids": 100,
+    "changed_units": 90,
+    "unchanged_units": 290,
+    "all_original_spans_and_before_text_match": true,
+    "all_proposal_text_hashes_match": true,
+    "forward_splice_independent_reconstruction_matches_every_output": true,
+    "no_extra_or_missing_changes": true,
+    "all_registered_input_output_and_proposal_hashes_match": true,
+    "template_keys_present": true,
+    "all_1140_per_unit_assessments_preserved": true,
+    "all_proposal_uncertainties_preserved_in_main": true,
+    "no_cross_unit_merge_or_filter": true,
+    "subreport_counts": {
+      "text_treatment": {
+        "changes": 100,
+        "assessments": 0,
+        "outcome": "cleaned"
+      },
+      "table": {
+        "changes": 0,
+        "assessments": 380,
+        "outcome": "no_change"
+      },
+      "punctuation": {
+        "changes": 88,
+        "assessments": 380,
+        "outcome": "changed"
+      },
+      "semantic": {
+        "changes": 12,
+        "assessments": 380,
+        "outcome": "changed"
+      }
+    }
+  },
+  "blocking_issues": [
+    {
+      "kind": "report_provenance_metadata_incomplete",
+      "details": "S1 stage_io lists four inputs, but all reports register only safe working input. Register the unchanged input_units/image_links/continuity hashes before S2 freezes the deliverable.",
+      "missing_input_refs": [
+        "input_units/ziwei_073.jsonl",
+        "image_links/ziwei_073.json",
+        "continuity/ziwei_073.json"
+      ]
+    }
+  ],
+  "nonblocking_issues": [
+    {
+      "kind": "route_metadata",
+      "details": "All four reports leave route_id/execution_policy/decision null. Fill B05 and actual authorized rebuild policy/execute for auditable attribution; operation already matches frozen plan."
+    },
+    {
+      "kind": "classification",
+      "details": "U41/U42 edits combine semantic correction and newline; semantic changes list owns each combined edit while punctuation sample outcome is changed. This is consistent but a category note would improve clarity; do not double-apply edits."
+    },
+    {
+      "kind": "timestamp",
+      "details": "started_at records integration timestamp, not first batch reading. Clarify integration timing versus batch actual work timestamps rather than imply whole cleaning occurred instantaneously."
+    }
+  ],
+  "result": "text_and_100_change_integration_passed; report_dependency_registration_requires_fix_before_S2_freeze",
+  "scope_limits": [
+    "Did not reread all 380 units semantically in this audit; U001–065 and U066–150 were independently read in earlier assignments, remaining semantic cross-review is separate.",
+    "Non-human review, not human acceptance.",
+    "No formal output, proposal, state or frozen rule modified."
+  ]
+}

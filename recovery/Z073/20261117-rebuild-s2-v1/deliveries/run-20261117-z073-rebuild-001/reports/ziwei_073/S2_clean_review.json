@@ -1,0 +1,173 @@
+{
+  "step": "S2_clean_review",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "02_working_inputs/ziwei_073.jsonl",
+      "sha256": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+      "bytes": 697213
+    },
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    },
+    {
+      "path": "metadata/ziwei_073_context_headers.jsonl",
+      "sha256": "74a02d4b41366a12823a88d0f652aee95e6d17bd550f54f4386ef0d15d4e0374",
+      "bytes": 267946
+    },
+    {
+      "path": "reports/ziwei_073/S1_text_treatment.json",
+      "sha256": "6596ffd2d87c69b8f991cac53dfc4abacdaab12e1c18eed2f3f7f4fad8fffe2f",
+      "bytes": 1046050
+    },
+    {
+      "path": "reports/ziwei_073/S1_table.json",
+      "sha256": "5acdfcc5211eca3b9047e9ce46384d12e727ff4a26d964d32c1d0b835002be79",
+      "bytes": 75586
+    },
+    {
+      "path": "reports/ziwei_073/S1_punctuation.json",
+      "sha256": "e647b6ca02723be4b3ef716224e414f2a2c0ff6bd50291bef06ee5f43edead91",
+      "bytes": 159173
+    },
+    {
+      "path": "reports/ziwei_073/S1_semantic.json",
+      "sha256": "01d3bee7cbfe8ffb7b190f5bab4dc145c7e284d2e193d73f4bbf7ee9dfc82239",
+      "bytes": 1030924
+    }
+  ],
+  "output_files": [],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T05:49:50.508958+00:00",
+  "completed_at": "2026-11-17T05:49:50.508958+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 380,
+  "output_count": 380,
+  "changes": [],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_001_065_V1.json",
+        "sha256": "dcc9ddb74e7728089c9d79d977023c6b83cf121d34ff7772603498e720873e10",
+        "bytes": 43073
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_066_150_V1.json",
+        "sha256": "228934b1a6fca1b85107556fae0fe3133e1a4a21be4ea152d8cb81657285f244",
+        "bytes": 56644
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_151_250_V1.json",
+        "sha256": "8d11ad783b69dda35b41bf4e0bd421b87c41dba4eaf3e58cd0d61953225bccfa",
+        "bytes": 48623
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_251_380_V1.json",
+        "sha256": "cd466ac8aa626d4a95a6fc8dc0dd60ed66aeed92dae53318132b12d5ffc67b19",
+        "bytes": 54857
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_INTEGRATION_REVIEW_V1.json",
+        "sha256": "2a49a2ecf29298b6b6057ff5b43e5e903f58bfb559d47f371a0427ae5ca585fa",
+        "bytes": 4900
+      }
+    },
+    {
+      "evidence": {
+        "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_ATTEMPT2_REVIEW_V1.json",
+        "sha256": "54a49de3ad803c3ab9ed61df96bd1e8e2dcd3e8f4e7bcb3a72b47182419aed7b",
+        "bytes": 146126
+      }
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "review_cleaning_and_coverage",
+  "outcome": "text_checked",
+  "substeps": [],
+  "applicability_reason": null,
+  "instruction_revision": 4,
+  "attempt": 2,
+  "substep": null,
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Original printed-book completeness, weak inherited page labels, OCR gaps, mixed chart layouts, duplicated passages and contradictions remain as documented.",
+    "Context prefixes are inherited unverified metadata, not established authorial facts; generating-process lineage is not proven.",
+    "S3 must account for all 380 filtered prefix spans and must independently establish continuity; this review does not authorize merging."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    },
+    {
+      "path": "metadata/ziwei_073_context_headers.jsonl",
+      "sha256": "74a02d4b41366a12823a88d0f652aee95e6d17bd550f54f4386ef0d15d4e0374",
+      "bytes": 267946
+    },
+    {
+      "path": "reports/ziwei_073/S1_text_treatment.json",
+      "sha256": "6596ffd2d87c69b8f991cac53dfc4abacdaab12e1c18eed2f3f7f4fad8fffe2f",
+      "bytes": 1046050
+    },
+    {
+      "path": "reports/ziwei_073/S1_table.json",
+      "sha256": "5acdfcc5211eca3b9047e9ce46384d12e727ff4a26d964d32c1d0b835002be79",
+      "bytes": 75586
+    },
+    {
+      "path": "reports/ziwei_073/S1_punctuation.json",
+      "sha256": "e647b6ca02723be4b3ef716224e414f2a2c0ff6bd50291bef06ee5f43edead91",
+      "bytes": 159173
+    },
+    {
+      "path": "reports/ziwei_073/S1_semantic.json",
+      "sha256": "01d3bee7cbfe8ffb7b190f5bab4dc145c7e284d2e193d73f4bbf7ee9dfc82239",
+      "bytes": 1030924
+    }
+  ],
+  "sample_checks": [
+    {
+      "scope": "All 380 source units independently cross-read across four disjoint batches; all 100 original edits accepted.",
+      "incremental_scope": "380 prefix separations independently checked, original text reverse reconstruction passed; 480 total changes."
+    }
+  ],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}

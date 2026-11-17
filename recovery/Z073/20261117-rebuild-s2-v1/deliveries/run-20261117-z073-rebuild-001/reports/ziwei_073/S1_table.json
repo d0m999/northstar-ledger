@@ -1,0 +1,2397 @@
+{
+  "step": "S1_clean",
+  "status": "passed",
+  "input_files": [
+    {
+      "path": "02_working_inputs/ziwei_073.jsonl",
+      "sha256": "c7fcc1dd18ae734e35c0e8b4107d13d6dce63f954bd86ab758bf92fa6e084928",
+      "bytes": 697213
+    },
+    {
+      "path": "input_units/ziwei_073.jsonl",
+      "sha256": "0086eb04a840029d89ae146feed858a99d466dc26a03a617f1dbea4c1a8260f0",
+      "bytes": 208944
+    },
+    {
+      "path": "image_links/ziwei_073.json",
+      "sha256": "15528d2a920cd3156bf185971d7ff673daa47a9b94bb42537d28759e36dd883e",
+      "bytes": 163
+    },
+    {
+      "path": "continuity/ziwei_073.json",
+      "sha256": "f3e46bfa74ee3fba11e898108c606d150c80b11bf894da737f9fb4e5735abd7c",
+      "bytes": 386808
+    }
+  ],
+  "output_files": [
+    {
+      "path": "03_cleaned/ziwei/ziwei_073.jsonl",
+      "sha256": "f7a379eab2c69c3faef169122d6e4cb57ad10446719045f9760f496838100fbd",
+      "bytes": 655319
+    }
+  ],
+  "rule_version": "dots-all-sources-2026-10-13-v4",
+  "started_at": "2026-11-17T05:47:37.533632+00:00",
+  "completed_at": "2026-11-17T05:47:37.533632+00:00",
+  "executor": "dot",
+  "model": "unknown",
+  "usage": null,
+  "input_count": 380,
+  "output_count": 380,
+  "changes": [],
+  "filtered_units": [],
+  "exceptions": [],
+  "review_findings": [
+    {
+      "result": "accepted_by_S2",
+      "review_evidence": [
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_001_065_V1.json",
+          "sha256": "dcc9ddb74e7728089c9d79d977023c6b83cf121d34ff7772603498e720873e10",
+          "bytes": 43073
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_066_150_V1.json",
+          "sha256": "228934b1a6fca1b85107556fae0fe3133e1a4a21be4ea152d8cb81657285f244",
+          "bytes": 56644
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_151_250_V1.json",
+          "sha256": "8d11ad783b69dda35b41bf4e0bd421b87c41dba4eaf3e58cd0d61953225bccfa",
+          "bytes": 48623
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/s1_batches/INDEPENDENT_REVIEW_251_380_V1.json",
+          "sha256": "cd466ac8aa626d4a95a6fc8dc0dd60ed66aeed92dae53318132b12d5ffc67b19",
+          "bytes": 54857
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_INTEGRATION_REVIEW_V1.json",
+          "sha256": "2a49a2ecf29298b6b6057ff5b43e5e903f58bfb559d47f371a0427ae5ca585fa",
+          "bytes": 4900
+        },
+        {
+          "path": "z073_rebuild_20261117/preparation/INDEPENDENT_S1_ATTEMPT2_REVIEW_V1.json",
+          "sha256": "54a49de3ad803c3ab9ed61df96bd1e8e2dcd3e8f4e7bcb3a72b47182419aed7b",
+          "bytes": 146126
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "not_performed",
+  "is_template": false,
+  "route_id": "B05",
+  "operation": "reclean_all_surviving_blocks",
+  "outcome": "no_change",
+  "substeps": [],
+  "applicability_reason": "Full 380-unit direct-text assessment; see unit-specific outcomes.",
+  "instruction_revision": 4,
+  "attempt": 2,
+  "substep": "table",
+  "blocking_issues": [],
+  "nonblocking_issues": [
+    "Old printed-book completeness/page fidelity unverified.",
+    "Uncertain OCR, chart layouts, duplicated source passages retained; see per-unit assessments.",
+    "started_at/completed_at in this report delimit integration; per-unit textual reading occurred beforehand and is evidenced by batch records."
+  ],
+  "carried_issue_ids": [],
+  "frozen_artifacts": [],
+  "sample_checks": [
+    {
+      "unit_id": "ziwei_073_u0001",
+      "ordinal": 1,
+      "outcome": "not_applicable",
+      "reason": "本單元為章節導言的財帛主、將星及各格局名稱保留，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0002",
+      "ordinal": 2,
+      "outcome": "not_applicable",
+      "reason": "本單元為財帛、福德及田宅作用條件完整，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0003",
+      "ordinal": 3,
+      "outcome": "not_applicable",
+      "reason": "本單元為旺陷得祿條件與金之內聚解釋保留，内/內不作全局字形替換。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0004",
+      "ordinal": 4,
+      "outcome": "not_applicable",
+      "reason": "本單元為武相寅申與武破巳亥旺弱差別原樣，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0005",
+      "ordinal": 5,
+      "outcome": "not_applicable",
+      "reason": "本單元為「量火」與本單元前引「量大」相同句式可修，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0006",
+      "ordinal": 6,
+      "outcome": "not_applicable",
+      "reason": "本單元為體型、聲音、氣量、膚色及臉型條件保留，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0007",
+      "ordinal": 7,
+      "outcome": "not_applicable",
+      "reason": "本單元為西北東南、富貴比較保留為作者論述，不改其地理命理觀點。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0008",
+      "ordinal": 8,
+      "outcome": "not_applicable",
+      "reason": "本單元為地域適用限制及女命寡宿引文保留，無證據修理論內容。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0009",
+      "ordinal": 9,
+      "outcome": "not_applicable",
+      "reason": "本單元為陽剛陰柔與親情婚姻觀點保持作者原意，非清理者背書。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0010",
+      "ordinal": 10,
+      "outcome": "not_applicable",
+      "reason": "本單元為「命宮與與夫妻宮」重字有明確雙項並列句法，刪除一個與，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0011",
+      "ordinal": 11,
+      "outcome": "not_applicable",
+      "reason": "本單元為「夫星徭弱」緊接作者明說「賦文中的荏弱」，可訂正徭為荏，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0012",
+      "ordinal": 12,
+      "outcome": "not_applicable",
+      "reason": "本單元為「雨剛相敵」與前單元同引文「兩剛相敵」互證，可修，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0013",
+      "ordinal": 13,
+      "outcome": "not_applicable",
+      "reason": "本單元為同一引文雨剛修兩剛，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0014",
+      "ordinal": 14,
+      "outcome": "no_change",
+      "reason": "盤二命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0015",
+      "ordinal": 15,
+      "outcome": "not_applicable",
+      "reason": "本單元為林太太婚姻、乙卯年及命盤論述原樣，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0016",
+      "ordinal": 16,
+      "outcome": "not_applicable",
+      "reason": "本單元為丙戌/乙酉兩限及四化條件逐文保留，不據常識更改干支。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0017",
+      "ordinal": 17,
+      "outcome": "not_applicable",
+      "reason": "本單元為同單元多次《斗數論姻緣》互證《斗數諭姻綠》可修，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0018",
+      "ordinal": 18,
+      "outcome": "not_applicable",
+      "reason": "本單元為高壽論及遺傳條件原樣，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0019",
+      "ordinal": 19,
+      "outcome": "no_change",
+      "reason": "盤三命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0020",
+      "ordinal": 20,
+      "outcome": "not_applicable",
+      "reason": "本單元為武府化忌、天馬年干與四生之地論述原樣，不把疑理論當OCR修。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0021",
+      "ordinal": 21,
+      "outcome": "no_change",
+      "reason": "盤四命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0022",
+      "ordinal": 22,
+      "outcome": "not_applicable",
+      "reason": "本單元為四馬動靜比較及註七來源保存，末尾「很」不補。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0023",
+      "ordinal": 23,
+      "outcome": "not_applicable",
+      "reason": "本單元為相同正文保持，僅標記重複待S3有證據處理。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0024",
+      "ordinal": 24,
+      "outcome": "not_applicable",
+      "reason": "本單元為金制木/金剋木及化祿化忌的替代條件保留，不把任一誤合為同時。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0025",
+      "ordinal": 25,
+      "outcome": "not_applicable",
+      "reason": "本單元為正文與U24重複但不在S1刪，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0026",
+      "ordinal": 26,
+      "outcome": "not_applicable",
+      "reason": "本單元為「灭番」疑損壞引文，無唯一證據保留，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0027",
+      "ordinal": 27,
+      "outcome": "not_applicable",
+      "reason": "本單元為己丑/癸丑對比及武曲、貪狼、廉貞任一化忌原樣，不補下一單元。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0028",
+      "ordinal": 28,
+      "outcome": "no_change",
+      "reason": "盤五命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0029",
+      "ordinal": 29,
+      "outcome": "no_change",
+      "reason": "盤六、盤七命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0030",
+      "ordinal": 30,
+      "outcome": "not_applicable",
+      "reason": "本單元為太歲作用與文武兼備條件原樣，幃幄等字形不強制正字。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0031",
+      "ordinal": 31,
+      "outcome": "not_applicable",
+      "reason": "本單元為重複正文另記，不把相同內容當可刪噪聲。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0032",
+      "ordinal": 32,
+      "outcome": "not_applicable",
+      "reason": "本單元為旺宮限制及武殺火星化忌作用保留。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0033",
+      "ordinal": 33,
+      "outcome": "no_change",
+      "reason": "盤八命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0034",
+      "ordinal": 34,
+      "outcome": "no_change",
+      "reason": "盤九命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0035",
+      "ordinal": 35,
+      "outcome": "no_change",
+      "reason": "盤十、盤十一命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0036",
+      "ordinal": 36,
+      "outcome": "not_applicable",
+      "reason": "本單元為武曲巨門化權兼祿作用為作者理論，原樣不修。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0037",
+      "ordinal": 37,
+      "outcome": "not_applicable",
+      "reason": "本單元為化權負面作用和廉貞囚星條件保留，尾端四化列舉承後。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0038",
+      "ordinal": 38,
+      "outcome": "no_change",
+      "reason": "盤十二命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0039",
+      "ordinal": 39,
+      "outcome": "not_applicable",
+      "reason": "本單元為「財與仇囚」與財與囚仇並存，可能作者/排印異文，保留待核，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0040",
+      "ordinal": 40,
+      "outcome": "no_change",
+      "reason": "盤十三命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0041",
+      "ordinal": 41,
+      "outcome": "no_change",
+      "reason": "盤十四命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0042",
+      "ordinal": 42,
+      "outcome": "not_applicable",
+      "reason": "本單元為標題有情勉由同單元末句有情剋互證訂正，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0043",
+      "ordinal": 43,
+      "outcome": "not_applicable",
+      "reason": "本單元為「異性相헨」由同句三項相生相剋及下文明確異性之剋確證，改為剋。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0044",
+      "ordinal": 44,
+      "outcome": "not_applicable",
+      "reason": "本單元為「穴小二限」疑OCR但不盲改，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0045",
+      "ordinal": 45,
+      "outcome": "not_applicable",
+      "reason": "本單元為穴小/武忌等疑點留存，來源書名和年代不更動。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0046",
+      "ordinal": 46,
+      "outcome": "not_applicable",
+      "reason": "本單元為破軍耗星、雙星殺破狼與增穩條件原意保留。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0047",
+      "ordinal": 47,
+      "outcome": "not_applicable",
+      "reason": "本單元為求財、刑剋及父業子承歷史觀點保留，未修改作者的婚姻親情推斷。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0048",
+      "ordinal": 48,
+      "outcome": "not_applicable",
+      "reason": "本單元為來源重複是覆蓋問題，不在S1過濾，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0049",
+      "ordinal": 49,
+      "outcome": "no_change",
+      "reason": "盤十五命盤提取文字含多宮位、星名及圖說交織，無原圖不臆恢復二維欄次；保留全字。"
+    },
+    {
+      "unit_id": "ziwei_073_u0050",
+      "ordinal": 50,
+      "outcome": "not_applicable",
+      "reason": "本單元為中西醫與命理引文按原文保留，不作醫學正誤校訂。，未見可辨識行列表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0051",
+      "ordinal": 51,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0052",
+      "ordinal": 52,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0053",
+      "ordinal": 53,
+      "outcome": "no_change",
+      "reason": "命盤混排不可據目前純文字可靠還原列格，保留全文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0054",
+      "ordinal": 54,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0055",
+      "ordinal": 55,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0056",
+      "ordinal": 56,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0057",
+      "ordinal": 57,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0058",
+      "ordinal": 58,
+      "outcome": "no_change",
+      "reason": "命盤混排不可據目前純文字可靠還原列格，保留全文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0059",
+      "ordinal": 59,
+      "outcome": "no_change",
+      "reason": "命盤混排不可據目前純文字可靠還原列格，保留全文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0060",
+      "ordinal": 60,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0061",
+      "ordinal": 61,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0062",
+      "ordinal": 62,
+      "outcome": "no_change",
+      "reason": "命盤混排不可據目前純文字可靠還原列格，保留全文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0063",
+      "ordinal": 63,
+      "outcome": "no_change",
+      "reason": "命盤混排不可據目前純文字可靠還原列格，保留全文。"
+    },
+    {
+      "unit_id": "ziwei_073_u0064",
+      "ordinal": 64,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0065",
+      "ordinal": 65,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0066",
+      "ordinal": 66,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0067",
+      "ordinal": 67,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0068",
+      "ordinal": 68,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0069",
+      "ordinal": 69,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0070",
+      "ordinal": 70,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0071",
+      "ordinal": 71,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0072",
+      "ordinal": 72,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0073",
+      "ordinal": 73,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0074",
+      "ordinal": 74,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0075",
+      "ordinal": 75,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0076",
+      "ordinal": 76,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0077",
+      "ordinal": 77,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0078",
+      "ordinal": 78,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0079",
+      "ordinal": 79,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0080",
+      "ordinal": 80,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0081",
+      "ordinal": 81,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0082",
+      "ordinal": 82,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0083",
+      "ordinal": 83,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0084",
+      "ordinal": 84,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0085",
+      "ordinal": 85,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0086",
+      "ordinal": 86,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0087",
+      "ordinal": 87,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0088",
+      "ordinal": 88,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0089",
+      "ordinal": 89,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0090",
+      "ordinal": 90,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0091",
+      "ordinal": 91,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0092",
+      "ordinal": 92,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0093",
+      "ordinal": 93,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0094",
+      "ordinal": 94,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0095",
+      "ordinal": 95,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0096",
+      "ordinal": 96,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0097",
+      "ordinal": 97,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0098",
+      "ordinal": 98,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0099",
+      "ordinal": 99,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0100",
+      "ordinal": 100,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0101",
+      "ordinal": 101,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0102",
+      "ordinal": 102,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0103",
+      "ordinal": 103,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0104",
+      "ordinal": 104,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0105",
+      "ordinal": 105,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0106",
+      "ordinal": 106,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0107",
+      "ordinal": 107,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0108",
+      "ordinal": 108,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0109",
+      "ordinal": 109,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0110",
+      "ordinal": 110,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0111",
+      "ordinal": 111,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0112",
+      "ordinal": 112,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0113",
+      "ordinal": 113,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0114",
+      "ordinal": 114,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0115",
+      "ordinal": 115,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0116",
+      "ordinal": 116,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0117",
+      "ordinal": 117,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0118",
+      "ordinal": 118,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0119",
+      "ordinal": 119,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0120",
+      "ordinal": 120,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0121",
+      "ordinal": 121,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0122",
+      "ordinal": 122,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0123",
+      "ordinal": 123,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0124",
+      "ordinal": 124,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0125",
+      "ordinal": 125,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0126",
+      "ordinal": 126,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0127",
+      "ordinal": 127,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0128",
+      "ordinal": 128,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0129",
+      "ordinal": 129,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0130",
+      "ordinal": 130,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0131",
+      "ordinal": 131,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0132",
+      "ordinal": 132,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0133",
+      "ordinal": 133,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0134",
+      "ordinal": 134,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0135",
+      "ordinal": 135,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0136",
+      "ordinal": 136,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0137",
+      "ordinal": 137,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0138",
+      "ordinal": 138,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0139",
+      "ordinal": 139,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0140",
+      "ordinal": 140,
+      "outcome": "no_change",
+      "reason": "實讀見命盤星宮及說明混排；缺原版面列格證據，保留所有字元，不猜測還原。"
+    },
+    {
+      "unit_id": "ziwei_073_u0141",
+      "ordinal": 141,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0142",
+      "ordinal": 142,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0143",
+      "ordinal": 143,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0144",
+      "ordinal": 144,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0145",
+      "ordinal": 145,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0146",
+      "ordinal": 146,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0147",
+      "ordinal": 147,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0148",
+      "ordinal": 148,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0149",
+      "ordinal": 149,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0150",
+      "ordinal": 150,
+      "outcome": "not_applicable",
+      "reason": "實讀為連續敘述、引文或註文，未見需整理表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0151",
+      "ordinal": 151,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0152",
+      "ordinal": 152,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0153",
+      "ordinal": 153,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0154",
+      "ordinal": 154,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0155",
+      "ordinal": 155,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0156",
+      "ordinal": 156,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0157",
+      "ordinal": 157,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0158",
+      "ordinal": 158,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0159",
+      "ordinal": 159,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0160",
+      "ordinal": 160,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0161",
+      "ordinal": 161,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0162",
+      "ordinal": 162,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0163",
+      "ordinal": 163,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0164",
+      "ordinal": 164,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0165",
+      "ordinal": 165,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0166",
+      "ordinal": 166,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0167",
+      "ordinal": 167,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0168",
+      "ordinal": 168,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0169",
+      "ordinal": 169,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0170",
+      "ordinal": 170,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0171",
+      "ordinal": 171,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0172",
+      "ordinal": 172,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0173",
+      "ordinal": 173,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0174",
+      "ordinal": 174,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0175",
+      "ordinal": 175,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0176",
+      "ordinal": 176,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0177",
+      "ordinal": 177,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0178",
+      "ordinal": 178,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0179",
+      "ordinal": 179,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0180",
+      "ordinal": 180,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0181",
+      "ordinal": 181,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0182",
+      "ordinal": 182,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0183",
+      "ordinal": 183,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0184",
+      "ordinal": 184,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0185",
+      "ordinal": 185,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0186",
+      "ordinal": 186,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0187",
+      "ordinal": 187,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0188",
+      "ordinal": 188,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0189",
+      "ordinal": 189,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0190",
+      "ordinal": 190,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0191",
+      "ordinal": 191,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0192",
+      "ordinal": 192,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0193",
+      "ordinal": 193,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0194",
+      "ordinal": 194,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0195",
+      "ordinal": 195,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0196",
+      "ordinal": 196,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0197",
+      "ordinal": 197,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0198",
+      "ordinal": 198,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0199",
+      "ordinal": 199,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0200",
+      "ordinal": 200,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0201",
+      "ordinal": 201,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0202",
+      "ordinal": 202,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0203",
+      "ordinal": 203,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0204",
+      "ordinal": 204,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0205",
+      "ordinal": 205,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0206",
+      "ordinal": 206,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0207",
+      "ordinal": 207,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0208",
+      "ordinal": 208,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0209",
+      "ordinal": 209,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0210",
+      "ordinal": 210,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0211",
+      "ordinal": 211,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0212",
+      "ordinal": 212,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0213",
+      "ordinal": 213,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0214",
+      "ordinal": 214,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0215",
+      "ordinal": 215,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0216",
+      "ordinal": 216,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0217",
+      "ordinal": 217,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0218",
+      "ordinal": 218,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0219",
+      "ordinal": 219,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0220",
+      "ordinal": 220,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0221",
+      "ordinal": 221,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0222",
+      "ordinal": 222,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0223",
+      "ordinal": 223,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0224",
+      "ordinal": 224,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0225",
+      "ordinal": 225,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0226",
+      "ordinal": 226,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0227",
+      "ordinal": 227,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0228",
+      "ordinal": 228,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0229",
+      "ordinal": 229,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0230",
+      "ordinal": 230,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0231",
+      "ordinal": 231,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0232",
+      "ordinal": 232,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0233",
+      "ordinal": 233,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0234",
+      "ordinal": 234,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0235",
+      "ordinal": 235,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0236",
+      "ordinal": 236,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0237",
+      "ordinal": 237,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0238",
+      "ordinal": 238,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0239",
+      "ordinal": 239,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0240",
+      "ordinal": 240,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0241",
+      "ordinal": 241,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0242",
+      "ordinal": 242,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0243",
+      "ordinal": 243,
+      "outcome": "no_change",
+      "reason": "命盤文字混排，無可靠列格依據，原樣保留。"
+    },
+    {
+      "unit_id": "ziwei_073_u0244",
+      "ordinal": 244,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0245",
+      "ordinal": 245,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0246",
+      "ordinal": 246,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0247",
+      "ordinal": 247,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0248",
+      "ordinal": 248,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0249",
+      "ordinal": 249,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0250",
+      "ordinal": 250,
+      "outcome": "not_applicable",
+      "reason": "逐文未見需整理的表格。"
+    },
+    {
+      "unit_id": "ziwei_073_u0251",
+      "ordinal": 251,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0252",
+      "ordinal": 252,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0253",
+      "ordinal": 253,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0254",
+      "ordinal": 254,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0255",
+      "ordinal": 255,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0256",
+      "ordinal": 256,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0257",
+      "ordinal": 257,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0258",
+      "ordinal": 258,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0259",
+      "ordinal": 259,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0260",
+      "ordinal": 260,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0261",
+      "ordinal": 261,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0262",
+      "ordinal": 262,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0263",
+      "ordinal": 263,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0264",
+      "ordinal": 264,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0265",
+      "ordinal": 265,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0266",
+      "ordinal": 266,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0267",
+      "ordinal": 267,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0268",
+      "ordinal": 268,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0269",
+      "ordinal": 269,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0270",
+      "ordinal": 270,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0271",
+      "ordinal": 271,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0272",
+      "ordinal": 272,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0273",
+      "ordinal": 273,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0274",
+      "ordinal": 274,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0275",
+      "ordinal": 275,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0276",
+      "ordinal": 276,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0277",
+      "ordinal": 277,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0278",
+      "ordinal": 278,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0279",
+      "ordinal": 279,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0280",
+      "ordinal": 280,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0281",
+      "ordinal": 281,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0282",
+      "ordinal": 282,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0283",
+      "ordinal": 283,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0284",
+      "ordinal": 284,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0285",
+      "ordinal": 285,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0286",
+      "ordinal": 286,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0287",
+      "ordinal": 287,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0288",
+      "ordinal": 288,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0289",
+      "ordinal": 289,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0290",
+      "ordinal": 290,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0291",
+      "ordinal": 291,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0292",
+      "ordinal": 292,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0293",
+      "ordinal": 293,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0294",
+      "ordinal": 294,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0295",
+      "ordinal": 295,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0296",
+      "ordinal": 296,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0297",
+      "ordinal": 297,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0298",
+      "ordinal": 298,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0299",
+      "ordinal": 299,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0300",
+      "ordinal": 300,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0301",
+      "ordinal": 301,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0302",
+      "ordinal": 302,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0303",
+      "ordinal": 303,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0304",
+      "ordinal": 304,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0305",
+      "ordinal": 305,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0306",
+      "ordinal": 306,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0307",
+      "ordinal": 307,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0308",
+      "ordinal": 308,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0309",
+      "ordinal": 309,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0310",
+      "ordinal": 310,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0311",
+      "ordinal": 311,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0312",
+      "ordinal": 312,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0313",
+      "ordinal": 313,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0314",
+      "ordinal": 314,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0315",
+      "ordinal": 315,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0316",
+      "ordinal": 316,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0317",
+      "ordinal": 317,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0318",
+      "ordinal": 318,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0319",
+      "ordinal": 319,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0320",
+      "ordinal": 320,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0321",
+      "ordinal": 321,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0322",
+      "ordinal": 322,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0323",
+      "ordinal": 323,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0324",
+      "ordinal": 324,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0325",
+      "ordinal": 325,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0326",
+      "ordinal": 326,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0327",
+      "ordinal": 327,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0328",
+      "ordinal": 328,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0329",
+      "ordinal": 329,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0330",
+      "ordinal": 330,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0331",
+      "ordinal": 331,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0332",
+      "ordinal": 332,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0333",
+      "ordinal": 333,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0334",
+      "ordinal": 334,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0335",
+      "ordinal": 335,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0336",
+      "ordinal": 336,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0337",
+      "ordinal": 337,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0338",
+      "ordinal": 338,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0339",
+      "ordinal": 339,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0340",
+      "ordinal": 340,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0341",
+      "ordinal": 341,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0342",
+      "ordinal": 342,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0343",
+      "ordinal": 343,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0344",
+      "ordinal": 344,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0345",
+      "ordinal": 345,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0346",
+      "ordinal": 346,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0347",
+      "ordinal": 347,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0348",
+      "ordinal": 348,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0349",
+      "ordinal": 349,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0350",
+      "ordinal": 350,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0351",
+      "ordinal": 351,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0352",
+      "ordinal": 352,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0353",
+      "ordinal": 353,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0354",
+      "ordinal": 354,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0355",
+      "ordinal": 355,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0356",
+      "ordinal": 356,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0357",
+      "ordinal": 357,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0358",
+      "ordinal": 358,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0359",
+      "ordinal": 359,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0360",
+      "ordinal": 360,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0361",
+      "ordinal": 361,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0362",
+      "ordinal": 362,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0363",
+      "ordinal": 363,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0364",
+      "ordinal": 364,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0365",
+      "ordinal": 365,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0366",
+      "ordinal": 366,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0367",
+      "ordinal": 367,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0368",
+      "ordinal": 368,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0369",
+      "ordinal": 369,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0370",
+      "ordinal": 370,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0371",
+      "ordinal": 371,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0372",
+      "ordinal": 372,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0373",
+      "ordinal": 373,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0374",
+      "ordinal": 374,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0375",
+      "ordinal": 375,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    },
+    {
+      "unit_id": "ziwei_073_u0376",
+      "ordinal": 376,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0377",
+      "ordinal": 377,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0378",
+      "ordinal": 378,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0379",
+      "ordinal": 379,
+      "outcome": "no_change",
+      "reason": "命盤混排原文無可靠列格定位，保留不猜排。"
+    },
+    {
+      "unit_id": "ziwei_073_u0380",
+      "ordinal": 380,
+      "outcome": "not_applicable",
+      "reason": "實讀本單元為論述或引文，無表格需整理。"
+    }
+  ],
+  "old_labels_exposed": false,
+  "run_id": "run-20261117-z073-rebuild-001",
+  "source_id": "ziwei_073",
+  "semantic_decision_revision": "annotation-decisions-2026-10-13-r1",
+  "field_evidence": [],
+  "annotation_file_sha256": null,
+  "chunks_file_sha256": null,
+  "quality_reviews": [],
+  "quality_diagnostics_and_dispositions": [],
+  "execution_policy": "user_authorized_rebuild_after_workspace_loss",
+  "decision": "execute",
+  "reused_from": null,
+  "history_report_missing": false,
+  "annotation_changes": [],
+  "package_execution_policy": "reuse-completed-repair-four-continue-v4"
+}
