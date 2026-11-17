@@ -1,0 +1,46 @@
+{
+  "candidates": [
+    {
+      "chunk": 15,
+      "status": "passed",
+      "serialization": "complete model_dump before second validation",
+      "sha256": "d0ce324982b00b037f72437cdffdebe02cba9e1d8a068f79fe16fa0a9ede4723"
+    },
+    {
+      "chunk": 16,
+      "status": "passed",
+      "serialization": "complete model_dump before second validation",
+      "sha256": "2abcea272f1c9a2f0cafd6e458e6cf863ea2a22ca4354fc918f639e222850995"
+    },
+    {
+      "chunk": 17,
+      "status": "passed",
+      "serialization": "complete model_dump before second validation",
+      "sha256": "1b7266d3c9715fce26c66030fddf9a0bf3768d9f1dc180a817d7ac4740be02d0"
+    },
+    {
+      "chunk": 18,
+      "status": "passed",
+      "serialization": "complete model_dump before second validation",
+      "sha256": "daf56a62400bb49abf028faa4137a349cf1ba04707305bd1b7298b9aa6efb5ec"
+    },
+    {
+      "chunk": 19,
+      "status": "passed",
+      "serialization": "complete model_dump before second validation",
+      "sha256": "f2b22c417709d0cc07a0e12bc68016106ec1938afd085280825a9a71ec5ed99d"
+    }
+  ],
+  "noncommitted_schema_boundary_probes": [
+    {
+      "target": "寅宫",
+      "result": "rejected",
+      "error": "relation participant name/entity_type is not registered for this school"
+    },
+    {
+      "target": "寅宫或申宫",
+      "result": "rejected",
+      "error": "relation participant name/entity_type is not registered for this school"
+    }
+  ]
+}

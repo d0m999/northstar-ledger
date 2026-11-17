@@ -1,0 +1,216 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c004",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    28
+  ],
+  "chunk_text": "多吉星時，始能以「將星」論之。\n最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。\n",
+  "chunk_index": 4,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "作者说明武曲的将星作用体现为积极、坚持求财；阴性内敛，且会多吉星时仍讲究谋略方法，而非横冲直撞。首句缺前文，不据此独立判格。",
+  "summary_en": "The author describes Wu Qu (Military Melody) as proactive and persistent in seeking wealth. Its yin, inward quality means that, when meeting many auspicious stars, it uses strategy rather than reckless pursuit. The opening fragment lacks its antecedent.",
+  "keywords": [
+    "武曲",
+    "星曜性质",
+    "求财",
+    "阴性",
+    "会多吉星"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Military Melody",
+    "star characteristics",
+    "wealth seeking",
+    "yin",
+    "many auspicious stars"
+  ],
+  "topic": "财运分析",
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 122,
+          "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 122,
+          "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 122,
+          "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 122,
+          "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c4_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 16,
+          "end": 122,
+          "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "首句承前且缺主语；完整后段独立可用，保留阴性与会多吉条件。",
+    "usable_spans": [
+      {
+        "start": 16,
+        "end": 123,
+        "quote": "最後還要加以說明的是，武曲的「將星」作用，表現在求財方面，其態度會顯得較主動積極，並較堅持，但因屬性為「陰」，陰主「內斂」，因此在會多吉星時，雖然是積極求財，但仍會講究謀略及方法，不會只為求財而横衝直撞到處鑽營。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质"
+    ],
+    "topics_mentioned": [
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": "星曜性质",
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

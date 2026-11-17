@@ -1,0 +1,943 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c001",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    22,
+    23
+  ],
+  "chunk_text": "第四章武曲\n武曲為財帛主，又名將星，本文將透過此二賦性，再佐以武曲五行屬金及屬性為陰的特質，對武曲的命理作用，逐一加以解說。\n傳統論命，最不喜女命武曲坐守，主要是肇因於武曲的「寡宿」作用，特別是武曲加會火星時，更是如此。本文除從星曜的賦性及其五行生剋制化對武曲的「寡宿」作用加以解說外，並舉一女命的婚姻遭遇，來說明此一命理現象。\n古傳賦文對武曲的賦性有諸多描述，其中又以武貪、武殺及武破三種組合著墨較多，但往往偏向負面的評價。本文將從星曜的賦性及其五行生剋制化著手，對相關的命理現象加以述。\n「財與囚仇」也是武曲中負面評語較多的一個格局，但實際上必須視其吉化程度及所行限運的吉凶，才能論斷是好是壞。本文將舉王永慶先生為例，說明「財與囚仇」的格局作用，不見得就只有不好的一面。\n\n除「財與囚仇」外，「鈴昌陀武」、「因財持刀」及「武貪不發少年人」可說是武曲的格局中最為人所熟知者。至於其他的格局，則因武曲為財星及將星之故，大部份圍繞在此二主題上，例如「武曲文星於身命，文武兼備」、「武曲廟旺，威名赫奕」、「武曲祿馬交馳，發財遠邑」、「武曲魁鉞居廟旺，財賦之官」、「武曲加吉坐遷移，巨商高賈」、「武曲貪狼財宅位，橫發資財」等皆是。本文除採用理論命盤來說明這些格局的作用外，並佐以實際命例，以增進讀者在此方面的認識。",
+  "chunk_index": 1,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "本章预告从财帛主、将星、阴金及五行生克解释武曲，讨论女命寡宿和加会火星、武贪武杀武破组合及财与囚仇等格局。财与囚仇须结合吉化与限运，不一概断凶；王永庆与女命仅为后文命例预告。列举铃昌陀武、因财持刀、武贪不发少年人及六则赋文，未证明具体成格。",
+  "summary_en": "This chapter introduces Military Melody as a wealth ruler, a general, and yin metal. It previews female-chart solitude, particularly with Fire Star, and the Wu Tan, Wu Sha and Wu Po combinations. Cai Yu Qiu Chou must be assessed through favorable transformations and luck periods, not judged uniformly adverse. Wang Yung-ching and a woman are announced as later examples, not analyzed here. Other named patterns include Ling Chang Tuo Wu, Yin Cai Chi Dao and Wu Tan Bu Fa Shao Nian Ren. Six verses mention literary talent, prominence, distant wealth through salary and horse, noble helpers, favorable Travel Palace placement, and Military Melody with Greedy Wolf in wealth and property positions. These are introductory mentions, not confirmed formations.",
+  "keywords": [
+    "武曲",
+    "阴金",
+    "寡宿",
+    "财与囚仇",
+    "铃昌陀武",
+    "因财持刀",
+    "武贪不发少年人",
+    "赋文"
+  ],
+  "keywords_en": [
+    "Military Melody",
+    "yin metal",
+    "Gu Su",
+    "Cai Yu Qiu Chou",
+    "Ling Chang Tuo Wu",
+    "Yin Cai Chi Dao",
+    "Wu Tan Bu Fa Shao Nian Ren",
+    "introductory verses",
+    "Life Palace",
+    "Body Palace",
+    "Wealth Palace",
+    "Property Palace"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 6,
+          "end": 17,
+          "quote": "武曲為財帛主，又名將星"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 185,
+          "end": 197,
+          "quote": "武貪、武殺及武破三種組合"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 246,
+          "end": 268,
+          "quote": "「財與囚仇」也是武曲中負面評語較多的一個格局"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 451,
+          "end": 462,
+          "quote": "武曲祿馬交馳，發財遠邑"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 145,
+          "end": 153,
+          "quote": "一女命的婚姻遭遇"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 465,
+          "end": 477,
+          "quote": "武曲魁鉞居廟旺，財賦之官"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 6,
+          "end": 12,
+          "quote": "武曲為財帛主"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 97,
+          "end": 103,
+          "quote": "武曲加會火星"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 495,
+          "end": 502,
+          "quote": "武曲貪狼財宅位"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 436,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 436,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 480,
+          "end": 492,
+          "quote": "武曲加吉坐遷移，巨商高賈"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 495,
+          "end": 507,
+          "quote": "武曲貪狼財宅位，橫發資財"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 495,
+          "end": 507,
+          "quote": "武曲貪狼財宅位，橫發資財"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 465,
+          "end": 477,
+          "quote": "武曲魁鉞居廟旺，財賦之官"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 348,
+          "end": 354,
+          "quote": "「鈴昌陀武」"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.formation_status",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.patterns_mentioned.0.evidence",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 185,
+          "end": 187,
+          "quote": "武貪"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 188,
+          "end": 190,
+          "quote": "武殺"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 191,
+          "end": 193,
+          "quote": "武破"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 247,
+          "end": 251,
+          "quote": "財與囚仇"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 356,
+          "end": 360,
+          "quote": "因財持刀"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 363,
+          "end": 370,
+          "quote": "武貪不發少年人"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.6",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 121,
+          "end": 127,
+          "quote": "五行生剋制化"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.7",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 284,
+          "end": 286,
+          "quote": "限運"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.8",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 424,
+          "end": 436,
+          "quote": "武曲文星於身命，文武兼備"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.9",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 439,
+          "end": 448,
+          "quote": "武曲廟旺，威名赫奕"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.10",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 451,
+          "end": 462,
+          "quote": "武曲祿馬交馳，發財遠邑"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.11",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 465,
+          "end": 477,
+          "quote": "武曲魁鉞居廟旺，財賦之官"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.12",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 480,
+          "end": 492,
+          "quote": "武曲加吉坐遷移，巨商高賈"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.13",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 495,
+          "end": 507,
+          "quote": "武曲貪狼財宅位，橫發資財"
+        }
+      ],
+      "basis": "source",
+      "usage": "mentioned",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "对星组合",
+      "格局解析"
+    ],
+    "topics_mentioned": [
+      "财运分析",
+      "感情姻缘",
+      "事业运势"
+    ],
+    "analysis_methods": [],
+    "relations": [],
+    "unregistered_terms": [
+      {
+        "surface": "武貪",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Tan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武殺",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Sha",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武破",
+        "proposed_category": "star_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Po",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "財與囚仇",
+        "proposed_category": "pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Cai Yu Qiu Chou",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "因財持刀",
+        "proposed_category": "pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Yin Cai Chi Dao",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武貪不發少年人",
+        "proposed_category": "pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Tan Bu Fa Shao Nian Ren",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "五行生剋制化",
+        "proposed_category": "analysis_method",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Xing Sheng Ke Zhi Hua",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "限運",
+        "proposed_category": "time_context",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Xian Yun",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲文星於身命，文武兼備",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Wen Xing Yu Shen Ming Wen Wu Jian Bei",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲廟旺，威名赫奕",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Miao Wang Wei Ming He Yi",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲祿馬交馳，發財遠邑",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Lu Ma Jiao Chi Fa Cai Yuan Yi",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲魁鉞居廟旺，財賦之官",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Kui Yue Ju Miao Wang Cai Fu Zhi Guan",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲加吉坐遷移，巨商高賈",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Jia Ji Zuo Qian Yi Ju Shang Gao Gu",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "武曲貪狼財宅位，橫發資財",
+        "proposed_category": "verse_pattern",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Wu Qu Tan Lang Cai Zhai Wei Heng Fa Zi Cai",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "火星",
+      "贪狼"
+    ],
+    "palaces_mentioned": [
+      "身宫",
+      "命宫",
+      "迁移宫",
+      "财帛宫",
+      "田宅宫"
+    ],
+    "sihua_mentioned": [],
+    "patterns_mentioned": [
+      {
+        "pattern_name": "铃昌陀武",
+        "formation_status": null,
+        "evidence": null
+      }
+    ],
+    "star_pairs_mentioned": [
+      "天魁天钺"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

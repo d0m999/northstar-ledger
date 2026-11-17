@@ -1,0 +1,23 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c019",
+  "status": "BLOCKED_PENDING_STRUCTURED_REPRESENTATION_REVIEW",
+  "draft_file": "c019.json",
+  "draft_sha256": "f2b22c417709d0cc07a0e12bc68016106ec1938afd085280825a9a71ec5ed99d",
+  "source_quality": "eligible",
+  "evidence": {
+    "start": 114,
+    "end": 150,
+    "quote": "若年干為陽時，天馬必定在寅宮或申宮，若年干為陰時，天馬一定在巳宮或亥宮。"
+  },
+  "requested_structure": "星曜入宫 relation for Tian Ma conditioned on year-stem polarity with disjunctive earthly-branch destinations",
+  "frozen_boundary": "RelationParticipant entity_type/name allow only stars, twelve/special palaces and patterns; 寅宫 or 寅宫或申宫 rejected by unchanged validator. No OR target object in RelationMention.",
+  "unsafe_alternatives_rejected": [
+    "split into simultaneously true two placements",
+    "rename earthly branch to an inferred functional palace",
+    "mislabel alternatives as 同宫",
+    "downgrade retrieval eligibility to hide missing structure"
+  ],
+  "preserved_expressible_work": "Exact 04 text, bilingual summary, source terms, topics/domains and conditional grand-cycle mention are preserved in validated complete draft.",
+  "decision_needed": "独立复核能否按冻结合同用不丢条件且合法的结构表达，或应在S5隔离为版本化合同待决；本任务不改schema。",
+  "validation_probe_log": "batch015_019_validation_attempt2.json"
+}

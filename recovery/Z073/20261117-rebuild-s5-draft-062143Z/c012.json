@@ -1,0 +1,1016 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c012",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    35
+  ],
+  "chunk_text": "命例-一個挨揍的女強人\n為增進讀者對武曲坐命者的命理現象，有進一步的認識，茲舉下列命例說明之。\n林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。\n女命先天命理格局太強，要是後天某些條件未能配合，恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。這些後天的配合條件，其中尤以婚姻為重。而夫妻的婚姻關係貴在和",
+  "chunk_index": 12,
+  "school": "紫微",
+  "content_type": "案例分析",
+  "difficulty": "medium",
+  "summary": "林太太命例：命宫在子，武曲、天府、文昌、左辅坐守，有禄权照会；身宫在申，廉贞、禄存、天马同宫，三方昌曲左右来合。作者称命身皆紫府相朝垣，并提醒先天强格仍须后天尤其婚姻条件配合。末句残缺保留；禄权未明化曜星。",
+  "summary_en": "In Mrs. Lin's case, the Life Palace at Zi contains Wu Qu, Tian Fu, Wen Chang and Zuo Fu, with Lu and Quan illuminating it; the transforming stars are unnamed. The Body Palace at Shen contains Lian Zhen, Lu Cun and Tian Ma, with Chang Qu and Zuo You support from three directions. The author calls both a Zi Fu Xiang Chao Yuan configuration, while warning that a strong natal configuration still requires later circumstances, especially marriage, to cooperate. The final sentence is incomplete.",
+  "keywords": [
+    "武曲",
+    "天府",
+    "文昌",
+    "左辅",
+    "廉贞",
+    "禄存",
+    "天马",
+    "紫府相朝垣",
+    "禄权",
+    "婚姻"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Tian Fu",
+    "Wen Chang",
+    "Zuo Fu",
+    "Lian Zhen",
+    "Lu Cun",
+    "Tian Ma",
+    "Zi Fu Xiang Chao Yuan",
+    "Lu and Quan",
+    "marriage"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 18,
+          "end": 20,
+          "quote": "武曲"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 59,
+          "end": 61,
+          "quote": "天府"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 62,
+          "end": 64,
+          "quote": "文昌"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 64,
+          "end": 66,
+          "quote": "左輔"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 83,
+          "end": 85,
+          "quote": "廉貞"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 86,
+          "end": 88,
+          "quote": "祿存"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.6",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 88,
+          "end": 90,
+          "quote": "天馬"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 52,
+          "end": 56,
+          "quote": "命宮在子"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 76,
+          "end": 80,
+          "quote": "身宮在申"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.4",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.5",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.6",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.7",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.8",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 75,
+          "quote": "並有祿權照會"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 69,
+          "end": 75,
+          "quote": "並有祿權照會"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.1.star",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 48,
+          "end": 126,
+          "quote": "林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.analysis_methods.0",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 127,
+          "end": 176,
+          "quote": "女命先天命理格局太強，要是後天某些條件未能配合，恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 176,
+          "end": 195,
+          "quote": "這些後天的配合條件，其中尤以婚姻為重。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 151,
+          "end": 176,
+          "quote": "恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c12_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.star_pairs_mentioned.0",
+      "scope": {
+        "scope_id": "c12_lin",
+        "kind": "case",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 81,
+          "end": 95,
+          "quote": "除有廉貞並祿存天馬同宮坐守外"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "末句截于和，不补下页；此前命例与后天条件完整可用。",
+    "usable_spans": [
+      {
+        "start": 0,
+        "end": 195,
+        "quote": "命例-一個挨揍的女強人\n為增進讀者對武曲坐命者的命理現象，有進一步的認識，茲舉下列命例說明之。\n林太太的命宮在子，武曲天府和文昌左輔坐守，並有祿權照會，身宮在申，除有廉貞並祿存天馬同宮坐守外，三方並有昌曲左右來合，命身皆為「紫府相朝垣」大格局（盤二）。\n女命先天命理格局太強，要是後天某些條件未能配合，恐難「富貴全美」，反有變成「能者多勞」的勞碌命格。這些後天的配合條件，其中尤以婚姻為重。"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "格局解析",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "命运总论"
+    ],
+    "analysis_methods": [
+      "格局分析"
+    ],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "star",
+            "location": "子"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "star",
+            "location": "申"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "申"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "star",
+            "location": "申"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "申"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天马",
+            "role": "star",
+            "location": "申"
+          },
+          {
+            "entity_type": "palace",
+            "name": "身宫",
+            "role": "palace",
+            "location": "申"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "文昌",
+            "role": "member",
+            "location": "子"
+          },
+          {
+            "entity_type": "star",
+            "name": "左辅",
+            "role": "member",
+            "location": "子"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      },
+      {
+        "relation_type": "同宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "廉贞",
+            "role": "member",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "禄存",
+            "role": "member",
+            "location": "申"
+          },
+          {
+            "entity_type": "star",
+            "name": "天马",
+            "role": "member",
+            "location": "申"
+          }
+        ],
+        "scope_id": "c12_lin",
+        "negated": false,
+        "condition": null
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "紫府相朝垣",
+        "proposed_category": "source_pattern",
+        "reason": "来源命名未精确注册，不删相映射紫府朝垣。",
+        "english_surface": "Zi Fu Xiang Chao Yuan",
+        "scope_id": "c12_lin"
+      },
+      {
+        "surface": "昌曲左右",
+        "proposed_category": "star_group",
+        "reason": "保留原成组简称，不推所有成员同宫。",
+        "english_surface": "Chang Qu Zuo You group",
+        "scope_id": "c12_lin"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲",
+      "天府",
+      "文昌",
+      "左辅",
+      "廉贞",
+      "禄存",
+      "天马"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c12_lin"
+      },
+      {
+        "star": null,
+        "transformation": "化权",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c12_lin"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [
+      "禄存天马"
+    ],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

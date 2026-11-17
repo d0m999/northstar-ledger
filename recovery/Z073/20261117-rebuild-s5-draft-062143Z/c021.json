@@ -1,0 +1,916 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c021",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    43,
+    44,
+    45
+  ],
+  "chunk_text": "天馬在賦性主「奔馳」，代表一種外在的動。任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」。古傳賦文在談到「祿馬交馳」時，皆以吉論，實則不然，仍須視坐守宮位的旺弱吉凶而定。若坐守宮位旺且吉，則奔馳的結果以吉論，反之若坐守宮位弱且凶，徒然是奔波、勞碌，結果還是以不好論。\n當武曲旺宮坐命（身）且會照祿星，此時祿星不但能增旺命（身）宮，且能彰顯出武曲利於財的作用。這時若再會有天馬，形成「祿馬交馳」，自然就利於外，但是否一定是要在「異鄉」才能「得意、富有」？由於古今社會結構不同，再拜科技進步之賜，現代的人不一定要出門，即能與外界或遠方的人有所往來，故賦文中的「異鄉」應從廣義的「向外」來做解釋。若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用。\n臨四馬之地的作用為增進讀者對四馬之地作用的瞭解，茲補充說明如下。\n就地支宮位本身來看，四馬之地並無作用，但若有星曜坐入時，就會因之而有不同的作用。一般說來，甲級星曜大致可分為主「動」與主「靜」兩種，例如殺、破、狼主「動」，相對而言，紫微、天府則主「靜」。由於天馬的賦性主「奔馳」，故四馬之地被引伸為「動」的表徵，因此任何星曜進入四馬之地，皆會顯得比較「動」。\n舉例來說，天府五行屬土，原本主「靜」，但進入四馬之地後，相對的就比較會「動」，若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些。同理，原來主「動」的星曜進入四馬之地後，就會動得更厲害。例如，七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些。（註七）在了解星曜坐入四馬之地會動得更厲害些的作用後，對武曲坐入四馬之地且又形成「祿馬交馳」者，此時對先賢的「異鄉得意」說法，就能有更深一層的認知。\n註七：有關「四馬之地」的作用說明，皆取材自紫雲先生於一九九五年年底在「創見堂」開授「紫微斗數心法班」的上課內容。\n",
+  "chunk_index": 21,
+  "school": "紫微",
+  "content_type": "实战断语",
+  "difficulty": "medium",
+  "summary": "天马主奔驰，禄星（化禄或禄存）与天马坐会称禄马交驰，仍须宫位旺吉才吉，弱凶则奔波无益。武曲旺宫坐命（身）会禄马利于向外，不必远赴异乡；大限十年亦须兼看先天命宫。四马之地须有星曜才显动性，天府巳命较酉活泼，七杀寅命较戌冲劲强，均属作者举例及授课观点。",
+  "summary_en": "Heavenly Horse signifies movement. Lu Ma Jiao Chi combines Horse with a salary influence, either Prosperity Transformation or Salary Star; it is favorable only when the occupied palace is strong and favorable. Military Melody in a strong Life or Body placement meeting salary and Horse favors outward activity, not necessarily relocation abroad. The same reasoning applies during a ten-year Grand Cycle while retaining the foundational Life Palace assessment. Four Horse locations intensify the activity of occupying stars: Heavenly Treasury at Si is more lively than at You, and Seven Killings at Yin more forceful than at Xu. These comparisons are qualified teaching examples, not reconstructed charts.",
+  "keywords": [
+    "天马",
+    "禄马交驰",
+    "化禄",
+    "禄存",
+    "武曲",
+    "大限",
+    "四马之地",
+    "天府",
+    "七杀"
+  ],
+  "keywords_en": [
+    "Heavenly Horse",
+    "Lu Ma Jiao Chi",
+    "Prosperity Transformation",
+    "Salary Star",
+    "Military Melody",
+    "Grand Cycle",
+    "Si Ma Zhi Di",
+    "Heavenly Treasury",
+    "Seven Killings"
+  ],
+  "topic": "出行迁移",
+  "annotation_evidence": [
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 286,
+          "end": 307,
+          "quote": "賦文中的「異鄉」應從廣義的「向外」來做解釋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "quote": "天馬在賦性主「奔馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 521,
+          "end": 541,
+          "quote": "任何星曜進入四馬之地，皆會顯得比較「動」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 47,
+          "end": 57,
+          "quote": "即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 308,
+          "end": 333,
+          "quote": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 286,
+          "end": 307,
+          "quote": "賦文中的「異鄉」應從廣義的「向外」來做解釋"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 180,
+          "end": 191,
+          "quote": "彰顯出武曲利於財的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "quote": "天馬在賦性"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 37,
+          "end": 42,
+          "quote": "化祿或祿存"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 148,
+          "end": 152,
+          "quote": "武曲旺宮"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.3",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 479,
+          "end": 484,
+          "quote": "紫微、天府"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.4",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 479,
+          "end": 484,
+          "quote": "紫微、天府"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.5",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 653,
+          "end": 657,
+          "quote": "七殺在寅"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 148,
+          "end": 157,
+          "quote": "武曲旺宮坐命（身）"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 148,
+          "end": 157,
+          "quote": "武曲旺宮坐命（身）"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 464,
+          "end": 469,
+          "quote": "殺、破、狼"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 52,
+          "end": 56,
+          "quote": "祿馬交馳"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.2",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 364,
+          "end": 368,
+          "quote": "四馬之地"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.tiangan",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.palace",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.source_palace",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.target_palace",
+      "scope": {
+        "scope_id": "salary_alternative",
+        "kind": "conditional",
+        "condition": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 20,
+          "end": 57,
+          "quote": "任何星曜坐守的宮位，若坐會有祿星（化祿或祿存）及天馬，即可稱為「祿馬交馳」"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0",
+      "scope": {
+        "scope_id": "grand_cycle",
+        "kind": "conditional",
+        "condition": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 308,
+          "end": 361,
+          "quote": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_mentions.0.chart_type",
+      "scope": {
+        "scope_id": "grand_cycle",
+        "kind": "conditional",
+        "condition": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 308,
+          "end": 361,
+          "quote": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "grand_cycle",
+        "kind": "conditional",
+        "condition": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 308,
+          "end": 361,
+          "quote": "若是大限逢武曲旺宮坐會祿馬，則在此十年亦作同一理斷，惟因論命須以命宮為樞紐，故此時仍不可忽視先天命宮的作用"
+        }
+      ],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "example_巳",
+        "kind": "conditional",
+        "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 582,
+          "end": 621,
+          "quote": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "example_酉",
+        "kind": "conditional",
+        "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 582,
+          "end": 621,
+          "quote": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.2",
+      "scope": {
+        "scope_id": "example_寅",
+        "kind": "conditional",
+        "condition": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 653,
+          "end": 682,
+          "quote": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.3",
+      "scope": {
+        "scope_id": "example_戌",
+        "kind": "conditional",
+        "condition": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些",
+        "attribution": "本书作者"
+      },
+      "spans": [
+        {
+          "start": 653,
+          "end": 682,
+          "quote": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些"
+        }
+      ],
+      "basis": "source",
+      "usage": "used",
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.school_variant",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "intro",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本书作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": "discussed",
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "eligible",
+    "reason": null,
+    "usable_spans": []
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "宫位变化",
+      "格局解析",
+      "流年运程"
+    ],
+    "topics_mentioned": [
+      "出行迁移",
+      "财运分析"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "巳"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "巳"
+          }
+        ],
+        "scope_id": "example_巳",
+        "negated": false,
+        "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "天府",
+            "role": "star",
+            "location": "酉"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "酉"
+          }
+        ],
+        "scope_id": "example_酉",
+        "negated": false,
+        "condition": "若在不考慮其他星曜的影響之下，天府在巳坐命者的個性就比天府在酉坐命者來得活潑些"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "寅"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "寅"
+          }
+        ],
+        "scope_id": "example_寅",
+        "negated": false,
+        "condition": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "七杀",
+            "role": "star",
+            "location": "戌"
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": "戌"
+          }
+        ],
+        "scope_id": "example_戌",
+        "negated": false,
+        "condition": "七殺在寅坐命者，做起事來的衝勁，就比七殺在戌坐命者來得強些"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "殺、破、狼",
+        "proposed_category": "star_group",
+        "reason": "来源缩称；不从名称推同宫、具体星位或成格",
+        "english_surface": "Sha Po Lang",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "祿馬交馳",
+        "proposed_category": "pattern",
+        "reason": "来源定义含化禄或禄存，不映射成禄存天马pair",
+        "english_surface": "Lu Ma Jiao Chi",
+        "scope_id": "intro"
+      },
+      {
+        "surface": "四馬之地",
+        "proposed_category": "branch_location_group",
+        "reason": "来源用语未注册为对应canonical；保留原文，不推成格或关系",
+        "english_surface": "Si Ma Zhi Di",
+        "scope_id": "intro"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [
+      {
+        "time_context": "大限",
+        "scope_id": "grand_cycle",
+        "subject": "武曲",
+        "chart_type": null
+      }
+    ],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "天马",
+      "禄存",
+      "武曲",
+      "紫微",
+      "天府",
+      "七杀"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化禄",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "salary_alternative"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": "大限",
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": {
+    "method": "new_manual_source_annotation",
+    "run_id": "run-20261117-z073-rebuild-001",
+    "not_human_acceptance": true
+  }
+}

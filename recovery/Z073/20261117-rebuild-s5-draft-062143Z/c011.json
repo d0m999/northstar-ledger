@@ -1,0 +1,529 @@
+{
+  "chunk_id": "dots_all_20261013_ziwei_073_c011",
+  "source_file": "紫云论斗数曜赋性第二册  390页",
+  "page_range": [
+    34,
+    35
+  ],
+  "chunk_text": "临男命武曲的寡宿作用前面有關武曲為「寡宿」的諸多說明，均是以女命為主，實則亦適用於男命，只不過因傳統認為男喜陽剛、女喜陰柔，故較不利女命。其實不論男女，只要是武曲坐命不會吉或會煞多者，均不利婚姻感情和親情人際關係。惟須注意的是，當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題。關於武曲在疾病的推論，將於後再詳述之。\n以下僅摘錄古傳賦文的相關敘述，供讀者參考，就不再加以說明。《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）、「若居夫妻宮則男剋妻、女剋夫；守於身命，若是夫妻宫主星閑陷，亦同一理斷。惟婦奪夫權而男方不計，可免刑剋，否則兩剛相敵，必主因剋生離」，而先賢亦有類似的說法如下：「此星不論男女逢之，而會合羊陀，男孤、女寡，刑剋極重。」（註四）又，賦文中的四煞是指羊陀火鈴。\n",
+  "chunk_index": 11,
+  "school": "紫微",
+  "content_type": "概念解释",
+  "difficulty": "medium",
+  "summary": "武曲坐命缺吉或多煞的不利婚姻、人际作用亦适用于男性；坐会火铃再有化忌冲时，作者提示也可能是自身健康问题。后引古赋讨论命身、夫妻宫、羊陀与四煞及配偶相让条件；四煞明指羊陀火铃，不据古断直接判现实婚姻。",
+  "summary_en": "The author extends Wu Qu marital and interpersonal difficulties to men when auspicious support is absent or harmful stars prevail. With Huo Ling and a Hua Ji clash, health problems may also be involved. Classical quotations discuss Life, Body and Spouse Palaces, Yang Tuo and Si Sha, including spouse tolerance as an exception to separation claims. Si Sha is explicitly defined as Yang Tuo Huo Ling. These are attributed rules, not observed outcomes in an actual case.",
+  "keywords": [
+    "武曲",
+    "化忌",
+    "四煞",
+    "羊陀火铃",
+    "命宫",
+    "夫妻宫",
+    "婚姻",
+    "健康"
+  ],
+  "keywords_en": [
+    "Wu Qu",
+    "Hua Ji",
+    "Si Sha",
+    "Yang Tuo Huo Ling",
+    "Life Palace",
+    "Spouse Palace",
+    "marriage",
+    "health"
+  ],
+  "topic": null,
+  "annotation_evidence": [
+    {
+      "field_path": "ziwei.chart_type",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_applicable",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.time_context",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.stars_mentioned.0",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 83,
+          "quote": "武曲坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.0",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 387,
+          "end": 402,
+          "quote": "又，賦文中的四煞是指羊陀火鈴。"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.0",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 79,
+          "end": 83,
+          "quote": "武曲坐命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.1",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 290,
+          "end": 294,
+          "quote": "守於身命"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.palaces_mentioned.2",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 276,
+          "end": 281,
+          "quote": "若居夫妻宮"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.0",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 92,
+          "end": 106,
+          "quote": "均不利婚姻感情和親情人際關係"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domains.1",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 132,
+          "end": 154,
+          "quote": "此時若再有化忌來沖，則有可能是本身的健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.0",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 95,
+          "end": 99,
+          "quote": "婚姻感情"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.1",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 100,
+          "end": 106,
+          "quote": "親情人際關係"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.topics_mentioned.2",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 147,
+          "end": 154,
+          "quote": "本身的健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0",
+      "scope": {
+        "scope_id": "c11_health",
+        "kind": "conditional",
+        "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 114,
+          "end": 154,
+          "quote": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.sihua_mentioned.0.star",
+      "scope": {
+        "scope_id": "c11_health",
+        "kind": "conditional",
+        "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "not_mentioned",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.0",
+      "scope": {
+        "scope_id": "c11_health",
+        "kind": "conditional",
+        "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖",
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 114,
+          "end": 154,
+          "quote": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.relations.1",
+      "scope": {
+        "scope_id": "c11_quoted_spouse",
+        "kind": "conditional",
+        "condition": "若居夫妻宮",
+        "attribution": "《全書，諸星在命身及十二宮吉凶要訣》引文"
+      },
+      "spans": [
+        {
+          "start": 276,
+          "end": 289,
+          "quote": "若居夫妻宮則男剋妻、女剋夫"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.unregistered_terms.1",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [
+        {
+          "start": 10,
+          "end": 26,
+          "quote": "前面有關武曲為「寡宿」的諸多說明"
+        }
+      ],
+      "basis": "source",
+      "usage": null,
+      "null_reason": null,
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "ziwei.knowledge_domain",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    },
+    {
+      "field_path": "topic",
+      "scope": {
+        "scope_id": "c11_author",
+        "kind": "concept",
+        "condition": null,
+        "attribution": "本段作者"
+      },
+      "spans": [],
+      "basis": "source",
+      "usage": null,
+      "null_reason": "multiple_values",
+      "derivation_rule": null,
+      "input_paths": []
+    }
+  ],
+  "retrieval_eligibility": {
+    "status": "limited",
+    "reason": "标题首字「临」疑似OCR混入，完整正文从前面起可用，不修原文。",
+    "usable_spans": [
+      {
+        "start": 10,
+        "end": 403,
+        "quote": "前面有關武曲為「寡宿」的諸多說明，均是以女命為主，實則亦適用於男命，只不過因傳統認為男喜陽剛、女喜陰柔，故較不利女命。其實不論男女，只要是武曲坐命不會吉或會煞多者，均不利婚姻感情和親情人際關係。惟須注意的是，當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖，則有可能是本身的健康問題。關於武曲在疾病的推論，將於後再詳述之。\n以下僅摘錄古傳賦文的相關敘述，供讀者參考，就不再加以說明。《全書，諸星在命身及十二宮吉凶要訣》對此有如下的描述：「武曲守命廟旺值羊陀，則主孤剋；守於平陷之地會遇四煞，既主孤且主貧，破相延生」（註三）、「若居夫妻宮則男剋妻、女剋夫；守於身命，若是夫妻宫主星閑陷，亦同一理斷。惟婦奪夫權而男方不計，可免刑剋，否則兩剛相敵，必主因剋生離」，而先賢亦有類似的說法如下：「此星不論男女逢之，而會合羊陀，男孤、女寡，刑剋極重。」（註四）又，賦文中的四煞是指羊陀火鈴。\n"
+      }
+    ]
+  },
+  "content_language": "zh",
+  "school_code": "ziwei",
+  "ziwei": {
+    "knowledge_domains": [
+      "星曜性质",
+      "四化星"
+    ],
+    "topics_mentioned": [
+      "感情姻缘",
+      "人际关系",
+      "健康医疗"
+    ],
+    "analysis_methods": [],
+    "relations": [
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "命宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c11_health",
+        "negated": false,
+        "condition": "當武曲坐命會煞多者，特別是坐會火鈴，此時若再有化忌來沖"
+      },
+      {
+        "relation_type": "星曜入宫",
+        "participants": [
+          {
+            "entity_type": "star",
+            "name": "武曲",
+            "role": "star",
+            "location": null
+          },
+          {
+            "entity_type": "palace",
+            "name": "夫妻宫",
+            "role": "palace",
+            "location": null
+          }
+        ],
+        "scope_id": "c11_quoted_spouse",
+        "negated": false,
+        "condition": "若居夫妻宮"
+      }
+    ],
+    "unregistered_terms": [
+      {
+        "surface": "羊陀火鈴",
+        "proposed_category": "star_group",
+        "reason": "作者明确四煞指羊陀火铃，保留集合称谓；未从组合简称推具体星位。",
+        "english_surface": "Yang Tuo Huo Ling group",
+        "scope_id": "c11_author"
+      },
+      {
+        "surface": "寡宿",
+        "proposed_category": "source_star_epithet",
+        "reason": "武曲性质称谓，非同名小星。",
+        "english_surface": "Gua Su epithet",
+        "scope_id": "c11_author"
+      }
+    ],
+    "chart_type": null,
+    "chart_types_mentioned": [],
+    "relationship_types_mentioned": [],
+    "comparison_methods": [],
+    "time_mentions": [],
+    "star_groups_mentioned": [],
+    "knowledge_domain": null,
+    "stars_mentioned": [
+      "武曲"
+    ],
+    "palaces_mentioned": [
+      "命宫",
+      "身宫",
+      "夫妻宫"
+    ],
+    "sihua_mentioned": [
+      {
+        "star": null,
+        "transformation": "化忌",
+        "tiangan": null,
+        "palace": null,
+        "source_palace": null,
+        "target_palace": null,
+        "scope_id": "c11_health"
+      }
+    ],
+    "patterns_mentioned": [],
+    "star_pairs_mentioned": [],
+    "school_variant": null,
+    "time_context": null,
+    "star_interactions_mentioned": []
+  },
+  "liuyao": null,
+  "tarot": null,
+  "western": null,
+  "associated_image_chunk_ids": [],
+  "vocab_version": "2.1.0",
+  "school_vocab_version": "2.1.0",
+  "annotation_version": "dots-all-sources-2026-10-13-v4",
+  "annotation_metadata": null
+}

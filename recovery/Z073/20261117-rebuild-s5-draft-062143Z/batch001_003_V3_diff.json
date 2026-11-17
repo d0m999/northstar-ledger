@@ -1,0 +1,25 @@
+[
+  {
+    "file": "c001.json",
+    "before_sha256": "0fd122d5d12629839888f883146607e4fd0465a45ac6472898a1162d543284d8",
+    "after_sha256": "ae18518d906432b7a0475bdce10a366a10482750503794da53ade666fa38bdab",
+    "changed_top_fields": [
+      "keywords_en"
+    ]
+  },
+  {
+    "file": "c002.json",
+    "before_sha256": "68c4fe70dee9952507987fce2fa7b069b80d662046684a03031b054b7010240d",
+    "after_sha256": "2431efc9e2998f2e53b2360eea01d7e7f543de13f153603e5378faae43f169b9",
+    "changed_top_fields": [
+      "summary_en",
+      "keywords_en"
+    ]
+  },
+  {
+    "file": "c003.json",
+    "before_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+    "after_sha256": "f55d779654307026a3af7d63ef21dfa382363afff92dccd7af36e24b63d8df12",
+    "changed_top_fields": []
+  }
+]
