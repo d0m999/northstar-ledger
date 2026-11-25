@@ -1,0 +1,35 @@
+{
+  "scope": "Z031, full available pinned source reconstruction, not a final package",
+  "as_of_utc": "2026-11-25T11:48:00Z",
+  "release_state": "not_released",
+  "stage_state": "S0 admission in review; S1 drafts only",
+  "fixed_input": {
+    "sha256": "1ee161c0d21b2c1b899f0751364b94f7bdfaee970cb991a431ba1ffb47120817",
+    "units": 135,
+    "unicode_codepoints": 98336,
+    "projection_sha256": "5a6ce227213bd79c4f2e7226d694abf84f6cbdb724b96a7b9e1f90c4dbbcd5d5",
+    "page_basis": "inherited labels, not verified against print",
+    "physical_source_images_available": 0
+  },
+  "historical": {
+    "previous_formal_rows": 396,
+    "previous_05_sha256": "6b3209e987f3674f578959ff2b1f940cc39147a261b2d9f0dcf9360aebdf0ef9",
+    "previous_formal_bytes_recovered": false,
+    "prior_excerpt_is_not_full": true
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "pydantic": "2.12.5",
+    "pyyaml": "6.0.2",
+    "synthetic_tests_passed": 74,
+    "verified_runtime_manifest_sha256": "0b5b0594cff65d3d2047994c23b65e4c9c1f0993c50052cf15ba0e91e45a0dbb",
+    "structural_check": "CURRENT_REQUIRED_CLOSURE_PASS",
+    "semantic_approval": false
+  },
+  "candidate_metadata": {
+    "s0_review_candidate_sha256": "feadc012e3f708941f4cd630c3e4c2fb1af4812a4d738e61b43aa632b0ddcb12",
+    "cleaning_draft_units": 18,
+    "unverified_adjacent_pairs": 134
+  },
+  "backup_scope": "Recovery metadata only. No source text, annotations, output files, case details, internal references, credentials, or binary packages included."
+}
