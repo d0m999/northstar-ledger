@@ -1,0 +1,15 @@
+{
+  "source_id": "Z031",
+  "phase": "cleaning independently passed; chunking under review, not final",
+  "cleaned_sha256": "78eb85bc6d320f4dcc15d98ef09f046bccfc0fe4cd7d42f19433147bc9786155",
+  "cleaning_review_sha256": "6ac36bcaef3c93b4ccc4e39dbfe6fe674b17709f6e76a58e9bf0fe4a82485dc9",
+  "retained_input_units": 135,
+  "retained_codepoints_after_layout_cleaning": 96631,
+  "source_body_filtered_units": 0,
+  "layout_operations": 1705,
+  "paragraph_breaks_restored_after_review": 6,
+  "human_review": false,
+  "print_pagination_verified": false,
+  "release": false,
+  "backup_scope": "Recovery metadata only; no source text, annotation, internal references or deliverable."
+}
