@@ -1,0 +1,20 @@
+{
+  "source_id": "Z031",
+  "status": "independently reviewed chunking, annotation in progress, not final",
+  "frozen_04_sha256": "72a460cb6ed0ac2b9712b7f935d4cb728f079258e048ca5a5ee9a3524dd09d14",
+  "chunk_review_receipt_sha256": "ae5215ce6c58bb56482684fa94c419192a6cc3dbed017014a04c0fd34ec85d9d",
+  "input_units": 135,
+  "chunk_count": 160,
+  "unmapped_source_codepoints": 0,
+  "confirmed_adjacent_pairs": 21,
+  "unjoined_uncertain_pairs": 82,
+  "detected_section_starts": 31,
+  "maximum_estimated_tokens": 849,
+  "short_entry_exceptions": 1,
+  "annotation_working_rows": 50,
+  "partially_reviewed_annotations_before_next_review": 15,
+  "final_annotation_review": false,
+  "print_pagination_verified": false,
+  "release": false,
+  "backup_scope": "Recovery metadata only; no corpus text, case or annotation content."
+}
