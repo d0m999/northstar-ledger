@@ -1,0 +1,16 @@
+{
+  "source_id": "Z031",
+  "working_status": "all annotations drafted; independent semantic review remains open",
+  "frozen_chunk_sha256": "72a460cb6ed0ac2b9712b7f935d4cb728f079258e048ca5a5ee9a3524dd09d14",
+  "candidate_private_draft_sha256": "337a5c95d7807703aacaf00d95d6c481baba2fca9cd3ba817eb0957d5e148396",
+  "candidate_private_manifest_sha256": "db95f757502d5c26798bbe66bd0f3e81481f5cae99e404560ae45e8523fe13bd",
+  "fixed_text_units": 135,
+  "producer_annotation_rows": 160,
+  "strict_runtime_validated": 160,
+  "independent_no_blocker_rows": 33,
+  "whole_scope_semantic_approval": false,
+  "human_review": false,
+  "final_package": false,
+  "release": false,
+  "backup_scope": "Recovery metadata only; no corpus text, annotations, cases, or private links."
+}
