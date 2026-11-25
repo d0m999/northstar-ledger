@@ -1,0 +1,29 @@
+{
+  "source_id": "Z001",
+  "state": "reviewed_and_delivered",
+  "scope": "All 13 paragraphs of the surviving fixed TXT. Printed source pages unknown; paragraph identifiers are not page numbers.",
+  "source_projection": {
+    "bytes": 12526,
+    "unicode_codepoints": 4520,
+    "exact_source_coverage": true
+  },
+  "rule_stages": "S0-S7 with source-scoped paragraph location exception; historical text comparison partial",
+  "independent_AI_reviewed_paragraphs": 13,
+  "human_review": false,
+  "comparative_legacy_rows": {
+    "matched": 44,
+    "partial": 30,
+    "unmatched": 1
+  },
+  "package": {
+    "bytes": 95258,
+    "sha256": "fa19be070d7a5846879701c4836b58bd8b881eb4054c4bf5346ae570bca84484"
+  },
+  "annotation_sha256": "3a7f1be992654d26bdb6f3138052317744c4f38d08020081eb26c63bea2f2df7",
+  "delivery": {
+    "quark_verified_utc": "2026-11-25T20:44Z",
+    "unique_exact_name_and_display_size_verified": true,
+    "remote_hash_not_verified": true
+  },
+  "backup_scope": "Technical metadata only; no corpus text, annotations, case content, credentials, or private links."
+}
