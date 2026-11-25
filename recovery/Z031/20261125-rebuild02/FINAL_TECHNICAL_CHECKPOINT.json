@@ -1,0 +1,31 @@
+{
+  "source_id": "Z031",
+  "state": "final_rebuild_reviewed_and_delivered",
+  "rule_stages": "S0-S7 passed",
+  "recoverable_fixed_text_units": 135,
+  "fixed_text_units_covered": 135,
+  "annotated_chunks": 160,
+  "strict_runtime_validated_chunks": 160,
+  "independent_ai_semantic_review_passed": true,
+  "human_review": false,
+  "unresolved_substantive_blockers": 0,
+  "retrieval": {
+    "eligible": 72,
+    "limited": 68,
+    "archive_only": 20
+  },
+  "scope_limit": "Covers all fixed text units available to the rebuild; the historical 396-row derivative was not recovered and print-edition completeness was not independently verified.",
+  "sha256": {
+    "frozen_chunks": "72a460cb6ed0ac2b9712b7f935d4cb728f079258e048ca5a5ee9a3524dd09d14",
+    "final_annotations": "d96b3a1f7c05cf414be620fbc256eb08a774ab86b80b06bcdc59fa3c55ab9d2f",
+    "coverage_mapping": "ef1367cc377f0d53f38b0a227db8b97d9c7467ce5bbe725bf45d091c3772d696",
+    "final_package": "2df4beefd324b0d5ce9791bc148044922df593df4605018f28851aaa830f942d"
+  },
+  "final_package_bytes": 520454,
+  "delivery": {
+    "chat_attachment_submission": "accepted",
+    "quark": "uploaded; unique exact name and rounded size verified without remote readback",
+    "quark_verified_utc": "2026-11-25T15:45Z"
+  },
+  "backup_scope": "Recovery metadata only; no corpus text, annotations, cases, credentials, or private links."
+}
